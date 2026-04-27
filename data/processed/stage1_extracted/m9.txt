@@ -1,0 +1,681 @@
+Avrupa Bilim ve Teknoloji Dergisi 
+Sayı 19, S. 282-289, Ağustos 2020 
+© Telif hakkı EJOSAT’a aittir 
+Araştırma Makalesi 
+ 
+ 
+ 
+ 
+www.ejosat.com ISSN:2148-2683 
+ 
+European Journal of Science and Technology 
+No. 19, pp. 282-289, August 2020 
+Copyright © 2020 EJOSAT 
+Research Article 
+ 
+ 
+http://dergipark.gov.tr/ejosat  
+ 
+282 
+Yapay Sinir Ağları ve Üstel Düzleştirme Yöntemi ile Türkiye’deki 
+CO2 Emisyonunun Zaman Serisi ile Tahmini 
+Erkan Özhan1* 
+1 Tekidağ Namık Kemal Üniversitesi, Çorlu Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, Tekirdağ, Türkiye (ORCID: 0000-0002-3971-2676) 
+ 
+ 
+(İlk Geliş Tarihi 18 Mart 2020 ve Kabul Tarihi 26 Mayıs 2020) 
+(DOI: 10.31590/ejosat.705666) 
+ATIF/REFERENCE: Özhan, E. (2020). Yapay Sinir Ağları ve Üstel Düzleştirme Yöntemi ile Türkiye’deki CO2 Emisyonunun 
+Zaman Serisi ile Tahmini. Avrupa Bilim ve Teknoloji Dergisi, (19), 282-289. 
+Öz 
+Sera gazlarının atmosferdeki miktarı gün geçtikçe artmaktadır. Bu artışın başta küresel ısınma olmak üzere neden olduğu çok sayıda 
+olumsuz etki ortaya çıkmaktadır. Geleceğe dönük sera gazı emisyonunun tahminlenmesi özellikle karar alıcılar ve CO2 salınımında 
+payı olan sektörler açısından bakıldığında bu salınımın azaltılması ve alternatif kaynakların aranması için cesaret verici olabilir.  
+Zaman serileri zaman düzleminde düzenli olarak belirli aralıklarla elde edilmiş verilerin literatürdeki adıdır ve bu serilerin analizinin 
+nasılını inceleyen süreçlere ise zaman serisi analizi denir.  Araştırmada Türkiye’ye ait sera gazı emisyonu (CO2 eşdeğeri) değerlerini 
+içeren Dünya Bankası veri tabanındaki 55 yıllık verileri içeren veri seti kullanımıştır. Bu veri seti içerisinden yapay sinir ağları ve 
+üstel düzleştirme yöntemleri ile faydalı örüntüler elde edilmesi amaçlanmıştır. Analizler için zaman serisi formatına dönüştürülen veri 
+seti daha sonra eğitim ve test verisi olarak iki bölüme ayrılmıştır. Zaman serisi tipindeki eğitim verileri üstel düzleştirme yöntemini 
+temel alan Holt’un lineer trend modeli ve yapay zekanın alt dallarından biri olan yapay sinir ağları (YSA) ile analizi edilmiştir. Bu 
+analizler sonucunda ortaya çıkan modellere göre eğitim ve test verileri üzerinden tahmin modelleri elde edilmiştir. YSA’nın ve 
+Holt’un lineer trend yönteminin test verileri için ortaya koyduğu tahminler ile modelleri değerlendirmek için RMSE, MAPE gibi 
+değerlendirme metrikleri elde edilmiştir. Bu değerlere göre iki model karşılaştırılmış ve en az hata oranına sahip modelin YSA olduğu 
+tespit edilmiştir. Çalışmada elde edilen bulgulara göre YSA 0.1607’lik RMSE değeri ile, Holt’un liner trend yöntemine göre çok daha 
+az hata oranına sahiptir. YSA’nın daha doğru tahminler yapacağı bulgusu elde edildikten sonra bu yöntemin önerdiği model 
+kullanılarak 2021 yılına kadar tahminler gerçekleştirilmiştir. Model Türkiye için 2021 yılı sera gazı eşdeğeri CO2 emisyonunu 
+366,3972 milyon ton olarak tahminlemiştir. Araştırmada görülen bir diğer sonuç ise CO2 emisyonunun dalgalı bir seyir izlediği ancak 
+genel olarak yükselme eğiliminde olduğudur. 
+ 
+Anahtar Kelimeler: Zaman serisi, yapay sinir ağları, üstel düzleştirme, Türkiye, CO2. 
+Estimation Of CO2 Equivalent Greenhouse Gas Emissions In Turkey 
+By Artificial Neural Networks And Exponential Smoothing Method 
+ 
+Abstract 
+The amount of greenhouse gases in the atmosphere is increasing day by day. This increase is caused primarily by global warming, 
+resulting in numerous negative effects. Predicting future greenhouse gas emissions can be encouraging, especially in terms of decision 
+makers and sectors with a share in CO2 emissions, to reduce this emission and to seek alternative sources. Time series is the name in 
+the literature of the data obtained regularly at regular intervals on the time plane, and the processes that examine how these series are 
+analyzed are called time series analysis. The study used a data set containing 55 years of data from the World Bank database 
+containing the greenhouse gas emissions (CO2 equivalent) values of Turkey. It is aimed to obtain useful patterns from this data set 
+with artificial neural networks and exponential smoothing methods. The data set, which was converted to time series format for 
+analysis, was then divided into two parts as training and test data. The training data in the time series type was analyzed using Holt's 
+linear trend model, which is based on the exponential smoothing method, and artificial neural networks (NSA), which is one of the 
+                                                          
+* Sorumlu Yazar: Tekirdağ Namık Kemal Üniversitesi, Çorlu Mühendislik Fakültesi, Bilgisayar Müh. Bölümü, Tekirdağ, Türkiye, ORCID: 0000-
+0002-3971-2676, erkanozhan@gmail.com  
+European Journal of Science and Technology 
+ 
+e-ISSN: 2148-2683 
+ 
+283 
+sub-branches of artificial intelligence. As a result of these analyses, prediction models were obtained based on training and test data. 
+Assessment metrics such as RMSE, MAPE were obtained to evaluate the models with the predictions of ANN and Holt's linear trend 
+method. According to these values, two models were compared and it was determined that the model with the least error rate was 
+ANN. According to the findings obtained in the study, YSA has RMSE value of 0.1607 and it has a much lower error rate compared 
+to Holt's linear trend method. After finding that the YSA would make more accurate predictions, estimates were obtained by 2021 
+using the model proposed by this method. The Model estimated Turkey's greenhouse gas equivalent to CO2 emissions in 2021 at 
+366,3972 million tons. Another result seen in the research is that CO2 emissions follow a fluctuating course but tend to increase in 
+general. 
+ 
+Keywords: Time series, artificial neural networks, greenhouse, data mining, CO2. 
+1. Giriş 
+Tarihin başlangıcından beri, insanlar Dünya’yı kendi çıkarları için kullanma yeteneğine sahiptirler ve günümüzde nüfustaki hızlı 
+artış, işletmelerin artan yoğunluğu Dünya’yı küresel ölçekte değiştirmektedir (Keeling, 1997). Atmosfer tüm canlıların paylaştığı 
+temel gazları ihtiva eder. Bu gazları çok sayıda canlı değişik amaçlar için kullanmaktadır. Karbondioksit bu gazlardan biridir ve 
+Cambridge sözlükte “yanma veya insan, hayvan solunumu ile oluşan bir sera gazı” olarak tanımlanmıştır (Cambridge, 2020). EPA 
+(Environmental Protection Agency)’ya göre CO2, atmosferde doğal olarak bulunan, fosil yakıtların ve biyokütlenin yanmasının yanı 
+sıra arazi kullanımındaki değişiklikler ve diğer endüstriyel süreçlerin bir yan ürünü olarakta ortaya çıkan, dünyanın radyasyon 
+dengesini etkileyen başlıca insan kaynaklı sera gazıdır (U.S. Environmental Protection Agency, 2019).  
+Karbondioksit, insan faaliyetleri sonucu ortaya çıkan, üretilen en bol maddedir ve sera etkisinin artmasından kaynaklanan riskli 
+durumları önlemek için atmosferde daha fazla birikiminden kaçınılmalıdır (Sun, 2004). Bu çalışmanın anlaşılırlığını artırmak için 
+iklim kavramını da tanımlamak faydalı olabilir. Atmosferik karakteristiklerin olasılıksal dağılımı “climate-iklim” olarak 
+tanımlanabilir (Nordhaus, 1977). CO2 ile sıklıkta bir arada kullanılan bir diğer terim ise “Greenhouse-sera” kelimesidir. Bu terim ilk 
+olarak evlerin izolasyonunda cam kullanılması sonucu ortaya çıkmıştır ve “glasshouse” olarak ta bilinmekle birlikte, zamanla camın 
+yerini plastiğin almasıyla yaygın olarak “greenhouse-sera” terimi kullanılmaktadır (Zhang, 2003). Dünya'daki karbonu etkileyen ve 
+dolayısıyla atmosferik karbondioksit konsantrasyonunu kontrol eden tüm süreçlerin toplamına ise "karbon döngüsü" adı verilir 
+(Keeling, 1997). Emisyon, bir maddenin (genellikle iklim değişikliği konusuna atıfta bulunurken bir gaz) atmosfere salınması olarak 
+tanımlanır (U.S. Environmental Protection Agency, 2019). Emisyon faktörü, genellikle kirleticinin ağırlığının, birim ağırlığın, hacmin, 
+mesafenin veya kirleticiyi yayan aktivitenin süresine bölünmesiyle ifade edilir (Cheremisinoff, 2011).  Emisyon genellikle (metrik) 
+ton yıl-1 olarak ifade edilir.  
+Küresel çevre sorunları, özellikle atmosferde giderek artan karbondioksit birikiminin neden olduğu küresel ısınma, günümüzde 
+insanlar için olduğu kadar küresel sürdürülebilirlik için de önemli bir sorun haline gelmiştir (Park, Chang, & Lee, 2004). Mevcut 
+atmosferik CO2 artışına CO2 emisyonları neden olmaktadır ve bu emisyonların yaklaşık dörtte üçü fosil yakıt yanmasından 
+kaynaklanmaktadır (Lead et al., 2018). Konsantrasyon ise belirli bir hacim veya ağırlıktaki hava, su, toprak veya diğer ortamdaki 
+kimyasal madde miktarı olarak tanımlanmaktadır (U.S. Environmental Protection Agency, 2019). Atmosferdeki CO2 miktarını neyin 
+kontrol ettiğini ve dolayısıyla sera etkisi üzerindeki etkisini anlamak için, atmosferdeki konsantrasyonunu etkileyen ve bundan 
+etkilenen tüm süreçler ele alınmalıdır (Keeling, 1997). Küresel çevre sorunları, özellikle atmosferde giderek artan karbondioksit 
+birikiminin neden olduğu küresel ısınma, günümüzde insanlar için olduğu kadar küresel sürdürülebilirlik için de önemli bir sorun 
+haline gelmiştir (Park et al., 2004). Geniş ölçekte, atmosferik CO2 konsantrasyonu iklim değişikliğiyle açıkça bağlantılıdır (Bender, 
+Sowers, & Brook, 1997). Küresel ortalama sıcaklıklardaki ve mevsimsel döngüdeki değişiklikler, atmosferik CO2 konsantrasyonuna 
+güçlü bir şekilde bağlıdır (Thomson, 1997).  
+Yapay zeka (Artificial Inteligence-AI), insanın öğrenme, akıl yürütme, problem çözme, deneyim kazanma gibi yeteneklerini 
+makinelere aktarmanın nasılını inceleyen ve kendi içerisinde alt dallara ayrılmış popüler bir disiplindir.  AI, özellikle tahminler 
+yapmak ve veri setlerine dayalı önerilerde bulunmak, büyük miktarda veriyi yönetmek için çözüm olarak ortaya çıkan güçlü bir araçtır 
+(Kibria et al., 2018). Araştırmada kullanılan yapay sinir ağları (YSA, Artificial Neural Network-ANN) yapay zekanın bir alt dalıdır. 
+YSA insan beyninin sinir sistemi yapısından ve çalışma ilkelerinden esinlenerek geliştirilmiş matematiksel modellerle sınflandırma, 
+kümeleme vb. problemlerin çözümünü amaçlamaktadır. Biyolojik bir nöron çekirdek, akson ve nöronlardan oluşurken, bunu taklit 
+eden yapay bir nöron nöron gövdesinden ve diğer nöronlarla bağlantılardan oluşur (Livshin, 2019). İlk çalışmalar beyni oluşturan 
+nörolojik hücrelerin (nöron) matematiksel olarak modellenmesi üzerine yoğunlaşmıştır (Efe & Kaynak, 2000). 1949 yılında biyolojik 
+olarak mümkün olan öğrenme işlevinin bilgisayarlar aracılığı ile yapılabilecek şekilde geliştirilmesi ile başlayan süreç 1956 yılında en 
+küçük kareler yöntemini kullanan ADALINE (Adaptif Linear Element) ve Widrow öğrenme algoritmalarının ortaya çıkması ile yeni 
+bir boyut kazanmıştır (Öztemel, 2012). Bu algoritmalar daha sonra geliştirilecek olan YSA algoritmalarına temel oluşturmuştur. Bir 
+YSA girdiler, ağırlıklar, ara katman-lar ve çıktılardan oluşur. ADALINE, ağın çıktı değerinin beklenen çıktıya en yakın değeri verecek 
+şekilde ağırlıklarının ayarlanmasını hedeflemektedir. ADALINE yapı olarak tek katmana sahip olduğundan özellikle XOR problemi 
+gibi karmaşık problemleri çözmede başarısız olmuştur. Bu durum YSA için bir duraklama dönemine neden olsada MADALINE (Çok 
+katmanlı ADALINE) ağlarının geliştirilmesi ve doğrusal olmayan ilişkiler içeren XOR problemini başarı ile çözmesi üzerine tekrar 
+dikkatleri üzerine çekmeyi başarmıştır. Bir YSA ağı, en düşük hata ile çıktıyı elde etmeyi sağlamak üzere iterasyon adı verilen ve 
+ağırlıkları sürekli değiştirerek en ideal ağırlık konfigürasyonunu elde etmeyi amaçlayan bir dizi süreci gerçekleştirir. Günümüzde bu 
+süreçler hesaplama yapma kapasitesi ve hızı nedeniyle bilgisayarlar tarafından otomatik olarak yapılmaktadır. 
+Zaman serileri, büyük ölçüde zamana göre sıralı değerler dizisinden oluşan karmaşık bir veri türüdür ve tıp, astronomi, 
+sismografi, ekonomi, klimatoloji vb. gibi geniş bir alanda kullanılmaktadır (Molina, Perez, & Valente, 2016). Zaman serisi, belirli bir 
+dinamik fenomenin özünde olan zaman ait birçok değişkeni içerir ve bu nedenle zaman serileri ekonomik, teknolojik, çevresel ve 
+Avrupa Bilim ve Teknoloji Dergisi 
+ 
+e-ISSN: 2148-2683 
+ 
+284 
+sosyal temel özellikleri yansıtabilir (de Mattos Neto, Cavalcanti, Firmino, Silva, & Vila Nova Filho, 2020). Zaman serilerinin verileri 
+ekonomik, siyasi, sosyal veya daha başka etkenlerin karşılıklı etkileşimi sonucu oluşabilir (Genceli, 2012). Zaman serisi örüntüleri 
+(pattern) ve kuralları araştırma nesnesi olarak zaman serisi verilerini alır (Yao et al., 2020). Zaman serisi analizi zaman düzleminde 
+elde edilmiş veriler üzerinde yapılan her türlü çıkarımsal analizi ifade eder. Zaman serisi analizi ile zamana göre kayıt altına alınmış 
+bir dizi veri içerisindeki trend(eğilim)’ler tespit edilerek geleceğe dönük sayısal tahminler öngörülebilir. Bunun yanında zaman serisi 
+analizi sonucunda veri dizisi içerisindeki sezona bağlı değişimler olup olmadığı da tespit edilebilir. Sayısal olarak geleceğe dönük 
+öngörüler elde edilmesi özellikle karar alıcılar ve planlayıcılar için hayati öneme sahip olabilir. Tahminleme bilinen sonuçlardan 
+model geliştirilerek bilinmeyen sonuçları elde etmeye çalışan süreç ve yöntemlerdir (Aydemir, 2019). Proaktif önlemler almak 
+amacıyla bu değişimin istenilen ölçüde kalması veya artırılması için ek faaliyetler planlanabilir.  
+Karbondioksit emisyonunu etkileyen veya bundan etkilenen, diğer faktörler arasındaki ilişkiyi ortaya çıkarmaya yönelik çok 
+sayıda çalışma yapılmıştır. Araştırmacılar (Çoban & Şahbaz, 2015), enerji kaynaklı kişi başına karbon emisyonu ile yenilenebilir 
+enerji tüketimi arasında tek yönlü nedensel bir bağlantı olduğunu tespit etmişlerdir. Dertli ve Yinaç (Dertli & Yinaç, 2018), yaptıkları 
+çalışmada yenilenebilir enerji, tüketimi, ekonomik büyüme, enerji ithalatı ve karbondioksit emisyonu arasında bütünleşik ilişki 
+olduğunu tespit etmişlerdir. Mercan, yaptığı çalışmada TÜİK tarafından yayınlanan 1990-2013 dönemine ait sera gazı miktarlarını 
+kullanarak parabolik, kübik ve üstel olarak tahminler yapmış ve 2030 yılına kadar bulgularını paylaşmıştır. Bir diğer çalışmada (Baki, 
+2017)  gelirle karbondioksit emisyonu arasında ters orantılı bir ilişki olduğu belirtilmiştir.  
+Bu sorunun çözümü için sunulan öneriler arasında kimyasallar üretmek için hammadde olarak CO2 kullanımı da vardır. Bu 
+çözümün en azından kısa-orta vadeli bir senaryoda, sera gazı emisyonlarının azaltılması üzerinde büyük bir etkisi olmayacaktır, ancak 
+karbon yönetiminin ayrılmaz bir parçasıdır (Park et al., 2004).  
+CO2 emisyonu ve iklim değişikliği üzerine yapılan değerli çalışmalarda gösteriyorki CO2 emisyonu önemli bir faktördür ve neden 
+olduğu-olabileceği sorunlar üzerinde gelecek yıllardaki seviyelerini YSA ve zaman serisi analizi ile tahminlemek CO2 emisyonunun 
+kontrol edilmesinde ve gelecekteki etkilerini görmekte anlamlı faydalar sağlayabilir. Bu çalışma 1960-2014 yılı içerisindeki CO2 
+salınımlarını YSA ve zaman serisi yöntemleri ile analiz ederek hem geleceğe dönük tahminler yapmayı amaçlamaktadır. Çalışmada 
+Türkiye’nin 2021 yılına kadar olan 7 yıllık CO2 emisyonu tahmin edilmeye çalışılmıştır.  
+2. Materyal ve Metot 
+Çalışmada kullanılan veriler Dünya Bankası web sayfasından (World Bank Group, 2020) alınmıştır. Verilerin zaman serisi ile 
+analizinde ise R yazılımı kullanılmıştır. R, istatistiksel hesaplama ve grafik için bir dil ve ortamdır, John Chambers ve meslektaşları 
+tarafından Bell Laboratories'de (eski adıyla AT&T, şimdi Lucent Technologies) geliştirilen S dili ve ortamına benzeyen bir GNU 
+projesidir (The R Foundation, 2020). Bu yazılım içerisinde çok sayıda paket adı verilen araç bulunmaktadır. Bu paketlerden  
+“forecast, tseries, fpp2” paketlerindeki “holt, nnetar” fonksiyonları ile tahminler gerçekleştirilmiştir. Veri düzenleme diğer 
+görselleştirme ile analizler için ise R içerisindeki tidyverse, ggplot2, readxl vb. paketlerden faydalanılmıştır. Çalışmada (Holt, 
+20042)’un doğrusal eğilim (üstel düzelmleştirme) ve yapay sinir ağları olmak üzere iki farklı zaman serisi analizi yaklaşımı 
+kullanılmıştır. 
+2.1. Veri Setinin Hazırlanması 
+Çalışmada kullanılan veriler Dünya Bankasının 09-04-2020 tarihinde güncellediği  “World Development Indicators (WDI)” 
+başlıklı veri tabanınından(World Bank Group, 2020) alınmıştır. Dünya Bankası’nın sağladığı meta veri belgesi (World Bank Group, 
+2020)’ne göre Karbondioksit (CO2), küresel ısınmaya ve iklim değişikliğine katkıda bulunan sera gazlarının en büyük payını 
+oluşturmaktadır ve  diğer tüm sera gazlarını (metan (CH4), azot oksit (N2O), hidroflorokarbonlar (HFC'ler), perflorokarbonlar 
+(PFC'ler), sülfür heksaflorür (SF6)) karbon dioksit (veya CO2) eşdeğerlerine dönüştürmek bunları karşılaştırmayı ve belirlemeyi 
+mümkün kılar. Bu nedenle çalışmada kullanılan veriler CO2 eşdeğeri emisyon değerleridir. Dünya bankası verileri kiloton(kt) olarak 
+ölçmüş ancak bu birim sayısal basamak sayısını çok artırdığından ve grafik üzerinde gösterimi zorlaştırdığından 1000’e bölünerek Mt 
+(Milyon ton)’a dönüştürülmüştür. Türkiye’nin 1960-2014 yılalrı arasındaki CO2 eşdeğeri sera gazı emisyonu ölçümleri Tablo 1.’de 
+gösterilmiştir. 
+                Tablo 1. Türkiye’nin 1960-2014 arası toplam sera gazı emisyonları (CO2 eşdeğeri-mt) Kaynak: (World Bank Group, 2020) 
+Yıl 
+CO2 
+Yıl 
+CO2 
+Yıl 
+CO2 
+Yıl 
+CO2 
+1960 
+16820.529 
+1974 
+61136.224 
+1988 
+126309.815 
+2002 
+205685.697 
+1961 
+17363.245 
+1975 
+65697.972 
+1989 
+139316.664 
+2003 
+218523.864 
+1962 
+21631.633 
+1976 
+73721.368 
+1990 
+145858.592 
+2004 
+225421.491 
+1963 
+22669.394 
+1977 
+81572.415 
+1991 
+148619.843 
+2005 
+237390.579 
+1964 
+26336.394 
+1978 
+77256.356 
+1992 
+153108.251 
+2006 
+261614.781 
+1965 
+27388.823 
+1979 
+75576.870 
+1993 
+159136.799 
+2007 
+284658.209 
+1966 
+31547.201 
+1980 
+75763.887 
+1994 
+156848.591 
+2008 
+283979.814 
+                                                          
+2 1957 yayınının tekrar basımıdır. 
+European Journal of Science and Technology 
+ 
+e-ISSN: 2148-2683 
+ 
+285 
+1967 
+33523.714 
+1981 
+79874.594 
+1995 
+171974.966 
+2009 
+277844.923 
+1968 
+36314.301 
+1982 
+86988.574 
+1996 
+188205.108 
+2010 
+298002.422 
+1969 
+38807.861 
+1983 
+90541.897 
+1997 
+198535.047 
+2011 
+320840.498 
+1970 
+42639.876 
+1984 
+95796.708 
+1998 
+200614.236 
+2012 
+329560.624 
+1971 
+47733.339 
+1985 
+106717.034 
+1999 
+196771.220 
+2013 
+324771.522 
+1972 
+53857.229 
+1986 
+116881.958 
+2000 
+216151.315 
+2014 
+345981.450 
+1973 
+59486.074 
+1987 
+129907.142 
+2001 
+194552.685 
+ 
+ 
+Veri seti, Türkiye’nin 1960 ile 2014 yılları arasındaki sera gazı emisyonlarının CO2 eşdeğerinden oluşmaktadır. Web sitesinden 
+anlaşıldığına göre bu veriler 09-04-2020 yılında güncellenmiş verilerdir. 2014 yılından sonra CO2 emisyonu değerinin bulunmaması 
+dikkat çekicidir ancak bu durum ile ilgili web sitesinde herhangi bir bilgiye rastlanmamıştır. 
+2.2 Üstel Düzleştirme ile Zaman Serisi Analizi 
+Zaman serisi analizi bir değişkenin önceki durumlarına göre gelecekteki durumunu tahmin etmekle ilgilenen makine öğrenmesi 
+ve istatistik biliminin alanıdır (Rhys, 2020). Bunun yanında zaman düzleminde görselleştirme ve veriler arasındaki korelasyonların 
+tespiti gibi verileri anlamamıza ve geleceğe dönük tahminler yapmamıza katkı sağlamaktadır. Çalışmada kullanılan verilerin zaman 
+serisi analizinde R yazılımı kullanılmıştır. Veriler MS Excel dosyası halinde elde edilmiş R yazılımı ile data.frame yapısına 
+dönüştürülmüştür. Ardından gerekli bu data.frame R kodları yazılarak zaman serisi(ts) tipine çevrilmiştir.  
+Elde edilen zaman serisi verisi eğitim ve test olmak üzere iki parçaya bölünmüştür. Eğitim veri setinde 1960 yılı ile 2004 yılı 
+arasındaki sera gazı emisyonları,  test veri setinde ise 2005-2014 yılları arasındaki sera gazı emisyonları bulunmaktadır. Veriler kilo 
+ton (kt) birimindedir. Ancak bu birim sayısal basamak olarak çok uzun emisyon değerlerinde olduğundan, tüm emisyon değerleri 
+1000’e bölünerek 3 basamak kısaltılmıştır. Öncelikle veri setinin zaman serisi olarak grafiği elde edilmiştir.  
+Bir düzleştirilmiş zaman serisi üretmek için en popüler parametrik tahmin tekniğinden biri, üstel düzleştirmedir. Üstel 
+düzleştirme eski gözlemlerin tahmindeki ağırlıklarını aşamalı azaltarak, son gözelmlere daha fazla ağırlık verilmesini temel alır (M, 
+Pandit, & Bakshi, 2019). (Holt, 2004), mevsimsel ve trend tahminleriyle başa çıkmada üstel ağırlıklı hareketli ortalamaların büyük 
+esnekliğe sahip olduğunu belirttiği çalışmada bunu hem teorik hemde ampirik çalışmalarla kanıtlamıştır. Holt, denklem 1.1’de  
+gösterildiği gibi verilerin bir trendle tahmin edilmesini sağlamak için basit üstel yumuşatmayı bir tahmin denklemi ve iki düzeltme 
+denklemi içerecek şekilde genişletmiştir (Deppa, 2018). Bu denklemler denklem 1.1 de görülebilir. 
+ 
+1
+1
+*
+*
+1
+1
+Tahmin denklemi
+Seviye denklemi
+Trend denklemi
+ˆ
+(1
+)(
+)
+(
+)
+(1
+)
+t
+t
+t h t
+t
+t
+t
+t
+t
+t
+t
+t
+y
+hb
+y
+b
+b
+b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+(1.1) 
+Burada 
+t , t  zamanındaki serinin seviyesini, 
+tb , t  zamanındaki serinin eğilimini,  ise serinin seviyesi için,  ise trend için 
+düzleştirme parametresini göstermektedir. Üstel düzleştirme modelleri basit, doğru ve sağlam tahmin modelleri olarak literatürde 
+yaygın bir şekilde kullanılmakla birlikte Holt’un doğrusal eğilim yöntemi trend verileri ile başa çıkmaya yardımcı olan üstel 
+düzleştirme araçlarının değerli bir türüdür (Yapar, Capar, Selamlar, & Yavuz, 2018). R içerisinde bulunan “fpp” paketindeki “holt” 
+fonksiyonu ile zaman serisi üstel düzleştirmeye tabi tutulmuştur. Elde edilen bulgular araştırma sonuçları bölümünde sunulmuştur. 
+2.3 Yapay Sinir Ağları ile Zaman Serisi Analizi 
+YSA (ANN), doğrusal olmayan problemlerin çözümü için kullanılan çok katmanlı algılayıcı (Multi Layer Perceptron) geleneksel 
+olarak Şekil 1.’de görüldüğü gibi üç katmandan oluşur. İlk katman girdi katmanı, ikinci katman ara katman olarak adlandırılır ve son 
+katman ise çıktı katmanıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şekil 1. Yapay sinir ağının yağısı 
+Girdiler bağımsız değişkenler-öznitelikler-değişkenler olarak isimlendirilebilmektedir. Düğümler insan beyninin biyolojik sinir 
+hücreleri olarak düşünülebilir. Ağırlıklar ise başka bir sinir hücresinden veya dünyadan gelen sinyalleri ileten sinapslar olarak 
+. . . . . 
+. . . . . 
+X
+X
+X
+Girdi Katmanı 
+. . . . . 
+Ara Katman 
+(Gizli Katman) 
+Çıktı Katmanı 
+W-ağırlıklar 
+W-ağırlıklar 
+O
+O
+O
+. . . . . 
+Output-çıktılar 
+Input 
+Girdiler 
+Düğümler 
+Avrupa Bilim ve Teknoloji Dergisi 
+ 
+e-ISSN: 2148-2683 
+ 
+286 
+düşünülebilir ve düğümleri birbirine bağlar. Ancak her sinapsın iletiği mesajların ağırlığı aynı değildir. Esasen problemin çözümü için 
+çok önemli olan ve deneme yanılma yoluyla bulunması gereken en önemli bileşenlerden biri sinir ağının herbir ağırlığının çıktıyı en 
+az hatayla verebilecek şekilde bulunmasıdır. Deneme yanılma yoluyla bilgisayarlar YSA içerisindeki tüm ağırlıkları iterasyon adı 
+verilen ve sistematik olarka sürekli değiştirmeyi içeren bir süreç yoluyla ararlar.  
+Başlangıç ağırlık değerleri rastgele seçilmesine rağmen daha sonra ağrılıklar beklenen ve gözlemlenen çıktı arasındaki farkın 
+açılması veya kapanmasına göre artırılır veya azaltılır. En uygun konfigürasyonun bulunması sadece ağırlık değişimine bağlı değildir. 
+Çünkü her bir düğümün çıktısı başka bir düğümün girdisidir ve bu nedenle bir düğüme gelen bütün sinyallerin toplandıktan sonra 
+diğer düğümlere aktarılması gerekir ve bu noktada yine bir ağırlık söz konusudur. Düğümlerden gelen sinyaller ve ağırlıkların 
+toplanmasından sonra aktivasyon fonksiyonu adı verilen fonksiyonlar kullanılır.  
+Aktivasyon fonksiyonu ağırlıklar ve girdilerin çarpılmasıyla elde edilen toplama göre ilgili sinir hücresinin aktif edilip 
+edilmeyeceğini belirler. Bu yüzden aktivasyon fonksiyonu denir. Bir düğümün aktif edilmesi demek onunla bağlantılı olan tüm 
+düğümlerin girdilerini etkileyeceği için tüm sinir ağını etkiler ve buda doğal olarak çıktıyı etkiler. Bu nedenle aktivasyon 
+fonksiyonunun seçimi son derece önemlidir.  
+Lineer fonksiyonlar olduğu gibi lineer olmayan aktivasyon fonksiyonlarıda vardır. Genellikle karmaşık, çok sayıda çıktısı olan 
+problemler lineer olmadıkları için lineer olmayan sigmoid, tanh vb. gibi aktivasyon fonksiyonları kullanılarak çözülmeye çalışılır.  
+Araştırmada R yazılımı içerisine yüklenebilen “nnetar” adlı YSA fonksiyonu kullanılmıştır. “nnetar” fonksiyonun repeats, p, P ve 
+size olmak üzere dört argümanı vardır. Repeats: uygun sinir ağlarının sayısını kontrol eder ve varsayılan değeri 20 iken, P mevsimsel 
+gecikme sayını, p: serinin girdi olarak seçilecek gecikme sayısını, size ise gizli katmandaki düğüm sayısını ifade eder (Shmueli & 
+Lichtendahl, 2016).  
+ 
+3. Araştırma Sonuçları ve Tartışma  
+Çalışmada eğitim ve test için ayrılan veriler üzerinde sırasıyla önce Holt’s lineer trend yöntemi ve ardından YSA yöntemi 
+uygulanmıştır. Seri yükseliş eğilimi gösterdiğinden “tsCV(çapraz doğrulama)” fonksiyonu içerisindeki “damped” parametresi 
+“damped=F” olarak ayarlanmıştır. Bu parametre ayarlamasından sonra Holt’s lineer trend yönteminin eğitim verilerini kullanarak 
+oluşturduğu modelin ileriye dönük 10 yıllık tahmin yapması istenmiş ve bu tahmin sonucu test için ayrılan gerçek veriler ile 
+karşılaştırılmıştır.  
+Holt’s lineer trend yönteminden sonra YSA yöntemine geçilmiştir. “nnetar” fonksiyonunda “p=30, lambda=0.7 repeats=10” 
+konfigürasyonuna göre eğitim verileri üzerinde model geliştirilmiş ve bu modelinde de ileriye dönük 10 yıllık tahmin üretmesi 
+istenmiştir. Üretilen tahminler test için ayrılan gerçek değerlerle karşılaştırılmıştır. Elde edilen bulgular Tablo 2’de gösterilmiştir. 
+ 
+Tablo 2. Holt’s Lineer Trend ve YSA Modellerinin Test Sonuçları 
+ME 
+RMSE 
+MAE 
+MPE 
+MAPE 
+MASE 
+ACF1 
+Theil's 
+U 
+Holt's Lineer 
+Trend 
+Training set 
+0.0562 
+6.40858 4.6142 
+-2.0884 5.36372 0.71678 -0.0207 
+#YOK 
+Test set 
+46.2576 50.2014 46.2576 15.0569 15.0569 7.18574 0.4642 
+2.81585 
+Yapay Sinir Ağı 
+Training set1 
+0.00127 0.16067 0.12299 -0.0012 0.07159 0.01911 -0.2642 
+#YOK 
+Test set1 
+4.84667 15.7835 12.4734 1.23649 4.07218 1.93764 0.04698 0.85213 
+ 
+Tablo 2’de RMSE (Root mean sequared error) ve MAPE (mean absolute percentage error) değerleri değerlendirildiğinde yapay 
+sinir ağlarından elde edilen modelin üstel düzleştirme yöntemlerinden biri olan Holt’s lineer trend yöntemine göre çok daha iyi 
+sonuçlar verdiği görülmüştür. Esasen tüm hata metriklerinde YSA modelinin daha başarılı sonuç verdiği görülmektedir. 
+Modellerin hata değerleri karşılaştırıldıktan sonra test verileriyle tahmin verilerinin ne derece örtüşdüğünü görmek için şekil 
+2’deki grafik elde edilmiştir.  
+Şekil 2 incelendiğinde YSA modelinin ürettiği tahminlerin gerçek değerlere yakın seyrettiği ancak Holt’s lineer trend yönteminin 
+yükselme eğilimi göstersede derçek değerlerden YSA’ya göre daha uzak mesafelerde seyrettiği görülmektedir. Bunun yanında sera 
+gazı emisyonu değerlerinde sürekli bir artış olmadığı dalgalanmalar şeklinde bir davranış olduğu da gözlemlenmiştir. 
+YSA modeli ile 2014-2021 yılları için tahmin yapılmış ve elde edilen sonuçlar Tablo 3.’te sunulmuştur. Sera gazı emisyonu CO2 
+eşdeğeri tahminleri daha iyi anlaşılması açısından Şekil 3.’te gösterilmiştir. 
+ 
+European Journal of Science and Technology 
+ 
+e-ISSN: 2148-2683 
+ 
+287 
+ 
+Şekil 2. Yöntemlerin 2005-2014 yılları arasındaki tahminleri ve gerçek değerler. 
+Şekil 3.’teki modele ait tahmin verilerine bakıldığında 2021 yılında Türkiye’nin sera gazı emisyonunun 366 milyon ton olacağı 
+tahmin edilmiştir.  
+  
+Şekil 3. YSA modelinin 2014-2021 yılları arasındaki tahminleri. 
+4. Sonuç 
+Bu çalışmada yapay sinir ağları ve  Holt’un lineer trend yöntemi kullanılarak Türkiye’de açığa çıkan toplam sera gazı emisyonu 
+değeri zaman serisi olarak analiz edilmiştir. Elde edilen bulgular 2021 yılında Türkiye’nin sera gazı emisyonunun 366 milyon ton’a 
+ulaşacağını tahmin etmiştir.  Bu çalışmada elde edilen bir diğer sonuç ise YSA yönteminin Holt’un lineer trend yönteminden daha iyi 
+sonuçlar verdiğinin görülmesidir.  
+Bu çalışmada elde edilen bulgulara göre Türkiye’nin CO2 eşdeğeri sera gazı miktarı dalgalı görünümler sergilese de genel olarak 
+artış eğilimindedir. Bu düzeyin aşağı çekilmesine yönelik önlemler planlanabilir. Hızlı bir şekilde yenilenebilir enerji kaynaklarına 
+yönelmek sera gazı emisyonunu azaltabilir. Özellikle güneş ve rüzgar enerjisi gibi doğal kaynaklardan elde edilen ve sürekliliği olan 
+enerji kaynaklarına yönelmek hem CO2 emisyonu düşürebilir hemde çevreye olan diğer olumsuz etkileri azaltabilir. 
+Gelecekte araştırmacılar genetik algoritmalar gibi farklı teknikleri kullanarak bu tür analizlerin performansını artırmayı 
+deneyebilirler. Bunun yanında YSA’nın farklı türlerini deneyerek ileriye dönük tahminleri yenileyebilirler. 
+Yıl 
+Tahmin 
+2015 333.6885 
+2016 353.2795 
+2017 357.9241 
+2018 
+360.489 
+2019 363.6784 
+2020 367.6858 
+2021 366.3972 
+Tablo 3. 2021 yılına 
+kadar CO2 salınımı 
+tahminleri 
+Avrupa Bilim ve Teknoloji Dergisi 
+ 
+e-ISSN: 2148-2683 
+ 
+288 
+Kaynakça 
+Aydemir, E. (2019). Ders Geçme Notlarının Veri Madenciliği Yöntemleriyle Tahmin Edilmesi. European Journal of Science and 
+Technology, (15), 70–76. https://doi.org/10.31590/ejosat.518899 
+Baki, Ö. (2017). Karbondioksit emisyon hacminin alt sektörler için analizi : Türkiye örneği. NEVŞEHİR HACI BEKTAŞ VELİ 
+ÜNİVERSİTESİ. Retrieved from https://tez.yok.gov.tr/ 
+Bender, M., Sowers, T., & Brook, E. (1997). Gases in ice cores. Proceedings of the National Academy of Sciences of the United States 
+of America, 94(16), 8343–8349. https://doi.org/10.1073/pnas.94.16.8343 
+Cambridge. 
+(2020). 
+Cambridge 
+English 
+Dictionary. 
+Retrieved 
+March 
+9, 
+2020, 
+from 
+https://dictionary.cambridge.org/dictionary/english/carbon-dioxide 
+Cheremisinoff, N. P. (2011). Pollution Management and Responsible Care. In Waste (pp. 487–502). Elsevier Inc. 
+https://doi.org/10.1016/B978-0-12-381475-3.10031-2 
+Çoban, O., & Şahbaz, N. (2015). Yenilenebilir Enerji Tüketimi Karbon ve Emisyonu İlişkisi: TR Örneği. Erciyes Üniversitesi Sosyal 
+Bilimler Enstitüsü Dergisi. Erciyes Üniversitesi Sosyal Bilimler Enstitüsü, 38039 KAYSERİ: Erciyes Üniversitesi. 
+de Mattos Neto, P. S. G., Cavalcanti, G. D. C., Firmino, P. R. A., Silva, E. G., & Vila Nova Filho, S. R. P. (2020). A temporal-window 
+framework 
+for 
+modelling 
+and 
+forecasting 
+time 
+series. 
+Knowledge-Based 
+Systems, 
+193, 
+105476. 
+https://doi.org/10.1016/J.KNOSYS.2020.105476 
+Deppa, B. (2018). Holt’s Linear Trend Methods. Retrieved April 28, 2020, from http://course1.winona.edu/bdeppa/FIN 
+335/Handouts/Exponential_Smoothing (part 2).html#holts-linear-trend-method 
+Dertli, G., & Yinaç, P. (2018). Yenilenebilir Enerji Tüketimi, Karbondioksit Emisyonu, Enerji İthalatı ve Ekonomik Büyüme: Türkiye 
+Örneği. 
+Kahramanmaraş 
+Sütçü 
+İmam 
+Üniversitesi 
+Sosyal 
+Bilimler 
+Dergisi, 
+15(2), 
+583–606. 
+Retrieved 
+from 
+https://dergipark.org.tr/tr/pub/ksusbd/issue/40204/446928 
+Efe, M. Ö., & Kaynak, O. (2000). Yapay Sinir Ağları ve Uygulamaları (1st ed.). İstanbul, Türkiye: Bogazici University. 
+Genceli, M. (2012). Trend Oluşturulmasına İlişkin Bazı Sorunlar. İstanbul Üniversitesi İktisat Fakültesi Mecmuası, 35(1–4). 
+Retrieved from https://dergipark.org.tr/en/pub/iuifm/issue/849/9416 
+Holt, C. C. (2004). Forecasting seasonals and trends by exponentially weighted moving averages. International Journal of 
+Forecasting, 20(1), 5–10. https://doi.org/10.1016/j.ijforecast.2003.09.015 
+Keeling, C. D. (1997). Climate change and carbon dioxide: an introduction. Proceedings of the National Academy of Sciences of the 
+United States of America, 94(16), 8273–8274. https://doi.org/10.1073/pnas.94.16.8273 
+Kibria, M. G., Nguyen, K., Villardi, G. P., Zhao, O., Ishizu, K., & Kojima, F. (2018). Big Data Analytics, Machine Learning, and 
+Artificial 
+Intelligence 
+in 
+Next-Generation 
+Wireless 
+Networks. 
+IEEE 
+Access, 
+6, 
+32328–32338. 
+https://doi.org/10.1109/ACCESS.2018.2837692 
+Lead, C.-O., Lead, I. C. P., Farquhar, G. D., Fasham, M. J. R., Goulden, M. L., Heimann, M., … Rojas, A. R. (2018). The Carbon 
+Cycle and Atmospheric Carbon Dioxide. 
+Livshin, I. (2019). Artificial Neural Networks with Java: Tools for Building Neural Network Applications. Apress. 
+M, C., Pandit, P., & Bakshi, B. (2019). Forecasting Of Area And Production Of Cashew Nut In Dakshına Kannada Using Arima And 
+Exponential Smoothing Models. Journal of Reliability and Statistical Studies, 12(2), 61–76. 
+Molina, M. E., Perez, A., & Valente, J. P. (2016). Classification of auditory brainstem responses through symbolic pattern discovery. 
+Artificial Intelligence in Medicine. https://doi.org/10.1016/j.artmed.2016.05.001 
+Nordhaus, W. D. (1977). Economic Growth and Climate: The Carbon Dioxide Problem. The American Economic Review, 67(1), 341–
+346. Retrieved from http://www.jstor.org/stable/1815926 
+Öztemel, E. (2012). Yapay Sinir Ağları. (3, Ed.). İstanbul, Türkiye: Papatya Yayıncılık. 
+Park, S. E., Chang, J. S., & Lee, K. W. (2004). Carbon Dioxide Utilization for Global Sustainability: Proceedings of the 7th 
+International Conference on Carbon Dioxide Utilization, Seoul, Korea, October 12-16, 2003. Elsevier Science. 
+Rhys, I. H. (2020). Machine Learning with R, the tidyverse, and mlr. Manning Publications. 
+Shmueli, G., & Lichtendahl, K. C. (2016). Practical Time Series Forecasting with R: A Hands-On Guide [2nd Edition]. Axelrod 
+Schnall Publishers. 
+Sun, Y. H. (2004). Chemicals from CO2 via heterogeneous catalysis at moderate conditions. In Park, SE and Chang, JS and Lee, KW 
+(Ed.), 
+CARBON 
+DIOXIDE 
+UTILIZATION 
+FOR 
+GLOBAL 
+SUSTAINABILITY 
+(Vol. 
+153, 
+pp. 
+9–16). 
+SARA 
+BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS: ELSEVIER SCIENCE BV. 
+The R Foundation. (2020). R: What is R? Retrieved March 13, 2020, from https://www.r-project.org/about.html 
+Thomson, D. J. (1997). Dependence of global temperatures on atmospheric CO&lt;sub&gt;2&lt;/sub&gt; and solar irradiance. 
+Proceedings of the National Academy of Sciences, 94(16), 8370 LP – 8377. https://doi.org/10.1073/pnas.94.16.8370 
+U.S. 
+Environmental 
+Protection 
+Agency. 
+(2019). 
+US 
+EPA. 
+Retrieved 
+March 
+10, 
+2020, 
+from 
+https://ofmpub.epa.gov/sor_internet/registry/termreg/searchandretrieve/glossariesandkeywordlists/search.do?details=&glossaryNa
+me=Glossary Climate Change Terms 
+World 
+Bank 
+Group. 
+(2020). 
+World 
+Development 
+Indicators 
+| 
+DataBank. 
+Retrieved 
+April 
+28, 
+2020, 
+from 
+https://databank.worldbank.org/reports.aspx?source=2&series=EN.CO2.OTHX.ZS&country= 
+Yao, J., Wang, P., Wang, G., Shrestha, S., Xue, B., & Sun, W. (2020). Establishing a time series trend structure model to mine 
+potential hydrological information from hydrometeorological time series data. Science of The Total Environment, 698, 134227. 
+https://doi.org/10.1016/J.SCITOTENV.2019.134227 
+Yapar, G., Capar, S., Selamlar, H. T., & Yavuz, I. (2018). Modified holt’s linear trend method. Hacettepe Journal of Mathematics and 
+Statistics, 47(5), 1394–1403. https://doi.org/10.15672/HJMS.2017.493 
+European Journal of Science and Technology 
+ 
+e-ISSN: 2148-2683 
+ 
+289 
+Zhang, Z. Q. (2003). Mites of Greenhouses: Identification, Biology and Control. CABI Pub. 
+ 
+ 
+ 
