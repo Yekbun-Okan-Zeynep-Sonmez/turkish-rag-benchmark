@@ -1,11 +1,6 @@
 Turkish-RAG-Benchmark/
 ├── data/
 │   ├── raw/                    # Orijinal PDF'ler 
-│   │   ├── hukuk/
-│   │   ├── tip/
-│   │   ├── ml_ai/
-│   │   ├── felsefe/
-│   │   └── tarih/
 │   ├── processed/              # Metin dönüşüm aşamaları
 │   │   ├── stage1_extracted/   # Temizlenmemiş ham txt dosyaları
 │   │   ├── stage2_cleaned/     # Regex ve temizlikten geçmiş txt'ler
