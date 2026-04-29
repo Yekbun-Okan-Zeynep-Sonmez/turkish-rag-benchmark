@@ -1,6 +1,13 @@
 Turkish-RAG-Benchmark/
 ├── data/
 │   ├── raw/                    # Orijinal PDF'ler 
+│   │   ├── tip
+│   │   ├── ml-ai
+│   │   ├── egitim
+│   │   ├── sosyal_bilimler
+│   │   ├── fizik_matematik
+│   │   ├── hukuk
+│   │   └── stage3_chunks/      # RAG için parçalanmış (chunked) json/csv
 │   ├── processed/              # Metin dönüşüm aşamaları
 │   │   ├── stage1_extracted/   # Temizlenmemiş ham txt dosyaları
 │   │   ├── stage2_cleaned/     # Regex ve temizlikten geçmiş txt'ler
