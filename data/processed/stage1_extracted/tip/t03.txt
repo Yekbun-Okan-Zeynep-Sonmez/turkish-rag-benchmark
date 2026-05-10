@@ -1,0 +1,702 @@
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+52 
+ 
+    
+Makale Geliş: 04.03.2026 
+ 
+ 
+ 
+ 
+ 
+                                                         Derleme  
+Makale Kabul: 27.03.2026   
+ 
+ 
+Esra ELVE 
+Diyetisyen 
+Bitlis Eren Üniversitesi, Lisansüstü Eğitim Enstitüsü, Bitlis, Türkiye. 
+ORCID: 0009-0006-4133-4279 
+dyt.esraelve@gmail.com 
+ 
+Obezitede Kullanılan İlaçların Gıdalarla Etkileşimi 
+Özet 
+Obezite, vücuda alınan ve harcanan enerji arasında dengesizlik, yetersiz fiziksel aktivite, stres ve yanlış 
+beslenme alışkanlıklarının neden olduğu, günümüzde dünya çapında yaygınlaşan bir halk sağlığı sorunudur. 
+Beraberinde getirdiği eşlikçi hastalıklar nedeniyle mortalite ve morbiditeye neden olabilmektedir. Obezite 
+tedavisinde hastanın durumu en iyi şekilde tetkik edildikten sonra tıbbı beslenme tedavisi, cerrahi tedavi veya 
+farmakolojik tedavi yaklaşımları gibi tedavi seçeneklerinden biri seçilir. Bu basamaklardan diyet, egzersiz ve 
+davranış değişikliği yaklaşımları denenip hastada değişiklik görülmediği takdirde ilaç tedavisine başlanmak için 
+gereken onay alınmış demektir. Tedavi esnasında başlanan ilacın hasta üzerinde neden olduğu beslenme 
+problemleri ve besin-ilaç, ilaç-ilaç etkileşimleri önem verilmesi gereken bir konudur. Besin-ilaç etkileşimi, 
+besinler, besin ögeleri veya hastanın beslenme durumu ile ilaç arasında oluşan etkileşimlerdir. İlaçların içindeki 
+maddeler kişinin beslenme durumunu etkileyebileceği gibi hastanın beslenme durumu da ilacın çalışma ve etki 
+mekanizmasını etkileyebilmektedir. Tedavinin olumlu seyir etmesi için ilaçların etki mekanizması bilinmeli ve 
+hastanın beslenme durumu sorgulanması iyi bir şekilde yapılmalıdır. Bunu sağlayabilmek adına besinlerin ilaçlar 
+üzerindeki etkisinin bilinmesi gerekmektedir. Bu makalede, ilaç tedavisinde kullanılan; orlistat, fentermin, 
+fentermin-topiramat kombinasyonu, fentermin–fenfluramin kombinasyonu, sibutramin, metformin, rimonabant, 
+bupropion, dietilpropion, lorcaserin, liraglutide ve eksenatid ilaçlarınınbesin-ilaç etkileşimi noktasında 
+oluşturabilecekleri risk faktörleri hakkında bilgi verilmektedir.   
+Anahtar Kelimeler: Besin-İlaç Etkileşimi, Obezite,  Halk Sağlığı, Akılcı İlaç Kullanımı. 
+ 
+Drug Interactions with Food in Obesity Treatment  
+Abstract 
+Obesity is a widespread public health problem in worldwide, caused by an imbalance between energy intake and 
+expenditure, insufficient physical activity, stress, and poor dietary habits. It can cause mortality and morbidity 
+due to the accompanying diseases. In the treatment of obesity, after a thorough examination of the patient's 
+condition, one of the treatment options such as medical nutritional therapy, surgical treatment, or 
+pharmacological treatment approaches is chosen.If no change is observed in the patient after trying diet, 
+exercise, and behavioral modification approaches, drug treatment can be initiated.Nutritional problems and food-
+drug, drug-drug interactions caused by the medication started during treatment are an important issue.Food-drug 
+interactions are interactions that occur between foods, nutrients, or a patient's nutritional status and a 
+medication.The ingredients in medications can affect a person's nutritional status, and conversely, a patient's 
+nutritional status can affect the drug's mechanism of action.For treatment to be effective, the mechanism of 
+action of the drugs must be understood, and the patient's nutritional status must be thoroughly assessed.To 
+achieve this, it is necessary to understand the effects of nutrients on medications.This article provides 
+information on the risk factors for drug-food interactions that may arise from the following medications used in 
+drug 
+therapy: 
+orlistat, 
+phentermine, 
+phentermine-topiramate 
+combination, 
+phentermine-fenfluramine 
+combination, sibutramine, metformin, rimonabant, bupropion, diethylpropion, lorcaserin, liraglutide, and 
+exenatide. 
+Keywords: Food-Drug Interactions, Obesity, Public Health, Rational Use of Medicines. 
+ 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+53 
+ 
+1. Giriş 
+Obezite geleneksel olarak, belirli bir boy, cinsiyet ve yaştaki bireyler için en düşük ölüm oranına 
+karşılık gelen ideal ağırlığın %20 veya daha fazlası olarak tanımlanır (1).  Dünya Sağlık Örgütü’ne  
+(DSÖ) göre obezite “vücuttaki, insan sağlığını olumsuz yönde etkileyen anormal veya aşırı yağ 
+birikimi” ifadesiyle tanımlanmaktadır  (2). Obezite çok faktörlü, kronik, tekrarlayan, bulaşıcı olmayan 
+bir hastalıktır (3). DSÖ’nün yaptığı çalışmalar ışığında dünya çapında bir milyardan fazla insanın aşırı 
+kilolu olduğu ve 650 milyondan fazla yetişkinin, 340 milyondan fazla çocuk ve ergenin obez olarak 
+sınıflandırıldığı görülmektedir (4). Geçtiğimiz 30 yılda dünya çapında önemli ölçüde artış gösteren 
+obezite prevalansı, 21. yüzyılın en ciddi halk sağlığı problemlerinden biri olmuştur (5). 
+Obezitenin sınıflandırılmasında Beden Kitle İndeksi (BKİ) kullanılır. Dünya Sağlık Örgütü tarafından 
+esas alınan Beden Kitle İndeksi, bir popülasyonda obezite yaygınlığını ve bununla ilişkili risk 
+faktörlerini belirlemeye yarar (2). BKİ, vücut ağırlığını kilogram cinsinden, boy uzunluğunu metre 
+cinsinden hesaplayarak ağırlığın boyun metresinin karesi sonucuna bölünmesiyle bulunmaktadır (6). 
+Dünya Sağlık Örgütü, BKİ derecesi  < 18.50 kg/m2 için zayıf, 18.5 – 24.99 kg/m2 aralığını normal 
+değerde kabul ederken 25.00 – 29.99 kg/m2 aralığı hafif şişman olarak adlandırıp bu değerin 30 kg/m2 
+olduğu hastalar için obezitenin 1. derecesinin başlamış olarak kabul etmektedir. Sırasıyla 35.00 – 
+39.99 kg/m2 aralığına 2.derece obez,  ≥ 40.00 kg/m2  için 3.derece obez denilmiştir (2). 
+İlaçlar besinlerle etkileşime girerek onların emilimini, metabolizmasını kısaca vücuttaki kullanımını 
+etkileyebilirler. İlaçlara bağlı oluşan bu aksaklıkların önceden bilinmesi ve hastaların bunu önleyici 
+davranışlara göre hareket etmesi açısından yazılan ilaca göre hastaların bilgilendirilmesi 
+gerekmektedir. Bu makale günümüzde obezite tedavi basamaklarından olan farmakolojik tedavi 
+alanını inceleyerek obezite için kullanılan ilaçların besinlerle etkileşim düzeylerini incelemek 
+amacıyla yazılmıştır. 
+2. Obezitenin Etiyolojisi, Prevalansı ve Komplikasyonları 
+Obezite nedenlerinin başında, hareketsiz yaşam, aşırı kilo alma ve sağlıksız beslenme alışkanlığı 
+gelmektedir (7). Diğer nedenler arasında; yüksek enerji alımı, genetik yatkınlığa sahip olma, yağ 
+oksidasyonu düşüklüğü, psikolojik stres, sosyoekonomik seviyenin alt sınırda kalması yer almaktadır 
+(8). Obezitenin çevresel faktörleri ise günümüzde ulaşılması kolay olan oldukça ucuz, lezzetli ve enerji 
+içeriği yüksek besinlerle bağlantılıdır. Bu şekilde bir beslenme alışkanlığına bir de yetersiz fiziksel 
+aktivite eklenirse alınan fazla enerji alımının karşılığında düşük enerji kullanımı ile obezitenin 
+oluşumu kolaylaşmaktadır (9).  
+Obezite prevalansı 1975’ten beri yaklaşık üç kat artmış olup tüm dünyada fazla kiloluluk ve obezite 
+giderek artmaya devam etmektedir (10). Dünya genelinde yaklaşık 800 milyon insan obezite ile 
+yaşamaktadır. Avrupa Bölgesi’nde çocuklar ve ergenler arasında obezite prevalansının 2020-2035 
+döneminde artacağı, 2035 yılına kadar kızların %14’ünün ve erkeklerin %21’inin obeziteden 
+etkileneceği öngörülmektedir (10). Dünya genelinde obezite insidansının her geçen gün giderek 
+artmasının nedenlerine bakılınca; yaşlanma, diyabet ve hipertansiyon, hareketsiz yaşam tarzı, sosyal 
+durum, teknolojik cihazların sık kullanımı yer almaktadır (11). 
+Obezite, hastaların tüm organlarının işleyişi üzerinde doğrudan olumsuz etkilere sahiptir ve obeziteyle 
+ilişkili çok çeşitli komplikasyonlara yol açmaktadır (3).Bunlardan bazıları; kalp hastalığı, tip 2 
+diabetes mellitus, hipertansiyon, inme, belirli tipte kanserler (endometrium, meme, prostat, kolon, vb), 
+dislipidemi, safra kesesi hastalıkları, uyku apnesi ve solunumla ilgili diğer hastalıklar, osteoartrit gibi 
+hastalıklar ile tüm sebeplere bağlı mortalitede artış, fertilitede azalma, duygusal gerginlik ve toplum 
+tarafından etiketlenme gibi çeşitli fiziksel ve psikolojik komplikasyonlar olarak sayılabilir (8).  
+Fazla kiloya sahip olan çocukların ve ergenlerin yetişkin çağlarına geldiklerinde obez olması, genç 
+yaşlarında diyabet, kardiyovasküler hastalıklar gibi bulaşıcı olmayan hastalıklara sahip olma ihtimalini 
+yükseltmekte ve psikolojik açıdan olumsuzluk yaratmaktadır (7). Aynı zamanda obez olan kişilerde, 
+sağlıklı insanlara göre fiziki görünümde bozukluk, ilişkilerinde mutsuzluk, cinsel yaşamlarında zorluk 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+54 
+ 
+gibi psikososyal sorunlar daha yüksek oranda gözlemlenmektedir (11). Aşağıda obezite tedavisine 
+ilişkin detaylı bilgiler yer almaktadır.  
+2.1. Obezite Tedavisi 
+Obezite tedavi yönetimi sadece kilo kaybıyla sınırlı kalmamalı, bunun yerine komplikasyonların 
+önlenmesi, çözümü veya iyileştirilmesi, ruh sağlığının iyileştirilmesi, fiziksel zindelik, sosyal 
+işlevsellik ve genel sağlık ve yaşam kalitesinin artırılmasını içeren bütüncül bir yaklaşım 
+benimsemelidir (3). Obezite tedavisindeki temel amaç, obeziteye bağlı morbidite ve mortalite 
+risklerini azaltıp hastalara yeterli ve dengeli beslenme alışkanlıkları edinmesine yardımcı olarakhayat 
+kalitesini yükseltmektir (12). Tedavide; yaşam tarzı değişikliği, farmakoterapi ve bariatrik cerrahi 
+olmak üzere üçlü tedavi modeli uygulanmaktadır. Tedavi seçeneklerini seçerken BKİ ve komorbidite 
+olup olmadığına göre karar verilmektedir (Tablo 1). Alışkanlıklara yönelik yaşam tarzı 
+müdahaleleriyle birlikte, obezite karşıtı ilaçlar ve bariatrik cerrahi, kilo vermeye yardımcı olarak 
+obeziteye eşlik eden hastalıkların iyileşme sürecini desteklemektedir (5).  
+Tablo 1: Klinik tedavi yöntemleri (51).  
+Tedavi  
+BKİ kategorisi (kg/m2) 
+≥25 
+≥27 
+≥30 
+≥35 
+≥40 
+Diyet, fiziksel aktivite ve davranış 
+tedavisi 
+Komorbiditeler 
+ile birlikte 
+Komorbiditeler 
+ile birlikte 
++ 
++ 
++ 
+Farmakoterapi 
+ 
+Komorbiditeler 
+ile birlikte 
++ 
++ 
++ 
+Ameliyat 
+ 
+ 
+ 
+Komorbiditeler 
+ile birlikte 
++ 
+2.1.1. Obezitede Tedavi Yöntemleri 
+Amerikan Kalp Derneğine göre obezitenin 1.basamak tedavisini diyet, fiziksel aktivite ve davranış-
+yaşam tarzı değişiklikleri (bilişsel davranışçı terapi) oluştururken, 2.basamağını farmakoterapi ve 
+3.basamağını cerrahi tedavi oluşturmaktadır (13). Birinci basamak tıbbi beslenme tedavisinde her bir 
+hasta için özelleştirilmiş bir beslenme programı ayarlanmalıdır (12). Esas amaç; hedef olarak belirtilen 
+kiloya hastanın vücut ağırlığını indirebilmek, hastanın günlük alması gereken besin ihtiyacını yeterli 
+ve dengeli bir şekilde karşılayabilmek, doğru beslenme alışkanlıkları kazandırabilmek, hedef kiloya 
+ulaşmasının ardından kiloyu koruyabilmesini ve kontrolünü sağlayabilmektir (12).  
+Obez kişilerin diyete uyum göstermeleri ve gün içinde hareketlerinin artırılmasına yönelik 
+desteklenmeleri gerekmektedir. Alınan kalorinin azaltılması tedavideki en önemli basamaklardan 
+biridir (13). Verilen kiloların kalıcı olabilmesinde birinci şart; hastanın başarabileceğine olan inancını 
+diri tutup onun motivasyonunu sağlamaktır. Ayrıca hastanın kendi kendisini izlemesi, yaşam tarzını 
+değiştirmek için ulaşmaya çalıştığı hedeflere giden önemli bir stratejidir. Hastalardan tedavi süresi 
+boyunca aldıkları kalorileri ve kendi kilolarını takip etmeleri istenilmelidir (12). 
+Obezitenin cerrahi tedavisi, önceki zamanlara göre günümüzde daha yaygın olarak tercih edilmektedir. 
+Bariatrik cerrahinin amacı, besin alımını kısıtlayarak kilo verilmesinin önünü açmaktır (14). BKİ 
+≥40kg/m2 olan ve kontrendikasyonu olmayan vakalarda kilo verebilmek için motivasyonu olmasına 
+rağmen davranış değişikliklerine ek olarak ilaçlı veya ilaçsız yeterli kilo veremeyen hastalarda 
+bariatrik cerrahiyi düşünmek bir seçenek olarak görülmektedir (15). Bariatrik cerrahi olup 
+olmayacağına; endokrinolog, obezite cerrahisi alanıyla ilgilenen cerrah, psikiyatrist, gastroenterolog 
+ve kardiyoloğun içinde yer aldığı bir konseyde karar verilmesi gerekmektedir(16).  
+Bariatrik cerrahi, Roux-en-Y gastrik bypass, jejunoileal bypass, laparoskopik ayarlanabilen gastrik 
+bantlama gibi cerrahi işlemleri içermektedir (17).Yeterli ölçüde kilo kaybettiren ve uzun süreli kilo 
+korunmasını sağlayan, iştah ve açlık hissini azaltabilen bu müdahaleler; çeşitli ilaçların ve besin 
+maddelerinin emilme oranını değiştirerekhastaların yaşam kalitesini düşürmektedir (17).  
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+55 
+ 
+Kilo vermek konusunda birçok seçenek olmasına rağmen hastalarda kilo kaybını sağlamanın ve 
+hastaların verdikleri kiloyu korumada zorluk yaşaması doktorların ve hastaların aynı anda 
+farmakoterapiye olan ilgilerini artırmış ve obezitenin farmakolojik tedavisi, sağlık gündeminde önemli 
+hale gelmiştir (18).Ancak ilaç ile tedavi etmek, hiçbir hasta için tek seçenek olmamalı, egzersiz, diyet 
+ve davranış değişikliği ile bütün halde uygulanmalıdır. BKİ ≥30 kg/m2 olan ve diyet, egzersiz ile 
+birlikte davranış değişikliği uygulamaları denenmesine rağmen kilo kontrolü sağlanmayan olgulara ve 
+BKİ 27-29,9 kg/m2 düzeyinde görülüp, komorbiditeleri (Tip 2 Diyabet, koroner arter hastalığı, 
+serebrovasküler hastalık, hipertansiyon, dislipidemi) olan vakalarda farmakolojik tedaviye başlanabilir 
+(12). Bireylerin ilaçlara verdikleri yanıttaki farklılıklar; ilaçların daha güvenilir hale getirilmesi ya da 
+yeni ilaç formülasyonlarının elde edilmesi için itici güç oluşturmaktadır. Yapılan kapsamlı 
+araştırmalar; obezite ile mücadelede geleneksel olmayan, yeni yaklaşımlara ihtiyaç duyulduğunu 
+göstermektedir (17). 
+İdeal bir obezite ilacı nasıl olmalı sorusunun cevabı ise: Dozla ilişkili olarak kilo kaybı 
+gerçekleştirmeli, hedef kiloya ulaşılması durumunda bunun devamlılığını sağlamalı, uzun süreli 
+kullanımı güvenilir olmalı, tolerans geliştirmemeli, bağımlık yapmamalıdır (19). 
+2.2. Besin-İlaç Etkileşimleri  
+Besin ile herhangi bir ilaç arasında oluşan fiziksel, kimyasal, fizyolojik veya patofizyolojik düzeyde 
+oluşan etkileşimlerin bütününe besin-ilaç etkileşimi denmektedir (20). Etkileşim klinik açıdan ilacın 
+farmakokinetiği ya da farmakodinamidiğinin değişmesi suretiyle sonuçlanmaktadır (21). Bu etkiler, 
+genellikle ilacın emilimi, vücuttaki diğer sistemlere dağılması, metabolize edilmesi ya da atılması 
+sırasında gerçekleşmektedir (22) (Şekil 1). 
+ 
+Şekil 1: Besin ilaç etkileşimi ile ilgili başlıca mekanizmalar (20). 
+İlaçların büyük kısmı aç veya tok karına alındığında emilim düzeyi etkilenmekte olup tüketilen 
+besinler, çeşitlerine bağlı olarak, mide pH’ını, mide salgılarını, sindirim sistemi hareketliliğini 
+değiştirerek ilacın emilim hızını veya bu emilme oranını etkileyebilmektedirler (23).Yapılan 
+farmakokinetik çalışmalarda, lif açısından zengin besinlerin, amoksisilinin emilim hızını arttırdığını 
+fakat emilen ilaç miktarını azaltmasından dolayı tedaviye katkısının azalma eğiliminde olabileceğini 
+göstermiştir (22). İlaçların akılcı kullanımı ile bilgilendirme aşağıda yapılmıştır.  
+2.3. Akılcı İlaç Kullanımı 
+1985 yılında Dünya Sağlık örgütü akılcı ilaç kullanımını, hastaların hastalıklarına göre ihtiyaçları olan 
+uygun ilacı uygun dozda ve olması gereken süre içerisinde kolay ulaşılabilir ve ucuz maliyetle 
+sağlamaları olarak tanımlamaktadır (24). Akılcı ilaç kullanımı süreci, ilk başta hastanın sorunun 
+eksiksiz tanımlanmasını, güvenilir ve kanıtlı çalışmaları olan tedaviyi seçmeyi, yapılan seçime uygun 
+ilaçların kullanılmasından sonraki süreçtesonuçların izlenerek değerlendirilmesini kapsamaktadır (25).  
+İLAÇ 
+ETKİLEŞİMİ
+BAĞIRSAK 
+BOŞLUĞU
+VÜCUTTAN 
+ATILIM
+DOLAŞIM 
+SİSTEMİ 
+VÜCUT 
+DIŞI
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+56 
+ 
+Ülkemizde düzenleyici kurum olarak “Türkiye İlaç ve Tıbbi Cihaz Kurumu” kurulmuştur. T.C. Sağlık 
+Bakanlığı İlaç ve Eczacılık Genel Müdürlüğü bünyesinde 2010 yılında Akılcı İlaç Kullanımı Şube 
+Müdürlüğü kurulmuş oluphizmetlerine başlamıştır (26). Dünya Sağlık Örgütü tarafından “Guide to 
+Good Prescribing” kaynağı T.C. Sağlık Bakanlığı tarafından “İyi Reçete Yazma Kılavuzu” yayın 
+adıyla Türkçeye çevrilmiştir. Kılavuzun içeriğinde, genel akılcı farmakoterapi ilkeleri ve akılcı ilaç 
+kullanımı da yer almaktadır (25). Kılavuzda tedavi basamakları ve dikkat edilmesi gereken noktalar 
+vurgulanmıştır (Tablo 2). 
+Tablo 2: Akılcı farmakoterapi adımları (25). 
+ 
+Tedavi Basamağı 
+Dikkat edilmesi gereken noktalar 
+1.adım  
+Hastanın sorununu tanımlama 
+Belirtiler değil hastalık tedavi edilmelidir, belirtiler bir 
+ilacın yan etkisine ya da anksiyeteye bağlı olabilir.  
+2.adım 
+Tedavi hedeflerini belirleme 
+Tedavi ile neyi amaçlıyorsunuz? 
+3.adım 
+Tedavinin hasta için uygun olup 
+olmadığını sorgula 
+İlaç dışı tedavi seçenekleri gözden geçirilmelidir. 
+4.adım 
+Tedaviye başla 
+Tedavinin etkinlik ve güvenliğini değerlendir. 
+5.adım 
+Gerekli bilgi, uyarı ve talimatları ver 
+Hastanın tedaviye uyumunu artırması açısındanönemlidir. 
+6.adım 
+Tedaviyi izle 
+Tedavi gerektiğinde gecikmeden sonlandırılmalıdır. 
+2.3.1. Obezitede Akılcı İlaç Kullanımı 
+19.yüzyıldan itibaren kilo verilmesini sağlamaya yönelik birçok ilaç geliştirilmesi sağlanmış ancak bu 
+ilaçların hastalarda ciddi morbidite ve mortaliteye yol açan etkilerinin eşlik etmesi sebebiyle 
+kullanımdan kaldırılmıştır (27). Bazı ilaçların kullanıldıktan sonraki olumsuz etkileri hakkında; tiroid 
+hormon tedavisi ile hipertiroidi; dinitrofenol ile katarakt ve nöropati; amfetamin ile bağımlılık; 
+fenfluramin/fentermin ile valvüler yetersizlik; rimonobant ile intihar ve sibutramin ile kardiyovasküler 
+sistem ilişkili ölüm yaşanan olumsuzluklara örnek verilebilir (27).  
+3. Obezite Tedavisinde Kullanılan İlaçlar 
+Obezite tedavisinin bir basamağı olan farmakoterapi, obezitenin neden olduğu sağlığa aykırı durumları 
+iyileştirme ve hastanın tıbbi beslenme tedavisine uyum sağlama konularında hastaya destek 
+vermektedir (28). Günümüz tedavisinde, çeşitli mekanizmalarla etkisi değişen obezite ilaçları 
+bulunmaktadır. Bunlardan, iştah baskılayıcılar (anorektikler), kalori yakıcılar, absorpsiyon blokörleri 
+(karbo-blokörler ve yağ-blokörleri) ve diğerleri (laksatifler, pürgatifler, diüretikler vb.) gibi ajanlar 
+obezitenin farmakoterapi tedavi basamağını oluşturmakta görevlidir (29). Bu ilaçların çalışma 
+prensibine bakıldığında, iştah üzerinde etki oluşturmasıyla, tokluğu artırıp açlığı azaltmasıyla veya 
+besin emilimini azaltıp enerji alımını düşürerek ağırlık kaybına destek olduğu düşünülmektedir (30). 
+3.1. Orlistat 
+Orlistat, başka zayıflama ilaçlarıyla kıyaslandığında daha güvenilir olması nedeniyle obezitenin 
+farmakolojik tedavisinde tercih edilen ilk ilaçlardandır (31).  Obez olup obeziteye bağlı diğer 
+hastalıklara da sahip olan hastaların tedavisinde kalorisi düşük bir diyetle beraber endikedir (29). 
+Orlistat, bağırsak lümeninde lipaza bağlanıp diyet yağının hidrolizini ve metabolizmasını engelleyen 
+bir pankreatik lipaz inhibitörüdür (18). Son aşamada,besinlerle tüketilen yağ asidinin üçte biri 
+kadarının emilimini önlemiş olur. Yani iştah etkilenmeden kalori alımı azalır (32).  
+Orlistat ilacının kullanılmaya başlandığı ilk hafta fekal yağ atılımı yükselir; ilaç bırakıldıktan sonraki 
+süreçte kontrol seviyelerine geriler. Orlistat kullanan hasta, ilacın etkilemesiylefazlaca yağlı dışkılama 
+geliştiğinden rahatsız olacağı için, diyetle alacağı yağ oranını da azaltır; bunun da kilo vermeye etkisi 
+olmaktadır (29). Ayrıca bir günde alınan yağ miktarının 100 gramı veya toplam kalorinin %35’ini 
+aşmaması gerekir. Yağda eriyen (A, D, E ve K), vitaminlerinin seviyeleri azalmaktadır. Bu yüzden 
+yağda eriyebilen vitaminlerin en iyi seviyede devamlılığının sağlanabilmesi için multivitamin 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+57 
+ 
+preparatları takviye olarak alınmalıdır (19). Görülen bu yan etkiler diyete lif eklenmesi ile azabilir. 
+İlaç, uzun dönemli kullanılırsa uygun vitamin takviyesi desteğine karar verilmelidir (32). 
+3.2. Fentermin 
+Fentermin, 1959'daonaylanmış obezitenin kısa süreli tedavisinde merkezi sinir sistemi üzerinde etkili 
+bir ilaçtır. Norepinefrin salgılayan ajan olup iştahı baskılama özelliğiyle tokluk hissiyatı oluşturması 
+sebebiyle obezite tedavisinde kullanımı sağlanmaktadır (33). İştah baskılama özelliği olan ilaçların; 
+egzersiz, diyet ve davranış değişikliğiyle birlikte kısa dönem kullanılmalarının kilo vermeyi sağladığı 
+bilinmektedir (29). Fenterminin, dünya genelinde reçetelenen bir ilaç olmasına rağmen bağımlılık 
+yapıcı etki göstermesi ve kısıtlı zamanda kullanım gerektirmesi nedeni ile dikkatli kullanılmalıdır (34). 
+Amerika Gıda ve İlaç Dairesi (FDA) tarafından kilo verdirmeye yarayan ajan olarak kısa süreli 
+kullanılmasına onay verilmiştir, 12 haftadan fazla kullanımı uygun değildir. Çalışmalar 6 aylık 
+kullanılması durumunda %7 kilo kaybına neden olduğunu göstermektedir (18).  
+Fenfluramin, serotoninin salımını uyarır ancakserotoninin geri alımını inhibe eder. Fen-Phen ismiyle 
+reçete edilen fentermin-fenfluramin ilacı ile yapılan tedavi, BKİ düzeyleri ≥30 kg/m2 veya diğer risk 
+faktörleri 
+varlığında ≥27 kg/m2 olan obez 
+bireylerde 
+kardiyovasküler sistem üzerinde 
+gerçekleştirdiğiadvers etki göstermesinden dolayı 1997 yılında piyasadan kaldırılmıştır (31).   
+3.3. Fentermin-Topiramat 
+Fentermin-topiramat kombinasyonu, kronik obezite tedavisinde kilo kontrolünü sağlayabilmek 
+amacıyla kullanılan ilk uzun salınımlı ilaçtır (31). Topiramat ve fenterminin tek başına kullanılması 
+denendiğinde istenilen oranda kilo kaybı sağlamadığı dolayısıyla kombinasyon şeklinde 
+kullanılmaktadır (32). Bu konudaki araştırmaların sonuçlarına bakılınca, bu kombinasyonun hastalarda 
+ortalama %10’luk bir kilo kaybına yardımcı olduğugörülmektedir (31).   
+3.4. Fentermin - Fenfluramin  
+Fenfluramin serotonerjik yolak ile etkili olmakla beraber serotoninin salımını uyarabilir ancak 
+serotoninin geri alımını engellemektedir (31). Bu ilaçlar, serotoninin damar daraltıcı etkisi yoluyla 
+veya akciğer damar düz kas zarının depolarizasyonunu değiştirerek pulmoner hipertansiyona neden 
+olabilir (35).  
+3.5. Sibutramin 
+1997 yılında piyasaya sunulan vücutta aktif metabolitlerine dönüşerek iştahı baskılayıp tokluk 
+hissetmeyi sağlayan bir ilaçtır (31).  Sibutramin beyinde serotonin ve norepinefrin seviyelerini 
+artırmakta etkilidirayrıca seratonerjik etkisinin iştahı etkilediği düşünülmektedir (29). Sibutramin aynı 
+zamanda tokluk hissi veren fizyolojik süreci hızlandırabilmektedir (36).  
+Bir randomize çalışmada 48 obez yetişkine düşük kalorili diyet, davranış değişikliği ve egzersiz 
+önerilerek 3 gruba ayrılmıştır. 2.gruba sibutramin ve 3. gruba orlistat başlanmıştır. İlaç verilmeyen 
+veya ilaç denenen 3 grupta 6 ayın sonunda en belirgin ağırlık kaybeden grup; sibutramin ile çalışan 
+grup olmuştur. Ayrıca bu tedavi grubunda log albuminüri seviyesindeki azalma da anlamlı 
+bulunmuştur (37).  
+3.6. Metformin 
+Metformin diabetes mellitus tedavisinde kullanmaya onaylı bir biguanid ajandır (32). Bu ilaç hepatik 
+glukoz üretilmesini ve glukozun emilimesini azaltıp insülin hassasiyetini artırmaktadır (31). Ayrıca 
+metformin kullanımının yağsız dokuda üzerindeki etkisi az iken yağ kütlesinde azaltıcı etki gösterir 
+(32). 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+58 
+ 
+Metformin'in etkisini araştıran Diyabet Önleme Programı'nda çift kör, plasebo kontrollü çalışma 
+yapılmıştır (38). Bu çalışmanın ilk 2,8 yılında, metformin ile tedavi edilen grup ortalama 2,9 kg 
+(%2,5) vücut ağırlığı kaybederken, plasebo grubunda bu kayıp sadece 10,42 kg olmuştur (P<0,001). 
+Kilo kaybının derecesi, metformin kullanımıyla ilişkili bulunmuştur. En uyumlu olanların, 2 yıl 
+sonunda ortalama 3,5 kg kaybettiği gözlenmiştir. Bu farklı ortalama kilo kaybı, 8 yıllık takip süresi 
+boyunca devam etmiş, yüksek uyumlu hastalar başlangıç değerlerinin 3-4 kg altında kalmışlardır (38).  
+Başka bir çalışmada başlangıçta BKİ’si 36 kg/m2 olan obeziteli çocuklara günlük 1-2 gram olan 
+metformin kullanımını plasebo ile karşılaştıran bir meta-analiz sonucunda metformin tedavisinin BKİ 
+skorunu düşürdüğü görülmüştür (39).  
+Metforminin kilo düşürücü etkisi yeterli kilo kaybı sağlamasa da hem fazla kilolu olup hem diyabete 
+sahip hastalar için yeterince faydalı bir seçenektir. İnsülin duyarlılığını arttırarak güvenilir profil çizer 
+ve uzun dönem klinik deneyime sahiptir (34). 
+3.7. Rimonabant 
+Endokannaboid sistem, iştah kontrolünde ve glikoz metabolizmasında önemli bir rol oynamaktadır. 
+Rimonabant, endokannabinoid sistemindeki kannabinoid-1 reseptörlerini seçici olarak bloke ederek 
+etki gösteren yeni bir ajan sınıfının ilk örneğidir (40). Rimonabant, doygunluk sağlayıp karaciğer 
+tarafından üretilen lipogenezi inhibe ederek adinopektin düzeylerini düşürür ve adipoz dokulardaki 
+yağ birikimini azaltmaktadır (31). 
+Bir çalışmada, en az bir yıl süren düşük kalorili bir diyete ek olarak 20 mg ve 5 mg rimonabant 
+kullandırılan hastaları plasebo ile karşılaştırmışlardır. Plaseboya kıyasla, 20 mg rimonabant 
+kullandırılan grubun bir yıllık sonuçlarında vücut ağırlığında 4,9 kg daha fazla azalma sağlandığı 
+görülmüştür (41). Rimonabant ile ilgili 4 çalışmanın her birinde, 1 ila 2 yıllık bir süre içinde vücut 
+ağırlığı ve bel çevresinde önemli azalmalar gözlemlenmiştir (40). Ayrıca, hem diyabetik olmayan obez 
+hastalarda hem de tip 2 diyabetli aşırı kilolu/obez hastalarda trigliseritler, kan basıncı, insülin direnci, 
+C-reaktif protein seviyeleri ve kolesterol konsantrasyonları dahil olmak üzere kardiyometabolik risk 
+faktörlerini iyileştirmiştir (40). 
+3.8. Bupropion 
+Bupropiyon; sigarayı bıraktırma ve depresyonun medikal tedavisinde kullanılan bir ilaçtır (13). Bu 
+ilacın, Norepinefrin metabolizmasını modüle ederek kilo kazanımından da koruduğu gözlenmiştir 
+(13).  
+Bupropion ilacının kilo kaybı üzerinde etkisini göstermek amacıyla obez yetişkinlerle yapılan 48 
+haftalık bir randomize, plasebo kontrollü çalışmada, yaşam tarzı müdahale programının bir parçası 
+olarak katılımcılarayaşam tarzı danışmanlığı planlanarak günlük öğün yerine geçen ürünler verilip 
+egzersiz reçetesi ile bütün bunlara ek olarakbupropion kullanımı teşvik edilmiştir (42). Sonuç olarak 
+plasebo grubundaki katılımcılara göre bupropion kullanan hastalarda daha fazla kilo kaybı olduğu 
+sonucuna ulaşılmıştır (42). 
+3.9. Dietilpropion 
+Dietilpropion, fentermin gibi norepinefrin salınımını uyaran amfetaminlere benzer özellikler gösteren 
+sempatomimetik aminlerdir. Ancak amfetaminden farklı olarak, sinapstaki dopamin salınımı üzerinde 
+yok denecek kadar az etkisi vardır (43). Mevcut sempatomimetik ilaçlar (dietilpropion, fentermin, 
+benzfetamin ve fendimetrazin) tokluk hissi vermelerinden dolayı obezitenin farmakolojik tedavisinde 
+kullanılmaktadır (44).  
+Cercato ve arkadaşlarının yaptığı randomize çift kör plasebo kontrollü çalışmada, 69 obez sağlıklı 
+yetişkin, 6 ay boyunca düşük kalorili bir diyetle beraber günde iki kez 50 mg dietilpropion alacak 
+şekilde iki gruba ayrılmıştır (45). Birincil sonuç, vücut ağırlığındaki yüzde değişim olarak izlenmiştir.  
+6 ay sonra, dietilpropion grubunda başlangıç vücut ağırlığının ortalama %9,8'i kaybedilirken, plasebo 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+59 
+ 
+grubunda bu oran %3,2 olarak kayıt altına alınmıştır. Dietilpropion artı diyet, 1 yıl boyunca 
+sürdürülebilir ve klinik olarak anlamlı kilo kaybı sağlamıştır (45).  
+Endonezya'davücut kitle indeksi ≥ 25 kg/m2 olan 142 obez hasta ile dietilpropionun kısa vadeli kilo ve 
+yağ kaybı üzerindeki etkilerini değerlendirmeyi amaçlayan bir çalışma yapılmıştır (46). Hastalara, 84 
+gün boyunca diyet müdahalesiyle birlikte her 2 haftada bir, günde 3 kez 25 mg dietilpropion reçete 
+edilmiştir. Çalışmanın sonucunda dietilpropion kullanımının 12 haftalık tedavi süresi boyunca 
+hastalarda kas kütlesinin korunmasıyla beraber vücut ağırlığında azalma meydana getirdiğini 
+göstermiştir (46).  
+3.10. Lorcaserin 
+Yeme dürtüsünü kontrol altına almak, kilo verme tedavisinde önemlidir. Belirli merkezi serotonin 
+reseptörlerinin uyarılması, iştahı baskılamak için etkili bir farmakolojik mekanizmayı temsil eder (47). 
+G-protein bağlantılı reseptör ailesinin bir üyesi olan 5-hidroksitriptamin 2 (5HT2) reseptörü, çeşitli 
+merkezi etkili obezite karşıtı ilaçların hedefidir. İştah baskılanması esas olarak, obezite karşıtı 
+tedavinin hedefi olan 5-HT2C reseptörü aracılığıyla gerçekleşir (47).  Lorcaserin, kilo verme 
+tedavisinde kullanılan yeni bir seçici 5-HT2C reseptör agonistidir (48). 
+Yaşam tarzı değişikliği programıyla birlikte kilo kaybı ve kilo kaybının korunmasında lorcaserinin 
+etkinliğini ve güvenliğini belirlemek üzere tasarlanmış, çift kör, randomize, plasebo kontrollü bir 
+klinik çalışmada, 2 yıl boyunca toplam 3.182 yetişkin dahil edilmiştir. Günde iki kez 10 mg lorcaserin 
+verilen hastaların, çalışmanın sonunda vücut ağırlıklarının azaldığı görülmüştür. (48). 
+3.11. Liraglutide  
+Liraglutid, glukagon benzeri peptid-1'in (GLP-1) bir türevi olup 2010 yılında tip 2 diyabet ve 2014 
+yılında kilo yönetimi için Amerikan İlaç Derneği (FDA) tarafından kullanımına izin verilmiştir (49). 
+Glukagon benzeri peptid 1 (GLP-1), distal ileum ve proksimal kolonun vagal çekirdeğinden salgılanan 
+bir hormonudur. Mide boşalma hızını yavaşlatır, yemek sonrası tokluk ve şişkinlik hissi sağlar, 
+hipotalamusta bulunan limbik ve korteks yoluyla tokluk hissi verir ve iştahı azaltarak gıda tüketimini 
+düşürür (50). Liraglutid tedavisi, kilo ile ilişkili en az bir komorbidite varlığı durumunda BKİ ≥ 27 
+kg/m² olan hastalar ile belirtilen komorbid durumları olmayan BKİ ≥ 30 kg/m² olan kişilerde diyet ve 
+egzersize ek olarak endikedir (51).  
+Liraglutid genellikle iyi tolere edilir. Geçici hafif şiddette bulantı ve kusma başlıca yan etkileri olup 
+kilo kaybına katkıda bulunabilir; geçici bulantı veya kusma yaşayanların, yaşamayanlara göre yaklaşık 
+3 kg daha fazla kilo verdiği araştırmalarda saptanmıştır (52). Yapılan bir çalışmaya göre, 6 ay 
+liraglutid tedavisi alan obez hastaların çalışma sonunda, TSH değerlerinde anlamlı bir azalış ve 
+metabolik parametrelerde iyileşme gözlemlenmiş ancak tiroid hormon seviyelerinde bir değişiklik 
+saptanmadığı gözlenmiştir (53). Başka bir çalışmada ise, fazla kilolu ve obez olan 303 hastaya 6 ay ve 
+üzeri bir sürede diyet ve egzersizle kombine olarak liraglutide kullanımı desteklendiğinde %20’lere 
+varan kilo kaybı sağladığı görülmüştür (54). 
+3.12. Eksenatid 
+Glukagon benzeri peptid-1 reseptör agonistleri (GLP-1 RA), GLP-1 reseptö rlerini aktifleştirerek 
+pankreas β-hü crelerinin glukoza karşı duyarlılığını artırarak mide boş almasını geciktirip tokluk hissini 
+güçlendirir. Eksenatid, bu grubun kısa ve etkili bir üyesidir (55). Aynı zamanda, sistolik kan basıncını 
+birkaç mmHg düşürerek bir miktar kilo kaybı (ortalama 2-4 kg) da sağlanmasına yardımcı olurlar (56). 
+Eksenatid, monoterapi olarak uygulandığında, 24 haftalık tedavi süreci boyunca yaklaşık 3 kg’lık kilo 
+kaybı ve Hb1AC değerlerinde %0,7-0,9 arasında azalma sağladığı gözlemlenmiştir (31). İnsanlarda 
+eksenatidin yan etkileri baş ağrısı, bulantı ve kusma olsa bile bunlar dozun kademeli olarak 
+artırılmasıyla azalır. Esas olarak bu ilaçla kilo verilmesinin ilginç yanı, yaşam tarzı değişikliği, diyet 
+veya egzersiz reçete edilmeden gerçekleşmiş olmasıdır (57).  
+4. Çalışmalara Göre Etkileşimler  
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+60 
+ 
+Orlistat ile yapılan 4 yıllık çift kör, randomize, plasebo kontrollü bir çalışmada, %21'i bozulmuş 
+glukoz toleransına sahip olan 3304 aşırı kilolu hastada, ilk yılda orlistat ile tedavi edilen grupta 
+başlangıç değerinin %11 altında kilo kaybı elde edilirken 4 yılın sonunda bu hastalar başlangıç 
+değerinin %6,9 altında, plasebo grubundakiler ise %4,1 altında kaldığı gözlemlenmiştir (57). İki yüz 
+obez hastanın dâhil edildiği 24 haftalık bir randomize kontrollü çalışmada ise topiramat ile birlikte 
+fentermin (100 mg/15 mg) in topiramat (100 mg), fentermin (15 mg) ve plasebo ile ağırlık kaybına 
+olan etkileri karşılaştırılmıştır. Fentermin + topiramat tedavisi 11.4 kg’ lık ağırlık kaybı sağlarken 
+yalnız topiramat (6.6 kg), yalnız fentermin (5.3 kg) ve plasebo (2.2 kg) ile sağlanan ağırlık 
+kayıplarından daha fazla olduğu gözlemlenmiştir (58).  
+Yaklaşık %80'inin eş zamanlı yaşam tarzı değişiklikleri uyguladığı, 6-52 hafta süren çalışmaların 
+meta-analizinde dietilpropionun 3 kg kilo kaybına yol açtığı gösterilmiştir (49). Başka bir meta-analiz 
+çalışması, sibutraminin, BKİ’si 25 kg/m2 veya daha yüksek olan aşırı kilolu ve obez yetişkinlerde 12 
+ayda yaklaşık 4,45 kg kilo kaybını desteklediğini göstermiştir. 12 aylık bir çalışmada, sibutraminin 
+plazma glikozu, insülin, trigliseritler, toplam kolesterol, düşük yoğunluklu lipoprotein kolesterolü 
+(LDL-C) ve yüksek yoğunluklu lipoprotein kolesterolü (HDL-C) dahil olmak üzere obezite ile ilişkili 
+biyokimyasal risk faktörlerini iyileştirerek potansiyel fayda sağladığı da gösterilmiştir (59).  
+5. Sonuç 
+Obezite, pek çok açıdan hastaların hayatını olumsuz etkileyecek sonuçları olan bir halk sağlığı 
+problemidir. Obezite tedavisi hastalar için çok önemli olup birkaç basamaktan oluşmaktadır. 
+Başlanması için belli şartları olan ilaç tedavisi de bu basamaklardan biridir. Aynı zamanda diğer tedavi 
+basamaklarının yetersiz kaldığı zamanlarda da farmakolojik tedavi akla gelen ilk seçenek olmaktadır. 
+Ancak ilaçlar; hastaların klinik ihtiyaçlarına uygun şekilde kişisel gereksinimlerini karşılayacak 
+dozlarda, yeterli zaman aralığında almaları gereken kurallara uyularak başlatılmalıdır. İlaçların 
+besinlerle veya diğer ilaçlarla etkileşime girebileceği unutulmadan doktorlar tarafından hastalara 
+bilgilendirilme yapılmalıdır. Halk sağlığı açısından değerlendirildiğinde öncelikle besin-ilaç 
+etkileşimleri konusunda sağlık çalışanlarına (doktor, eczacı, hemşire, diyetisyen vd.) belirli 
+periyodlarda gerekli hizmet içi eğitimlerin verilmesi gereklidir. Daha sonra sağlık çalışanları 
+aracılığıyla toplumun bilgi düzeyinin artırılması, ilaç etkileşimleri ve akılcı ilaç kullanımı hakkındaki 
+farkındalığın arttırmasını sağlayacaktır. 
+ 
+ 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+61 
+ 
+6. Kaynakça 
+ 
+1. Jiang, S. Z., Lu, W., Zong, X. F., Ruan, H. Y., & Liu, Y. (2016). Obesity and 
+hypertension. Experimental 
+and 
+therapeutic 
+medicine, 12(4), 
+2395–2399. 
+https://doi.org/10.3892/etm.2016.3667 
+2. World Health Organization (WHO). (2004). Obesity: preventing and managing the global 
+epidemic. Report of a WHO consultation. World Health Organ Tech Rep Ser. 2000;894:i-xii, 
+1-253. PMID: 11234459. 
+3. McGowan, B., Ciudin, A., Baker, J.L., Busetto, L., Dicker, D., Frühbeck, G., Goossens, G.H., 
+Monami, M., Sbraccia, P., Martinez-Tellez, B., Woodward, E., Yumuk V. (2025). 
+Framework for the pharmacological treatment of obesity and its complications from the 
+European Association for the Study of Obesity (EASO). Nature Medicine,  31, 3229–3232. 
+https://doi.org/10.1038/s41591-025-03765-w. 
+4. Çolak, H. ve Çolak, E. (2024). Türkiye'de cinsiyete göre obezite öncesi yüzdelik dağılımının 
+yapay sinir ağı ve zaman serileri ile tahmini. Karadeniz Fen Bilimleri Dergisi, 14(3), 1340-
+1359. 
+5. Nas, S. (2025). İç hastalıkları ve genel cerrahi doktorlarının obez hastalar hakkında tutum ve 
+davranışlarının değerlendirilmesi: Tanımlayıcı çalışma. Türkiye Klinikleri Sağlık Bilimleri 
+Dergisi. 10(2), 347- 356. 
+6. Altunal, Ç. (2021). Obezite tedavisinde gözden kaçan noktalar. “Akılcı ilaç kullanımı” 
+Elektronik kitap, 10 Ocak 2026 tarihinde https://www.ilacvetedavidernegi.org/files/bildiri-
+kitabi-2021.pdf adresinden erişildi. 
+7. Kılınç, E. ve Kartal, A.  (2022). Lise öğrencilerinde sedanter yaşam, beslenme davranışları ve 
+fazla 
+kiloluluk-obezite 
+arasındaki 
+ilişkinin 
+değerlendirilmesi: 
+bir 
+vaka 
+kontrol 
+çalışması.Dokuz Eylül Üniversitesi Hemşirelik Fakültesi Elektronik Dergisi. 15 (1), 30-39. 
+https://doi.org/10.46483/deuhfed.898847. 
+8. Eker, E. ve Şahin, M. (2002). Birinci basamakta obeziteye yaklaşım. Sted, 11(7), 246-249. 
+9. Annagür, B. B. (2010).  Obezitede çeşitli risk Faktörleri ve dürtüsellik. Psikiyatride Güncel 
+Yaklaşımlar. 2 (4), 572-582. 
+10. T.C. Sağlık Bakanlığı, (2025). Türkiye Sağlıklı Beslenme Ve Hareketli Hayat Programı, 
+Obezite ile Mücadele ve Fiziksel Aktivite Eylem Planı 2025-2028, Ankara, 2-18. 
+11. Kılıç Uçar, A., Coşkun, A. K., Yiğit, T., Güvenç, G., Bektaş Pardes, B.  (2024). Obezite 
+cerrahisi geçiren bireylerde yaşam kalitesinin değerlendirilmesi. Akdeniz Tıp Dergisi, 10(2), 
+237-247. 
+12. Kurt, A. K., Zoba, C. A., Ateş, E., Set, T.  (2019). Birinci basamakta obezite yönetimi. Klinik 
+Tıp Aile Hekimliği Dergisi, 2(11), 55-60. 
+13. Bulut Çakmak, B. ve Dönmez, A. (2014). Obeziteye multidisipliner yaklaşım. Bilişsel 
+Davranışçı Psikoterapi ve Araştırmalar Dergisi, 3, 142-149. 
+14. Dizlek, D. ve Çatal, E. (2018). Morbid obezitede bariatrik cerrahi sonrası hasta sonuçları. 
+Düzce University Journal of Science and Technology, 6(2), 501-512. 
+15. Koçyiğit, Y. (2025). Obezite ve bariatrik cerrahi. Konsültasyon ve Liyezon Psikiyatrisi 
+Sempozyumu, 11-12 Ocak 2025, TOBB ETÜ, 53-55, Ankara. 
+16. Balcı, H. ve Küçükkendirci, H. (2019). Obezite ve obezite cerrahisinde beslenme. Türk 
+Bilimsel Derlemeler Dergisi, 12(2), 45–50. 
+17. Göktürk, F. ve Arıkoğlu, H. (2022). Obezite tanı ve tedavisinde nanoteknoloji uygulamaları. 
+Ed. İlter Demirhan, Sağlık & Bilim 2022: Nanotıp, 101- 104. 
+18. Evren, B. ve Topaloğlu, Ö. (2018). Obezitenin medikal tedavisi. Fırat Tıp Dergisi, 23, 72-77. 
+19. Obezite Tanı ve Tedavi Kılavuzu. (2024). Türkiye Endokrinoloji ve Metabolizma Derneği, 
+11. 
+Basım, 
+Ankara, 
+85 
+– 
+102.15 
+Şubat 
+2026 
+tarihinde 
+https://file.temd.org.tr/Uploads/publications/guides/documents/obezitetanitedavikilavizu-
+2024.pdf adresinden erişildi. 
+20. Öztürk, M. H. ve Aslan, D. (2024). Halk sağlığı perspektifiyle besin-ilaç etkileşimleri. 
+ESTÜDAM Halk Sağlığı Dergisi, 9(2), 213-223. 
+21. Çorum, D. ve Üney, K. (2017). Besin-ilaç etkileşimleri. Dicle Üniversitesi Veteriner 
+Fakültesi Dergisi, 10(1), 38-55. 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+62 
+ 
+22. Bayraktar-Ekincioğlu, A. ve Demirkan, K. (2014). Besin ve besin öğesi ile ilaç etkileşimleri. 
+Beslenme ve Diyet Dergisi, 42(2), 154-159. 
+23. Özaydın, N., Şensoy, F., Özaydın, N. (2015). Yaşlılarda besin ilaç etkileşimi. Sürekli Tıp 
+Eğitimi Dergisi, 3 (25), 125-130. 
+24. World Health Assembly, 39 (1986). Conference of experts on the rational use of drugs: report 
+by the Director-General: part III. World Health Organization. 17 Şubat 2026 tarihinde 
+https://iris.who.int/handle/10665/162008 adresinden erişildi. 
+25. Yılmaztürk, A. (2013). Türkiye’de ve Dünya’da akılcı ilaç kullanımı. Kastamonu Üniversitesi 
+İktisadi ve İdari Bilimler Fakültesi Dergisi, 2(2), 42-49. 
+26. Aydın, B. ve Gelal, A. (2012).  Akılcı ilaç kullanımı: Yaygınlaştırılması ve tıp eğitiminin 
+rolü. DEU Tıp Dergisi, 26(1), 57-63. 
+27. Durcan, E. (2023). Obezitede akılcı ilaç kullanımı. Türk Diyabet Yıllığı 2022-2023, 51 –57. 
+28. Yılmaz, M. (2018). Süper obez olgularda cerrahi tedavi tek seçenek değildir. Turkish Journal 
+of Diabetes and Obesity, 2(2), 85-92.  
+29. Erkekoğlu, P., Baydar, T., Şahin, G. (2009). Geriatrik grupta obezite tedavi yaklaşımlarının 
+toksikolojik açıdan değerlendirilmesi-II: Obezite tedavisinde kullanılan ilaçlar. Turkish 
+Journal of Geriatrics, 12(4), 202-216. 
+30. Kakkar, A. K. ve Dahiya, N. (2015). Drug treatment of obesity: current status and future 
+prospects. European Journal of Internal Medicine, 26(2), 89-94. 
+31. Şahin Şenyüz, C., Reis, R., Sipahi, H. (2019). Geçmişten günümüze obezite tedavisinde 
+kullanılan ilaçlar ve istenmeyen etkileri. Journal of Literature Pharmacy Sciences, 8(1), 61-
+75.  
+32. Erdoğan Erden, E., Yazıcı, Z. G., Kılıç Tatlıcı, C., Aydın, Ş., Kılıç, F. S. (2023). Obezite 
+tedavisinde farmakolojik yaklaşımlar. Osmangazi Tıp Dergisi, 45(1), 142-150. 
+33. Yücel, E., Çintesun, E. E. (2022). Besin destekleri ve ilaçların ağırlık regülasyonuna etkisi. 
+İZÜ Fen Bilimleri Enstitüsü Dergisi, 4 (1), 22-30. 
+34. Adaş, M. ve Mert, M. (2014). Obezitede medikal tedavi. Okmeydanı Tıp Dergisi, 30 (1), 50-
+55. 
+35. Connolly, H. M., Crary, J. L., McGoon, M. D., Hensrud, D. D., Edwards, B. S., Edwards, W. 
+D., Schaff, H. V. (1997). Valvular heart disease associated with Fenfluramine-Phentermine. 
+The New England Journal of Medicine, 337 (9), 581-588. 
+36. Yetkin, İ. ve Çimen, A. R. (2010). Obezitede tedavisinde diyet ve egzersiz. Mised, 23-24, 1-
+7. 
+37. Özgen, M., Özkan, Y., Koca, S. S., Işık, A. (2010). The effects of lifestyle changes, 
+sibutramine and orlistat in obese adults. Turkiye Klinikleri Journal of Cardiovasculer Science, 
+22 (1), 12-18. 
+38. Bray, G. A. ve Ryan, D. H. (2014). Update on obesity pharmacotherapy. Annals of The New 
+York Academy of Sciences, Apr:1311, 1-13. https://doi.10.1111/nyas.12328. 
+39. O’Connor, E. A., Evans, C, V., Burda, B. U., Walsh, E. S., Eder, M., Lozano, P. (2017).  
+Screening for obesity and intervention for weight management in children and adolescents: 
+evidence report and systematic review for the US Preventive Services Task Force, JAMA, 
+317 (23), 2427-2444. 
+40. Kang, J. G. ve Park, C. Y. (2012). Anti-obesity drugs: A review about their effects and safety. 
+Diabetes Metabolism Journal, 36, 13-25. 
+41. Curioni C. ve André C. (2006). Rimonabant for overweight or obesity. Cochrane Database 
+System Review, 18;2006(4):CD006162, 20-25. 
+42. Anderson, J. W., Frank .L G., Kenfujıoka, K. M., Gadde, J. M., Patrick, M. O. (2002).  
+Bupropion SR enhancesweight loss: a 48-week double-blind, placebo-controlled trial. 
+Obesity Research, 10, 633–641. 
+43. Li, M., Cheung, B. M. Y. (2009). Pharmacotherapy for obesity. British Journal of Clinical 
+Pharmacology, 68 (6), 804-810. 
+44. Torgutalp, Ş. Ş., Köse, B., Dönmez, G. (2016). Zayıflama ürünleri gerçekten etkili mi?. 
+Türkiye Klinikleri Dergisi, 2 (3), 66-72. 
+45. Cercato, C., Roizenblatt, V. A., Leança, C. C., Segal, A., Lopes Filho,  A. P., Mancini, M. C., 
+Halpern, A. (2009). A randomized double-blind placebo-controlled study of the long-term 
+BİTLİS EREN ÜNİVERSİTESİ SAĞLIK BİLİMLERİ DERGİSİ                     SAYI: 11 
+MART-2026 
+ISSN: 2980-1362 
+63 
+ 
+efficacy and safety of diethylpropion in the treatment of obese subjects. International Journal 
+of Obesity, 33, 857-865. 
+46. Nugraha, G. I., Amalia, F., Imadudda’wah, F., Ariyanto, E. F., Ghozali, M., Fatimah, S. N. 
+(2024). Combination of diethylpropion with dietary intervention results in body weight and 
+fat loss with preserved muscle mass in obese patients. Medicine Journal, 103(39):e39908. 
+https://doi.org/10.1097/MD.0000000000039908. 
+47. Bai, B. ve Wang, Y. (2011). The use of lorcaserin in the management of obesity: a critical 
+appraisal. Drug Design, Development and Therapy, 20 (5), 1-7. 
+48. Redman, L. M. ve Ravussin, E. (2010). Lorcaserin for the treatment of obesity. Drugs Today 
+(Barc), 46(12), 901–910. https://doi.org/10.1358/dot.2010.46.12.1556433. 
+49. Tiryakioglu, P., Yilmaz, H., Demir, I., Yilmaz, I. (2023). Current pharmacological 
+approaches 
+in 
+obesity 
+treatment. 
+DAHUDER 
+MJ, 
+3(2), 
+32-48. 
+https://doi.org/10.56016/dahudermj.1271677. 
+50. Çetinkaya Altuntaş, S. (2023). Medical treatment in obesity.  Turkish Journal of Diabetes and 
+Obesity, 3, 263-272. 
+51. Durcan, E. (2019).  Obezite tedavisinde bir yenilik: Liraglutid. 5. İlaç ve Tedavi Kongresi & 
+1. Uluslararası İlaç ve Tedavi Kongresi. 2-6 Ekim 2019. 1 Mart 2026 tarihinde 
+https://www.ilacvetedavidernegi.org/files/bildiri-kitabi-2019.pdfadresinden erişildi. 
+52. Manning, S., Pucci, A., Finer, N. (2014). Pharmacotherapy for obesity: Novel agents and 
+paradigms. Therapeutic Advances in Chronic Disease, 5(3) 135-148. 
+53. Urhan, E. (2023). Investigation the impact of liraglutide on the thyroid function tests. Turkish 
+Journal of Clinics and Laboratory, 2, 339-344. 
+54. Altınkaynak. M., Göksoy, Y., Senkal, N., Tor, Y B., Akpınar, T., Köse, M. (2023). 
+Obezitenin medikal tedavisinde liraglutide etkinliğinin araştırılması. Sakarya Tıp Dergisi, 
+13(3), 334-339. https://doi.org/10.31832/smj.1320355. 
+55. Çelik, E. (2025). Tı̇p 2 dı̇yabetlı̇ hastalarda eksenatı̇ d kullanımının kemı̇ k metabolı̇zması 
+üzerı̇ndekı̇ 
+etkı̇sinin 
+retrospektı̇f 
+olarak 
+araştırılması. 
+(Uzmanlık 
+Tezi). 
+https://acikerisim.uludag.edu.tr/server/api/core/bitstreams/e00420f4-d848-4476-9dc8-
+484323c32a68/content. 
+56. Çağlın, M. (2024). Diyabetik obezlerde eksenatid sonrası metabolik ve inflamatuar 
+belirteçlerin 
+değerlendirilmesi. 
+(Uzmanlık 
+Tezi). 
+https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp (870682).  
+57. Bray, G. A. ve Ryan, D. H. (2012). Medical therapy for the patient with obesity. American 
+Heart 
+Association, 
+125 
+(13), 
+1695-1703. 
+https://doi.org/10.1161/CIRCULATIONAHA.111.026567. 
+58. Gadde,  K. M., Allison, D. B. (2009). Combination Therapy For Obesity And Metabolic 
+Disease. Diabetes and Obesity, 16, 353 – 358.  
+59. Li, M., Cheung, B. M. Y. (2011). Rise and Fall Of Anti-Obesity Drugs. World Journal of 
+Diabetes, 2(2), 19-23.  

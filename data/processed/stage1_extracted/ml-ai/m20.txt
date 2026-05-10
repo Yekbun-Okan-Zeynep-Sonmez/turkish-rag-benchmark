@@ -1,0 +1,2390 @@
+Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594
+ 
+ 
+ 
+Soil temperature forecasting based on time series analysis with transformer models 
+ 
+Muhammet Mücahit Enes Yurtsever1
+, Zeynep Hilal Kilimci 1*
+, Ayhan Küçükmanisa2
+ 
+1Department of Information Systems Engineering, Faculty of Technology, Kocaeli University, İzmit, Kocaeli, 41001, Türkiye 
+2Department of Electronic and Communications Engineering, Faculty of Engineering, Kocaeli Universityİzmit, Kocaeli, 41001, Türkiye 
+ 
+Highlights: 
+ 
+Graphical/Tabular Abstract 
+ Presents the first 
+systematic application of 
+Transformer models for 
+soil temperature prediction 
+ Compares Transformer 
+architectures against tree-
+based and deep learning 
+models 
+ Demonstrates that 
+Transformer models 
+consistently achieve lower 
+error metrics across 
+various forecasting 
+horizons 
+A novel transformer-based framework is proposed for soil temperature forecasting using environmental 
+time-series data from the FLUXNET network. The framework employs advanced transformer
+architectures-Vanilla Transformer, Informer, Autoformer, Reformer, and ETSformer-to capture long-
+range temporal dependencies in environmental data. To evaluate its effectiveness, the proposed approach
+is compared with traditional machine learning methods (Random Forest and XGBoost) and deep learning 
+models (CNN and LSTM) across six FLUXNET stations representing diverse environmental conditions.
+The results demonstrate that transformer-based models achieve state-of-the-art prediction accuracy and 
+maintain stable performance across different sites. 
+ 
+Table A. Performance comparison of transformer-based models for predicting soil temperature at 
+96,192,336, and 720 time-steps into the future 
+ 
+Methods 
+Method Details 
+Time 
+Step (h) 
+NL – 
+Loo 
+FR - 
+Lbr  
+BE – 
+Vie 
+IT – 
+Col 
+Fl – 
+Hyy 
+CH - 
+Lae 
+(Wang et al., 
+2021) 
+GRU & Auxiliary 
+Network 
+24 
+- 
+- 
+- 
+- 
+- 
+1.028 
+(Hao et al., 
+2021) 
+EEMD-CNN 
+120 
+- 
+- 
+- 
+- 
+- 
+0.498 
+(Li et al., 
+2022) 
+Attention-based 
+LSTM 
+168 
+0.352 
+0.811 
+1.119 
+2.947 
+3.268 
+- 
+Proposed 
+Method 
+Reformer 
+192 
+0.158 
+0.251 
+0.258 
+0.174 
+0.204 
+0.297 
+ 
+Purpose: This study aims to develop a transformer-based framework for accurate soil temperature
+forecasting by exploiting advanced attention mechanisms capable of modeling long-range temporal 
+dependencies in environmental time series. 
+ 
+Theory and Methods: Environmental time-series data from six FLUXNET stations are preprocessed to
+remove noise and extract temporal patterns from a 96-hour input sequence. Random Forest and XGBoost
+are used as machine learning baselines, while CNN and LSTM represent conventional deep learning 
+approaches. Five transformer variants-Vanilla Transformer, Informer, Autoformer, Reformer, and
+ETSformer-are implemented to capture complex temporal dependencies. These architectures incorporate
+advanced attention mechanisms such as locality-sensitive hashing (Reformer) and exponential smoothing 
+(ETSformer) to efficiently model long-term patterns. Model performance is evaluated using Mean Squared 
+Error (MSE) and Mean Absolute Error (MAE) across multiple forecasting horizons (96, 192, 336, and 720 
+hours), (Table A). The input sequence length for these models is 96 timesteps, and the table shows the 
+results for different prediction horizons across the six FLUXNET stations 
+ 
+Results: Experimental results show that transformer-based models consistently outperform both tree-
+based and conventional deep learning methods, particularly for longer prediction horizons. The models
+achieve significantly lower MAE values and demonstrate stable performance across all six FLUXNET 
+stations, confirming their robustness under different environmental conditions. 
+ 
+Conclusion: The proposed transformer-based framework provides a scalable and accurate solution for soil
+temperature forecasting. By effectively capturing long-range dependencies in environmental time series, 
+the approach surpasses traditional machine learning and deep learning models, offering a reliable tool for
+environmental monitoring, climate analysis, and agricultural decision support. 
+ 
+ 
+ 
+ 
+Keywords: 
+ 
+ Soil temperature prediction 
+ Transformer models 
+ Time series forecasting 
+ Deep learning 
+ FLUXNET 
+ 
+ 
+Article Info: 
+ 
+Research Article 
+Received: 21.03.2025 
+Accepted: 19.01.2026 
+ 
+DOI:  
+ 
+10.17341/gazimmfd.1662870 
+ 
+ 
+ 
+Correspondence: 
+ 
+Author: Zeynep Hilal Kilimci 
+e-mail: 
+zeynep.kilimci@kocaeli.edu.tr 
+phone: +90 262 303 2242 
+ 
+Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594
+ 
+580 
+ 
+Transformatör modelleri ile zaman serisi analizi tabanlı toprak sıcaklığı tahmini 
+ 
+Muhammet Mücahit Enes Yurtsever1
+, Zeynep Hilal Kilimci1*
+, Ayhan Küçükmanisa2
+ 
+1Kocaeli Üniversitesi, Teknoloji Fakültesi, Bilişim Sistemleri Mühendisliği Bölümü, İzmit, Kocaeli, 41001, Türkiye 
+2Kocaeli Üniversitesi, Mühendislik Fakültesi, Elektronik Haberleşme Mühendisliği Bölümü, İzmit, Kocaeli, 41001, Türkiye 
+ 
+Ö  N  E  Ç  I  K  A  N  L  A  R  
+ 
+Toprak sıcaklığı tahmini için transformatör modellerinin ilk sistematik uygulamasını sunar 
+ 
+Transformatör mimarilerini, ağaç tabanlı modeller ve derin öğrenme modelleri ile karşılaştırır 
+ 
+Transformatör modellerinin, farklı tahmin sürelerinde daha düşük hata metrikleri sağladığını gösterir 
+ 
+ 
+ 
+ 
+Makale Bilgileri 
+ 
+ÖZ 
+Araştırma Makalesi 
+Geliş: 21.03.2025 
+Kabul: 19.01.2026 
+ 
+DOI:  
+ 
+Toprak sıcaklığı; buzulların enerji dengesi, kütle dengesi, ekolojik istikrar ve tarımsal verimlilik üzerinde
+belirleyici bir değişken olup, karmaşık ve doğrusal olmayan etkileşimler nedeniyle doğru biçimde tahmin
+edilmesi güçtür. Mevcut yöntemler bu karmaşıklıkları yeterince temsil edemediğinden, daha gelişmiş
+modellere ihtiyaç duyulmaktadır. Bu çalışma, toprak sıcaklığı tahmini için transformatör tabanlı yeni bir
+çerçeve önermektedir. Transformatör mimarilerinin uzun vadeli bağımlılıkları ve zamansal örüntüleri 
+yakalama konusundaki üstün yeteneklerinden yararlanılarak çevresel veriler üzerinde yüksek doğruluklu bir
+tahmin modeli geliştirilmiştir. Modelin geliştirilmesi ve değerlendirilmesi için altı farklı FLUXNET
+istasyonundan elde edilen veriler kullanılmıştır. Karşılaştırmalı analizler; ağaç tabanlı yöntemler, klasik
+derin öğrenme mimarileri ve beş gelişmiş transformatör modeli (Vanilla Transformer, Informer, Autoformer,
+Reformer ve ETSformer) ile gerçekleştirilmiştir. Sonuçlar, transformatör tabanlı modellerin tahmin 
+doğruluğu bakımından geleneksel yaklaşımlara kıyasla belirgin üstünlük sağladığını göstermektedir. Ayrıca
+önerilen yöntemin farklı çevresel koşullarda tutarlı, sağlam ve genelleştirilebilir performans sergilediği
+doğrulanmıştır. Bulgular, transformatör modellerinin çevresel tahmin problemlerinde, özellikle toprak
+sıcaklığı öngörüsünde, yüksek potansiyele sahip olduğunu ortaya koymakta hem bilimsel anlayışa katkı
+sağlamakta hem de ölçeklenebilir, güvenilir ve pratik uygulamalara uygun bir araç sunmaktadır. 
+10.17341/gazimmfd.1662870
+ 
+Anahtar Kelimeler: 
+ 
+Derin öğrenme,  
+FLUXNET,  
+toprak sıcaklığı tahmini, 
+transformatör modeller, 
+zaman serisi kestirimi 
+ 
+ 
+ 
+Soil temperature forecasting based on time series analysis with transformer models 
+ 
+H  I  G  H  L  I  G  H  T  S  
+ 
+Presents the first systematic application of Transformer models for soil temperature prediction 
+ 
+Compares Transformer architectures against tree-based and deep learning models 
+ 
+Demonstrates that Transformer models consistently achieve lower error metrics across various forecasting horizons 
+ 
+ 
+ 
+ 
+Article Info 
+ 
+ABSTRACT 
+Research Article 
+Received: 21.03.2025 
+Accepted: 19.01.2026 
+ 
+DOI: 
+ 
+Soil temperature is a critical variable influencing glacier energy balance, mass balance, ecological stability,
+and agricultural productivity; however, its accurate prediction remains challenging due to complex and
+nonlinear interactions. Existing methods often fail to adequately capture these complexities, highlighting the 
+need for more advanced modeling approaches. This study proposes a novel transformer-based framework 
+for soil temperature forecasting. Leveraging the superior capability of transformer architectures to model
+long-term dependencies and temporal patterns, a high-accuracy predictive model is developed using
+environmental data. Data collected from six FLUXNET stations are employed for model development and
+evaluation. Comparative analyses are conducted against tree-based methods, conventional deep learning
+architectures, and five advanced transformer models (Vanilla Transformer, Informer, Autoformer, Reformer,
+and ETSformer). Experimental results demonstrate that transformer-based models achieve substantially
+higher predictive accuracy than traditional approaches. Moreover, the proposed method exhibits consistent,
+robust, and generalizable performance across diverse environmental conditions. These findings indicate that
+transformer models hold significant promise for environmental forecasting tasks, particularly for soil 
+temperature prediction. The study contributes to advancing scientific understanding of soil temperature
+dynamics while providing a scalable, reliable, and practically applicable tool. Overall, the proposed approach
+addresses complex environmental prediction challenges and underscores the transformative potential of
+transformer-based methodologies for future research and applications. 
+10.17341/gazimmfd.1662870
+ 
+Keywords: 
+ 
+Deep learning,  
+FLUXNET,  
+soil temperature prediction, 
+transformer models,  
+time series forecasting 
+ 
+ 
+ 
+*Sorumlu Yazar / Yazarlar / *Corresponding Author / Authors: enes.yurtsever@kocael൴.edu.tr, *zeynep.k൴l൴mc൴@kocael൴.edu.tr, ayhan.kucukman൴sa@kocael൴.edu.tr 
+/ Tel: +90 262 303 2242 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+581 
+ 
+1. Giriş (Introduction) 
+ 
+Toprak sıcaklığının çevresel dinamikler bağlamındaki önemi, birçok 
+ekolojik süreç üzerindeki karmaşık etkileriyle desteklenmekte olup, 
+ekosistem yapısı ve işleyişinin temel belirleyicilerinden biri haline 
+gelmektedir. Toprak sıcaklığının etkileri, biyotik ve abiyotik 
+unsurların geniş bir yelpazesinde hissedilmekte ve biyokimyasal 
+döngülerin oluşumunda, bitki fizyolojisinin şekillenmesinde ve genel 
+çevresel dinamiklerin belirlenmesinde kritik bir rol oynamaktadır. 
+ 
+Toprak sıcaklığının önemi, biyokimyasal döngüleri yönlendirmedeki 
+kritik rolünden kaynaklanmaktadır. Toprak sıcaklığı, mikrobiyal 
+enzim kinetiği üzerinde belirgin bir etkiye sahip olup, organik madde 
+ayrışma ve besin mineralizasyon hızlarını düzenlemektedir. Bu temel 
+süreç, ekosistem besin maddesi mevcudiyetini ve döngü dinamiklerini 
+belirleyerek birincil üretkenliği ve trofik etkileşimleri etkilemektedir. 
+Adair vd. [1] tarafından belirtildiği gibi, sıcaklık ile yakından ilişkili 
+olan mikrobiyal aktivite, toprak ekosistemlerinde besin döngüsünü ve 
+kullanılabilirliğini düzenlemekte olup, toprak sıcaklığının besin 
+dinamiklerindeki merkezi rolünü vurgulamaktadır. 
+ 
+Buna ek olarak, toprak sıcaklığı bitkilerin fizyolojik tepkilerini 
+belirleyerek bitki örtüsü dinamikleri ve dağılım modelleri üzerinde 
+etkili olmaktadır. Termal rejim, çimlenme, vejetatif büyüme ve 
+çiçeklenme gibi fenolojik evreleri doğrudan düzenleyerek türlerin 
+ekosisteme 
+yerleşimini 
+ve 
+rekabetçi 
+etkileşimlerini 
+şekillendirmektedir. Bykova vd. [2] tarafından yapılan araştırma, 
+sıcaklık rejimlerindeki sapmaların bitki fenolojisini nasıl etkilediğini, 
+ekosistem içindeki senkronizasyonu bozarak tür bileşiminde 
+değişimlere yol açabileceğini ortaya koymaktadır. Toprak sıcaklığının 
+etkileri sadece karasal ekosistemlerle sınırlı kalmayıp sucul 
+ekosistemlere de uzanmaktadır. Değişen toprak sıcaklığı rejimleri, 
+çevredeki su kütlelerinde termal dalgalanmalar yaratarak sucul 
+organizmaların fizyolojisini ve dağılımını etkilemektedir. Bu 
+bağlantılı süreç, Fabris vd. [3] tarafından yapılan çalışmada açıkça 
+görülmektedir. 
+Çalışmada, 
+toprak 
+sıcaklığı 
+kaynaklı 
+termal 
+değişimlerin akarsu sıcaklıklarını nasıl etkilediği ve bunun sucul 
+türlerin metabolizma hızları ile yaşam alanı uygunluğuna nasıl 
+yansıdığı incelenmiştir. 
+ 
+Bunun yanı sıra, toprak sıcaklığı karbon dinamikleri ve sera gazı 
+emisyonları ile yakından ilişkilidir. Yükselen toprak sıcaklıkları, 
+mikrobiyal solunum hızlarını artırarak atmosfere salınan karbon 
+dioksit miktarını yükseltmektedir. Bu durum, iklim değişikliği 
+sürecini şiddetlendirmekte ve küresel karbon döngüsüne katkıda 
+bulunmaktadır. Bu bağlamda, Davidson vd. [4] tarafından yürütülen 
+çalışma, toprak sıcaklığı, mikrobiyal aktivite ve sera gazı emisyonları 
+arasındaki karmaşık geri besleme mekanizmalarını ayrıntılı bir 
+şekilde ortaya koymaktadır. 
+ 
+Toprak sıcaklığının ekosistem üzerindeki büyük etkileri göz önüne 
+alındığında, toprak sıcaklığının doğru belirlenmesi önemli ve yaygın 
+bir araştırma konusu haline gelmiştir. Toprak sıcaklığı, biyokimyasal 
+döngülerin merkezinde yer almakta olup, besin döngüsünü ve 
+ekosistem 
+işleyişini 
+yönlendiren 
+mikrobiyal 
+aktiviteleri 
+düzenlemektedir. Besin dinamiklerini tam anlamıyla kavrayabilmek 
+için toprak sıcaklığının toprak nemi, organik madde içeriği ve 
+mikrobiyal topluluk yapısı gibi parametrelerle nasıl etkileşime 
+girdiğinin anlaşılması gerekmektedir. Toprak sıcaklığının doğru 
+ölçülmesi, bu karmaşık ilişkileri ortaya çıkararak araştırmacıların 
+besin salınım hızlarını tahmin etmesine, besin yönetim stratejilerini 
+optimize etmesine ve ekosistemlerin dayanıklılığını sağlamasına 
+olanak tanımaktadır. 
+ 
+Bitki ekolojisi bağlamında, toprak sıcaklığı fenolojik geçişlerin ve tür 
+dağılımlarının belirleyicisi konumundadır. Toprak sıcaklığının doğru 
+tahmin edilmesi, onun güneş radyasyonu, nem mevcudiyeti ve bitki 
+örtüsü gibi faktörlerle nasıl bir etkileşim içinde olduğunu anlamaya 
+yardımcı olur. Bu bulgular, ekolojistlerin bitki yaşam stratejilerindeki 
+değişimleri öngörmesini sağlayarak türlerin sürekliliğini güvence 
+altına alan, genetik çeşitliliği koruyan ve bozulan alanları eski haline 
+getiren koruma stratejilerinin oluşturulmasına katkıda bulunur. 
+ 
+Ayrıca, kara ve su ekosistemleri arasındaki termal bağlantı, doğru 
+toprak sıcaklığı tahminine dayanmaktadır. Toprak sıcaklığındaki 
+dalgalanmaların çevredeki su kütlelerine nasıl yayıldığını anlamak, 
+bilim insanlarına ekosistemler arası termal etkileşimleri bütüncül bir 
+bakış açısıyla değerlendirme imkânı sunar. Bu bilgi, sucul habitatların 
+korunması, türlerin termal değişimlere nasıl tepki vereceğinin 
+öngörülmesi ve sucul besin ağlarını oluşturan karmaşık trofik 
+ilişkilerin sürdürülebilirliğini sağlamak için kritik öneme sahiptir. 
+ 
+Daha geniş bir çerçevede değerlendirildiğinde, toprak sıcaklığı 
+tahmini, sıcaklık değişimlerinin karbon dinamikleri üzerindeki 
+etkisini ölçmek için vazgeçilmez bir araçtır. Hassas ölçümler, toprak 
+sıcaklığı ile karbon döngüsünün temel taşı olan mikrobiyal aktivite 
+arasındaki ilişkiyi açığa çıkarmaktadır. Küresel çabalar sera gazı 
+emisyonlarını azaltmaya odaklanırken, toprak sıcaklığı tahmini 
+karbon akışlarını izlemeyi, arazi yönetim stratejilerini optimize 
+etmeyi ve sürdürülebilir, karbon-nötr bir geleceğe katkı sağlamayı 
+mümkün kılmaktadır. 
+ 
+Toprak sıcaklığı, temel bir çevresel parametre olup, değişkenliğini 
+belirleyen birçok karmaşık faktöre bağlıdır. Bu faktörler arasında 
+mevsimsellik, güneş radyasyonu, hava sıcaklığı, toprak nemi, toprak 
+bileşimi ve bitki örtüsü yer almaktadır. Bu faktörlere dayalı bilgiler 
+ışığında, toprak sıcaklığı termokupllar, dirençli termometreler, toprak 
+sıcaklık probları, kızılötesi termometreler ve uydu tabanlı sensörler 
+gibi kaynaklardan sağlanan veriler kullanılarak ölçülebilmektedir. Öte 
+yandan, son yıllarda makine öğrenmesi tabanlı yöntemler, toprak 
+sıcaklığı tahmininde büyük bir popülerlik kazanmış olup, veri odaklı 
+yaklaşımlar sunarak toprak sıcaklığı dinamiklerinin karmaşıklığını 
+anlamaya, bilinçli kararlar alınmasına, çevresel sistemlere dair daha 
+derin 
+bir 
+kavrayış 
+geliştirilmesine 
+ve 
+tüm 
+bu 
+süreçlerin 
+otomatikleştirilmesine olanak tanımaktadır. Bununla birlikte, makine 
+öğrenmesi tabanlı yaklaşımların; finansal zaman serilerinin analizi, 
+güneş ışınımı tahmini, endüstriyel ısı transferi süreçleri ve hidrolojik 
+akım tahmini gibi farklı disiplinlerde de başarıyla uygulandığı 
+literatürde açıkça görülmektedir [36–39]. 
+ 
+Bu çalışmada, toprak sıcaklığının tahmini amacıyla transformatör 
+modellerini kullanan öncü bir yöntem tanıtılmaktadır. Mevcut 
+literatür çerçevesinde, transformatör modellerinin bu kapsamda 
+kullanımı, toprak sıcaklığı tahminine yönelik ilk girişim olma 
+özelliğini taşımaktadır. Yapılan deneysel çalışmalar, altı farklı 
+FLUXNET istasyonunu kapsamakta olup, bu istasyonlardan elde 
+edilen veriler beş farklı transformatör modeli (Vanilla Transformer, 
+Informer, Autoformer, Reformer ve ETSformer) kullanılarak analiz 
+edilmiştir. Önerilen çerçevenin etkinliğini vurgulamak amacıyla, elde 
+edilen deneysel bulgular hem derin öğrenme metodolojileri hem de 
+mevcut akademik çalışmalar ile karşılaştırılmıştır. Bu bulgular, 
+transformatör modellerinin önemli bir değer taşıdığını doğrulamakla 
+kalmayıp, aynı zamanda bu modellerin akademik alandaki katkıları 
+önemli ölçüde artırma potansiyeline sahip olduğunu ortaya 
+koymaktadır. Böylece, toprak sıcaklığı tahmini alanında çığır açan 
+yeni bir paradigma oluşturulmaktadır. 
+ 
+Bu çalışmanın temel katkıları şu şekilde özetlenmiştir: 
+ 
+ Bu çalışma, çevresel modellemede kritik bir zorluğu ele alarak 
+toprak sıcaklığının tahmin doğruluğunu artırmaya yönelik öncü bir 
+transformatör tabanlı yaklaşım sunmaktadır. 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+582 
+ Toprak sıcaklığının modellenmesi için zaman serisi verilerine 
+transformatör mimarilerinin ilk kez sistematik olarak uygulandığı 
+bu çalışma, bu alanda yeni bir referans noktası oluşturmaktadır. 
+ Önerilen çerçevenin performansını değerlendirmek üzere kapsamlı 
+deneysel karşılaştırmalar yapılmış; en son teknoloji transformatör 
+modelleri, geleneksel ağaç tabanlı modeller ve ileri derin öğrenme 
+teknikleriyle karşılaştırılmıştır. Bu karşılaştırmalar, önerilen 
+yaklaşımın 
+üstün 
+performansını 
+ve 
+sağlamlığını 
+ortaya 
+koymaktadır. 
+ Önerilen model, çeşitli FLUXNET istasyonları ve zaman 
+ölçeklerindeki değişimleri etkili şekilde yakalayan güçlü bir 
+genelleme 
+yeteneği 
+sergilemekte, 
+böylece 
+gerçek 
+dünya 
+uygulamalarında güvenilirliği garanti altına almaktadır. 
+ Çalışma, mevcut metodolojilere kıyasla kayda değer bir iyileşme 
+sağlayarak toprak sıcaklığı tahmininde en son teknoloji 
+yaklaşımları geride bırakmakta ve bu alandaki literatüre önemli bir 
+katkı sunmaktadır. 
+ 
+Makalenin organizasyonu şu şekildedir: Bölüm 2, toprak sıcaklığı 
+tahmini ve ilgili konulara dair literatürü sunmaktadır. Bölüm 3, 
+çalışmada kullanılan veri toplama aşamalarını, yöntemleri ve önerilen 
+metodolojiyi tanıtmaktadır. Deneysel kurulum ve sonuçlar Bölüm 4'te 
+verilmiştir. Bölüm 5 ise sonuçları özetlemekte, tartışmakta ve gelecek 
+araştırma yönergelerini ortaya koymaktadır. 
+ 
+2. Literatür Çalışmaları (Related Works) 
+ 
+Bu bölüm, toprak sıcaklığı tahmini üzerine odaklanan literatür 
+çalışmalarının bir özetini sunmaktadır. Toprak sıcaklığı tahminine 
+odaklanan çalışmaların yanı sıra, toprak sıcaklığının kullanıldığı veya 
+bahsedildiği birçok alandaki çalışmaları da incelemekteyiz. Bu alanlar 
+arasında toprak nemi ve sulama yönetimi, bitki büyümesi ve 
+verimliliği, tohum çimlenmesi ve fide gelişimi, toprak organizmaları 
+ve mikroorganizmalar, toprak kimyası ve besinler, hastalıklar ve 
+zararlılar, toprak erozyonu ve yüzey sıcaklığı, çevresel değişiklikler 
+ve iklim etkileri gibi konular yer almaktadır. 
+ 
+Bir sistematik literatür taramasında [5] toplam 129 akademik makale, 
+derin öğrenme (DL) uygulamalarının tarım alanındaki kullanımına 
+odaklanarak incelenmiş ve bu çalışmalar beş farklı uygulama alanına 
+ayrılmıştır: Mahsul verimi tahmini, bitki stresi tespiti, yabani ot ve 
+zararlıların tanımlanması, hastalık tespiti ve akıllı tarım uygulamaları. 
+"Akıllı tarım" şemsiyesi altında su kaynakları yönetimi, tohum 
+incelemesi ve toprak kompozisyonunun kapsamlı analizi gibi alt 
+kategoriler de ele alınmıştır. Mevcut akademik araştırma, DL 
+yöntemlerinin tarımsal üretimi artırma ve ekonomik ilerlemeyi 
+destekleme 
+potansiyelini 
+vurgulamaktadır. 
+Çalışma, 
+özellikle 
+Evrişimli Sinir Ağları (CNN), Tekrarlayan Sinir Ağları (RNN), 
+AlexNet ve ResNet gibi denetimli öğrenme ağlarının tarım sektöründe 
+öne çıktığını ve ekonomik refahı artırmada etkili olduğunu ortaya 
+koymaktadır. 
+Bu 
+araştırma, 
+akıllı 
+tarım 
+uygulamalarını 
+kolaylaştırmak ve sürdürülebilir bir tarım ortamı yaratmak için derin 
+öğrenmenin potansiyelini tam olarak kullanmak amacıyla bu alanda 
+sürekli akademik araştırmaların gerekliliğini savunmaktadır. 
+ 
+Bir başka sistematik literatür taraması, hiperspektral görüntüleme 
+teknolojisi ve tarım uygulamalarında kullanılan ileri düzey DL ve 
+makine öğrenmesi algoritmalarına odaklanarak gerçekleştirilmiştir 
+[6]. Bu çalışma, önemli veri setlerini ve algoritmaları çıkarmak ve 
+birleştirmek 
+amacıyla 
+yürütülmüştür. 
+Araştırma, 
+Hyperion 
+hiperspektral, Landsat-8 ve Sentinel 2 çok bantlı veri setlerinin tarım 
+uygulamalarında en yaygın şekilde kullanıldığını ortaya koymaktadır. 
+En sık uygulanan makine öğrenmesi yöntemi ise destek vektör 
+makineleri ve rastgele orman (RF) algoritmalarıdır. Ayrıca, mahsul 
+sınıflandırma görevi, hiperspektral veri setleriyle başa çıkmadaki 
+kanıtlanmış etkinliği nedeniyle, DL temelli CNN modeli tarafından 
+gerçekleştirilmektedir. Bu incelemenin, özellikle makine ve DL 
+yöntemlerinin geçerli olduğu tarım uygulamaları bağlamında, 
+hiperspektral uzaktan algılama alanındaki yeni araştırmacılar için 
+büyük bir fayda sağlayacağı öngörülmektedir. 
+ 
+Zhang vd. çalışmalarında [7], toprak solunumunun (Rs) karasal 
+ekosistemlerde sıcaklık ve yağış tedavilerine verdiği tepki, 178 
+sıcaklık tedavisi ve 134 yağış tedavisini kapsayan çalışmaların 
+birleştirilmesiyle incelenmiştir. Sonuçlar, ısınma ve yağıştaki 
+ortalama artışların sırasıyla Rs'yi %13,1 ve %33,1 oranında artırdığını 
+göstermektedir. Ayrıca, yazarlar, Rs ile ilgili etki büyüklüklerinin 
+pozitifliğinin, ortalama yıllık sıcaklık (MAT), ortalama yıllık yağış 
+(MAP), yükseklik ve deney süresi (DUR) gibi çeşitli küresel 
+değişkenlerde gözlemlenebildiğini bildirmektedir. Bu belirgin 
+eğilimin, Rs'nin küresel iklim koşullarının geniş yelpazesine güçlü bir 
+bağımlılık gösterdiğine işaret ettiği vurgulanmaktadır. Bunun yanı 
+sıra, diğer çevresel faktörlerin yağış ve sıcaklıkla etkileşiminin çarpıcı 
+olduğu ve Rs üzerinde dolaylı bir değişikliğe neden olduğu ifade 
+edilmektedir. 
+ 
+Saatlik toprak sıcaklığı tahmini için Seifi vd. [8], hibrit bir model 
+sunmaktadır. Ayçiçeği optimizasyonu (SFO), Ateşböceği algoritması 
+(FFA), Salp sürü algoritması (SSA) ve parçacık sürü optimizasyonu 
+(PSO) optimizasyon algoritmaları, adaptif sinir bulanık arayüz sistemi 
+(ANFIS), destek vektör makinesi (SVM), radyal tabanlı fonksiyon 
+sinir ağı (RBFNN) ve çok katmanlı algılayıcı (MLP) makine 
+öğrenmesi algoritmalarıyla birleştirilerek toprak sıcaklığı tahmininde 
+daha iyi bir doğruluk elde edilmesi amaçlanmıştır. İran'da, 5, 10 ve 30 
+cm toprak derinliklerinde saatlik olarak deneyler yürütülmüştür. 
+Yazarlara göre, hibrit meta-sezgisel modeller kullanıldığında, 
+önerilen teknik toprak sıcaklığı tahmini için güvenilir ve doğru 
+sonuçlar vermektedir. 
+ 
+Singhal vd. [9], Orta Himalaya bölgesinin toprak sıcaklığını tahmin 
+etmek için bir Yapay Sinir Ağı (ANN) modeli kullanmaktadır. Çok 
+katmanlı dokuz farklı ANN modeli, çeşitli derinliklerdeki toprak 
+sıcaklıklarını tahmin etmek için oluşturulmuştur. Eşzamanlı ve önceki 
+hava-toprak sıcaklığı verileri üzerinde yapılan deneyler, en iyi ANN 
+varyasyonunu göstermiştir. Makale, önerilen ANN modelinin Orta 
+Himalaya'nın buzul önü bölgeleri için sağlam tahmin sonuçları 
+sağladığını belirtmektedir. 
+ 
+Bayatvarkeshi vd. [10], farklı iklim koşullarında hava sıcaklığı 
+özelliklerini 
+kullanarak 
+toprak 
+sıcaklığını 
+tahmin 
+etmeye 
+odaklanmaktadır. Bu amaçla, dalgacık dönüşümüyle birleştirilen 
+ANN ve ko-aktif nöro-bulanık çıkarım sistemleri (CANFIS) 
+modelleri (sırasıyla WANN ve WCANFIS) kullanılmıştır. Önerilen 
+yaklaşımın etkinliğini göstermek için, 2000-2010 yılları arasında 
+İran'da 12 farklı lokasyonda 5, 10, 20, 30, 50 ve 100 cm toprak 
+derinliklerinde toplanan verilerle deneyler yapılmıştır. Deneysel 
+sonuçlar, hibrit WCANFIS modelinin toprak sıcaklığını tahmin 
+etmede daha iyi bir tahmin yeteneğine sahip olduğunu ve 0,43 ᴼC² 
+RMSE skoru elde ettiğini göstermektedir. 
+ 
+Hindistan'ın yarı kurak bir bölgesinde günlük toprak sıcaklığını 
+tahmin etmek için makine öğrenmesi algoritmalarını optimizasyon 
+teknikleriyle birleştiren bir hibrit model sunulmaktadır [11]. SVM, 
+MLP ve ANFIS teknikleri, slime mould algoritması (SMA), PSO ve 
+benekli sırtlan optimizasyonu (SHO) algoritmalarıyla birleştirilmiştir. 
+SVM ve SMA modellerinin birleştirilmesi, 5 cm, 15 cm ve 30 cm 
+toprak derinliklerinde en iyi MAE skorlarını göstermektedir. Bir 
+başka 
+çalışmada 
+[12], 
+Türkiye'deki 
+Giresun 
+ve 
+Bayburt 
+istasyonlarının toprak sıcaklığını tahmin etmek için makine 
+öğrenmesi algoritmalarının kullanımı önerilmiştir. Bayesian Ayarlı 
+Gaussian Process Regression (BT-GPR), Bayesian Ayarlı Destek 
+Vektör Regresyonu (BT-SVR) ve Uzun Kısa Süreli Bellek (LSTM) 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+583 
+teknikleri, beş buçuk yıllık günlük veri üzerinde modellenmiştir. 
+Yazar, BT-GPR yaklaşımının 5 cm derinlikteki toprak sıcaklığını 
+tahmin etmede 0,0525 ᴼC RMSE skoruyla en iyi tahmin 
+performansını sergilediği sonucuna varmıştır. Bir diğer çalışmada 
+[13], toprak nemi ve sıcaklığını tahmin etmek için dikkat mekanizmalı 
+uzun kısa vadeli bellek ağı modeli geliştirilmiştir. Önerilen model, 
+RF, destek vektör regresyonu (SVR), elastik-net (ENET) ve orijinal 
+LSTM teknikleriyle karşılaştırılarak 1 ve 7 günlük FLUXNET veri 
+setleri üzerinde deneyler yapılmıştır. Deney sonuçları, önerilen LSTM 
+modelinin literatürdeki çalışmalarla karşılaştırıldığında çoğunlukla 
+üstün tahmin performansı sergilediğini göstermektedir. Bir başka 
+çalışmada [14], 2018-2021 yılları arasında Çin'in Yangling 
+istasyonundaki toprak sıcaklığını tahmin etmek için 1D-CNN-MLP 
+sinir ağı çerçevesi tanıtılmaktadır. Önerilen modelin etkinliğini 
+göstermek için MLP ve LSTM modellerinin performansıyla 
+karşılaştırmalı bir analiz yapılmıştır. Elde edilen deneysel sonuçlara 
+dayanarak, yazarlar 1D-CNN-MLP modelinin kullanımının alternatif 
+tekniklere kıyasla daha üstün tahmin doğruluğu sağladığı kesin 
+sonucuna varmışlardır. Bu bulgu, önerilen modelin belirli alandaki 
+tahmine dayalı modelleme zorluklarını ele almadaki artan etkinliğini 
+ve potansiyelini vurgulamaktadır. 
+ 
+Bir başka çalışmada [15], toprak sıcaklığını tahmin etmek için LSTM 
+bellek ağlarını kullanarak DL yaklaşımının etkinliği gösterilmektedir. 
+Yazarlar, 2013-2021 yılları arasında Bingöl civarında 50 cm toprak 
+derinliğindeki toprak sıcaklığını tespit etmeye odaklanmıştır. Deney 
+sonuçları, önerilen LSTM modelinin 1,25 ᴼC RMSE skoru elde 
+ettiğini göstermektedir. Diğer bir çalışma [16], toprak sıcaklığının 
+sıralı kategorizasyonunu sağlayan yeni bir makine öğrenmesi temelli 
+çerçeve önermektedir. En uygun algoritmayı bulmak için karar ağacı, 
+naive Bayes, k-en yakın komşular, destek vektör makineleri ve RF 
+gibi 
+beş 
+farklı 
+geleneksel 
+makine 
+öğrenmesi 
+algoritması 
+kullanılmıştır. Veri seti, 2011-2020 yılları arasında Amerika Birleşik 
+Devletleri'nin üç eyaletinde 2, 4, 8, 20 ve 40 inç toprak 
+derinliklerinden toplanmıştır. Çalışma, karar ağacı modelinin %90,95 
+doğruluk skoruyla en iyi sınıflandırma performansını sergilediği 
+sonucuna varmıştır. Bir diğer çalışma [17], güneydoğu Kanada'daki 
+kara-su arayüzünde toprak sıcaklığı ve su içeriğinin mekansal 
+enterpolasyonu bağlamında, radyal tabanlı fonksiyon sinir ağları ve 
+DL tekniklerinin gücünden yararlanan bir metodoloji önermektedir. 
+Deneysel çalışmalar, bu yöntemlerin ani geçişlerin olduğu bölgelerde 
+bile toprak sıcaklığı verilerini etkili bir şekilde enterpole etme 
+yeteneklerini göstermektedir. Sonuçlar, radyal tabanlı fonksiyon sinir 
+ağları ve DL yaklaşımlarının coğrafi olarak karmaşık alanlarda 
+mekansal enterpolasyonla ilişkili zorlukları ele alma potansiyelini 
+vurgulamaktadır. Bir başka çalışma [18], Sivas bölgesinde 5 cm, 50 
+cm ve 100 cm toprak derinliklerinde toprak sıcaklığı tahmini için 
+makine öğrenmesi algoritmalarının performansına odaklanmaktadır. 
+ANFIS ağı ile bulanık c-ortalamalar (ANFIS-FCM), ızgara 
+bölümleme (ANFIS-GP), çıkarımsal kümeleme (ANFIS-SC), ileri 
+beslemeli sinir ağı (FNN), Elman sinir ağı (ENN) ve LSTM sinir ağı 
+yöntemleri kullanılarak kapsamlı deneyler yapılmıştır. Yazarlar, 5 cm 
+toprak derinliğinde ENN, 50 cm toprak derinliğinde FNN ve 100 cm 
+toprak derinliğinde ANFIS-GP'nin en iyi tahmin performansını 
+sağladığını bildirmektedir. 
+ 
+Bir diğer çalışma [19], İzmir bölgesinde toprak sıcaklığını tahmin 
+etmek için kendi kendine öğrenme adı verilen yeni bir model 
+sunmaktadır. IoT cihazları tarafından saatlik özelleştirilmiş toprak 
+verileri ve yaklaşık dokuz aylık meteorolojik veriler toplanmıştır. 
+Yazarlar, önerilen tekniğin Extreme Gradient Boosting (XGBoost) 
+tekniğiyle birleştirildiğinde, tüm toprak derinlikleri (10, 20, 30, 40 ve 
+50 cm) için 0,385 ᴼC² ile 2,888 ᴼC² arasında değişen MSE skorlarıyla 
+en iyi performansı gösterdiğini bildirmektedir. Bir başka çalışmada 
+[20] ise Ottowa bölgesinde toprak sıcaklığını tahmin etmek için 
+geleneksel makine öğrenmesi algoritmalarından ileri düzey yapay 
+zeka tekniklerine kadar on üç yaklaşımı kapsayan kapsamlı bir 
+karşılaştırma yapılmıştır. Deney sonuçları, DL yaklaşımının 0,980 R-
+kare ve %2,237 NRMSE ile en iyi tahmin performansını sergilediğini 
+göstermektedir. Diğer bir çalışmada [21], Yazoo kilinde toprak 
+sıcaklığını tahmin etmek için ANN temelli yeni bir yaklaşım 
+sunmaktadır. Çalışma, Mississippi'nin Jackson metropol bölgesi 
+içinde 25 millik yarıçapta bulunan altı enstrümanlı eğim üzerinde 
+odaklanılmaktadır. On yedi ay boyunca, eğimlerin tepesinde 1,5 metre 
+(5 feet) derinlikteki hacimsel nem içeriği, yağış, hava sıcaklığı ve 
+toprak sıcaklığına ilişkin kapsamlı veriler toplanmıştır. Levenberg-
+Marquardt (LM) algoritmasının Tan-sigmoid transfer fonksiyonuyla 
+birlikte kullanılması, önerilen yöntemin toprak sıcaklığını doğru bir 
+şekilde tahmin etmedeki etkinliğini göstermektedir. Bu bulgular, 
+ANN temelli yaklaşımların toprak sıcaklığı dinamiklerini anlama ve 
+çevresel 
+değerlendirmelere 
+yardımcı 
+olma 
+potansiyelini 
+vurgulamaktadır. Bir diğer çalışma [22], çoklu görünüm ve çoklu 
+derinlikteki toprak sıcaklığını tahmin etmek için makine öğrenmesi ve 
+zaman serisi tekniklerini kullanan yeni bir yaklaşım önermektedir. 
+Önerilen çerçeve, önceki toprak verileri ve geçmiş meteorolojik 
+veriler birleştirilerek modellenmiştir. Deney sonuçları, destek vektör 
+regresyonu tekniğinin kullanımının, tahmin edilen toprak sıcaklığı 
+değerlerinin gerçek değerlere yaklaşması açısından diğer yöntemlere 
+kıyasla üstün performans sergilediğini göstermektedir.  
+ 
+Wang vd. [23], İsviçre'de toprak sıcaklığını tahmin etmek için yeni bir 
+gömülü yaklaşım tasarlamaktadır. Önerilen çerçeveyi uygulamak 
+için, toprak sıcaklığı verilerinin küresel ve yerel özelliklerini 
+toplamak 
+üzere 
+bir 
+gated 
+recurrent 
+unit 
+(GRU) 
+modeli 
+oluşturulmuştur. Laegern ve Fluehli istasyonlarından toplanan veriler, 
+5 cm, 10 cm ve 15 cm toprak derinliklerinde 6 saat, 12 saat ve 24 
+saatlik zaman noktalarını içermektedir. GRU modeline ek olarak, 
+ANN, extreme learning machine model (ELM) ve LSTM yöntemleri, 
+önerilen çerçevenin katkısını göstermek için modellenmiştir. 
+Yazarlar, GRU modelinin kullanımının minimum RMSE, MAE ve 
+MSE skorlarıyla en iyi tahmin performansını sağladığı sonucuna 
+varmıştır. Abimbola vd. [24], Amerika Birleşik Devletleri genelinde 
+günlük toprak sıcaklığı tahminini artırmak için bilgi destekli bir 
+makine 
+öğrenmesi 
+yaklaşımı 
+sunmaktadır. 
+ANFIS 
+yöntemi 
+kullanılarak, 5, 10, 20, 50 ve 100 cm toprak derinliklerinde toprak 
+sıcaklığı 
+tahmin 
+doğruluğunu 
+artırmak 
+için 
+meteorolojik 
+parametrelerin yeni bir dönüşümü kullanılmıştır. Her toprak derinliği 
+için toprak sıcaklığını tahmin etmek üzere, meteorolojik özelliklerin 
+dönüşümsüz (NT), otokorelasyon (AC), hareketli ortalama (MA) ve 
+kombinasyon dönüşümleri (NT-ACMA) kullanılmıştır. Deney 
+sonuçları, NT-ACMA modelinin genellikle her iki toprak dokusunda 
+da 0,99 R-kare ile en iyi doğruluk skorunu sergilediğini 
+göstermektedir. 
+ 
+Bu araştırma kapsamında, literatürdeki önceki çalışmalardan farklı 
+olarak, transformatör modellerinin yeteneklerinden yararlanan 
+yenilikçi bir çerçeve sunuyoruz. Bilgimiz dahilinde, bu çalışma, 
+toprak sıcaklığı tahmini alanında transformatör modellerinin ilk kez 
+kullanıldığı bir araştırma niteliği taşımaktadır. Önerilen modelin 
+katkısını göstermek için, Hollanda, Fransa, Belçika, İtalya, Finlandiya 
+ve İsviçre'deki altı farklı FLUXNET istasyonunda deneyler 
+yapılmıştır. Ayrıca, adil bir karşılaştırma sağlamak için deney 
+sonuçları, bağımsız DL teknikleri, ağaç temelli modeller ve literatür 
+çalışmalarıyla karşılaştırılmıştır. Deney sonuçları, transformatör 
+modellerinin kullanımının önemli ölçüde tahmin performansı 
+sergilediğini ve bu nedenle yeni bir state-of-the-art (en iyi 
+performans) belirlediğini göstermektedir. 
+ 
+3. Önerilen Çerçeve (Proposed Framework) 
+ 
+Doğal dil işleme (NLP) görevleri için tasarlanan transformatör 
+modelleri, bilgisayarlı görü, zaman serisi tahmini ve çeşitli diğer 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+584 
+konularda da popülerdir. Bu popülerliğin temel nedenlerinden biri, 
+transformatör modellerinin sıralı verilerde uzun süreli bağımlılıkları 
+yakalayabilmesidir. Bu çalışmada, farklı zaman adımlarında toprak 
+sıcaklığını tahmin etmek için DL, ağaç temelli modeller ve 
+transformatör temelli modeller karşılaştırılmıştır. Elde edilen 
+sonuçlara göre, transformatör temelli modeller, çok değişkenli ve çok 
+adımlı zaman serisi verilerini tahmin etmede state-of-the-art sonuçlar 
+elde etmiştir. Önerilen yöntemin genel mimarisi Şekil 1'de verilmiştir. 
+Şekil 1'de, toprak sıcaklığını tahmin etmek için üç ayrı yol 
+bulunmaktadır. LSTM ve CNN temelli modeller, ağaç temelli makine 
+öğrenmesi modelleri ve önerilen transformatör temelli teknikler 
+kullanılarak toprak sıcaklığı tahmini yapılmış ve bir performans 
+karşılaştırması gerçekleştirilmiştir. 
+ 
+3.1. FLUXNET: Ön İşleme (Pre-processing) 
+ 
+FLUXNET [25], dünyanın çeşitli bölgelerindeki atmosferik 
+değişkenlerin yanı sıra kara yüzeyi ile atmosfer arasındaki enerji, su 
+ve karbondioksit alışverişine ilişkin gözlemleri içeren bir veri setidir. 
+50'den fazla ülkede 500'den fazla kule alanından toplanan verileri 
+içeren kapsamlı bir küresel veri setidir. FLUXNET verileri, Dünya'nın 
+karbon ve su döngüleriyle ilgili çok çeşitli konuları incelemek için 
+kullanılabilir: 
+ 
+ Farklı ekosistem türlerinin (ormanlar, çayırlar ve tarım arazileri 
+gibi) küresel karbon döngüsündeki rolü. 
+ Kara yüzeyi ile atmosfer arasındaki su, enerji ve karbondioksit 
+alışverişini etkileyen faktörler. 
+ Arazi kullanımı ve arazi örtüsü değişikliklerinin karbon ve su 
+döngüleri üzerindeki etkileri. 
+ Ekosistemlerin 
+sıcaklık, 
+yağış 
+ve 
+atmosferik 
+CO2 
+konsantrasyonlarındaki değişiklikler gibi değişen iklim koşullarına 
+verdiği tepkiler. 
+ 
+Araştırmacılar, politika yapıcılar ve diğer paydaşlar, Fluxnet2015 
+verilerini Dünya'nın karbon ve su döngülerini yönlendiren süreçleri 
+daha iyi anlamak ve iklim değişikliği, arazi kullanımı ve ekosistem 
+yönetimi gibi konularda karar verme süreçlerini bilgilendirmek için 
+kullanabilir. 
+ 
+ 
+Şekil 1. Önerilen modelin mimarisi (Architecture of the proposed model) 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+585 
+Ön işleme aşamasının temel amacı, DL modellerinin performansını 
+önemli ölçüde engelleyebilecek gürültülü verilerin belirlenmesi ve 
+kaldırılmasıdır. Bu kritik adım, aykırı değerleri filtrelemek ve verinin 
+bütünlüğünü ve güvenilirliğini sağlamak için tasarlanmış koşulların 
+uygulanmasını içerir. Daha sonra, zaman serisi verileri analiz edilerek 
+eğilim ve mevsimsellik gibi temel bileşenler belirlenir ve gözlemlenir. 
+Bu çalışma kapsamında, odak noktamız altı farklı FLUXNET 
+istasyonundan elde edilen verileri kullanarak DL modelleri ve 
+transformatör temelli modeller oluşturmaktır. Bu istasyonlar Şekil 
+2'de gösterilmektedir. Bu özel istasyonların seçilmesi, kapsamlı bir 
+analiz yapılmasını mümkün kılar. Bu istasyonlar, farklı coğrafi 
+bölgeleri kapsar ve önerilen modellerin kapsamlı bir şekilde 
+değerlendirilmesine 
+olanak 
+tanır. 
+Bu 
+yaklaşım, 
+modellerin 
+performansının farklı çevresel koşullar ve özellikler üzerinde geniş bir 
+şekilde incelenmesini sağlayarak çalışmanın sağlamlığına katkıda 
+bulunur. 
+ 
+FLUXNET veri seti, her istasyon için 2014 yılına kadar olan verileri 
+içermektedir. Araştırmacılar bu veri setini saatlik, günlük, haftalık, 
+aylık ve yıllık aralıklar gibi çeşitli zaman çözünürlüklerinde 
+paylaşmıştır. Bu çalışmada, zaman serisi tahmini saatlik veriler 
+üzerinde gerçekleştirilmiştir. Bu saatlik zaman serisi tahmini 
+yaklaşımı, verinin davranışını ve dalgalanmalarını daha detaylı ve 
+ince bir şekilde inceleme olanağı sağlar. Önerilen DL, ağaç temelli ve 
+transformatör temelli yöntemler, Tablo 1'de listelenen özellikleri girdi 
+olarak 
+kullanır. 
+Seçilen 
+özellikler 
+için 
+[26] çalışmasından 
+esinlenmiştir. Tablo 1'de bu özellikler, analiz edilen bireysel 
+istasyonlara özgü istatistiksel sonuçlarla ve metrik birimleriyle 
+birlikte sunulmaktadır. 
+ 
+3.2. Tahminleme (Forecasting) 
+ 
+Bu çalışma, ağaç tabanlı, DL ve transformatör tabanlı modeller 
+kullanarak toprak sıcaklığını tahmin etmeye odaklanmaktadır. Amaç, 
+bu üç farklı yaklaşıma dayalı tahmin metodolojileri geliştirerek zaman 
+içinde toprak sıcaklığını doğru bir şekilde öngörmektir. Bu 
+yöntemlerin 
+performansları 
+karşılaştırılarak, 
+toprak 
+sıcaklığı 
+dalgalanmaları için en doğru ve en etkili tahminleri sağlayan 
+yaklaşımın belirlenmesi hedeflenmektedir. 
+ 
+Bu çalışmada öncelikle, zaman serisi görevlerindeki etkinliği bilinen 
+Ağaç Tabanlı modeller, örneğin RF ve XGBoost, tahmin yapmak için 
+uygulanmaktadır. Ardından, verideki daha karmaşık örüntüleri 
+yakalamak amacıyla DL modelleri kullanılmaktadır. Son olarak, 
+ 
+ 
+Şekil 2. Bu çalışmada kullanılan FLUXNET veri istasyonlarının yakınlaştırılmış dünya haritası üzerindeki konumları  
+(FLUXNET data sites used in this work on a zoomed world map) 
+ 
+ 
+Tablo 1. Bazı FLUXNET istasyonlarından kullanılan özelliklerin istatistiksel özeti 
+(Statistical summary of the features used from selected FLUXNET stations) 
+ 
+İstasyonlar 
+NL - Loo 
+FR - Lbr 
+IT - Col 
+Özellikler 
+Min 
+Max 
+Mean 
+Min 
+Max 
+Mean 
+Min 
+Max 
+Mean 
+Uzun dalga 
+radyasyonu 
+(W/m²) 
+188,7 
+454,083 
+337,726 
+192,81 
+457,64 
+334,129 
+142,891 
+388,976 
+281,703 
+Kısa dalga 
+radyasyonu 
+(W/m²) 
+0 
+1005 
+116,155 
+0 
+1017,46 
+146,771 
+0 
+1155,14 
+1155,14 
+Hava sıcaklığı 
+(ᴼC) 
+-14,86 
+34,82 
+10,103 
+-7,71 
+36,18 
+12,877 
+14,055 
+28,601 
+7,249 
+Atmosfer basıncı 
+(kpa) 
+96,053 
+104.169 
+101,084 
+98,198 
+103,85 
+101,573 
+82,119 
+86,631 
+84,895 
+Rüzgar hızı (m/s) 
+0,024 
+9,377 
+2,352 
+0,039 
+12,813 
+3,114 
+0,025 
+6,94 
+1,625 
+Yağış (mm) 
+0 
+7,641 
+0,047 
+0 
+1,709 
+0,039 
+0 
+5,943 
+0,098 
+Toprak nemi (% 
+hacimce) 
+0 
+25,1 
+8,6 
+17,711 
+94,447 
+38,396 
+11,324 
+31,511 
+5,407 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+586 
+zaman serisi tahmininde giderek daha fazla kullanılan transformatör 
+tabanlı modeller uygulanmaktadır. Zaman karmaşıklığını azaltan 
+dikkat mekanizmasını değiştirme işleminin tahmin performansına 
+nasıl etki ettiğini gözlemlemek amacıyla beş farklı transformatör 
+modeli test edilmektedir. 
+ 
+3.2.1.  Ağaç Tabanlı Modeller (Tree-based models) 
+ 
+RF, eğitim sırasında birden fazla karar ağacı oluşturan ve bireysel 
+ağaçların tahminlerinin ortalamasını alarak çıktı veren yaygın olarak 
+kullanılan bir topluluk öğrenme yöntemidir. Hem sınıflandırma hem 
+de regresyon görevlerini ele alabilme yeteneği ile bilinmekte olup, 
+zaman serisi tahmini için de etkili bir modeldir. Model, her bir karar 
+ağacını oluştururken rastgele özellik ve veri alt kümeleri seçerek aşırı 
+öğrenmeyi (overfitting) azaltmaya yardımcı olur. Bu çalışmada, RF 
+modeli 75 tahminci (estimator) ve maksimum 10 derinlik ile eğitilmiş 
+olup, geri kalan parametreler Tablo 2'de belirtildiği şekilde 
+ayarlanmıştır. 
+ 
+XGBoost, ölçeklenebilirliği ve doğruluğu ile bilinen güçlü bir ağaç 
+tabanlı modeldir. Random Forest'tan farklı olarak, XGBoost ağaçları 
+sıralı (ardışık) olarak inşa eder ve her yeni ağaç, bir öncekinin yaptığı 
+hataları azaltmaya odaklanır. Bu yinelemeli yaklaşım, modelin 
+verideki karmaşık örüntüleri daha iyi yakalamasını sağlar. Bu 
+çalışmada, XGBoost modeli 75 tahminci, maksimum 6 derinlik ile 
+kullanılmış 
+olup, 
+subsample 
+ve 
+colsample_bytree 
+gibi 
+hiperparametreler 0,8 olarak ayarlanmıştır. Diğer hiperparametreler 
+Tablo 2'de gösterildiği şekilde belirlenmiştir. 
+ 
+Tablo 2. Ağaç tabanlı modellerin eğitim parametreleri  
+(Training parameters for tree-based models) 
+ 
+Parametreler 
+RF 
+XGBoost 
+Tahminleyici Sayısı 
+75 
+75 
+Maks. Derinlik 
+10 
+6 
+Subsample 
+- 
+0,8 
+Colsample Bytree 
+- 
+0,8 
+ 
+3.2.2.  Derin Öğrenme Modelleri (Deep learning models) 
+ 
+Günümüzde, CNN'ler görüntü ve video işleme uygulamalarında 
+yaygın olarak kullanılmaktadır. Daha derin katmanlı sinir ağlarının bir 
+türü olarak değerlendirilebilen CNN'ler, geleneksel makine öğrenme 
+yaklaşımlarında kullanılan özelliklerin çok ötesine geçen özellik 
+çıkarma yetenekleriyle öne çıkmaktadır. CNN'lerin geliştirilmesinin 
+arkasındaki 
+motivasyon, 
+komşu 
+pikseller 
+arasındaki 
+yerel 
+korelasyondan yararlanarak görüntü işlemede daha verimli bir 
+yaklaşım oluşturmaktır. Geleneksel Yapay Sinir Ağları (ANN'ler) 
+tüm giriş özelliklerini bağımsız olarak ele alırken, CNN'ler giriş 
+verisine konvolüsyonel filtreler uygulayarak ağın parametrelerini 
+daha verimli kullanmasını sağlamaktadır. 
+ 
+Mimari farklılıklar açısından bakıldığında, CNN'ler, tamamen bağlı 
+katmanlar yerine konvolüsyonel katmanlar içererek basit ANN'lerden 
+ayrılmaktadır. Konvolüsyonel katmanlar, öğrenilen filtrelerin giriş 
+verisine uygulanmasını sağlayarak CNN'lerin temel bileşenlerinden 
+birini oluşturmaktadır. Çekirdek (kernel) veya ağırlık (weight) olarak 
+da adlandırılan bu filtreler, giriş verisi üzerinde kaydırmalı pencere 
+mekanizması ile hareket eden kompakt matrislerdir. Bu filtreler, 
+eleman bazlı çarpma ve ardından toplama işlemleri gerçekleştirerek 
+skaler çıktılar üretmektedir. Daha sonra, Düzleştirilmiş Doğrusal 
+Birim (ReLU) gibi doğrusal olmayan bir aktivasyon fonksiyonu 
+kullanılarak 
+modele 
+önemli 
+bir 
+doğrusal 
+olmayan 
+bileşen 
+eklenmektedir. Önerilen CNN tabanlı yöntem, Şekil 3’te görsel olarak 
+gösterilmektedir. 
+LSTM, RNN bir türü olarak, zaman serisi analizi, NLP ve ses işleme 
+gibi ardışık verileri içeren alanlardaki karmaşıklıkları ele almak için 
+tasarlanmış güçlü bir araçtır. Hochreiter ve Schmidhuber tarafından 
+1997 yılında geliştirilen LSTM ağları, çeşitli uygulama alanlarında 
+hızla yaygın bir seçenek haline gelmiştir. LSTM ağlarının temel 
+amacı, geleneksel RNN'lerde görülen kaybolan gradyan problemini 
+çözmektir. Bu problem, ağın uzun vadeli ilişkileri öğrenmesini 
+zorlaştırabilmektedir. LSTM ağları, zaman içinde seçici olarak veri 
+saklayabilen veya silebilen yeni bir bellek hücresi türü kullanarak 
+önceki 
+zaman 
+adımlarındaki 
+önemli 
+verilerin 
+izlenmesini 
+sağlamaktadır. 
+ 
+LSTM ağları ile basit ANN'ler ve CNN'ler gibi diğer sinir ağı türleri 
+arasındaki temel fark, LSTM'lerin ardışık verileri işleyebilmesini 
+sağlayan yinelemeli bir yapıya sahip olmasıdır. LSTM ağları, bilgiyi 
+işleme konusunda devrim yaratan ve üç temel kapıya dayanan öncü 
+bir mekanizma kullanmaktadır: giriş kapısı (input gate), unutma 
+kapısı (forget gate) ve çıkış kapısı (output gate). Bu kapılar, bellekte 
+hangi verilerin saklanıp hangi verilerin silineceğini yöneterek, bilgiyi 
+seçici bir şekilde saklama ve silme sürecini kontrol etmektedir. 
+Böylece, ağ benzersiz bir uyarlanabilirlik kazanarak uzun vadeli 
+bağıntıları daha etkin bir şekilde öğrenebilmektedir. Eğitim sürecinde, 
+LSTM ağı, giriş, unutma ve çıkış kapılarının yanı sıra aday bellek 
+hücresi değerinin parametrelerini ayarlayarak zaman içinde hangi 
+bilgilerin saklanacağını veya silineceğini öğrenmektedir. Bu sayede 
+ağ, önceki zaman adımlarındaki önemli bilgileri takip edebilir ve bu 
+belleği kullanarak gelecekteki zaman adımlarını tahmin edebilir. 
+Önerilen LSTM tabanlı yöntem, Şekil 4’te sunulmaktadır. 
+ 
+3.2.3. Transformatör (Transformer) 
+ 
+Transformatör kavramı, Vaswani vdadaşlarının 2017 yılındaki öncü 
+çalışmasında [27] sunulduğu şekliyle, DL alanında önemli bir 
+mimariyi temsil eder. Özellikle sıralı verilerin analizi için tasarlanan 
+transformatörler, NLP ve zaman serisi gibi alanlarda olağanüstü bir 
+yetenek sergiler. Transformatörler, temelde iki temel bileşenden 
+oluşur: bir kodlayıcı (encoder) ve bir kod çözücü (decoder).  
+ 
+ 
+Şekil 3. Önerilen CNN modelinin mimarisi (The architecture of the proposed CNN model) 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+587 
+ 
+Şekil 4. Önerilen LSTM modelinin mimarisi  
+(The architecture of the proposed LSTM model) 
+ 
+Kodlayıcı, girdi dizisini işlemekle görevliyken, kod çözücü karşılık 
+gelen çıktı dizisini üretmekten sorumludur. Dikkat çekici olan, öz-
+dikkat (self-attention) mekanizmasıdır. Bu yenilikçi mekanizma, 
+modelin girdi dizisinin farklı bölümlerine eleman bazında işlem 
+yaparken seçici bir şekilde odaklanmasını sağlar. Sonuç olarak, 
+transformatörler girdi dizisindeki uzun menzilli bağımlılıkları 
+yakalama konusunda geleneksel RNN'leri geride bırakır. Makalede 
+önerilen ölçeklenmiş nokta çarpımı dikkat mekanizması (scaled-dot 
+product attention) Eş. 1’de verilmiştir. 
+ 
+𝐴𝑡𝑡𝑒𝑛𝑡𝑖𝑜𝑛ሺ𝑄, 𝐾, 𝑉ሻൌ𝑠𝑜𝑓𝑡𝑚𝑎𝑥൬
+ொ௄೅
+ඥௗೖ൰𝑉  
+(1) 
+ 
+Burada Q (Query), K (Key) ve V (Value) matrisleri sırasıyla sorgu, 
+anahtar ve değer vektörlerini temsil etmektedir. 𝑄𝐾்ifadesi, sorgular 
+ile anahtarlar arasındaki benzerliği ölçerken, 𝑇 üst simgesi matrisin 
+transpozunu ifade etmektedir. 𝑑௞ ise anahtar vektörlerinin boyutunu 
+göstermekte olup, ölçekleme amacıyla kullanılmaktadır. Softmax 
+fonksiyonu, elde edilen benzerlik skorlarını normalize ederek dikkat 
+ağırlıklarının hesaplanmasını sağlamaktadır. 
+ 
+Eş. 1’de hesaplanan dikkat mekanizması daha sonra birden fazla kez 
+istiflenerek 
+Çoklu-Kafa 
+Dikkati 
+(Multi-Head 
+Attention) 
+oluşturulmaktadır. Ancak, ölçeklenmiş nokta çarpımı dikkat 
+mekanizmasının bir dezavantajı, hesaplama karmaşıklığının 𝑂ሺ𝐿ଶሻ 
+olmasıdır. Burada L, dizinin uzunluğunu ifade eder ve bu durum, 
+dönüştürücü (transformer) modellerinin eğitilmesini hesaplama 
+açısından maliyetli hale getirmektedir. Buradaki 𝑂ሺ𝐿ଶሻ ifadesi, öz-
+dikkat mekanizmasının dizi uzunluğu 𝐿 cinsinden hesaplama 
+karmaşıklığını ifade eden Big-O gösterimidir. Bu gösterimde 
+kullanılan 𝑂 sembolü, sorgu matrisi Q ile ilişkili olmayıp, algoritmik 
+zaman/mekân karmaşıklığını tanımlamak amacıyla kullanılmaktadır. 
+Bu çalışmada, orijinal makalede önerilen varsayılan parametreler 
+kullanılarak farklı zaman adımları için altı farklı FLUXNET istasyonu 
+veri kümesi üzerinde vanilya (standart) transformatör modeli 
+eğitilmiştir. 
+ 
+3.2.4. Reformer: Verimli Transformatör (Efficient Transformer) 
+ 
+Büyük Transformatör modelleri, bir dizi görevde state-of-the-art (en 
+iyi performans) sonuçlar elde eder, ancak bu modellerin eğitimi, 
+özellikle uzun diziler söz konusu olduğunda oldukça maliyetli 
+olabilir. 
+Reformer 
+modelinin 
+yazarları 
+[28], 
+transformatör 
+modellerinin verimliliğini artırmak için iki yeni yöntem sunmaktadır. 
+İlk olarak, ölçeklendirilmiş nokta çarpımı dikkat mekanizmasını, 
+yerel-duyarlı karma (locality-sensitive hashing, LSH) ile değiştirerek 
+hesaplama karmaşıklığını 𝑂ሺ𝐿ଶሻ’den 𝑂ሺ𝐿𝑙𝑜𝑔𝐿ሻ’ye düşürmüşlerdir. 
+İkinci önemli katkı ise geri dönüşümlü (reversible) katmanların 
+kullanılmasıdır. Bu yöntem, ilk olarak Gomez vd. [29] tarafından 
+tanıtılmıştır ve model boyunca yalnızca tek bir aktivasyon kopyasının 
+saklanmasını sağlayarak N faktörünü ortadan kaldırır. Burada N, 
+modeldeki 
+katman 
+sayısını 
+ifade 
+etmektedir. 
+Klasik 
+transformatörlerde bellek kullanımı katman sayısı ile doğrusal olarak 
+artarken, Reformer’da kullanılan geri dönüşümlü katmanlar sayesinde 
+ara aktivasyonlar yeniden hesaplanabilmekte ve bellek maliyetindeki 
+N faktörü ortadan kaldırılmaktadır. 
+64,000 kelimelik bir dizinin model tarafından işlendiği bir durum ele 
+alındığında, LSH dikkati, bu diziyi benzerliğe göre sıralayarak en 
+benzer anahtarlarla dikkat hesaplaması yapmaktadır. Bu yöntem, 
+hesaplama karmaşıklığını azaltmaktadır. 
+ 
+Ölçeklenmiş nokta çarpımı dikkat mekanizmasında (1) numaralı 
+denklemde gösterilen QKᵀ matris çarpımı, 𝑂ሺ𝐿ଶሻ karmaşıklığının ana 
+sebebidir. Reformer'in temel fikri, tüm sorgular Q ile tüm anahtarlar 
+K arasındaki çarpımı hesaplamak yerine, her bir sorguyu (boyutu 
+1 ൈ𝑑௞ olan) ayrı ayrı indeksleyerek bu 𝑂ሺ𝐿ଶሻ karmaşıklığını 
+önlemektir. Reformer'da önerilen LSH dikkati, Eş. 2’de verilmiştir. 
+ 
+𝐴𝑡𝑡𝑒𝑛𝑡𝑖𝑜𝑛ሺ𝑄, 𝐾, 𝑉ሻൌ𝑠𝑜𝑓𝑡𝑚𝑎𝑥൬
+௤೔௄೅
+ඥௗೖ൰𝑉 
+(2) 
+ 
+RevNets, ağ yapısına yönelik yenilikçi bir yaklaşım sunarak 
+geleneksel geri yayılım yöntemlerinden farklı bir mekanizma getirir. 
+RevNets bağlamında, katmanlar kademeli olarak tersine çevrilir, bu 
+da geri yayılımın, ağın ara değerlerine erişmeye gerek kalmadan, 
+çıktıdan girdiye doğru geçmesine olanak tanır. RevNets'in temel 
+özelliği, her biri birer giriş ve çıkış çiftleri üzerinde işlem yapan 
+tersinir katmanların işlemidir. Bu giriş ve çıkışlar, ሺ𝑥ଵ, 𝑥ଶሻ→ሺ𝑦ଵ, 𝑦ଶሻ 
+şeklinde gösterilir. Bu tersinir katmanların davranışı, aşağıdaki 
+denklemlerle doğru bir şekilde tanımlanabilir. Yazarlar, RevNet 
+kavramını transformatör modellerine uygulamak için dikkat 
+(attention) 
+ve 
+ileri 
+besleme 
+(Feed-forward) 
+katmanlarını 
+birleştirmiştir. Bu bağlamda F, Eş. 3’te dikkat katmanı olarak yer 
+alırken, G ise ileri besleme katmanı olarak tanımlanmıştır. Bu 
+fonksiyonların yerine konmasıyla elde edilen özelleştirilmiş yapı, Eş. 
+4’te gösterilmektedir. 
+ 
+𝑦ଵൌ𝑥ଵ൅𝐹ሺ𝑥ଶሻ 𝑦ଶൌ𝑥ଶ൅𝐺ሺ𝑦ଵሻ  
+ (3) 
+ 
+𝑌ଵൌ𝑋ଵ൅𝐴𝑡𝑡𝑒𝑛𝑡𝑖𝑜𝑛ሺ𝑋ଶሻ 𝑌ଶൌ𝑋ଶ൅ FeedForward ሺ𝑌ଵሻ  
+ (4) 
+ 
+3.2.5. Informer: Verimli Transformatörün Ötesi  
+(Informer: Beyond Efficient Transformer) 
+ 
+Zhou vd. [30] tarafından sunulan Informer modeli, uzun dizileri 
+verimli bir şekilde işleyebilen ve zaman serisi tahmini için tasarlanmış 
+"Informer" adlı yeni bir transformatör temelli mimari önermektedir. 
+Uzun dizi zaman serisi tahmini (LSTF) görevleri, Transformatör 
+modelleri kullanılarak gerçekleştirilemez çünkü çeşitli sorunlar ortaya 
+çıkar. Önerilen Informer modeli, LSTF görevlerinde transformatör 
+temelli modellerin kullanımına önemli katkılarda bulunur. 
+ 
+Informer, zaman serisi verilerindeki hem yerel hem de küresel 
+bağımlılıkları yakalamak için ProbSparse Öz-Dikkat (ProbSparse 
+Self-Attention, PSA) mekanizması ile Yerel-Küresel (Local-Global, 
+LG) yapısını birleştiren bir hibrit dikkat mekanizması sunar. Bu 
+mekanizma, modelin uzun dizileri verimli bir şekilde işlerken dizinin 
+önemli kısımlarına odaklanmasını sağlar. 
+ 
+Informer'de önerilen üretici stil kodlayıcı, uzun zaman serisi dizileri 
+için tahminleri ardışık bir şekilde değil, tek bir ileri işlemde 
+yapmaktadır. Bu, uzun diziler için tahmin yaparken çıkarım hızını 
+önemli ölçüde artırır. Her bir anahtar, ProbSparse Self-attention 
+yardımıyla yalnızca baskın sorgulara dikkat edebilir. Eş. 5’te Q 
+matrisi, q ile aynı boyutlara sahiptir ve yalnızca Top-u sorguları, 
+𝑀ሺ𝑞, 𝐾ሻ 
+seyrekliğe 
+dayalı 
+ölçümüne 
+göre 
+seyrek 
+şekilde 
+doldurulmuştur. ProbSparse dikkat mekanizması sayesinde, tıpkı 
+Reformer'da olduğu gibi, Informer transformatör modeli 𝑂ሺ𝐿log 𝐿ሻ 
+karmaşıklığına ulaşmaktadır. 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+588 
+𝐴ሺ𝑄, 𝐾, 𝑉ሻൌ𝑆𝑜𝑓𝑡𝑚𝑎𝑥ቀ
+ொത௄೅
+√ௗቁ𝑉  
+ (5) 
+ 
+Eş. 5’te Q matrisi, q ile aynı boyutlara sahiptir ve yalnızca Top-u 
+sorguları, 𝑀ሺ𝑞, 𝐾ሻ seyrekliğe dayalı ölçümüne göre seyrek şekilde 
+doldurulmuştur. ProbSparse dikkat mekanizması sayesinde, tıpkı 
+Reformer'da olduğu gibi, Informer transformatör modeli 𝑂ሺ𝐿log 𝐿ሻ 
+karmaşıklığına ulaşmaktadır. Eş. 5’te 𝑄, sorgu vektörlerini; 𝐾, anahtar 
+vektörlerini; 𝑉, değer vektörlerini temsil etmektedir. Burada 𝑞, 𝑄 
+matrisi içerisindeki tekil bir sorgu vektörünü ifade etmektedir. 
+ProbSparse self-attention mekanizmasında Top-𝑢, tüm sorgular 
+yerine yalnızca en yüksek önem skoruna sahip 𝑢 adet baskın sorgunun 
+seçilmesini ifade etmektedir. Bu seçim işlemi, sorgu ile anahtarlar 
+arasındaki bilgi yoğunluğunu ölçen 𝑀ሺ𝑞, 𝐾ሻ fonksiyonu aracılığıyla 
+gerçekleştirilmektedir. 𝑀ሺ𝑞, 𝐾ሻ, sorgu 𝑞 ile tüm anahtarlar 𝐾 
+arasındaki dikkat dağılımının seyrekliğini ölçen bir önem metriğidir 
+ve bu metrik sayesinde yalnızca bilgi açısından en anlamlı sorgular 
+dikkat hesaplamasına dahil edilmektedir. Bu yaklaşım, hesaplama 
+karmaşıklığını klasik self-attention yapısındaki 𝑂ሺ𝐿ଶሻseviyesinden 
+𝑂ሺ𝐿log 𝐿ሻseviyesine düşürmektedir. 
+ 
+3.2.6. Autoformer: Ayrıştırma Tabanlı Transformatör  
+(Autoformer: Decomposition Transformers) 
+ 
+Zaman serisi tahmini, enerji tüketimi, trafik, ekonomi planlaması, 
+hava durumu ve hastalık yayılımı tahmini gibi alanlarda yaygın bir 
+şekilde kullanılmaktadır. Gerçek dünya senaryolarında, geleceği daha 
+uzun bir süre önceden tahmin etme ihtiyacı acildir, çünkü bu, etkili 
+uzun vadeli planlama ve erken uyarı sistemleri için hayati öneme 
+sahiptir. Bu nedenle, araştırma makalesi, önemli bir uzunluğa sahip 
+genişletilmiş bir zaman serisinin tahminini içeren uzun vadeli zaman 
+serisi tahmini problemini incelemeye odaklanmaktadır. 
+ 
+Uzun vadeli tahmin görevi, özellikle zorlu bir hale gelir. İlk olarak, 
+uzatılmış zaman serilerinden doğrudan zamansal bağımlılıkları 
+belirlemek güvenilmezdir, çünkü bu bağımlılıklar iç içe geçmiş 
+zamansal desenler tarafından gizlenmiş olabilir. İkinci olarak, 
+geleneksel Transformatör modelleri, öz-dikkat mekanizmaları 
+nedeniyle uzun vadeli tahminlerde dizi uzunluğunun karesel 
+karmaşıklığından dolayı hesaplama açısından maliyetli hale gelir. 
+ 
+Araştırmacılar, önceki transformatör temelli tahmin modellerinin [28, 
+30] seyrek öz-dikkat mekanizmaları sunarak hesaplama maliyetini 
+düşürdüğünü, ancak bu modellerin hâlâ noktasal temsil toplamayı 
+kullandığını belirtmiştir. Verimliliği artırmayı hedeflerken, seyrek 
+noktasal bağlantıların varlığı nedeniyle bilgi kullanımı zarar görebilir. 
+ 
+Yukarıda bahsedilen sorunlardan yola çıkarak, araştırmacılar uzun 
+vadeli zaman serisi tahmini için Autoformer adlı yeni bir çözüm 
+sunmuştur. Bu çözüm, geleneksel transformatörlerin yerini alır. 
+Autoformer, artık (residual) ve kodlayıcı-kod çözücü yapısını 
+korurken, Transformer'ın aksine bir ayrıştırma (decomposition) 
+tahmin mimarisi benimser. Autoformer, stokastik süreç teorisinden 
+[31, 32] ilham alır ve öz-dikkat mekanizması yerine bir AC 
+mekanizması 
+içerir. 
+Bu 
+mekanizma, 
+seri 
+periyodikliğinden 
+yararlanarak alt seri benzerliğini tespit eder ve temel periyotlardan 
+ilgili alt serileri toplar. Bu seri temelli mekanizmayı benimseyerek, 
+Autoformer, uzunluk-L serileri için hesaplama karmaşıklığını 
+𝑂ሺ𝐿𝑙𝑜𝑔𝐿ሻ’ye düşürür ve noktasal temsil toplamayı alt seri düzeyine 
+genişleterek bilgi tüketimi darboğazını ortadan kaldırır. Altı metrik 
+üzerinde Autoformer, en yüksek doğruluk seviyesini elde eder. 
+ 
+3.2.7. ETSFormer: Üstel Düzgünleştirme Tabanlı Transformatör 
+(ETSformer: Exponential Smoothing Transformers) 
+ 
+Woo vd. [33], zaman serisi tahmini performansını artırmak için iki 
+çerçeveyi birleştiren ETSformer adlı yeni bir zaman serisi tahmin 
+modeli geliştirmiştir. ETSformer, mevsimsel-eğilim ayrıştırma ve 
+üstel düzleştirme (exponential smoothing) gibi klasik yöntemlerle 
+mevcut transformatörleri birleştirerek yenilikçi üstel düzleştirme ve 
+frekans dikkati (frequency attention) tekniklerini sunar. ETSformer'ın 
+ilham kaynağı, zaman serisi tahmininde kullanılan klasik üstel 
+düzleştirme teknikleridir. Orijinal transformatörlerdeki öz-dikkat 
+mekanizması yerine, hem doğruluğu hem de verimliliği artıran üstel 
+düzleştirme dikkati (Exponential Smoothing Attention, ESA) ve 
+frekans dikkati (Frequency Attention, FA) yöntemlerini kullanır. 
+Sonuç olarak, ETSformer zaman serisi tahmininde state-of-the-art (en 
+iyi performans) sonuçlar elde eder. 
+ 
+Araştırmacılar, üstel düzleştirme için Holt-Winters yöntemini [34] 
+kullanmıştır. Bu yöntem, Eş. 6’da verilmiştir. 
+ 
+𝑆𝑒𝑣𝑖𝑦𝑒: 𝑒௧ൌα൫𝑥௧െ𝑠௧ି௣൯൅ሺ1 െαሻሺ𝑒௧ିଵ൅𝑏௧ିଵሻ  
+𝐵ü𝑦ü𝑚𝑒: 𝑏௧ൌβሺ𝑒௧െ𝑒௧ିଵሻ൅ሺ1 െβሻ𝑏௧ିଵ  
+𝑀𝑒𝑣𝑠𝑖𝑚𝑠𝑒𝑙𝑙𝑖𝑘: 𝑠௧ൌγሺ𝑥௧െ𝑒௧ሻ൅ሺ1 െγሻ𝑠௧ି௣  
+𝑇𝑎ℎ𝑚𝑖𝑛𝑙𝑒𝑚𝑒: 𝑥௧ା௛∣௧ୀ௘೟ା௛௕೟ା௦೟శ೓ష೛
+ෟ
+  
+(6) 
+ 
+Eş. 6’da kullanılan Holt–Winters üstel düzleştirme bileşenleri, zaman 
+serisinin seviye (level), büyüme/eğilim (trend) ve mevsimsellik 
+(seasonality) yapılarını ayrı ayrı modellemeyi amaçlamaktadır. Bu 
+kapsamda, denklemlerde yer alan semboller aşağıda açıklanmaktadır: 
+ 
+ 𝑥௧: Zaman serisinin 𝑡anındaki gözlenen gerçek değerini ifade 
+etmektedir. 
+ 𝑒௧: 𝑡anındaki seviye bileşenini temsil etmektedir. 
+ 𝑏௧: 𝑡anındaki büyüme/eğilim bileşenini göstermektedir. 
+ 𝑠௧: 𝑡anındaki mevsimsel bileşeni ifade etmektedir. 
+ 𝛼, 𝛽, 𝛾: Sırasıyla seviye, eğilim ve mevsimsellik bileşenleri için 
+kullanılan, ሾ0, 1ሿaralığında tanımlı üstel düzleştirme katsayılarıdır. 
+Bu katsayılar, geçmiş bilgilerin mevcut tahmine ne ölçüde etki 
+edeceğini belirlemektedir. 
+ 𝑝: Zaman serisinin mevsimsellik periyodunu ifade etmektedir. 
+ ℎ: İleriye dönük tahmin ufkunu göstermektedir. 
+ 𝑥ො௧ା௛∣௧: 𝑡zamanına kadar olan bilgiler kullanılarak 𝑡൅ℎanı için 
+üretilen tahmin değerini temsil etmektedir. 
+ 
+Bu denklemler, tahminin, son tahmin edilen 𝑒௧ seviyesinden 
+oluştuğunu ve bunun, son büyüme faktörü 𝑏௧ ile ℎ katı kadar 
+artırıldığını, ayrıca son mevcut mevsimsel faktör 𝑆௧ା௛ି௣'nin 
+eklendiğini göstermektedir. Bu yapı sayesinde, tahmin değeri; son 
+seviye bileşeni 𝑒௧, eğilim bileşeni 𝑏௧ve ilgili mevsimsel bileşen 
+𝑠௧ା௛ି௣birlikte kullanılarak oluşturulmaktadır. Böylece model, zaman 
+serisinin uzun dönemli eğilimini ve periyodik dalgalanmalarını eş 
+zamanlı olarak yakalayabilmektedir. 
+ 
+Önerilen mimarinin her katmanında, encoder bileşeni, sağlanan geri 
+dönük 
+pencereyi 
+kullanarak 
+büyüme 
+ve 
+mevsimsellik 
+ile 
+ilişkilendirilmiş gizli bileşenleri iteratif olarak çıkaracak şekilde özel 
+olarak tasarlanmıştır. Benzer şekilde, level bileşeni, eş. 6’da temsil 
+edilen klasik seviye düzeltme tekniğine benzer bir teknik kullanılarak 
+çıkarılmaktadır. Bu çıkarılan bileşenler daha sonra decoder modülüne 
+aktarılır, burada h adım ileriye yönelik nihai tahmini oluşturacak 
+şekilde birleşir. Bu tahmin, seviye, büyüme ve mevsimsellik için 
+bireysel tahminlerin birleştirilmesiyle sentezlenir, bu da Eş. 7’deki 
+ifadelerde kesin bir şekilde tanımlanmıştır: 
+ 
+𝑋௧:௧ାு
+෣ൌ𝐸௧:௧ାு൅ Linear ቀ∑
+ቀ𝐵௧:௧ାு
+ሺ௡ሻ
+൅𝑆௧:௧ାு
+ሺ௡ሻ
+ቁ
+ே
+௡ୀଵ
+ቁ 
+(7) 
+ 
+Eş. 7’deki 𝐸௧:௧ାு∈𝑅ுൈ௠ ve 𝐵௧:௧ାு
+ሺ௡ሻ, 𝑆௧:௧ାு
+ሺ௡ሻ
+∈𝑅ுൈௗ matrisleri, 
+tahmin ufkunda her zaman adımı için seviye tahminleri ile büyüme ve 
+mevsimsellik gizli temsillerini temsil etmektedir. Toplamda 𝑁 
+encoder yığını bulunmaktadır ve “n” endeksi yığın indeksini 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+589 
+belirtmektedir. Büyüme ve mevsimsellik temsillerini gizli alandan 
+gözlem alanına projekte etmek için, Linearሺ⋅ሻ: 𝑅ௗ→𝑅௠ her zaman 
+adımı boyunca eleman bazlı bir işlem gerçekleştirmelidir. 
+ 
+4. Deney Sonuçları (Experıment Results)  
+ 
+Bu çalışma, önerilen yöntemleri karşılaştırmak ve değerlendirmek 
+amacıyla toprak sıcaklığı verilerini içeren yaygın olarak bilinen 
+FLUXNET verisetini kullanmaktadır. Deneylerde, zaman serisi 
+tahminleri saatlik veriler üzerinde yapılmıştır. Her bir altı FLUXNET 
+istasyonu için veri kümesi bölümü ve istatistiksel bilgiler Tablo 3'te 
+verilmiştir. Önerilen yöntemlerin performansı, Eş. 8’de ve Eş. 9'da 
+verilen yaygın metrikler kullanılarak ölçülmektedir. Mean Absolute 
+Error (MAE), L1 kaybı olarak da bilinen, gerçek ve tahmin edilen 
+değerler arasındaki ortalama mutlak hatadır. Mean Squared Error 
+(MSE), L2 kaybı olarak da bilinen, gerçek ve tahmin edilen değerler 
+arasındaki ortalama kareli hatadır. Hem MAE hem de MSE 
+hesaplamalarının kullanılması, modelin performansı hakkında veri 
+kümesi genelinde fikir verir. Kareli hata ile mutlak hata arasındaki ana 
+fark, kareli hatanın, hataları yalnızca farkı hesaplamak yerine kare 
+alarak daha büyük hataları daha şiddetli şekilde cezalandırmasıdır. Bu 
+işlemdeki farklılık, kareli hatanın daha büyük sapmalara duyarlılığını 
+artırır. 
+ 
+𝑀𝑆𝐸ൌ
+ଵ
+௡∑
+൫𝑇௥௘௔௟െ𝑇௣௥௘൯
+ଶ
+௡
+௜ୀଵ
+  
+ (8) 
+ 
+𝑀𝐴𝐸ൌ
+ଵ
+௡∑
+ห𝑇௥௘௔௟െ𝑇௣௥௘ห
+௡
+௜ୀଵ
+  
+ (9) 
+ 
+Tablo 2 ve Tablo 4, bu çalışmada kullanılan üç farklı model için 
+kullanılan eğitim parametrelerinin bir özetini sunmaktadır. Bu 
+parametreler, her bir modelin kendi kategorisindeki modelleri 
+arasında tutarlılığı ve karşılaştırılabilirliği sağlamak amacıyla tüm 
+modellerde aynıdır. Bu tablolarda yer alan optimal parametreleri 
+belirlemek için grid search hiperparametre ayarlama yaklaşımı 
+uygulanmıştır. 
+Farklı 
+hiperparametre 
+kombinasyonları 
+değerlendirilmiş 
+ve 
+en 
+iyi 
+sonuçları 
+veren 
+konfigürasyon 
+belirlenmiştir. Hiperparametreler için belirlenen arama aralıkları 
+Tablo 5’te verilmiştir. Transformatör modeller için beş farklı modelin 
+de parametreleri, orijinal çalışma ile aynı tutulmuştur. 
+ 
+Ağaç tabanlı modellerin değerlendirme sonuçları Tablo 5'te 
+sunulmaktadır. Bu tablo, toprak sıcaklığını tahmin etmek için 
+kullanılan iki ağaç tabanlı modelin, Random Forest ve XGBoost'un, 
+altı farklı istasyonda (NL - Loo, FR - Lbr, BE - Vie, IT - Col, FI - 
+Hyy, ve CH - Lae) çeşitli tahmin uzunlukları için değerlendirme 
+sonuçlarını göstermektedir: 96, 192, 336 ve 720 zaman adımı. Bu 
+zaman adımları, sırasıyla 96, 192, 336 ve 720 saat sonrasına kadar 
+toprak sıcaklığını tahmin etmeyi ifade etmektedir. Girdi uzunluğu 
+sabit olup 96 zaman adımında tutulmuştur, yani modeller tahminlerini 
+yapmak için önceki 96 saatin verilerine dayanır. 
+ 
+Random Forest için, MSE ve MAE değerleri genellikle daha uzun 
+tahmin ufuklarında artış göstermektedir, bu da tahmin süresi uzadıkça 
+doğruluğun kademeli olarak düştüğünü göstermektedir. Örneğin, NL 
+- Loo'da, MSE 96 adımda 0,622 ᴼC²'den 336 adımda 0,637 ᴼC²'ye 
+yükselmekte, ancak 720 adımda 0,598'e hafifçe azalmaktadır. FR - 
+Lbr ve IT - Col gibi diğer istasyonlarda da benzer bir desen 
+gözlemlenmektedir; model, 
+nispeten düşük hata 
+değerlerini 
+korumakta (örneğin, FR - Lbr'de 96 adımda MSE = 0,234 ᴼC²), ancak 
+daha uzun ufuklarla zorluk yaşamaktadır, örneğin IT - Col'de 720 
+adımda 0,744 ᴼC MAE değerleri de tutarlı bir performans 
+sergileyerek, farklı zaman adımları ve istasyonlarda 0,344 ᴼC ile 
+0,774 ᴼC arasında değişmektedir. 
+ 
+Tablo 3. Altı Fluxnet sahasına ait veri kümesi bölümü ve istatistiksel bilgiler (Dataset division and statistical information for six flux sites) 
+ 
+İstasyon 
+Saatlik Gözlem Sayısı 
+Eğitim Verisi 
+Kapsamı (%70) 
+ Doğrulama Verileri  
+ Kapsamı (%10) 
+Test Verileri Kapsamı 
+(%10) 
+NL - Loo 
+177,551 
+2000-01-01 
+2010-07-02 
+2010-07-02 
+2012-01-01 
+2012-01-01 
+2014-12-31 
+BE - Vie 
+131,495 
+2000-01-01 
+2010-07-02 
+2010-07-02 
+2012-01-01 
+2012-01-01 
+2014-12-31 
+FR - Lbr 
+35,063 
+2005-01-01 
+2007-10-20 
+2007-10-20 
+2008-03-14 
+2008-03-14 
+2008-12-31 
+FI - Hyy 
+46,055 
+2009-09-30 
+2013-06-04 
+2013-06-04 
+2013-12-13 
+2013-12-13 
+2014-12-31 
+IT - Col 
+43,841 
+2009-12-30 
+2013-07-01 
+2013-07-01 
+2013-12-31 
+2013-12-31 
+2014-12-31 
+CH - Lae 
+81,851 
+2005-08-30 
+2012-03-13 
+2012-03-13 
+2013-02-17 
+2013-02-17 
+2014-12-31 
+ 
+Tablo 4. DL ve transformatör modeller için eğitim parametreleri (Training parameters for both deep learning and transformer models) 
+ 
+Parametreler 
+DL Modelleri 
+Transformatör Modeller 
+Learning Rate 
+0,01 
+0.0001 
+Epoch 
+20 
+5 
+Batch 
+32 
+32 
+Optimizasyon Alg. 
+Adam 
+GELU 
+ 
+Tablo 5. DL modelleri için belirlenen hiperparametre arama uzayı (Hyperparameter search space determined for deep learning models) 
+ 
+Hiperparametre 
+Değer Aralığı 
+Seçilen Değer 
+Öğrenme Oranı (Learning Rate) 
+[0.001, 0.01, 0.1] 
+0.01 
+Epoch Sayısı 
+[10, 20, 50] 
+20 
+Batch Boyutu 
+[16, 32, 64] 
+32 
+Optimizasyon Algoritması 
+[Adam, SGD, RMSprop] 
+Adam 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+590 
+Buna karşılık, XGBoost, çoğu tahmin uzunluğu ve istasyon için 
+Random Forest'tan daha yüksek MSE ve MAE değerleri sergileyerek, 
+bu görevde daha düşük performans göstermektedir. Örneğin, NL - 
+Loo'da, MSE 96 adımda 1.169 ᴼC²'de başlamakta ve tüm ufuklar 
+boyunca 1.0ᴼC²'nin üzerinde kalmaktadır. Ayrıca, FR - Lbr'de, MSE 
+96 adımda 0.343'ten 720 adımda 0.436'ya yükselmektedir. BE - Vie 
+gibi diğer istasyonlarda da benzer eğilimler gözlemlenmektedir, 
+burada MSE 336 adımda 1.160 ᴼC²'a ulaşmaktadır. XGBoost'teki 
+MAE değerleri de tahmin uzunluğu ile artmakta, ancak bu fark, 
+Random Forest'a kıyasla daha belirgin hale gelmektedir. Örneğin, CH 
+- Lae'de, MAE artışı 1.030'dan 1.041'e (ᴼC) kadar devam etmektedir. 
+Genel olarak, RF, çoğu senaryoda, özellikle 96 ve 192 adım gibi daha 
+kısa tahmin uzunluklarında XGBoost'u sürekli olarak geride 
+bırakmaktadır. Ancak, her iki model de tahmin süresi uzadıkça 
+zorluklar yaşamaktadır, bu da ağaç tabanlı modellerle uzun vadeli 
+toprak sıcaklığı tahminindeki sınırlamaları göstermektedir. 
+ 
+Benzer şekilde, derin öğrenmeye dayalı yöntemlerin değerlendirme 
+sonuçları Tablo 7’de verilmiş olup, transformatör tabanlı yöntemlerin 
+değerlendirme sonuçları ise Tablo 8'de sunulmuştur. Tablo 6, 7 ve 
+8'de verilen sonuçlar, Tablo 3'teki dağılım kullanılarak altı farklı 
+istasyon için elde edilmiştir. Bu tablolar boyunca her model, 96, 192, 
+336 ve 720 zaman adımları dahil olmak üzere çeşitli zaman 
+dilimlerinde tahmin yeteneği açısından değerlendirilmiştir. Bu zaman 
+adımları, modelin gelecekteki tahmin süresini belirtir. Örneğin, 96 
+zaman adımı, takip eden 96 saatlik bir tahmin ufkunu ifade eder. Bu 
+Tablo 6. RF ve XGBoost modelleri için farklı tahmin ufuklarında toprak sıcaklığı tahmin performansı 
+(Soil temperature forecasting performance of RF and XGBoost across different prediction horizons) 
+ 
+Yöntem Metrik 
+NL - Loo 
+FR - Lbr 
+BE - Vie 
+IT - Col 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+RF 
+MSE 
+(ᴼC²) 
+0,622 0,603 0,637 0,598 0,234 0,253 0,275 0,321 0,464 0,525 0,616 0,673 0,332 0,424 0,541 0,744 
+MAE 
+(ᴼC) 
+0,55 
+0,54 
+0,546 0,534 0,348 0,352 0,356 0,386 
+0,49 
+0,52 
+0,561 
+0,59 
+0,344 0,396 0,469 0,544 
+XGB 
+MSE 
+(ᴼC²) 
+1,169 1,168 1,199 1,096 0,343 
+0,37 
+0,399 0,436 0,914 1,072 
+1,16 
+0,961 0,469 0,612 0,813 1,025 
+MAE 
+(ᴼC) 
+0,815 0,815 0,828 0,795 0,447 0,463 0,481 0,502 0,746 0,806 
+0,84 
+0,768 0,469 0,539 0,633 0,706 
+ 
+Tablo 7. CNN ve LSTM modelleri için farklı tahmin ufuklarında toprak sıcaklığı tahmin performansı 
+(Soil temperature forecasting performance of CNN and LSTM models across different prediction horizons) 
+ 
+Yöntem 
+Metrik 
+NL - Loo 
+FR - Lbr 
+BE - Vie 
+IT - Col 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+LSTM 
+MSE 
+(ᴼC²) 
+4,006 4,685 20,459 5,636 
+4,03 
+4,116 4,574 
+5,85 
+2,388 3,015 3,571 3,892 4,517 4,656 6,338 7,171 
+MAE 
+(ᴼC) 
+1,517 
+1,68 
+3,944 
+1,887 1,519 1,565 1,682 1,933 1,215 1,322 
+1,45 
+1,543 1,495 1,542 1,898 1,997 
+CNN 
+MSE 
+(ᴼC²) 
+1,825 1,914 
+2,149 
+2,127 1,746 1,966 2,206 2,169 1,673 1,768 1,843 1,857 2,135 2,078 2,168 
+2,56 
+MAE 
+(ᴼC) 
+1,342 1,464 
+1,646 
+1,673 1,321 1,496 1,741 1,699 1,285 1,374 1,425 1,448 1,563 1,616 1,767 2,026 
+ 
+Tablo 8. Farklı tahmin ufuklarında transformatör tabanlı modellerin toprak sıcaklığı tahmin performansı 
+(Soil temperature forecasting performance of transformer-based models across different prediction horizons) 
+ 
+Yöntem 
+Metrik 
+NL - Loo 
+FR - Lbr 
+BE - Vie 
+IT - Col 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+96 
+192 
+336 
+720 
+Transformer 
+MSE 
+(ᴼC²) 
+0,004 0,039 0,061 0,102 0,066 0,104 0,122 0,142 0,061 0,104 0,129 0,149 0,043 0,083 0,101 
+0,139 
+MAE 
+(ᴼC) 
+0,047 
+0,15 
+0,187 
+0,24 
+0,2 
+0,256 0,273 0,296 0,184 0,248 
+0,28 
+0,305 0,137 0,197 0,211 
+0,268 
+Informer 
+MSE 
+(ᴼC²) 
+0,02 
+0,036 0,062 
+0,09 
+0,068 0,098 0,132 0,172 0,059 0,104 0,123 0,152 0,047 0,092 0,119 
+0,113 
+MAE 
+(ᴼC) 
+0,107 0,142 0,188 
+0,23 
+0,203 
+0,25 
+0,288 0,327 0,184 
+0,25 
+0,274 0,312 0,143 0,199 0,233 
+0,249 
+Autoformer 
+MSE 
+(ᴼC²) 
+0,015 0,048 0,078 0,166 0,076 0,091 0,118 0,161 0,079 0,108 0,146 0,237 0,058 0,099 0,109 
+0,153 
+MAE 
+(ᴼC) 
+0,091 0,166 0,212 0,313 0,218 
+0,23 
+0,269 0,317 0,206 
+0,25 
+0,296 
+0,38 
+0,174 0,235 0,248 
+0,304 
+Reformer 
+MSE 
+(ᴼC²) 
+0,028 0,044 0,075 0,116 0,068 0,094 0,117 0,107 0,069 0,108 0,118 0,133 0,047 0,063 0,071 
+0,076 
+MAE 
+(ᴼC) 
+0,128 0,158 0,213 0,269 0,208 0,251 0,279 0,269 0,201 0,258 0,274 0,295 0,145 0,174 0,189 
+0,206 
+ETSformer 
+MSE 
+(ᴼC²) 
+0,023 0,049 0,085 0,189 0,086 0,111 0,131 0,193 0,062 0,106 0,149 0,257 0,062 0,097 0,128 
+0,186 
+MAE 
+(ᴼC) 
+0,118 0,168 
+0,22 
+0,338 0,229 0,259 0,283 0,347 0,199 0,248 0,298 0,398 0,189 0,234 0,271 
+0,337 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+591 
+değerlendirme tablolarında, daha düşük değerler üstün performansı 
+gösterir ve kalın yazı tipiyle vurgulanmıştır. Reformer yöntemi, 6 
+şehir ve 4 zaman adımında yapılan 20 testin 11'inde diğer 
+yöntemlerden daha başarılı olmuştur. Transformatör yöntemleri 
+genellikle sonuçlar açısından DL yöntemlerini geride bırakmaktadır. 
+Özellikle dikkat çekici olan ise Reformer yönteminin CNN 
+yaklaşımıyla elde edilen sonuçlarla karşılaştırıldığında yaklaşık 50 kat 
+daha iyi sonuçlar elde etmesidir. 
+ 
+Tablo 9, mevcut literatürde özetlenen güncel toprak sıcaklığı tahmin 
+yöntemleri ile önerilen yaklaşım arasında, MAE metriği kullanılarak 
+kapsamlı bir karşılaştırma sunmaktadır. Bu karşılaştırma, Fluxnet veri 
+seti üzerinde gerçekleştirilmiştir. Tablo 9'da karşılaştırılan yöntemler 
+DL temelli yaklaşımlardır. Bu yöntemlerin sonuçları orijinal 
+makalelerinden alınmıştır. Tablo 9’da sunulan tahmin değerleri, 5 cm 
+toprak derinliği için türetilmiştir. Kısa vadeli zaman adımlarını tahmin 
+etmek nispeten daha az zorlu olduğundan, tablodaki tüm yöntemler 
+için en uzun tahmin aralıkları kullanılmıştır. Özellikle belirtmek 
+gerekir ki, [23] ve [35] yöntemlerinin sonuçları sınırlı sayıda 
+istasyonun 
+verilerine 
+dayanmaktadır. 
+Bu, 
+performans 
+değerlendirmelerinin bu özel istasyonların koşullarıyla sınırlı olduğu 
+ve daha geniş senaryolardaki performanslarını doğru bir şekilde 
+yansıtmayabileceği anlamına gelir. Tablo 8'de görüldüğü gibi, 
+önerilen Reformer yöntemi, diğer yöntemlere kıyasla tutarlı bir 
+şekilde daha düşük MAE değerleri sergilemektedir. Bu tutarlı eğilim, 
+Reformer yaklaşımının toprak sıcaklığı tahmininde üstün bir tahmin 
+doğruluğu gösterdiğini ve bu alanda dikkate değer bir ilerleme 
+sağladığını ima etmektedir. Ayrıca, Reformer yönteminin, ikinci en 
+iyi yöntem olan [13]'e kıyasla neredeyse iki kat daha iyi sonuçlar 
+gösterdiği vurgulanmalıdır. Bu durum, mevcut yaklaşımlara kıyasla 
+tahmin hatalarını önemli ölçüde azaltma kapasitesine sahip olduğunu 
+göstermektedir. 
+ 
+Çalışma kapsamında en iyi model olarak seçilen Reformer modelinin 
+tahmin sürecinde kullandığı özelliklerin önem derecelerini belirlemek 
+amacıyla 
+SHapley 
+Additive 
+exPlanations 
+(SHAP) 
+analizi 
+uygulanmıştır. SHAP, oyun teorisine dayalı Shapley değerleri 
+kullanarak model çıktılarını açıklamaktadır. Analizde 200 test örneği 
+kullanılmış ve 100 arka plan örneği ile karşılaştırma yapılmıştır. 
+SHAP değerleri, her bir özelliğin model tahminlerine olan katkısını 
+sayısal olarak ifade etmektedir. 
+ 
+SHAP analizi sonucunda elde edilen özellik önem sıralaması Tablo 
+10’da verilmiştir. Analiz sonuçlarına göre, en önemli üç özellik 
+toplam model kararının %42,30'unu oluşturmaktadır. Hava sıcaklığı, 
+toprak sıcaklığı tahmininde en etkili özellik olarak belirlenmiştir. 
+Atmosfer basıncı ve yağış sırasıyla ikinci ve üçüncü sırada yer 
+almaktadır. Özellik önem dağılımının görece dengeli olduğu 
+gözlemlenmiştir. En yüksek öneme sahip özellik ile en düşük öneme 
+sahip özellik arasındaki fark %4,66'dır. Bu durum, modelin tahmin 
+sürecinde tüm özellikleri belirli bir oranda dikkate aldığını 
+göstermektedir. Radyasyon bileşenleri (uzun dalga ve kısa dalga) orta 
+düzeyde öneme sahiptir ve sırasıyla %12,67 ve %10,61 katkı 
+sağlamaktadır. Toprak nemi %12,60 ile beşinci sırada yer alırken, 
+hedef değişken olan toprak sıcaklığının geçmiş değerleri %11,49 
+önem derecesine sahiptir. Rüzgâr hızı, %10,32 ile en düşük önem 
+derecesine sahip özellik olarak belirlenmiş ancak bu değer diğer 
+özelliklerle karşılaştırıldığında önemli bir farklılık göstermemektedir. 
+SHAP analizi, Reformer modelinin toprak sıcaklığı tahmininde 
+meteorolojik özellikleri dengeli bir şekilde kullandığını ortaya 
+koymuştur. Hava sıcaklığı, atmosfer basıncı ve yağış en kritik 
+özellikler olarak öne çıkmakta, ancak tüm özelliklerin model 
+performansına anlamlı katkıları bulunmaktadır. Bu bulgular, çok 
+değişkenli yaklaşımın toprak sıcaklığı tahmini için uygun olduğunu 
+desteklemektedir. 
+ 
+Tablo 10. SHAP Analizine göre her bir özelliğin önem derecesi  
+(The importance level of each feature according to SHAP Analysis) 
+ 
+Özellik 
+Önem  
+Derecesi 
+Hava Sıcaklığı (TA_F_MDS) 
+%14,97 
+Atmosfer Basıncı (PA_ERA) 
+%14,26 
+Yağış (P_ERA) 
+%13,00 
+Uzun Dalga Radyasyonu (LW_IN_F_MDS) 
+%12,66 
+Toprak Nemi (SWC_F_MDS_1) 
+%12,60 
+Toprak Sıcaklığı (TS_F_MDS_1) 
+%11,49 
+Kısa Dalga Radyasyonu (SW_IN_F_MDS) 
+%10,61 
+Rüzgar Hızı (WS_ERA) 
+%10,32 
+ 
+Şekil 5, parametre boyutu (milyon) ve MSE açısından Transformatör 
+tabanlı modeller ile geleneksel DL modellerinin karşılaştırmalı bir 
+analizini sunmaktadır. 'FR - Lbr' istasyonundan elde edilen bu 
+sonuçlar, 720 zaman adımıyla yapılan tahmin uzunluğu için model 
+boyutu ile performans arasındaki dengeyi vurgulamaktadır. Grafik, 
+geleneksel DL modelleri olan LSTM ve CNN'in nispeten daha küçük 
+parametre boyutlarına sahip olmalarına rağmen, Transformatör 
+tabanlı modellere kıyasla önemli ölçüde daha yüksek MSE değerleri 
+sergilediğini göstermektedir. Özellikle, yalnızca 0.019 milyon 
+parametreye sahip olan LSTM, en yüksek MSE'yi (5,850 ᴼC²) 
+üreterek tahmin gereksinimlerini etkili bir şekilde karşılayamadığını 
+ortaya koymaktadır. 0,189 milyon parametreye sahip olan CNN ise 
+biraz daha iyi performans gösterse de hâlâ yüksek bir MSE (2,169 
+ᴼC²) üretmektedir. Buna karşın, Transformer ve Informer gibi 
+Transformatör tabanlı modeller, önemli ölçüde daha büyük parametre 
+boyutlarına sahip olmalarına rağmen çok daha düşük MSE değerleri 
+ile üstün performans sergilemektedir. Bu durum, karmaşık zaman 
+serisi tahmin görevlerini ele almada Transformatör mimarilerinin 
+avantajını vurgulamaktadır. Sonuç olarak bu bulgular, daha küçük 
+modellerin hesaplama verimliliği sağlamasına karşın, Transformatör 
+modellerinin daha iyi doğruluk elde ettiğini ve hassas tahminler 
+gerektiren görevler için çok daha uygun olduğunu göstermektedir. 
+ 
+4.1. Zaman Serisi Tahmin Modellerinin İstatistiksel Karşılaştırması 
+(Statistical Comparison of Time Series Forecasting Models) 
+ 
+Çalışmada beş farklı transformatör tabanlı zaman serisi tahmin 
+modelinin performansları istatistiksel olarak karşılaştırılmıştır. 
+Modeller, dört FLUXNET istasyonundan (BE, CH, FI, FR) elde 
+Tablo 9. Önerilen yöntem ve literatürün karşılaştırılması (Comparison of proposed method and literature) 
+ 
+Çalışmalar 
+Metot Detayları 
+Zaman Adımı (Saat) 
+Fluxnet Stations 
+NL - 
+Loo 
+FR - 
+Lbr 
+BE - 
+Vie 
+IT - 
+Col 
+FI - 
+Hyy 
+CH-
+Lae 
+[23] 
+GRU & Auxiliary Network 
+24 
+- 
+- 
+- 
+- 
+- 
+1,0287 
+[35] 
+EEMD-CNN 
+120 
+- 
+- 
+- 
+- 
+- 
+0,498 
+[13] 
+Attention-based LSTM 
+168 
+0,352 
+0,811 
+1,119 
+2,947 
+3,268 
+- 
+Önerilen yöntem 
+Reformer 
+192 
+0,158 
+0,251 
+0,258 
+0,174 
+0,204 
+0,297 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+592 
+edilen toprak sıcaklığı tahmin verileri üzerinde 192 adımlık tahmin 
+uzunluğu için test edilmiştir. İstatistiksel anlamlılık analizleri, 
+Friedman testi ve Wilcoxon işaretli sıralar testi kullanılarak 
+gerçekleştirilmiştir. 
+ 
+Çalışmada kullanılan MSE değerleri Tablo 11'de sunulmuştur. Her 
+model, dört farklı istasyon için ayrı ayrı eğitilmiş ve test edilmiştir. 
+Tablo 11'de görüldüğü üzere, Reformer modeli en düşük ortalama 
+MSE değerine (0,0773) sahip olurken, ETSformer en yüksek ortalama 
+MSE değerini (0,0907) göstermiştir. Standart sapma değerleri 
+incelendiğinde, tüm modellerin istasyonlar arası varyasyonunun 
+benzer düzeylerde olduğu gözlemlenmiştir. 
+ 
+Beş model arasında genel bir performans farkının olup olmadığını test 
+etmek amacıyla parametrik olmayan Friedman testi uygulanmıştır. 
+İkili karşılaştırmalar için Wilcoxon işaretli sıralar testi kullanılmıştır. 
+Çoklu karşılaştırma problemini kontrol altına almak üzere Bonferroni 
+düzeltmesi uygulanmış ve anlamlılık düzeyi 𝛼ൌ0,05/10 ൌ0,005 
+olarak belirlenmiştir. 
+ 
+Friedman testi sonuçları, beş model arasında istatistiksel olarak 
+anlamlı bir performans farkı olmadığını göstermiştir: 𝜒²ሺ4ሻ ൌ
+ 5,333, 𝑝 ൌ 0,255. Bu sonuç, gözlemlenen MSE farklarının rastgele 
+varyasyondan kaynaklanabileceğini ve modeller arasında sistematik 
+bir üstünlük bulunmadığını işaret etmektedir. Wilcoxon işaretli sıralar 
+testi ile gerçekleştirilen ikili karşılaştırma sonuçları Şekil 6’da 
+sunulmuştur. Bonferroni düzeltmesi (α = 0,005) uygulandığında 
+hiçbir 
+ikili 
+karşılaştırma 
+istatistiksel 
+anlamlılık 
+düzeyine 
+ulaşmamıştır. En düşük p-değeri, Informer-ETSformer (p = 0,125) ve 
+Transformer-ETSformer 
+(p 
+= 
+0,125) 
+karşılaştırmalarında 
+gözlemlenmiş olup, bu değerler bile düzeltilmiş anlamlılık eşiğinin 
+oldukça üzerindedir. 
+ 
+Şekil 6'da sunulan p-değeri ısı haritası, tüm ikili karşılaştırmaların 
+yeşil tonlarda gösterildiğini ortaya koymaktadır; bu durum, hiçbir 
+model çiftinin istatistiksel olarak anlamlı bir fark göstermediğinin 
+görsel bir kanıtıdır. Matrisin simetrik yapısı, test sonuçlarının 
+tutarlılığını doğrulamaktadır. 
+ 
+Tablo 12'de, beş zaman serisi tahmin modelinin dikkat mekanizması 
+özellikleri, ortalama eğitim süreleri ve ortalama MSE değerleri 
+sunulmuştur. Tablo 12'de görüldüğü üzere, Reformer modeli en düşük 
+ortalama MSE değerini (0,0773 ᴼC²) elde etmesine rağmen, orta 
+düzeyde bir eğitim süresi (16,4 dakika) gerektirmiştir. Informer 
+modeli ise en hızlı eğitim süresini (13,2 dakika) sağlarken, Reformer'a 
+göre %6,7 daha yüksek MSE değeri göstermiştir. Dikkat çekici 
+şekilde, O(L²) karmaşıklığa sahip Transformer modeli, modern GPU 
+optimizasyonları sayesinde Informer'a yakın bir eğitim süresi (13,9 
+dakika) sergilemiş ve benzer MSE performansı (0,0825 ᴼC²) 
+göstermiştir.  
+ 
+Şekil 5. FR - Lbr istasyonunda 720 zaman adımlı tahmin için modellerin parametre boyutu ve MSE açısından karşılaştırması 
+(Comparison of the models in terms of parameter size and MSE for the 720-time-step forecast at the FR-Lbr station) 
+ 
+Tablo 11. Modellerin istasyonlara göre MSE değerleri (ᴼC²) ve tanımlayıcı istatistikleri 
+(MSE values and descriptive statistics of the models according to stations) 
+ 
+Model 
+BE 
+CH 
+FI 
+FR 
+Ortalama 
+Std. Sapma 
+Informer 
+0.036 
+0.098 
+0.104 
+0.092 
+0.0825 
+0.0314 
+Autoformer 
+0.048 
+0.091 
+0.108 
+0.099 
+0.0865 
+0.0266 
+Reformer 
+0.044 
+0.094 
+0.108 
+0.063 
+0.0773 
+0.0291 
+Transformer 
+0.039 
+0.104 
+0.104 
+0.083 
+0.0825 
+0.0306 
+ETSformer 
+0.049 
+0.111 
+0.106 
+0.097 
+0.0907 
+0.0284 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+593 
+Autoformer modelinin O(L log L) teorik karmaşıklığa sahip olmasına 
+rağmen en uzun eğitim süresini (18,1 dakika) gerektirmesi, oto-
+korelasyon hesaplamaları için kullanılan FFT işlemlerinin ve her 
+katmanda 
+uygulanan 
+seri 
+ayrıştırma 
+(series 
+decomposition) 
+mekanizmasının pratik hesaplama yükünü artırdığını göstermektedir. 
+ETSformer modeli, üstel düzeltme tabanlı dikkat mekanizması 
+kullanmasına rağmen en yüksek ortalama MSE değerini (0,0907 ᴼC²) 
+göstermiş, bu durum klasik zaman serisi yöntemlerinden ilham alan 
+bu yaklaşımın DL tabanlı dikkat mekanizmalarına göre daha az etkili 
+olabileceğini düşündürmüştür. 
+ 
+5. Sonuçlar (Conclusions) 
+ 
+Transformatör modellerinin toprak sıcaklığı tahmini için kullanımı, 
+yeni bir son teknoloji oluşturmakta ve bu modellerin etkinliğini 
+vurgulamakta, geleneksel yöntemlere göre belirgin avantajlar 
+sunmaktadır. Bu yaklaşımın başlıca gücü, toprak sıcaklığı 
+verilerindeki karmaşık zamansal bağımlılıkları yakalayabilme 
+yeteneğidir. Bu, geleneksel ağaç tabanlı ve DL modellerine kıyasla 
+daha doğru uzun vadeli tahminler elde edilmesini sağlamaktadır. Bu 
+özellik, toprak sıcaklığının ekolojik süreçler ve kaynak yönetimi 
+kararlarını etkileyen önemli bir faktör olması nedeniyle ekolojik ve 
+çevresel izleme için kritik öneme sahiptir. Transformatör modelleri, 
+dikkat mekanizmaları sayesinde uzun vadeli bağımlılıkları yönetme 
+konusunda mükemmeldir, bu da onları toprak sıcaklığı gibi zamansal 
+veriler için son derece uygun hale getirir. Bu modellerle elde edilen 
+iyileştirilmiş doğruluk, toprak sıcaklığındaki ince değişiklikleri 
+anlamaya yardımcı olur ve ekolojik dinamikleri takip etmek için 
+önemlidir. 
+ 
+Birden fazla FLUXNET istasyonu kullanarak yapılan bu çalışma, 
+transformatör modellerinin farklı çevresel koşullara uyum sağlama 
+yeteneğini göstermektedir. Bu modellerin dayanıklılığı, geleneksel 
+modellere göre farklı ortamlarda yeniden ayar yapma ihtiyacını 
+azaltarak daha güvenilir hale getirir. Transformatör tabanlı yöntemler, 
+emek yoğun manuel tahmin yöntemlerine duyulan ihtiyacı en aza 
+indirir. Otomasyonu sayesinde toprak sıcaklığı tahmini sürecini 
+kolaylaştırır, araştırmacılara ve uygulayıcılara daha verimli bir araç 
+sunarak kaynakları daha ileri düzey ekolojik çalışmalar ve karar alma 
+süreçlerine yönlendirir. 
+ 
+Bu tahmin yeteneği, tarım, ormancılık ve koruma gibi alanlarda 
+önemli faydalar sağlar. Doğru toprak sıcaklığı tahminleri, ekosistem 
+yönetimi, kaynak tahsisi ve biyoçeşitliliğin korunmasında, ekim 
+takvimleri, sulama ihtiyaçları ve koruma çabaları gibi kararları 
+bilgilendirir. Bu yaklaşım aynı zamanda aşırı sıcaklık olayları için 
+erken uyarı sistemlerinin potansiyel geliştirilmesine olanak tanır. Bu, 
+ekologlar, çiftçiler ve politika yapıcılar için büyük bir avantaj 
+sağlayarak, mahsul hasarı, toprak bozulması ve diğer sıcaklık duyarlı 
+ekolojik etkilerle ilgili risklerin azaltılmasına yardımcı olur. 
+ 
+Şekil 6. Wilcoxon işaretli sıralar testi ile gerçekleştirilen ikili karşılaştırma sonuçları  
+(Pairwise comparison results performed with Wilcoxon signed-rank test) 
+ 
+Tablo 12. Modellerin dikkat mekanizması, eğitim süresi ve MSE performansı karşılaştırması  
+(Comparison of models' attention mechanism, training time, and MSE performance) 
+ 
+Model 
+Dikkat Mekanizması 
+Karmaşıklık 
+Ortalama Eğitim 
+Süresi (dakika) 
+Ortalama MSE 
+(ᴼC²) 
+Informer 
+ProbSparse Attention 
+O(L log L) 
+13,2 
+0,0825 
+Autoformer 
+Auto-correlation 
+O(L log L) 
+18,1 
+0,0865 
+Reformer 
+LSH Attention 
+O(L log L) 
+16,4 
+0,0773 
+Transformer 
+Full Attention 
+O(L²) 
+13,9 
+0,0825 
+ETSformer 
+Exponential Smoothing 
+O(L log L) 
+15,2 
+0,0907 
+ 
+Yurtsever ve ark. / Journal of the Faculty of Engineering and Architecture of Gazi University 41:1 (2026) 579-594 
+594 
+Gelecek çalışmalarda, farklı iklim bölgelerini ve çeşitli toprak 
+tiplerini temsil eden ek veri setlerinin modele dâhil edilmesi 
+planlanmaktadır. Bu tür bir genişletme, önerilen transformatör tabanlı 
+yaklaşımın farklı çevresel koşullar altındaki genelleme kapasitesinin 
+daha kapsamlı biçimde değerlendirilmesine olanak sağlayacaktır. 
+Özellikle farklı iklim rejimlerine sahip bölgelerden elde edilecek uzun 
+dönemli toprak sıcaklığı verilerinin kullanılması, modelin mekânsal 
+ve çevresel çeşitlilik karşısındaki dayanıklılığını artırarak daha 
+genellenebilir ve güvenilir tahminler üretilmesine katkı sağlayabilir. 
+ 
+Kaynaklar (References) 
+ 
+1. 
+Adair E. C., Parton W. J., Del Grosso S. J., Silver W. L., Harmon M. E., 
+Hall S. A., Burke I. C., Hart S. C., Simple three-pool model accurately 
+describes patterns of long-term litter decomposition in diverse climates, 
+Global Change Biology, 14 (11), 2636–2660, 2008. 
+2. 
+Bykova O., Chuine I., Morin X., Higgins S. I., Temperature dependence 
+of the reproduction niche and its relevance for plant species 
+distributions, Journal of Biogeography, 39 (12), 2191–2200, 2012. 
+3. 
+Fabris L., Buddendorf W. B., Soulsby C., Assessing the seasonal effect 
+of flow regimes on availability of Atlantic salmon fry habitat in an 
+upland Scottish stream, Science of The Total Environment, 696, 
+133857, 2019. 
+4. 
+Davidson E. A., Janssens I. A., Temperature sensitivity of soil carbon 
+decomposition and feedbacks to climate change, Nature, 440 (7081), 
+165–173, 2006. 
+5. 
+Attri I., Awasthi L. K., Sharma T. P., Rathee P., A review of deep 
+learning techniques used in agriculture, Ecological Informatics, 102217, 
+2023. 
+6. 
+Khan A., Vibhute A. D., Mali S., Patil C. H., A systematic review on 
+hyperspectral imaging technology with a machine and deep learning 
+methodology for agricultural applications, Ecological Informatics, 69, 
+101678, 2022. 
+7. 
+Zhang Z., Li Y., Williams R. A., Chen Y., Peng R., Liu X., Qi Y., 
+Wang Z., Responses of soil respiration and its sensitivities to 
+temperature and precipitation: A meta-analysis, Ecological Informatics, 
+102057, 2023. 
+8. 
+Seifi A., Ehteram M., Nayebloei F., Soroush F., Gharabaghi B., Torabi 
+Haghighi A., GLUE uncertainty analysis of hybrid models for 
+predicting hourly soil temperature and application wavelet coherence 
+analysis for correlation with meteorological variables, Soft Computing, 
+25, 10723–10748, 2021. 
+9. 
+Singhal M., Gairola A. C., Singh N., Artificial neural network-assisted 
+glacier forefield soil temperature retrieval from temperature 
+measurements, Theoretical and Applied Climatology, 143, 1157–1166, 
+2021. 
+10. Bayatvarkeshi M., Bhagat S. K., Mohammadi K., Kisi O., Farahani M., 
+Hasani A., Deo R., Yaseen Z. M., Modeling soil temperature using air 
+temperature features in diverse climatic conditions with complementary 
+machine learning models, Computers and Electronics in Agriculture, 
+185, 106158, 2021. 
+11. Malik A., Tikhamarine Y., Sihag P., Shahid S., Jamei M., Karbasi M., 
+Predicting daily soil temperature at multiple depths using hybrid 
+machine learning models for a semi-arid region in Punjab, India, 
+Environmental Science and Pollution Research, 29 (47), 71270–71289, 
+2022. 
+12. Guleryuz D., Estimation of soil temperatures with machine learning 
+algorithms—Giresun and Bayburt stations in Turkey, Theoretical and 
+Applied Climatology, 147 (1-2), 109–125, 2022. 
+13. Li Q., Zhu Y., Shangguan W., Wang X., Li L., Yu F., An attention-
+aware LSTM model for soil moisture and soil temperature prediction, 
+Geoderma, 409, 115651, 2022. 
+14. Wang Y., Zhuang D., Xu J., Wang Y., Soil Temperature Prediction 
+Based on 1D-CNN-MLP Neural Network Model, Journal of the 
+ASABE, 0, 2023. 
+15. Orhan İ., Özkan İ., Öztaş T., Yüksel A., Soil Temperature Prediction 
+with Long Short Term Memory (LSTM), Türk Tarım ve Doğa Bilimleri 
+Dergisi, 9 (3), 779–785, 2022. 
+16. Küçük C., Birant D., Taşer P. Y., A Novel Machine Learning 
+Approach: Soil Temperature Ordinal Classification (STOC), Journal of 
+Agricultural Sciences, 28 (4), 635–649, 2022. 
+17. Imanian H., Shirkhani H., Mohammadian A., Hiedra Cobo J., Payeur 
+P., Spatial Interpolation of Soil Temperature and Water Content in the 
+Land-Water Interface Using Artificial Intelligence, Water, 15 (3), 473, 
+2023. 
+18. Bilgili M., Şaban Ü., Şekertekin A., Gürlek C., Machine Learning 
+Approaches for One-Day Ahead Soil Temperature Forecasting, Journal 
+of Agricultural Sciences, 29 (1), 221–238, 2023. 
+19. Tüysüzoğlu G., Birant D., Kıranoğlu V., Soil Temperature Prediction 
+via Self-Training: Izmir Case, Journal of Agricultural Sciences, 28 (1), 
+47–62, 2022. 
+20. Imanian H., Hiedra Cobo J., Payeur P., Shirkhani H., Mohammadian 
+A., A Comprehensive Study of Artificial Intelligence Applications for 
+Soil Temperature Prediction in Ordinary Climate Conditions and 
+Extremely Hot Events, Sustainability, 14 (13), 8065, 2022. 
+21. Khan M. S., Ivoke J., Nobahar M., Amini F., Artificial Neural Network 
+(ANN) based Soil Temperature model of Highly Plastic Clay, 
+Geomechanics and Geoengineering, 17 (4), 1230–1246, 2022. 
+22. Tuysuzoglu G., Birant D., Kıranoğlu V., Multi-view multi-depth soil 
+temperature prediction (MV-MD-STP): a new approach using machine 
+learning and time series methods, International Journal of Intelligent 
+Engineering Informatics, 10 (1), 74–104, 2022. 
+23. Wang X., Li W., Li Q., A new embedded estimation model for soil 
+temperature prediction, Scientific Programming, 2021, 1–16, 2021. 
+24. Abimbola O. P., Meyer G. E., Mittelstet A. R., Rudnick D. R., Franz T. 
+E., Knowledge-guided machine learning for improving daily soil 
+temperature prediction across the United States, Vadose Zone Journal, 
+20 (5), e20151, 2021. 
+25. Pastorello G., Trotta C., Canfora E., Chu H., Christianson D., Cheah Y.-
+W., ..., Amiro B., The FLUXNET2015 dataset and the ONEFlux 
+processing pipeline for eddy covariance data, Scientific Data, 7 (1), 1-
+27, 2020. 
+26. Li Q., Zhu Y., Shangguan W., Wang X., Li L., Yu F., An attention-
+aware LSTM model for soil moisture and soil temperature prediction, 
+Geoderma, 409, 115651, 2022. 
+27. Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomez A. 
+N., Kaiser Ł., Polosukhin I., Attention is all you need, Advances in 
+Neural Information Processing Systems, 30, 2017. 
+28. Kitaev N., Kaiser Ł., Levskaya A., Reformer: The efficient transformer, 
+arXiv preprint arXiv:2001.04451, 2020. 
+29. Gomez A. N., Ren M., Urtasun R., Grosse R. B., The reversible residual 
+network: Backpropagation without storing activations, Advances in 
+Neural Information Processing Systems, 30, 2017. 
+30. Zhou H., Zhang S., Peng J., Zhang S., Li J., Xiong H., Zhang W., 
+Informer: Beyond efficient transformer for long sequence time-series 
+forecasting, Proceedings of the AAAI Conference on Artificial 
+Intelligence, 35 (12), 11106–11115, 2021. 
+31. Chatfield C., The analysis of time series: An introduction, Chapman 
+and Hall/CRC, 2003. 
+32. Papoulis A., Unnikrishna Pillai S., Probability, random variables and 
+stochastic processes, McGraw-Hill, 2002. 
+33. Woo G., Liu C., Sahoo D., Kumar A., Hoi S., Etsformer: Exponential 
+smoothing transformers for time-series forecasting, arXiv preprint 
+arXiv:2202.01381, 2022. 
+34. Holt C. C., Forecasting seasonals and trends by exponentially weighted 
+moving averages, International Journal of Forecasting, 20 (1), 5–10, 
+2004. 
+35. Hao H., Yu F., Li Q., Soil temperature prediction using convolutional 
+neural network based on ensemble empirical mode decomposition, 
+IEEE Access, 9, 4084–4096, 2021. 
+36. Özdoğan İ., Boran F. E., Yıldız O., Fuzzy linguistic summarization of 
+time series with interval type-2 fuzzy c-means: BIST100 sample stock 
+application, Journal of the Faculty of Engineering and Architecture of 
+Gazi University, 40 (3), 1659-1672, 2025. 
+37. Arseven B., Çınar S. M., Solar radiation prediction with extraterrestrial 
+radiation supported multivariate Ridge and Lasso regression methods, 
+Journal of the Faculty of Engineering and Architecture of Gazi 
+University, 40 (3), 1745-1756, 2025. 
+38. Nalkıran M., Altuntaş S., Prediction of heat transfer value using an 
+internet of things and machine learning-based approach in the 
+automotive industry, Journal of the Faculty of Engineering and 
+Architecture of Gazi University, 40 (2), 937-950, 2025. 
+39. Akbulut U., Çifçi M. A., İşler B., Aslan Z., Comparison of different 
+techniques in river flow prediction using machine learning methods, 
+Journal of the Faculty of Engineering and Architecture of Gazi 
+University, 40 (1), 467-486, 2025.  
+ 
+ 

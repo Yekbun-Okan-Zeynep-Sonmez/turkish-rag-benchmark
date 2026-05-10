@@ -1,0 +1,462 @@
+Eğitsel Veri Madenciliği Neden Önemlidir?
+
+Tetsuya Jesse Hirata 1 Fatih Kürşat Cansu 2
+
+Son yıllarda Yapay Zeka ve Makine Öğrenmesi çalışmalarına artan ilgi, eğitim
+alanında yapılan
+
+çalışmalarda da veri madenciliği ve öğrenme analitiklerinin ilerlemesini teşvik
+etti. Veri madenciliği
+
+terimi araştırmacılar tarafından farklı biçimlerde tanımlanmıştır. Baker (2004)
+veri madenciliğini makine
+
+öğreniminin, istatistiksel çalışmaların, farklı sınıflandırma algoritmaları
+kullanılarak büyük veri
+
+setlerinden yeni yönelimler ve kalıplar çıkarma işlemi olarak tanımlamaktadır.
+Veri madenciliği ayrıca
+
+büyük miktardaki veri setinden farklı ve potansiyel olarak faydalı bilgilerin
+keşfedilmesi olarak bilinen
+
+KDD’nin de (knowledge discovery in database) bir alanıdır (Fayyad ve ark.,
+1996). Eğitim alanında
+
+yapılan veri madenciliği ise alanyazında Eğitsel Veri Madenciliği (EVM) olarak
+isimlendirilmektedir.
+
+EVM, veri olarak eğitime dair bilgileri sıklıkla çevrim içi kayıtlardan ve
+inceleme sonuçlarından elde
+
+edilen bilgileri kullanır. Bu bilgiler eğitsel kayıtlar, sınav sonuçları, bir
+uzaktan öğretim sisteminin
+
+kullanım bilgileri gibi bilgiler olabilirler. EVM bu bilgileri kullanarak
+varılacak kararların formülize
+
+edilmesi amacı güder. EVM teoriye yöneliktir ve pedagojik teoriyle bağlantıya
+odaklanır (Berland ve
+
+ark., 2014). Sosyal bilimlerde, halen, bilimsel topluluk tarafından geniş çapta
+kabul görebilecek bir
+
+teorik çerçeveyi desteklemeye yönelik çok az ampirik kanıt bulunmaktadır
+(Papamitsiou ve
+
+Economides, 2014). Gerçek dünyada, farklı öğrenme bağlamlarının büyüklüğü ve
+çeşitliği aslında
+
+EVM çalışmalarının da yönünü belirlemiştir. Öğrencilere, öğretmenlere ve
+okullara ait bilgiler
+
+çeşitlendikçe ve büyüdükçe EVM çalışmalarının da eğitim uygulamalarında
+kullanımı artmakta ve
+
+çalışmalar yoğunlaşmaktadır.
+
+Eğitsel Veri Madenciliği Nedir?
+
+2008 yılında Uluslararası Eğitsel Veri Madenciliği Konferansının düzenlenmesi ve
+aynı yıl
+
+Eğitsel Veri Madenciliği Dergisinin (Journal of Educational Data Mining) yayına
+başlaması ile
+
+birlikte EVM araştırmacılar tarafından tercih edilen güvenilir bir araştırma
+alanı olarak ortaya
+
+çıkmıştır (Baker ve ark., 2010). Eğitsel veri madenciliği uluslararası
+konferansına ev sahipliği
+
+yapan ve eğitsel veri madenciliği dergisini yayınlayan uluslararası eğitsel veri
+madenciliği
+
+derneği EVM’yi eğitim ortamlarından elde dilen benzersiz ve giderek büyüyen
+büyük ölçekli
+
+verileri araştırmak için yöntemler geliştirmekle ilgilenen ve bu yöntemleri
+öğrencileri ve
+
+öğrenme yöntemlerini daha iyi anlamak için kullanan bir disiplin olarak
+tanımlamışlardır
+
+(International Educational Data Mining Society, 2011). Uluslararası Eğitsel Veri
+Madenciliği
+
+Derneği'ne (2011) göre, herhangi bir öğrenme bağlamındaki bilgiler genellikle,
+önceden
+
+belirlenemeyen ancak verilerde bulunan özelliklerle doğrulanması gereken çok
+sayıda
+
+hiyerarşik seviyeden oluşur. Buna göre zamanlama, sıralama ve bağlam gibi
+etkenler eğitim
+
+verileri incelenirken göz önünde bulundurulmalıdır. Örneğin, öğrencilerin derse
+katılımı,
+
+sisteme giriş çıkış sıklıkları, sohbet mesajı sayıları, eğitmene soru sorma
+sıklıkları ve
+
+soruların türü final notları ile birlikte analiz edilebilir (Abdous ve ark.,
+2012). Burada dikkat
+
+edilirse öğrencilere dair bilgiler öğrencilerden dersin ilk aşamasında elde
+edilecek olan
+
+bilgiler değildir. Süreç içerisinde toplanılan ve öğrencilerin senkron veya
+senkron olmayan bir
+
+platform üzerinde bıraktıkları eğitsel parmak izleri EVM tarafından
+değerlendirmeye
+
+1 Yazılım Mühendisi, twitter:​@JesseTetsuya 2 Bahçeşehir Üniversitesi, BÖTE
+Doktora Öğrencisi, twitter:@sbelian
+
+alınmaktadır. Bu nedenle kulanılan bir çevrimiçi öğrenme ortamı öğrenme
+davranışlarını
+
+kayıt altına alabilecek özelliklere sahip değilse veya hatalı bir kayıt sistemi
+varsa EVM
+
+çalışması için alınacak veriler ile yapılacak anlizler öğrenme ortamının
+gelişmesine katkı
+
+sağlamaz. Bu nedenle, EVM’nin ortaya koyabileceği analizlerin güvenilirliği
+çevrimiçi
+
+öğrenme ortamı tarafından belirlenmiş verilerin niteliğine bağlıdır. Doğru ve
+güvenilir bir veri
+
+yine doğru ve güvenilir analizler, sınıflandırmalar ve tahminler yapılmasını
+sağlayacaktır. Bu
+
+tahminler ışığında yeniden düzenlene öğrenme ortamlarına dair veriler ise EVM
+araştırma
+
+alanı için daha güvenilir ve faydalı olacaktır.
+
+Öğrenme Analitiği ve Eğitsel Veri Madenciliği
+
+EVM kavramı Öğrenme Analitikleri (ÖA) yaklaşımlarını kullanan bir ÖA
+araştırmacısı için çok
+
+net ve açık olmayabilir çünkü her iki alanında teorik altyapıları birbirleriyle
+benzeşmeler
+
+göstermektedirler. Uluslararası Öğrenme Analitiği ve Bilgisi Konferansı ve
+diğ.(2016)
+
+öğrenme analitiği kavramını öğrenmeyi ve gerçekleştiği ortamları anlamak ve
+optimize etmek
+
+amacıyla, öğrencileri ve bağlamları hakkındaki verilerin derlenmesi, ölçümü,
+analizi ve
+
+raporlanması olarak tanımlamaktadır. Öğrenme analitikleri (ÖA), aynı EVM gibi
+oldukça yeni
+
+bir alandır ve popülaritesi günden güne artmaktadır. Genel olarak öğrenme
+analitikleri iki
+
+kabul üzerine inşa edilir. İlki ÖA’nın önceden var olan ancak el ile
+işlenemeyecek büyüklükte
+
+bilgilerin bir bilgisayarın işleyebileceği biçimde ele alması ve kullanılan
+tekniklerin kabul
+
+edilmesidir (Ferguson, 2012).
+
+ÖA ve EVM araştırmacıları, eğitim verilerinin nasıl elde edileceği ve analiz
+edileceği
+
+konusunda farklı bakış açıları taşımaktadır (Berland ve ark., 2014). ÖA
+çalışmalarında
+
+araştırmacılar daha çok insan öncülüğündeki keşif yöntemlerini kullanırlar.
+Bütünsel
+
+sistemlere ve anlayış yapılarına daha fazla odaklanırlar. Ardından, öğretmenleri
+ve
+
+öğrencileri bilgilendirmek ve bu bilgiyle güçlendirmek için yollar ararlar.
+Örneğin, bir
+
+öğretmeni bir öğrencinin öğrenme aşamasında çabaladığı yollar hakkında
+bilgilendirilmesi ,
+
+eğitmen ve öğrenci arasındaki iletişime katkıda bulunabilir ve öğretmenin
+öğrencinin
+
+öğrenmesini kolaylaştırmak amacı ile duruma müdahale etmesini sağlayabilir
+(Berland ve
+
+ark., 2014). EVM araştırmacıları, araştırmalarında öğrencinin kişisel öğrenme
+verilerini
+
+kullanarak öğrenme biçimlerini anlamlandırmaya veya sınıflandırmalar yaparak
+farklı
+
+öğrenme biçimlerine göre oluşturulan öğretim ortamlarının yeniden tasarlanmasını
+
+amaçlarlar. Öğrencilerin oluşturdukları öğrenme deneyimleri bir EVM
+araştırmacısının en
+
+önemli veri kaynağıdır. Öğrencilerin tercihleri, davranış biçimleri,
+alışkanlıkları gibi verilerin
+
+yanısıra öğrencilerin öğrenmelerine etkisi olabilecek olan öğrenciye özel
+verileri de
+
+kullanarak ileriye dönük tahminlerde bulunurlar(Berland ve ark., 2014; Arroyo ve
+ark., 2007;
+
+Baker ve ark, 2006; Corbett ve Anderson, 1995).
+
+Eğitsel Veri Madenciliğinin Amaçları ve Paydaşları
+
+Her ne kadar EVM ve ÖA farklı özelliklere sahip olsalar da, gerek teorik alt
+yapıları gerek
+
+kullanılan verilerin türleri gerek ise çevrimiçi teknolojilerin ürettiği ikincil
+verilere dayanarak
+
+veri miktarını değiştiren etkili faktörler aynıdır. yeni teknolojilerin
+özellikle eğitim alanında
+
+kullanımının artması ulaşılabilir veri miktarını ve çeşidini artırlmakta ve veri
+kalitesini
+
+farklılaştırmaktadır. Örneğin Berland ve ark. (2014) özellikle mobil cihazlar
+üzerinden alınan
+
+1 verilerin öğrenenlerin etkileşimlerine dair daha ayrıntılı bilgiler
+barındırmaktadır. Bu sebepten
+
+araştırma kurumları, çok büyük miktarda veri içeren ve herhangi bir bilimsel
+çalışma için
+
+erişime açık olan çevrim içi Veri Dükkanları (Data Shop) açmaktadırlar
+(Koedinger ve ark.,
+
+2010). Bu veri dükkanlarında öğrencilere ait özellikle çevrimiçi eğitimlerdeki
+davranışlara dair
+
+veriler bulunmaktadır. Verilerin büyük bir kısmı öğrencilerden, kullandıkları
+akıllı cihazlar
+
+yardımı ile toplanmıştır. Buna göre, EVM ve ÖA tekniklerinin süreç içerisinde,
+eğitim
+
+bağlamında kullanılan teknolojilerden kolaylaca etkilenebilecekleri söylenebilir
+(Marie
+
+Bienkowski ve ark., 2012). EVM ve ÖA anlamlarını kesin olarak birbirinden
+ayırmak zor bir
+
+durumdur. Baker ve Yacef (2009, s.5-8) EVM çalışmalarını dört ana hedef üzerine
+
+özetlemişlerdir: ● Öğrencilere dair modeller geliştirerek öğrencilerin
+davranışlarını tahmin
+
+etmek. Bu modeller öğrencinin bilgilerini, motivasyonunu, meta-bilişini ve
+
+tutumlarını oluşturan özellikleri ve durumları karakterize edilmesi ve
+
+sınıflandırılması. ● Bilgi alanı yapı modellerini keşfetmek ve geliştirmek
+(Barnes, 2005). ● Öğrenme sistemleri yoluyla ulaşılacak olan öğrencinin
+öğrenmesine destek
+
+olan en etkili pedagojik desteğin incelenmesi. ● Pedagojik teorileri,
+çerçeveleri ve fenomenlerini desteklemek veya açıkça
+
+ifade etmek için daha iyi öğretim sistemlerinin tasarlanmasına destek olmak.
+
+Bu sistemlerin tasarlanmasını sağlamak ve öğrenmenin temel etkili
+
+bileşenlerini belirlemek için ampirik kanıtlar oluşturmak.
+
+Amaçları ve paydaşlarının taksonomisi açısından değerlendirildiğinde Baker ve
+Yacef (2009)
+
+ve Romero ve Ventura (2010) tarafından EVM çalışmalarının amaçları farklı
+bileşenlere bağlı
+
+olarak verilmiştir. EVM çalışmalarının temel amacı, insanların nasıl
+öğrendiğinin psikolojisini
+
+incelemek ve bunu yaparkende psikometri, istatistiksel teknikler, yüzyüze
+temaslarda dahil
+
+olmak üzere çevrimdışı eğitim ortamlarında (LMS ve ITS) depolanan madencilik
+kayıt
+
+verilerini kullanmaktır (Romero ve Ventura, 2010). EVM çalışmaları sonucunda
+elde
+
+edilecek çalışmaların sonuçları farklı paydaş gruplarını farklı açılardan
+ilgilendirmektedir
+
+(Liñán ve Pérez, 2015). Bu paydaş grupları eğitim bilgilerini çeşitli açılardan
+gözden
+
+geçirerek , EVM kullanımına yönelik kendi misyonlarına, vizyonlarına ve
+hedeflerine
+
+uymaktadırlar (Hanna, 2004). Romero ve Ventura (2010, s.2) paydaşları dört
+farklı grup
+
+altında incelemişlerdir. 1. Öğrenenler​: Bireysel öğrenme stillerini, öğrenme
+materyallerini ve öğrenme
+
+deneyimlerini optimize edilmesi veya önerilmesi. 2. Eğitimciler: Öğrencilerin
+öğrenme davranışlarını analiz etmek, en destekleyici eğitim
+
+yöntemine ulaşmaya çalışmak ve öğretimin etkinliğini artırmak için öğrencinin
+
+öğrenmesini öngörülmesi. 3. Araştırmacılar / Geliştiriciler: Öğrenme
+materyallerini değerlendirme, öğrenme
+
+sistemlerini iyileştirme ve etkinlik için veri madenciliği tekniklerini
+değerlendirmesi. 4. Organizasyonlar: İlk/Orta/Yüksek öğrenim kurumlarında karar
+alma süreçlerini,
+
+kabul işlemleri ve finansal kaynakların dağıtımı gibi işlemlerin verimlilik ve
+maliyet
+
+açısından iyileştirmesi.
+
+2 Sonuç Teorik olarak yapılmasına rağmen yukarıda verilen taksonomiler açısından
+yapılan pratik ve
+
+ampirik EVM çalışmaları oldukça azdır. Örneğin Papamitsou ve Economides (2014)
+
+tarafından yapılan çalışmada 209 çalışma incelenmiş bunların ise 40 tanesinin
+ampirik
+
+çalışma olduğu belirtilmiştir. Ayrıca EVM ile yapılan çalışmaların helen
+alanyazında oldukça
+
+yeni olması ve çalışmaların sıklıkla yüksek öğrenim öğrencilerinin verileri ile
+yapılmasına
+
+sebep olmaktadır. Araştırmacıların bu veri kümeleri ile çalışmaları normaldir.
+Özellikle
+
+yüksek öğrenim kurumlarının analiz yapılacak kadar sürekli ve doğru veri
+yığınlarına sahip
+
+olmaları bunun en büyük sebebidir (Kollias ve ark., 2005).
+
+EVM çalışmalarında karşılaşılan problemlerden bir diğeri ise yapılan
+çalışmaların boylamsal
+
+olmamasıdır. Bilinen veri setleri ile yapılan çalışmalarda sonuçları bilinen
+veriler üzerinden
+
+çalışmalar yürütülmekte ve bilinen sonuçlara en yakın değerler yüzdelik veya
+sınıflandırma
+
+olarak tahmin edilmeye çalışılmaktadır. Bu durum hem eğitsel veri madenciliği
+hem de
+
+bilgisayar bilimleri alanında yapılan çalışmalar için sorunlu bir durumdur.
+Çalışmaların
+
+sıklıkla benzer paket programlar ve aynı kütüphaneler ile oluşturulması
+çalışmalar arasındaki
+
+benzerliği artırırken güvenirlik konusunu tehlikeye sokmaktadır.
+
+Yapılan her EVM çalışmasının kendi iç dinamikleri ve değişkenleri vardır. Bu
+dinamikler ve
+
+değişkenler farklı analiz yöntemleri, sınıflandırma algoritmaları ve
+ilişkiselliklerin yanında
+
+farklı makine öğrenmesi yöntemlerininde kullanılmasını gerektirir. Bu yüzden EVM
+alanında
+
+çalışmak isteyen araştırmacıların analiz, istatistik, programlama, makine
+öğrenmesi
+
+disiplinlerinde bilgilerini EVM alanındaki çalışmalarına aktarmaları
+çalışmaların güvenilirliğine
+
+ve geçerliliğine katkıda bulunacaktır.
+
+Kaynakça.
+
+Abdous, M., Wu, H. & Yen, C.-J.,(2012). Using data mining for predicting
+relationships between
+
+online question theme and final grade. ​Journal of Educational Technology &
+Society​, 15(3),
+
+p.77. Baker, R. & de Carvalho, A.,(2008). Labeling student behavior faster and
+more precisely with text
+
+replays. In ​Educational Data Mining 2008​. Available at:
+
+http://www.educationaldatamining.org/conferences/index.php/EDM/2008/paper/downloa
+d/759/725​ [Accessed August 30, 2017]. Baker, R. & others,(2010). Data mining
+for education. ​International encyclopedia of education​, 7(3),
+
+pp.112–118. 3 Baker, R.S.,(2014). Educational data mining: An advance for
+intelligent systems in education. ​IEEE
+
+Intelligent systems​, 29(3), pp.78–82. Baker, R.S.J. d & Yacef, K.,(2009). The
+State of Educational Data Mining in 2009: A Review and Future
+
+Visions. ​JEDM — Journal of Educational Data Mining​, 1(1), pp.3–17. Berland,
+M., Ryan|Blikstein, Paulo,(2014). Educational Data Mining and Learning
+Analytics:
+
+Applications to Constructionist Research. ​Technology, Knowledge and Learning​,
+19(1–2),
+
+pp.205–220. Fayyad, U., Piatetsky-Shapiro, G. & Smyth, P.,(1996). From data
+mining to knowledge discovery in
+
+databases. ​AI Magazine​, 17(3), p.37. Ferguson, R.,(2012). Learning analytics:
+drivers, developments and challenges. ​International Journal
+
+of Technology Enhanced Learning​, 4(5/6), p.304. Feyyad, U.M.,(1996). Data
+mining and knowledge discovery: making sense out of data. ​IEEE Expert​,
+
+11(5), pp.20–25. International Educational Data Mining Society,(2011).
+International Educational Data Mining Society.
+
+International Educational Data Mining Society​. Available at: /home [Accessed
+June 26, 2017]. Hanna, M.,(2004). Data mining in the e-learning domain.
+​Campus-Wide Information Systems​, 21(1),
+
+pp.29–34. Koedinger, K.R., D’Mello, S., McLaughlin, E.A., Pardos, Z.A. & Rosé,
+C.P.,(2015b). Data mining and
+
+education. ​Wiley Interdisciplinary Reviews: Cognitive Science​, 6(4),
+pp.333–353. Liñán, L.C. & Pérez, Á.A.J.,(2015). Educational Data Mining and
+Learning Analytics: differences,
+
+similarities, and time evolution. ​RUSC. Universities and Knowledge Society
+Journal​, 12(3),
+
+pp.98–112. Papamitsiou, Z. & Economides, A.A.,(2014). Learning analytics and
+educational data mining in
+
+practice: A systematic literature review of empirical evidence. ​Journal of
+Educational
+
+Technology & Society​, 17(4), p.49. Romero, C. & Ventura, S.,(2010). Educational
+Data Mining: A Review of the State of the Art. ​IEEE
+
+Transactions on Systems, Man, and Cybernetics, Part C (Applications and
+Reviews)​, 40(6),
+
+pp.601–618. Selwyn, Neil. (2011). ​Education and technology: key issues and
+debates​. London; New York, NY:
+
+Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc 4
+
+5

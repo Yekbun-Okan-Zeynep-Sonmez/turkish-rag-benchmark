@@ -1,0 +1,663 @@
+ 
+Cilt: 5 Sayı: 3 Ekim 2022 / Vol: 5 Issue: 3 October 2022                     
+https://dergipark.org.tr/tr/pub/actamednicomedia  
+*İletişim kurulacak yazar/Corresponding author: Ahmet Cem Esmer; Marmara Üniversitesi, Pendik Eğitim ve Araştırma Hastanesi, Fevzi Çakmak, Muhsin 
+Yazıcıoğlu Cd No:10, 34899 Pendik,İstanbul, Türkiye. 
+Telefon/Phone: +90 (536) 761 95 98       e-posta/e-mail: ahmetcemesmer@hotmail.com 
+Başvuru/Submitted: 18.06.2022                    ●                  Kabul/Accepted: 03.08.2022                   ●                    Online Yayın/Published Online: 15.10.2022 
+ 
+Bu eser, Creative Commons Atıf-Gayri Ticari 4.0 Uluslararası Lisansı ile lisanslanmıştır. Telif Hakkı © 2020 Kocaeli Üniversitesi Tıp Fakültesi Dekanlığı 
+doi: 10.53446/actamednicomedia.1132705 
+Araştırma Makalesi | Research Article 
+ 
+PEPTİK ÜLSER PERFORASYONU NEDENİYLE OPERE EDİLEN HASTALARIN 
+RETROSPEKTİF ANALİZİ: TEK MERKEZ SONUÇLARI 
+ 
+RETROSPECTIVE ANALYSIS OF PATIENTS OPERATED FOR PEPTIC ULCER PERFORATION: 
+SINGLE CENTER RESULTS 
+ 
+Ahmet Cem Esmer1*, 
+Hilmi Yazıcı1 
+ 
+1Marmara Üniversitesi, Pendik Eğitim ve Araştırma Hastanesi, Genel Cerrahi Kliniği, İstanbul, Türkiye.  
+ 
+ 
+ 
+ÖZ 
+Amaç: Peptik ülser perforasyonu aşırı mide asidi üretimi veya 
+azalmış mukozal savunma nedeniyle gastrointestinal sistem 
+mukozasında gelişen tam kat defektler sonucu oluşur. Peptik ülser 
+perforasyonunda tanı ve tedavisinin gecikmesi nedeniyle mortalite 
+ve morbidite artmaktadır. Bu çalışma ile kliniğimizde peptik ülser 
+perforasyonu nedeniyle cerrahi uygulanan hastalarla ilgili 
+deneyimimizi aktarmayı planladık. 
+Yöntem: Çalışmamızda kliniğimizde Mayıs 2020 ile Ocak 2022 
+tarihleri arasında peptik ülser perforasyonu nedeniyle cerrahi 
+uygulanan hastaların verileri retrospektif olarak incelenmiştir. 
+Bulgular: Çalışmaya 4’ü (%20) kadın, 16’sı (%80) erkek olmak üzere 
+toplam 20 hasta alındı. Hastaların medyan yaşları 47,5 (27-90) idi. 
+Medyan ameliyat süresi 45 (30-75) dakika idi. Hastaların 17’sinde 
+(%85) defekt omental yama ile onarılırken 3’ünde (%15) ise 
+falsiform ile yama yapıldı. Hastanede kalış süresi ortalama 3,5 (2-
+5) gün idi. 
+Sonuç: Peptik ülser perforasyonunda tedavisinde uygulanacak 
+cerrahi teknikler çeşitli olup, en sık tercih edilen yöntem 
+laparoyomiyle 
+omental 
+yama 
+onarımıdır. 
+Perforasyonun 
+tekrarlanmasını önlemek için Helicobacter pylori eradikasyon 
+tedavisi ve kontrolü yapılmalıdır. 
+Anahtar Kelimeler: Peptik ülser, perforasyon, acil cerrahi 
+ 
+ABSTRACT 
+Objective: Peptic ulcer perforation is a full-thickness defect in 
+mucosa due to excessive gastric acid production or decreased 
+mucosal defense. Mortality and morbidity increase in peptic ulcer 
+perforation due to delayed diagnosis and treatment. This study 
+aimed to present our experience with patients who underwent 
+surgery for peptic ulcer perforation in our clinic. 
+Methods: The data of patients who underwent surgery for peptic 
+ulcer perforation between May 2020 and January 2022 in our clinic 
+were retrospectively analyzed. 
+Results: A total of 20 patients, 4 (20%) female and 16 (80%) male 
+were included in the study. The median age of the patients was 
+47.5 (27-90). The median operative time was 45 (30-75) minutes. 
+In 17 (85%) patients, the defect was repaired with an omental 
+patch, and in 3 (15%) patients with a falciform patch. The mean 
+hospital stay was 3.5 (2-5) days. 
+Conclusion: Surgical techniques to be applied in treating peptic 
+ulcer perforation are various, and the most preferred method is 
+omental patch repair by laparotomy. In addition, Helicobacter 
+pylori eradication treatment and control should be performed to 
+prevent recurrence of perforation. 
+Keywords: Peptic ulcer, perforation, emergency surgery 
+ 
+Esmer ve Yazıcı, Peptik Ülser Perforasyonu 
+ 
+ 
+ 
+Giriş 
+ 
+Peptik ülser hastalığı (PÜH) mide ve duodenumda asit ve 
+pepsine maruz kalma ile mukus tabakasını oluşturan 
+mukozadaki yeterli bikorbonat üretimi, yeterli mukozal 
+kan akımına bağlı oluşan epitelyal savunma arasındaki 
+dengesizlikten kaynaklanır. Bu dengesizlik sonucu mide 
+ve 
+duodenum 
+mukozasında 
+muscularis 
+propria 
+tabakasına kadar uzanabilen sınırları iyi belirlenmiş 
+mukozal hasar varlığı durumuna PÜH denilir. Yaşam boyu 
+görülme sıklığı %5-10 olarak bildirilmektedir.1 PÜH 
+gelişimi için çalışmalarla ispatlanmış risk faktörleri tütün 
+ürünleri kullanımı, Helicobacter pylori enfeksiyonu, 
+nonsteroid anti inflamatuar ve steroid gibi ilaç kullanım 
+öyküsüdür. PÜH’nın tedavisi medikal olmakla birlikte 
+komplikasyonlarına cerrahi girişim yapılması gerekmekte 
+olup, en sık görülen komplikasyonları kanama ve 
+perforasyondur.2,3 
+PÜH’da 
+mevcut 
+olan 
+ülserin 
+muscularis propria’yı aşıp serozaya ulaşması durumunda 
+perforasyon gelişmiş olur. PÜH’na sahip hastalarda 
+perforasyonun yaşam boyu insidansı %5 olan ciddi bir 
+komplikasyonudur.  
+Peptik ülser perforasyonu (PÜP) olan hastalar ani 
+başlayan karın ağrısı ile acile başvurur. Bu hastalarda 
+klasik triad: taşikardi, ani başlangıçlı karın ağrısı ve tahta 
+karındır.4 Beyaz küre ve CRP inflamasyona bağlı olarak 
+artmış saptanacaktır. Serum amilaz ve lipaz seviyesi 
+normalin dört katına kadar ülser hastalığı nedeniyle 
+yükselmiş olarak saptanabilir.5 Ayakta çekilmiş batın 
+röntgeni gibi görüntüleme yöntemlerinde diafram altında 
+görülecek serbest hava tanı koymaya yardımcı olacaktır. 
+Direk grafi, perforasyon tanısı koymakta %98 hassasiyete 
+sahip bilgisayarlı tomografi (BT) taramalarının aksine 
+yaklaşık 
+%75 
+duyarlılığa 
+sahip 
+oldukları 
+unutulmamalıdır.6,7 
+PÜP’da mortalite oranları %1,3 ile %20 arasında 
+değişmektedir.4,8 En önemli prognostik faktör PÜP ile 
+tedavi arasında geçen zamandır.9,10 Bu çalışmada 
+merkezimizde yakın zamanda PÜP nedeniyle cerrahi 
+uygulanan hastalarla ilgili deneyimimizi aktarmayı 
+planladık. 
+ 
+Yöntem 
+ 
+Çalışmamızda Marmara Üniversitesi Pendik Eğitim ve 
+Araştırma Hastanesi Genel Cerrahi Kliniğinde Mayıs 2020 
+ile Ocak 2022 tarihleri arasında PÜP nedeniyle cerrahi 
+uygulanan 
+hastaların 
+verileri, 
+hastane 
+bilgisayarlı 
+sisteminden retrospektif olarak incelenmiştir. Çalışmaya 
+PÜP nedeniyle acil şartlarda ameliyat edilen 18 yaş üzeri 
+hastalar dahil edilmiştir. Travma nedenle perforasyona 
+bağlı 
+cerrahi 
+geçiren, 
+mide 
+ve 
+duodenum 
+dışı 
+gastrointestinal trakt perforasyonu olan hastalar çalışma 
+dışı bırakılmıştır. 
+Hastaların demografik özellikleri (yaş, cinsiyet), komorbit 
+hastalık varlığı, ilaç kullanım öyküsü, başvuru anındaki 
+labarotuvar 
+tetkikleri, 
+ameliyat 
+süresi, 
+ameliyat 
+esnasında batın içerisindeki koleksiyondan alınan kültür 
+sonuçları, postoperatif komplikasyon varlığı ve Clavien-
+Dindo sınıflamasına göre derecesine ait veriler kayıt 
+edilmiştir.  
+Clavien-Dindo sınıflandırması, ilk olarak 1992 yılında 
+Clavien ve arkadaşları11 tarafından yayınlanan 2004 
+yılında ise Clavien ve Dindo’nun birlikte yaptığı 
+modifikasyonlarla nihai şeklini almış bir komplikasyon 
+derecelendirme 
+sistemidir.12 
+Clavien-Dindo 
+sınıflandırması Tablo 1‘de görülmektedir. 
+ 
+Tablo 1. Clavien-Dindo Sınıflaması 
+ 
+Derece 
+Tanım 
+I 
+Medikal tedavi, cerrahi, endoskopik ve radyolojik 
+girişime gerek duyulmayan normal postoperatif 
+izlemde meydana gelen herhangi bir değişiklik. 
+Kabul 
+edilen 
+tedavi 
+rejimleri 
+diüretikler, 
+antiemetikler, 
+antipiretikler, 
+analjezikler 
+ve 
+elektrolitler gibi ilaçlar ve fizyoterapidir. Ayrıca bu 
+grup yatak başında açılarak tedavi edilebilen yara 
+yeri enfeksiyonunu içermektedir. 
+II 
+Derece 1’de kullanılan medikal ilaçlar haricinde 
+ilaç 
+kullanımı 
+gerektiren 
+durumlar. 
+Total 
+Parenteral Nütrisyon ve Kan Transfüzyonu dahil) 
+IIIA 
+Genel 
+anestezi 
+ihtiyacı 
+olmadan 
+cerrahi, 
+endoskopik veya radyolojik müdahale gerektiren 
+komplikasyon 
+IIIB 
+Genel anestezi altında cerrahi, endoskopik veya 
+radyolojik müdahale gerektiren komplikasyon 
+IVA 
+Ara yoğun bakım ya da yoğun bakım ünitesinde 
+tedavi gerektiren hayatı tehdit eden tek organ 
+disfonksiyonu (Diyaliz dahil) 
+IVB 
+Ara yoğun bakım ya da yoğun bakım ünitesinde 
+tedavi gerektiren hayatı tehdit eden çoklu organ 
+disfonksiyonu 
+V 
+Hastanın Ölümü 
+Eğer hastanın hastaneden çıkışı sırasında bir komplikasyona 
+ait şikayetleri hala mevcut olması durumunda bu 
+komplikasyona 
+uygun 
+derecenin 
+sonuna 
+“d” 
+harfi 
+eklenmelidir. 
+ 
+Bulgular 
+ 
+Çalışmada Mayıs 2020 ile Ocak 2022 tarihleri arasında 
+yapılan görüntülemelerde batın içi serbest hava saptanan 
+71 hasta saptandı. Travmatik nedenlerle (ateşli silah ve 
+delici kesici alet yaralanması) cerrahi uygulanan 35 hasta 
+çalışma dışı bırakıldı. Perforasyon nedeniyle cerrahi 
+uygulanan 
+ve 
+operasyon 
+esnasında 
+yapılan 
+eksplorasyonda 
+perforasyon 
+alanının 
+Treitz 
+ligamentinden sonra olduğu saptanan 16 hasta çalışma 
+dışı bırakılmıştır. 
+Çalışmaya 20 hasta dahil edilmiştir. Hastaların 16’sı (%80) 
+erkek 4’i (%20) kadın idi. Yaş ortalaması 47,5 yıl iken, 
+ortalama ameliyat süresi 47,3 dakika idi. Hastaların 
+başvuru anındaki laboratuvar verileri Tablo 2’de 
+özetlenmiştir.  Hastaların 17’sinde onarım için omentum 
+tercih edilirken 3’ünde falsiform tecih edilmiştir (Tablo 3). 
+Perforasyon yeri 10 hastada antrum, 9 hastada 
+bulbustaydı. Bir hastada ise mide kanseri nedeniyle 
+subtotal gastrektomi uygulanmış ve perforasyon alanı 
+gastrojejunostomi 
+hattındaki 
+marjinal 
+ülserden 
+gelişmişti.  
+189 
+Esmer ve Yazıcı, Peptik Ülser Perforasyonu 
+ 
+ 
+ 
+Tablo 2. Hastaların klinik ve preoperatif laboratuar bulguları 
+ 
+Laboratuvar Parametreleri 
+(n=19) 
+Ortalama 
+(minumum-maksimum) 
+Yaş (yıl) 
+47,5 (27-90) 
+Ameliyat Süresi (dakika) 
+47,3 (30-75) 
+WBC (×103/mcL) 
+14,4 (7,6-23,3) 
+CRP (mg/L) 
+47,7 (1-373) 
+Amilaz (U/L) 
+90,6 (40-384) 
+Lipaz (U/L) 
+67,3 (6-323) 
+Prokalsitonin (ng/mL) 
+9,3 (0,03-14,37) 
+Yatış Süresi (gün) 
+3,5 (2-5) 
+ 
+Tablo 3. Perforasyon yeri ve onarım türü 
+ 
+ 
+Omentopeksi 
+(n=17) 
+Falsiform 
+(n=3) 
+Antrum (n=10) 
+8 
+2 
+Bulbus (n=9) 
+8 
+1 
+Gastrojejunosomi hattı (n=1) 
+1 
+0 
+ 
+Komorbit 
+hastalıklar 
+açısında 
+hastalar 
+değerlendirildiğinde hastaların ikisinde koroner arter 
+hastalığı, ikisinde konjestif kalp yetmezliği, birinde 
+diabetes mellitus ile birlikte çölyak hastalığı vardı. 
+Hastaların birinde rektum kanseri nedeniyle low anterior 
+rezeksiyon, birinde ise mide kanseri nedeniyle subtotal 
+gastrektomi uygulanmıştı.  
+Perioperatif mortalite 90 yaşındaki kadın hastada 
+görüldü. Hasta pre-operatif COVID-19 tanısıyla yoğun 
+bakım ünitesinde takibi sırasında karın ağrısı şikayeti 
+üzerine yapılan incelemede PÜP tespit edilmişti. Cerrahi 
+sonrasında 
+yoğun 
+bakım 
+takibinde 
+postoperatif 
+5.gününde exitus olmuştu. 
+Perioperatif olarak 48 yaşındaki bir erkek hastada midede 
+antrum yerleşimli kanserden perforasyon geliştiği 
+saptanmıştı. Bu hastada kitleden biyopsi alındıktan sonra 
+ometal yama uygulanmıştı. Patoloji sonucu taşlı yüzük 
+hücreli 
+adenokarsinom 
+olarak 
+raporlanan 
+hasta 
+neoadjuvan 
+tedavi 
+için 
+onkoloji 
+polikliniğine 
+yönlendirilmişti. 47 yaşında bir erkek hastada ise 
+perioperatif karaciğer ve dalakta multipl kitleler palpe 
+edilmiş olup hastada antrumdan perforasyon gelişmişti. 
+Perforasyon alanına omental yama uygulanması sonrası 
+karaciğerden 
+biyopsi 
+alınmıştı. 
+Biyopsi 
+sonucu 
+Nöroendokrin 
+karsinom 
+olarak 
+raporlanan 
+hasta 
+taburculuk sonrası onkoloji polikliniğine yönlendirilmişti. 
+ 
+Tartışma 
+ 
+Çalışmamızda yer alan hastalarımızın çoğunluğu 60 yaşın 
+altında (%65) olup ortalama yaşı 47,5±18,0 yıl olarak 
+saptayıp ve bu değerin literatürdeki diğer yazarlar 
+tarafından 
+bildirilenden 
+daha 
+genç 
+olduğunu 
+gözlenmişti.13,14 Çalışmamızda, literatür de mevcut 
+yapılan gözlemlere benzer şekilde, erkek/kadın oranı 4/1 
+olacak şekilde bir erkek üstünlüğü (%80) bulunmuştur.13-
+15  
+Hastaların acil serviste yapılan değerlendirilmelerinde 
+dört hastada başvuru anında amilaz ve lipaz değerlerinin 
+referans değerlerinin üzerinde olduğu görüldü. Bu 
+hastalardan 47 yaşında bir erkek hastada amilaz ve lipaz 
+yüksekliğinin yanı sıra karaciğer fonksiyon testlerinde de 
+yükseklik 
+saptanmış 
+olup 
+hastada 
+karaciğerinde 
+perioperatif multipl kitleler saptanmıştır. Diğer üç 
+hastadaki amilaz yüksekliği ise PÜH’da normalin 4 katına 
+kadar serum amilaz ve lipaz seviyesinde görülebilen 
+yükseklikle ilişkilendirilmiştir.  
+Bu çalışmada 7 (%35) hastada komorbidite mevcut idi. 
+Koç ve arkadaşları ise PÜP’lu komorbidite insidansının 
+%38,6 olduğunu bildirmişlerdir.16 Taş ve arkadaşları ise 
+kendi çalışmalarında PÜP’lu hastaların %30,4'ünde en az 
+bir eşlik eden hastalığa sahip olduğunu gözlemlemiştir.13 
+Çalışma popülasyonumuzun diğer çalışmalara göre daha 
+genç olmasına rağmen komorbidite oranının benzer 
+olması bu komorbiditelerin beraberinde kullanmayı 
+gerektirdiği medikal tedavilerin PÜP etiyolosinde yer 
+almasıyla açıklanabilir. 
+Çalışmamızdan gelişen 20 perforasyonun 17’sinde 
+onarım omentum ile yapılırken 3 tanesinde falsiform ile 
+onarım gerçekleştirilmiştir (Tablo 3). Ölmez ve arkadaşları 
+yaptıkları çalışmada PÜP hastalarında oluşan defektin 
+onarımında omentum ve falsiform ile onarımı karşılaştırıp 
+iki 
+yöntemi 
+birbirine 
+benzer 
+bularak 
+birinin 
+kullanamayacağı durumda diğerinin kullanabileceğini 
+ortaya koymuştur.17 Bizim çalışmamızda da standart 
+onarım için omentum uygulanırken, omentum ile 
+onarımın uygun olmayıp perforasyon hattındaki defekti 
+kapatmak 
+için 
+kullanılacak 
+omentumun 
+iskemik 
+kalabileceğini düşündüğümüz hastalarda bu nedenle 
+falsiform ile onarım tercih edilmiştir. Çalışmamızda 
+sadece bir hastada hastane içi ölüm mevcut olup bu hasta 
+aynı zamanda yoğun bakımda Koronavirus Hastalığı 2019 
+(COVİD-19) tanısıyla yoğun bakımdaki tedavi esnasında 
+perforasyon gelişmiş olup postoperatif 5.günde hayatını 
+kaybetmiştir.  
+Çalışmamızda 
+yer 
+alan 
+14 
+hastanın 
+batın 
+içi 
+koleksiyonundan alınan peritoneal sıvı kültürü için alınan 
+örneklerin 4’ünde herhangi bir üreme görülmemişken 5 
+hastada Candida türü mantar üremesi görüldü. Bu 5 
+Candida görülen hastada alt tür olarak ise 2’sinde 
+Albicans, 2’sinde Glabrata ve 1 hastada ise Dublinensis 
+gibi normalde florada mevcut olan fırsatçı patojenlerdir. 
+Bu hastalarda herhangi bir antifungal tedavi ajanı 
+kullanımı gerek kalmadan hastalar klinik düzelme 
+gözlenip 
+taburcu 
+edilmişlerdir. 
+Güncel 
+literatür 
+çalışmaları da PÜP hastalarında Peritoneal sıvı kültüründe 
+mantar izolasyonunda antifungal tedavi verilmesinin 
+gerekmediğini ortaya koymaktadır.18,19 Üreme görülen 
+diğer 5 hastada ise kültürde normalde insan florasında 
+bulunan Streptococcus salivarius, Veillonella dispar, 
+Klesiealla 
+pnömoni, 
+Enterococcus 
+feacalis, 
+ve 
+Streptococcus mitis/oralis izole edildi. Bu hastalara 
+yapılan antibiyogram kültürü sonucu bu hastalara 
+uygulanan ampirik antibiyotik tedavisine uyumlu gelmesi 
+üzerine mevcut tedavilerinin devamı uygulanması uygun 
+190 
+Esmer ve Yazıcı, Peptik Ülser Perforasyonu 
+ 
+ 
+ 
+görüldü.  Bu sonuçlar PÜP hastalarında peritoneal sıvı 
+kültürünün tedavi yaklaşımına fazla bir etkisi olmadığını 
+ortaya koymaktadır. Komorbiditeleri mevcut olan, ileri 
+yaş ve perforasyonun üzerinden uzun zaman geçmiş 
+hastalardan 
+kültür 
+alınmasının 
+faydalı 
+olacağını 
+düşünüyoruz. 
+Hastalar 
+ortalama 
+3,5 
+günde 
+taburcu 
+olurken, 
+kliniğimizde rutin olarak PÜP nedeniyle cerrahi geçiren 
+hastalar taburculuğunda Helicobacter pylori eradikasyon 
+tedavi ile birlikte proton pompa inhibitör tedavisi ile 
+birlikte birinci ayında merkezimiz cerrahi endoskopi 
+ünitesinden gastroskopi randevusu verilerek taburcu 
+edilmektedir. Gastroskopi için kontrole 13 hasta gelirken 
+yapılan incelemede, 8 hastada gastrit ve 5 normal 
+görünüm mevcuttu. Üç hastada Helicobacter pylori 
+pozitif tespit edilmiştr. Bu durum taburculuk esnasında 
+Helicobacter pylori eradikasyon tedavisine rağmen sebat 
+edibileceğini ortaya koymakta olup, PÜH hastalığının en 
+önemli etiyolojik etkenlerinden biri olan Helicobacter 
+pylori’nin eradikasyonu önemini ortaya koymaktadır. 
+Clavien- Dindo sınıflandırmasına göre bir hastada 5, bir 
+hastada 3A, dört hastada 2 ve kalan on dört hastada 1 
+seviye görülmüştür. 
+Çalışmamızın çeşitli kısıtlamaları mevcuttur. Bu çalışma 
+retrospektif gözlemsel bir çalışmadır ve bu nedenle 
+geriye dönük çalışmaların bilinen tüm sınırlamalarına tabi 
+olmasının yanı sıra tek merkezde cerrahi uygulanan 
+hastaları içermesi nedeniyle kısıtlı bir hasta popülasyonu 
+içermektedir. PÜP daha iyi anlaşılması için prospektif ve 
+çok merkezli çalışmalara ihtiyaç olduğuna inanıyoruz. 
+ 
+Sonuç 
+Peptik 
+ülser 
+hastalığın 
+en 
+sık 
+cerrahi 
+komplikasyonlarından biri perforasyondur. Yönetim 
+esasen klinik progresyona ve cerrahın deneyimine bağlı 
+olduğundan standart değildir. Perfore peptik ülser 
+tedavisinde uygulanacak cerrahi teknikler çeşitlidir, 
+ancak laparotomiyle omental yama onarımı hali hazırda 
+hala günümüzde en çok kullanılan onarım şeklidir. 
+Perforasyonun 
+tekrarlanmasını 
+önlemek 
+için 
+Helicobacter pylori eradikasyon tedavisi ve kontrolü 
+yapılmalıdır.  
+ 
+Etik Standartlara Uygunluk  
+Bu çalışma için Marmara Üniversitesi Klinik Araştırmalar 
+Etik Kurulu'ndan 04/03/2022 tarih ve 2022/468 sayısıyla 
+ile onaylanmış ve bu çalışmanın yürütülmesi esnasında 
+Helsinki Bildirgesi kurallarına uyulmuştur. 
+ 
+Çıkar Çatışması  
+Yazarlar arasında çıkar çatışması yoktur.  
+ 
+Yazar Katkısı 
+ACE, HY: Çalışma fikri, hipotez, çalışmanın tasarımı, veri 
+toplama kaynak tarama; ACE: Eleştirel inceleme, yazının 
+son halinin verilmesi ve yayınlanma süreci  
+ 
+ 
+ 
+ 
+Finansal Destek  
+Yazarlar, gönderilen çalışma için herhangi bir kuruluştan 
+destek almamıştır. Yazarların ifşa edecekleri ilgili finansal 
+veya finansal olmayan çıkarları ile çıkar çatışması yoktur. 
+ 
+Kaynaklar 
+ 
+1. 
+Lanas A, Chan FKL: Peptic ulcer disease. Lancet. 
+2017;390:613-24. doi:10.1016/S0140-6736(16)32404-7 
+2. 
+Zelickson MS, Bronder CM, Johnson BL, et al. Helicobacter 
+pylori is not the predominant etiology for peptic ulcers 
+requiring operation. Am Surg. 2011;77:1054-60. 
+3. 
+Hernández-Díaz S, Rodríguez LA. Association between non 
+steroidal 
+anti-inflammatory 
+drugs 
+and 
+upper 
+gastrointestinal tract bleeding/perforation: an overview of 
+epidemiologic studies published in the1990s. Arch Intern 
+Med. 
+2000;160:2093-99. 
+doi:10.1001/archinte. 
+160.14.2093 
+4. 
+Chung KT, Shelat VG. Perforated peptic ulcer - an update. 
+World 
+J 
+Gastrointest 
+Surg. 
+2017;9(1):1-12. 
+doi:10.4240/wjgs.v9.i1.1 
+5. 
+Kitagawa Y, Dempsey DT. Stomach. In: Brunicardi F, 
+Andersen DK, Billiar TR, Dunn DL, Hunter JG, Matthews JB, 
+Pollock RE. eds. Schwartz's Principles of Surgery, 10e. 
+McGraw Hill; 2015. 
+6. 
+Saverio S, Bassi M, Smerieri N, et al. Diagnosis and 
+treatment of perforated or bleeding peptic ulcers: 2013 
+WSES position paper. WJES. 2014:45-45. 
+7. 
+Kim HC, Yang DM, Kim SW, Park SJ: Gastrointestinal tract 
+perforation: evaluation of MDCT according to perforation 
+site and elapsed time. Eur Radiol. 2014;24:1386-93. 
+doi:10.1007/s00330-014-3115-z 
+8. 
+Søreide K, Thorsen K, Harrison EM, et al. Perforated peptic 
+ulcer. 
+Lancet. 
+2015:26;386(10000):1288-1298. 
+doi: 
+10.1016/S0140- 6736(15)00276-7. 
+9. 
+Thorsen K, Søreide JA, Søreide K. Scoring systems for 
+outcome prediction in patients with perforated peptic 
+ulcer. Scand J Trauma Resusc Emerg Med. 2013:10;21:25. 
+doi:10.1186/1757-7241-21-25 
+10. Boey J, Choi SK, Poon A, Alagaratnam TT. Risk stratification 
+in perforated duodenal ulcers. A prospective validation of 
+predictive 
+factors. 
+Ann 
+Surg. 
+1987;205:22-26. 
+doi:10.1097/00 000658-198701000-00005 
+11. Clavien PA, Sanabria JR, Strasberg SM. Proposed 
+classification of complications of surgery with examples of 
+utility in cholecystectomy. Surgery. 1992;111:518-26. 
+12. Dindo D, Demartines N, Clavien PA. Classification of 
+surgical complications: a new proposal with evaluation in 
+a cohort of 6336 patients and results of a survey. Annals of 
+surgery. 2004;240(2):205-13. 
+13. Tas I, Ulger BV, Onder A, Kapan M, Bozdag Z. Risk factors 
+influencing morbidity and mortality in perforated peptic 
+ulcer disease. Ulus Cerrahi Derg. 2015;31(1):20–5.  
+14. Dadfar A, Edna TH. Epidemiology of perforating peptic 
+ulcer: A population-based retrospective study over 40 
+years. World J Gastroenterol. 2020:21;26(35):5302-5313.  
+15. Menekse E, Kocer B, Topcu R, Olmez A, Tez M, Kayaalp C. 
+A practical scoring system to predict mortality in patients 
+with perforated peptic ulcer. World J Emerg Surg. 
+2015;10(1):7–13. 
+16. Koc M, Yoldas O, Kılıc Y, et al. Comparison and validation 
+of scoring systems in a cohort of patients treated for 
+perforated 
+peptic 
+ulcer. 
+Langenbecks 
+Arch 
+Surg. 
+2007;392(5):581–5. 
+191 
+Esmer ve Yazıcı, Peptik Ülser Perforasyonu 
+ 
+ 
+ 
+17. Ölmez A, Çiçek E, Aydın C, Kaplan K, Kayaalp C. 
+Omentopexy versus falciformopexy for peptic ulcer 
+perforation. 
+Ulus 
+Travma 
+Acil 
+Cerrahi 
+Derg. 
+2019;25(6):580-584. 
+18. Kwan JR, Lim M, Ng F, Shelat V. Fungal Isolates in 
+Peritoneal Fluid Culture Do Not Impact Peri-Operative 
+Outcomes of Peptic Ulcer Perforation. Surg Infect 
+(Larchmt). 2019 Dec;20(8):619-624. 
+19. Huston JM, Kreiner L, Ho VP, Sanders JM, Duane TM. Role 
+of Empiric Anti-Fungal Therapy in the Treatment of 
+Perforated Peptic Ulcer Disease: Review of the Evidence 
+and Future Directions. Surg Infect (Larchmt). 2019 
+Dec;20(8):593-600. 
+ 
+192 

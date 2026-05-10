@@ -1,0 +1,1769 @@
+66
+izozomal depo hastalıkları (LDH‘ler), lizozomal homeostazı bozan kalıtsal gen
+mutasyonlarından kaynaklanan bozukluklar familyasıdır. LDH‘ler esas ola-
+rak lizozomal enzimlerdeki eksikliklerden kaynaklanır, fakat aynı zamanda
+bazı non-enzimatik lizozomal proteinlerde de, makromoleküler substratların anor-
+mal depolanmasına yol açar. Lizozom işlevlerine ilişkin değerli bilgiler bu hastalık-
+lara yönelik araştırmalardan elde edilmiştir. Primer lizozomal disfonksiyona ek
+olarak, diğer membranöz organeller ile bağlantılı hücresel yollar da bu bozukluk-
+Lizozomal Depo Hastalıkları,
+Mukopolisakkaridozlar ve
+Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+ÖZET Lizozomal depo hastalıkları (LDH) yaygın olarak lizozomal hidrolazların eksikliği sonucu
+memeli ve kanatlılarda, lizozomların içinde sfingolipid, glikolipid, mukopolisakkarid veya oliga-
+sakkaridlerin birikmesi ile karakterize otozomal resesif kalıtımlı hastalıkları tanımlar. Bunun yanı
+sıra, swainsonine içeren bitkilerin yenmesi ve klorokin gibi katyonik amfilik (hem hidrofilik hem
+hidrofobik özellikli) ilaçların kullanılması sonucu lizozomal hidrolazların inhibe edilmesi gibi bazı
+çevresel faktörler de LDH’ya neden olabilir. Bu hastalıklardaki klinik ve patolojik bulgular ayırıcı
+tanıda kullanılabilmekle birlikte, kesin tanı ancak biyokimyasal, immunohistokimyasal, elektron
+mikroskobik ve genetik testlerin yardımıyla konulabilir. Lizozomal depo hastalıkları için tedavi se-
+çenekleri arasında kemik iliği transplantasyonu, substrat azaltıcı tedavi, kimyasal şaperon kulla-
+nımı ve enzim replasman tedavisi (ERT) yer alır. Mukopolisakkaridozlarda  destek tedavisi  önemli
+yer tutar.
+Anah tar Ke li me ler: Lizozomal depo hastalıkları; mukopolisakkaridozlar; otofaji; 
+kardiyak yapısal tutulumlar
+ABS TRACT Lysosomal storage diseases (LSD) generally define autosomal recessive genetic diseases
+characterized with accumulation of oligosaccharides, mucopolysaccharides, glycolipids or sphin-
+golipids in the lysosoms of mammals and winged animals due to lysosomal hydrolases. Besides,
+some environmental factors such as the inhibition of lysosomal hydrolases due to consumption of
+plants with swainsonine content as well as chloroquine and cationic amphiphilic drug intake may
+also cause LSDs. Though the clinical and pathological symptoms seen in these diseases may be used
+for differential diagnosis, a final diagnosis may only be established by means of biochemical, im-
+munohistochemical, electron microscopic and genetic tests. Bone marrow transplantation, sub-
+strate reduction therapy, chemical chaperons and enzyme replacement therapy are the clinical
+treatments for lysosomal storage disorders. Supportive care is important in mucopolysaccharidoses.
+Keywords: Llysosomal storage diseases; mucopolysaccharidoses; autopahgy; 
+cardiac structural involvements
+Nazmi GÜLTEKİN,a
+Emine KÜÇÜKATEŞ,b
+Gökçen ÜNAL KOCABAŞ,c
+Cüneyt KOCAŞa
+aKardiyoloji AD, 
+bMikrobiyoloji ve 
+Klinik Mikrobiyoloji Laboratuvarı, 
+İstanbul Üniversitesi Kardiyoloji Enstitüsü, 
+İstanbul
+cEndokrinoloji ve İç Hastalıkları Kliniği,
+Bozyaka Eğitim ve Araştırma Hastanesi,
+İzmir
+Yazışma Adresi/Correspondence:
+Nazmi GÜLTEKİN
+İstanbul Üniversitesi Kardiyoloji Enstitüsü, 
+Kardiyoloji AD, 
+İstanbul, TÜRKİYE
+nngultekin@yahoo.com 
+KAYNAK GÖSTERMEK İÇİN: 
+Gültekin N, Küçükateş E, Ünal Kocabaş G, Kocaş
+C. Lizozomal Depo Hastalıkları, Mukopolisakka-
+ridozlar ve Kardiyak Yapısal Tutulumlara Genel
+Bir Bakış. Gültekin N, editör. İnfiltratif Kardiyomi-
+yopatiler, Lizozomal Depo Hastalıkları, Mitokon-
+driyal ve Genetik Mutasyonlara Bağlı Kardiyo-
+miyopatiler. Ankara: Türkiye Klinikleri; 2018. p.66-
+82.
+larda bozulur. Biz bu derlemede, seçtiğimiz örneklerle,
+“hücresel depolama bozuklukları” teriminin neden bu
+hastalıklar için daha uygun bir isimlendirilme olabilece-
+ğini ve diğer taraftan da söz konusu depolanmaları ha-
+fifletebilen ve normal hücresel işlevi geri kazandırabilen
+terapileri tartışacacağız.1-4
+Tüm LDH‘lerde ortak özellik, başlangıçta spesifik
+makromoleküllerin veya monomerik bileşiklerin endo-
+zomal-otofajik-lizozomal sistemle ilgili organeller içinde
+birikimiyle başlamalarıdır. Çoğu LDH asidik hidrolaz ye-
+tersizlilklerinden kaynaklansa da bu koşulların önemli
+bir kısmı lizozomal membran proteinlerindeki veya en-
+zimatik olmayan çözünebilir lizozomal proteinlerdeki
+bozukluklardan kaynaklanır. Bu nedenlerle, LDH‘ler
+hem enzimatik hem de non-enzimatik lizozomal prote-
+inlerin normal fonksiyonlarındaki bozulmalar yol aç-
+maktadır.3,4
+GENEL BİLGİLER
+LİZOZOM ORGANELİ VE ÖZELLİKLERİ
+Sindirim, organizmanın olduğu kadar hücrenin de en
+temel görevlerinden bir tanesidir. Hücrenin sindirim ve
+geri dönüşüm organeli olan lizozomlar sindirilmesi ge-
+reken büyük molekülleri parçaladığı gibi aynı zamanda
+bakteriler gibi davetsiz misafirlerin de etkisiz hale geti-
+rildiği yerdir. Çekirdeği olan tüm hayvan hücrelerinde
+bulunan lizozomlar olağanüstü sindirim yeteneğine sa-
+hiptir. Hücredeki tüm yapıları sindirebilirler. Bitki hüc-
+relerinde ise lizozomlar yerine vakuol denen yapılar
+bulunur. Her hücrede çok sayıda (ortalama 300 kadar)
+lizozom vardır. 1955 yılında Christian de Duve tarafın-
+dan keşfedildiğinden bu yana lizozomların çok önemli
+işlevleri olduğu anlaşılmıştır. Çalışmalarında yüksek de-
+virli santrifüj ve biyokimyasal belirteçleri (örneğin en-
+zimleri) birlikte kullanan Duve, hücrenin önemli
+bileşenlerinden biri olan peroksizomları da keşfetmiş-
+tir.5
+Lizozomların içi asidiktir, pH değerleri de sitoplaz-
+maya göre oldukça düşüktür. Lizozom zarı hücre zarına
+benzer. Ancak zarın lipid  ve karbonhidrat yapısında
+bazı farklılıklar vardır; iç kısmı da özel karbonhidrat bi-
+rimleriyle kaplı olduğu için asit ve enzimlerin olumsuz
+etkisinden korunur. Lizozomlar, yuvarlak, zarla çevrili,
+içersinde eritici (hidrolitik) enzimleri içeren organeller-
+dir. Hücrenin sindirim görevini üstlenmiş olan yapılar-
+dır. Hücre içi fazla ve zararlı yapıları ortadan kaldırırlar.
+Lizozomlar, sitoplazma içinde tek membranla sınırlan-
+mış kese veya taneciklerdir. Lizozomların büyüklükleri
+ve morfolojik yapıları, gelişim evrelerine göre çok çeşit-
+lidir: Primer lizozomlar, golgi keselerinden tomurcuk-
+lanarak ayrılan küçük veziküllerin birleşmesi ve
+içeriklerinin yoğunlaşmasıyla oluşan aktif hidrolaz de-
+polarıdırlar: Lizozomal matriks pH’sı, sitozol pH’ından
+düşüktür. Lizozomal enzimler olan hidrolazlar, asit or-
+tamda en iyi iş gören proteazlar, glikozidazlar, lipazlar,
+asit fosfatazlar, esterazlar, glukuronidazlar, sülfatazlar,
+lizozimler, katepsin, RNAzlar, DNAzlar gibi enzimler-
+dir. Farklı dokuların lizozomlarındaki enzimler de fark-
+lıdır. Primer lizozomların yine bir vezikül içinde
+bulunan, parçalanıp sindirilecek yapılarla birleşmesi
+(füzyonu) ve enzimlerin bunların içine boşaltması (fiz-
+yon) sonucu sekonder lizozomlar şekillenir. Sekonder li-
+zozomların görünümü değişkendir; yüksek oranda lipid
+içerirler ve uzun süre  ortamda kalırlar, zamanla lipid
+yapıları okside olur ve renkli bir görünüm alırlar. Golgiyi
+terkeden veziküler yapılar primer lizozom olarak adlan-
+dırılır. Mannoz 6 fosfat artıkları defosfirilizasyonla en-
+zimden ayrılır. Primer lizozom içeriğini endozom olarak
+isimlendirilen bir diğer vezikül içine akıtır (Füzyon)
+(Golgi apareyi→Primer lizozom→füzyon algoritması so-
+nucunda şekillenmiş sekonder lizozom oluşur).4
+Sekonder lizozomlar sindirecekleri materyalin ni-
+teliğine göre iki farklı şekilde adlandırılır: a)Heterofaga-
+zom (fagolizozom-heterofajik vakuol). b).Otofagazom
+(otofajik vakuol-sitolizozom, sitozom).4
+Endositoz→erken endozom→geç endozom→pri-
+mer lizozomla füzyon→sekonder lizozom (besinlerden
+gelen substratların sindirimi); Bakteri→fagozom→pri-
+mer lizozomla füzyon→sekonder lizozom (bakteri fago-
+sitozu);ER→mitokondri→otofaji→otofagazom→primer
+lizozomla füzyon→sekonder lizozom; otofagolizozom-
+lar ise (otofaji: bozulmuş, yaşlanmış organellerin sindi-
+rimi) algoritmalarını temsil etmektedir.4
+Lizozom enzimleri granüllü endoplazmik retiku-
+lumda sentezlendikten sonra golgi kompleksine gönde-
+rilir. Golgi kompleksinde proteinler gidecekleri yere
+göre paketlenir ve öyle gönderilir. Lizozom enzimleri de
+mannoz 6-fosfat adlı bileşik ile işaretlenir. Golgi kom-
+pleksinden lizozoma gidecek vezikülde, mannoz 6-fosfat
+almacı (reseptör) bulunur, bu almaç sayesinde sadece
+mannoz 6-fosfat taşıyan proteinler bu veziküllere alınır.
+Böylece lizozoma gidecek proteinler seçilmiş olur (mak-
+rootofaji). Enzimlerin golgiden lizozoma gönderilmesi
+sırasında bazı ilginç olaylar da yaşanır. Bazı hidrolazlar
+veziküle “binip” lizozoma gitmek yerine hücre zarına ve
+oradan da dışarıya kaçar. İşte kaçak bu enzimleri geri ge-
+tirip lizozoma teslim etmek için bir sistem kurulmuştur.
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+67
+Bazı mannoz 6-fosfat almaçları dolambaçlı bir yol izle-
+yerek hücre zarına uğrar ve orada lizozom enzimlerini
+yakalar. Daha sonra endositozla hücre içine geçirip taşı-
+dıkları enzimleri lizozomlara teslim ederler (mikrootofaj
+ve şaperon-aracılı otofaji).3-7
+Enzimler başta proteinler olmak üzere büyük mo-
+lekülleri yıkmak için tek başlarına yeterli olmayabilir.
+Lizozomlarda enzimlerin işini kolaylaştırmak için asidik
+ortam ve yardımcı proteinler kullanılır. Asidik ortam
+proteinleri denatüre ederek (üç boyutlu yapılarını boza-
+rak) onları enzimlerin etkilerine daha açık hale getirir.
+Başka bir ifadeyle tıpkı midemizde olduğu gibi sindirimi
+kolaylaştırır. Lizozomlarda organel içi pH sitoploazmaya
+göre çok düşüktür, yaklaşık 5,0 civarındadır. Lizozom
+enzimleri de 5,0-6,0 pH düzeyi civarında etkinlik göste-
+recek yapıdadır. Bu enzimler daha yüksek pH değerle-
+rinde etkinliklerini büyük oranda kaybeder. Ancak
+Katepsin L gibi bazı lizozom enzimleri pH 7,0’ye kadar
+etkinliğini korur.4,5
+Sentez kadar yıkım da yaşamın bir parçasıdır.
+Hücre içi proteinlerin çoğu, hücrenin yaşam süresine
+göre daha kısa ömürlüdür. Yanlış sentezlenen, normal
+işlevleri sırasında hasar gören ve görevleri tamamlanan
+proteinlerin yıkılması (temel yapıtaşlarına ayrıştırılması)
+gerekir. Bu proteinler genellikle lizozomlar yerine hücre
+içinde, özel protein yıkım birimleri olan ubikuitin pro-
+teozom sisteminde yıkılır. Hemoglobin gibi bazı prote-
+inler ise hücrenin yaşamı boyunca yıkılmaz. Uzun
+ömürlü proteinler, zar proteinleri ve hücre dışı protein-
+ler ise lizozomlarda yıkılır. Kuşkusuz hücrede sadece
+proteinler yıkılmaz; karbonhidratlar, lipidler, nükleik
+asitler gibi büyük moleküllerin yanı sıra da hücrenin or-
+ganelleri, hücreler arası ölü doku parçacıkları ve mikro-
+organizmalar da lizozomlarda yıkılır. Yıkılacak
+materyaller özel paketler içinde lizozoma gönderilir. Bu
+paketlere vezikül denir. Veziküller zarla çevrili küçük
+baloncuklardır, özellikle hücre içi transportda (taşıma)
+önemli işlevleri vardır.4,8
+Yıkım için lizozomlarda özel bir ortam oluşturul-
+muştur. Lizozomlardaki enzimler hücrenin tüm bileşen-
+lerini parçalayabilir. Lizozom 50’den fazla farklı enzim
+içerir. Bunlar, lizozomların büyük molekülleri parçala-
+mak için kullandığı özel araçlardır, tıpkı bir kasabın kul-
+landığı kesici aletler gibi. Proteinleri parçalayan
+proteazlar, lipidleri parçalayan lipazlar ve fosfolipazlar,
+karbonhidratları parçalayan glikozidazlar ve daha pek
+çok enzim. Bunlara genel olarak asit hidrolazlar denir.
+Hepsinin ortak özelliği asidik ortamda makromolekül-
+leri parçalayabilmeleridir.9
+Lizozomlar kendi iç pH düzeylerini düşük tutabil-
+mek için özel pompalar kullanır. Lizozom zarında bulu-
+nan bu pompalar sitoplazmadan lizozom içine proton
+(hidrojen iyonu, H+) pompalayarak pH değerini düşük
+tutmaya çalışır. Kuşkusuz bunun bir bedeli de vardır. Bu
+bedel yüksek enerjili bir bileşik olan ATP harcanarak
+ödenir. Lizozomal membranda bulunan ATPaz, ATP’yi
+parçalar ve açığa çıkan enerji ile H+ protonunu lizozom
+içerisine pompalar.9,10
+Lizozomlar, genel hücre metabolizması ve işi sıra-
+sında devamlı harcanıp yıpranan hücre organellerini ve
+endositoz yoluyla hücreye fazla miktarda çekilmiş madde
+ve partikülleri enzimleriyle parçalar, sindirir ve böylece
+sitoplazmayı bunlardan temizlerler. Hücrenin sitoplaz-
+mik proteinleri ve glikojen tanecikleri gibi moleküller
+bulundukları yerlerde yıkıldıkları halde diğer makromo-
+leküllü bileşikler ve maddeler lizozomlarda yıkılırlar.
+Hücresel sindirim, protein, karbonhidrat, lipid ve nük-
+leik asitlerin hidrolizleri de lizozomların önemli fonksi-
+yonlarıdırlar: Lizozomlar, sekretuvar işlevlerde de görev
+alırlar; prekürsör protein moleküllerinde spesifik bağları
+kopararak aktif protein oluşumunu ve hücreden sekrete
+edilmesini sağlarlar. Lizozomlar, bağ dokusu, prostat ve
+embriyogenezde önemli organellerdir. Lizozomal en-
+zimler, hücrenin ölümünden sonra otolizde rol oynarlar.
+Hücrede makromoleküllerin ve maddelerin lizozomal yı-
+kılması yaşam için önemli bir proçestir; sfingomiyelin ve
+karbonhidrat içeren bazı sfingolipidler hücrede az mik-
+tarda bulundukları halde bunları yıkan lizozomal enzim-
+ler kalıtsal olarak eksik olursa hücrede birikirler ve
+lizozomal depo hastalıkları denen çeşitli hastalık tablo-
+ları ortaya çıkar. Birçok genetik hastalıkta lizozomal en-
+zimlerin yokluğu gösterilmiştir; etkilenmiş hücrelerde
+sindirilemeyen materyal hücrenin genişlemesine ve nor-
+mal hücresel işlevlerin bozulmasına neden olur.3-11
+Lizozom Enzimleri ve Fonksiyonları:3-11
+Nükleik asit yıkımı 
+Asit RNaz
+RNA
+Asit DNaz  
+DNA
+Karbonhidrat yıkımı
+Beta-galaktosidaz  
+Galaktosidler
+Alfa-galaktosidaz
+Glikojen
+Lizozim   
+Bakteri hücre duvarı
+Mukopolisakkarid yıkımı
+Beta-glukuronidaz
+Mukopolisakkaridler
+Lizozim
+Bakteri hücre duvarı
+Hyaluronidaz
+Hyaluronat, kondritin sülfat
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+68
+Protein yıkımı 
+Katepsinler
+Protein
+Kollagenazlar
+Kollegen
+Fosfatlar
+Asit fosfatazlar
+Fosfomonoesterler 
+Asit fosfodiesterazlar Oligonükleotidler
+Sülfatlar
+Arilsülfataz 
+Organik sülfatazlar
+Lizozom enzimlerinin etki tarzları çeşitlidir:
+1. Lökosit ve makrofajlar, doku harabiyeti olan yere
+hücum ederler. Burada hücre içine alınan partikülleri li-
+zozomlar sindirir.4
+2. Lizozom enzimlerinin diğer bir etkisi de otofaji
+olayıdır. Otofajide hücrenin zarar gören ve işlevini ya-
+pamaz hale gelen komponentleri lizozom içine alın-
+makta ve sindirilmektedir.4,8
+3. Lizozom etkisinin diğer bir şekli lizozom mem-
+branının açılarak hücrenin kendini parçalamasıdır (oto-
+liz) (bu yüzden lizozomlara inthihar kesecikleri de
+denir).Canlı hücreler zarar gören yapılarını mümkün ol-
+duğu kadar onarmaya çalışırlar. Bu onarım durduğu anda
+ilk zarar görecek yer hiç şüphesiz lizozom membranıdır.
+Ölümden kısa bir süre sonra kokuşmanın başlama ne-
+deni, lizozom membranlarının parçalanması ve enzim-
+lerinin serbest kalmasıdır.4-11
+4. İlginç bir diğer lizozom fonksiyonu tiroid bezi
+hücrelerinden hormon salınma mekanizmasında görü-
+lür. Tiroid bezi hücreleri lümendeki kolloid maddeyi (ti-
+roglobulin) pinositoz yoluyla alırlar. Pinositotik vezikül
+lizozom ile birleşerek lizozomun hidrolazları tiroglobu-
+lini parçalar ve tiroid hormonu sentezlenerek salınır.4
+5. Lizozomlar sperm hücrelerinin uç kısmında (akro-
+zom) bulunur ve yumurtaların etrafını çevreleyen kısmın
+delinmesini sağlar. Fertilizasyon sırasında zigotun yerleş-
+tiği uterus alanında kanamaya neden olur ve bu şekilde or-
+ganogenezi başlatmak için şart olan (sanki 3 boyutlu yazıcı
+görevi yapan) fibrinogen ortama girer ve zigotu çevreler.4
+6.Lizozomlar, Lizozomal Asit Lipaz (LAL) enzimi
+üzerinden LDL-kolesterol klirens hızında ve proprotein
+convertase subtilisin/kexin type 9 (PCSK9) üzerinden de
+hepatositlerde sentezlenen LDL-kolesterolün degradas-
+yonu ve salınımında da etkindirler.3
+Otofaji ve lizozomlar3-11
+Otofaji kendi kendini (auto) yeme (phagy) anlamına
+gelen bir sözcük. Kendi kendini yeme, kulağa pek hoş
+gelmeyen bir sözcük olmasına rağmen organizmanın bü-
+tünlüğü ve sağlığı için vazgeçilmez bir işlevdir. Hücre içi
+organellerin ve büyük moleküllerin lizozomlarda parça-
+lanmasını sağlayan bir mekanizmadır. Hücredeki orga-
+neller belli bir süre sonra işlevselliklerini ve dolayısıyla
+verimliliklerini yitirmeye başlar. Örneğin karaciğer hüc-
+relerindeki mitokondrilerin ortalama yaşam süresi 10
+gündür ve 10 gün sonra lizozom tarafından yıkılırlar. Bu-
+rada çok ilginç bir yöntem kullanılır. Öncelikle yıkılacak
+organel bir şekilde işaretlenir ve daha sonra üzeri çift
+zarla kaplanır. Bu yapıya otofagozom denir. Otofago-
+zomlar lizozomla kaynaşır ve böylece içindeki malzeme-
+nin lizozom tarafından yıkımı sağlanır. Tıpkı bir binada
+yapılan tadilat gibi. Öncelikle hasarlı yapılar tespit edilir
+ve işaretlenir, daha sonra üzerleri bir branda ile örtülür ve
+yıkıma alınırlar. Böylece çevreye rahatsızlık verilmemiş
+olunur. Otofaji sadece işlevlerini kaybetmeye başlayan
+organellerin yenilenmesi için değil aynı zamanda açlık
+döneminde hücrenin ayakta kalabilmesi için gereksinim
+duyduğu besin maddelerinin karşılanabilmesi için de
+önemli bir kaynak sağlar (Özellikle de hücredeki amino
+asit miktarı belli bir düzeyin altına düşünce).
+Geri dönüşüm
+Lizozomlar sürekli birtakım büyük molekülleri parça-
+larlar, peki yıkım ürünleri nereye gidiyor? Lizozomlarda
+makromoleküllerin yıkımıyla elde edilen temel yapıtaş-
+ları sitoplazmaya geçerek hücrede yeni moleküllerin
+sentezinde kullanılır. Bu açıdan bakıldığında lizozomlar
+sadece yıkımı gerçekleştiren organeller değil aynı za-
+manda çok etkili birer geri dönüşüm ünitesidir. Yıkım
+sonucu elde edilen tüm ürünler yeniden hücrenin kul-
+lanımına sunulur. Ancak bu maddelerin lizozom dışına
+çıkışı sızma yoluyla veya lizozomun parçalanmasıyla
+değil özel taşıyıcı proteinlerle gerçekleşir. Yani kontrollü
+bir geri dönüşüm söz konusudur. Bu amaçla permeazlar
+olarak da bilinen ve lizozom zarında bulunan özel taşı-
+yıcı proteinler kullanılır. Görüldüğü gibi hücrenin enerji
+ve hammadde politikasında israfa yer yoktur. Çok iyi bir
+geri dönüşüm sistemi vardır. Tüm bunlara rağmen yine
+de bazı maddeler parçalanmayıp lizozomlarda kalabilir.
+Özellikle kalp kası ve sinir hücreleri gibi uzun ömürlü
+hücrelerde bu sindirilmeyen maddeler birikir ki bunlara
+lipofuksin (yaşlılık pigmenti) denir.4
+PEROKSİZOMLAR4,12
+Hayvan ve bitki hücrelerinde bulunan 0,3-1,5 mikron
+çaplarında, tek katlı bir zarla çevrili, küremsi ya da oval
+vakuol benzeri organellere ‘’Peroksizom’’ adı verilir.
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+69
+Bazı biyoloji kaynaklarında peroksizoma mikrocisimcik
+de denilmektedir. Peroksizom bitki ve hayvan hücrele-
+rinde belli başlı nedenlerle birikmiş olan toksik yani ze-
+hirli maddeleri inaktive eden katalaz enzimlerini
+(glikolat oksidaz, aminoasit oksidaz ve peroksidaz vb.)
+yapısında taşımaktadır. Bu katalaz enzimleri sayesinde
+canlı vücudunda bulunan toksik maddeleri parçalaya-
+rak vücudu bu toksik maddelerden arındırırlar. Hücre
+için çok tehlikeli olan hidrojen peroksiti parçalayabilen
+katalaz enzimleri peroksizomun içerisinde yer almakta-
+dır. Peroksizomlar karaciğer, böbrek, kalp kası gibi me-
+tabolik faaliyetleri fazla olan organların hücreleri
+içerisinde yer alır. Peroksizomlarda bitki ve hayvan
+hücrelerinde herhangibir nedenle varolan toksik (ze-
+hirli) etkili maddeleri inaktive edip yok eden katalaz
+(=parçalayıcı) enzimleri taşır. Katalaz enzimlerine örnek
+olarak glikolat oksidaz, aminoasit oksidaz ve peroksidaz
+verilebilir.
+1950 yıllarında mikroskopla yapılan bir çalışma
+doğrultusunda hayvan hücresinde peroksizom tespit
+edilmiştir. Daha sonra tarih 1960’ları gösterirken perok-
+sizom bitki hücresinde de gözlemlenmiştir. 1954 yılında
+İsviçre doğumlu doktora yapan J. Rhodin adındaki öğ-
+renci peroksizomun tarifini yapmış ve daha sonra 1967
+yılında Belçikalı sitolog Christian de Duve karaciğer
+hücrelerinden izole edilen bir organeli tanımlanmış ve
+peroksiti parçalayabilme özelliğinden dolayı peroksizom
+olarak isimlendirmiştir.
+Peroksizom organelinin lizozoma benzeyen birçok
+özelliği bulunmaktadır. Tıpkı lizozom gibi tek katlı bir
+zar ile çevrili olan peroksizom endoplazmik retikulum-
+dan tomurcuklanarak meydana gelmektedir. Endoplaz-
+mik retikulumdan oluşan peroksizom canlı için önemli
+olan birçok fonksiyonu gerçekleştirebilen enzimleri
+bünyesinde barındırmaktadır. Kristalize yapıda ürat ok-
+sidaz moleküllerinin oluşturduğu bir merkeze ve yoğun
+bir matrikse sahiptir.
+Peroksizomun Görevleri
+Uzun zincirli yağ asitleri beta oksidayonla daha kısa hale
+gelmektedir. Bu görevi yerine getiren peroksizom bu sa-
+yede mitokondrinin bu kısa yağ asitlerini kullanmasıyla
+hücre için gerekli enerji ihtiyacını sağlanmış olunur.
+Hayvanların sinir sisteminde yer alan miyelin kı-
+lıfların yapısındaki plazmalojenin ilk reaksiyonu perok-
+sizomda gerçekleşir. Fosfolipit yapıdaki plazmojenlerin
+hayvan hücreleri için büyük bir önemi vardır. Bu aşa-
+mada yaşanan herhangi bir problem peroksizomal has-
+talığı gün yüzüne çıkarır.
+Safra asitlerinin meydana gelmesinde önemli bir rol
+oynayan peroksizom bu özelliği sayesinde yağ emilimi
+ve yağda eriyebilen A ve K vitaminlerinin emiliminde
+de görev almaktadır.
+Peroksizom proteinlerini sentezleyen genler
+PEX1;PEX2 – PXMP3; PEX5;PEX6;PEX7;PEX10;
+PEX11A,PEX11B,PEX11G;PEX12;PEX13;PEX14;
+PEX16’lerdir.1,2,4,12
+Endosomal-otofajik-lizozomal fonksiyonlar ve depo
+hastalıklarındaki aksamaları
+Lizozomlar, hücresel substratların klirensinde, çok
+sayıda değişik yoldan endozomal-otofajik-lizozomal sis-
+tem içinde işlenmesinde merkezi bir rol oynarlar (4)
+(Şekil 1). Lizozomlar, makromoleküllerin bozunması
+için gerekli enzimleri ihtiva eden, ayrıca makromole-
+küllerin katabolizması yoluyla üretilen küçük molekül-
+lerin 
+hücre 
+içine 
+ve 
+dışına 
+translokasyonunu
+kolaylaştıran permeazları içeren asidik organellerdir. En-
+dozomlar ve otofagozomlara kıyasla, lizozomlar boyut
+bakımından daha küçüktür, özellikle transmembran pro-
+teinleri ve hidrolitik enzimler (proteazlar, glikozidazlar,
+nükleazlar, fosfatazlar ve lipazlar dahil) ile yüksek
+oranda zenginleştirilmiştir, daha yüksek bir yoğunlukda
+elektron yoğunluğuna, Ca2+ ve protonlara sahiptir.4,13
+Lizozomlar, asidifikasyon dereceleri ve LAMP1 ve
+LAMP2 gibi daha fazla sayıda lizozomal membran pro-
+tein (LMP) içerikleri bakımından endozomlardan farklı-
+dır. Gelişmekte olan çoğu lizozomal enzimler, enzimleri
+erken ve geç endozomlara yönlendiren trans-Golgi ağın-
+daki (TGN) mannoz-6-fosfat reseptörlerine (M6PRs)
+bağlanır (4). Endozomal-lizozomal füzyon meydana gel-
+diğinde lizozomlar bu enzimleri içine alırlar. Özellikle,
+yoğun lizozomlar M6PR içermez. “Lysotracker” gibi asi-
+dotropik reaktifler, lizozomları etiketlemek için yararlı-
+dır; 
+bununla 
+birlikte, 
+geç 
+endozomların 
+ve
+otofagozomların hafif asidik iç kısımları da Lysotrac-
+ker’ın bu organelleri çeşitli derecelerde işaretlemesine
+olanak sağlar.6 Endozomal ve otofagozomal yolakların
+biyogenezi ve işleyişi, CLEAR (koordineli lizozomal eks-
+presyon ve regülasyon) gen ağını oluşturan 471 genin
+ekspresyonunu düzenleyen transkripsiyon faktörü EB
+(TFEB) ile kontrol edilir.7,8 Son çalışmalar, aktif olmayan
+TFEB’nin yüksek oranda fosforile olduğunu ve geç en-
+dozom /lizozomlarla birleştiğini göstermektedir.4 Oto-
+faji indükleyici koşullar (örn., Glikoz veya amino
+asitlerin yoksunluğu), azalmış ve değiştirilmiş TFEB fos-
+forilasyonu ile sonuçlanır, bu da çekirdeğe translokas-
+yonuna) ve CLEAR genlerinin transkripsiyonel
+ekspresyonuna yol açar.4,8
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+70
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+71
+Endosomal ve otofagozomal materyalin degradas-
+yonu, içerik değişimi geçici “öpücük at-ve-çalıştır ve
+uzaklaş” kontaktları ile veya  bunların lizozomlar ile füz-
+yon yaparak endolizozomların ve otolizozomların oluş-
+turulması 
+ 
+şeklinde 
+gerçekleşir. 
+Endozitoz 
+ve
+otofagazomlardaki substratların sindirimi esas olarak en-
+dolizozomlar ve otolizozomlarda gerçekleşirken, endo-
+sitozlar ve otofagozomlar ile füzyon ve fizyon (birleşme
+ve tekrar ayrışma) sikluslarına giren asidik hidrolazlar
+için lizozomlar muhafaza bölmeleri olarak kabul edile-
+bilir. Fizyolojik koşullar altında, endolizozomlar ve oto-
+lizozomlar geçici organellerdir.4
+Lizozomal hidrolitik enzimleri, lizozomal membran
+proteinleri veya enzimatik olmayan çözünebilir lizozo-
+mal proteinlerde yetersizliği olan hücreler, aşırı seviye-
+lerde bozulmamış makromolekül (enzim eksikliği) veya
+monomerik katabolik ürünler (efflux permease) birikti-
+rir ve bunlar keza çok sayıda endo/otolizozom içerirler.
+Çok yüksek seviyelerde makromoleküller/monomerler
+endo/ otolizozomlarda biriktiğinde, katabolik enzimleri
+ve genetik olarak yetersiz olan permeazları inhibe eder-
+ler, bu da ikincil substrat ürünü birikimiyle sonuçlanır.10
+Örneğin, lizozomal proteolitik kapasite, proteaz eksikli-
+ğinden kaynaklanmayan mucopolisakkaridozlardan  I ve
+VI ve GM1-gangliozidoz gibi çeşitli LSD’lerde fibrob-
+lastlarda  azalırlar.11 Birincil ve ikincil substratların bi-
+rikmesi, sadece endozomal-otofajik-lizozomal sistemde
+değil, aynı zamanda mitokondri, ER, Golgi, peroksizom-
+lar ve genel hücre fonksiyonu da dahil olmak üzere diğer
+organelleri etkileyen bir olaylar zincirini başlatır (Şekil
+1).
+LİZOZOMAL DEPO HASTALIKLARI
+Lizozomal Depo Hastalıkları (LDH) yaygın olarak lizo-
+zomal hidrolazların eksikliği sonucu memeli ve kanatlı-
+larda, lizozomların içinde sfingolipid, glikolipid,
+mukopolisakkarid (glikozaminoglikan) veya oligasakka-
+ridlerin birikmesi ile karakterize otozomal resesif kalı-
+tımlı hastalıkları tanımlar.1,2,14-22 LDH’nda bazı klinik ve
+patolojik bulgular ayırıcı tanıda kullanılabilmekle bir-
+likte, kesin tanı ancak biyokimyasal, immünohistokim-
+yasal, elektron
+mikroskobik ve genetik testlerin
+yardımıyla konulabilmektedir.3,4
+LDH’nın temelini genetik defektler oluşturur.1,2
+Bunun yanı sıra, swainsonine içeren bitkilerin (swain-
+sona, locoweed) yenmesi sonucu lizozomal hidrolazla-
+rın inhibe edilmesi gibi sindirimi engelleyen bazı
+çevresel faktörler de LDH’na neden olabilir. Ayrıca, klo-
+ŞEKİL 1: Hücrede katobolizma merkezleri olarak lizozimler. https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tile.1
+Lizozomlar hücrenin katabolik merkezleri gibidir. Lizozomlar, hücresel materyalin bozunması için dört farklı yol kullanır. (A) Makrootofaji, sitozolde birikmiş denatüre proteinleri, lipitleri,
+karbohidratları ve eski/hasarlı organelleri içine alacak şekilde otofagozomlar olarak bilinen kapsüllenmiş veziküller (kesecikler) içine izolasyon membranlarının dahil edimesi ile başlar.
+Otofagozom üretiminin dinamik kinetik ve lizozomlarla klirensi otofajik akım olarak bilinir. (B) Bu yolda lizozomlarla endozomal degradasyon hakim  olarak geç endozomlar/multivezi-
+küler cisimcikleri hedefler. Geç endozomlar ve lizozomlar arasındaki füzyon (i) tam füzyon/degradasyon (ii) geçici endozomal yerleştirmenin meydana geldiği yerde öp-ve kaç benzet-
+mesi şeklinde geç endozom/mültiveziküler cisimlerin lizozomla birleşmesi (endolizozom oluşması) ve yeniden lizozomun terki ile meydana gelebilir. (C) Mikrootofaji, lizozomları
+çevreleyen sitozolik bölgelerin pinositozunu içerir. (D) şaperon aracılı otofaji (CMA), seçici olarak, olarak Hsc-70'i şaperon ve LAMP-2A'yı reseptörü olarak kullanarak lizozomlara ulaş-
+tırmak için KFERQ motifli proteinleri hedefler.
+rokin gibi katyonik amfifilik ilaçların kullanılması da eti-
+yolojide yer alabilmektedir. Klorokin, Plasmodium spp.
+enfeksiyonunun tedavisinde kullanılır ve gangliosidoz
+olarak bilinen ölümcül LDH’na neden olduğu rapor edil-
+miştir.4 Tripanosidal ve antifungal bir ilaç olan suramin;
+iduronat sülfataz ve ß–glukoronidaz enzimlerini inhibe
+ederek mukopolisakkaridoza neden olabilir.17
+Lizozomal Depo Hastalıklarının Tarihçesi
+LDH’nın ilk örneğini oluşturan Tay-Sachs hastalığı, in-
+sanlarda 1881 yılında Werren Tay tarafından incelen-
+miştir. 1882’de Gaucher, bir kadın hastanın dalağında
+büyük yapılı hücreler tespit etmiş, bu hücrelere Gauc-
+her hücresi, oluşan hastalığa ise Gaucher hastalığı adını
+vermiştir. Bunu takiben 1886 yılında, Bernard Sachs
+1881 yılında Werren Tay’ın incelediği hastalıkla aynı
+özelliklerde bir hasta tanımlamış ve bu benzer iki sen-
+drom Tay-Sachs hastalığı olarak isimlendirilmiştir. Bun-
+ları, 1898 yılında Fabry hastalığının tanımlanması takip
+etmiştir. Bu çalışmalarla, LDH’nın ilk temelleri atılmış-
+tır. Sonraki 50 yıla kadar bu hastalıklar klinik semptom-
+larına göre sınıflandırılmış ve depolanan maddeler
+morfolojik olarak tespit edilebilmesine rağmen biyo-
+kimyasal olarak tanımlanamamıştır.17 Niemann-Pick
+hastalığı, ilk olarak 1914 yılında Niemann tarafından 18
+aylık bir bebekte tespit edilmiş, 1927 yılında ise Pick
+benzer bir olguda histolojik incelemelerle Gaucher hüc-
+relerine benzeyen ama onlardan farklı lipid yüklü hüc-
+releri göstererek hastalığın farklı bir özellik taşıdığını
+açıklamıştır.23-25 Pompe hastalığı ilk kez 1932 yılında
+Pompe tarafından tanımlanmış ve 1934 yılında depola-
+nan substratın galaktoserebrosid olduğu anlaşılmıştır.8
+1950 ve 1960 yılları arasında Pompe hastalığının galak-
+toserebrosidaz enzim eksikliği sonucu şekillendiği anla-
+şılmış 
+ve 
+galaktoserebrosidoz 
+(Globoid 
+Hücre
+Lökodistrofisi) olarak isimlendirilmiştir. Hemen ardın-
+dan, LDH tedavisinde eksik olan enzimi yerine koyarak
+yapılacak tedavinin etkili olup olamayacağı araştırılmaya
+başlanmıştır.17,20-22 1957 yılında idrarda mukopolisakka-
+ridler analiz edilmiş, 1960 yılında da mukopolisakkarid-
+lerin fibroblasttaki birikimi gösterilmiştir. Aynı yıl
+içinde doku ve fibroblast kültürü ile eksik enzim tespiti
+yapılmıştır. 1963 yılında Herz, Pompe hastalığında eksik
+olan enzimi tespit etmiş ve LDH adı altında sınıflandırı-
+lan ilk hastalık olmuştur.17 1976 yılında LDH’nın ektopik
+dendritogeneze neden olduğu ortaya konulmuştur. İn-
+klüzyon cisimcikleri ilk olarak Tay-Sachs hastalığı ve ta-
+kiben Nöronal seroid lipofuskinoz, Gaucher hastalığı ve
+Fucosidoz’da tanımlanmıştır.17
+Prevalans
+Lizozomal enzim aktivitelerinde veya transportunda bo-
+zukluk ya da lizozomal membranların reseptör protein-
+lerindeki 
+defektlere 
+bağlı 
+olarak 
+substratların
+lizozomlarda depolanması ile karekterize olan önemli bir
+metabolik hastalık grubudur. Lizozomal Depolama Bo-
+zukluklarının türleri olarak 50’ın üzerinde lizozomal de-
+polanma bozukluğu tanımlamıştır ve bu sayı büyümeye
+devam etmektedir. Farklı tipte LDH‘ler tek tek nadir ol-
+makla birlikte, birlikte alındıklarında, 7,700 doğumda
+kabaca 1’i etkilemekte ve bu da nispeten yaygın bir sağ-
+lık problemi haline gelmektedir.3,4
+Lizozomal Depolama Bozukluğu Belirtileri
+LDH‘lerin klinik fenotipleri 
+Farklı LDH‘lerde ortaya çıkan klinik belirtilerin ve
+semptom spektrumunun başlangıç yaşı, spesifik mutas-
+yonlardan etkilenen protein fonksiyonunun derecesine,
+depolanan materyalin biyokimyasına ve depolamanın
+yer aldığı hücre tiplerine bağlı olarak değişir. Kemik ve
+kıkırdakta substrat depolanmasını içeren lizozomal has-
+talıkların bir kısmı (örn, mukopolisakkaridozlar) Tablo
+1-3’de gösterilmiştir.3,4 Söz konusu bozuklukların bu-
+lunduğu koşullar altında doğan bebeklerin çoğu do-
+ğumda normal görünmektedir. Bir LDH‘nin klasik klinik
+prezentasyonu, çoğunlukla bebeklik/çocukluk döne-
+minde kendini gösterebilen nörodejeneratif bir hasta-
+lıkla olmaktadır,  fakat erişkin başlangıçlı varyantları da
+da söz konusudur. Tüm LDH‘ler ilerleyicidir, yani za-
+manla kötüleşirler. Progresyon oranı, semptomların şid-
+deti ve etkilenen organlardaki bozukluklar ve hatta her
+bir bozukluk tipine göre değişir. LDH‘ler farklı vücut or-
+ganlarını veya sistemlerini etkileyebilir: Kemikler ve ek-
+lemler, merkezi sinir sistemi, gözler, kalp, böbrekler,
+akciğer, dalak, karaciğer, cilt vb.20-36
+Lizozomal Depo Hastalıklarda Patogenez2,4,16,17
+Lizozomal depo hastalıklarında lizozomun içine depola-
+nan sindirilememiş materyaller metabolizmada ayrı bir
+öneme sahiptir. Mukopolisakkaridler, hücreleri bir arada
+tutan, hidrojen ve besin maddelerinin difüzyonunda yar-
+dımcı olan jel yapısındaki hücreler arası matriksin temel
+maddesidir. Sfingomyelinler ise hücre plazma mem-
+branlarında bulunmakla birlikte, nöronların aksonlarını
+saran ve yalıtan zarımsı kılıfta (myelin) göze çarparlar.
+Gangliosidler hücreler arası iletişimin anahtarıdırlar.
+Aynı zamanda hücrelerin birbirini tanıması ve birbirle-
+rine yapışmalarında önemli rolleri vardır. Ayrıca nö-
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+72
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+73
+Lizozomal depolanmanın 
+Etkilenen 
+SSS 
+mekanizması
+Hastalık adları
+lizozomal protein defekt (gen sembolü)
+Depolanan substrat
+major periferik organ sistemi 
+patolojisi
+Lizosomal enzimyetersizlikleri 
+Aspartilglukozaminuri
+Aspartylglucosaminidase (glycosylasparaginase, AGA)
+Aspartylglucosamine
+İskelet, konnektiv doku
++
+(N-acetylglucosaminyl-asparagine)
+Fabry
+α-Galactosidase (GLA)
+(Lyso-)Globotriaosylceramide
+Böbrek, kalp 
+−
+Gaucher types 1, 2, ve 3
+β-Glucocerebrosidase (GBA)
+Glucosylceramide, glucosylsphingosine
+Dalak/karaciğer, kemik iliği
++a
+GM1-gangliosidosis
+β-Galactosidase (GLB1)
+GM1-ganglioside, oligosaccharides
+İskelet, Kalp 
++
+Krabbe (globoid  hücre lökodistrofisi)
+Galactocerebrosidase (GALC)
+Galactosylceramide
+Kalp
++
+Metakromatik lökodistrofi
+Arylsulfatase A (ARSA)
+Sulfogalactosylceramide
++
+Mukopolisakkaridozlar
+Mukopolisakkarid katabolizmasını 
+Mucopolysaccharides
+Kıkırdak,kemik,akciğerler, kalp
++b
+etkileyen enzimler
+Multipl sulfataz yetersizliği
+SUMF1 (Formylglycine-generating enzyme 
+Multipl,  sulfated glikozaminoglikanlar dahil
+Dalak,kemikler,deri
++
+sulfatazları aktive etmek için gerekli)
+Pompe
+α-Glucosidase (GAA)
+Glikojen
+İskelet kası
+−
+Sandhoff
+β-hexosaminidase A ve B (HEXB)
+GM2-ganglioside
++
+Lizozomal enzimlerin 
+Mukolipidozis tip II (I-cell disease)
+N-acetyl glucosamine phosphoryl transferase 
+Karbonhidratlar, lipidler, proteinler
+İskelet,kalp
++
+trafiğindeki defekler 
+α/β (GNPTAB)
+Mukolipidozis tipIIIA 
+N-acetyl glucosamine phosphoryl transferase 
+Karbonhidratlar, lipidler, proteinler
+İskelet,kalp
++/−
+(pseudo-Hurler polydystrophy)
+α/β (GNPTAB)
+Soluble non-enzimatik 
+Niemann-Pick hastalığı tip C2
+NPC2 (soluble cholesterol binding protein)
+Cholesterol and sphingolipids
+Karaciğer
++
+lizozomal proteinlerdeki defektler
+Lizozomal membran 
+Cystinosis
+Cystinosin (cysteine transporter, CTNS)
+Cystine
+Böbrek,göz
+−
+proteinlerinde defektler
+Danon hastalığı
+Lizoosomal-associated membrane protein 2, splicing variant A (LAMP2)
+Glikojen ve diğer  otopajik komponentler
+Kardiak ve iskelet  kası
++
+Serbest siyalik asid depo hastalığı
+Sialin (sialic acid transporter, SLC17A5)
+Free sialic acid
+Karaciğer/dalak, iskelet
++
+Mukolipidozis IV
+Mucolipin-I (MCOLN1)
+Mukopolisakkaridler ve lipidler
+Göz
++
+Niemann-Pick hastalığı tip C1
+NPC1 (membrane protein involved in lipid transport)
+Cholesterol  ve sphingolipids
+Karaciğer
++
+İkilemli  lizozomal hastalıklar
+Neuronal ceroid lipofuscinoses 
+Lizozomal sistemle hiç ilişkisi olmayan, ilgisiz 
+Otofloresan lipofusin, yakın görme kusuru r
+(NCLs,  Batten hastalığı dahil)
+genlerdeki defektlerle ilgili farklı hastalık grupları.
+belirtileri, örneğin görme sistemi kusurları / 
+Bu genlerin ortak hücresel yollarla ilgilerinin olup olmadğı bilinmemekte
+körlük gibi yaygın bir özellikti
+TABLO 1: Bazı lizozomal depo hastalıklarının nedenleri, etkilenen organeller ve major organlar.
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+74
+ronların farklılaşmasında ve nöronal sinyallerin iletil-
+mesinde görev alırlar.16,17
+Birçok hücre kendine ait zar lipidlerini devamlı ola-
+rak yıkar ve yeniler. Yani sentezleme hızları ile yıkım
+hızları birbirleriyle uyum içindedir. Bu durum zar lipid-
+lerinin sürekli olarak metabolik bir döngü içerisinde ol-
+duğunu göstermektedir. Lipidlerin yıkımı, lizozomda
+her biri sadece belli bir bağı hidrolizleyebilen hidrolitik
+Tip
+Gen lokusu                       
+Enzim eksikliği                      
+GAG birikimi 
+MPS I H/S (Hurler/Scheie Sendromu) 
+α-ıduronidaz enzim eksikliği (Asid hidrolaz)
+Dermatan sülfat
+MPSI (Hurler Hastalığı)
+(IDUA(4p16)  
+α-ıduronidaz enzim eksikliği (Asid hidrolaz)
+Heparan sülfat
+MPSIS (Schei Sendromu)
+α-ıduronidaz enzim eksikliği (Asid hidrolaz)
+Dermatan sülfat
+MPS II (Hunter Sendromu)                  
+(IDS(Xq28)
+İduronat sülfataz(Asid hidrolaz)     
+Dermatan sülfat, Heparan sülfat
+MPS III A,B,C ve D(Sanfilipo Sendromu) 
+(SGSH(17q25),NAGLU(17q21), 
+Heparan-N-sülfataz ve 
+Heparan sülfat
+HGSNAT(8p11),GNS(12Q14)  
+α-N-glukosaminidaz eksikliği(Asid hidrolaz), 
+Sanfilipo C’de acetil transferaz
+Sanfilipo D’de asetil glukozamin-6-sülfataz
+MPS IV A ve B (Morquio Sendromu)        
+Galaktoz ve 4-sülfataz eksikliği(Asid hidrolaz)
+Keratan sülfat, kondroitin sülfat                                           
+Dermatan sülfat
+MPS V (kullanılmıyor)
+MPS VI (Maroteaux-Lamy Sendromu)
+(ARS(5q11)               
+Arilsülfataz B eksikliği (Asid hidrolaz)           
+Dermatan/kondroitin sülfat
+MPS VII (Sly Sendromu) 
+(GUSB(7q11)
+ß-glukoronidaz eksikliği (Asid hidrolaz)    
+Dermatan/Heparan/kondroitin sülfat 
+MPSVIII kullanılmıyor.
+MPS IX-Nanowitc
+HYALI (3p21)
+Hiyalüronidaz (Asid hidrolaz)
+Hyaluronan
+TABLO 2: Önemli mukopolisakkaridozlar ve sebeb olan enzim eksiklikleri.
+Dermatan sülfat, heparan sülfat ve  keratan sülfat mukolopolisakkaridozis patogenezine katılan temel  GAG’lardır. Schei Sendromu hariç tüm tipler yaşamı kısaltır. Tüm tiplerde iske-
+let anomalileri mevcutdur. Ama en şiddetli olarak Tip IV ve VI’da izlenir. Tip IH, IS, IV, VI, VII’de (VII’de hafif olmak üzere) zeka geriliği bulunur. Tip IH, IS, IV ise normal zekalıdır. Tüm
+tiplerde eksik olan enzim” asit hidrolazdır. Sadece Sanfilippo Tip C’de”Asetil transferaz” eksiktir.
+Sendrom                  
+Klinik belirtiler
+Kardiyovasküler     
+Pulmoner   
+SSS 
+Kas-İskelet
+Hurler Tip 1 (MPSI) (Schei e Sendromu) 
+Koroner arterlerde daralma,
+Sık üst solunum yolu infeksiyonu, 
+Mental gerilik, işitme kaybı, 
+Eklem katılığı, 
+miyokardiyal sertlik,  
+Kifoskolyoza bağlı restiriktif  
+Makrosefali, hidrosefalus
+Cervikal omurgada immobilite, 
+akciğer hastalığı 
+ensantibilite     
+Orta dekadlara kadar yaşam uzar
+Hunter (Tip 2)     
+Valvüler disfonksiyon, 
+Kısa boyun,kalın dil,
+Mental gerilik, Hidrosefalus, 
+Eklem katılığı, servikal omurgada,
+Miyokardda kalınlaşma,  
+Üst solunum yolunda obstrüksiyon
+Hiperaktivite, nöbetler
+İmmobilite, ensantibilite    
+Koroner arterlerde daralma,
+Miyokard infarktüsü,
+Sanfilippo (Tip III)   
+Kalp tutulumu yok, 
+Sık üst solunum yolu infeksiyonu
+Gelişme geriliği, hiperaktivite, 
+Boy kısalığı, Hurler ve Hunterin
+Mental gerilik, ataksi ve 
+bulbar disfonksiyon, demans
+Morquio (Tip IV)                  
+Valvüler lezyonlar,
+Kısa boyun, basık yüz 
+Zeka normal, nöbetler 
+Atlanto- oksiptal eklemde 
+aort yetersizliği  
+ensantibilite ve omurilik basısı
+Marateaux-Lamy (Tip VI )   
+Aort Darlığı,
+Kifoskolyoza bağlı 
+Zeka normal, hidrosefalus 
+Atlanto-oksiptal eklemde 
+Mitral Yetersizliği    
+restiriktif  akciğer hastalığı 
+ensantibilite ve omurilik basısı
+MPS tip VII (Sly Sendromu)
+Kalp kapakları/aorta darlık) 
+Kornea’da opasite, körlük, 
+ve endokardda kalınlaşma
+dilde büyüme           
+Hafif formuna benzer  
+MPS tip IX(Hiyalorunidaz eksikliği-Natowicz Sendromu)
+TABLO 3: Mukopolisakkaridozlar: Multi-sistemik belirti ve bulgular.
+Dermatan sülfat, heparan sülfat ve  keratan sülfat mukolopolisakkaridozis patogenezine katılan temel  GAG’lardır. Schei Sendromu hariç tüm tipler yaşamı kısaltır. Tüm tiplerde iske-
+let anomalileri mevcutdur. Ama en şiddetli olarak Tip IV ve VI’da izlenir. Tip IH, IS, IV, VI, VII’de (VII’de hafif olmak üzere) zeka geriliği bulunur. Tip IH, IS, IV ise normal zekalıdır. Tüm
+tiplerde eksik olan enzim” asit hidrolazdır. Sadece Sanfilippo Tip C’de”Asetil transferaz” eksiktir.
+enzimler tarafından yürütülür. Bu enzimlerden birinin
+eksikliği sonucu alt ünitelerine indirgenememiş mater-
+yal dokularda birikmeye başlar.16 Birçok LDH’da insan-
+larda progresif nörolojik bozukluklar ve buna ek olarak
+zeka geriliği görülür. Bunların nedeni de nöronlarda
+meydana gelen meganörit ve ektopik dentritogenez gibi
+değişikliklerdir. İmmunohistokimyasal çalışmalarda,
+GABA’nın nöronlar tarafından nörotransmitter madde
+olarak kullanımının inhibisyonu aksonlarda yapısal
+anormallikler (aksonal sferoid formasyon) ve ektopik
+dentritogenez oluşumu ile yakından ilişkilidir.16-36
+Bütün organların hücreleri lizozoma sahip olduk-
+larından, tüm organları etkileyen bozukluklardır. Bir-
+çoğu nörovisseral depolanma gösterirler ve progresif
+özellik taşıdıkları için yaşla birlikte patolojik değişiklik-
+lere bağlı semptomlar artış gösterir.3,17
+Otozomal resesif hastalıklar yeni doğanların meta-
+bolizma bozukluklarının çoğunu kapsamaktadır. Bu has-
+talıklarda klinik bulgular, benzer özellikler gösterir. Bu
+kalıtımın daha çok protein ve enzim defektlerine yol aç-
+tığı görülür.20-36 GM2 gangliosidoz oluşum mekanizma-
+ları incelendiği zaman kalıtımın aktivatör protein defekti
+oluşturan grubunun olduğu, bunun yanında lizozomal
+depo hastalıklarının büyük bir kısmının da (ß- manno-
+sidoz, galaktoserebrosidoz, sfingomyelin lipidoz gibi)
+enzim eksikliğinden kaynaklandığı kalıtımın ortak nok-
+talarının anlaşılmasında yardımcı olmaktadır.17,20-28
+Bazı olgularda intralizozomal depo materyalinin bi-
+riktiği hücrelerin özel mekanizmalarla yok olduğu ta-
+nımlanmıştır. Galaktoserebrosidozda, lizozomların
+içinde biriken galaktoserobrosidin, protein kinaz C akti-
+vitesini inhibe ettiği görülmüştür. Bu durum hücrede
+programlı hücre ölümünü (apoptozis) tetikler.17,20-23
+Hücre içi anormal biriken materyalin, hücre yapısına ve
+fonksiyonlarına şiddetli zarar verdiği bilinmektedir. Bir-
+çok depo hastalıklarında (mukopolisakkaridoz) oldukça
+karakteristik iskelet deformasyonları görülür. Bu durum
+osteoklast hücre sınırlarının bozulması ve fonksiyonla-
+rının depolanan substrat yüzünden zarar görmesinden
+kaynaklanır.33-36
+Depolanan substratların çoğu nöron ve oligoden-
+drositler için toksik etki gösterirler. Beyindeki atrofi ve
+şiddetli myelin kaybı bu hücrelerin zarar görmesi ve öl-
+mesi sonucunda gelişir (GM1 gangliosidoz, galaktose-
+rebrosidoz). Nöronların çoğu şiddetli olarak etkilenir ve
+nörolojik bulgular meydana gelir. Bunun sebebi, bu hüc-
+relerin birçok substrat için metabolik aktif fonksiyonu-
+dur. Ayrıca uzun ömürlü oldukları için, birikim zamanla
+birlikte artar.20-23,33-36
+Lizozomal Depo Hastalıklarında Çeşitli Sınıflandırılmalar20-36
+Lizozomal depo hastalıklarında sınıflandırma; depolanan
+materyalin biyokimyasal yapısı ya da hastalığın oluşum
+mekanizmasına göre yapılabilmektedir (Tablo 1).
+İnsanlarda görülen lizozomal depo hastalıkları örnekleri
+A) Sfingolipidozlar ve yetersiz enzimler
+Glukoserebrosidoz 
+ß-glukoserebrosidaz eksikliği
+(Gaucher hastalığı)
+Fabry hastalığı
+α-galaktosidaz eksikliği
+Schindler hastalığı 
+α-N-asetilgalaktosaminidaz eksikliği
+Kanzati hastalığı 
+α-N-asetilgalaktosaminidaz eksikliği
+Metakromatik lökodistrofi arylsülfataz A eksikliği
+Multipl sülfataz eksikliği en az 
+7 lizozomal sülfataz ve
+1 mikrozomal sülfataz eksikliği
+Niemann-Pick hastalığı
+sfingomyelinaz eksikliği
+GM1 gangliosidoz
+ß-galaktosidaz eksikliği
+GM2 gangliosidoz
+heksosaminidaz A-B veya B eksikliği
+Krabbe hastalığı
+ß-galaktosidaz eksikliği
+Farber granulomatoz
+seramidaz eksikliği
+Wolmann hastalığı
+asit lipaz kolesterol esteraz eksikliği
+(kolesterol ester depo hastalığı)
+B) Diğer bir grup
+Nöronal seroid 
+palmitoly protein thioesterase 
+lipofuskinoz
+eksikliği
+C) Glikoproteinozlar
+Aspartilglukosaminüri
+aspartilglukozaminidaz eksikliği
+Alfa-mannosidoz
+α-mannosidaz eksikliği
+Beta-mannosidoz 
+ß-mannosidaz eksikliği
+Fukosidoz
+α-fukosidaz eksikliği
+Sialidoz 
+nörominidaz eksikliği
+Galaktosialidoz
+α-nörominidaz ve ß-galaktosidaz 
+eksikliği
+D) Glikojen depo hastalığı
+Pompe hastalığı
+α-glukosidaz eksikliği
+E) Mukopolisakkaridoz (MPS)
+MPS I
+α-ıduronidaz eksikliği
+MPS II 
+iduronat sülfataz eksikliği
+MPS III
+heparan-N-sülfataz ve
+α-N-glukosaminidaz eksikliği
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+75
+MPS IV
+galaktoz ve 4-sülfataz eksikliği
+MPS VI
+Arilsülfataz B eksikliği
+MPS VII
+ß-glukoronidaz eksikliği
+Hiyalurinidaz eksikliği hyaluronidaz
+F) Diğer
+Piknodisostoz  
+katepsin A/D eksikliği
+mucolipidosis I      
+Sialidosis 
+(alpha-N-acetyl neuraminidase 
+[sialidase)
+Salla hastalığı   
+sialik asit efluks mediatör eksikliği
+Mukolipidoz II(Inclusion-Cell N-asetilglukozamin-fosfotransferaz 
+(I-Cell hastalığı)
+eksikliği
+Mukolipidoz III
+N-asetilglukozamin-fosfotransferaz
+(Psedo-Hurler Sendromu)
+eksikliği
+Mukolipidoz IV   
+mucolipidin 1 eksikliği
+Sistinoz  
+sistin efluks mediatör eksikliği
+Metachromatic 
+(arylsulfatase A ve çoklu sülfataz 
+leukodystrophy
+yetersizliği) 
+Wolman Hastalığı
+Lysosomal acid lipase (LAL) 
+eksikliği 
+olarak gösterilebilirler.
+A. Sfingolipidozlar
+Sfingolipidozlarda en fazla etkilenen hücreler nöronlar-
+dır. Bu durum merkezi sinir sisteminin fazla miktarda
+lipid kapsamasından ileri gelir ve bu yüzden nöronal
+depo hastalığı olarak da anılırlar.3,4
+1. GM1 Gangliosidoz:
+GM1 gangliosidoz, lizozomal beta–galaktosidaz en-
+ziminin eksikliği sonucu şekillenen, GM1 gangliosidlerin
+intralizozomal birikimi ile karakterize ölümcül nörode-
+jeneratif ve nörovisseral bir hastalıktır. Hastalığın oto-
+zomal resesif kalıtımla geçtiğine dair kanıtlar
+bulunmaktadır.1-3,17
+Klinik olarak şiddetli ataksi, başta tremor, yüz de-
+formasyonları görülür. GM1 gangliosidozda lumbal ver-
+tebralarda kireçlenme ve intervertebral disk aralığında
+düzensizlikler önemli makroskobik bulgulardır. Bunun
+yanında karaciğer şişkin ve solgun görünümdedir.17
+Histopatolojik olarak şiddetli demyelinizasyon ve
+nöronal kayıp, beyin ve beyinciğin beyaz maddesinde
+myelinofajik makrofajlar, renal tubül hücreleri, pan-
+kreatik asiner hücreler, hepatosit ve kuppfer hücreleri-
+nin sitoplazmik vakuoller içerdikleri oldukça belirgindir.
+Merkezi sinir sisteminde (MSS) birçok nöron genişlemiş,
+granüler sitoplazmalı ve çekirdekle birlikte Nissl gra-
+nüllerinin yerlerinin de değişmiş olduğu görülür.15 Bu
+hücreler Sudan Black (SB) ve Luxol Fast Blue (LFB) ile
+purkinje hücreleri ve retinal ganglion hücre tabakası lek-
+tin histokimyası ile güçlü pozitif boyanırlar.15,16 Beynin
+beyaz ve gri maddesinde özellikle beyinciğin dorsalin-
+deki nükleolus ve purkinje hücrelerinin aksonlarında ak-
+sonal sferoid oluşumları dikkati çeker.16,17
+2. GM2 Gangliosidoz
+GM2 gangliosidlerin lizozomal parçalanması üç gen
+tarafından kontrol edilmektedir .Bunlar; hekzosamini-
+daz’ın α subünitini kodlayan HEX A, hekzosaminidaz’ın
+ß subünitini kodlayan HEX B ve GM2 gangliosidlerin
+enzimatik parçalanmalarına yardım eden aktivatör pro-
+teinin sentezlenmesinden sorumlu GM2 A’dır.19 Hekzo-
+saminidaz A, αß altünitesini, Hekzosaminidaz B ise ßß
+altünitesini içerir. Ek olarak saposin aktivatör proteini
+GM2 gangliosidleri bağlar ve enzimin aktive olmasında
+rol oynar.25 GM2 gangliosidozların üç temel formu var-
+dır;
+1. HEX A genindeki mutasyon sonucu Hekzosami-
+nidaz A’nın eksikliği şekillenir. Fakat hekzosaminidaz ß
+normaldir. Tay-Sachs hastalığına karşılık gelir.3,15,16
+2. HEX B genindeki mutasyon sonucu hem hekzo-
+saminidaz A hem de hekzosaminidaz B aktivitesinde ek-
+siklik görülür. Sandhoff hastalığına karşılık gelir.3,17
+3. Bu formda GM2 geninde mutasyon söz konusu-
+dur ki bunun sonucunda GM2 aktivatör proteininin ek-
+sikliği görülür. Hekzosaminidaz A ve Hekzosaminidaz B
+enzimleri normal fonksiyonundadır. GM2 gangliosi-
+doz’da yaygın olarak purkinje hücreleri, nöron ve astro-
+sitlerde diffuz köpüklü sitoplazmik vakuolizasyon
+görülür. Aynı değişiklikler perifer sinir ve retina gangli-
+onlarında da görülür. Purkinje hücrelerinde sayıca
+azalma dikkat çekicidir. Tay-Sachs hastalığına benzer.3
+3. Galaktoserebrosidoz (Globoid Hücre Lökodistro-
+fisi) (Krabbe Hastalığı)
+ß–galaktoserebrosidaz enziminin eksikliği sonucu
+intralizozomal galaktoserebrosid birikimi ile karakteri-
+zedir. Bu birikim genellikle beyindeki kan damarlarının
+çevresinde veya perifer sinirlerde gözlenir. İntralizozo-
+mal biriken lipidler, sinir sisteminin koruyucu yapısı
+olan myelin kılıfın gelişimini etkileyerek motor kabili-
+yetinde şiddetli bozukluklara neden olur. Galaktosereb-
+rosid myelinde yoğun miktarda bulunur. Bundan dolayı
+da bu hastalığın en önemli sonucu şiddetli demyelini-
+zasyon ve beyin atrofisidir.29,30
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+76
+Makroskobik olarak başlangıçta herhangi bir lez-
+yon görülmezken ileri olgularda beynin gri maddesinde
+renk değişikliği ve lateral ventriküllerin genişlemiş ol-
+duğu görülür. Beynin beyaz maddesi myelin boyasıyla
+boyanma yeteneğini şiddetli demyelinizasyondan dolayı
+kaybeder.30
+Globoid hücreler, kan damarlarına lokalize mezo-
+dermal kökenli makrofajlardır. Beynin beyaz madde-
+sinde çok çekirdekli makrofajların, yani hastalığa adını
+veren globoid hücrelerin anormal infiltrasyonu ile ka-
+rakterizedir. Merkezi sinir sistemi ve perifer sinirlerde
+myelin kılıfını etkilediği için şiddetli demyelinizasyon
+şekillendiren dejeneratif otozomal resesif kalıtımlı bir
+sinir sistemi hastalığıdır.29,30
+4. Glukoserebrosidoz (Gaucher Hastalığı)
+ß–glukoserebrosidaz aktivitesindeki eksiklikle ka-
+rakterize olarak retiküloendotelial hücrelerin lizozom-
+larında glukoserebrosid ve polilaktoseminoglikan
+birikimi görülür. Lipid biriken hücrelerdeki mikrosko-
+bik görünümler oldukça karakteristik olduğundan,
+kemik iliği, dalak, karaciğer ve lenf düğümlerinde sito-
+plazması buruşuk maviden kırmızıya değişen renklerde
+Gaucher hücrelerinin görülmesi kesin tanının konulma-
+sına yardımcı olur.3
+Glukoserebrosidoz da lizozomlara biriken substrat
+glukoserebrosiddir. Glukoserebrosid temel olarak gan-
+gliosidlerden ve globosidlerden meydana gelir. Globo-
+sidler de eritrositlerin ve lökositlerin membranlarında
+bulunurlar. Dolayısıyla primer lezyon dalak ve karaci-
+ğerdeki makrofajlardadır.3,17 Gaucher tipi hücreler mye-
+loid lökemi, lenfoma ve çeşitli tip hemolitik anemilerde
+de görülür. Bu durumda retiküloendotelyal hücrelere ve
+lökosit membranlarına bakılarak ayrım yapılabilmekte-
+dir.3,17
+5. Sfingomyelin Lipidoz (Niemann–Pick hastalığı
+A/B)
+Sfingomyelin lipidoz, sfingomyelinaz  asit eksikliği
+sonucu nöron ve makrofajlara sfingomyelin, kolesterol
+ve glikosfingolipid birikmesi ile karakterize nörovisseral
+bir hastalıktır. İnsanlarda sfingomyelinaz eksikliği Nie-
+mann–Pick hastalığı olarak isimlendirilmiştir ve A, B ve
+C1-2 olmak üzere 3 formu vardır. 
+Tip A Niemann-Pick hastalığı lizozomal sfingom-
+yelinaz enziminin eksikliği sonucu oluşur. İnsanlardaki
+tip A, bu hastalığın erken yaşlarda görülen formudur.
+Tip C Niemann-Pick hastalığı ayrı bir grupta ince-
+lenmektedir.3,23-25 Makroskobik olarak karaciğer şişkin
+ve sarı renkte görülür.3,17 Sfingomyelin lipidozda karaci-
+ğer, dalak, nöron, lenf düğümü, renal tubül epiteli ve ak-
+ciğerlerde köpüklü makrofajlar, hepotositlerin şişkin ve
+vakuollü olduğu dikkati çeker.3 Ayrıca alveollerde hi-
+perplazi veya purkinje hücrelerinde kayıplar görülebi-
+lir.3,23-25
+B. Glikoproteinozlar
+Bu grupta glikoproteinlerin karbonhidrat bileşenlerinde
+defekt vardır. Bu karbonhidrat bileşenleri mannoz, N-
+asetil glukozamin ve fukozdan zengindir.3
+1. Alfa-Mannosidoz
+Alfa-mannosidoz ilk defa 1980 yılında İngiltere’de
+kısa tüylü bir kedide tanımlanmıştır.17,26 İnsanlarda çok
+nadir görülmesine rağmen evcil hayvanlarda özellikle de
+sığırlarda yaygın olarak görülen ve ekonomik öneme
+sahip otozomal resesif kalıtımlı bir hastalıktır. Bu hasta-
+lık, lizozomal α-mannosidaz enziminin eksikliği sonucu
+lizozomların içinde hibrit, kompleks ve yüksek mannoz
+içeren oligosakkaridler birikmesiyle tanınır.3,26-28 Alfa-
+mannosidozda, pankreastaki sekretorik epitelyumlarda,
+böbrekteki endotel hücrelerinde depo materyale rastla-
+nır. Nöronlardaki depolanma yaygın ve şiddetlidir.3 Her-
+bivorlardaki α-mannosidaz sekonder olarak, indolizin
+alkaloidi olan swainsonine içeren bitkilerin sindirilmesi
+sonucu oluşur. Swainsona 85 farklı türe sahip, sadece S.
+novae-zelandiae (Yeni Zelanda) hariç Avustralya’da ye-
+tişen bir bitkidir. Locoweed, Oxytropis ve Astragalus bit-
+kilerine verilen
+isimdir. Locoizm ise Orta Batı
+Amerika’da görülen nörotoksin (swainsonine) ihtiva
+eden bu bitkilerin özellikle sığırlar ve atlar tarafından
+yenmesiyle meydana gelir. Genetik olarak şekillenen α-
+mannosidoz ile benzer olmasına rağmen eş özellikler ta-
+şımamaktadır. 
+Sekonder
+olarak 
+meydana 
+gelen
+α-mannosidozda ek olarak golgi mannoz II enzimi de in-
+hibe edilir.3,17 Bunu takiben lizozomlarda hibrit ve yük-
+sek mannoz içeren oligosakkaridler birikmemektedir.3,17
+2. ß-Mannosidoz
+Lizozomal ß-mannosidaz enziminin eksikliği so-
+nucu intralizozomal disakkaridlerin ve trisakkaridlerin
+birikimi ile karakterize otozomal resesif nörovisseral
+depo hastalığıdır.4 İlk olarak 1973 yılında Nubian keçi-
+sinde tanımlanmıştır. Lezyonlar α-mannosidoza benzer,
+ancak şiddeti daha fazladır. Doğumun ilk anından itiba-
+ren nörolojik bulgular ve iskeletin anormal yapısı dik-
+kati çeker.3,4 Makroskobik olarak tiroid ve böbrekler en
+çok etkilenen organlar arasındadır ve büyüme oldukça
+belirgindir. Palpebral aralığın daralması bu hastalık için
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+77
+önemli bir bulgudur.4,28 Histopatolojik incelemelerde
+nöron, retina ve mikroglialarda çok şiddetli vakuolizas-
+yon ve kan damarlarının çevresinde bol miktarda va-
+kuoler makrofajlar görülür. Nöronal vakuolizasyon
+özellikle beyinin korteksinde yoğundur. Nissl granül ve
+nükleusların yer değiştirdiği dikkati çeker. Şiddetli dem-
+yelinizasyon özellikle korpus kallozum ve beynin rostral
+bölümünde belirgindir.3,4 Merkezi sinir sisteminde dem-
+yelinizasyon, proksimal renal tubül epiteli ve tiroid foli-
+küler epitel hücresi ile birçok nöronda sitoplazmik
+vakuolizasyon görülür.28
+3. Fukosidoz
+Glikolipid ve oligosakkaridlerin içerdiği fukoz şe-
+kerinin lizozomal α-L-fukosidaz enziminin aktivitesin-
+deki eksiklik sonucu hücre içi intralizozomal fukoz
+şekeri, oligosakkarid ve glikozaminoglikan birikmesi ile
+karakterizedir.3 Fukosidoz ilk kez, 1982 yılında Avustu-
+ralya’da İngiliz Springer Spaniel köpek ırkında tanım-
+lanmıştır. Avustralya ve İngiltere’deki hayvanlarda
+plazma ve lökositlerdeki α-L-fukosidaz enzimi ölçülerek
+heterozigotluğu tespite dayanan programlarla eradike
+edilmiştir.3
+Makroskobik bulgular önemli derecede periferal
+sinir ganglionlarındadır. Vagus siniri, brakial pleksus ve
+interkostal sinirlerde kalınlaşmalar dikkat çekicidir.3,4
+Mikroskobik olarak özellikle beyin nöron, leptomenin-
+geal mikroglia ve medulla spinalisin ön bölümünde şid-
+detli geniş intrasitoplazmik vakuolasyon dikkat
+çekicidir.3 Bazı olgularda purkinje hücrelerinde kayıp-
+lar görülür.3,17,40
+4. Niemann-Pick Tip C1-2
+Lizozomal sfingomyelinaz enziminin yokluğuna
+benzerlik göstermektedir. Fakat sfingomyelinaz aktivi-
+tesinde herhangi bir eksiklik bulunmamaktadır. Ancak
+patogenezi tam olarak açıklığa kavuşamamıştır.3,23 Ko-
+lesterol esterifikasyonundaki bozukluk sonucu hücre içi
+serbest kolesterol birikimi vardır.25 Tip C Niemann-Pick
+Hastalığı’nda fibroblastlarda esterleşmemiş kolesterolün
+perinüklear birikimi gözlenir. Hepatositler ve kuppfer
+hücreleri köpüklü sitoplazmalarından dolayı genişle-
+miştir. Retinal ganglion ve purkinje hücreleri depo ma-
+teryalinden dolayı soluk, köpüklü sitoplazmalı ve
+çekirdekleri yer değiştirmiş durumda görülür.3,23,25
+Tip C Neimann-Pick’de beyaz ve gri maddede özel-
+likle serebellumun dorsalindeki nükleolus, Purkinje
+hücrelerinin aksonlarında aksonal sferoid formasyon
+dikkati çeker.3,23
+C. Glikogenozlar
+Tip II Glikojen Depo Hastalığı (Pompe Hastalığı)
+Glikojen bütün hücrelerde belli bir miktarda bulu-
+nur. Enzim eksikliği ya da glikojen transportundaki hata
+sonucu hücrelerde glikojen birikimi görülür. Sadece Tip
+II glikojen depo hastalığı intralizozomal birikim göste-
+rir. İnsanlarda bu hastalık Pompe hastalığı ( infantil asit
+maltaz hastalığı) olarak isimlendirilmiştir.3 Yavaş ilerli-
+yen ilerliyeci daha geç dekatlarda görülen maltaz eksik-
+liği tipi de mevcuttur. Tip II glikojen depo hastalığı,
+ölümcül kas bozuklukları (hipertrofik kardiyomiyopati)
+ile karakterizedir.3,20-22 Glikojen katabolizmasındaki çok
+sayıda enzimden sadece alfa–1,4– glukosidaz’ın yetersiz-
+liği (acid alpha-glucosidase acid maltase) sonucu şekille-
+nen otozomal resesif kalıtımlı bir LDH’dır.3,20
+Makroskobik olarak iskelet kasları solgun karaci-
+ğerde büyüme, kalpte dilatasyon ve hipertrofi önemli
+bulgulardır.3,4,20-23
+Histopatolojik bulgularda beyinin büyük nöronla-
+rında ve medulla spinalisin ventral kornularında yaygın
+fakat farklı şiddetlerde intrasitoplazmik depolanma gö-
+rülür. Bu materyal Best’s carmine ve PAS boyaları ile po-
+zitif boyanır. Bu vakuoller ayrıca glia hücre sitoplazması,
+ependimal hücre, koroid pleksus epitelyum hücreleri ve
+arteriyel kan damarlarında görülür.17 PAS reaksiyonu
+karbonhidratlar için belirleyicidir. Parafin emdirilmiş do-
+kularda materyal pozitif boyama verir. Glikojen, PAS bo-
+yası ile oldukça spesifik boyanmaktadır. Bu nedenle Tip
+II glikojen depo hastalığının tespitinde yardımcı olur.17
+Tedavide Recombinant human enzyme alpha-glucosidase
+(rhGAA) ERT uygulanmasından yararlanılmaktadır.22
+D. Mukopolisakkaridozlar (MPS)
+Mukopolisakkaridozlarda mezodermal kökenli hücreler
+(bu hücrelerin çoğu bağ dokusu hücreleridir) en fazla et-
+kilenir. Çünkü mukopolisakkaridler bu dokularda aktif
+görev alırlar. Bu yüzden de başlıca iskelet ve bağdokuda
+değişiklikler meydana gelir.3,4
+Mukopolisakkaridler, karbonhidrat bakımından
+zengin protein bakımından ise fakirdirler.3 Bu yapıya
+sülfat iyonu katıldığında meydana gelen kondroitin sül-
+fat, dermatan sülfat, heparan sülfat ve keratan sülfat spe-
+sifik enzimlerin eksikliği sonucu intralizozomal birikim
+gösterir.3,17 Dermatan sülfat, heparan sülfat ve keratan
+sülfat mukopolisakkaridoz patogenizine katılan temel
+GAG’lardır.
+Hücre yüzeyi, hücre içi ve hücre dışı olmak üzere
+üç çeşit proteoglikan vardır. Proteoglikanların
+çoğu
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+78
+hücre dışı yerleşim gösterir.3,4 Fibrilogenesisin düzenlen-
+mesi, hücrelerin birbirini tanıması, suyun bağlanması ve
+hücre permeabilitesinde önemli roller üstlenmişlerdir.3,4
+Keratan ve dermatan sülfat iskelet dokusunda ol-
+dukça yüksek düzeyde bulunur. Yüz ve iskelet deformi-
+teleri yani disostosis multipleks ( kıkırdak ve kemikte
+şiddetli deformasyon) mukopolisakkaridozlar için tanıtıcı
+bulgulardır.3,4,17 Dejeneratif eklem hastalıkları, korneal
+bulanıklık ve kalp kapaklarının kalınlaşması gibi bozuk-
+luklar hastalığın genel özelliklerini oluşturur.33-36
+Eksik enzim veya enzimler, MPS I α-ıduronidaz,
+MPS II iduronat sülfataz, MPS III heparan-N-sülfataz ve
+α-N-glukosaminidaz, MPS IV galaktoz ve 4-sülfataz,
+MPS VI arilsülfataz, MPS VII ß-glukoronidazdırlar.
+Makroskobik olarak karaciğer ve dalak sert-şişmiş yapı-
+dadır. Beynin lateral ventriküllerinde genişleme ve me-
+ninkslerde opaklaşma görülür. Korneadaki bulanıklık
+mevcutdur. Mukopolisakkaridozlar da atrioventrikuler
+kapak stroması mikzomatöz görünümdedir ve fibrosit-
+lerin sitoplazmasında, trakea ve bronş kıkırdak hücrele-
+rinde, hepatosit ve kuppfer hücreleri, alveoler makrofaj,
+perifer sinir hücre sitoplazmalarında oval, içleri boş va-
+kuoller bulunmaktadır.3,33-36 Bu bulgulara ek olarak pur-
+kinje hücreleri şişkin ve vakuollü olup sayılarındaki
+azalma dikkati çeker. Motor nöronlarda granüler eozi-
+nofilik birikim ve soluk siyah–mavi inklüzyon cisimleri
+görülebilir.17
+Mukopolisakkridozlarda göz, direkt etkilenen or-
+ganlar arasındadır. Histopatolojik incelemelerde korneal
+fibroblast, optik sinir, iris, sklera ve oküler kas hücrele-
+rin sitoplazmalarında çeşitli boyutlarda vakuoller içer-
+mektedir.1-4,17,33-36
+Mukopolisakkaridozlarda klinik belirtiler ve bul-
+gular3,4,17,33-36
+Mukopolisakkaridlerin parçalanmasında bozukluk
+olur. Lizozomal MPS birikimleri olur. Dokularda biri-
+ken MPS’ler dermatan sülfat,heparan sülfat,keratan sül-
+fat,kondroitin 
+sülfatdır. 
+Mukopolisakkaridozlarda
+karaciğer, dalak, kemik, kemik iliği, böbrekler, beyin ve
+periferik sinirler, kalp, kas ve eklemler, yüz/gözler etki-
+lenir (çirkin çocuk görünümü). Mukopolisakkaridozlar
+denen hastalık tabloları ortaya çıkar. Çok çeşitli tipte
+mukopolisakkaridozlar tanımlanmıştır.
+Mukopolisakkaridozlar, otozomal resessif veya
+sekse bağlı resesif olarak katılırlar. Hücrelerde, ilgili gli-
+kozaminoglikanların ya kendileri ya da metabolik par-
+çalanma ürünleri birikir ve sonuçta iskelet sisteminde
+şekil bozuklukarı, fizik ve mental gelişme geriliği, hepo-
+tomegali, kalp yetmezliği, işitme ve görme bozuklukları,
+kronik akciğer infeksiyonları gibi bozukluklar ortaya
+çıkar. Hastaların genel özelliği “çirkin çocuk” görünüm-
+leridir. Önemli mukopolisakkaridozlar ve sebeb olan
+enzim eksiklikleri şunlardır (Tablo 2,3).
+MPS HurlerTip I-Scheie sendromu
+MPSI’in en hafif formu, fakat hafif bir hastalık
+değil.10’lu yaşlarda tanı konur. Yüzü hafif etkiler. En sık
+prezentasyon:eklem tutukluluğu ve korneal bulutlan-
+madır. Aort kapağı tutulumu sıklıkla replasman gerekti-
+rir. Korneal opasite, optik sinir kompresyonu, diğer göz
+problemleri körlüğe yol açabilir. MPS Tip I’de yaşam
+daha uzun  olup, orta yaşlara kadar yaşayabilirler.3,4,34
+MPSTip II-Hunter sendromu
+X’e bağlı olmasına rağmen bayan hastalarda da
+rapor edilmiştir. Hunter sendromu hafiften şiddetliye
+geniş bir yelpazede prezante olabilir. Şiddetli formu
+Hurler sendromununu özelliklerini taşır. Diastosis Mul-
+tiplex, mental problemler görülür. Daha hafif klinik seyir
+var. Korneal opasite yoktur.3,4
+Hunter hastalarında skapula üzerinde, üst ekstre-
+mitelerin lateralinde, baldırlarda inci gibi papülopüstü-
+ler deri lezyonları gelişebilir. Sanfilippoya benzer
+agressif hiperreaktif davranışları olan şiddetli formu da
+vardır.10 ve 20’li yaşlara kadar yaşam olabilir. Hafif
+formu Scheie sendromuna benzer. 60-70 yaşlarına kadar
+yaşam olabilir.
+MPS Tip III-Sanfilippo sendromu
+Karakteristik olarak SSS dejenerasyonu ile karakte-
+rize, kas iskelet sistemi bulguları ile prezante olabilir,
+diğer formlardan daha az yaygındır. Gelişmede 2-7 yıl
+gecikme, davranış problemleri, hiperaktivite ve agres-
+yon, uyku bozukluğu yaygındır. Fizik bulgular (yüz gö-
+rünümü, dizastosis multiplex, hepotosplenomegali ve
+herni). Hurler sendromundan daha hafiftir, tanı gecike-
+bilir. Önce kelimeleri öğrenmede gerileme, sonra motor
+fonksiyon kaybı ortaya çıkar.3,4,36
+Marateau-Lamy (Tip VI )    
+Esas olarak iskelet ve yumuşak dokuları tetikler.
+Şiddetli iskelet eklem problemleri, respiratuvar hastalık,
+kardiyak anamoliler (valvüler bozukluklar, mitral ve aort
+yetmezliği gibi, daha az sıklıkta kardiyomiyopati,endo-
+kardiyal fibroelastozis). Obstruktif   uyku apne sen-
+dromu ve pulmoner hipertansiyon yaygındır. Zeka
+genellikle normal, görme ve duyma kaybı vardır ve hid-
+rosefali gelişme geriliğine neden olabilir. Ölüm genel-
+likle 2. ve 3. dekatta görülür.  Servikal meninskler
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+79
+incelir, spinal  kanal stenozu gelşebilir. Hepatomegali,
+splenomegali görülür.1-4
+MPS Tip VII-Sly sendromu
+Klinik özellikleri
+ve komplikasyonları yumuşak
+doku ve iskelet anomalileri ile birlikte MPS I’e benzer.
+Mental retardasyon hafif veya yoktur. Hidrops fetalis ile
+doğum yaygın prezentasyon şeklidir. Hidrosefali, sinir
+basıları, korneal bulutlanma, inguinal herni, iskelet ano-
+malileri mevcuttur, yaşam 10’lu yaşlara kadar sürebilir.3,35
+MPS tip IX (Hyalurinidaz eksikliği-Natowicz sen-
+dromu)
+Son derece nadir, Hyaluronan birikiyor. İskelet tu-
+tulumu belirgin, histiyositlerin nodüler agregatlarının
+periartiküler yumuşak doku kitleleri, asetabulum eroz-
+yonu, kısa boy, diz ve kalçada ağrılı şişlik, osteoartrit
+anahtar bulgu (fare modelinde, Sinovumda makrofajların
+infiltrasyonu ile diffüz eklem tutulumu vardır.3
+Peroksizomlar  nedeniyle meydana gelen hastalıklar
+Oksidatif reaksiyonları yöneten peroksizom oksi-
+datif enzimler olan katalaz, amino asit oksidaz ve ürik
+asit oksidaz enzimlerini içerir. Katalaz enzimi hidrojen
+peroksit adındaki reaktif oksijen radikalini parçalayarak
+su ve oksijene çevirip hidrojen peroksitin zararlı etkisini
+ortadan kaldırır. Ürik oksidaz enzimi eksikliği ise ürik
+asit birikimine ve ardından gut hastalığına sebep olur.
+Peroksizomun çeşitli fonksiyonel basamaklarında olu-
+şan problemlerden dolayı bazı hastalıklar meydana gelir.
+Zellweger Sendromu, X’e bağlı Adrenolökodistrofi, Ref-
+sum Hastalığı bu hastalıklardan en çok bilinenleridir.4,12
+Tanı
+MPS lizozomal depo hastalığıdır, GAG’ların yıkım
+basamağındaki bir enzimin eksikliği ile ortaya çıkar. Kıs-
+men yıkılmış GAG’ın fragmanları lizozomlarda birikir,
+hücresel disfonksiyon ve klinik anomalilere yol açar. Fe-
+notipteki etkilenme derecesi etkilenen enzimin kalan
+miktarına bağlıdır ve bu genotiple ilişkilidir. Kaba yüz
+özellikleri, hepotosplenomegali, kemik hastalıkları (di-
+zostozis multiplex), SSS anormallikleri (olabilir-olmaya-
+bilir) 
+olanlarda 
+şüphelenilmelidir.
+Biokimyasl
+değerlendirme, üriner GAG konsantrasyonu ölçümü ile-
+dir. GAG fraksiyonları elektroforez ve kromotografi ile
+ve oligosakkaridlerin analizi ile yapılır. Kesin tanı, ge-
+nellikle periferik kan lökositlerinden enzim aktivitesi-
+nin ölçümünü gerektirir.
+Doğum öncesi (Prenatal)  tanı:
+Amniosentez :Gebe MPS hastalarında gebeliğin
+14-17. haftasında amniosentez yapılabilir. Fibroblast
+kültürlerinden ya da kuru kan spotlarında enzim akti-
+viteleri  ölçülebilir. Koryon villus biyopsisi 8-10 haftada
+yapılabilir. Plesanta içinden doku örneği alınarak çocuğa
+ait hücrelerde direkt enzim değerlendirilmesi en yaygın
+metoddur. Genetik analiz, doğumdan sonra taşıyıcılığı
+saptamak için genetik test yapılabilmektedir.1-4,37-40
+İzlem
+MPS hastaları  korneal opasite ve glokom, kapak
+hastalığı, kardiyomiyopati, cor pulmonale, kalp yeter-
+sizliği ,karpal tünel sendromu, spinal kord kompresyonu,
+kommünike hidrosefali, servikal insitabilite, vertebral
+kayma, kifoskolyoz, organomegali, obstrüktif uyku ap-
+nesi, yönünden periyodik olarak değerlendirilmelidir.
+İşitme testleri yapılmalıdır.3,4
+Lizozomal depolama bozuklukları için tedavi seçe-
+nekleri
+Şu anda, LDH‘ler için bilinen bir tedavi yoktur.
+Ancak, araştırmacılar, altta yatan nedenleri ele almak
+için semptomları tedavi etmenin ötesine geçen tedavi se-
+çeneklerine doğru ilerlemeye devam etmektedir. Günü-
+müzde kemik iliği transplantasyonu, enzim replasman
+tedavisi (ERT) ve substrat indirgeme terapisi (SRT),  bazı
+tip LDH‘leri olan hastalar için tedavi seçenekleridir.
+Bilim adamları, her türlü LDH‘li hastalara kür bulma
+umuduyla araştırma yapmaya devam etmektedir. Alglu-
+cerase injection (Ceredase), imiglucerase (Cerezyme)
+ERT tedavisi ve oral form miglustat (Zavesca) tablets
+GaucherTip I-II-III’de hastalık türlerinde kısmen yararlı
+bulunmuştur. Fabrazyme Fabry hastalığında, alglucosi-
+dase alfa (Lumizyme) Pompe hastalığında, sebelipase
+alfa (Kanuma) Wolman hastalığında etkindirler.41-47
+MPS’de spesifik tedavi ve kür sınırlıdır. Destekle-
+yici tedavi ve deneysel tedavi modaliteleri var. İşitme
+kaybı MPS’li hastaların yaklaşık %70’inde ortaya çıkar.
+Rutin odyolojik değerlendirme yaşam kalitesi için önem-
+lidir. Eklem haraket açıklığının korunması:evde düzenli
+egzersiz, gece splintleri, iş için uygun aygıtlar ve destek-
+ler yardımcıdır. Laronidaz (Aldurazyme) İnsan enzim
+alfa-L- iduronidaz’ın varyantıdır. Rekombinan DNA tek-
+niğiyle üretilir.  MPS I’da (Hurler ve Hurler-Schei form-
+ları) endikedir.3,4,41,47 GAG’ın metabolizmasını artırır.
+Yürüme kapasitesi ve pulmoner fonksiyonlar üzerlerine
+olumlu etkisi görülmüştür. İduasulfaz: lizozomal enzim
+olan insan iduronat -2- sulfatazın pürifiye formudur.
+MPS Tip II’de kullanılır.
+Ekosulfaz-alfa: FDA tarafından şubat 2014’de Mor-
+quio A sendromunda (MPS Tip IVA) onaylanmıştır.3,4
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+80
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+81
+Kemik iliği transplantasyonu/KİT): Özellikle Hur-
+ler sendromunda başarılıdır. KİT ile tedavi edilen ço-
+cukların yaşam süreleri daha uzundur.
+Tedavi
+edilmeyenler kardiyorespiratuvar nedenlerle yaşamın ilk
+dekadında genellikle kaybedilir. Bununla birlikte kas-is-
+kelet bulguları (diastozis multiplex) KİT ile düzel-
+mez..1980-2003 yılına kadar riskli olmasına rağmen tek
+tedavi olarak uygulanmıştır. Gelişimsel bozukluk başla-
+madan uygulanırsa zeka gelişimi ve diğer fonksiyonlar
+büyük ölçüde korunabilmektedir. Korneada bulut-
+lanma, kalp kapak anomalileri, iskelet bozuklukları daha
+dirençlidir. 2003 yılından itibaren enzim replasman te-
+davisi (ERT)’ye yönelik ilaçlar piyasada yerini almıştır.
+Enzim tedavisi haftalık infuzyonlar şeklinde uygulan-
+maktadır. Akciğer ve iskelet semptomlarında belirgin
+iyileşmeye yol açmıştır. Tedaviye erken başlanması has-
+talığın ilerlemesini yavaşlatır, bununla birlikte sinir sis-
+teminde oluşan bozukluklara karşı etkili değildir.
+Özellikle yaşamın ilk 6 ayında tedavi başlananlarda so-
+nuçlar daha iyidir. Hem kemik iliği nakli hem ERT’nin
+erken dönemde başlaması önemlidir. İki yöntemde has-
+talığın seyrini olumlu etkiliyen tedavilerdir. Gen ve çe-
+şitli kök hücre tedavileri üzerine araştırmalar devam
+etmektedir.3,4,41-48
+1.
+Online mendelian Inheritance in Man (OMIM)
+edited by Dr. Victor A. McKusick et al. Online
+Mendelian Inheritance in Man. Available at
+http://www.ncbi.nlm.nih.gov/sites/entrez?db=o
+mim. Accessed:July 25,2008.
+2.
+Genetest.org a multi author site sponsored by
+NIH. 
+genetests.org. 
+Available 
+at
+www.genetests.org. Accessed: July 25, 2008.
+3.
+Kruer MC, Kao A. Lysosomal Storage Dis-
+ease. 
+emedicine.medscape.com/article/
+1182830-overview(Updated: Dec 09, 2015 ).
+4.
+Platt FM, Boland B, van der Spoel AC. Lyso-
+somal storage disorders: The cellular impact
+of lysosomal dysfunction. J Cell Biol
+2012;199(5): 723-34.
+5.
+de Duve C. Lysosomes, a new group of cyto-
+plasmic particles. In: Hayashi T, ed. Subcellu-
+lar Particles. Ronald Press Co, New York,
+USA. 1959:128-59. 
+6.
+Bampton ET, Goemans CG, Niranjan D,
+Mizushima N, Tolkovsky AM. The dynamics of
+autophagy visualized in live cells: from au-
+tophagosome formation to fusion with
+endo/lysosomes. Autophagy. 2005;1:23-36.
+7.
+Sardiello M, Palmieri M, di Ronza A, Medina
+DL, Valenza M, Gennarino VA, et al. A gene
+network regulating lysosomal biogenesis and
+function. Science 2009;325:473-7.
+8.
+Palmieri M, Impey S, Kang H, di Ronza A,
+Pelz C, Sardiello M, et al. Characterization of
+the CLEAR network reveals an integrated con-
+trol of cellular clearance pathways. Hum Mol
+Genet 2011;20:3852-66.
+9.
+Orsi A, Polson HE, Tooze SA. Membrane traf-
+ficking events that partake in autophagy. Curr
+Opin Cell Biol 2010;22:150-6.
+10. Prinetti A, Prioni S, Chiricozzi E, Schuchman
+EH, Chigorno V, Sonnino S. Secondary alter-
+ations of sphingolipid metabolism in lysosomal
+storage diseases. Neurochem Res 2011;36:
+1654-68.
+11. Kopitz J, Arnold A, Meissner T, Cantz M. Pro-
+tein catabolism in fibroblasts cultured from pa-
+tients with mucolipidosis II and other
+lysosomal disorders. Biochem J 1993;295:
+577-80.
+12. Schedin S, Sindelar PJ, Pentchev P, Brunk U,
+Dallner G. Peroxisomal impairment in Nie-
+mann-Pick type C disease. J Biol Chem
+1997;272:6245-51.
+13. Raben N, Shea L, Hill V, Plotz P. Monitoring
+autophagy in lysosomal storage disorders.
+Methods Enzymol 2009;453:417-49.
+14. Aqul A, Liu B, Ramirez CM, Pieper AA, Estill
+SJ, Burns DK, et al. Unesterified cholesterol
+accumulation in late endosomes/lysosomes
+causes neurodegeneration and is prevented
+by driving cholesterol export from this com-
+partment. J Neurosci 2011;31:9404-13.
+15. Meikle PJ, Hopwood JJ, Clague AE, Carey
+WF. Prevalence of lysosomal storage disor-
+ders. JAMA 1999;281(3):249-54.
+16. Walkley SU. Cellular Pathology of Lysosomal
+Storage Disorders. Brain Pathology 1998;8:
+175-93.
+17. Dinçel GÇ, Kul O. Evcil hayvanların lizozomal
+depo hastalıklarında patogenez ve patolojik
+bulgular.Gümüşhane Üniversitesi Sağlık Bil-
+imleri Dergisi / Gümüşhane University Journal
+of Health Sciences 2015;4(4):614-37.
+18. Futerman AH, Meer GV. The Cell Biology Of
+Lysosomal Storage Disorders. Nat Rev Mol
+Cell Biol 2004;5(7):554-65.
+19. Schwake M, Schröder B, Saftig P. Lysosomal
+Membrane Proteins And Their Central Role İn
+Physiology. Traffic 2013;14(7):739-48.
+20. Bodamer OA, Dajnoki A. Diagnosing lysoso-
+mal storage disorders: Pompe disease. Curr
+Protoc Hum Genet. 2012 Oct. Chapter
+17:Unit17.11. [Medline].
+21. Marsden D. Infantile onset Pompe disease: a
+report of physician narratives from an epi-
+demiologic study. Genet Med 2005;7(2):147-
+50.
+22. Ravaglia S, Danesino C, Pichiecchio A,
+Repetto A, Poloni GU, Rossi M, et al. Enzyme
+replacement therapy in severe adult-onset
+glycogen storage disease type II. Adv Ther
+2008;25(8):820-9.
+23. Trilck M, Hübner R, Seibler P, Klein C, Rolfs A,
+Frech MJ. Niemann-Pick type C1 patient-spe-
+cific induced pluripotent stem cells display dis-
+ease specific hallmarks. Orphanet J Rare Dis
+2013;8(1):144.
+24. Lan MY, Lin SJ, Chen YF, Peng CH, Liu YF.
+A novel missense mutation of the SMPD1
+gene in a Taiwanese patient with type B Nie-
+mann-Pick disease. Ann Hematol 2009;88:
+695-7.
+25. Pacheco CD, Lieberman AP. The pathogene-
+sis of Niemann-Pick type C disease: a role for
+autophagy? 
+Expert 
+Rev 
+Mol 
+Med
+2008;10:e26.
+26. Ghosh P, Dahms NM, Kornfeld S. Mannose
+6-phosphate receptors: new twists in the tale.
+Nat Rev Mol Cell Biol 2003;4(3):202-12.
+27. Sun H, Wolfe JH. Recent progress in lysoso-
+mal alpha-mannosidase and its deficiency.
+Exp Mol Med 2001;33(1):1-7.
+28. Labauge P, Renard D, Castelnovo G,
+Sabourdy F, de Champfleur N, Levade T.
+Beta-mannosidosis: a new cause of spin-
+ocerebellar ataxia. Clin Neurol Neurosurg
+2009;111(1):109-10.
+29. Duffner PK, Jalal K, Carter RL. The Hunter''s
+Hope Krabbe family database. Pediatr Neurol
+2009;1:13-8.
+30. Orsini JJ, Morrissey MA, Slavin LN, Wojcik M,
+Biski C, Martin M, et al. Implementation of
+newborn screening for Krabbe disease: popu-
+lation study and cutoffdetermination. Clin
+Biochem 2009;42(9):877-84.
+KAYNAKLAR
+Nazmi Gültekin ve ark.
+Lizozomal Depo Hastalıkları, Mukopolisakkaridozlar ve Kardiyak Yapısal Tutulumlara Genel Bir Bakış
+82
+31. Kanzaki T. [Schindler disease/Kanzaki dis-
+ease]. Nippon Rinsho 1995; 53(12):2982-7.
+32. Kleta R, Aughton DJ, Rivkin MJ, Huizing M,
+Strovel E, Anikster Y, et al. Biochemical and
+molecular analyses of infantile free sialic acid
+storage disease in North American children.
+Am J Med Genet 2003;120A:28-33.
+33. Lin HY, Lin SP, Chuang CK, Niu DM, Chen
+MR, Tsai FJ, et al. Incidence of the mu-
+copolysaccharidoses in Taiwan, 1984-2004.
+Am J Med Genet A 2009;149A :960-4. 
+34. Moore D, Connock MJ, Wraith E, Lavery C.
+The prevalence of and survival in Mu-
+copolysaccharidosis I: Hurler, Hurler-54:
+Scheie and Scheie syndromes in the UK. Or-
+phanet J Rare Dis 2008;3:24.
+35. Nampoothiri S, Kappanayil M, Hiran KR,
+Sunitha V. Sly Disease: Mucopolysaccharido-
+sis Type VII. Indian Pediatr 2008;45:859-61.
+36. Ohmi K, Kudo LC, Ryazantsev S, Zhao HZ,
+Karsten SL, Neufeld EF. Sanfilippo syndrome
+type B, a lysosomal storage disease, is also
+autopathy. Proc Natl Acad Sci USA.
+2009;106(20):8332-7.
+37. Millington DS. Rapid and effective screening
+for lysosomal storage disease: how close are
+we?. Clin Chem. 2008;10:1592-4.
+38. Parkinson-Lawrence E, Fuller M, Hopwood JJ,
+Meikle PJ, Brooks DA. Immunochemistry of
+lysosomal storage disorders. Clin Chem
+2006;52(9):1660-8.
+39. Vazna A, Beesley C, Berna L, Stolnaja L,
+Myskova H, Bouckova M, et al. Mu-
+copolysaccharidosis type I in 21 Czech and
+Slovak patients: mutation analysis suggests
+afunctional importance of C-terminus of the
+IDUA protein. Am J Med Genet A
+2009;149A(5):965-74.
+40. Yeung HH. What's your diagnosis? Mucolipi-
+dosis IV (Berman syndrome). J Pediatr Oph-
+thalmol Strabismus 2009;46(3):137-77.
+41. Muenzer J, Wraith JE, Clarke LA; International
+Consensus Panel on Management and Treat-
+ment of Mucopolysaccharidosis I. Mu-
+copolysaccharidosis I: management and
+treatment 
+guidelines. 
+Pediatrics 
+2009
+;123(1):19-29.
+42. Merk T, Wibmer T, Schumann C, Krüger S.
+Glycogen storage disease type II (Pompe
+disease)--influence of enzyme replacement
+therapy inadults. Eur J Neurol 2009;16(2):
+274-7.
+43. Buja LM. Evaluation of recombinant alpha-
+galactosidase A therapy for amelioration of the
+cardiovascular manifestations of Fabry dis-
+ease: an important role for endomyocardial
+biopsy. Circulation 2009;119:2539-41.
+44. Burton BK, Balwani M, Feillet F, Barić I, Bur-
+row TA, Camarena Grande C, et al. A Phase
+3 Trial of Sebelipase Alfa in Lysosomal Acid
+Lipase Deficiency. N Engl J Med. 2015;373
+(11):1010-20.
+45. Krivit W, Peters C, Dusenbery K, Ben-Yoseph
+Y, Ramsay NK, Wagner JE, et al. Wolman dis-
+ease successfully treated by bone marrow
+transplantation. Bone Marrow Transplant
+2000;26(5):567-70.
+46. Aronovich EL, Hackett PB. Lysosomal storage
+disease: gene therapy on both sides of the
+blood-brain barrier. Mol Genet Metab
+2015;114(2):83-93.
+47. Wynn RF, Mercer J, Page J, Carr TF, Jones S,
+Wraith JE. Use of enzyme replacement ther-
+apy (Laronidase) before hematopoietic stem
+cell transplantationfor mucopolysaccharidosis
+I: experience in 18 patients. J Pediatr
+2009;154(1):135-9.
+48. Vergarajauregui S, Puertollano R. Mucolipi-
+dosis type IV: the importance of functional
+lysosomes for efficient autophagy. Autophagy
+2008;6:832-4.

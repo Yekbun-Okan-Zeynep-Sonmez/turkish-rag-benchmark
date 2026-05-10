@@ -1,0 +1,1121 @@
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+698
+Kardiyovasküler Hastalıklarda Antropometrik Ölçümler ve 
+Vücut Bileşimi Analizi ile Risk Değerlendirmesi:  
+Geleneksel Derleme 
+Risk Assessment by Anthropometric Measurements and  
+Body Composition Analysis in Cardiovascular Diseases:  
+A Traditional Review 
+     Kezban ŞAHİNa,     Eda KÖKSALb 
+aBandırma Onyedi Eylül Üniversitesi Sağlık Bilimleri Fakültesi, Beslenme ve Diyetetik Bölümü, Balıkesir, Türkiye 
+bGazi Üniversitesi Sağlık Bilimleri Fakültesi, Beslenme ve Diyetetik Bölümü, Ankara, Türkiye
+ÖZET Kardiyovasküler hastalıklar, kalp ve kan damarlarının patolojisi 
+olup, dünya çapında primer ölüm nedenidir. Her yıl yaklaşık 17,9 mil-
+yon insanın kardiyovasküler hastalıklar nedeniyle yaşamını kaybettiği 
+bilinmektedir. Kardiyovasküler hastalıkların büyük bir çoğunluğunun 
+obezite, hipertansiyon, sedanter yaşam tarzı, sigara kullanımı gibi de-
+ğiştirilebilir risk faktörlerine müdahale edilerek önlenebilmesi, erken 
+teşhis ve tedavinin önemini artırmaktadır. Özellikle beslenme ve bes-
+lenme ile ilişkili faktörler kardiyovasküler hastalıkların hem önlenme-
+sinde hem de tedavisinde kilit rol oynamaktadır. Adipozitenin artışı, 
+inflamasyon ve oksidatif stresi artırarak kardiyovasküler hastalık geli-
+şimine neden olmaktadır. Bu nedenle çeşitli otoriteler klinik uygula-
+mada, adipozitenin değerlendirilmesinin kardiyovasküler hastalık 
+riskinin belirlenebilmesi açısından gerekliliğini vurgulamaktadır. An-
+tropometrik ölçümlerin ve laboratuvar yöntemlerinin bu amaçla kulla-
+nılması riskin değerlendirilmesinde prognostik bilgi sağlayabilir ve 
+primer korumada önemli olabilir. Bu çalışmanın amacı, kardiyovaskü-
+ler hastalıklarda ve risk değerlendirmesinde kullanılan antropometrik 
+ölçümlerin (bel çevresi, uyluk çevresi, baldır çevresi, boyun çevresi, 
+bel/boy oranı, bel/kalça oranı, bel/uyluk oranı, sagittal abdominal çap 
+ve transvers abdominal çap, deri kıvrım kalınlıkları), laboratuvar yön-
+temlerin (hava deplasmanlı piletismografi, hidrodansitometri, bilgisa-
+yarlı tomografi, manyetik rezonans görüntüleme, biyoelektrik impedans 
+analizi, dual enerji X-ray absorbsiyometri, biyoelektrik impedans vek-
+tör analizi) ve geliştirilen indekslerin (beden kütle indeksi, beden şekil 
+indeksi, visseral adipozite indeksi, vücut adipozite indeksi, lipid birikim 
+ürünü, koniklik indeksi, vücut yuvarlaklık indeksi, işaret parmağı/yüzük 
+parmağı uzunluğu oranı gibi) açıklanarak güncel araştırmalar doğrul-
+tusunda karşılaştırılmasıdır. 
+ 
+Anah tar Ke li me ler: Kardiyovasküler hastalıklar;  
+                 kardiyometabolik risk faktörleri;  
+                 antropometri; vücut bileşimi; adipozite 
+ABS TRACT Cardiovascular diseases are pathologies of the heart and 
+blood vessels and are the primary cause of death worldwide. It is known 
+that approximately 17.9 million people die each year due to cardiovas-
+cular diseases. The fact that the majority of cardiovascular diseases can 
+be prevented by intervening with modifiable risk factors such as obe-
+sity, hypertension, sedentary lifestyle, and smoking increases the im-
+portance of early diagnosis and treatment. In particular, nutrition and 
+nutrition-related factors play a key role in both the prevention and treat-
+ment of cardiovascular diseases. The increase in adiposity causes the 
+development of cardiovascular disease by increasing inflammation and 
+oxidative stress. Various authorities emphasize the necessity of evalu-
+ating adiposity in clinical practice to determine the risk of cardiovas-
+cular disease. The use of anthropometric measurements and laboratory 
+methods for this purpose can provide prognostic information in risk as-
+sessment and is important in primary prevention. This study aims to 
+explain anthropometric measurements (waist circumference, thigh cir-
+cumference, calf circumference, neck circumference, waist-to-height 
+ratio, waist-to-hip ratio, waist-to-thigh ratio, sagittal abdominal diam-
+eter and transverse abdominal diameter, skinfold thicknesses), labora-
+tory methods (air displacement plethysmography, hydrodensitometry, 
+computed tomography, magnetic resonance imaging, bioelectrical 
+impedance analysis, dual energy X-ray absorptiometry, bioelectrical 
+impedance vector analysis) and the developed indices (body mass 
+index, body shape index, visceral adiposity index, body adiposity index, 
+lipid accumulation product, conicity index, body roundness index,  sec-
+ond-to-fourth digit ratio etc.) used in cardiovascular diseases and risk 
+assessment, and compare them in line with current research. 
+ 
+ 
+Keywords: Cardiovascular diseases;  
+  cardio metabolic risk factors;  
+  anthropometry; body composition; adiposity
+DERLEME   REVIEW
+DOI: 10.5336/healthsci.2023-98578
+Correspondence: Kezban ŞAHİN 
+Bandırma Onyedi Eylül Üniversitesi Sağlık Bilimleri Fakültesi, Beslenme ve Diyetetik Bölümü, Balıkesir, Türkiye 
+E-mail: ksahin@bandirma.edu.tr 
+ 
+Peer review under responsibility of Turkiye Klinikleri Journal of Health Sciences. 
+ 
+Re ce i ved: 21 Jun 2023          Received in revised form: 17 Aug 2023         Ac cep ted: 12 Sep 2023          Available online: 28 Sep 2023 
+ 
+2536-4391 / Copyright © 2023 by Türkiye Klinikleri. This is an open 
+access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Türkiye Klinikleri Sağlık Bilimleri Dergisi 
+Turkiye Klinikleri Journal of Health Sciences
+Kardiyovasküler hastalıklar (KVH) dünya ça-
+pındaki tüm nedenlere bağlı mortalitenin yaklaşık 
+%32,0’ından sorumludur ve her yıl yaklaşık 17,9 
+milyon insan bu nedenle yaşamını kaybetmektedir.1 
+Yaş, cinsiyet, sosyoekonomik düzey, küreselleşme 
+KVH’nin değiştirilemez risk faktörleri iken obezite, 
+metabolik sendrom, hipertansiyon, diyabet, sedanter 
+yaşam tarzı, sağlıksız beslenme ve sigara kullanımı 
+değiştirilebilir risk faktörleridir.2 
+KVH’nin büyük bir çoğunluğu değiştirilebilir 
+risk faktörlerine müdahale edilerek önlenebilmekte-
+dir. Bu nedenle erken teşhis ve tedavi önemli role sa-
+hiptir.2 Özellikle obezite; inflamasyon, insülin direnci 
+ve oksidatif stres gibi çeşitli mekanizmalar aracılı-
+ğıyla KVH gelişimine neden olabilmektedir.3 Koro-
+ner kalp hastalıkları riskinin hesaplanması amacıyla 
+birçok farklı algoritma geliştirilmiştir. Framingham 
+risk skoru, Sistemik Koroner Risk Tahmini [Syste-
+matic Coronary Risk Evaluation (SCORE)] risk sis-
+temi bu algoritmalara örnek olarak verilebilir.4,5 
+Amerikan Kalp Derneği [American Heart As-
+sociation (AHA)], yayımladığı raporda özellikle 
+vücut yağ kaybının KVH’de iyileşme ile ilişkili ol-
+duğunu ancak vücut ağırlığı kaybı müdahaleleri uy-
+gulanmadan önce bireylerin mutlaka adipozite ile 
+ilişkili riskleri açısından değerlendirilmesi gerekti-
+ğini bildirmiştir.6 
+Klinik uygulamada adipozitenin değerlendiril-
+mesinin KVH açısından önemi göz önünde bulun-
+durularak bu çalışmada, KVH’de ve risk değerlen- 
+dirmesinde kullanılan antropometrik ölçümler, la-
+boratuvar yöntemler ve geliştirilen indeksler ince-
+lenmiştir. 
+ KVH’DE VE RisK DEğERLENDiRMEsiNDE 
+KuLLaNILaN aNTROpOMETRiK ÖLçüMLER 
+KVH’de ve risk değerlendirmesinde toplam vücut ya-
+ğını, vücut yağ dağılımını, vücut bileşimini değer-
+lendiren antropometrik ölçümler, antropometrik 
+indeksler ve laboratuvar yöntemler kullanılabilmek-
+tedir.6 
+BEL çEVREsi  
+Abdominal subkütan ve viseral yağ dokusu metabo-
+lik homeostaz üzerinde farklı etkilere sahiptir ancak 
+oranlarının yüksek olması ve dağılımları kardiyome-
+tabolik hastalıklar açısından önemli risk faktörüdür. 
+Bel çevresi vücut yağ dağılımının değerlendirilme-
+sinde kullanılan bir antropometrik ölçümdür.7 Bel 
+çevresi ölçümü; Frankfort düzleminde, birkaç ardışık 
+doğal nefesinden ardından, son palpe edilebilir en alt 
+kaburga kemiği ile iliyak krest arasındaki orta nokta-
+dan yapılmaktadır. Kafkas popülasyonu için bel çev-
+resinin kadınlarda ≥80 cm, erkeklerde ≥94 cm olması 
+metabolik komplikasyon açısından risk grubunu ifade 
+ederken kadınlarda ≥88 cm, erkeklerde ≥102 cm ol-
+ması yüksek risk grubunu ifade etmektedir.8 Abdo-
+minal adipozite, proinflamatuar sitokin düzeyinin 
+artmasına neden olmakta ve bu durum artan KVH 
+riski ile ilişkilendirilmektedir.9 Çin’de yapılan bir 
+araştırmada; bel çevresinin, kardiyometabolik risk 
+faktörü olan anormal kan basıncı için her iki cinsi-
+yette de en güçlü prediktör olduğu saptanmıştır. Ek ola-
+rak bel çevresi, kadınlarda dislipidemiyi öngören en 
+güçlü antropometrik ölçümdür.10 Yapılan başka bir ça-
+lışmada ise bel çevresi, bel/boy oranı gibi abdominal 
+obezite ölçümlerinin beden kütle indeksinden (BKİ) ba-
+ğımsız olarak KVH’ye bağlı mortalite riskini daha iyi 
+öngördüğü saptanmıştır.9 İran’da yapılan bir kohort ça-
+lışmasında ölümcül olan ve olmayan KVH’de antro-
+pometrik ölçümler karşılaştırılmış ve bel çevresinin 
+KVH’nin iyi bir prediktörü olduğu bildirilmiştir.3 Farklı 
+bir çalışmada, bel çevresi ile belirlenen santral obezite 
+varlığının erkeklerde daha belirgin bir risk faktörü ola-
+rak değerlendirilebileceği ancak bu durumun etnik kö-
+kene bağlı olduğu belirtilmiştir. Bununla birlikte bel 
+çevresinin subkütan ve viseral yağ birikimini ayırt ede-
+memesi önemli bir sınırlılığıdır.11 
+uYLuK çEVREsi 
+Uyluk çevresi ölçümü, bireylerin ağırlığının çoğu sol 
+bacağında, sağ bacağı önde, diz hafifçe fleksiyonda 
+ve ayak tabanları yerde düz olacak şekilde standart 
+pozisyonda iken alınmaktadır.6 Danimarka kohor-
+tunda 1.436 erkek ve 1.380 kadın ile yapılan bir araş-
+tırmada, 35-65 yaş grubundaki bireylerin uyluk 
+çevresi, kalp hastalıkları riski ve prematür mortalite 
+oranları değerlendirilmiştir. Hem erkek hem de ka-
+dınlarda düşük uyluk çevresi, artmış kardiyovasküler 
+ve koroner kalp hastalıkları riski ile ilişkilendirilmiş-
+tir. Ancak belirlenen referans değerin üzerindeki 
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+699
+uyluk çevresi değerinin koruyucu etki göstermediği 
+bildirilmiştir.12 Yapılan başka bir çalışmada, uyluk 
+çevresinin her iki cinsiyette de KVH ve tüm neden-
+lere bağlı mortalite ile ilişkili olduğu sonucuna varıl-
+mıştır.13 
+BaLDIR çEVREsi 
+Baldır çevresi, imkânların sınırlı olduğu klinik or-
+tamlarda iskelet kas kütlesinin bir göstergesi olarak 
+kullanılabilmektedir. Birey oturur pozisyondayken 
+sağ baldırdan ölçüm alınır ve ölçüm bandı, baldırın 
+uzun eksenine dik bir düzlemde maksimum çevre be-
+lirlenene kadar baldırın uzunluğu boyunca hareket et-
+tirilir.14 
+Amerika’da yapılan bir çalışmada; baldır çev-
+resinin 1/3’lük dilimleri arasında BKİ değerleri ve 
+KVH oranları açısından anlamlı farklılık olduğu 
+saptanmıştır. Otuz bir cm ve üzerinde baldır çev-
+resi değeri, daha yüksek sağkalım oranı ile ilişki-
+lendirilmiştir. Ayrıca baldır çevresindeki bir 
+birimlik artış, KVH’ye bağlı mortalite riskini er-
+keklerde %6,0, kadınlarda ise %10,0 oranında 
+azaltmıştır.13 Bununla birlikte AHA; uyluk çevresi, 
+baldır çevresi gibi alt vücut bileşimini değerlendi-
+ren çevre ölçümlerinin bel çevresi ile kombine kul-
+lanılmasının daha güçlü sonuçlar verebileceğini 
+rapor etmiştir.6 
+BOYuN çEVREsi 
+Boyun çevresi ölçümü, KVH’de risk değerlendiril-
+mesinde kullanılan bir diğer antropometrik yöntem-
+dir. Laringeal çıkıntının hemen altından ölçülen 
+boyun çevresinin erkeklerde 37 cm üzeri, kadınlarda 
+ise 34 cm üzerinde olmasında risk kabul edilmekte-
+dir.15 Dülek ve ark., Framingham risk skoruna göre 
+KVH riski düşük ve yüksek olan gruplar arasında 
+boyun çevresi açısından anlamlı farklılık saptanma-
+dığını ancak Havuzlanmış Kohort Risk Değerlen-
+dirme Denklemi [Pooled Cohort Risk Assesment 
+Equations (PCRAE)] risk skoruna göre anlamlı fark-
+lılık olduğunu bildirmiştir.16 Yapılan başka bir araş-
+tırmada da benzer sonuçlara ulaşılmış ve SCORE risk 
+modeli ile yalnızca boyun çevresinin güçlü bir şekilde 
+ilişkili olduğu rapor edilmiştir. Ek olarak boyun çev-
+resinin klinik uygulamada KVH riskini tahmin etmek 
+için kullanılabileceği belirtilmiştir.4 
+BEL/BOY, BEL/KaLça VE BEL/uYLuK ORaNLaRI 
+Bel/kalça oranı ve bel/boy oranı özellikle abdominal 
+yağ dağılımının değerlendirilmesinde kullanılan yön-
+temlerdir. Bel/kalça oranının erkeklerde ≥0,90 kadın-
+larda ≥0,85 olması yüksek metabolik komplikasyon 
+riskini ifade etmektedir.8 Bel/boy oranının ise yaş gru-
+buna, etnik kökene ve cinsiyete bakılmaksızın ≥0,5 
+olması metabolik riski ifade etmektedir.17 Yapılan 
+araştırmalarda, kardiyovasküler hastalığı olan birey-
+lerin bel/boy oranı ve bel/kalça oranının, olmayan bi-
+reylere göre anlamlı derecede daha yüksek çıktığı 
+bildirilmiştir.3,18 Yapılan başka bir araştırmada, KVH 
+riski düşük ve yüksek olan gruplar arasında bel/kalça 
+oranında anlamlı farklılık saptanmıştır.16 Ancak 
+bel/kalça oranı santral adipoziteyi doğru bir şekilde 
+yansıtmayabilir. Çünkü bu oranın yüksek olması, bel 
+çevresinin yüksek olmasının yanı sıra düşük kalça 
+çevresini de gösterebilir.19 Ayrıca vücut yağ oranının 
+artması ile bel/kalça oranının viseral adipoziteyi de-
+ğerlendirmedeki doğruluğu azalmaktadır.20 Tür-
+kiye’de yapılan bir çalışmada, bel/boy oranı her iki 
+cinsiyette de 10 yıllık koroner kalp hastalığı insidansı 
+ile diğer yöntemlere kıyasla daha güçlü korelasyon 
+göstermiş ve bu oranın yüksek koroner kalp hastalığı 
+gelişim riskini en iyi öngören antropometrik yöntem 
+olduğu bildirilmiştir.21 Türkiye’nin de içinde bulun-
+duğu 4 ülkedeki 12 prospektif araştırmanın dâhil edil-
+diği bir çalışmada, bel/boy oranının KVH’ye bağlı 
+mortalite riskinin en güçlü prediktörü olduğu sonu-
+cuna varılmıştır.9 Çin’de yapılan bir araştırmada, 
+bel/boy oranının KVH’nin ve yüksek kan basıncı dı-
+şındaki tüm kardiyometabolik risk faktörlerinin en 
+güçlü prediktörü olduğu bildirilmiştir.10  
+KVH riskinin değerlendirilmesinde kullanılan bir 
+diğer oran ise bel/uyluk oranıdır. Amerika’da 11.137 
+erişkin birey ile yapılan bir çalışmada, erkeklerin orta-
+lama bel/uyluk oranı 1,87; kadınların 1,75 çıkmıştır. Er-
+keklerde bel/uyluk oranı ve KVH arasında doğrusal bir 
+ilişki olduğu saptanmış ve 4. çeyreklikte yer alan bi-
+reylerin ilk çeyrekliğe göre yaklaşık 2 kat daha fazla 
+KVH gelişim riskine sahip olduğu görülmüştür.22 
+sagiTTaL aBDOMiNaL çap VE  
+TRaNsVERs aBDOMiNaL çap 
+Sagittal abdominal çap, abdomen anteroposterior ça-
+pını L4-L5 lumbal vertebra seviyesinde ölçen bir an-
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+700
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+701
+tropometrik yöntemdir. Transvers abdominal çap ise 
+abdomenin en geniş açıklıklı yüksekliği olup, umbli-
+kus hizasında ölçülmektedir.7 
+Diyaliz almayan 307 kronik böbrek hastası ile 
+yapılan bir araştırmada, bireylerin sagittal abdominal 
+çapları 16,6±3,89 cm bulunmuş ve düşük KVH ris-
+kine sahip gruptaki bireylerin sagittal abdominal çap-
+ları, orta ve yüksek risk grubundan anlamlı derecede 
+daha düşük çıkmıştır. Ayrıca sagittal abdominal çap 
+ölçümü BKİ, glomerüler filtrasyon hızı, total koles-
+terol gibi parametreler ile pozitif korelasyon göster-
+miştir. Sonuç olarak diyaliz tedavisi almayan böbrek 
+hastalarında bu ölçümün KVH riskinin bir prediktörü 
+olarak kullanılabileceği bildirilmiştir.5 Çoğunluğu 
+Kafkas etnik kökenli bireyler ile yapılan 6 çalışmanın 
+dâhil ediği bir araştırmada, sagittal abdominal çap, 
+bel çevresi ve BKİ ile kardiyometabolik risk faktör-
+leri arasındaki ilişki araştırılmıştır. Sonuç olarak sa-
+gittal abdominal çapın daha fazla kardiyometabolik 
+risk faktörü ile güçlü korelasyon gösterdiği bildiril-
+miştir. Ancak kardiyometabolik risk belirteçlerini 
+tahmin etmede tek bir antropometrik yöntemin diğer 
+bir yönteme tutarlı bir şekilde üstün olmadığı bildi-
+rilmiştir.23 Aynı amaçla Tip 2 diyabet hastalarında 
+yapılan bir araştırmada, sagittal abdominal çap de-
+ğerinin her iki cinsiyette de >25 cm olması, morta-
+lite riskini 2,45 kat artırmış ve daha düşük sağkalım 
+ile ilişkilendirilmiştir.19 Sagittal abdominal çapın vi-
+seral yağ miktarı ile yüksek oranda korelasyon gös-
+termesi önemli bir avantajıdır. Bununla birlikte özel 
+bir alet gerektirmesi (abdominal kaliper, sagito-
+metre) ve ölçümünün diğer yöntemlere kıyasla zor 
+olması dezavantajıdır.7 
+DERi KIVRIM KaLINLIKLaRI  
+Vücut bileşiminin tahmininde antropometrik ölçüm 
+olarak üst orta kol çevresi, uyluk çevresi gibi çevre 
+ölçümleri ile deri kıvrım kalınlıkları (DKK) kullanı-
+labilmektedir. DKK göğüs, aksilla, triseps, subska-
+pular, abdominal, suprailium ve uyluk olmak üzere 7 
+bölgeden ölçülebilmektedir.6 
+Özellikle triseps, biseps, subskapular ve suprai-
+liyak deri kıvrım kalınlığı ölçümleri vücut yoğunlu-
+ğunun ve ardından vücut yağının tahmin edilmesine 
+yönelik geliştirilen denklemlerde kullanılmaktadır. 
+Geliştirilen bu denklemlerin dual enerji X-ray ab-
+sorbsiyometri [Dual-energy X-ray absorptiometry 
+(DEXA)] gibi yöntemlere göre daha düşük maliyetli 
+olması bir avantaj olarak nitelendirilmektedir. KVH 
+risk faktörlerine yönelik yapılan araştırmalarda kul-
+lanılan DKK temelli vücut yağının hesaplanmasında 
+kullanılan formül Tablo 1’de gösterilmiştir.24,25 Ya-
+pılan bir araştırmada kullanılan bu formülün; BKİ ve 
+kardiyovasküler risk faktörlerinden sistolik ve dias-
+tolik kan basıncı ile anlamlı derecede ilişkili olduğu 
+bildirilmiştir.25 
+ KVH’DE VE RisK DEğERLENDiRMEsiNDE  
+KuLLaNILaN LaBORaTuVaR YÖNTEMLER 
+Hidrodansitometri (su altı ağırlık ölçümü), hava 
+deplasmanlı pletismografi, DEXA, bilgisayarlı to-
+mografi (BT), manyetik rezonans görüntüleme 
+(MRG), biyoelektrik impedans analizi (BİA) ve bi-
+yoelektrik impedans vektör analizi (BİVA) KVH’de 
+ve risk değerlendirmesinde kullanılan laboratuvar 
+yöntemlerdir.6 
+HaVa DEpLasMaNLI piLETisMOgRafi VE  
+HiDRODaNsiTOMETRi  
+Hava deplasmanlı piletismografi yöntemi ticari adı 
+ile BodPod kullanılan bir yöntemdir ve vücut bileşi-
+minin tahmininde vücut yoğunluğunu temel alır. 
+BodPod (COSMED, İtalya), kullanımı kolay olma-
+Kullanılan denklem
+Formül 
+Durnin ve Womersley (1974)
+Vücut yoğunluğu (g/cm3)=1,1599-(0,0717*log∑4 bölgeden alınan DKK (mm) 
+siri (1961)
+Vücut yağ yüzdesi=(495/vücut yoğunluğu)-450 
+sen ve Banerjee (1958)
+Vücut yağı (kg)=(vücut ağırlığı*vücut yağ yüzdesi)/100
+TABLO 1:  DKK kullanılarak hesaplanan vücut yağ yüzdesi ve miktarı denklemi.
+DKK: Deri kıvrım kalınlıkları. 
+sına rağmen oldukça pahalı bir yöntemdir.20 Yapılan 
+bir çalışmada, vücut yağ yüzdesi BİA, DEXA ve 
+BodPod aracılığıyla ölçülmüş ve KVH risk faktör-
+leri ile ilişkisi değerlendirilmiştir. Üç farklı teknikle 
+ölçülen vücut yağ yüzdesinin Asya popülasyonunda 
+KVH riskinin değerlendirilmesinde; vücut adipozite 
+indeksi [body adiposity index (BAI)], bel çevresi ve 
+bel/kalça oranından daha üstün olmadığı bildirilmiş-
+tir. Ayrıca erkeklerde viseral adipozite ölçümlerinin 
+(bel çevresi ve bel/kalça oranı); kadınlarda ise genel 
+adipozite ölçümlerinin (BAI) KVH riskini tahmin et-
+mede daha güçlü yöntemler olduğu bildirilmiştir.26 
+Hidrodansitometri veya su altı ağırlık ölçümü, 
+bir kütlenin hacminin o katı tarafından yer değiştiren 
+sıvının hacmine eşit olduğu Arşimet ilkesine dayan-
+maktadır. Vücut yoğunluğunu belirlemek için hava-
+daki ve sudaki vücut ağırlığı ölçülür.27 Daha sonra 
+akciğer hacmi belirlenerek, formül aracılığıyla he-
+saplanır (Vücut yoğunluğu: Havadaki ağırlık/ [(ha-
+vadaki ağırlık-sudaki ağırlık)/suyun yoğunluğu)- 
+(rezidüel hacim+100]).28 Vücut yağ oranı, denklem-
+ler (Vücut yağ yüzdesi: (4,570/Vücut yoğunluğu-
+4,142)*100) aracılığıyla belirlenmektedir.29 Daha 
+sonra vücut yağ kütlesi ve yağsız kütle hesaplan-
+maktadır.27 
+BT VE MRg 
+BT yöntemi ile vücudun farklı açılarından X ışınları 
+aracılığıyla yüksek çözünürlüklü görüntü elde edile-
+bilmektedir. Yağsız doku ve adipoz dokunun X ışın-
+larını geçirmedeki farkı, bu dokuları ayırmada 
+kullanılmaktadır. BT ile yapılan vücut bileşimi öl-
+çümü, genellikle vücudun belirli eksenel dilimlerinin 
+2 boyutlu analizi kullanılarak ölçülmektedir.20 Tüm 
+viseral yağ miktarını ölçmek zor olsa da BT aracılı-
+ğıyla tahmin edilen abdominal bölgedeki viseral yağ 
+alanının özellikle hipertansiyon, dislipidemi gibi kar-
+diyometabolik risk faktörleri ile ilişkili olduğu bil-
+dirilmiştir. Bununla birlikte, bu yöntem pahalıdır, 
+radyasyona maruziyeti gerektirir ve bu nedenle kli-
+nikte sık kullanım için elverişli değildir.30 MRG sis-
+temi, doku organ seviyesinde vücut bileşimini 
+değerlendirme imkânı sunmaktadır. Ancak bu gö-
+rüntüleme teknikleri için pahalı tarayıcılar, analiz ya-
+zılımı ve eğitimli teknisyenler gerektiğinden klinikte 
+bu amaçla kullanımı yaygın değildir.31 
+DEXa 
+DEXA, viseral adipoz dokuyu doğrudan ölçmek ye-
+rine toplam ve subkütan adipoz doku arasındaki 
+farkı temel almaktadır.32 DEXA, antropometrik öl-
+çümlere göre daha kesin ve güvenilir bir yöntemdir. 
+Yaşlı popülasyonda yapılan bir araştırmada, kalp 
+yetersizliği riskinin değerlendirilmesi amacıyla DE-
+XA’nın uygun olmadığı ancak BT ile ölçülen iske-
+let kas kütlesinin kalp yetersizliği ile ilişkili olduğu 
+bildirilmiştir.32 Ancak KVH’de viseral yağın değer-
+lendirilmesinde BT, MRG ve DEXA’nın klinikte 
+primer kullanım amaçları vücut bileşiminin değer-
+lendirilmesi değildir ve pahalı ekipmanlar olması 
+nedeniyle kolay bir şekilde erişimi sağlanamamak-
+tadır. Bu nedenle klinikte bel çevresi, bel/boy oranı, 
+boyun çevresi vb. antropometrik ölçümler yaygın 
+olarak kullanılmaktadır.33 
+Bia 
+BİA, alternatif akımın akışına direnç olarak tanım-
+lanan biyoelektrik impedansı kullanmaktadır. Bi-
+yoimpedans, rezistans ve reaktansı içeren bileşik bir 
+ölçüdür. Biyolojik olarak, rezistans toplam vücut 
+suyuyla [total body water (TBW)] ters orantılıdır. 
+Bu nedenle ödem varlığında olduğu gibi TBW art-
+tıkça rezistans azalmaktadır. Reaktans ise hücre za-
+rının direnci ile ilişkilidir ve vücut hücre kütlesini 
+bildirmektedir. Bu nedenle toplam vücut hücre küt-
+lesindeki artış, reaktansta bir artışa neden olmakta-
+dır.34 
+Frekansa bağlı olarak tek frekanslı (50 kHz) ve 
+multifrekanslı (1 kHz-500 kHz) olmak üzere 2 tür 
+BİA bulunmaktadır. Multifrekanslı BİA, ekstrasel-
+lüler ve intrasellüler vücut suyu değerlendirmesine 
+olanak sağladığı için önemlidir. Çünkü yüksek fre-
+kanslar hücre zarının penetrasyonuna ve intrasellüler 
+sıvının [intracellular water (ICW)] değerlendirilme-
+sine izin verir ancak düşük frekanslar hücre zarlarına 
+nüfuz edemez ve dolayısıyla TBW’nin değerlendiril-
+mesini sağlar.35 
+Faz açısı, rezistansın reaktansa oranının arktan-
+jantı alınarak elde edilen bir BİA indeksidir. Elde edi-
+len bu indeks; membran bütünlüğü, hücre kütlesi ve 
+hidrasyon gibi hücresel özelliklerle ilişkilidir ve hüc-
+resel sağlık için bileşik bir ölçüm sağlar. İnflamas-
+yon, malnütrisyon ve fonksiyonel bozukluklar faz 
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+702
+açısını doğrudan etkileyen vücut iletkenliğinin de-
+ğişmesine neden olabilmektedir. Bu nedenle faz açısı 
+KVH gibi birçok sağlık probleminde prognostik bir 
+faktör olarak kabul edilmektedir.35 Yapılan bir me-
+taanaliz çalışmasında, KVH’si olan bireylerde tek 
+frekanslı (50 kHz) BİA cihazından elde edilen faz 
+açısı kontrol grubuna göre daha düşük bulunmuştur. 
+Sonuç olarak KVH’de faz açısı değerlendirmesi, kli-
+nik uygulamada kullanılabilecek noninvaziv ve kolay 
+bir yöntem olarak nitelendirilmiştir.36 
+Ekstrasellüler sıvının [extracellular water 
+(ECW)] TBW’ye oranı olarak bilinen ödem indeksi 
+BİA’dan elde edilen bir diğer parametredir.35 Multif-
+rekans BİA kullanılarak yapılan bir araştırmada, akut 
+kalp yetersizliği olan hastalarda tüm segmentlerde ve 
+özellikle alt ekstremitelerde ECW/TBW oranının an-
+lamlı derecede arttığı saptanmıştır. Alt ekstremite 
+ECW/TBW oranı kalp yetmezliği tanısında kullanı-
+lan B-tipi natriüretik peptid (BNP) düzeyleri ile an-
+lamlı korelasyon göstermiştir. Ayrıca alt ekstremite 
+ECW/TBW>0,412 olması diagnostik bir belirteç ola-
+rak nitelendirilmiştir.37 
+Biyoelektrik impedans analizi noninvaziv, uy-
+gulanabilir ve düşük maliyetli bir analiz yöntemidir. 
+Bu nedenle KVH’de ve risk tahmininde vücut yağı, 
+yağsız vücut kütlesi, TBW vb. parametreler kullanı-
+labilir. Ancak kalp yetersizliği gibi doku hidrasyonu 
+değişken olduğunda vücut bölümleri için hatalı tah-
+minler verebilir ve bu nedenle kullanımı güvenli ol-
+mayabilir.34 
+Ayrıca BİA’nın kalp pillerinin ve defibrilatörle-
+rin elektrik akımına müdahale ederek cihazın arıza-
+lanmasına, aşırı sinyal algılamasına veya stimülasyon 
+inhibisyonuna neden olma potansiyelinden dolayı 
+kalp yetersizliğine kontrendike olabileceği bildiril-
+miştir.38 
+BiVa 
+BİVA, BİA’ya alternatif bir yöntem olarak kullanıl-
+maktadır. Geleneksel BİA’da olduğu gibi eşitlik mo-
+dellerine bağlı olmayan BİVA; 50 kHz frekanslı 
+BİA’dan elde edilen rezistans (R) ve reaktansın (Xc) 
+baz alınarak, boy uzunluğuna (H) göre ayarlanmış 
+impedans vektörünün (Z) çizilmesiyle oluşturulan bir 
+analiz yöntemidir.39 
+İmpedans vektörleri, sağlıklı popülasyon refe-
+rans alınarak R-Xc grafiğinde çizilmektedir. R/H-
+Xc/H grafiğindeki vektörlerin yerlerinin değişmesi; 
+hidrasyon durumunda ve vücut hücre kütlesindeki 
+değişiklikler hakkında değerlendirme yapılmasına 
+olanak sağlamaktadır. R-Xc grafiği 4 çeyreğe bö-
+lündüğünde %75. elipsin dışında ve sağ alt kadranda 
+konumlanan hasta vektörleri, kardiyak kaşeksi ve 
+aşırı hidrate olarak sınıflandırılmaktadır.40 
+Akut ve kronik kalp yetersizliği olan hastalar ile 
+yapılan bir çalışmada, BİVA’nın her iki hasta gru-
+bunda da periferik konjesyonu belirlemede BNP’den 
+daha kesin bir yöntem olduğu saptanmıştır. Bu ne-
+denle BİVA’nın özellikle kalp yetersizliği hastala-
+rında periferik konjesyonu değerlendirmede, kolay ve 
+hızlı bir teknik olduğu sonucuna varılmıştır.41 
+Benzer hasta grubu ile yapılan başka bir çalış-
+mada ise BİVA’nın BNP, tahmini plazma hacmi ve 
+kan üre azotu/kreatinin oranı ile kullanılmasının 
+prognostik bilgi sağladığı belirtilmiştir. Ayrıca bu 
+parametrelerin kullanılması, akut veya kronik kalp 
+yetersizliği varlığından bağımsız olarak hastalardaki 
+mortalite riskinin %40,0’ını açıklamıştır.42 Sonuç 
+olarak BİVA KVH’den özellikle kalp yetersizliğinin 
+teşhisinde ve yönetiminde vücut sıvı durumunu de-
+ğerlendirmesi açısından önemlidir ve BİA’ya göre 
+daha güvenilir sonuçlar vermektedir.35,38,40 
+ KVH’DE VE RisK DEğERLENDiRMEsiNDE  
+KuLLaNILaN aNTROpOMETRiK iNDEKsLER 
+Geleneksel antropometrik ölçümlerin klinik uygu-
+lamadaki sınırlılıkları ve laboratuvar yöntemlerin 
+dezavantajları göz önünde bulundurularak uygun 
+maliyetli, klinikte kullanımı yarar sağlayabilecek ve 
+kolay hesaplanabilir nitelikte çeşitli indeksler gelişti-
+rilmiştir. Çalışmalarda KVH’ye ve risk değerlendi-
+rilmesine yönelik en sık kullanılan indeksler ve 
+formülleri Tablo 2’de verilmiştir. 
+BKi 
+BKİ, vücut ağırlığının (kg) boy uzunluğunun kare-
+sine (m2) bölünmesiyle hesaplanmaktadır ve BKİ’nin 
+≥30 kg/m2 olması obezite varlığını göstermektedir. 
+Etnik köken farklılıkları göz önüne alınarak, Asya 
+popülasyonunda obezite için kesim noktası ≥25 
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+703
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+704
+kg/m2’dir.8 Türkiye’de 40 yaş ve üzeri bireylerle ya-
+pılan bir çalışmada, Framingham risk skoruna göre 
+10 yıllık koroner kalp hastalığı riski yüksek olan gru-
+bun BKİ değeri düşük risk grubundan anlamlı dere-
+cede daha yüksek çıkmıştır. Ancak aynı farklılık 
+PCRAE risk skoruna göre saptanmamıştır.16 Asil ve 
+ark., SCORE risk gruplarına göre benzer sonuçlara 
+ulaşmıştır.4 BKİ, hesaplama kolaylığı nedeniyle aşırı 
+adipozitenin değerlendirilmesinde primer araç olarak 
+kullanılmaktadır. Ancak vücut bileşiminin değerlen-
+dirilmesinde kullanılamaması, vücut yağ kütlesi ve 
+yağsız kütle ayrımını yapamaması gibi çeşitli sınırlı-
+lıkları bulunmaktadır.43 
+Bu nedenle yapılan araştırmalarda, KVH’de ve 
+risk değerlendirmesinde; sagittal abdominal çap, bel 
+çevresi, bel/boy oranı, vb. vücut yağ dağılımının de-
+ğerlendirilmesinde kullanılan antropometrik ölçüm-
+lerin; visseral adipozite indeksi [visceral adiposity 
+index (VAI)], koniklik indeksi [conicity index (CI)] 
+gibi güncel antropometrik indekslerin ve BİA, BİVA 
+gibi laboratuvar yöntemlerin BKİ’den daha güçlü 
+prediktörler olduğu bildirilmiştir. KVH açısından 
+mevcut sınırlılıkların mutlaka göz önünde bulundu-
+rulması gerektiği vurgulanmıştır.3,10,11,23,35,36,43 
+BEDEN ŞEKiL iNDEKsi  
+Beden şekil indeksi [A body shape index (ABSI)], 
+2012 yılında NHANES 1999-2004 verileri kullanıla-
+rak geliştirilmiştir. Bu indeks BKİ, bel çevresi ve boy 
+uzunluğunu dikkate almaktadır. Türkiye’de yapılan 
+bir çalışmada; ABSI, koroner kalp hastalığına bağlı 
+mortalite riskini yalnızca erkeklerde güçlü bir şekilde 
+öngörmüştür. Ancak KVH’ye bağlı mortalite riskinin 
+her ki cinsiyette de en iyi prediktörünün ABSI olduğu 
+bildirilmiştir.21 Çin’de 44.048 erişkin bireyin verileri 
+kullanılarak yapılan bir araştırmada, ABSI’nın kardi-
+yometabolik risk faktörleri ve KVH’yi ayırt edebilme 
+yeteneğinin orta düzey olduğu saptanmıştır. ABSI’nın 
+bel/boy oranı ve bel çevresi ölçümlerine göre öngörü 
+yeteneğinin düşük çıkmasının sebebinin etnik köken-
+den kaynaklanabileceği belirtilmiştir.10 Avrupa ülke-
+lerinin dâhil edildiği bir çalışmada, ABSI KVH 
+mortalite riski ile pozitif ilişkili bulunmuştur. Ancak 
+riski öngörmede abdominal obezite ölçümlerinin, AB-
+SI’dan daha üstün olduğu bildirilmiştir.9 Afrika’da ya-
+pılan bir araştırmada, ABSI KVH risk faktörlerinden 
+yalnızca trigliserid (TG) düzeyleri ile anlamlı korelas-
+yon göstermiş ve bu indeks ile KVH risk faktörleri ara-
+sında zayıf düzeyde bir ilişki olduğu bildirilmiştir.44 
+VaI 
+Amato ve ark., tarafından viseral adipozitenin indi-
+katörü olarak cinsiyete özgü geliştirilen bir indekstir. 
+BKİ ve bel çevresi ölçümlerinin yanı sıra TG ve yük-
+sek yoğunluklu lipoprotein [high density lipoprotein 
+(HDL)]-K biyokimyasal parametrelerini içerir.45 
+Kısaltma
+İngilizce
+Türkçe
+Formül 
+BKi
+Body mass index
+Beden kütle indeksi
+Vücut ağırlığı (kg)/boy uzunluğu (m)2 
+aBsI
+a body shape index
+Beden şekil indeksi
+Bç (cm)/(BKi2/3xboy uzunluğu1/2)] 
+VaI
+Visceral adiposity index
+Visseral adipozite indeksi
+Erkek: Bç (cm)/36,58+(1,88×BKi)]*(Tg/1,03)*(1,31/HDL) 
+Kadın: Bç (cm)/(36,58+(1,88×BKi)]*(Tg/0,81)*(1,52/HDL) 
+BaI
+Body adiposity index
+Vücut adipozite indeksi
+[Kç (cm)/boy uzunluğu (m)1,5]-18 
+Lap
+Lipid accumulation product
+Lipid birikim ürünü
+Erkek: Bç (cm)-65]*[Tg (mmol/L)] 
+Kadın: Bç (cm)-58]*[Tg (mmol/L)] 
+CI
+Conicity index
+Koniklik indeksi
+Bç (m)/0,109 [ağırlık (kg)/boy (m)]1/2 
+BRI
+Body roundness’ index
+Vücut yuvarlaklık indeksi
+365,2−365,5 [(1 -(((Bç/2π)2)/[(0,5xboy uzunluğu)]1/2 
+aVI
+abdominal volume index
+abdominal hacim indeksi
+aVI=[2*Bç2(cm)+0,7×(Bç/Kç)2(cm)]/1000 
+Tyg
+Τriglycerides-glucose Index
+Trigliserit/glukoz indeksi
+ln (Tg*aKŞ/2) 
+Tyg-BMI
+Triglyceride glucose-body mass Index
+Trigliserit/glukoz-BKi
+Tyg indeks*BKi 
+Tyg-WC
+Triglyceride glucose-waist circumference
+Trigliserit/glukoz-bel çevresi indeksi
+Tyg indeks*bel çevresi 
+Tyg-WHR
+Triglyceride glucose-waist-to-hip ratio
+Trigliserit/glukoz-bel/kalça oranı indeksi
+Tyg indeks*bel/kalça oranı 
+Tyg-WHtR
+Triglyceride glucose-waist to height ratio
+Trigliserit/glukoz-bel/boy oranı indeksi
+Tyg indeks*bel/boy oranı 
+TABLO 2:  Kardiyovasküler hastalıklarda risk değerlendirmesinde kullanılan antropometrik indeksler.
+Bç: Bel çevresi; Tg: Trigliserid; HDL: Yüksek yoğunluklu lipoprotein; Kç: Kalça çevresi; aKŞ: açlık kan şekeri.
+Asemptomatik Kafkas popülasyonunda 460 yetişkin 
+birey ile yapılan bir çalışmada, VAI ve koroner ate-
+rosklerozis arasındaki ilişki incelenmiştir. Bireylerin 
+ortalama VAI 1,76±0,32 bulunmuştur. Kadınlarda 
+VAI 1/3’lük dilimlerine göre bel çevresinde farklılık 
+saptanırken; erkeklerde hipertansiyon, diyabet vb. 
+kardiyovasküler risk faktörleri açısından da anlamlı 
+farklılık saptanmıştır. Sonuç olarak VAI’nın kardi-
+yometabolik riskin belirlenmesinde yararlı bir klinik 
+belirteç olduğu ve abdominal obezitenin erkeklerde 
+daha belirgin bir risk faktörü olarak değerlendirilebi-
+leceği bildirilmiştir. Bu durum, KVH açısından koru-
+yucu olabilir.11 
+BaI 
+Bergman ve ark., tarafından kalça çevresi ve boy 
+uzunluğu baz alınarak geliştirilen bir indekstir ve 
+vücut yağ oranının güçlü bir göstergesidir.46 Hindis-
+tan’da yapılan bir çalışmada, BAI’nın metabolik sen-
+drom kriterleri ile anlamlı korelasyon gösterdiği 
+ancak VAI ve lipid birikim ürününün daha iyi pre-
+diktör olduğu sonucuna varılmıştır.47 Türkiye’de ya-
+pılan bir araştırmada, BAI’daki bir birimlik artışın 
+erkeklerde koroner kalp hastalığı riskini 1,73 kat; ko-
+roner kalp hastalığına bağlı mortalite riskini ise 1,53 
+kat artırdığı bildirilmiştir.21 
+LipiD BiRiKiMi üRüNü  
+Lipid birikimi ürünü [lipid accumulation product 
+(LAP)] indeksi, Kahn tarafından 2005 yılında geliş-
+tirilmiş ve ABD popülasyonunda KVH riskini belir-
+lemede, BKİ’den daha iyi bir gösterge olduğu 
+bildirilmiştir.48 Kafkas etnik kökenli 3.042 erişkin ile 
+yapılan bir çalışmada, lipid birikim ürününün KVH 
+riskiyle ilişkisi araştırılmış ve BKİ, bel çevresi, 
+bel/kalça oranı ve bel/boy oranıyla karşılaştırılmıştır. 
+Lipid birikim ürünü 1/3’lük dilimlerine göre 3. di-
+limde yer alan bireylerin; tüm antropometrik ölçüm-
+leri, kardiyometabolik risk faktörleri ve inflamasyon 
+göstergeleri 1. dilimden anlamlı derecede daha yük-
+sek çıkmıştır. Ayrıca LAP indeksi HDL dışındaki 
+tüm biyokimyasal parametreler ve antropometrik öl-
+çümler ile pozitif yönde korelasyon göstermiş; 10 yıl-
+lık KVH riskini diğer tüm parametrelerden daha iyi 
+öngörmüştür.18 Hindistan’da yapılan bir araştırmada, 
+metabolik sendromu öngörmede LAP indeksinin 2. 
+en güçlü prediktör olduğu belirtilmiştir.47 Türkiye’de 
+yapılan bir çalışmada, lipid birikim ürününün erkek-
+lerde metabolik sendrom riskini öngören 2. antropo-
+metrik indeks olduğu ve klinikte kullanımının yararlı 
+olabileceği bildirilmiştir.49 
+aBDOMiNaL HaCiM iNDEKsi  
+Abdominal hacim indeksi [abdominal volume index 
+(AVI)], 2003 yılında geliştirilen bir indeks olup, bel 
+çevresi ve kalça çevresi ölçümlerini temel alır. 
+İran’da yapılan bir araştırmada, AVI’nın fetal ve fetal 
+olmayan KVH riskini öngördüğü bildirilmiştir.3 Hin-
+distan’da 150 sağlıklı, 150 polikistik over tanılı kadın 
+ile yapılan kesitsel bir çalışmada; VAI ve LAP’ın me-
+tabolik sendrom riski için diğer ölçümlerden daha 
+güçlü prediktör olduğu bildirilmiştir. Bu indekslerin 
+basit ve uygun maliyetli olmaları sayesinde klinikte 
+kullanılabileceği sonucuna varılmıştır. Ayrıca her po-
+pülasyona ait kesim noktalarının oluşturmasının ge-
+rekliliği vurgulanmıştır.47 
+CI 
+Vücut yağ dağılımının göstergesi olarak geliştirilen 
+CI, temel olarak abdominal bölgenin genişlemesini 
+göz önünde bulundurur ve vücut ağırlığının dâhil 
+edildiği bir hacim modelidir.3 CI abdominal çevrede 
+daha fazla yağ birikimi olan bireylerde çift koni şek-
+line, orta bölgede daha az yağ birikimi olan kişilerde 
+ise silindir şekline sahip olduğu hipotezine dayan-
+maktadır.44 İran’da 5.147 erişkin ile yapılan bir araş-
+tırmada, fetal ve fetal olmayan KVH riskinin en 
+güçlü prediktörünün her iki cinsiyette de CI olduğu 
+ve prediktif özelliğin kadın cinsiyette daha güçlü ol-
+duğu sonucuna varılmıştır. CI’nın özellikle fetal kar-
+diyovasküler olayları öngörme konusundaki güçlü 
+yeteneği göz önünde bulundurulduğunda, klinikte 
+rutin olarak hesaplanmasının değerli olabileceği be-
+lirtilmiştir.3 Afrika’da 21-30 yaş grubu 624 erişkin 
+birey ile yapılan bir araştırmada; CI; glukoz, insülin, 
+“homeostasis model assessment of β-cell function 
+(HOMA-β)” ve TG ile anlamlı korelasyon göster-
+miştir. Ayrıca CI yaş ve cinsiyetten bağımsız olarak 
+hipertansiyon, insülin direnci, zayıflık, obezite ve dis-
+lipidemi ile ilişkilendirilmiştir. Sonuç olarak CI ile 
+KVH risk faktörleri arasındaki ilişki diğer antropo-
+metrik ölçümlerden daha güçlü olarak bulunmuştur.44 
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+705
+VüCuT YuVaRLaKLIK iNDEKsi  
+Thomas ve ark., tarafından geliştirilmiş bir indekstir. 
+Temelde bel çevresinden ve kalça çevresinden çıkar-
+tılan elipsleri dikkate almaktadır.50 CI ve vücut yu-
+varlaklık indeksi [body roundness index (BRI)], 
+vücut yağ dağılımının göstergesi olarak oluşturul-
+muştur ve değerleri abdominal yağ birikimine göre 
+artmaktadır. Yapılan bir araştırmada; BRI, her iki cin-
+siyette de insülin, HOMA-β ve TG düzeyleri ile an-
+lamlı derecede ilişkili olduğu bulunmuştur. Ancak 
+BRI ile KVH risk faktörleri arasındaki ilişkinin orta 
+derecede olduğu bildirilmiştir.44 
+TRigLisERiT/gLuKOz iNDEKsi 
+Trigliserit/glukoz (TyG) indeksi, açlık plazma glu-
+koz ve TG düzeylerinin kombinasyonunu içeren 
+güncel bir indeks olup, insülin direnci ile anlamlı 
+derecede ilişkilidir. Özellikle kardiyovasküler risk 
+faktörlerini öngörme yetenekleri açısından TyG baz 
+alınarak; TyG-BKİ, TyG-bel çevresi, TyG-bel/boy 
+oranı, TyG-bel/kalça oranı gibi parametrelere odak-
+lanılmıştır. Nijerya’da erişkin bireyler ile yapılan bir 
+araştırmada, her iki cinsiyette de metabolik sendro-
+mun en güçlü prediktörünün TyG-bel/boy oranı in-
+deksi olduğu bildirilmiştir.51 Türkiye’de yapılan bir 
+araştırmada, 18-65 yaş grubundaki 419 erişkin bire-
+yin obezite ile ilişkili indeksler kullanılarak meta-
+bolik sendrom riski değerlendirilmiş ve her iki 
+cinsiyette de metabolik sendromun en güçlü predik-
+törünün TyG indeksi olduğu bildirilmiştir. Erkeklerde 
+bu sırayı lipid birikim ürünü, kadınlarda ise kardiyo-
+metabolik indeks takip etmiştir. Sonuç olarak bu in-
+dekslerin klinikte kullanımının yararlı olabileceği 
+ancak kullanım kolaylığı nedeniyle büyük çaplı araş-
+tırmalarda bel çevresinin daha uygun bir yöntem ola-
+bileceği ifade edilmiştir.49 
+2d:4d oranı 
+İşaret parmağı, yüzük parmağı uzunluğu oranı (2d:4d 
+oranı), prenatal testosteron maruziyet göstergesidir 
+ve oranın düşük olması yüksek androjen maruziye-
+tini ifade eder. Hindistan’da yapılan bir çalışmada, 
+erkeklerin 2d:4d oranı ve kardiyovasküler risk fak-
+törleri (BKİ, kan basıncı ve vücut yağ oranı) arasın-
+daki ilişki değerlendirilmiştir. Sağ eldeki 2d:4d oranı 
+yüksek olan bireylerin BKİ ve sistolik kan basıncı de-
+ğerleri düşük olanlardan anlamlı derecede daha yük-
+sek çıkmıştır. Sol eldeki 2d:4d ile sistolik kan basıncı 
+arasında korelasyon olduğu ve hipertansif gruplar 
+arasında anlamlı farklılık olduğu bildirilmiştir.25 Yu-
+nanistan’da 50 kadın ve 50 erkek ile yapılan bir ça-
+lışmada ise miyokard infarktüsü geçiren erkeklerde 
+2d:4d ve 3d:4d oranları, sağlıklı erkeklerdeki ilgili 
+oranlardan anlamlı derecede daha yüksek çıkmıştır. 
+Sonuç olarak 4. parmak (yüzük parmağı) uzunluğu-
+nun dâhil edildiği parmak oranlarının uzunluğunun 
+miyokard infarktüsüne yatkınlığın belirlenmesinde 
+yalnızca erkekler için yararlı bir biyobelirteç olabile-
+ceği belirtilmiştir.52 
+ sONuç 
+KVH, dünya genelinde primer ölüm nedenidir ve de-
+ğiştirilebilir risk faktörlerine müdahale edilerek ön-
+lenebilmesi oldukça önemlidir. BKİ, toplam vücut 
+bileşiminin değerlendirilmesinde kullanılan bir yön-
+temdir. Hesaplama kolaylığının olması bir avantaj ol-
+makla birlikte vücut yağ kütlesi ve yağsız vücut 
+kütlesi ayrımını yapamaması, KVH açısından klinikte 
+önemli bir sınırlılıktır. Çünkü inflamasyon, KVH’nin 
+gelişimindeki temel patofizyolojik nedendir ve abdo-
+minal adipozite, proinflamatuar sitokin düzeyini artı-
+rarak KVH gelişiminde önemli rol oynamaktadır. Bu 
+nedenle literatürde KVH riskinin değerlendirilme-
+sinde abdominal adipozite artışının değerlendirilmesi 
+gerektiği vurgulanmaktadır. Vücut yağ dağılımının 
+değerlendirilmesinde kullanılan bel çevresi, bel/boy 
+oranı, sagittal abdominal çap antropometrik ölçüm-
+leri abdominal adipoziteyi yansıttığından dolayı 
+KVH’de ve risk değerlendirmesinde kullanılan 
+önemli antropometrik ölçümlerdir. Alt ekstremiteden 
+alınan uyluk çevresi, baldır çevresi gibi ölçümlerin 
+de bel çevresi ile kombine kullanılmasının klinikte 
+daha yararlı olabileceği ifade edilmiştir. 
+BT, MRG vb. laboratuvar yöntemler, özellikle 
+pahalı olması nedeni ile klinikte kullanımları yaygın 
+değildir. Ancak BİA ve BİVA, noninvaziv, uygula-
+nabilir ve düşük maliyetli analiz yöntemleridir. Bu 
+yöntemler ile KVH’de ve risk değerlendirmesinde 
+vücut kompozisyonunun değerlendirilmesinin yanı 
+sıra faz açısı, ödem indeksi vb. parametreler de elde 
+edilmektedir. Ancak özellikle kalp yetersizliği olan 
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+706
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+707
+hastalarda BİA’nın güvenilirliği sorgulanmaktadır ve 
+bu nedenle BİVA, alternatif bir yöntem olarak geliş-
+tirilmiştir. BİVA’nın özellikle eşitlik modellerine 
+bağlı olmaması ve doku hidrasyon durumunun de-
+ğişken olduğu durumlarda da uygulanabilir olması 
+önemli avantajlarıdır. 
+Geleneksel antropometrik ölçümlerin sınırlılık-
+ları nedeniyle geliştirilen güncel antropometrik in-
+dekslerden klinikte KVH ve risk faktörlerini öngörme 
+yeteneği en yüksek olanlar; CI, AVI, TyG-bel çev-
+resi indeksi ve lipid birikim ürünü indeksidir. Gün-
+cel antropometrik ölçümlerin, klinikte yaygın olarak 
+kullanılan indeksleri tamamlayıcı nitelikte kullanma-
+larının KVH, risk faktörleri ve mortaliteye ilişkin 
+önemli prognostik bilgiler sağlayabileceği düşünül-
+mektedir.  
+Sonuç olarak KVH ve risk faktörlerinin değer-
+lendirilmesinde özellikle abdominal adipoziteye iliş-
+kin antropometrik ölçümler, indeksler ile BİA, BİVA 
+gibi yöntemler güvenilir, noninvaziv ve uygun mali-
+yetli yöntemlerdir. Ancak klinik uygulamada, bu 
+yöntemlerin kardiyo metabolik risk faktörleri, KVH 
+ve risk değerlendirmesindeki prediktif özelliklerini, 
+maliyet etkinliğini ve Türk popülasyonundaki kulla-
+nımını karşılaştıran daha fazla araştırmaya ihtiyaç du-
+yulmaktadır.  
+Finansal Kaynak 
+Bu çalışma sırasında, yapılan araştırma konusu ile ilgili doğru-
+dan bağlantısı bulunan herhangi bir ilaç firmasından, tıbbi alet, 
+gereç ve malzeme sağlayan ve/veya üreten bir firma veya herhangi 
+bir ticari firmadan, çalışmanın değerlendirme sürecinde, çalışma 
+ile ilgili verilecek kararı olumsuz etkileyebilecek maddi ve/veya 
+manevi herhangi bir destek alınmamıştır. 
+Çıkar Çatışması 
+Bu çalışma ile ilgili olarak yazarların ve/veya aile bireylerinin 
+çıkar çatışması potansiyeli olabilecek bilimsel ve tıbbi komite üye-
+liği veya üyeleri ile ilişkisi, danışmanlık, bilirkişilik, herhangi bir 
+firmada çalışma durumu, hissedarlık ve benzer durumları yoktur. 
+Yazar Katkıları 
+Fikir/Kavram: Kezban Şahin, Eda Köksal; Tasarım: Kezban 
+Şahin, Eda Köksal; Denetleme/Danışmanlık: Eda Köksal; Kay-
+nak Taraması: Kezban Şahin; Makalenin Yazımı: Kezban Şahin; 
+Eleştirel İnceleme: Eda Köksal.
+1.
+World Health Organization [Internet]. © 2023 WHO [Cited: January 10, 2023]. Car-
+diovascular diseases. available from: [Link]  
+2.
+sacramento-pacheco J, Duarte-Clíments g, gómez-salgado J, Romero-Martín 
+M, sánchez-gómez MB. Cardiovascular risk assessment tools: a scoping review. 
+aust Crit Care. 2019;32(6):540-59. [Crossref]  [pubMed]  
+3.
+Motamed N, Roozafzai f, Khoonsari MR, Malek M, Mahdavi a, Maadi M, et al. pre-
+dictive ability of six obesity measures to identify 7-year fatal and non-fatal cardio-
+vascular events: a population-based cohort study. Int J Cardiol Cardiovasc Risk 
+prev. 2022;14:200142. [Crossref]  [pubMed]  [pMC]  
+4.
+asil s, Murat E, Taşkan H, Barış VÖ, görmel s, Yaşar s, et al. Relationship be-
+tween Cardiovascular Disease Risk and Neck Circumference shown in the sys-
+tematic Coronary Risk Estimation (sCORE) Risk Model. Int J Environ Res public 
+Health. 2021;18(20):10763. [Crossref]  [pubMed]  [pMC]  
+5.
+Xiao H, Bao Y, Liu MY, Yang JH, Li YT, Wang Ya, et al. sagittal abdominal diame-
+ter and framingham risk score in non-dialysis chronic kidney disease patients. Int 
+urol Nephrol. 2018;50(9):1679-85. [Crossref]  [pubMed]  
+6.
+Cornier Ma, Després Jp, Davis N, grossniklaus Da, Klein s, Lamarche B, et al; 
+american Heart association Obesity Committee of the Council on Nutrition; phys-
+ical activity and Metabolism; Council on arteriosclerosis; Thrombosis and Vascu-
+lar Biology; Council on Cardiovascular Disease in the Young; Council on 
+Cardiovascular Radiology and Intervention; Council on Cardiovascular Nursing, 
+Council on Epidemiology and prevention; Council on the Kidney in Cardiovascu-
+lar Disease, and stroke Council. assessing adiposity: a scientific statement from 
+the american Heart association. Circulation. 2011;124(18):1996-2019. [pubMed]  
+7.
+Lai CL, Lu HK, Huang aC, Chu Lp, Chuang HY, Hsieh KC. Bioimpedance  
+analysis combined with sagittal abdominal diameter for abdominal subcuta-
+neous fat measurement. front Nutr. 2022;9:952929. [Crossref]  [pubMed]  
+[pMC]  
+8.
+World Health Organization [Internet]. © 2023 WHO [Cited: January 11, 2023]. Waist 
+circumference and waist-hip ratio: report of a WHO expert consultation. geneva: 
+World Health Organization; 2011. available from: [Link]  
+9.
+song X, Jousilahti p, stehouwer CD, söderberg s, Onat a, Laatikainen T, et al. 
+Comparison of various surrogate obesity indicators as predictors of cardiovascu-
+lar mortality in four European populations. Eur J Clin Nutr. 2013;67(12):1298-302. 
+[Crossref]  [pubMed]  
+10.
+Liu J, Tse La, Liu z, Rangarajan s, Hu B, Yin L, et al; puRE (prospective urban 
+Rural Epidemiology) study in China. predictive values of anthropometric meas-
+urements for cardiometabolic risk factors and cardiovascular diseases among 44 
+048 chinese. J am Heart assoc. 2019;8(16):e010870. [pubMed]  
+11.
+Bagyura z, Kiss L, Lux Á, Csobay-Novák C, Jermendy ÁL, polgár L, et al. associ-
+ation between coronary atherosclerosis and visceral adiposity index. Nutr Metab 
+Cardiovasc Dis. 2020;30(5):796-803. [Crossref]  [pubMed]  
+12.
+Heitmann BL, frederiksen p. Thigh circumference and risk of heart disease and 
+premature death: prospective cohort study. BMJ. 2009;339:b3292. [Crossref]  
+[pubMed]  [pMC]  
+13.
+abreo ap, Bailey sR, abreo K. associations between calf, thigh, and arm circum-
+ference and cardiovascular and all-cause mortality in NHaNEs 1999-2004. Nutr 
+Metab Cardiovasc Dis. 2021;31(5):1410-5. [Crossref]  [pubMed]  
+14.
+Hsiang CH, Wu CJ, Kao TW, Chen WL. Calf circumference and risk of cardiovas-
+cular disease. geriatr gerontol Int. 2020;20(12):1133-7. [Crossref]  [pubMed]  
+15.
+Ben-Noun L, Laor a. Relationship of neck circumference to cardiovascular risk fac-
+tors. Obes Res. 2003;11(2):226-31. [Crossref]  [pubMed]  
+ KaYNaKLaR
+Kezban ŞAHİN ve ark.
+Turkiye Klinikleri J Health Sci. 2023;8(4):698-708
+708
+16.
+Dülek H, Vural zT, gönenç I. Kardiyovasküler hastalıklara etki eden faktörlerin 
+değerlendirilmesi ve kardiyovasküler risk skorlamalarının karşılaştırılması [Evalu-
+ation of risk factors influencing cardiovascular disease and correlation with car-
+diovascular risk scores]. Dicle Tıp Dergisi. 2019;46(3):449-59. [Crossref]  
+17.
+ashwell M, Hsieh sD. six reasons why the waist-to-height ratio is a rapid and ef-
+fective global indicator for health risks of obesity and how its use could simplify the 
+international public health message on obesity. Int J food sci Nutr. 2005;56(5):303-
+7. [Crossref]  [pubMed]  
+18.
+Kyrou I, panagiotakos DB, Kouli gM, georgousopoulou E, Chrysohoou C, Tsigos 
+C, et al. Lipid accumulation product in relation to 10-year cardiovascular disease 
+incidence in Caucasian adults: The aTTICa study. atherosclerosis. 2018;279:10-
+6. [Crossref]  [pubMed]  
+19.
+Rådholm K, Tengblad a, Dahlén E, Länne T, Engvall J, Nystrom fH, et al. The im-
+pact of using sagittal abdominal diameter to predict major cardiovascular events in 
+European patients with type 2 diabetes. Nutr Metab Cardiovasc Dis. 
+2017;27(5):418-22. [Crossref]  [pubMed]  
+20.
+Kuriyan R. Body composition techniques. Indian J Med Res. 2018;148(5):648-58. 
+[Crossref]  [pubMed]  [pMC]  
+21.
+sözmen K, ünal B, sakarya s, Dinç g, Yardım N, Keskinkılıç B, et al. Türkiye'de 
+antropometrik ölçüm yöntemlerinin kardiyovasküler hastalik riski ile ilişkisi [asso-
+ciation of anthropometric measurement methods with cardiovascular disease risk 
+in Turkey]. Dicle Tip Dergisi. 2016;43(1):99-106. [Crossref]  
+22.
+Li C, ford Es, Mokdad aH, giles WH. association of waist-to-thigh ratio with his-
+tory of cardiovascular diseases among us adults: findings from the National Health 
+and Nutrition Examination survey 1999-2004. [Crossref]  
+23.
+Møller g, Ritz C, Kjølbæk L, Vuholm s, Korndal sK, Larsen TM, et al. sagittal ab-
+dominal diameter and waist circumference appear to be equally good as identi-
+fiers of cardiometabolic risk. Nutr Metab Cardiovasc Dis. 2021;31(2):518-27. 
+[Crossref]  [pubMed]  
+24.
+Valentino g, Bustamante MJ, Orellana L, Krämer V, Durán s, adasme M, et al. 
+Body fat and its relationship with clustering of cardiovascular risk factors. Nutr 
+Hosp. 2015;31(5):2253-60. [Crossref]  [pubMed]  [pMC]  
+25.
+Bagepally Bs, Majumder J, Kotadiya s. association between the 2d:4d and car-
+diovascular risk factors: Body mass index, blood pressure and body fat. Early Hum 
+Dev. 2020;151:105193. [Crossref]  [pubMed]  
+26.
+Bi X, Tey sL, Leong C, Quek R, Loo YT, Henry CJ. Correlation of adiposity indices 
+with cardiovascular disease risk factors in healthy adults of singapore: a cross-
+sectional study. BMC Obes. 2016;3:33. [Crossref]  [pubMed]  [pMC]  
+27.
+Ryan as, Elahi D. Body: Composition, weight, height, and build. Encyclopedia of 
+gerontology. 2007:177-86. [Crossref]  [pubMed]  
+28.
+shakerian s, Nikbakht M, Kashkoli MB. Validity of body density with methods of 
+body mass index, skin fold, bio-electrical impedance & criterion method of hydro-
+static in men athletes of swimming. Journal of physical Education & sports sci-
+ence/Beden Egitimi ve spor Bilimleri Dergisi. 2011;5(3):235-41. [Link]  
+29.
+Brožek J, grande f, anderson JT, Keys a. Densitometric analysis of body compo-
+sition: revision of some quantitative assumptions. ann N Y acad sci. 1963;110:113-
+40. [Crossref]  [pubMed]  
+30.
+Omura-Ohata Y, son C, Makino H, Koezuka R, Tochiya M, Tamanaha T, et al. Ef-
+ficacy of visceral fat estimation by dual bioelectrical impedance analysis in detect-
+ing cardiovascular risk factors in patients with type 2 diabetes. Cardiovasc Diabetol. 
+2019;18(1):137. [Crossref]  [pubMed]  [pMC]  
+31.
+Holmes CJ, Racette sB. The utility of body composition assessment in nutrition 
+and clinical practice: an overview of current methodology. Nutrients. 
+2021;13(8):2493. [Crossref]  [pubMed]  [pMC]  
+32.
+zhang L, Bartz TM, santanasto a, Djoussé L, Mukamal KJ, forman DE, et al. Body 
+composition and incident heart failure in older adults: results from 2 prospective co-
+horts. J am Heart assoc. 2022;11(1):e023707. [Crossref]  [pubMed]  [pMC]  
+33.
+Neeland IJ, Ross R, Després Jp, Matsuzawa Y, Yamashita s, shai I, et al; Inter-
+national atherosclerosis society; International Chair on Cardiometabolic Risk Work-
+ing group on Visceral Obesity. Visceral and ectopic fat, atherosclerosis, and 
+cardiometabolic disease: a position statement. Lancet Diabetes Endocrinol. 
+2019;7(9):715-25. [Crossref]  [pubMed]  
+34.
+Hankinson sJ, Williams CH, Ton VK, gottlieb ss, Hong CC. should we overcome 
+the resistance to bioelectrical impedance in heart failure? Expert Rev Med De-
+vices. 2020;17(8):785-94. [Crossref]  [pubMed]  [pMC]  
+35.
+Thanapholsart J, Khan E, Lee ga. a current review of the uses of bioelectrical im-
+pedance analysis and bioelectrical impedance vector analysis in acute and chronic 
+heart failure patients: an under-valued resource? Biol Res Nurs. 2023;25(2):240-
+9. [Crossref]  [pubMed]  [pMC]  
+36.
+de Borba EL, Ceolin J, ziegelmann pK, Bodanese LC, gonçalves MR, Ca-on-
+Monta-ez W, et al. phase angle of bioimpedance at 50 kHz is associated with car-
+diovascular diseases: systematic review and meta-analysis. Eur J Clin Nutr. 
+2022;76(10):1366-73. [Crossref]  [pubMed]  
+37.
+park Cs, Lee sE, Cho HJ, Kim YJ, Kang HJ, Oh BH, et al. Body fluid status as-
+sessment by bio-impedance analysis in patients presenting to the emergency de-
+partment with dyspnea. Korean J Intern Med. 2018;33(5):911-21. [Crossref]  
+[pubMed]  [pMC]  
+38.
+fabregat-andrés Ó, fácila L, Montagud-Balaguer V, galán-serrano a. systemic 
+bioimpedance analysis in patients with implanted cardiac stimulation devices. Ne-
+frologia. 2015;35(3):345-6. English, spanish. [Crossref]  [pubMed]  
+39.
+pellicori p, Kaur K, Clark aL. fluid management in patients with chronic heart fail-
+ure. Card fail Rev. 2015;1(2):90-5. [pubMed]  [pMC]  
+40.
+gonzález-Becerra K, Ramos-Lopez O, Barrón-Cabrera E, Riezu-Boj JI, Milagro 
+fI, Martínez-López E, et al. fatty acids, epigenetic mechanisms and chronic dis-
+eases: a systematic review. Lipids Health Dis. 2019;18(1):178. [Crossref]  [pubMed]  
+[pMC]  
+41.
+Massari f, Iacoviello M, scicchitano p, Mastropasqua f, guida p, Riccioni g, et al. 
+accuracy of bioimpedance vector analysis and brain natriuretic peptide in detec-
+tion of peripheral edema in acute and chronic heart failure. Heart Lung. 
+2016;45(4):319-26. [Crossref]  [pubMed]  
+42.
+Massari f, scicchitano p, Iacoviello M, passantino a, guida p, sanasi M, et al. Mul-
+tiparametric approach to congestion for predicting long-term survival in heart fail-
+ure. J Cardiol. 2020;75(1):47-52. [Crossref]  [pubMed]  
+43.
+Jan a, Weir CB, BMI classification percentile and cut off points. statpearls: Treas-
+ure Island, fL, usa, 1-4. [Cited: January 11, 2023]. available from: [Link]  
+44.
+Nkwana MR, Monyeki KD, Lebelo sL. Body roundness index, a body shape index, 
+conicity index, and their association with nutritional status and cardiovascular risk 
+factors in south african rural young adults. Int J Environ Res public Health. 
+2021;18(1):281. [Crossref]  [pubMed]  [pMC]  
+45.
+amato MC, giordano C, galia M, Criscimanna a, Vitabile s, Midiri M, et al; alka-
+Mesy study group. Visceral adiposity Index: a reliable indicator of visceral fat func-
+tion associated with cardiometabolic risk. Diabetes Care. 2010;33(4):920-2. 
+[Crossref]  [pubMed]  [pMC]  
+46.
+Bergman RN, stefanovski D, Buchanan Ta, sumner aE, Reynolds JC, sebring 
+Ng, et al. a better index of body adiposity. Obesity (silver spring). 2011;19(5):1083-
+9. [Crossref]  [pubMed]  [pMC]  
+47.
+Naghshband z, Kumar L, Mandappa s, Niranjana Murthy as, Malini ss. Visceral 
+adiposity index and lipid accumulation product as diagnostic markers of metabolic 
+syndrome in south Indians with polycystic Ovary syndrome. J Hum Reprod sci. 
+2021;14(3):234-43. [Crossref]  [pubMed]  [pMC]  
+48.
+Kahn Hs. The "lipid accumulation product" performs better than the body mass 
+index for recognizing cardiovascular risk: a population-based comparison. BMC 
+Cardiovasc Disord. 2005;5:26. Erratum in: BMC Cardiovasc Disord. 2006;6:5. 
+[Crossref]  [pubMed]  [pMC]  
+49.
+Karahan Yilmaz s, ÖzçiçEk f, MertoğLu C. Yetişkin bireylerde metabolik sendro-
+mun belirlenmesinde obeziteyle ilişkili geleneksel ve yeni indekslerin 
+karşılaştırılması [Comparison of traditional and novel obesity-related indices for 
+identification of metabolic syndrome in adults]. Cukurova Medical Journal. 
+2022;47(1):62-70. [Crossref]  
+50.
+Thomas DM, Bredlau C, Bosy-Westphal a, Mueller M, shen W, gallagher D, et al. 
+Relationships between body roundness with body fat and visceral adipose tissue 
+emerging from a new geometrical model. Obesity (silver spring). 
+2013;21(11):2264-71. [Crossref]  [pubMed]  [pMC]  
+51.
+Raimi TH, Dele-Ojo Bf, Dada sa, fadare JO, ajayi DD, ajayi Ea, et al. Triglyc-
+eride-glucose index and related parameters predicted metabolic syndrome in 
+nigerians. Metab syndr Relat Disord. 2021;19(2):76-82. [Crossref]  [pubMed]  
+[pMC]  
+52.
+Kyriakidis I, papaioannidou p, pantelidou V, Kalles V, gemitzis K. Digit ratios and 
+relation to myocardial infarction in greek men and women. gend Med. 
+2010;7(6):628-36. [Crossref]  [pubMed] 

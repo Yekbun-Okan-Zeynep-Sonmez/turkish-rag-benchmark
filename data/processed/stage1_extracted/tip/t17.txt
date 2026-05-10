@@ -1,0 +1,636 @@
+Araştırma Makalesi  /   Research Article    
+ 
+Harran Üniversitesi Tıp Fakültesi Dergisi (Journal of Harran University Medical Faculty) 2025;22(3):440-444. 
+                                        
+DOI: 10.35440/hutfd.1714413 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 440 
+Nazolakrimal Kanal Tıkanıklığında External Dakriyosistorinostomi:  
+Cerrahi Sonuçların Değerlendirilmesi 
+ External Dacryocystorhinostomy for Nasolacrimal Duct Obstruction:  
+Evaluation of Surgical Outcomes 
+ 
+ 
+Mübeccel BULUT 1 
+, Ali Hakim REYHAN 2 
+, Fatma UYAR 1 
+,  Sönmez ÇINAR 1 
+ 
+Halime BOLAT ÇAKMAK 1 
+, Oktay DİNER 1 
+ 
+ 
+1Department of Ophthalmology, Necip Fazıl City Hospital, Kahramanmaraş, TÜRKİYE 
+2Department of Ophthalmology, Harran University Faculty of Medicine,  Şanlıurfa, TÜRKİYE 
+ 
+ 
+Öz 
+ 
+Amaç: Kliniğimizde external dakriyosistorinostomi uyguladığımız hastaların, bulgu ve sonuçlarını değerlendirmek. 
+Materyal ve metod: Bu çalışmada hastanemizde Şubat 2024-2025 tarihleri arasında nazolakrimal kanal tıkanıklığı 
+(NLKT) nedeni ile external dakriyosistorinostomi (DSR) uygulanan hastaların dosyaları retrospektif olarak tarandı. 
+Olguların yaş, cinsiyet gibi demografik verileri kaydedildi. Kliniğimize başvuru bulguları, tıkanıklığın lateralitesi, 
+cerrahi tekniği ve sonuçlar kaydedildi. 
+Bulgular: Çalışmaya yaş ortalamaları 47.80 olan 59 hasta alındı. %64.4 (38)’ü kadın, %35.6 (21)’sı erkedi. 
+%64.4(38)’ünde  sağ, %35.6(21)’sında sol nazolakrimal kanal tıkalıydı. %86.4’ ünde ek oftalmolojik hastalık yoktu. 
+%1.7’sinde glokom, %8.5’inde katarakt, %3.4’ünde makulopati mevcuttu. %88.1’i sadece epifora ile başvururken, 
+%11.9’ u akut dakriyosistit ile başvurmuştu. Cerrahi teknik olarak, %23.7’sine H flep, %76.3’üne U flep 
+uygulanmıştı. %93.29 olgu başarı ile sonuçlanmıştı. Başarının, ek oftalmolojik hastalık, flep tekniği ve başvuru 
+bulguları ile anlamlı bir ilişkisi bulunmadı.(p> 0.05) 
+Sonuç: External DSR, NLKT ve buna bağlı gelişen dakriyosistit tedavisinde uygulanan etkin bir cerrahidir. Farklı 
+tekniklerle yapılabilir. Uygulanan flep tekniklerinin ve hastanın başvuru bulgularının cerrahi başarı ile ilişkisi 
+bulunmamaktadır. 
+ 
+Anahtar Kelimeler: Epifora, Nazolakrimal kanal tıkanıklığı, Dakriyosistorinostomi 
+ 
+ 
+Abstract 
+ 
+Background: To evaluate the findings and results of patients who underwent external dacryocystorhinostomy in 
+our clinic. 
+Materials and Methods: The files of patients who underwent external dacryocystorhinostomy due to nasolacri-
+mal duct obstruction in our hospital between February 2024 and 2025 were reviewed retrospectively. Demo-
+graphic data such as the cases’ age and gender were noted. Findings at presentation to our clinic, laterality of the 
+obstruction, surgical technique, and results were recorded.he study was planned as descriptive cross-sectional. 
+The attitudes of the students studying at the Faculty of medicine towards scientific research were questioned. In 
+the study, the ‘’Attitude Scale Towards Scientific Research ‘’ was used. 
+Results: The study included 59 patients with a mean age of 47.80 years, 64.4% (38) female and 35.6% (21) male. 
+In addition, 64.4% (38) had right nasolacrimal duct obstruction, 35.6% (21) had left nasolacrimal duct obstruction, 
+86.4% had no additional ophthalmological disease, 1.7% had glaucoma, 8.5% had cataract, and 3.4% had macu-
+lopathy. Additionally, 88.1% presented with epiphora only, while 11.9% presented with acute dacryocystitis. Sur-
+gical techniques included H flap in 23.7% and U flap in 76.3%, and 93.29% of the cases were successful. No signif-
+icant relationship was found between success and additional ophthalmological disease, flap technique, or presen-
+tation findings (p> 0.05). 
+Conclusions: External dacryocystorhinostomy is an effective surgical technique applied in the treatment of na-
+solacrimal duct obstruction and associated dacryocystitis. It can be performed with different techniques. No re-
+lationship exists between the applied flap techniques and the patient's presentation findings or surgical success. 
+ 
+Keywords: Epiphora, Nasolacrimal duct obstruction, Dacryocystorhinostomy 
+Sorumlu Yazar / Corresponding Author 
+ 
+Dr. Mübeccel BULUT 
+Department of Ophthalmology,  
+Necip Fazıl City Hospital,  
+Kahramanmaraş, TÜRKİYE 
+ 
+E-mail: mubeccelbagdas@gmail.com    
+ 
+Geliş tarihi / Received: 05.06.2025 
+ 
+Kabul tarihi / Accepted: 30.07.2025 
+ 
+DOI: 10.35440/hutfd.1714413 
+ 
+ 
+ 
+ 
+Bulut ve ark.  
+                                                                                                                                                           Dakriyosistorinostomi Sonuçlarımız 
+Harran Üniversitesi Tıp Fakültesi Dergisi (Journal of Harran University Medical Faculty) 2025;22(3):440-444.                                             
+DOI: 10.35440/hutfd.1714413 
+ 
+ 
+ 
+ 
+441
+ 
+ 
+Giriş 
+Nazolakrimal kanal tıkanıklığı, göz yaşı kanalında kronik 
+inflamasyon ve fibrozis sonucu daralma oluşmasıdır (1). 
+Etyolojisinde, hormonal, anatomik ve fonksiyonel 
+faktörler, enfeksiyonlar, topikal ilaç kullanımı, makyaj, 
+reflü gibi faktörler yer almaktadır (2-5). Bu tıkanıklık 
+sonucu yaşam kalitesini önemli ölçüde etkileyen epifora 
+gelişir (6). Nazolakrimal kanal tıkanıklığı epiforanın en sık 
+nedenlerindendir (7). Nazolakrimal kanal tıkanıklığı ayrıca 
+dakriyosistitinde en sık nedenlerindendir. Obstruksiyon 
+ve epifora nedeni ile lakrimal kese şişer ve enfekte bir hale 
+gelir (8). Dakriyosistit görmeyi tehdit eden ciddi bir 
+komplikasyondur. Obstruksiyon varlığında medikal tedavi 
+ile birlikte cerrahi tedavi de uygulanmalıdır (9). External 
+DSR nazolakrimal kanal tıkanığı tedavisinde % 90’ lara 
+varan başarı oranına sahip altın standart bir tedavidir. 
+Kanama, granülom oluşumu ve septal adezyonlar gibi 
+komplikasyonları vardır (10). Yaygın olarak kullanılan 
+klasik yöntem anterior ve posterior fleplerin suture 
+edilmesi ile H flep oluşturulmasıdır. Fakat cerrahi alanın 
+darlığı 
+ve 
+kanama 
+gibi 
+durumlar 
+göz 
+önünde 
+bulundurulduğunda modifiye teknikler geliştirilmiştir. 
+Sadece ön fleplerin suture edildiği U flep yöntemi ile de 
+başarı oranları benzer görülmüştür (11). 
+Biz bu çalışmamızda, nazolakrimal kanal tıkanıklığı ile 
+başvuran ve external DSR uyguladığımız hastaların hangi 
+bulgularla 
+başvurduğunu, 
+hangi 
+flep 
+tekniğini 
+kullandığımızı ve sonuçlarımızı sunmayı amaçladık. 
+ 
+Materyal ve Metod 
+Bu çalışmada 2024-2025 tarihleri arasında, Necip Fazıl 
+Şehir Hastanesinde nazolakrimal kanal tıkanıklığı nedeni 
+ile External DSR uygulanan 59 hastanın dosyaları 
+retrospektif olarak taranmıştır. Tüm olgulara refraksiyon 
+kusuru ölçümü, göz içi basıncı ölçümü, görme keskinliği 
+değerlendirmesi, biyomikroskopik muayene ve fundus 
+muayenesini içeren detaylı oftalmolojik muayene ve 
+lakrimal irrigasyon yapılmıştır. Nazolakrimal kanal 
+tıkanıklığı şüphesi olan olgulara, Proparacain içeren 
+topikal anestezik damla (Alcaine %0.5) uygulamasından 
+sonra 
+lakrimal 
+kanül 
+ve 
+enjektör 
+yardımı 
+ile 
+punktumlardan izotonik sıvı ile irrigasyon yapılarak 
+punktumlardan reflü olması ve sıvının burun ve genize 
+gelmemesi ile tanı doğrulanmıştır. Olgular cerrahi 
+öncesinde 
+Kulak 
+Burun 
+Boğaz 
+uzmanı 
+değerlendirmesinden geçmiştir. Nüks DSR olan olgular, 
+nazal septum deviasyonu veya polip gibi nazal patolojisi 
+olan 
+olgular 
+çalışmaya 
+alınmamıştır. 
+Helsinki 
+prensiplerine uyulmuş ve Harran Üniversitesi Klinik 
+Araştırmalar Etik Kurulundan onay alınmıştır (Tarih: 
+14.04.2025,   Karar no: HRU/25.07.28). Olguların başvuru 
+şikayetleri ve muayene bulguları kaydedilmiştir. Yaş, 
+cinsiyet gibi demografik verileri, katarakt, glokom, retina 
+patalojileri gibi ek oftalmolojik hastalıkları, tıkanıklığın 
+lateralitesi kaydedilmiştir. Dirençli akut dakriyosistitli 
+olgulardan pürülan reflü materyalinden kültür alınmıştır. 
+Hastalar 1.günü, 10. günü ve 3. ayında kontrol edilmiştir.  
+Operatif başarı kriterleri olarak; postoperatif dönemde 
+epifora 
+semptomunun 
+bulunmaması 
+ve 
+lakrimal 
+irrigasyon testinde açıklığın sağlanması kabul edilmiştir. 
+ 
+Cerrahi Yöntem 
+Genel anestesiyi ve steril olarak örtünmeyi takiben, 
+lidokain (%2) ve adrenalin (0.0125 mg/ml) ile subkutan 
+infiltrasyon yapılmış ve adrenalin(%0.1) ile burun 
+tamponu uygulanmıştır. Anguler ven korunarak cilt ve cilt 
+altı kas dokusu insizyonu yapılmıştır. Medial kantal 
+tendon ve periost açığa çıkarılıp lakrimal kese lakrimal 
+fossadan ayrılmıştır. Kerrison yardımı ile lakrimal kemik 
+ve frontal kemiğin maxiller parçasından yaklaşık 15*15 
+mm lik bir alan açıldı. Lakrimal keseden ve nazal 
+mukozadan H şeklinde anterior ve posterior flepler 
+oluşturuldu. Üst ve alt punktumlar dilate edilerek 
+bikanaliküler silikon tüp yerleştirildi.  U flepte sadece 
+anterior flepler 6/0 absorbable sütur ile süture edilirken 
+posterior flepler exise edildi. H flepte ise anterior ve 
+posterior flepler suture edildi.  Cilt altı ve cilt suture 
+edilerek ameliyata son verildi. 
+Çalışma kapsamındaki cerrahi müdahaleler, beş farklı of-
+talmolog tarafından gerçekleştirilen ameliyatların retros-
+pektif analizi yoluyla değerlendirilmiştir. Tüm cerrahi pro-
+sedürler, önceden belirlenmiş standart cerrahi protokol 
+rehberliğinde uygulanmıştır. Cerrahi teknikler arasındaki 
+tek farklılık, uygulanan flep metodolojilerinde gözlemlen-
+miştir. Postoperatif topikal kortikosteroid ve antibiyotik 
+kombine damlaları (%0.3 tobramisin+ %0.1 dexametazon, 
+Tobradex, Alcon, USA 4*1), oral antibiyotik( amoksisilin 
+625 mg + klavulanat 125 mg, 2*1 gram) tedavisi 
+başlanmıştır. 
+ 
+İstatistiksel Analiz 
+Demografik veriler ve klinik bulguların tanımlayıcı 
+istatistikleri SPSS 23 proğramı ile yapıldı. Gruplar 
+arasındaki fark Fisher testleri (hücrelerde gözlenen 
+değerlerin Ki- kare testi varsayımlarını sağlamadığı 
+durumda) kullanılarak karşılaştırıldı. P değerinin 0.05’ den 
+küçük olduğu durumlar anlamlı olarak kabul edildi. 
+ 
+Bulgular 
+Çalışmaya yaş ortalamaları 47.80 olan 59 hasta alındı. 
+%64.4 (38)’ü kadın, %35.6 (21)’sı erkedi. %62.7(37)’sinde 
+sağ, %35.6(21)’sında sol nazolakrimal kanal tıkalıydı. 
+%86.4 (51)’ ünde ek oftalmolojik hastalık yoktu. 
+%1.7(1)’sinde glokom, %8.5(5)’inde katarakt, %3.4 
+(2)’ünde makulopati mevcuttu. %88.1 (52)’i sadece 
+epifora ile başvururken, Hastaların %11,9'u (n=7) akut 
+dakriyosistit tanısı ile kliniğimize başvurmuştur (Tablo 1). 
+Dakriyosistit tanısı alan üç olguda oral antibiyotik tedavi-
+sine yanıt alınamamıştır. Bu dirençli olgulardan preopera-
+tif ve intraoperatif dönemde mikrobiyal kültür örnekleri 
+elde edilmiştir. 
+ 
+Bulut ve ark.  
+                                                                                                                                                           Dakriyosistorinostomi Sonuçlarımız 
+Harran Üniversitesi Tıp Fakültesi Dergisi (Journal of Harran University Medical Faculty) 2025;22(3):440-444.                                             
+DOI: 10.35440/hutfd.1714413 
+ 
+ 
+ 
+ 
+442
+ 
+ 
+Kültür alınmadan 1 gün öncesinde oral antibiyotik tedavisi 
+(amoksisilin 625 mg + klavulanat 125 mg) bir gün 
+öncesinde kesilmesine dikkat edildi. 1 olguda S.pnemonia 
+üredi, direnç sorunu yoktu. 1 olguda MRSA( Metisilin 
+Rezistance Staff. Aerus) üredi. Bu iki olguda cerrahi tedavi 
+ve uygun antibiyotik tedavisi ile başarı sağlandı, diğer 
+dirençli dakriyosistit olgumuzda ise ameliyat öncesi ve 
+esnasında kültürde üreme olmadı. 10. Gün alınan 
+kültüründe MRSA ve Pseudomanas üredi. Bu olgumuzda 
+konjenital glokom öyküsü mevcuttu ve uzun zamandır 
+prezervanlı topikal antiglokomatöz ilaç kullanım öyküsü 
+vardı. Cerrahi başarı sağlanamadı. Flep tekniği U flepti. 
+Cerrahi teknik olarak, %23.7’ sine H flep, %76.3’ünde U 
+flep uygulanmıştı. %93.29 olgu başarı ile sonuçlanmıştı. 
+Cerrahi başarı ile ek oftalmolojik hastalık varlığı, flep tek-
+niği ve başvuru bulguları arasında istatistiksel olarak an-
+lamlı bir korelasyon saptanmadı (p>0.05, Tablo 2). Çalış-
+mamızda 4 olgu, postoperatif dönemde epifora sempto-
+munun persiste etmesi ve lakrimal irrigasyon testinin açık 
+olmaması nedeniyle cerrahi başarısızlık olarak sınıflandı-
+rıldı. 
+Perioperatif ve postoperatif dönemde hiçbir olguda ka- 
+nama, granülom formasyonu, nazal septal adezyonlar gibi 
+lokal komplikasyonlar ya da anestezi yöntemine bağlı sis-
+temik komplikasyonlar gözlenmedi. 
+ 
+Tablo 1. Olguların demografik ve klinik özellikleri 
+Demografik ve Klinik  Özellikler 
+N (%) 
+Yaş 
+(Ort   ± SS) 
+47.80±13.49 
+Cinsiyet  
+Erkek: 21 (%35.6) 
+Kadın:  38 (%64.4) 
+Lateralite 
+Sağ: 38 (%64.4) 
+Sol: 21 (%35.6) 
+Flep yöntemi 
+H:14 (%23.7) 
+U:45 (%76.3) 
+Klinik geliş  
+Dakriyosistit: 7 (%11.9) 
+Sadece Epifora: 52 (%88.1) 
+Ek oftalmolojik hastalık  
+Yok: 51 (%86.4) 
+Glokom:1 (%1.7) 
+Katarakt: 5 (%8.5) 
+Makülopati: 2 (%3.4) 
+Cerrahi başarı 
+Başarılı: 55 (%93.29) 
+Başarısız: 4 (%6.8) 
+ 
+Tablo 2. Değişkenlerin başarıya etkisi 
+ 
+Başarısız 
+Sayı/yüzde 
+Başarılı 
+p 
+Ek hastalık var 
+Ek hastalık yok  
+2  (%50) 
+2  (%50) 
+6   (%10.9) 
+49  (%89.1) 
+0.085 
+U tekniği 
+H tekniği 
+2 (%50) 
+2 (%50) 
+43 (%78.2) 
+12 (%21,8) 
+0.236 
+Dakriyosistit 
+Sadece epifora 
+1 (%25) 
+3 (%75) 
+6    (%10.9) 
+49  (%89.1) 
+0.405 
+p <0.05 istatistiksel olarak anlamlı. 
+Tartışma 
+Eksternal 
+DSR, 
+nazolakrimal 
+kanal 
+obstrüksiyonu 
+tedavisinde yaygın olarak uygulanan etkili bir cerrahi 
+prosedürdür. Literatürde %63-94 arasında değişen başarı 
+oranları rapor edilmektedir (10). Yeni oluşturulan mukozal 
+anastomozlarda 
+granülasyon 
+dokusu 
+formasyonu, 
+reobstrüksiyona yol açarak cerrahi başarısızlığın primer 
+nedeni olarak tanımlanmaktadır (12). Çalışmamızda %93.29 
+oranında cerrahi başarı elde edildi. Hasta kohortumuzun 
+%64.4'ünü kadın hastalar oluşturmuş olup, ortalama yaş 
+47.8 
+yıl 
+olarak 
+hesaplandı. 
+Nazolakrimal 
+kanal 
+obstrüksiyonunun kadın cinsiyette daha yüksek prevalans 
+göstermesinin etiyopatogenezi literatürde kapsamlı olarak 
+araştırılmıştır. İlk dönem çalışmalarda bu cinsiyet farklılığı 
+kadınlardaki artmış lakrimasyon eğilimiyle ilişkilendirilmiş 
+olsa da, sonraki araştırmalar nazolakrimal kanalın kadınlarda 
+anatomik olarak daha dar, uzun ve kıvrımlı bir yapıya sahip 
+olduğunu ortaya koymuştur. Ayrıca hormonal değişikliklerin 
+de bu cinsiyet-spesifik farklılığın etiyolojisinde rol oynayabi-
+leceği bildirilmiştir. (13-15).  
+External DSR için standart yöntem mukozal anastomoz 
+oluşturmak için nazal mukoza ve lakrimal keseden H flebi 
+oluşturak ön ve arka flepleri süture etmektir. Fakat 
+ameliyatın küçük ve kanamalı bir bölgede olması bunu her  
+ 
+zaman mümkün kılmamaktadır. Bu nedenle sadece anterior 
+fleplerin süture edilip posterior fleplerin eksize edilmesi, 
+yada posterior fleplerin de eksize edilmesi ve bu 
+yöntemlerin birbirine üstünlüğü tartışmalıdır. Bildirilen 
+yayınlarda bu tekniklerin başarıda birbirine üstünlükleri 
+bulunmamaktadır ve başarı oranları benzerdir. Posterior 
+fleplerin sütüre edimesi kanama nedeni ile zor olmakta ve 
+vakit alıcı olabilmektedir (16-19). Bu nedenle çalışmamızda 
+da literatürle uyumlu olarak posterior fleplerin çoğunlukla 
+sütüre edilmemesi tercih edilmiştir. Her iki flep tekniği ara-
+sında cerrahi başarı oranları açısından istatistiksel olarak an-
+lamlı fark saptanmamıştır. 
+Katuwal ve arkadaşları tarafından gerçekleştirilen 83 olguluk 
+prospektif çalışmada, yalnızca anterior flep sütürasyonu uy-
+gulanan hastalar ile hem anterior hem posterior flep sütü-
+rasyonu uygulanan hastalar karşılaştırılmıştır. Altı aylık takip 
+sonuçlarına göre, her iki grup arasında cerrahi başarı oranları 
+açısından istatistiksel olarak anlamlı fark saptanmamıştır 
+(11). Serin ve arkadaşları ise çift flep anastomozu ile tek an-
+terior flep anastomozunu karşılaştırdıkları çalışmalarında, 
+her iki teknik arasında başarı oranları açısından benzer so-
+nuçlar elde etmişlerdir. Yazarlar, anterior flep anastomoz 
+Bulut ve ark.  
+                                                                                                                                                           Dakriyosistorinostomi Sonuçlarımız 
+Harran Üniversitesi Tıp Fakültesi Dergisi (Journal of Harran University Medical Faculty) 2025;22(3):440-444.                                             
+DOI: 10.35440/hutfd.1714413 
+ 
+ 
+ 
+ 
+443
+ 
+ 
+tekniğinin daha az intraoperatif kanama ve artmış hasta kon-
+foru sağladığını bildirmişlerdir (18). Bizim çalışmamızda da 
+flep tekniği (H flep %23,7 vs U flep %76,3) ile başarı oranları 
+arasında anlamlı ilişki bulunmamıştır.  Bu bulgu Katuwal ve 
+arkadaşlarının sonuçları ile uyumludur. Ayrıca bizim çalışma-
+mızda, Serin ve arkadaşlarının çalışmasına benzer şekilde, 
+akut ya da kronik dönemde kanama, granülom oluşumu, 
+septal adezyonlar gibi komplikasyonlar görülmemiş olup, bu 
+durum literatürle uyumlu bulunmuştur. 
+Dakryosistit etiyolojisinde nazolakrimal kanal obstrüksiyonu 
+primer nedenler arasında yer almakta olup, uygun tedavi 
+edilmediği takdirde görme fonksiyonlarında kalıcı kayıplara 
+yol açabilmektedir. Streptococcus pneumoniae, dakryosistit 
+olgularında en sık izole edilen mikroorganizma olarak rapor 
+edilmektedir (20). Çalışmamızda akut dakryosistit tablosu ile 
+başvuran 3 olguda, başlangıç ampirik antibiyotik tedavisine 
+rağmen klinik yanıt elde edilememiştir. Bu olgulara eksternal 
+DSR 
+prosedürü 
+uygulanmış 
+ve 
+kültür-antibiyogram 
+sonuçlarına göre hedefe yönelik antimikrobiyal tedavi 
+başlanmıştır. 
+S. pneumoniae izole edilen olguda medikal ve cerrahi tedavi 
+kombinasyonu ile tam klinik iyileşme sağlanmıştır. MRSA 
+pozitif 
+olguda 
+antibiyogram 
+rehberliğinde 
+tedavi 
+modifikasyonu yapılmış ve başarılı sonuç elde edilmiştir. 
+MRSA 
+ve 
+Pseudomonas 
+aeruginosa 
+ko-enfeksiyonu 
+saptanan olguda ise antibiyogram yönlendirmeli tedaviye 
+rağmen klinik başarı elde edilememiştir. Bu olgunun dikkat 
+çekici özelliği, konjenital glokom tanısı nedeniyle uzun süreli 
+topikal antiglokomatöz ajan kullanım öyküsü olmuştur 
+(brimonidine ve brinzolamide/timolol kombinasyonu, günde 
+2 kez).Ek oftalmolojik hastalık varlığı ile cerrahi başarı oran-
+ları arasında istatistiksel olarak anlamlı bir korelasyon sap-
+tanmamış olmasına rağmen, bu bulgu dikkat çekici nitelikte-
+dir.  
+Antiglokomatöz preparatlarda antimikrobiyal etkinlik sağla-
+mak amacıyla kullanılan prezervatif ajanların oküler yüzeyde 
+sitotoksik etkiler oluşturduğu literatürde bilinmektedir (21). 
+Benzalkonium klorürün korneal ve konjonktival dokularda 
+olumsuz etkiler yarattığı gösterilmiştir. Topikal alfa-adrener-
+jik agonistlerin oküler yüzeyde alerjik reaksiyonlar ve infla-
+matuvar süreçleri tetiklediği bilinmektedir. Lakrimal drenaj 
+sisteminin mukozal yapıları da bu prezervatif ajanların olum-
+suz etkilerine maruz kalmaktadır.  
+Endoskopik DSR prosedürlerinde prezervatif ajanların fibro-
+tik değişikliklere ve skar formasyonuna yol açarak cerrahi ba-
+şarı oranlarını azalttığı rapor edilmiştir (22,23). Nazolakrimal 
+kanal obstrüksiyonu insidansının topikal antiglokomatöz 
+ajan kullanan hastalarda kontrol grubuna kıyasla anlamlı ola-
+rak yüksek olduğu saptanmıştır (24). 
+Mandal ve arkadaşları tarafından 144 olgu üzerinde gerçek-
+leştirilen 5 yıllık retrospektif çalışmada, topikal antiglokoma-
+töz ajan kullanımının DSR başarısızlık oranlarını artırdığı, bu 
+etkinin özellikle karbonik anhidraz inhibitörleri ve beta-blo-
+körlerde belirgin olmak üzere endoskopik DSR prosedürle-
+rinde daha fazla gözlendiği rapor edilmiştir (22). Topikal an-
+tiglokomatöz tedavi kullanımının DSR başarısını olumsuz et-
+kileyebileceği, bu nedenle preoperatif değerlendirmede 
+hastaların oftalmolojik ilaç kullanım öyküsünün detaylı sor-
+gulanmasının dikkate alınması gerektiğini ortaya koymakta-
+dır. 
+Bu çalışmanın bazı limitasyonları bulunmaktadır. İlk olarak, 
+çalışmamızın retrospektif tasarımı ve görece küçük örnek-
+lem büyüklüğü sonuçların genellenebilirliğini sınırlandırmak-
+tadır. İkinci olarak, cerrahi prosedürler standardize edilmiş 
+protokol dahilinde gerçekleştirilmiş olmasına rağmen, farklı 
+cerrahların deneyim düzeyleri arasındaki potansiyel farklılık-
+lar sonuçları etkilemiş olabilir. Üçüncü olarak, tek merkez ta-
+sarımı nedeniyle hasta popülasyonunun homojenliği ve so-
+nuçların dış geçerliliği sınırlıdır. Ayrıca, nazolakrimal kanal tı-
+kanıklığının tanısı klinik bulgular ve lakrimal irrigasyon testi 
+ile konulmuş olup, dakriyosistografi veya dakriyosintigrafi 
+gibi görüntüleme yöntemleri kullanılmamıştır. Bu durum, 
+tanı doğruluğunu etkileyebilecek bir faktör olarak değerlen-
+dirilmelidir. Görüntüleme yöntemlerinin kullanılmamasının 
+nedenleri arasında uygulama zorluğu, maliyet ve radyasyon 
+maruziyeti yer almaktadır.  
+Postoperatif takip süresinin görece kısa olması çalışmamızın 
+bir diğer limitasyonudur. Bu yaklaşım, cerrahi prosedürlerin 
+primer etkinliğini değerlendirmek ve postoperatif dönemde 
+gelişebilecek sekonder faktörlerin (topikal medikasyon kul-
+lanımı, sekonder enfeksiyonlar, fibrotik değişiklikler) mini-
+mize etmek amacıyla kısa dönem sonuçları analiz edilmiştir. 
+ 
+Sonuç 
+Sonuç olarak, eksternal DSR nazolakrimal kanal obstrüksi-
+yonu tedavisinde yüksek başarı oranları ile uygulanabilen 
+güvenli ve etkili bir cerrahi prosedürdür. Farklı flep teknikleri 
+benzer başarı oranları sunmakta olup, cerrahın deneyimi ve 
+tercihi doğrultusunda seçim yapılabilir. Eşlik eden oftalmo-
+lojik hastalıklar ve başvuru bulgularının cerrahi başarıyı etki-
+lememesi, prosedürün geniş hasta popülasyonunda güvenle 
+uygulanabileceğini göstermektedir. 
+ 
+Etik onam: Helsinki prensiplerine uyulmuş ve Harran Üniversitesi Klinik 
+Araştırmalar Etik Kurulundan onay alınmıştır (Tarih: 14.04.2025,   Karar no: 
+HRU/25.07.28). 
+Yazar Katkıları:  
+Konsept: M.B. 
+Literatür Tarama: M.B., H.B.Ç. 
+Tasarım: A.H.R. 
+Veri toplama: S.Ç., O.D., F.U. 
+Analiz ve yorum: M.B., A.H.R. 
+Makale yazımı: M.B. 
+Eleştirel incelenmesi: A.H.R. 
+Çıkar Çatışması: Yazarlar çıkar çatışması olmadığını bildirmişlerdir. 
+Finansal Destek: Bu çalışma herhangi bir fon tarafından desteklenmemiştir. 
+ 
+Kaynaklar 
+1. 
+Ali MJ, Paulsen F. Etiopathogenesis of Primary Acquired Nasolacrimal 
+Duct Obstruction: What We Know and What We Need to Know. Opht-
+halmic 
+Plast 
+Reconstr 
+Surg. 
+2019; 
+35(5): 
+426-433. 
+doi: 
+10.1097/IOP.0000000000001310. 
+2. 
+Kashkouli MB, Sadeghipour A, Kaghazkanani R, Bayat A, Pakdel F, Ag-
+Bulut ve ark.  
+                                                                                                                                                           Dakriyosistorinostomi Sonuçlarımız 
+Harran Üniversitesi Tıp Fakültesi Dergisi (Journal of Harran University Medical Faculty) 2025;22(3):440-444.                                             
+DOI: 10.35440/hutfd.1714413 
+ 
+ 
+ 
+ 
+444
+ 
+ 
+hai GH. Pathogenesis of primary acquired nasolacrimal duct obstruc-
+tion. Orbit. 2010; 29(1): 11-5. doi: 10.3109/01676830903207828. 
+3. 
+Garfin SW. Etiology of dacryocystitis and epiphora. Arch Ophthalmol. 
+1942; 27: 167–88. 
+4. 
+Ali MJ, Schicht M, Paulsen F. Qualitative hormonal profiling of the lac-
+rimal drainage system: potential insights into the etiopathogenesis of 
+primary acquired nasolacrimal duct obstruction. Ophthalmic Plast Re-
+constr Surg. 2017; 33: 381–8. doi: 10.1097/IOP.0000000000000962. 
+5. 
+Mehta S, Ying GS, Hussain A, Harvey JT. Is gastroesophageal reflux di-
+sease associated with primary acquired nasolacrimal duct obstruc-
+tion?. Orbit. 2018;37: 135–9. doi: 10.1080/01676830.2017.1383456. 
+6. 
+Lee JM, Baek JS. Etiology of epiphora. Korean J Ophthalmol. 2021; 35: 
+349-54. 
+7. 
+Jin H, Chen X, Ji F, Liu Y, Sheng Y, Wang G, et al. Changes in tear cyto-
+kine and lactoferrin levels in postmenopausal women with primary 
+acquired nasolacrimal duct obstruction complicated with obstructed 
+meibomian gland dysfunction. BMC Ophthalmol. 2025; 25(1): 29. doi: 
+10.1186/s12886-025-03866-7.  
+8. 
+Liu S, Zhang H, Zhang YR, Chen LJ, Yu XY. The efficacy of endoscopic 
+dacryocystorhinostomy in the treatment of dacryocystitis: A systema-
+tic review and meta-analysis. Medicine (Baltimore). 2024; 103(11): 
+e37312. doi: 10.1097/MD.0000000000037312. 
+9. 
+Mukhtar SA, Jamil AZ, Ali Z. Efficacy of external dacryocystorhinos-
+tomy (DCR) with and without mitomycin-C in chronic dacryocystitis. J 
+Coll 
+Physicians 
+Surg 
+Pak. 
+2014; 
+24(10): 
+732-735. 
+doi: 
+10.2014/JCPSP.732735. 
+10. Ishio K, Sugasawa M, Tayama N, Kaga K. Clinical usefulness of endos-
+copic intranasal dacryocystorhinostomy. Acta Otolaryngol Suppl. 
+2007; (559): 95–102. doi: 10.1080/03655230701597499. 
+11. Katuwal S, Aujla JS, Limbu B, Saiju R, Ruit S. External dacryocystorhi-
+nostomy: do we really need to repair the posterior flap?. Orbit. 2013; 
+32(2): 102–6. doi: 10.3109/01676830.2013.764451. 
+12. Jones BR. Principles of lacrimal surgery. Trans Ophthalmol Soc UK. 
+1973; 93: 611–8. 
+13. Fuchs E. Textbook of Ophthalmology. Translated by Duane A, 2nd 
+American edition. New York: D Appleton, 1899: 572. 
+14. Schaeffer JP. II. Variations in the anatomy of the nasolachrymal pas-
+sages. Ann Surg. 1911; 54: 148–52.  
+15. Schaeffer JP. The Nose, Paranasal Sinus, Nasolacrimal Passageways 
+and Olfactory Organ in Man. Philadelphia: P.Blakiston’s Son & Co, 
+1920. 
+16. Baldeschi L, Nardi M, Hintschich CR, Koornneef L. Anterior suspended 
+flaps: a modified approach for external dacryocystorhinostomy. Br J 
+Ophthalmol. 1998; 82: 790–2. doi: 10.1136/bjo.82.7.790. 
+17. Becker BB. Dacryocystorhinostomy without flaps. Ophthalmic Surg. 
+1988; 19: 419–27. 
+18. Serin D, Alagöz G, Karsloğlu S, Celebi S, Kükner S. External dacryocys-
+torhinostomy: Double-flap anastomosis or excision of the posterior 
+flaps?. Ophthalmic Plast Reconstr Surg. 2007; 23(1): 28-31. doi: 
+10.1097/IOP.0b013e31802dd766. 
+19. Mansour HO, Elzaher Hassan R, Tharwat E, Fekry Elgazzar A, Abd El-
+Salam ME, Ramadan Ezzeldin, et al. Comparing the success rate of 
+external dacryocystorhinostomy with anterior flap versus flap exci-
+sion in managing chronic dacryocystitis. Med Hypothesis Discov Innov 
+Ophthalmol. 2023; 12(1): 1-8. doi: 10.51329/mehdiophthal1464.  
+20. Wu JG, Jiang WH, Yang MS. Analysis the effection of treating neonatal 
+dacryocystitis by probing of lacyimal passage. Chin J Strabismus Pedi-
+atr Ophthalmol. 2013; 21: 34–6. 
+21. Freeman, P. David, and Malik Y. Kahook. "Preservatives in topical 
+ophthalmic medications: historical and clinical perspectives." Expert 
+Review of Ophthalmology. 2009; 4(1): 59-64. 
+22. Mandal P. Ahluwalia H. Do topical ocular antihypertensives affect 
+Dacryocystorhinostomy outcomes: The Coventry experience. Eye 
+(Lond). 2022; 36: 135–139. doi: 10.1038/s41433-021-01468-3. 
+23. Inoue K. Managing adverse effects of glaucoma medications. Clin 
+Ophthalmol. 2014;8:903–13. doi: 10.2147/OPTH.S44708.  
+24. Seider N, Miller B, Beiran I. Topical glaucoma therapy as a risk factor 
+for nasolacrimal duct obstruction. Am J Ophthalmol. 2008;145:120–
+3. doi: 10.1016/j.ajo.2007.07.033.  
+ 

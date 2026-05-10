@@ -1,0 +1,1250 @@
+International Journal of Language and Translation Studies, 5/1 (2025), 166-195 
+e-ISSN: 2791-7290 
+ 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir 
+İnceleme *  
+Derya OĞUZ1 
+ 
+ 
+ 
+ 
+ 
+Öz  
+Bu çalışmada yapay zekanın önemli bileşenleri olan doğal dil işleme 
+(DDİ) ve derin öğrenme modelleri çok yönlü olarak incelenmiş; bu 
+doğrultuda yapay sinir ağları üzerinde gerçekleşen metin işleme 
+süreçleri, çeviri bakımından ele alınmıştır. Yapay sinir ağlarının 
+gelişimi 
+ve 
+dolayısıyla 
+derin 
+öğrenme 
+algoritmalarının 
+yaygınlaşması, doğal dil işleme alanında önemli gelişmelere yol 
+açmıştır. Yapay zekâ alanında büyük bir dönüşümle yerini alan 
+nöral makine çevirisi, çeviri dünyasını tartışmalara açmıştır. Nöral 
+makine çevirisinin henüz insan düzeyinde güvenilir çeviri yapıp 
+yapmadığı tartışılsa da çevirmenlere sağlayacağı hız ve kolaylık, 
+şüphesiz endüstri 4.0 çağında dijitalleşme ve otomasyona katkı 
+sunacaktır.  
+Doğal dil işleme bilgisayarların insan dilini işlemesi amacıyla çeşitli 
+yöntemler kullanmaktadır. Bu yöntemler arasında yapay sinir 
+ağlarından 
+oluşan 
+derin 
+öğrenme 
+algoritmaları, 
+günümüz 
+uygulamalarını ve nöral makine çevirisini domine etmektedir. Bu 
+doğrultuda doğal dil işlemede ve derin öğrenme mekanizmalarında 
+çeşitli metin işleme süreçleri gerçekleşmektedir. Metin işleme 
+süreçleri dil modelinde kullanılan mimarinin niteliğine bağlı olarak 
+değişiklik arz edebilir. Çalışmada en güncel dil mimarileri ve 
+özellikleri incelenerek dil modellerine içkin metin işleme süreçleri, 
+insan beyninin dil işleme süreçleri ile karşılaştırılarak betimleyici 
+ve analitik bir yaklaşım çerçevesinde ele alınmıştır. Çalışma, doğal 
+dil işleme ve derin öğrenme teknolojilerinin gelecekte çevirmenlik 
+mesleğinde önemli bir rol oynayacağı gerçekliğini ve çevirmenlerin 
+bu dönüşüme karşı teknolojik gelişmeleri takip etmeleri 
+gerekliliğini ortaya koymuştur. 
+ 
+Anahtar Kelimeler: doğal dil işleme, derin öğrenme, metin işleme 
+süreçleri, çeviri.
+ 
+* Etik Beyan: * Bu çalışmanın hazırlanma sürecinde bilimsel ve etik ilkelere uyulduğu ve yararlanılan tüm çalışmaların 
+kaynakçada belirtildiği beyan olunur. 
+1 Doç. Dr., Marmara Üniversitesi, İnsan ve Toplum Bilimleri Fakültesi, Mütercim ve Tercümanlık Bölümü, Almanca Mütercim 
+ve Tercümanlık Anabilim Dalı, İstanbul, Türkiye, derya.oguz@marmara.edu.tr, ORCID ID: 0000-0001-5228-076X 
+ 
+ 
+ 
+Geliş Tarihi:  
+17.03.2025 
+Kabul Tarihi:  
+12.05.2025 
+Yayım Tarihi:  
+24.06.2025 
+Değerlendirme: 
+İki Dış Hakem / 
+Çift Taraflı Körleme 
+Makale Türü: Derleme 
+  
+Atıf Bilgisi: 
+Oğuz, Derya (2025). Doğal Dil İşleme, 
+Derin Öğrenme ve Metin İşleme: Çeviri 
+Süreçlerine 
+Yönelik 
+Bir 
+İnceleme. 
+International Journal of Language and 
+Translation Studies, 5/1, 166-195. 
+ 
+Benzerlik Taraması: Yapıldı – 
+iThenticate 
+Etik Bildirim: 
+lotusjournal@selcuk.edu.tr  
+Çıkar Çatışması: Çıkar çatışması beyan 
+edilmemiştir. 
+Finansman:  Bu araştırmayı desteklemek 
+için dış fon kullanılmamıştır. 
+Telif Hakkı & Lisans Yazarlar: Dergide 
+yayınlanan çalışmalarının telif hakkına 
+sahiptirler ve çalışmaları CC BY-NC 4.0  
+lisansı altında yayımlanmaktadır. 
+International Journal of Language and Translation Studies, 5/1 (2025), 166-195 
+https://dergipark.org.tr/tr/pub/lotus 
+ 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational 
+Perspective * 
+Derya OĞUZ2 
+ 
+ 
+Abstract 
+This study offers a multifaceted examination of Natural Language 
+Processing (NLP) and deep learning models, which are key 
+components of artificial intelligence. In this context, text processing 
+workflows operating on artificial neural networks are discussed 
+with a particular focus on translation. The advancement of artificial 
+neural networks and the widespread adoption of deep learning 
+algorithms have led to significant developments in the field of NLP. 
+Neural machine translation, which has emerged as a transformative 
+development in artificial intelligence, has sparked debates within 
+the translation community. Although it is still under discussion 
+whether neural machine translation can produce translations at a 
+human level of reliability, the speed and convenience it offers 
+undoubtedly contribute to digitalization and automation in the era 
+of Industry 4.0. 
+NLP employs various methods to enable computers to process 
+human language. Among these, deep learning algorithms based on 
+artificial neural networks dominate current applications and neural 
+machine translation systems. Accordingly, diverse text processing 
+workflows are carried out within NLP and deep learning 
+mechanisms. These workflows may vary depending on the 
+architectural characteristics of the language model being used. The 
+study examines recent language model architectures and their 
+properties, with a particular focus on the text processing procedures 
+inherent to these models. These procedures are examined in relation 
+to the language processing mechanisms of the human brain, within 
+the framework of a descriptive analytical approach. The study 
+concludes that NLP and deep learning technologies will play a 
+significant role in the future of the translation profession and 
+emphasizes the necessity for translators to follow technological 
+advancements in response to this transformation. 
+ 
+Keywords: natural language processing, deep learning, text 
+processing workflows, translation. 
+ 
+* Ethical Statement: * It is declared that scientific and ethical principles have been followed while carrying out and writing this 
+study and that all the sources used have been properly cited. 
+2 Assoc. Prof., Marmara University, Faculty of Humanities and Social Sciences, Department of Translation and Interpretation 
+(German), İstanbul, Turkiye, derya.oguz@marmara.edu.tr, ORCID ID: 0000-0001-5228-076X 
+ 
+ 
+ 
+Date of Submission:  17.03.2025 
+Date of Acceptance:  15.05.2025 
+Date of Publication:  24.06.2025 
+Review:          Double-blind peer review 
+Article Type: Review 
+ 
+Citation: 
+Oğuz, Derya (2025). Natural Language 
+Processing, Deep Learning, and Text 
+Processing: A Translational Perspective. 
+International Journal of Language and 
+Translation Studies, 5/1, 166-195.  
+ 
+Plagiarism Check: 
+Yes - iThenticate 
+Complaints: lotusjournal@selcuk.edu.tr  
+Conflict of Interest: The author(s) has 
+no conflict of interest to declare. 
+Grant 
+Support: 
+The 
+author(s) 
+acknowledges that they received no 
+external funding to support this research. 
+Copyright & License: Authors publishing 
+in the journal retain the copyright to their 
+work and their work is licensed under the 
+CC BY-NC 4.0. 
+ 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+168 
+ 
+Giriş   
+Doğal dil işleme-DDI (Natural Language Processing-NLP), insan bilgisayar etkileşiminde 
+bilgisayarların insan dilini kullanmaya başlaması amacıyla (Adalı, 2016: 3) ortaya çıkmış, 
+zamanla bilgisayarların doğal dili işlemesiyle hesaplamalı dilbilim (computational lingusitics-
+CL) adıyla da anılır olmuştur (Seker, 2015: 14; Alpaydın, 2022: 135). Yapay zekâ araçlarında 
+dil modelleri olarak karşımıza çıkan doğal dil işleme, bilgisayar teknolojilerinde kullanılmak 
+üzere insan dilini analiz eder, işler ve çıktılara dönüştürür. Doğal dil işleme günümüzde sosyal 
+medya analizi, sohbet botları, akıllı asistanlar, çağrı merkezlerinde sesli yanıt sistemleri, 
+müşteri memnuniyet analizi, dil çeviri uygulamaları gibi birçok alanda karşımıza çıkmaktadır.  
+Doğal dil işleme, yapay zekâ alanında makine öğrenimi başlığıyla ilişkilendirilebilir. Makine 
+öğrenimi büyük veriden bilgi çıkararak öğrenen bir sistemdir. Bundan önce bilgisayar 
+programcıları, programlama yapar, verileri ve bununla ilgili kuralları sisteme girer, sistemin 
+bundan çıktı elde etmesini sağlardı. Bu şekilde lineer bir düzenek ile işleyen, girdilerden çıktı 
+üreten tek taraflı bir sistem mevcuttu. Teknolojinin gelişmesi ve internet ile ortaya büyük 
+miktarda veri çıktı. Söz konusu verilerin işlenmesi güçleşmeye başladı. 2000’li yıllarda 
+programlama yerine öğrenme algoritmaları devreye girdi (Alpaydın, 2022: 27). Son yıllarda 
+yapay zekâ alanında makine öğreniminde yapay sinir ağları ile derin öğrenme gibi gelişmeler 
+sayesinde ise sistem verilerden öğrenerek, modeller üretmeye, kendi kendine öğrenmeye ve 
+kendini optimize etmeye başladı3.  
+Doğal dil işleme, bilgisayar bilimleri, yapay zekâ ve dilbilimin kesişim kümesini oluşturan 
+disiplinler arası bir araştırma alanıdır (Pekcoşkun Güner, 2023: 59). Doğal dil işleme süreçleri 
+Khurana v.d.’ne (2022) göre temelde “doğal dilin anlaşılması” ve “doğal dilin yeniden 
+üretilmesi” olarak ikiye ayrılmaktadır (akt. a.g.e., 59). Doğal dilin anlaşılmasında dilbilim 
+alanlarından yararlanılır. Doğal dil işleme, bu yönüyle hesaplamalı dilbilim olarak da 
+adlandırılır (Alpaydın, 2022: 135). Kabaca söz edecek olursak sözü edilen dilbilim alanları: ses 
+bilgisi örüntüleri ve birliktelikleri ile ilgilenen fonetik ve fonoloji, dildeki sözcüklerin kök, yapı, 
+ek ve anlama etkisi bilgisiyle ilgilenen morfoloji, tümce ögeleri ve dizilişleri ile ilgilenen 
+sözdizimi, metinde niyet ve bağlamın belirleyiciliğini inceleyen edimbilim (pragmatik) ve 
+anlambilimdir.  
+ 
+3 Bundan önceki süreçte bilgisayarlar için programlama dilinde programlar yazılıyordu. Şimdi ise örneklerden zengin veri 
+toplanıyor. Veri, öğrenme algoritması tarafından bu verinin tanımladığı gerekliliklerle örtüşecek biçimde öğreniyor ve otomatik 
+olarak güncellenerek kendini düzenliyor. Bir tür tersine mühendislik gibi düşünülebilir (Ethem Alpaydın, 2022: 11;  
+https://www.youtube.com/watch?v=Bee_sls2FlE&ab_channel=TekeTekBilim 10.03.2025).  
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+169 
+ 
+Makine öğrenimi ve doğal dil işleme, dilbilim alanlarını kullanırken derin öğrenme modelinden 
+faydalanır. Bilgisayar dilinde her şey matematiksel temsillerle ifade edildiğinden doğal dil 
+işleme adımlarında dilsel ifadelerin anlaşılması için bu disiplinlerden faydalanarak dil, 
+matematiksel sayı kümelerine ve kodlara dönüşür. Makine öğreniminde bilgisayarın bir girdiyi 
+tanıması için eğitilmesi sırasında her bir sözcüğe anlam verilir. Sözcüklere yüklenen anlamlar, 
+bağlam içinde ilişkilendirilerek matematiksel bir karşılık bulur. Anlamlarla ilişkilendirilen ve 
+matematiksel bir karşılığı olan sözcükler, bilgisayar dilinde vektör/yöney denilen ve bir tür 
+anlam evrenini temsil eden grafikte aynı yöne bakar. Yapay zekâ böylelikle bir metindeki 
+sözcüklerin bağlantısallığından faydalanarak sözcüklerin birbirine göre kazandığı anlamı, 
+soyutlamalar yaparak matematiksel olarak tespit eder. Soyutlama, derin öğrenmenin temelini 
+oluşturur (Alpaydın, 2022: 91). Doğal dil işlemede programlanmış kurallar üzerine süren 
+araştırmalar, dilin sözcüksel, sözdizimsel ve semantik dilbilimsel kurallarını tanımlayan bir dil 
+modeli oluştururken en verimli öğrenme yönteminin büyük veri kümelerinden yararlanmak 
+olduğunu öne sürmüştür (Alpaydın, 2022: 64). Bu doğrultuda yapay zekâyı büyük veri 
+setleriyle eğittikçe daha doğru sonuçlar vermesi beklenir. Çeviri sırasında buna göre iyi 
+eğitilmiş dil modellerinde algoritma, bağlama göre seçim yaparak doğru karar vermeye çalışır. 
+Amaç ve yöntem 
+Çalışmanın amacı doğal dil işleme, derin öğrenme algoritmaları ve metin işleme süreçlerinin 
+çeviri uygulamaları üzerindeki etkisini inceleyerek yapay zekâ çağında dönüşen çevirmenlik 
+mesleği açısından teknolojik gelişmeleri takip etmenin önemini ortaya koymaktır. Bu amaçla 
+betimsel ve analitik bir yöntem izlenmiştir. Doğal dil işleme ve derin öğrenme alanlarında geniş 
+literatür taramasına yer verilmiş; metin işleme süreçleri çeviri bakımından ele alınmış ve metin 
+ön işleme süreçleri örneklerle açıklanmış; insan beyninin dili işleme süreçleriyle doğal dil 
+işleme süreçleri karşılaştırılarak yapay öğrenme alanı değerlendirilmiştir. Bunun yanı sıra elde 
+edilen bilgilerin çeviri süreçlerinde uygulanabilirliği tartışılmış, dönüşen çevirmenlik 
+mesleğinin günümüz gelişmeleriyle uyumlanması gerekliliğinin altı çizilmiştir. 
+Bulgular ve tartışma 
+Doğal dil işleme, bilgisayar bilimlerinde makine öğrenimi alanında yapay sinir ağlarının ve 
+derin öğrenme algoritmalarının yaygın kullanımı ile karakterizedir. Derin öğrenmenin 
+uygulandığı büyük dil modellerinde çok katmanlı ağlar kullanılmaktadır ve ağlar arasında 
+çeşitli metin işleme süreçleri gerçekleşmektedir. Metin işleme süreçlerinin, kullanılan mimariye 
+bağlı olmak üzere çeviri süreçlerini etkilediği görülmektedir. Metin işleme süreçleri aynı 
+zamanda çevirinin nasıl gerçekleştiğine dair veri sunmaktadır. Çeviri süreçlerinin 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+170 
+ 
+açıklanabilirliği, çevirinin güvenirliği ve doğruluğu bakımından önemlidir. Doğal dil işleme ve 
+derin öğrenme insan beyninden esinlenerek oluşturulsa da dil modelleri ve mimarileri ile insan 
+beyninin dil işleme süreçleri karşılaştırıldığında, bazı benzerliklere rağmen dil modellerinin 
+kullanılan mimariye göre farklı işleyiş mekanizmalarına sahip olduğu görülmektedir. Bu 
+doğrultuda farklılıklar üzerinde çalışarak dil modellerinin işleyişine aşina olmanın ve teknolojik 
+gelişmeleri takip etmenin, nöral makine çevirisinde doğru sonuçlar elde etmek açısından büyük 
+öneme sahip olduğu görülmektedir. 
+Doğal dil işleme ne yapar? 
+Doğal dil işleme, insan dilinin kullanıldığı her türlü yapay zekâ aracında karşımıza çıkar. Artık 
+görüntü ve sesin de eşlik ettiği çokkipli/çokmodlu metinleri de işleyebilen yapay zekânın insan 
+düzeyinde çeviri yapıp yapamayacağı hala tartışma konusudur. Alpaydın (2022: 64-66), doğal 
+dil işleme ve çeviriyi ele alırken yapay zekânın konuşma tanıma ve görüntü tanıma 
+özelliklerinin yanı sıra metin konusuna gelince şöyle bir betimleme yapar:  
+Bir yüz bir görüntüdür ve söylenmiş bir cümle akustik bir sinyaldir, fakat metin neden oluşur? 
+Metin bir karakter dizisidir ve karakterler bir alfabeyle tanımlanır ama bir dil ile kullanılan 
+alfabe arasındaki ilişki basit değildir. Bir cümlenin neredeyse hiçbir zaman tek başına 
+bulunmadığı ya da tek başına yorumlanmaması gerektiği, aksine bir diyaloğun ya da genel bir 
+bağlamın parçası olduğu gerçeği bir yana, insan dili mizah ve hiciv gibi incelikleriyle farklı 
+düzeylerdeki sözcüksel, sözdizimsel ve anlamsal kurallar içeren çok karmaşık bir bilgi gösterim 
+biçimidir.  
+Alpaydın’a göre (a.g.e.: 92) doğal dil işlemede iki temel aşamadan biri olan dili anlama, verilen 
+bir metne göre üst düzey soyutlama yapılarak gerçekleştirilen bir kodlama işlemidir. Dil üretimi 
+ise üst düzey bir soyutlamadan doğal bir dil metnini sentezlediğimiz bir kod çözme işlemidir. 
+Çeviri sırasında kaynak dil kodlanır ve erek dilde kod çözülür. Bu tanımlar işin teknik yönünü 
+betimlemek için kullanılmıştır ve esasında çeviribilimde tartıştığımız üzere dilin çok 
+anlamlılığı, bağlamsal bağlayıcılığı, sosyokültürel faktörlere göre değişkenlik göstermesi, aynı 
+zamanda evrimsel ve dinamik doğası, onu basit bir kodlama işleminden çok daha karmaşık bir 
+yapıya dönüştürür. Tam da bu nedenle dil, elbette basit bir kod çözme işlemi değildir. Yapay 
+çevirinin hala insan denetimi gerektirmesi bu yüzdendir. 
+Nöral makine çevirisinde ayrıca farklı mimariler söz konusu olsa da klasik olarak kaynak metin 
+ve erek metin arasındaki kodlayıcı ve kod çözücü sistemi (encoder-decoder framework), 
+girdileri çıktıya çevirmek üzere yapay sinir ağlarının kullanımı ile karakterizedir (Ahammad 
+v.d., 2023: 39335). Çok basit olarak ifade edecek olursak kodlayıcı ağ, girdiyi işleyerek bunun 
+belli bir matematiksel temsilini oluştururken, kod çözücü ağ, kodlayıcının temsilinden bir çıktı 
+dizisi üretir.  
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+171 
+ 
+Derin öğrenme algoritması nasıl çalışır? 
+Derin öğrenmede temel ana fikir, yapay sinir ağları ile soyutlama yaparak insan müdahalesi 
+gerektirmeden öğrenmenin sağlanmasıdır (akt. Alpaydın, 2022: 90; Schmidhuber, 2014). Bu 
+amacı gerçekleştirmek için insan beyninden esinlenerek oluşturulmuş yapay sinir ağları çok 
+önemli bir işlev görür. Yapay sinir ağlarının zemini, daha önce yaptıkları çalışmalarla 2024 
+yılında Nobel Fizik Ödülü’ne layık görülen John Hopfield (1982) ve Geoffrey Hinton (1986)4 
+tarafından hazırlanmıştır. Daha sonra gerçekleştirdikleri çalışmalarla Hinton, LeCun ve Bengio 
+yapay sinir ağlarını geliştirmiş ve 2018 Turing Ödülü’nü 5 almıştır. Bilgisayar sisteminde yapay 
+sinir ağları insan beynine benzer biçimde birbiriyle etkileşime geçerek öğrenirler. Yapay sinir 
+ağları, girdi katmanı, ara katmanlar (hidden layers) ve çıktı katmanından oluşur. Girdi 
+katmanında veri işlenir, verilerin önem derecesine göre gerçekleşen bağlantılara ağırlıklar 
+atanır. Sonrasında insan beyninde olduğu gibi bir tür aktivasyon (activation functions) 
+gerçekleşir ve sinyal üretilir. Burada üretilen veriler her katmanda işlenerek ilerler ve 
+sonrasında geriye yayılarak (backpropagation; Rumelhart v.d., 1986) ağırlıkları günceller ve 
+öğrenme gerçekleşir. Bu şekilde yapay sinir ağı, çıktıları güncellemeyi ve doğru tahmin 
+yapmayı öğrenmiş olur.  
+Yapay sinir ağları, girdileri anlamlandırmak için verileri sayısal hale getirir. Bu doğrultuda 
+bilgisayarlar sayıları ya da bilgileri 0 ya da 1’den oluşan ikili bit dizileri olarak temsil eder ve 
+bu tür bit dizileri başka bilgi türlerini de temsil edebilir. Örneğin “101100”, ondalık sayı 44’ü 
+temsil etmek için kullanılabilir ayrıca virgülün kodu olarak da kullanılabilir (Alpaydın, 2022: 
+18). Verilerin bit dizileri olarak temsil edilmesi bilgisayar sistemlerinde olduğu gibi doğal dil 
+işlemede de temel bir adımdır. 
+Doğal dil işlemede kullanılan derin öğrenme algoritmasının mekanizmasını kabaca anlamak 
+için somut bir örnek verelim6. Diyelim ki bir harf var ve onu tanıması için bilgisayar dilinde 0 
+ile 9 arasında sayı atanarak bazı veri setleri oluşturuluyor. Bilgisayara söz konusu harfin çeşitli 
+versiyonları bu şekilde girdilerle tanıtılıyor (bkz. Görsel 1). Makine öğreniminde veri setleri ile 
+bu harfi tanıyor ve öğreniyor. Bunun için sınır tanıma (boundary detection, edge detection) adı 
+verilen matematiksel bir işlemle veri setleri oluşturuluyor.  
+ 
+4 Geoffrey Hinton’ın sözü edilen çalışması “Rumelhart, D. E., Hinton, G. ve Williams, R. J.” adıyla kaynakçada verilmiştir. 
+3 https://awards.acm.org/about/2018-turing (17.03.2025); yapay zekâ hakkında detaylı bilgi için bkz. LeCun, Yann, Yoshua 
+Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444. 
+4 Evrim Ağacı youtube kanalında “ChatGPT Her Şeyi Nasıl Bilebiliyor?” başlıklı videoda derin öğrenme ile ilgili verilen 
+örnekten faydalanılmıştır. https://www.youtube.com/watch?v=7foCbOktTZM 10.03.2025 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+172 
+ 
+ 
+Görsel 1 
+Sınır tanıma ile gerçekleştirilen matematiksel işlemde el yazısı biçimindeki a harfini girdiye 
+dönüştürmek ve makine öğrenmesine hazırlamak için görüntü kutu içine alınır. El yazısı 
+biçimindeki “a” harfi görüntü işleme tekniğiyle piksellere ayrılır ve her piksel parlaklık 
+değerine göre bir sayıyla temsil edilir. 28x28 pikselden (piksel, insan beyninde nörona tekabül 
+etmektedir) oluşan kutuda “a” harfi beyaz ve gri renklerden oluşmaktadır. Siyah pikseller ise 
+zemini oluşturmaktadır. Siyah renginde kalan piksellere “0”, beyaz-gri aralığında parlak 
+görünümde harfi oluşturan piksellere ise parlaklıklarına göre “0.1, 0.2, …. 1.0” arasında ikili 
+haneler atanır. Bu sayılar el yazısının beyazlık ve grilik derecesine göre verilir (bkz. Görsel 2).   
+ 
+Görsel 2 
+784 pikselin toplamı ile girdiyi oluşturduktan sonra elde edilen çıktı arasındaki ilişkide öğrenme 
+sırasında aradaki iki katman arasında el yazısının belli niteliklerini tanımlayacak biçimde çeşitli 
+bağlantılar gerçekleşir. En sağda ise katmanlar arasında gerçekleşen bağlantılar sonucunda 
+görseldeki harf ya da sayı matematiksel bir karşılık elde etmektedir. Sağda hangi sayı görünür 
+hale gelirse, sistem kendisine gösterilen yazının o olduğunu düşünmektedir (bkz. Görsel 3). 
+“Gizli katmanlar” denilen ara katmanlarda görüntünün belirli özellikleri (örneğin, eğim, 
+çizgiler) tanınır ve son katmanda bu özellikler birleştirilerek7 harf ya da sayı tahmini yapılır. 
+Sistemin adının derin öğrenme olmasının altında katmanlar arasında gerçekleşen işlemler 
+silsilesinin derinliği yatmaktadır (Goodfellow v.d., 2015: 165). 
+ 
+7 Son tahmin softmax aktivasyonu ile gerçekleştirilmektedir (Antoine ve Tixier, 2018: 6). 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+173 
+ 
+ 
+Görsel 3 
+Temel anlamda yapay zekânın çalışma mekanizması yukarıdaki gibi olmakla beraber her geçen 
+gün insan beyninden esinlenerek gelişen, kendini optimize eden ve geliştirilen yeni yapay sinir 
+ağları, yapay zekânın gittikçe yeni özellikler kazanmasını sağlamaktadır. Derin öğrenme 
+algoritmaları, yalnızca el yazısı tanıma değil, görüntü tanıma, makine çevirisi (Bahdanau v.d. 
+2015: 12) gibi birçok alanda oldukça önemli bir etki sağlamaktadır.  
+Katmanlar arasında neler oluyor? Kara kutu mu? 
+Derin öğrenme konusunda yukarıda anlatılan girdi ve çıktı arasındaki katmanlar ve sayılar 
+temsilidir. Kullanılan mimarinin, modelin özelliklerine göre katman sayısı ve işleyiş 
+mekanizması değişiklik arz etmektedir. Büyük dil modellerinde dil, çoklu katmanlar arasında 
+işlenmektedir.  
+Bir dil modelinde girdi ve çıktı arasındaki katmanlar arttıkça olasılıklar da arttığı için 
+öğrenmenin derinleştiği kabul edilmektedir. Katmanlar arasında veri işlenerek ve bağlantıların 
+niteliğine göre soyutlanarak ilerler ve bu süreçte dil modeli belli özelliklere göre çıkarım yapar 
+(feature extraction; Alpaydın, 2022: 87). Katmanlar arasında gerçekleşen bağlantıların 
+çokluğu, karmaşıklığı ve niteliği dışardan bakıldığında tam anlaşılamamaktadır. Dolayısıyla 
+dilin işlenme süreci, şeffaf olarak kabul edilmemekte ve bu nedenle yapay zekâ kara kutu (black 
+box) olarak adlandırılmaktadır. Öte yandan karar verme süreci daha net izlenebilir ve 
+açıklanabilir, kısmen şeffaf ya da tamamen şeffaf (white box) olarak nitelendirilen modeller 
+(kural tabanlı, istatistiksel makine çevirisi gibi modeller vb.) mevcut olsa da bu modeller 
+özellikle çeviride istenen sonuçları vermemektedir. Derin öğrenmeye dayalı modellerde ise 
+sonuçlar çok daha başarılı olsa da modelin neye göre karar verdiğini anlamak, ayrıca bir zorluk 
+oluşturmaktadır. 
+Yapay zekânın hayatımızda gelecekte oldukça önemli bir yer tutacak olması sebebiyle şeffaflık 
+ve açıklanabilirlik gibi konular son zamanlarda gündeme gelmiştir. Dil modellerinde özellikle 
+tıp, hukuk gibi insan hayatını etkileyen alanlar başta olmak üzere karar verme 
+mekanizmalarının açıklanabilirliği gittikçe önem kazanmaktadır. Hatta bu konuda Explainable 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+174 
+ 
+Artificial Intelligence-XAI adı verilen açıklanabilir yapay zekâ modelleri önerilmekte ve bu 
+ihtiyaca dikkat çekilmektedir (Samek v.d., 2017; Holzinger v.d., 2022; Luo v.d., 2024). Bu 
+durum doğal dil işleme ve derin öğrenme modeli ile çalışan çeviri araçları için de geçerlidir. 
+Çeviri araçlarının eğitilmesi ve geliştirilmesi bakımından bir çeviri aracının karar verme 
+mekanizmalarını görmek, çevirilerin güvenirliğini artırmaya yardım edecektir. Bir çeviri 
+aracının çeviri sürecinde insan çevirmenin karar mekanizmalarıyla benzer bir biçimde çalışıp 
+çalışmadığı, neden-sonuç silsilesi ile yaptığı çıkarımlar, sistemin ön kabulleri ve temel aldığı 
+doğrular, özellikle ön yargıları araştırmaya değer heyecan verici konulardır 8. Yapay zekâda 
+öğrenme algoritmasının yatkınlığını/yanlılığını, varsayımlarını (inductive bias, Alpaydın, 2022: 
+45) açıklanabilirlik ile tespit edebilmek, sistemin neye göre genelleme yaptığını anlamayı 
+sağlayabilir; daha doğru ve güvenilir sonuçlar elde etmenin ön koşulu olabilir. 
+Yapay zekâ ile çalışan doğal dil modellerinde açıklanabilirlik konusu oldukça güncel bir konu 
+haline gelmiştir. Dil modelleri ham veriyi birçok ön işlem ve işlemden geçirerek öğrenir. Bu 
+süreçte gerçekleşen işlemler derin öğrenme algoritmalarının doğruluğu, güvenirliği ve 
+açıklanabilirliği bakımından ayrıca önem arz etmektedir. Bu süreçlerle ilgili bilgi sahibi olmak 
+ve bir dil modeli eğitiminde bunları uygulamaya dönüştürmek, bir taraftan modelin 
+performansını artıracak diğer taraftan açıklanabilirliğe katkı sunarak daha doğru ve güvenilir 
+çeviriye doğru sistemlerin optimizasyonuna hizmet edecektir.  
+Metin işleme süreçleri 
+Doğal dil işlemede veri toplama, veri hazırlama ya da veri ön işleme, özellik belirleme, model 
+eğitimi, test ve değerlendirme, sonuçların yorumlanması, geliştirme ve optimizasyon gibi temel 
+ve genel işlemlerden söz edilebilir. Metinler üzerinden bilgiye erişme (information retrieval), 
+bilgi çıkarma (information extraction) ve veri madenciliği (data mining) işlemlerini metin 
+madenciliği (text mining) ana başlığında toplayabiliriz. Metin madenciliği, metinlerden bilgi 
+çıkararak ve bilgiyi bir dizi işlemden geçirerek anlamlı sonuçlar çıkarmaya yardım eder ve 
+metin ön işleme metin madenciliği için oldukça önemlidir (Feldman ve Dagan, 1995; akt. 
+Lourdusamy ve Abraham, 2018: 148). Daha çok teknik boyutuyla mühendislerin ilgilendiği bu 
+adımlardan ziyade dilbilim alanını ilgilendiren bazı metin işleme adımları mevcuttur. Doğal dil 
+ 
+8 Bu konuda ilginç çalışmalar yürütülmektedir ve gün geçtikçe gelişme kaydedilmektedir. Sözgelimi Singh v.d. (2023) 
+yaptıkları bir çalışmada fMRI ile beyin taramalarında belirli bir bölgeyi temsil eden veri noktalarının dilsel uyaranlara verdiği 
+tepkileri yapay zekânın açıklayabileceğini göstermiştir. Bu çalışmada kara kutu, yapay zekânın şeffaflığı ve açıklanabilirliği 
+(explainable AI) konusuna yeni bir bakış açısı sunan “Özetle ve puanla” (Summarize and Score- SASC) yöntemi tanıtılmaktadır. 
+Araştırmacılar bu yöntemi kullanmayı önererek yapay zekânın, açıklanabilirliğe katkı sunacağını savunmaktadır. Yöntemin 
+kodları github’da kullanıma sunulmuştur. SASC, yapılan işlemler için metin modüllerinde en güçlü yanıtın ya da kararın neye 
+göre verildiğini gerekçelendiren doğal dil açıklamaları üretmekte ve bunun için insan müdahalesi gerektirmemektedir.  
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+175 
+ 
+işlemede çeviri amaçlı gerçekleşen bazı metin işleme uygulamaları, genellikle dille uğraşan, 
+morfoloji, sözdizimi, anlambilim, pragmatik gibi alanlarda uzmanlığı olan kişiler ile doğal dil 
+uzmanları, veri analistleri, yapay zekâ mühendisleri gibi mesleklerin disiplinler arası 
+çalışmaları ile gerçekleştirilir. Doğal dil işleme ile ilgilenmek, temel makine öğrenimi 
+algoritmalarına aşina olmak, çeşitli doğal dil işleme ve derin öğrenme mimarilerinden haberdar 
+olmak, bu alanda çalışmayı sürdürmek isteyenler için artık bir zorunluluk gibi görünmektedir. 
+Metin işleme ile ilgilenen çevirmenler, ayrıca veri setlerinin hazırlanmasında, ayıklanmasında 
+ve dil modellerinin eğitilmesinde görev alabilirler.  
+Çeviri amaçlı bir dil modeli oluşturulurken öncelikle çok miktarda çift dilli veri setine ihtiyaç 
+vardır. Veri setleri, her iki dilde paralel metinden oluşabilir. Bunun yanı sıra açık kaynak dil ve 
+veri sağlayıcılarından, web sitelerinden, çeşitli derin öğrenme kütüphanelerinden dil verileri 
+elde edilebilir. Toplanan veri, metinlerdeki tutarsızlıklar ve hatalar bakımından incelenir; 
+temizleme ve ayıklama işlemine tabi tutulduktan sonra etiketlenerek kullanıma hazır hale gelir. 
+Veri etiketleme, makine öğreniminde hangi verilerin ne anlama geldiğini öğretmek için yapılan 
+bir işlemdir; modelin girdi ve çıktı arasındaki ilişkiyi öğrenmesini sağlar. Kaynak ve erek 
+metinde tümcelerin eşleştirilmesi buna örnek verilebilir.  
+Verilerin etiketlenmesinin ardından metin, ön işleme süreçlerinden geçer ve ardından eğitimden 
+geçirilir.  Eğitim tamamlandıktan sonra dil modeli, gerçek veri ile test edilir. Dil girdileri ile 
+çeviri yapılarak çıktı kontrol edilir. Sonrasında modelin çeviri kalitesi çeşitli metriklerle 
+ölçülür. Tekrar başa dönersek metinlerin işlenmesi için bir hazırlanma aşamasına, diğer bir 
+deyişle veri ön işlemeye (preprocessing) ihtiyaç vardır. Metin işleme ile ilgili bazı adımlar 
+şöyledir: 9  
+Öncelikle metinlerin dili tespit edilir (detect language; Jabeen v.d. 2023: 4). Makinenin 
+genelleme işlevini artırmak için metindeki özel karakterler temizlenir. Sözgelimi Almancada 
+kullanılan “ö, ä, ü” gibi karakterlerin yerine standart harfler getirilir. “Ich mag Österreich” 
+(Avusturya’yı seviyorum) tümcesinde “Österreich” sözcüğü “Oesterreich” biçimine, 
+“eşdeğerlik” anlamındaki “Äquivalenz” sözcüğü “Aequivalenz” biçimine dönüştürülür. Bunun 
+yanı sıra kullanılan dile bağlı olarak yanlış kodlanan karakterler ve yazım hataları düzeltilir. 
+Örnek verecek olursak “tapınılan ve fazla önem verilen şey; put,” anlamındaki “der Götze” 
+ 
+9 Metin işleme süreçleri ve ön işleme adımları birkaç çalışma (Ahammad v.d. 2023; Jabeen v.d. 2023; Sankar ve 
+Subramaniyaswamy, 2017; Lourdusamy ve Abraham, 2018) ve ChatGPT yardımıyla derlenmiştir.  
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+176 
+ 
+sözcüğü “G\u00F6tze” biçiminde bir unicode10 karakterle temsil ediliyorsa bu karakter 
+normalize edilerek “Götze” biçimine çevrilir.  
+Metin ön işleme sürecinde metin, kullanım amacına göre sözcüklere, anlamlı ve işlenebilir 
+birimlere ayrılır ve bu işlem tokenization11 olarak adlandırılır (Jabeen v.d. 2023: 4; Sankar ve 
+Subramaniyaswamy, 2017: 87). “Die Zitronenfalter fliegen im Sommer” (Limon kelebekleri 
+yazın uçar) tümcesinde her bir sözcüğü [‘Die’, ‘Zitronenfalter’, ‘fliegen’, ‘im’, ‘Sommer’] 
+biçiminde tek tek ayırması tümcenin tokenize edilmesi demektir. Bunun yanı sıra bazı bileşik 
+sözcükler ["Zitrone", "##n", "##falter"] biçiminde alt sözcük düzeyinde bileşenlerine ayrılır 
+(subword tokenization). “##” sembolü, sözcüklerin alt birimlerini gösterir. Tümcenin Türkçesi 
+[‘Limon’, ‘kelebekleri’, ‘yazın’, ‘uçar’] biçiminde birimlere ayrılırken, alt birimlere ise 
+["kelebek", "##leri"] biçiminde ayrılabilir. Veri setine bağlı olarak kimi zaman birimlere ya da 
+alt birimlere ayrıma doğru gerçekleşmeyebilir. Model bir sözcüğü tanımıyorsa ve ilk defa 
+görüyorsa sözgelimi “Zitronenfalter” sözcüğü ["Zitrone", "##n", "##falt “##er"] biçiminde alt 
+birimlere ayırabilir. Bu “Falter” sözcüğünün “kelebek” olarak tanınmadığını, “katlamak” 
+anlamında kullanılan “falten” sözcüğüne göre ayırma yaptığını gösterir. Burada model istatiksel 
+olarak en çok gördüğü sözcüğe ve en çok kullanılan kombinasyonlara göre karar verir. Bu 
+bağlamda modelin morfolojik analiz yapabilmesi önemlidir.  
+Metin işlemede yukarıdaki işlemlerin yanı sıra metin, büyük ve küçük harf farkı kaldırılarak 
+küçük harflere dönüştürülür (lowercasing). Bunun amacı metni normalize (normalization) 
+ederek eğitim aşamasına hazırlamaktır. Camacho-Collados ve Pilehvar (2018: 2) bu 
+uygulamayı açıklarken “Apple is asking its manufacturers to move MacBook Air production to 
+the United States” tümcesini örnek vererek “apple” sözcüğünün çevirisinde şirket olan “Apple” 
+ile meyve olan “elma” nın normalde karışabileceğine dikkat çeker. Metin işlemede bunun yanı 
+sıra sözcüklerin anlaşılması ve yüksek oranda doğruluğun sağlanması için sözcükler kök ve 
+eklerine kadar incelenir ve indirgenir (stemming; Camacho-Collados ve Pilehvar 2018: 2). Bu 
+işlem alt sözcük düzeyinde gerçekleşen birimlere ayrıma işleminden (subword tokenization) 
+farklıdır. Burada dilbilgisel olarak kök formu tespit edilir ve bağlam önemli değildir. Sözgelimi 
+Almanca oyuncu anlamındaki “Spieler” sözcüğün kök formu “Spiel” dir. Türkçeden bir örnek 
+verecek olursak “sevinç” sözcüğünün kökü “sev” olarak alınır; “inç” eki ise isim türeten bir 
+yapım ekidir. Model burada sözcüğün kökünü “sevin” olarak da alabilir. Aynı şekilde “sevgi” 
+ 
+10 Unicode, farklı alfabelere ait karakterlerin tek bir standartta kodlanmasını sağlayan evrensel bir kod sistemidir. Kodlama 
+türleri ve dil özelliklerine uygun bir şekilde UTF-8, ASCII, ISO-8859-1 gibi formatlar arasında dönüşüm yapılabilir. Unicode 
+düzeltmeleri dil modelleri için önemlidir.  
+11 Token sözcüğü gösterge, belirti işaret anlamlarına gelir. Sözcük veya daha küçük birimlere token denilebilir.  
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+177 
+ 
+sözcüğünün kökü “sev”dir. Duygu analizi ya da metin sınıflandırma gibi işlevlerde kök yanlış 
+alındığında iki sözcük birbirine karışabilir. Şöyle ki “Yazdığı kitabın yayımlanması ona büyük 
+sevinç verdi” tümcesinde “sevinç” soyut bir kavramdır ve bir duygudur. “Sevgi onu iyileştirdi” 
+tümcesinde ise “sevgi” sözcüğü yine soyut bir kavram olmakla birlikte farklı bir duygudur ve 
+her tümcede bir duygu olarak alımlanmaz. Eğer morfolojik analiz doğru yapılmazsa model, 
+kökü esas alarak iki sözcüğü de aynı duygu olarak kabul edebilir.  
+Diğer taraftan herhangi bir sözcüğün kök formu dışında temel halini alma/indirgeme işlemi 
+(lemma12- lemmatization; Jabeen v.d. 2023: 4; Camacho-Collados ve Pilehvar 2018: 2) 
+uygulanır. Sözcükler, sözlükte yer aldığı biçimine indirgenir ve bu noktada bağlam esas alınır. 
+İndirgeme işlemine Almancadaki sıfatların derecelendirilmesi (Komparativ) konusundan örnek 
+verebiliriz. Sözgelimi “daha yüksek” anlamındaki “höher” sıfatının temel formu “yüksek, 
+yukarı” anlamındaki “hoch” sözcüğüdür. Farklı bir örnek üzerinden gidersek “daha iyi” 
+anlamındaki “besser” sözcüğünün temel formu ise sözcüğün kök formundan farklı olmak üzere 
+“iyi” anlamına gelen “gut” sözcüğüdür. Türkçeden örnek verirsek “Sabahları koşuyorum.” 
+tümcesinde “sabahları” sözcüğünün kök formu “sabah”, “koşuyorum” sözcüğünün sözlük 
+biçimine indirgenmiş hali ise “koşmak”tır. Buradaki seçim, anlamsal ve dilbilgisel analizler 
+sonucunda makinenin öğrenmesiyle gerçekleşir.  
+Bu adımda ayrıca gürültü giderme (noise removal; Jabeen v.d. 2023: 4) adı verilen bir aşamada, 
+gereksiz karakterler, semboller, hatalı yazımların ayıklanması gerçekleştirilir ve anlama etkisi 
+bulunmayan sözcükler (stop words removal) ayıklanır (Sankar ve Subramaniyaswamy, 2017: 
+88; Lourdusamy ve Abraham, 2018: 149). “And”, “this”, “are”, “ben”, “bir”, “ve”, “oder”, 
+“und”, “mit” gibi dolgu sözcükleri metinden kaldırılır. Sözgelimi Almancada “mit” sözcüğü 
+bağımsız bir edat (Präposition) görevinde kullanıldığında dolgu sözcüğü olarak işaretlenip 
+silinebilir ancak “mitbringen” biçiminde ayrılabilir bir fiil olarak kullanıldıysa “mit” ön eki 
+dolgu sözcüğü olarak görülmez. Bu durumu ayırt etmek için özellikle bağlamı dikkate alan 
+algoritmalar kullanılır.  
+Bunun yanı sıra metin işleme sürecinde metindeki kısaltmalar belirlenir (örn: dm, TSK, do not 
+vs.) ve “dm-direct message/data mining”, “TSK-Türk Silahlı Kuvvetleri” biçiminde açımlanır. 
+Sözgelimi Almancada “Wie geht’s dir?” ifadesi, kesme işareti ayıklanarak “Wie gehts dir” 
+biçimine getirilir. “Der Roman (geschrieben von Goethe) ist berühmt” tümcesi, parantezinden 
+arındırılarak “Der Roman ist berühmt” biçiminde alınır. Türkçesinde “Roman (Goethe 
+ 
+12 Lemma sözcüğü Latincede “elde tutulan, önerme, temel” anlamlarında kullanılmış, Yunanca “lēmma” (λήμμα) sözcüğünden 
+türemiştir. https://www.nisanyansozluk.com/kelime/lemma  
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+178 
+ 
+tarafından yazılan) ünlüdür.” tümcesi “Roman ünlüdür.” biçiminde alınır. Metinlerin 
+işlenmesinde etkisiz sözcüklerin ayıklanmasının sebebi, anlamda ve içerikte belirleyici 
+olmayan sözcüklerin yok sayılarak modelin hata yapmasının engellenmesi ve duru bir verinin 
+çıkarılabilmesidir.  
+Diğer bir metin işleme uygulaması, metin içerisinde geçen sözcüklerin dilbilgisel kategorisi ve 
+sözcük türünü tespit etmek için kullanılan sözcük türü etiketlemedir (part-of-speech POS 
+tagging; Sankar ve Subramaniyaswamy, 2017: 88). POS adı verilen etiketleme, isim, zamir, 
+fiil, zarf, sıfat, artikel, edat ve bağlaç gibi sözcük türlerinin tümce içindeki kullanımı, komşu 
+sözcükler ve onların etrafında örülen sözdizimsel yapı hakkında olası bilgilerin çıkarılmasına 
+yardımcı olur (Lourdusamy ve Abraham, 2018: 149). Sözcükler türüne göre tespit edildikten 
+sonra tümce içinde kullanımında hangi tümce ögesi olduğu belirlenir (Deshmukh ve Kiwelekar, 
+2020). Bu, anlamın belirlenmesinde önemli bir adımdır. Tümce ögeleri belirlenirken aynı 
+zamanda sözdizimsel çözümleme (syntactic parsing; Sankar ve Subramaniyaswamy, 2017: 88) 
+yapılır. Sonuç olarak POS etiketleme, sözcüğün türünü ve tümcedeki işlevini belirleyerek 
+bağlamdan anlam çıkarmaya yarar. Bu konuda Lourdusamy ve Abraham (2018: 149), 
+İngilizcede hem isim hem fiil işlevi gören “book” sözcüğü ile yine birçok farklı işlevde 
+kullanılabilen “that” sözcüğünü verirler. “Book that flight” tümcesinde “book” sözcüğü, 
+“ayırtmak” anlamında fiil olarak kullanılırken, “Hand me that book” tümcesinde isim “kitap” 
+anlamında isim olarak işlev görmektedir. “That” sözcüğü ise bu tümcelerde işaret sıfatı olarak 
+göze çarpmaktadır. Oysa “I thought that your flight was earlier” tümcesinde “that” sözcüğü 
+bağlaç işlevindedir. Örnekleri Almanca üzerinden genişletirsek “Band” ve “das” sözcüklerini 
+inceleyebiliriz. Almancada “Band” sözcüğü önüne aldığı artikele (tanımlık) göre farklı 
+anlamlarda kullanılır. “Ich brauche das rote Band.” (Kırmızı kurdeleye ihtiyacım var) 
+tümcesinde “Band” sözcüğü “das” tanımlığı alarak “kurdele” anlamında kullanılır. “Ein Werk 
+in zehn Bänden” (On ciltlik bir eser) ifadesinde “Band” sözcüğü “der” tanımlığı alır ve “cilt” 
+anlamında kullanılır. “Wie heißt die Band?” (Bu müzik grubunun adı ne?) ifadesinde ise sözcük 
+“die” tanımlığı alır ve “müzik grubu” anlamındadır. “Das” sözcüğüne gelirsek yukarıdaki “das 
+rote Band” ifadesinde tanımlık olarak kullanılırken, “Ich dachte, das wäre klar” (Konunun 
+yeterince açık olduğunu düşünüyordum) tümcesinde “das” sözcüğü tanımlık değil, zamir 
+görevindedir ve tüm tümceyi etkiler. POS etiketleme, örneklerde görüldüğü üzere farklı 
+dilbilgisel işlevlerde kullanılan yapıları bağlama göre ayırt etmeyi öğrenerek etiketler. 
+ Bu aşamanın ardından metnin özelliklerinin belirlenmesi için özellik çıkarma (feature 
+extraction; Jabeen v.d. 2023: 4) işlemi uygulanabilir. Bu adımda metnin anlam belirleyici 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+179 
+ 
+özellikleri sayısal bir formata dönüştürülerek modelleme yapılır. Metin işleme süreçlerinde 
+ayrıca model eğitimi sırasında sözcük gömme işlemi (embedding) gerçekleşir. Sözcük gömme 
+işleminde sözcükler, sayısal vektörlere dönüştürülerek matematiksel ifadeler haline getirilir. 
+Böylece sözcükler anlamsal ilişkilerine ve bağlantısallıklarına göre kategorize edilerek 
+kullanılmaya hazırlanır ve doğru anlamın yakalanması sağlanır (Ahammad v.d., 2023: 39341). 
+Gömme, aynı zamanda modelin kendini optimize etmesi ve öğrenmesi bakımından oldukça 
+önemli bir aşamadır.  
+Bunun yanı sıra metin ön işleme veya sonrasında da bir dizi işlem gerçekleşir. Sözgelimi dilin 
+bağlamını ve yapısal örüntüsünü anlamak için N-gram denilen sayısal değerler oluşturulur. N-
+gram, tekli, ikili ya da üçlü sözcük gruplarının ve örüntülerin nasıl kullanıldığını sayısal temsil 
+eder. Somutlaştıracak olursak metin içerisinde geçen “cep” ve “telefon” sözcükleri ayrı ve tekli 
+bir n-gram (unigram) ile ifade edilirken “cep telefonu” ikili bir n-gram (bigram) ile ifade edilir. 
+Bu aşama, sözcüklerin tek başlarına anlamlarının yanı sıra bir araya geldiklerinde ayrı bir anlam 
+kazandıklarının anlaşılması bakımından önemlidir. Son işleme adımında modelin 
+doğruluğunun ölçülmesi için de n-gram kullanılabilir (Liu v.d., 2003). Ardından metin 
+içerisindeki özel isimler, kurumlar, tarihler, para birimi gibi varlık isimleri (named entity 
+recognition) belirlenir (Sharma v.d., 2022).  
+Diğer bir metin işleme aşaması, eğitim sırasında uygulanan metin sınıflamadır. Makine 
+öğreniminde ve doğal dil işlemede metin sınıflandırma (text classification), algoritmada 
+istatiksel yöntemler kullanılarak metni içeriğine göre belli kategorilerde sınıflandırma 
+işlemidir. İleri düzey ve özel amaçlı metinlerde gerekiyorsa metnin tonunu belirlemek için ton 
+analizi (ton analysis), niyet analizi (intent analysis) ya da duygu analizi (sentiment analysis; 
+Sankar ve Subramaniyaswamy, 2017: 89) yapılır. Yukarıda sayılan işlemler, eğitim sırasında 
+sistemin bu verilerden öğrenmesini sağlayarak metni sınıflandırmaya yardım eder. Metin 
+işlemede gerçekleşen uygulamalar, dil modelinin kullandığı mimariye göre değişkenlik 
+gösterebilmektedir.  
+Dil modelleri, dil mimarileri ve güncel çalışmalar 
+Nöral makine çevirisinde daha önce de belirttiğimiz üzere genellikle kaynak metin ve erek 
+metin arasındaki kodlayıcı ve kod çözücü sistemi (encoder-decoder framework) kullanılır. 
+Kodlayıcı ağ, girdiyi işleyerek bunun belli bir matematiksel temsilini oluştururken, kod çözücü 
+ağ, kodlayıcının temsilinden bir çıktı dizisi üretir. Derin öğrenme, metin verilerindeki karmaşık 
+örüntüleri modellemek için çok katmanlı yapay sinir ağlarının kullanılması anlamına gelir.  
+Günümüzde derin öğrenmede çeşitli özellikte gelişmiş evrişimli (Convolutional Neural 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+180 
+ 
+Networks-CNN), üretken çekişmeli sinir ağları (Generative Adversarial Networks-GAN) ile 
+özellikle nöral makine çevirisinde yineleyen/özyineleyici sinir ağları (Recurrent Neural 
+Networks-RNN) ve Transformer gibi modeller kullanılmaktadır. Yapay zekâ her geçen gün yeni 
+gelişmelere gebedir. Bu ağların çok katmanlı, ileriye dönük ve beslemeli özellikleri sayesinde 
+daha doğru çeviri, duygu analizi, görüntü üretme gibi nitelikler yapay zekâya eklenmeye devam 
+etmektedir.  
+Ahammad v.d. (2023: 30337) yaptıkları çalışmada nöral makine çevirisinde birkaç prototipi, 
+yeni nesil mimarileri ve çalışma prensiblerini incelemişlerdir. Sözgelimi en çok kullanılan 
+platformlardan biri olan Google translate yineleyen sinir ağları (RNN) ile birlikte bu mimariye 
+“dikkat modülü” anlamında attention düzeneği ekleyerek sistemin verimliliğini ve yüksek 
+doğruluğunu hedeflemiştir. Çeşitli çeviri araçlarında evrişimli sinir ağları (CNN) ile yineleyen 
+sinir ağları (RNN) kombine biçimde kullanılabilmektedir. Bunun yanı sıra GPT (Generative 
+Pre-trained Transformer) gibi “attention” (Vaswani v.d., 2017) özelliği içeren Transformer 
+mimarisi de son zamanların güncel uygulamalarındandır. “Self attention” (öz dikkat) (Shaw 
+v.d. 2018; Rahali ve Akhloufi, 2023) mekanizması ise nöral makine çevirisinde umut vaat eden 
+bir ağ türü olarak kabul edilmiştir. Bu mekanizmayla sistem, uzun süreli hafızada belli verileri 
+tutarak ve göz önünde bulundurarak metni işlemektedir. 
+Transformer (Irie v.d. 2020; Patwardhan v.d., 2023; M.P. Brasoveanu ve Andonie, 2020) 
+mimarisi encoder-decoder adı verilen iki bileşenden oluşur. Bu bileşenler hem öz dikkat (self-
+attention) mekanizmasından hem de ileri beslemeli (feed-forward) yapay sinir ağı 
+katmalarından oluşur. Self attention, Transformer’ın en yenilikçi özelliklerinden biridir ve bu 
+mekanizma, bir tümcedeki her bir sözcüğün diğer sözcüklerle olan ilişkisini değerlendirir. 
+Öncelikle girdi, diğer bir deyişle metin, ilk katmana iletilir. Metin ön işlemden geçer ve gömme 
+işlemi gerçekleştirilir. Girdi, sayısal vektörlere dönüştürülür. Sözdizimini düzenlemek için 
+vektörlere pozisyon kodlama eklenir. Sonrasında self-attention mekanizması devreye girer; 
+girdiler, ağırlıklarla işlenir ve her sözcüğün diğer sözcüklerle bağlantısallığı incelenerek bir 
+dikkat skoru hesaplanır. Bu aşamada, her sözcüğün dikkat skoru hesaplanırken, sapma (bias)13 
+adı verilen değer de eklenir. Bias, modelin ağırlıklarla doğrusal ilişkiler öğrenmesi yerine, daha 
+karmaşık yapıları öğrenmesine olanak sağlar.  Self-attention mekanizması, dikkat skorları, 
+matris çarpımları ve normalizasyon işlemleri ile gerçekleştirilir; böylelikle model, her sözcüğün 
+diğer sözcüklerle olan ilişkisini öğrenir ve girdilerin anlamı belirlenir. Normalizasyon, her 
+katmandaki girdilerin ortalamasını düzenleyerek hızlı öğrenmeyi sağlar. Bunun yanı sıra 
+ 
+13 Bias bilgisayar bilimlerinde aynı zamanda makinenin yanlılığı, ön yargıları anlamına da gelir.  
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+181 
+ 
+modelin hangi bilgileri aktarıp hangi bilgileri elemesi gerektiğini belirleyen ve matematiksel 
+bir işlem olan aktivasyon fonksiyonları devreye girer; modelin daha karmaşık yapıları 
+öğrenmesi sağlanır. Burada yapay sinir hücresine gelen sinyal alınır ve yeterince güçlü ise 
+nöron aktif hale gelir, veriler bir sonraki katmana iletilir.  İleri beslemeli sinir ağları bu şekilde 
+çalışır ve Transformer mimarisinde her katmanda aynı işlem yeniden yapılır. Transformer gibi 
+büyük dil modelleri büyük veri setleri ile eğitilir. Eğitim sürecinde model, sözcük ve tümce 
+temsilcilerini optimize eder, böylelikle karmaşık kalıpları öğrenir. Model hataları en aza 
+indirmek için geri yayılım (backpropagation) algoritmasını kullanarak ağırlıkları günceller. 
+Geri yayılım yapay zekanın temelini oluşturan önemli bileşenlerden biridir (Dohare v.d., 2024). 
+Bu şekilde döngü tekrarlanarak model öğrenmiş olur.  
+Wang v.d.’nin (2024) büyük dil modellerini incelediği, insan ve makine arasındaki ayrımdan 
+söz edilerek bazı mimariler hakkında ayrıntılı bilgi verdiği çalışmada ise, Transformer mimarisi 
+hakkında çoklu dikkat katmanları kullanılmasından ve modelin bağlamsal anlam ayırt etmeyi 
+öğrenmesinden (2024: 5) farklı olarak bu modellerin ön eğitiminde sözcük maskeleme (Masked 
+Language Modeling-MLM) kullanıldığından söz etmiştir. Wang v.d. bunun için 2018 yılında 
+Google’ın tanıttığı ve kullandığı BERT modelinin sözcük maskelemesini örnek vermiştir. GPT 
+ise tüm bağlamları dikkate alarak sonraki sözcüğü tahmin mekanizmasına dayanmaktadır. 
+Büyük dil modellerinden biri olan BERT (Bidirectional Encoder Representations from 
+Transformers) (Koroteev, 2021), yine Transformer mimarisine dayanan Encoder tabanlı bir dil 
+işleme modelidir. Encoder katmanları sayesinde bir metin girdisinde sözcüklerin birbiriyle 
+ilişkisini anlamak için dikkat self-attention kullanılır. BERT, giriş metnini hem soldan sağa hem 
+de sağdan sola doğru işler. Bu çift yönlü işleme (Bidirectional Processing, a.g.e.: 8), modelin 
+sözcükler arasındaki daha karmaşık bağlantısallıkları anlamasını sağlar. Transfomer’da olduğu 
+gibi burada da modelin sözdizimini anlaması için pozisyon kodlama kullanılır. BERT, büyük 
+bir metin veri kümesi üzerinde iki görev için önceden eğitilir: Maskelenmiş Dil Modeli (Masked 
+Language Model- MLM, a.g.e.: 2) ve Sonraki Tümce Tahmini (Next Sentence Prediction- NSP, 
+a.g.e.:12). Bu süreç, modelin geniş bir dil bilgisi edinmesini sağlar. 
+Lindborg ve Rabovsky’nin (2021:1049-1050) yaptığı çalışmaya baktığımızda GPT-2’nin yine 
+bir tür dikkat mekanizmasıyla işlediği, bu mekanizma sayesinde modelin, bir metin 
+parçasındaki tüm önceki girdileri hatırladığı ve mevcut sözcüğü işlerken önemli görülen 
+sözcüklere dinamik olarak dikkat atadığı görülmektedir. Buna karşın yinelemeli sinir ağları 
+(RNN) kullanan diğer dil modeli SG’nin (Sentence Gestalt) tümcelerin anlamını kavramada 
+durum ya da olayları haritalama ile tahmin ettiği görülmektedir. SG modeli, dilin dünya ile 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+182 
+ 
+bağlantılı olarak nasıl işlendiğini ve anlamlandırıldığını incelemek üzerine kuruludur. Dil 
+girdilerini ardışık olarak işler ve her adımda önceki adımlardan elde edilen bilgiyi 
+güncelleyerek sonraki adımlara aktarır. SG, çok güncel olmayan bir modeldir. 
+Yineleyen sinir ağlarının uzun dönem bellek ve bağımlılık sorunlarını çözmek için geliştirilmiş 
+RNN mimari ailesine ait LSTM (Long Short-Term Memory) dil modeli ise nöral makine çevirisi 
+alanında oldukça yaygın derin öğrenme modellerinden biridir. LSTM, hücre mekanizmasıyla 
+(cell state) bilginin zaman içinde saklanmasını ve gerektiğinde erişilmesini sağlar; kapı 
+mekanizmalarıyla (giriş, unutma, çıkış kapıları) bilginin belleğe ne zaman dahil olacağını 
+denetler, gereksiz bilgiyi ayıklar ve bilginin güncellenmesini sağlar (Hochreiter ve 
+Schmidhuber, 1997; akt. Özengi, 2024: 11-12).  
+Çeviriyi ilgilendiren dil modellerinin kullandığı mimarilerle ilgili güncel çalışmalara 
+bakıldığında araştırmaların daha çok yineleyen sinir ağları (RNN) ve türleri ile Transformer 
+mimarisi ve türlerine odaklandığı görülmektedir. Son zamanlarda ayrıca yineleyen sinir ağları 
+ve Transformer mimarileri birleştirilerek hibrit dil modelleri oluşturulmaktadır. Her yeni model 
+önceki modellerin kısıtlılıkları ve sorunlarını çözmek üzere yeni öneriler sunmaktadır. Yeni 
+modeller önerilirken insan beyninin bellek, öğrenme, bilgi işleme mekanizmalarından 
+esinlenilmektedir. Her ne kadar insan beyninin işleyiş mekanizmasından esinlenilse de 
+(Alpaydın, 2022: 29-30) beynin dil işleme süreçleri ile yapay sinir ağlarının işleyişi arasında 
+önemli farklılıklar söz konusudur.  
+İnsan beyninin dil işleme süreci 
+Beyin, dil işleme sırasında bir dizi karmaşık işlem gerçekleştirir. Dil, görsel ve işitsel 
+modaliteler olarak adlandırılan herhangi bir duyusal kanal aracılığıyla beyinde algılanır, 
+nöronlar arasındaki ağlar ve elektrokimyasal birtakım bağlantılarla işlenir. Dilin işlenmesi 
+konusunda çeşitli teoriler olmakla birlikte beyinde dilin nasıl işlendiği hala tam olarak 
+açıklanmış bir konu değildir. Alanda yapılan çalışmalar konuya ışık tutmaya çalışmaktadır. 
+İnsan beyninin dili işlemesi ile ilgili klasik bilgi, beynin çeşitli bölgelerinin özellikle de sol 
+yarımkürenin bundan sorumlu olduğu yönünde idi. Sol yarımkürede frontal lobda yer alan 
+Broca alanı, bilindiği kadarıyla dil üretmekten ve konuşmaktan, yine solda temporal lobda yer 
+alan Wernicke alanı ise anlam vermekten sorumluydu. Alman bilim insanı Korbinian 
+Brodmann (1868-1918) beyindeki bölgeleri numaralandırarak haritalandırmıştı (Kerimoğlu, 
+2022: 25). Buna göre dil işleme beyinde birkaç spesifik yerde gerçekleşiyordu. Ancak daha 
+sonra yapılan çalışmalar, yeni eklenen ve tanımlanan alanlar, dil işlemenin nöronal ağlar 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+183 
+ 
+yoluyla çok daha karmaşık, kapsamlı ve bağlantısal boyutta gerçekleştiğini gösterdi (Benítez-
+Burraco ve Boeckx 2015; Poeppel v.d. 2012, akt. Kerimoğlu, 2022: 26; Hickok ve Poeppel 
+2007; Vigneau v.d. 2006; Friederici, 2011). Özellikle nörobiyolojik gelişmeler ve beyin 
+görüntüleme yöntemlerinin gelişmesi bu alandaki bilgilerin güncellenmesini sağladı. 
+ 
+Görsel 4: The Brain Dictionary https://www.youtube.com/watch?v=k61nJkx5aDQ&t=7s  10.03.2025 
+ 
+Minnesota Üniversitesi’nde görev yapan Prof. Dr. Kamil Uğurbil ve arkadaşları (Hinke v.d., 
+1993)14 konuşma merkezi olarak bilinen Broca alanı ve dil işleme üzerine yaptıkları çalışmada 
+özellikle fonksiyonel MRI (fMRI) teknikleri kullanılarak beynin bu bölgesindeki aktiviteyi 
+incelemeyi amaçlamışlardır. Bu araştırma, Broca alanının dil üretimi ve anlamadaki rolünü 
+derinlemesine inceleyerek, içsel konuşma ve sözcük üretimi gibi dil görevlerinde nasıl aktif 
+olduğunu ortaya koymaktadır. Araştırmada yapılan fMRI görüntülemelerinden elde edilen 
+haritalamalara göre ve Huth v.d.’nin (2016)15 gerçekleştirdiği araştırmaya göre sözcüklerin ve 
+anlamların beynin çeşitli bölgelere dağıldığını, beynin yalnızca dil işleme ve anlam vermeden 
+sorumlu alanları olan Broca ya da Wernicke gibi bölümlerinin yanı sıra birçok bölgesinde 
+aktivasyon olduğu gözlemlenmiştir. Bu çalışmalarda deneklere hikayeler okunmuş ve dinleme 
+sırasında beyin aktiviteleri gözlenmiştir. Hikâyede geçen sözcüklere beynin çeşitli bölgeleri 
+tepki vererek aktivasyon göstermiş ve bu aktivasyonlar, anlamsal ilişkilere göre renklerle 
+haritalandırılmıştır. Deniz v.d.’nin (2019)16 yaptığı çalışma ise beynin anlam işleyen 
+bölgelerinin, bilginin alındığı modaliteden, diğer bir deyişle görme, işitme, okuma gibi hangi 
+duyusal yolla alındığından bağımsız olarak çalıştığını göstermiştir. Zhang v.d.’nin (2022)17 
+ 
+14 https://journals.lww.com/neuroreport/abstract/1993/06000/Functional_magnetic_resonance_imaging_of_Broca_s.18.aspx 
+10.03.2025  
+15 Huth, A. G., De Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic 
+maps that tile human cerebral cortex. Nature, 532(7600), 453-458. 
+16 Deniz, F., Nunez-Elizalde, A. O., Huth, A. G., & Gallant, J. L. (2019). The representation of semantic information across 
+human cerebral cortex during listening versus reading is invariant to stimulus modality. Journal of Neuroscience, 39(39), 7722-
+7736.  
+17 Zhang, X.,Wang, S., Lin, N. and Zong C. (2022). Is the brain mechanism for hierarchical structure building universal across 
+languages? An fmri study of chinese and english, in Proceedings of the 2022 Conference on Empirical Methods in Natural 
+Language Processing, 7852–7861. 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+184 
+ 
+gerçekleştirdiği ilginç bir çalışmada ise farklı dillerde beyindeki aktivasyonun birbirinden 
+ayrışıp ayrışmadığı gösterilmektedir.  
+ 
+Görsel 5: Anlam haritalama, Huth v.d. 2016 
+ 
+Yapay zekâ ve beyin çalışmaları 
+Bildiğimiz kadarıyla yapay zekâ ve dil modelleri, insan beyninin ve sinir ağlarının çalışma 
+prensibinden esinlenmektedir. Ancak insan beyni ile doğal dil işleme arasında bazı farklar söz 
+konusudur. İnsan beyni dili, nöronal ağlar yoluyla biyolojik bir süreçten geçerek işlerken 
+elektrokimyasal işlemler gerçekleşir. Bu süreçte kültür, bağlam, üslup, kişisel paradigmalar ve 
+ayrımlar, durumsallık, bilinç dışı gibi birçok etken devreye girerken yapay zekâda istatistiksel 
+modeller, algoritmalar kullanılarak dil, sayısal verilere dönüştürülerek yapay bir sistemde 
+hiyerarşik biçimde işlenir. Doğal dil işleme, matematikseldir ve veri tabanına dayalı bir 
+mekanizmadır (Alpaydın, 2022). Bazı dil modelleri kural tabanlı, bazıları istatistik tabanlı, 
+çeviride güncel olarak kullanılanlar ise makine öğrenimi ve derin öğrenme algoritmaları ile 
+desteklenen modellerdir. İnsan beyni doğal dil işlemeye göre daha esnek anlam verme ve 
+muhakeme etme yetisine sahiptir. Doğal dil işlemenin bu alanda çeşitli sınırlılıkları vardır. 
+Çeşitli dil modellerini inceleyerek işleme mekanizmasını beyin ile karşılaştıran çalışmaların 
+(Lindborg ve Rabovsky, 2021; Pasquiou v.d. 2022) ortaya koyduğu bulgular, dil modellerinin 
+mekanizmaları hakkında önemli veriler sunmaktadır.  
+Lindborg ve Rabovsky’nin (2021:1049-1050) çalışmasında son yılların işlevsel ve güncel 
+modeli olan Transformer mimarisine sahip büyük dil modellerinin dil işleme ve anlam verme 
+mekanizmasının bazı yönleriyle beynin anlam vermesinden farklı çalıştığını göstermektedir. 
+Öte yandan çalışma, işlevsel anlamda beyne yakın işlevsel benzerlikler de ortaya koymaktadır. 
+Pasquiou v.d. (2022) çalışmasında ise çeşitli dil modelleri (GloVe, LSTM, GPT-2, BERT) 
+eğitilerek modele verilen girdilerden aktivasyon vektörleri elde edilmiştir. Diğer taraftan 
+katılımcılara “Küçük Prens” dinletilerek onların fMRI aktivasyonları zaman serileri biçiminde 
+kayıt edilmiştir. Buradan elde edilen veriler ile dil modellerinden elde edilen aktivasyon 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+185 
+ 
+vektörleri eşleştirilerek, beyin makine arasındaki aktivasyon benzerliği incelenmiş, regresyon 
+modeli ile analizi edilmiştir. Bulgulara göre eğitimli transformer modellerinin, LSTM (Long-
+Short Term Memory) gibi yinelemeli sinir ağları (Recurrent Neural Networks-RNN) tabanlı 
+modellere oranla beyin aktivasyonlarını tahmin etmede daha iyi sonuçlar elde ettiği 
+görülmüştür. 
+Bunun yanı sıra Wang v.d.’nin (2024) gerçekleştirdiği çalışmada doğal dil işlemenin insana 
+göre üstün özelliklerin söz edilerek beyin çalışmalarında beyni anlamak için dil modellerinden 
+faydalanılması önerilmiştir. Wang v.d., insan beyninin dil işleme süreçlerini anlamak için yapay 
+zekâdan faydalanmak gerektiğine ilişkin bir derleme sunmuşlardır. Buna göre göre yapay zekâ 
+ve büyük dil modelleri, beynin anlaşılmasına katkı sağlayabilir, insan beyin-dil ilişkisine 
+yönelik içgörü sunabilir ve beynin dili işleme mekanizmasının anlaşılmasına yardım edebilir 
+(2024: 1-5). Yapay zekâ kullanılarak yapılacak çalışmalar, dil işleme sırasında oluşan bilişsel 
+yükün ve işleyişin mekanizması, anlam ve yapının beyinde nasıl temsil edildiği, beynin 
+sözcükleri parça bütün ilişkisi içerisinde nasıl ayrıştırıp işlediği konularında önemli veriler 
+sunarak gelecekteki beyin çalışmalarına rehberlik edebilir (a.g.e.: 9). Büyük dil modelleri zaten 
+insan davranışlarından esinlenerek üretildiği için her ne kadar genel anlamda arada benzerlik 
+ve farklar olsa da belli bir görevi yerine getirmek için eğitilmiş bir modeli, yapay sinir ağlarının 
+insan benzeri davranışlarını ve beyin aktiviteleriyle benzerlik gösterdiği durumları incelemek 
+ve analiz etmek, beyinde dil işlemenin nasıl gerçekleştiği konusunda da yeni hipotezlerin 
+oluşmasına ve değerlendirilmesine olanak tanımaktadır (a.g.e.: 8). Bu doğrultuda çeviri yapmak 
+için eğitilmiş bir modeli ve yapay sinir ağlarının insan benzeri davranışlarını ve beyin 
+aktiviteleriyle benzerlik gösterdiği durumları disiplinler arası ve bağlantısallık yaklaşımıyla 
+incelemek, çeviri edimi sırasında fMRI gibi cihazlar ile görüntüleme yapmak18, sezgi, bilinç, 
+karar verme mekanizmaları gibi tartışmalı konularda yeni ufukların açılmasına imkân 
+sağlayabilir .  
+Çeviribilimsel perspektiften yapay zekâ ve çevirmen   
+Çeviri süreçlerinin bilişsel yönü ile ilgili çalışmalar ve nöral makine çevirisindeki örüntüler 
+üzerine çalışmalar, kara kutu olarak nitelendirilen beyni ve nöral makine çevirisinin işleyiş 
+mekanizmasını anlamak bakımından oldukça önemlidir. Çeviri süreçlerini anlamaya yönelik 
+bilişsel ve teknolojik temelli çalışmalar, çeviribilimi bağımsız ve akademik bir disiplin olarak 
+ 
+18 Bu alanda yapılmış benzer çalışma için bkz. Lu, F., Yuan, Z. (2019). Explore the Brain Activity during Translation and 
+Interpreting Using Functional Near-Infrared Spectroscopy. In: Li, D., Lei, V., He, Y. (eds) Researching Cognitive Processes 
+of Translation. New Frontiers in Translation Studies. Springer, Singapore. https://doi.org/10.1007/978-981-13-1984-6_5 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+186 
+ 
+tanımlayan  James S. Holmes’ün “The Name and Nature of Translation Studies” (1972) başlıklı 
+makalesinde öne sürdüğü kuramsal ayrımlarla da bağdaşmaktadır. Holmes, çalışmasında 
+çeviriyi salt kuram ve uygulama olarak iki temel alanda incelemiş, salt kuramsal çeviri 
+çalışmalarını betimleyici çeviri çalışmaları (descriptive translation studies) ve kuramsal çeviri 
+çalışmaları (theoretical translation studies) biçiminde sınıflamıştır. Betimleyici çeviri 
+çalışmaları altında Holmes, bilişsel alanla ilgili süreç odaklı betimleyici çalışmalara (process 
+oriented translation studies) bir alan ayırmıştır. Bu alanda çeviri süreci odak alınmış, 
+çevirmenin zihinsel işlemlerinin doğrudan gözlemlenememesi nedeniyle bu süreç “kara kutu” 
+olarak adlandırılarak bilişsel çalışmaların önemine vurgu yapılmıştır. Bunun yanı sıra Holmes, 
+bilişsel alanda yapılmasını öngördüğü çalışmaların “çeviri psikolojisi”19 ya da “psiko-çeviri” 
+adıyla ayrı bir alt alan oluşturabileceğini belirtmiştir (Holmes, 2000: 177). Holmes’ün 
+çevirmenin zihinsel işlemlerini “kara kutu” metaforuyla tanımlaması, derin öğrenme temelli dil 
+modellerinde yapay zekâ destekli çeviri araçlarının işleyiş mekanizmalarının tam olarak 
+açıklanamaması ile paralellik göstermektedir. Zira, dil modellerinde yapay sinir ağlarından 
+oluşan katmanlar da “kara kutu” olarak nitelendirilmektedir. Bu benzerlik, akla açıklanabilir 
+yapay zeka (XAI) çalışmalarını getirmekte,  insan çevirmen ve makine çevirmen olarak 
+adlandırılan her iki çeviri eyleyicisinin karar mekanizmalarıyla ilgili çözümleyici incelemeleri 
+işaret etmektedir.  
+Holmes, uygulamalı çeviri çalışmaları (applied translation studies) olarak tanımladığı alana ise 
+çeviri eğitimi, çeviriye yardımcı araçlar (sözlükler, bilgisayar programları) gibi bileşenleri dahil 
+etmiş; makine çevirisine ayrıca kuramsal alanda ayrıntılı yer vermiştir. Araç-ortam temelli 
+çeviri kuramları (medium restricted translation theories) olarak adlandırdığı alanda çevirinin 
+gerçekleştirildiği araç-ortam üzerinden kuramsal ayrımların yapılması gerektiğini belirten 
+Holmes, bu alanı insan çevirisi (human translation), makine çevirisi (machine translation) ve 
+makine destekli karma model (mixed or machine aided translation) olarak üç bölüme 
+ayırmıştır. Holmes’e göre kuramsal çalışmalar genel kuram olma eğilimindedir. Oysaki bir 
+alanda yapılan kuramsal çalışma, hangi araçla yapıldığına bağlı olarak belirlenmeli, kuramsal 
+alanın sınırları bu doğrultuda çizilmelidir (a.g.e.: 182).  
+İnsan makine etkileşimine yönelik kuramsal çalışmaları altında ele alınabileceğimiz makine 
+destekli karma model, günümüz teknolojik gelişmeleriyle ayrı bir çalışma alanı olarak gittikçe 
+anlam kazanmaktadır ve bu alan Endüstri 4.0 çağının bir yansıması olarak öne çıkmaktadır.  
+ 
+19 Çeviri Psikolojisi ile ilgili çalışma için bkz. Jääskeläinen, R. (2016). Translation Psychology, çev. Eraçıkbaş, A.F., Handbook 
+of Translation Studies, Volume 3 (2012), 191-197, John Benjamins Publishing Company.  
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+187 
+ 
+Doğal dil işleme, derin öğrenme ve metin işleme süreçleri, dijital dönüşümün önemli ölçüde 
+hissedildiği yeni dönemde çeviribilimsel perspektiften çeviri süreçlerini yeni bir 
+konumlanmaya doğru itmektedir. Özellikle nöral makine çevirisi, ön düzenleme (pre-editing) 
+son düzenleme (post editing) gibi işlemlerde çevirmenin, nasıl çalıştığını bildiği bir düzenek 
+için metin hazırlaması, bir düzenek tarafından üretilmiş çıktıyı değerlendirmesi ve metnin 
+amaca uygun olarak yeniden üretilmesinde başat rol alması, çeviri süreçlerinin amaç, işlev, 
+anlam, kaynak-erek ilişkisi gibi temel kavramları, teknolojik gelişmelere uyumlanarak yeniden 
+ele alınmasını gerekli kılmaktadır. Bu doğrultuda çeviri kuramlarının bakış açısından  yapay 
+zekâ ve çevirmen etkileşimi incelemeye değerdir. 
+Sözgelimi Skopos (Amaç/Erek) kuramına göre çevirinin amacı, kaynak metni erek dildeki işlevi 
+bakımından değerlendirmeyi ve çeviri süreçlerini buna göre yönetmeyi (Reiß ve Vermeer, 
+1984: 96) esas aldığından çevirmen bu süreçten sorumlu bir uzmandır. Çevirmen, donanımıyla 
+bu sürecin en önemli karar vericisi ve belirleyicisidir (a.g.e.: 149). Yapay zekânın işleyiş 
+mekanizmasına vakıf olan bir çevirmen, kaynak metnin çözümlenip erek dilde yeniden 
+oluşturulmasına kadar olan süreçte uzmanlığını farklı bir konuma taşıma imkânına sahip 
+olacaktır. Böylelikle çevirmen, kaynak metni yalnızca dilsel anlamda dönüştüren ve aktaran bir 
+uzman olmaktan ziyade, amaca yönelik olarak bilgi işleyen bir sistem olarak yapay zekâ 
+çıktılarını değerlendiren, analiz eden ve düzenleyen başka bir mekanizmaya yön veren karar 
+verici bir pozisyonda olacaktır.  
+İşlevsel çeviri kuramlarından Justa Holz Mänttäri’nin eylem odaklı çeviri kuramında 
+(Translatorisches Handeln,1984) çeviri  süreci, çeşitli aktörlerin katılımıyla yürütülen kolektif 
+bir eylemdir ve çevirmen, bu süreçte uzman kimliğinin yanı sıra danışman olarak da öne 
+çıkmaktadır (a.g.e.: 118). Mänttäri, çeviri eyleminde yer alan aktörlerin işbirliğini  vurgulayarak 
+çeviri sürecinde tarafların birbiriyle etkileşiminin önemine işaret etmektedir (a.g.e.: 41-43). 
+Çevirmenin danışman rolü oldukça belirleyicidir. Mänttäri’ye göre çevirmen, erek dil 
+okuyucusu için belirlenen işlev ve amaç doğrultusunda metni tasarlayan, üreten ve danışman 
+konumuyla gerekli düzenlemeleri gerçekleştiren kişidir. Günümüzde çevirmenler çoğu zaman 
+yapay zekâ ile bir sistem tarafından üretilmiş bir çıktıyla muhatap olurlar. Bu durum yeni bir 
+aktörü devreye sokmakta ve çevirmenin rolünün dönüşmesini gerekli kılmaktadır. Nöral 
+makine çevirisinin çeşitli süreçlerden geçirerek işleyip ürettiği çıktı, çevirmenin uzman ve 
+danışman kimliğini kullanabileceği bir alan oluşturmakta, çevirmen makine işbirliğini gerekli 
+kılmaktadır. Özellikle nöral makine çevirisinde arka planda metnin işlenişi,  bağlam 
+değerlendirmesi, bir dil modelinin eğitimi, amaca yönelik kişiselleştirilmesi ya da spesifik bir 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+188 
+ 
+alana yönelik özelleştirilmesi, girdi-çıktı ilişkisinin analizi, çıktının erek metne yönelik inşası 
+ve tasarımı gibi işlemlerin yürütülmesi, metinle kurulan ilişkinin başka bir boyuta taşınmasını 
+ve uzmanlığın derinleşmesini gerektirmektedir. 
+Çevirmenin uzmanlığını geliştirebileceği ya da bir uzmanlık oluşturabileceği diğer bir konu ise 
+yapay zekâ ve dil işlemede metin işleme süreçleridir. Metin işleme süreçleri Chrisitane Nord’un 
+çeviri amaçlı kaynak metin çözümlemesi (1995: 40-145) kapsamında çeviribilimsel 
+perspektiften değerlendirilebilir. Nord, kaynak metnin çözümlenmesini dilsel düzeye 
+hapsetmez, metni bütün bileşenleriyle ve katmanlarıyla ele almayı önermektedir. Metnin 
+çözümlenmesiyle bağlam ve anlam, metnin ortaya koyduğu bütünlüklü işlevi bakımından 
+ayrıca önem arz etmektedir. Çevirmen, yüzeysel bir değerlendirme ya da çözümleme yapan biri 
+değildir; gerektiğinde metnin içinde, arka planında, derinliklerinde ve çeperinde anlama dair 
+parçalar arayan, bulduğu parçaları birleştiren ve nihayetinde ortaya erek dilde işlevsel bir ürün 
+çıkaran profesyonel bir kimlik taşır. Nöral makine çevirisinde her ne kadar çok başarılı sonuçlar 
+alınsa da sözü edilen boyutta ve kapsamda bir çözümleme ve metin üretme söz konusu değildir. 
+Özellikle metin işleme ve ön işleme süreçleri, kaynak metnin çözümlemesine ilişkin yeni bir 
+alan olarak kabul edilebilir ve mekanizmanın işleyişine dair bilgi vermektedir. Metin ön işleme 
+süreçlerinin incelenmesi ve bu doğrultuda çeviri çıktılarının incelenmesi, çevirmene dili farklı 
+düzeylerden ele alma ve sistemin anlam oluşturma biçimini analiz etme imkânı tanımaktadır.  
+Sonuç ve öneriler 
+İnsan beyninin işleyişinin doğal dil modellerine göre çok daha komplike olduğu bir gerçektir. 
+Dil modellerinin işleyiş mekanizması ve derin öğrenmeyi oluşturan yapay sinir ağları her ne 
+kadar temelde beyinden esinlense de sonuçta matematiksel bir işlemleme ile verinin işlendiği 
+bir süreci temsil eder. Zira bu yönüyle de hesaplamalı dilbilim olarak adlandırılır. Bu 
+yöntemlerle metin işleme süreçlerinde çeviri ile ilgili örneklerden elde edilen bulgular, veri ön 
+işleme aşamalarının ve model açıklanabilirliğinin çeviri çıktılarını doğrudan etkilediğini 
+göstermiştir.  
+Metin işleme ile ön işleme süreçlerinin ve çeşitli dil modelleri mimarilerinin incelenmesiyle 
+elde edilen bulgular, yapay zekanın etkisiyle hızla dönüşen yeni dönemde çeviri alanında 
+çalışanların doğal dil işleme, derin öğrenme alanında kendilerini geliştirmelerini ve gelişmelere 
+adapte olmalarını gerekli kılmaktadır. Çeviri eğitimi de bu doğrultuda gelişmelere göre 
+güncellenmelidir. Yapay zekâ ve işleyiş mekanizması ile ilgili temel konular derslere konu 
+edilmeli, metin çözümleme ve metin inşa etme süreçlerinde yapay zekâdan faydalanmalı, bilgi 
+işleyen bir sistem olarak nöral makine çevirisinde girdi-çıktı arasındaki ilişkinin gözlenmesi, 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+189 
+ 
+çeviri çıktısının bunlara göre düzenlenmesi gibi uygulamalar derslere mümkün olduğunca 
+entegre edilmelidir. Dil modellerinin ve doğal dil işlemenin çalışma prensiplerine ve metin 
+işleme süreçlerine aşina olmak, yapay zekâ çağında çevirmenler için yeni alanlar açabilir. 
+Çevirmenler, dilbilimsel uzmanlık ile teknolojik gelişmelerin birleştiği alanlarda hibrit roller 
+üstlenebilirler. Sözgelimi metin işleme süreçlerinde elde edilen verilen nasıl değerlendirilmesi 
+gerektiği üzerinde çalışabilir, veri okuryazarlığı alanında kendilerini geliştirebilirler. Bunun 
+yanı sıra bir dil modelinin eğitiminde görev üstlenebilir, dil modelini kişiselleştirebilir, dil 
+modelinin metin işleme süreçlerini izleyerek ve gerektiğinde müdahale ederek çeviri kalitesinin 
+artmasına katkıda bulunabilirler.  
+Bu çalışma, doğal dil işleme, derin öğrenme, dil modelleri ve mimarileri ile metin işleme 
+süreçlerine temel düzeyde genel bir bakış sunmakta; çevirmenlik mesleğinin dönüşümüne ve 
+çevirmenlerin yapay zekâ çağında edinecekleri konuma bir katkı sunmayı amaçlamaktadır. 
+Bununla birlikte dil modellerinin geliştirilmesi için metin işleme ve metin ön işleme 
+aşamalarının çeviri bakımından incelenmesine yönelik kapsamlı çalışmalar önerilmektedir. Bu 
+çalışmalar sayesinde hata analizleri yapılabilir; çeşitli dil çiftleri ile büyük veri setleri 
+hazırlanabilir, daha doğru ve güvenilir çevirinin ön koşulları oluşturulabilir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+190 
+ 
+Kaynakça 
+Adalı, E. (2016). Doğal Dil İşleme. Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği 
+Dergisi. 5(2).  
+Ahammad, S. H., Kalangi, R. R., Nagendram, S., Inthiyaz, S., Priya P.P., Faragallah O.S., 
+Mohammad, A., Eid, M.M.A., Rashed, A.N.Z. (2023). Improved neural machine translation 
+using Natural Language Processing (NLP). Multimedia Tools and Applications. Springer.  
+Alpaydın, E. (2022). Yapay Öğrenme Yeni: Yapay Zekâ. çev. Aylin Ağar, 3. Baskı, Tellekt, 
+İstanbul. 
+Antoine J. ve P. Tixier (2018). Notes on Deep Learning for NLP. arXiv, preprint 
+arXiv:1808.09772.  Erişim adresi https://doi.org/10.48550/arXiv.1808.09772    
+Bahdanau, D., Cho, KH. ve Bengio, Y. (2015). Neural machine translation by jointly learning 
+to align and translate. Proceedings of ICLR. arXiv, preprint arXiv:1409.0473. Erişim adresi 
+https://doi.org/10.48550/arXiv.1409.0473  
+Benítez-Burraco, A. ve Boeckx, C. (2015). Possible functional links among brain- and skull-
+related genes selected in modern humans. Frontiers in Psychology, 6, Article 794. 
+Camacho-Collados J. ve Pilehvar, M.T. (2018). On the Role of Text Preprocessing in Neural 
+Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis.  
+arXiv, preprint arXiv:1707.01780. Erişim adresi https://doi.org/10.48550/arXiv.1707.01780 
+Deniz, F., Nunez-Elizalde, A. O., Huth, A. G. ve Gallant, J. L. (2019). The representation of 
+semantic information across human cerebral cortex during listening versus reading is invariant 
+to stimulus modality. Journal of Neuroscience, 39(39), 7722-7736. 
+Deshmukh, R. D. ve Kiwelekar, A. (2020). Deep learning techniques for part of speech tagging 
+by natural language processing. 2020 2nd International Conference on Innovative Mechanisms 
+for Industry Applications (ICIMIA) içinde, 76-81, IEEE. 
+Dohare, S., Fernando Hernandez-Garcia, J., Lan, Q., Rahman, P., Rupam Mahmood, A., 
+S.Sutton, R. (2024). Loss of plasticity in deep continual learning. Nature, Springer Science and 
+Business Media LLC. Erişim adresi https://doi.org/10.1038/s41586-024-07711-7 
+Feldman, R. ve Dagan, I. (1995). Knowledge Discovery in Textual Databases. KDD’ 95 
+Proceedings of the First International Conference on Knowledge Discovery and Data Mining, 
+112-117. Erişim adresi https://www.ijcseonline.org/spl_pub_paper/30-ICCIS-18.pdf  
+Friederici, A. D. (2011). The brain basis of language processing: from structure to 
+function. Physiological reviews, 91(4), 1357-1392.  
+Goodfellow, I., Bengio, Y. ve Courville, A. (2016). Deep Learning. MIT Press. Erişim adresi 
+www.deeplearningbook.org  
+Hickok, G., ve Poeppel, D. (2007). The cortical organization of speech processing. Nature 
+reviews neuroscience, 8(5), 393-402. 
+Hinke, R. M., Hu, X., Stillman, A. E., Kim, S. G., Merkle, H., Salmi, R. ve Ugurbil, K. (1993). 
+Functional 
+magnetic 
+resonance 
+imaging 
+of 
+Broca's 
+area 
+during 
+internal 
+speech. Neuroreport, 4(6), 675-678. 
+Hochreiter S. ve Schmidhuber J. (1997). Long Short-Term Memory. Neural Computation, 9(8); 
+1735–1780. Erişim adresi https://doi.org/10.1162/neco.1997.9.8.1735 (17.03.2025) 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+191 
+ 
+Huth, A. G., De Heer, W. A., Griffiths, T. L., Theunissen, F. E. ve Gallant, J. L. (2016). Natural 
+speech reveals the semantic maps that tile human cerebral cortex. Nature, 532(7600), 453-458. 
+Holmes, J. S. (2000). The Name and Nature of Translation Studies. 1972,  In: Venuti, L. (eds): 
+The Translation Studies Reader, Chapter 13, 172-185. 
+Holzinger, A.     Saranti, A.    Molnar, C.   Biecek, P.  ve  Samek, W. (2022). Explainable AI 
+Methods - A Brief Overview. International workshop on extending explainable AI beyond deep 
+models and classifiers içinde, 13-38, Cham: Springer International Publishing. Erişim 
+adresi https://dx.doi.org/10.1007/978-3-031-04083-2_2  
+Hopfield, J. J. (1982). Neural Networks and Physical Systems with Emergent Collective 
+Computational Abilities. Proceedings of the National Academy of Sciences of the United States 
+of America, Vol. 79, No 8, Part 1Biological Sciences, 2554-2558. 
+Jabeen, R., Ericsson, M., ve Nordqvist, J. (2023). Towards Better Product Quality: Identifying 
+Legitimate Quality Issues through NLP & Machine Learning Techniques. Linköping Electronic 
+Conference Proceedings, Linköping University Electronic Press. doi.org/10.3384/ecp199009 
+Jääskeläinen, R. (2016). Translation Psychology. Çev. Eraçıkbaş, A.F., Handbook of 
+Translation Studies, Vol. 3 (2012), 191-197, John Benjamins Publishing Company.  
+Irie, K., Gerstenberger, A., Schlüter, R. ve Ney, H. (2020). How Much Self-Attention Do We 
+Need? Trading Attention for Feed-Forward Layers. ICASSP 2020-2020 IEEE International 
+Conference on Acoustics, Speech and Signal Processing (ICASSP), 6154-6158.  
+Kerimoğlu, C. (2022). Dilin Kökeni Arayışları-5: Beyin ve Dil, Dil araştırmaları Journal of 
+Language Studies, Yıl: 16, Dönem: 2022/Bahar, Sayı: 30 ISSN 1307-7821 | e-ISSN 2757-8003 
+Khurana, D., Koli, A., Khatter, K. ve Singh, S. (2022). Natural language processing: State of 
+the art, current trends and challenges. Multimedia Tools and Applications, 82, 3713–3744. 
+Koroteev, M. V. (2021). BERT: a review of applications in natural language processing and 
+understanding.  
+arXiv, 
+preprint 
+arXiv: 
+2103.11943. 
+ 
+Erişim 
+adresi 
+https://arxiv.org/pdf/2103.11943 (17.03.2025) 
+LeCun, Y., Bengio Y. ve Hinton, G. (2015). Deep learning, Nature, 521.7553 (2015): 436-444. 
+Lindborg, A. ve Rabovsky, M. (2021). Meaning in brains and machines: Internal activation 
+update in large-scale language model partially reflects the n400 brain potential. Proceedings of 
+the annual meeting of the cognitive science society, Vol. 43. Erişim adresi  
+https://escholarship.org/uc/item/6d71c9sj (16.03.2025) 
+Liu, F. H., Gu, L., Gao, Y. ve Picheny, M. (2003). Use of statistical N-gram models in natural 
+language generation for machine translation. 2003 IEEE International Conference on 
+Acoustics, Speech, and Signal Processing, Proceedings.(ICASSP'03),Vol. 1, pp.I-I). IEEE. 
+Lourdusamy, R. ve Abraham, S. (2018). A Survey on Text Pre-processing Techniques and 
+Tools. International Journal of Computer Sciences and Engineering, Vol. 6, Special Issue-3, 
+148-157, E-ISSN: 2347-2693.  
+Lu, F., Yuan, Z. (2019). Explore the Brain Activity during Translation and Interpreting Using 
+Functional Near-Infrared Spectroscopy. In: Li, D., Lei, V., He, Y. (eds) Researching Cognitive 
+Processes of Translation. New Frontiers in Translation Studies. Springer, Singapore. Erişim 
+adresi https://doi.org/10.1007/978-981-13-1984-6_5 
+Luo, S., Ivison, H., Han, S. C. ve Poon, J. (2024). Local interpretations for explainable natural 
+language processing: A survey, ACM Computing Surveys, 56(9), 1-36. 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+192 
+ 
+M.P. Brasoveanu, A. ve Andonie, R. (2020). Visualizing Transformers for NLP: A Brief 
+Survey. 24th International Conference Information Visualisation (IV). Erişim adresi 
+https://doi.org/10.1109/iv51561.2020.00051 (17.03.2025) 
+Mänttäri, J.H. (1984). Translatorisches Handeln:Theorie und Methode, Suomalainen 
+Tiedeakatemia, Helsinki. 
+Nord, C. (1995). Textanalyse und Übersetzen: theoretische Grundlagen, Methode und 
+didaktische Anwendung einer übersetzungsrelevanten Textanalyse. 3. Auflage, Heidelberg, 
+Groos. ISBN: 3-87276-649-X 
+Özengi, A. (2024). Derin Öğrenme Teknikleri Kullanılarak Türkçe-İngilizce Nöral Makine 
+Çevirisi. Dönem Projesi, İzmir Kâtip Çelebi Üniversitesi Fen Bilimleri Enstitüsü. Erişim adresi 
+https://acikerisim.ikcu.edu.tr/yayin/1742898&dil=3&q=(17.03.2025) 
+Pasquiou, A., Lakretz, Y., Hale, J., Thirion, B. ve Pallier, C. (2022). Neural language models 
+are not born equal to fit brain data, but training helps. arXiv, preprint arXiv:2207.03380. Erişim 
+adresi https://arxiv.org/pdf/2207.03380 (17.03.2025) 
+Patwardhan, N., Marrone, S. ve Sansone, C. (2023). Transformers in the Real World: A Survey 
+on 
+NLP 
+Applications. 
+Information, 
+MDPI 
+AG. 
+Erişim 
+adresi 
+https://doi.org/10.3390/info14040242 (17.03.2025) 
+Pekcoşkun Güner, S. (2023). Çevirmen-Bilgisayar Etkileşiminin Kilit Bileşeni: Doğal Dil 
+İşleme. Karamanoğlu Mehmetbey Üniversitesi Uluslararası Filoloji ve Çeviribilim Dergisi, 
+5(1), 56-79. Erişim adresi https://doi.org/10.55036/ufced.1306746 (17.03.2025) 
+Poeppel, D., Emmorey, K., Hickok, G. ve Pylkkänen, L. (2012). Towards A New Neurobiology 
+of Language. Journal of Neuroscience, 32/41: 14125–14131. 
+Rahali, A. ve Akhloufi, M. A. (2023). End-to-End Transformer-Based Models in Textual-Based 
+NLP, AI, 4(1), 54-110. MDPI. Erişim adresi https://doi.org/10.3390/ai4010004 (17.03.2025) 
+Reiß, K. ve Vermeer, H. (1984). Grundlegung einer allgemeinen Translationstheorie. De 
+Gruyter. 
+Rumelhart, D. E., Hinton, G. ve Williams, R. J. (1986). Learning representations by back-
+propagating errors. Nature, 323.6088: 533-536.  
+Sankar, H. ve Subramaniyaswamy, V. (2017). Investigating sentiment analysis using machine 
+learning approach. 2017 International Conference on Intelligent Sustainable Systems (ICISS). 
+Erişim adresi https://doi.org/10.1109/iss1.2017.8389293 (17.03.2025) 
+Samek W., Wiegand T. ve Müller K.R. (2017). Explainable Artificial Intelligence: 
+Understanding, Visualizing and Interpreting Deep Learning Models. arXiv, preprint 
+arXiv:1708.08296. Erişim adresi https://doi.org/10.48550/arXiv.1708.08296 
+Schmidhuber, J. (2014). Deep Learning in Neural Networks: An Overview. Neural networks, 
+61, 85-117. Erişim adresi https://doi.org/10.48550/arXiv.1404.7828  
+Seker, S. E. (2015). Doğal Dil İşleme (Natural Language Processing). YBS Ansiklopedi 2(4), 
+14-31. 
+Shaw, P., Uszkoreit, J. ve Vaswani, A. (2018). Self-attention with relative position 
+representations. arXiv, 
+preprint 
+arXiv:1803.02155. 
+Erişim 
+adresi 
+https://doi.org/10.48550/arXiv.1803.02155 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+193 
+ 
+Sharma, A., Amrita, Chakraborty, S. ve Kumar, S. (2022). Named entity recognition in natural 
+language processing: A systematic review. Proceedings of Second Doctoral Symposium on 
+Computational Intelligence: DoSCI 2021 içinde, 817-828. Springer Singapore. 
+Singh, C., Hsu, A. R., Antonello, R., Jain, S., Huth, A. G., Yu, B., Gao, J. (2023). Explaining 
+black box text modules in natural language with language models. arXiv, preprint 
+arXiv:2305.09863. Erişim adresi https://doi.org/10.48550/arXiv.2305.09863  
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, L., 
+Polosukhin, I. (2017). Attention is all you need. Proceedings of the Advances in Neural 
+Information Processing Systems 30 (NIPS), Long Beach, CA, USA, 4–9, 5998–6008.  
+Vigneau, M., Beaucousin, V., Hervé, P. Y., Duffau, H., Crivello, F., Houde, O., ... ve Tzourio-
+Mazoyer, N. (2006). Meta-analyzing left hemisphere language areas: phonology, semantics, 
+and sentence processing. Neuroimage, 30(4), 1414-1432. 
+Wang, S., Sun, J., Zhang, Y., Lin, N., Moens, M. F. ve Zong, C. (2024). Computational models 
+to study language processing in the human brain: A survey. arXiv, preprint  arXiv:2403.13368. 
+Erişim adresi https://arxiv.org/pdf/2403.13368 (17.03.2025) 
+Zhang, X., Wang, S., Lin, N. ve Zong, C. (2022). Is the brain mechanism for hierarchical 
+structure building universal across languages? an fmri study of chinese and english. 
+Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing 
+içinde, 7852–7861.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Natural Language Processing, Deep Learning, and Text Processing: A Translational Perspective 
+194 
+ 
+Structured Abstract 
+This study provides a comprehensive conceptual and descriptive examination of natural 
+language processing (NLP) and deep learning models, which are essential components of 
+artificial intelligence. It evaluates commonly used architectures in language models in terms of 
+their characteristics and discusses text processing and preprocessing workflows that operate on 
+artificial neural networks, with examples in the context of translation. Additionally, the article 
+compares the functioning mechanisms of the human brain and artificial neural networks, 
+emphasizing their impact on the training and development of language models.   
+NLP refers to the field that enables computers to understand, process, and interact using human 
+language. With the development of artificial neural networks inspired by the human brain 
+starting in the 1980s (John Hopfield, Geoffrey Hinton), and the integration of these technologies 
+into natural language modeling and neural machine translation by the 2000s (Yann LeCun, Y. 
+Bengio, Geoffrey Hinton), a major transformation has taken place. The public release of a large-
+scale language model in 2023 significantly accelerated interest in artificial intelligence systems. 
+What characterizes this new era is the data-driven nature of deep learning algorithms, which, 
+unlike traditional rule-based systems, learn from large datasets and optimize themselves over 
+time (Alpaydın, 2002: 27). These developments have reshaped the landscape of language 
+technologies and initiated discussions on the implications of AI on human communication.NLP 
+and deep learning algorithms operate within this dynamic framework. NLP involves two core 
+stages: text comprehension (encoding) and text generation (decoding) (Alpaydın, 2002: 92). 
+During comprehension, high-level abstraction and encoding occur, while generation involves 
+decoding. In neural machine translation, this corresponds to the encoder-decoder architecture 
+where one neural network processes the input into a mathematical representation and another 
+generates the output sequence. NLP is often referred to as computational linguistics because 
+neural networks convert text data into numerical representations (Şeker, 2015: 14). This 
+abstraction process reflects the shift from symbolic representation to statistical and probabilistic 
+models 
+in 
+modern 
+language 
+technologies.  
+As data progresses through layers in deep learning, it is processed and transformed into outputs. 
+During training, systems learn from big data and continuously optimize themselves throughout 
+the entire text processing workflow. Language models are built upon various architectural 
+frameworks. Among the most prominent is the Transformer model, which applies encoder-
+decoder mechanisms. Others include recurrent neural networks (RNNs) and hybrid models. The 
+number of layers and processing mechanisms vary depending on the model. Each architecture 
+offers specific strengths in handling language complexity, memory retention, and contextual 
+understanding. Although artificial neural networks are inspired by the human brain, significant 
+differences exist between biological language processing and artificial mechanisms (Alpaydın, 
+2022: 29–30). The human brain operates through neuronal, biological systems, while NLP 
+follows a mathematical, hierarchical, and data-based framework. Understanding this distinction 
+is crucial in designing language models that strive to emulate natural language comprehension 
+and production. Key components of NLP include data collection, data preparation or 
+preprocessing, feature extraction, model training, testing and evaluation, interpretation of 
+results, and optimization. Tasks such as information retrieval, information extraction, and data 
+mining are grouped under text mining, which helps derive meaningful insights from textual 
+data. Preprocessing plays a crucial role in this context (Feldman and Dagan, 1995; cited in 
+Lourdusamy and Abraham, 2018: 148), as it directly influences the accuracy and efficiency of 
+Doğal Dil İşleme, Derin Öğrenme ve Metin İşleme: Çeviri Süreçlerine Yönelik Bir İnceleme 
+195 
+ 
+subsequent computational processes. Several linguistic applications are incorporated during 
+text processing. Translation-oriented NLP applications often require interdisciplinary 
+collaboration involving linguists, phonologists, morphologists, syntacticians, semanticists, 
+pragmatists, NLP engineers, data analysts, and AI developers. Such cooperation ensures that 
+language-specific complexities are adequately handled, especially in multilingual and domain-
+specific translation scenarios. Frequent preprocessing tasks include language detection, special 
+character removal, correction of encoding errors and misspellings, and tokenization—
+segmenting text into meaningful and processable units. Compound words can be further broken 
+into subword units (subword tokenization), determined by statistical frequency in training data. 
+Morphological analysis becomes essential at this stage. Lowercasing is applied to normalize 
+text for model training. Stemming reduces words to their root forms, while lemmatization 
+identifies base forms of words (Camacho-Collados and Pilehvar, 2018: 2; Jabeen et al., 2023: 
+4). Noise removal targets irrelevant characters and symbols, while stop words removal filters 
+out semantically non-contributive terms (Sankar and Subramaniyaswamy, 2017: 88; 
+Lourdusamy and Abraham, 2018: 149). Another key task is part-of-speech tagging to classify 
+each word grammatically. Following this, syntactic parsing identifies sentence components and 
+their functions (Deshmukh and Kiwelekar, 2020; Sankar and Subramaniyaswamy, 2017: 88). 
+Feature extraction translates relevant text attributes into numeric vectors to support model 
+training (Jabeen et al., 2023: 4). Embedding further transforms words into mathematical vectors 
+to capture semantic relationships. N-gram modeling helps capture linguistic structure and 
+context and is especially useful in improving predictive accuracy in generative language 
+models. Text processing tasks vary depending on the model but are pivotal for optimizing 
+translation output. This study demonstrates that preprocessing quality and model 
+interpretability directly influence translation performance. For instance, improved 
+morphological analysis and precise lemmatization contribute to more accurate target language 
+outputs. It becomes evident that NLP pipelines must be carefully customized according to 
+linguistic properties of both source and target languages. The research emphasizes that NLP 
+and deep learning technologies will play a critical role in the future of translation practices and 
+language-related professions. Translators equipped with text processing knowledge will find 
+new opportunities in dataset development, text refinement, model training processes, and 
+system evaluation. As digital transformation reshapes language industries, translators are 
+expected to adopt hybrid roles that bridge linguistic expertise and technological literacy. 
+Therefore, integrating linguistic knowledge with computational tools will be indispensable for 
+the evolving role of translators in AI-driven environments. Moreover, translation education 
+must adapt to this shift by incorporating data literacy and NLP competencies to prepare future 
+professionals for collaborative work.    
+ 
+ 
+ 

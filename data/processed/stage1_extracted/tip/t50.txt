@@ -1,0 +1,1076 @@
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+82 
+Derleme / Review 
+BULAŞICI DERMATOLOJİK HASTALIKLARIN 
+KONTROLÜ VE HALK SAĞLIĞI AÇISINDAN 
+ÖNEMİ 
+Ayşe Esra Koku Aksu1
+1-İstanbul Eğitim ve Araştırma Hastanesi Dermatoloji Kliniği
+Özet 
+Bulaşıcı cilt hastalıkları birinci basamak sağlık kuruluşuna sık başvuru sebeplerindendir. 
+Bakteriyel, fungal ve paraziter hastalıklar gelişmekte olan ülkelerde daha sık görülürken, viral 
+hastalıklar ise gelişmiş ülkelerde ön plana çıkmaktadır. Bakteriyel hastalıklardan en sık görülen 
+piyodermidir,  mantar enfeksiyonlarından ise en sık görülen dermatofitlerin etken olduğu yüzeyel 
+mantar enfeksiyonlarıdır. Viral hastalıklardan Herpes simpleks virüs, Varisella, Molluskum 
+kontagiozum, verru, paraziter hastalıklardan ise skabies ve pediküloz sık görülenler diğer bulaşıcı 
+cilt hastalıklarıdır. Hastalıkların dermatolojik bulgularının tanınması ile erken tanı konulması 
+sağlanabilir. Bulaş yolunun bilinmesi ile de hastalıkların yayılması önlenebilir. Uygun izolasyon 
+yöntemlerinin uygulanması bulaşın azaltılmasında önem taşır. 
+Anahtar Kelimeler: Bulaşıcı, cilt hastalıkları, dermatoloji, halk sağlığı. 
+CONTROL of INFECTIOUS SKIN DISEASES and THEIR IMPORTANCE in PUBLIC HEALTH 
+Infectious skin diseases are common among patients referring to the primary health care 
+providers. Bacterial, fungal and parasitic diseases are more common in developing countries, 
+while viral diseases are seen in developed countries. The most common bacterial disease is 
+pyodermi and the most common fungal infection is superficial fungal infections caused by 
+dermotophytes. Herpes simplex virus, Varicella, Molluscum contagiosum, verru are the most 
+common agents among viral diseases and skabies and pediculosis are also among the common 
+parasitic infectious diseases. Early diagnosis of diseases is possible with the recognition of 
+dermatological findings of the diseases. Knowing the routes of transmission helps to prevent the 
+spread of the disease. Appropriate isolation measures are important in reducing the transmission 
+of the disease.        
+Key words: Skin diseases, transmission, dermatology, public health. 
+Sorumlu Yazar / Corresponding Author: Doç. Dr. Ayşe Esra Koku Aksu  
+İstanbul Eğitim ve Araştırma Hastanesi Dermatoloji Kliniği İstanbul, Türkiye. 
+e-posta: esraaksu@gmail.com
+Geliş tarihi / Received : 17.02.2019, Kabul Tarihi / Accepted: 04.03.2019
+Nasıl Atıf Yaparım / How to Cite: Aksu AE. Bulaşıcı Dermatolojik Hastalıkların Kontrolü ve Halk Sağlığı Açısından 
+Önemi. ESTÜDAM Halk Sağlığı Dergisi. Dermatoloji ve Halk Sağlığı Özel Sayısı;2019:82-89. 
+https://doi.org/10.35232/estudamhsd.528241
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+83 
+Giriş 
+ 
+irinci basamak sağlık kuruluşlarına 
+başvuran 
+hastalar 
+arasında 
+bulaşıcı cilt hastalıkları sık olarak 
+görülmektedir. Özellikle gelişmekte olan 
+ülkelerde önemli bir sağlık sorunudur; 
+piyodermi (%7-35), tinea kapitis (%1-20), 
+skabies (%1-17) en sık  görülen bulaşıcı 
+cilt hastalıkları arasındadır (1). Gelişmiş 
+olan ülkelerde ise viral hastalıklar öne 
+çıkmaktadır. 
+Avrupa’da 
+erişkin 
+hastalarda yapılan 5 ülkeyi kapsayan bir 
+çalışmada en sık görülen deri hastalığının 
+verru olduğu saptanmıştır (2).  Ülkemizde 
+ülke 
+genelini 
+kapsayan 
+çalışma 
+bulunmamaktadır. Elazığ’da yapılan bir 
+çalışmada en sık deri hastalığının yüzeyel 
+mikozlar (%22,9) olduğu bildirilmiştir (3). 
+Piyodermiler 
+2. 
+sırada 
+(%8,4) 
+yer 
+almaktadır. Kocaeli’nde yapılan bir diğer 
+çalışmada ise bulaşıcı cilt hastalıklarının 
+oranının %27,0 olduğu saptanmıştır. En 
+sık 
+0-9 
+yaş 
+grubunda 
+(%9,4) 
+görülmektedir, bunu azalan sıklıkla 30-39 
+yaş 
+(%5,3) 
+ve 
+20-29 
+(%5,0) 
+yaş 
+grubundaki hastalar takip etmektedir. En 
+sık görülenler sırası ile viral (%8,2), 
+mantar 
+(%7,4) 
+ve 
+bakteriyel 
+enfeksiyonlardır (%6,1) (4).  
+Ülkemizde 
+de 
+bulaşıcı 
+cilt 
+hastalıklarının yüksek prevelansta olması 
+doğru tanı, uygun tedavi ve koruyucu 
+önlem 
+alınmasını 
+gerektirmektedir. 
+Bunun için de hastalıkların dermatolojik 
+bulguları tanınmalı ve bulaş yolları, eşlik 
+edebilecek komplikasyonlar bilinmelidir. 
+Özellikle okul öncesi ve ilkokul çağındaki 
+çocuklara yönelik yapılacak olan tarama 
+programları ile bulaşıcı cilt hastalıkları 
+sıklığının azalması sağlanabilir. 
+ 
+Bakteriyel Deri Hastalıkları 
+ 
+Piyodermi: Dünya genelinde pediatrik 
+popülasyonda yüzeyel deri infeksiyonu 
+insidansının 162 milyondan fazla olduğu 
+tahmin edilmektedir (5).  Etken sıklıkla 
+Staphylococcus 
+aureus 
+ve 
+Streptococcus pyogenes’dir. İmpetigo, 
+ektima, fronküloz gibi yüzeyel deri 
+enfeksiyonları 
+bu 
+gruptadır. 
+Yüzde, 
+özellikle 
+burun 
+çevresinde 
+görülür. 
+Yüzeyel veziküller, püstüller kısa sürede 
+rüptüre olur, erode alanların üzeri bal 
+rengi krutla kaplanır.  Geniş alan tutulumu 
+olduğunda topikal antibiyotik tedavisi 
+(mupirosin, 
+fusidik 
+asit), 
+sistemik 
+semptomlar eşlik ettiğinde ise sistemik 
+antibiyotik 
+tedavisi 
+(amoksisilin 
+klavulonat, sefalosporin) verilmelidir (6). 
+Yüzeyel deri enfeksiyonları sonrasında 
+selülit, post streptokokal glomerulonefrit, 
+kızıl gibi komplikasyonlar gelişebilir.  
+Tekrarlayan 
+yüzeyel 
+deri 
+enfeksiyonlarında 
+Staphylococcus 
+aureus’un  
+nazal 
+taşıyıcılığı 
+için 
+mikrobiyolojik 
+örnek 
+alınmalıdır. 
+Lezyonlar çok bulaştırıcı olduğu için 
+genel hijyen önlemleri su ve sabun, alkol 
+bazlı 
+el 
+dezenfektan 
+kullanılmalıdır.  
+Tekrarlayan 
+olgularda 
+klorheksidin 
+solüsyonları ile yıkama önerilmelidir. 
+Semptom 
+olmadığında 
+enfeksiyonu 
+önleme 
+amaçlı 
+antibakteriyel 
+sabun 
+kullanımının ise sabun kullanımına göre 
+üstünlüğü saptanmamıştır (7).  
+Uygun önlem alınması ile hastalığın 
+yayılması 
+ve 
+komplikasyonların 
+önlenmesi sağlanabilir. 
+ 
+Mantar Hastalıkları 
+ 
+Mantar enfeksiyonları arasında en 
+sık 
+görülen 
+yüzeyel 
+mantar 
+enfeksiyonlarıdır. 
+Etken 
+dermatofitozlardır; 
+Trikofiton, 
+Mikrosporum ve Epidermofiton olarak 3 
+grupta 
+sınıflandırılır. 
+Dermatofitozlar; 
+B 
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+84 
+enfekte olan insan veya hayvan (kedi 
+köpek) ya da mikroorganizmanın olduğu 
+yüzeylere temas  ile bulaşır. Özellikle 
+banyo zemini, havuz kenarı gibi nemli 
+yüzeyler daha risklidir. Ortak kullanılan 
+kişisel eşyalar ise bir diğer bulaş yoludur. 
+Yüzeyel 
+mantar 
+enfeksiyonları 
+arasında en sık görülen Tinea pedistir. 
+Ayak 
+parmak 
+arasının 
+nemli 
+bırakılmaması, 
+yıkandıktan 
+sonra 
+kurulanması, ortak kullanım alanlarında 
+terlik 
+kullanılması 
+rekürens 
+sıklığını 
+azaltır. 
+Mantar 
+hastalıklarının 
+tırnak 
+tutulumu onikomikoz olarak isimlendirilir. 
+Topikal tedavi; tırnağın yarısından azı 
+tutulduğunda, tırnak matriksi ve lunula 
+tutulmadığında etkili olmaktadır. Bunun 
+dışında sistemik tedavi tercih edilmelidir. 
+Saçlı 
+deride 
+görülen 
+mantar 
+enfeksiyonları 
+Tinea 
+kapitis 
+olarak 
+isimlendirilir, özellikle okul çağındaki 
+çocuklarda salgınlara sebep olabilir. 
+Bulaş ihtimali olanların (aile bireyi, sınıf 
+arkadaşları) 
+muayenesi 
+salgınları 
+önlemede yardımcıdır. Tarak, fırça gibi 
+kişisel eşyalar dezenfekte edilmelidir. 
+Tinea kapitis tanısı konan hastada topikal 
+antifungal tedavi yeterli değildir, sistemik 
+tedavi verilmelidir (8,9). Yüzeyel mantar 
+enfeksiyonlarında 
+enfeksiyon 
+yaygın 
+olduğunda, birden çok vücut bölgesinde 
+tutulduğunda 
+ve 
+tedaviye 
+direnç 
+saptandığında 
+da 
+sistemik 
+tedavi 
+verilmelidir (10).  
+Mantar 
+enfeksiyonlarını 
+tedavi 
+ederken dikkat edilmesi gereken bir diğer 
+husus 
+topikal 
+steroid 
+tedavisi 
+verilmemesi ve steroid-antifungal tedavi 
+kombinasyonlarından kaçınılmasıdır (11). 
+Mantar enfeksiyonlarında ailedeki 
+diğer 
+bireylerin 
+taranması, 
+tedavi 
+edilmesi, 
+bulaş 
+kaynağı 
+olabilecek 
+hayvan varsa tespiti ve tedavi edilmesi, 
+ortak 
+eşya 
+kullanılmaması, 
+mantar 
+enfeksiyonu 
+olan 
+bölgenin 
+nemli 
+bırakılmaması 
+enfeksiyonunun 
+tekrarlamaması için önemlidir.
+Viral Hastalıklar 
+ 
+Viral hastalıklar temas veya hava 
+yolu ile bulaşabilir.  Kızamıkçık damlacık 
+yolu ile bulaşır. Bulaşıcı partiküller 5 
+mikrondan daha ağır olduğu için uzun 
+süre 
+havada 
+kalamaz. 
+Bu 
+yüzden 
+bulaştırıcılık hastanın 1-2 metre etrafı ile 
+sınırlıdır. Hava yolu ile bulaşan kızamık ve 
+su çiçeğinde ise bulaşıcı partiküller 5 
+mikrondan daha hafiftir, havada uzun 
+süre 
+asılı 
+kalabilir 
+ve 
+bulaştırıcılık 
+kızamıkçığa göre çok daha fazladır. 
+Bulaş yollarının bilinir ve  uygun izolasyon 
+yöntemleri uygulanırsa viral hastalığın 
+yayılımı önlenebilir.  
+Viral 
+hastalıklara 
+bağlı 
+bulaş 
+yerinde lokalize deri lezyonları (örn. 
+Herpes 
+simpleks, 
+Molluskum 
+kontagiozum)  ya da viremi sonrası deri 
+tutulumuna bağlı yaygın deri lezyonları 
+(örn. varisella, kızamık) oluşabilir. Viral 
+döküntülerin lezyon ve dağılım özellikleri 
+tanı koymada yardımcı olur.  
+ 
+Herpes simpleks enfeksiyonu:  
+Herpes 
+Simpleks 
+Virus 
+(HSV) 
+dünya 
+çapında 
+en 
+sık 
+görülen 
+enfeksiyonlar arasındadır. Etken HSV 
+Tip1 ve 2’dir. Yakın temasla bulaşır. HSV 
+enfeksiyonu geçiren hastaların en fazla 
+bulaştırıcı olduğu dönem lezyonların 
+ortaya çıktığı dönemden 1 hafta öncesi 
+ve sonrasıdır. Oral ve genital mukozayı 
+daha sık etkilemekle birlikte vücudun 
+diğer 
+bölgelerinde 
+de 
+görülebilir. 
+Prodromal 
+dönemde 
+ağrı, 
+yanma, 
+karıncalanma ve kaşıntı gibi belirtilerin 
+olması 
+sıktır. 
+Prodromal 
+dönem 
+semptomlarını öğrenen hastaların erken 
+tedaviye başlaması klinik şiddeti azaltır. 
+Bu dönemde yakın temastan kaçınılması 
+bulaş 
+riskini 
+azaltmakta 
+ancak 
+asemptomatik 
+dönemde 
+subklinik 
+yayılım nedeniyle enfeksiyon bulaş riski 
+olabilmektedir (12). 
+Gebe 
+hastalarda 
+genital 
+herpes 
+enfeksiyonuna tanı koymak özellikle 
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+85 
+önemlidir. Doğuma yakın ilk genital 
+herpes atağını geçiren gebe hasta 
+doğum sırasında enfeksiyonu bebeğe 
+geçirebilir ve bebekte neonatal herpes 
+gelişebilir. 
+Bebekte 
+morbidite 
+ve 
+mortaliteye neden olabilir. Bu nedenle 
+doğuma yakın genital herpes geçiren 
+gebe 
+hastalarda 
+doğum 
+sezeryanla 
+yapılmalıdır (13). 
+Genital herpes enfeksiyonun halk sağlığı 
+açısından bir diğer önemi İnsan İmmün 
+Yetmezlik Virüsünün (HIV) bulaştırıcılığını 
+kolaylaştırmasıdır. 
+Genital 
+ülser 
+ile 
+başvuran 
+hastalardan 
+HSV 
+enfeksiyonundan şüphelenilmesi erken 
+tanı, tedavi ve önlemlerin alınması bulaş 
+riskini azaltılması için önemlidir (14). 
+ 
+Varisella enfeksiyonu:  
+Etken Varisella zoster virüsüdür. 
+İnkübasyon periyodu 10-21 gün arasında 
+değişir. Çok bulaşıcıdır, hava yolu ile ve 
+lezyonlara temas yoluyla bulaşabilir. 
+Veziküler lezyonlar saçlı deri dahil olmak 
+üzere 
+bütün 
+vücutta 
+görülebilir. 
+Veziküllerin, ortası umblike (göbekli) ve 
+etrafı hafif eritemlidir. Yeni lezyon ilk 4 
+gün boyunca çıkmaya devam eder, 
+veziküler 
+lezyonlarda 
+krutlanma 
+(kabuklanma) izlendiği için vezikül ve 
+krutlu papüllerin birarada görüldüğü 
+polimorf bir tablo gözlenir.  
+Çocuklarda varisella enfeksiyonu sıklıkla 
+hafif 
+şiddette 
+geçirilir. 
+Erişkinlerde, 
+immünsüpresif 
+hastalarda, 
+sigara 
+kullananlarda 
+ve 
+gebelerde  
+komplikasyon riski artar, yaygın tutulum 
+saptanabilir. Yumuşak doku enfeksiyonu, 
+nörolojik 
+komplikasyonlar 
+gelişebilir. 
+Özellikle erişkinlerde pnömoni gelişimi 
+açısından dikkatli olmak gerekir (15,16). 
+Çocuklarda varisella aşısı aşı takvimine 
+alınmıştır. 
+Sağlık 
+personeline, 
+CD4 
+düzeyi 200 μL üzerinde olan HIV 
+hastalarına da yapılması önerilmektedir. 
+İmmünsüpresif hastalarda, CD4 düzeyi 
+200 μL altında olan HIV hastalarında ise 
+kontraendikedir.  
+ 
+ 
+Molluskum kontagiozum:  
+Etken 
+Pox 
+virüs 
+ailesinden 
+Molluskum 
+kontagiozum 
+virüsüdür. 
+Temasla bulaşır. İnkübasyon periyodu 2-
+6 hafta arasındadır. Genellikle  bir 
+santimetreden 
+küçük, 
+santral 
+umblikasyon gösteren sert papüllerle 
+karakterizedir. 
+ 
+Lezyonlar 
+6-12 
+ay 
+arasında iz bırakmadan geriler. Tedavisiz 
+takip edilebilir, tedavi tercih edildiğinde 
+küretaj, kriyoterapi, topikal kantharidin ilk 
+seçenekler arasındadır (17). 
+ 
+Verru:  
+Etken Human papilloma virüsüdür 
+(HPV), 100’ün üzerinde HPV tipi insanda 
+enfeksiyona sebep olabilir. İnkübasyon 
+peryodu 
+uzundur, 
+3 
+hafta-8 
+aydır 
+(ortalama 3 ay). Lezyonlara temas ile 
+bulaşır. Palmoplantar, genital bölge sık 
+yerleşim yerlerindedir fakat vücudun 
+herhangi bir bölgesine de lokalize olabilir. 
+Klinik olarak en sık görülen verrüköz, 
+hiperkeratozik, 
+milimetrik 
+papiller 
+uzantılar olan lezyonlardır. Verru tanısı 
+konulduktan 
+sonra 
+enfeksiyonun 
+yayılımını ve kişisel bulaşı  önlemek için 
+hasta 
+bilgilendirilmeli, 
+lezyonları 
+travmatize 
+etmekten 
+kaçınması 
+konusunda eğitilmelidir.  
+Özellikle 
+genital 
+lezyonlar 
+daha 
+bulaşıcıdır. Genital HPV’nin bazı tipleri 
+(16, 18, 31 ve 35) serviks kanser gelişimi 
+açısından yüksek risk taşır. HPV ile 
+karşılaşmamış bireylerde yapılan aşının 
+serviks kanserine karşı koruyuculuğu 
+yüksektir (18, 19). Serviks kanserini 
+önlemek için yapılan taramalarda yüksek 
+riskli 
+HPV 
+tipleri 
+servikal 
+sitolojik 
+inceleme ile belirlenebilmektedir. Bu 
+taramaların 5 yılda bir yapılması ve 
+toplum geneline yayılması ile serviks 
+kanserinin erken evrede tanı konmasına 
+olanak sağlar. 
+ 
+El-ayak-ağız hastalığı:  
+Etkenler Coxsackie virus A16 veya 
+enterovirus 
+71 
+ailesindendir. 
+Bulaş 
+sıklıkla fekal oral yolla nadiren de 
+lezyonlara temas ile olur. İnkübasyon 
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+86 
+periyodu 2-7 gün arasında değişir. 
+Lezyonlar tipik olarak oral mukozada, 
+palmoplantar 
+bölgeye 
+lokalizedir. 
+Nadiren ekstremiteler, gluteal bölgede de 
+lezyonlar görülebilir. Döküntü maküler 
+lezyonlar üzerinde gelişen etrafı eritemli 
+vezküler 
+lezyonlarla 
+karakterizedir. 
+Lezyonlar genellikle oval şekillidir ve uzun 
+aksları deri çizgilerine paraleldir. Ateş 
+eşlik edebilir. Oral mukoza tutulumu 
+nedeni 
+ile 
+oral 
+alım 
+kısıtlanabilir, 
+dehidratasyon gelişebilir. Bunun dışında 
+sıklıkla 
+benign 
+seyirlidir. 
+Tedavi 
+semptomatiktir. Menenjit, ensefalit gibi 
+nörolojik 
+komplikasyonlar 
+nadirdir. 
+Hasta/hasta yakınları ateş, baş ağrısı, 
+bulantı, kusma gibi semptomlar gelişirse 
+hastaneye 
+başvurmaları 
+konusunda 
+uyarılmalıdır (20). Doğuma yakın hastalığı 
+geçiren 
+gebelerde 
+komplikasyon 
+gelişebilir, ölü doğum ile ilişkilendirilen 
+vaka bildirilmiştir (21). 
+ 
+Kızamıkçık:  
+Etken 
+Togovirüs 
+ailesinden 
+Rubella virüsüdür. Bulaş damlacık yolu 
+ile olur. İnkübasyon periyodu 14-21 gün 
+arasında değişir.  Prodromal dönemde 
+ateş 
+görülebilir. 
+Posterior 
+servikal, 
+retroauricular 
+ve 
+suboksipital 
+lenfadenopati 
+saptanabilir. 
+Döküntü 
+ortaya 
+çıkmadan 
+1-2 
+hafta 
+önce 
+bulaştırıcılık başlar. Lezyonlar yüzde 
+başlar, 24 saatte gövde ve ekstremitelere 
+yayılır, ortalama 3 günde geriler. Döküntü 
+açık renkli makülopapüler lezyonlardan 
+oluşur, 
+ayrık 
+yerleşimlidir, 
+birleşme 
+eğilimi göstermez. Yumuşak damakta 
+(Forchheimer lekeleri) görülebilir. Deri 
+lezyonları dışında da konjunktivit, artrit, 
+orşit 
+gibi 
+diğer 
+sistemlerde 
+tulum 
+saptanabilir. 
+Aşılanmamış 
+kadın 
+hastalarda 
+gebelik 
+döneminde 
+enfeksiyonun geçirilmesi ölü doğum, 
+abortusa neden olabilir, etkilenen fetüste 
+oftalmolojik, 
+kardiyolojik 
+komplikasyonlar gelişebilir (22).  
+ 
+Kızamık:  
+Etken Paramyxoviridae ailesinden 
+Rubeola virüsüdür. Bulaş hava yolu ile 
+olur. İnkübasyon periyodu 6-21 gün 
+arasında 
+değişir. 
+Döküntü 
+ortaya 
+çıkmadan 5 gün, çıktıktan sonra 4 gün 
+bulaştırıcılığı devam eder. Prodromal 
+dönemde ateş, konjuktivit, öksürük, 
+burun akıntısı görülebilir. Prodromal 
+dönemde saptanan bir diğer bulgu molar 
+dişlerin karşısındaki bukkal mukozada 
+eritemli 
+zeminde 
+beyaz 
+noktalalar 
+şeklinde 
+izlenen 
+koplik 
+lekeleridir. 
+Döküntü çıkmadan 2 gün önce görülür, 
+1-3 gün arasında devam eder. Kızamıkta 
+lezyonlar 
+yüzde 
+başlar, 
+gövde 
+ve 
+ekstremitelere 
+yayılır, 
+Döküntü 
+makülopapüler 
+lezyonlardan 
+oluşur, 
+birleşme eğilimindedir. Ortalama 3-4 gün 
+içerisinde lezyonların rengi koyulaşır. 
+Yaklaşık 1 haftada deskuamasyonla 
+(soyulma) geriler. Rubeola IgM döküntü 
+ortaya çıktıktan 3 gün sonra pozitifleşir, 
+seroloji tetkiki öncesinde döküntünün 
+süresini sorgulamak önem taşır (23). 
+Kızamığa 
+bağlı 
+komplikasyon 
+riski 
+gebelerde, immünsüpresif hastalarda, A 
+vitamini 
+eksikliği 
+ve 
+malnütrisyon 
+olanlarda artmıştır. Pnömoni en sık 
+görülen ve mortaliteye neden olabilen 
+komplikasyondur. 
+Solunum 
+sistemi 
+dışında santral sinir sistemi, kalp, göz ve 
+gastrointestinal sistem  tutulumuna bağlı 
+komplikasyonlar da gelişebilir. Kızamık 
+aşısı, aşı takviminde yer almaktadır. 
+Fakat son dönemde gelişen aşı karşıtlığı 
+nedeni ile aşı yapılmayan çocukların 
+kızamık 
+hastalığına 
+yakalanma 
+riski 
+artmıştır 
+ve 
+mortal 
+seyredebilen 
+komplikasyonlar 
+açısından 
+risk 
+altındadırlar. 
+ 
+ 
+ 
+ 
+ 
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+87 
+Paraziter Hastalıklar  
+ 
+Skabies:  
+Etken 
+Sarcoptes 
+scabiei’dir. 
+Bulaş, yakın temasla olur. Temas sonrası 
+yaklaşık 2-6 hafta sonra parazite karşı 
+gecikmiş tip 4 hipersensitivite reaksiyonu 
+gelişir ve özellikle geceleri artan kaşıntı 
+başlar. Kaşıntı elde özellikle parmak 
+arasında, periumblikal bölgede, aksilla, 
+genital 
+bölgede 
+daha 
+fazladır. 
+Bu 
+bölgelerde sillon (tünel)  adı verilen 
+yaklaşık 1 cm uzunluğunda, lineer veya 
+dalgalı iplik benzeri yapılar skabiese 
+özgüdür. Çıplak gözle görülmekle birlikte 
+dikkatle 
+aranmalıdır. 
+Kaşıntıya 
+bağlı 
+sekonder lezyonlar ekskoriye papüler, 
+ülsere lezyonlar görülebilir. Tünellerin 
+üzerinden 
+alınan 
+örneklerin 
+direkt 
+mikroskobisi 
+tanı 
+koydurucudur. 
+Hastanın son 6 haftada giyilen kıyafetleri, 
+kullanılan tekstil ürünleri 60 °C sıcaklıkta 
+yıkanmalı 
+ya 
+da 
+1 
+hafta 
+kapalı 
+tutulmalıdır. 
+Sarkoptlar 
+konaktan 
+ayrıldıktan sonra 1 hafta canlı kalabilir. 
+Tedavinin 
+dikkatli 
+uygulanması 
+ve 
+şikayeti olmayan aile bireylerinin de 
+tedaviyi 
+uygulaması 
+sarkoptların 
+eradikasyonu için önemlidir (24). 
+ 
+Pedikuloz:  
+Etken 
+saçlı 
+deride 
+Pediculus 
+humanus capitis, gövdede Pediculus 
+humanus. corporis ve genital bölgede 
+Phthirus pubis’tir. Bulaş, yakın temasla 
+olur. Dişi parazit yaklaşık 1 ay yaşar ve 
+100’ün 
+üzerinde 
+yumurta 
+bırakır. 
+Yumurtalar kıl şaftına yapışıktır ve 7 gün 
+içerisinde olgunlaşır ve erişkin hale gelir. 
+Kıl şaftına yapışmış yumurtalar dikkatle 
+incelendiğinde çıplak gözle görülebilir. 
+Erken tedavi ve yakın temasta olanların 
+düzenli taranması parazitin yayılımını 
+önlemede önemlidir (25). 
+ 
+Sonuç 
+ 
+Dermatolojik 
+hastalıkların 
+pek 
+çoğu temas yolu ile bulaşır. Temas yolu 
+ile bulaşan hastalıklarda lezyona temas 
+edilmemesi, lezyon olan bölgenin kapalı 
+tutulması, ortak eşya kullanılmaması, 
+lezyonlar 
+iyileşene 
+kadar hasta 
+ve 
+hastanın eşyalarına temas öncesi ve 
+sonrası 
+el 
+yıkanması 
+enfeksiyonun 
+yayılmasını önlemek için gereklidir.  
+Hava yolu ile bulaşan cilt bulguları 
+olan hastalıklarında ise hasta ve yakınları 
+öksürürken 
+burnunu 
+veya 
+ağzını 
+kapatmaları, sekresyonlara temas eden 
+materyalleri 
+atmaları 
+ve 
+el 
+hijyeni 
+uygulamaları konusunda uyarılmalıdır. 
+Hastaneye yatırılması gerekirse ideal 
+olarak negatif basınçlı odada ya da izole 
+odada kalmalıdır (26,27). 
+Bulaşıcı 
+hastalıkları 
+olanların 
+hastalığı bulaştırma döneminde toplu 
+alanlardan uzak durması önemlidir. Okul 
+dönemindeki çocuklara ve çalışanların 
+izolasyonu önemlidir. Skabies, impetigo, 
+tinea gibi temasla bulaşan hastalıklarda 
+tedavi 
+uygulandıktan 
+sonraki 
+gün  
+okula/işine devam edebilir. Havayolu ile 
+bulaşan viral hastalıklarda ise hastalığa 
+göre farklılık gösterir. El ayak ağız 
+hastalığı ve varisella için büller krutlanana 
+kadar geçen süre bulaştırıcılık devam 
+eder. Varisella için bu süre yaklaşık 5 
+gündür. El ayak ağız hastalığında klinik 
+duruma göre daha kısa süre olabilir. 
+Kızamık ve kızamıkçıkta döküntü ortaya 
+çıktıktan 
+sonraki 
+4 
+gün 
+istirahat 
+önerilmelidir.  
+Bulaşıcı 
+cilt 
+hastalıklarının 
+dermatolojik 
+bulgularının 
+tanınması, 
+erken tanı ve tedavi uygulanması, bulaş 
+yoluna uygun önlem alınması hastalığın 
+yayılma riskini azaltmak için önemlidir. 
+Hasta olan bireylerin ailelerinin taraması, 
+okul taramaları bulaşıcı cilt hastalıklarının 
+yayılmasını önler. Aşı takviminin bütün 
+çocuklara uygulanması ileriye yönelik 
+hastalık 
+riskini 
+azaltacak 
+önlemler 
+arasındadır. 
+ 
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+88 
+Kaynaklar 
+ 
+ 
+1. World Health Organization.  Epidemiology 
+and 
+management 
+of 
+common 
+skin 
+diseases 
+in 
+children 
+in 
+developing 
+countries. Geneva 
+: 
+World 
+Health 
+Organization. http://www.who.int/iris/han
+dle/10665/69229 
+2. Svensson A, Ofenloch RF, Bruze M, Naldi 
+L, Cazzaniga S, Elsner P, et al. Prevalence 
+of skin disease in a population-based 
+sample of adults from five European 
+countries. 
+Br 
+J 
+Dermatol. 
+2018;178(5):1111-1118.  
+3. Kökçam Ġ, Saral  Y. Elazığ ve Yöresinde 
+Deri Hastalıkları. T Klin Dermatoloji 
+1994;4:71-74.  
+4. Bilen N, Seref B, Apaydin R , Başdaş F, 
+Sal G, Dökmeci Ş, et al. Kocaeli’nde Deri 
+Hastalıkları 
+Konusunda 
+Yapılan 
+İlk 
+Epidemiyolojik Çalışma Sonuçları. T Klin J 
+Dermatol. 1998;8(3): 160-164. 
+5. Bowen AC, Mahé, A, Hay RJ, Andrews 
+RM, Steer AC, Tong SYC, et al. The 
+Global Epidemiology of Impetigo: A 
+Systematic Review of the Population 
+Prevalence of Impetigo and Pyoderma. 
+PLoS One. 2015;10(8): e0136789. 
+6. George A, Rubin G. A systematic review 
+and meta-analysis of treatments for 
+impetigo. Br J Gen Pract. 2003;53:480–7. 
+7. Luby SP, Agboatwalla M, Feikin DR, 
+Painter J, Billhimer W, Altaf A, et al. Effect 
+of handwashing on child health: a 
+randomised controlled trial. Lancet. 2005; 
+366(9481): 225 -33. 
+8. Kelly BP. Superficial fungal infections. 
+Pediatr Rev. 2012 Apr;33(4):e22-37.  
+9. Fuller LC, Barton RC, Mohd Mustapa MF, 
+Proudfoot LE, Punjabi SP, Higgins EM. 
+British Association of Dermatologists' 
+guidelines for the management of tinea 
+capitis 2014. Br J Dermatol. 2014 
+Sep;171(3):454-463. 
+10. Ellis D, Watson A. Systemic antifungal 
+agents for cutaneous fungal infections. 
+Aust Prescr .1996;19:72-75. 
+11. Rengasamy M, Chellam J, Ganapati S. 
+Systemic therapy of dermatophytosis: 
+Practical 
+and 
+systematic 
+approach. 
+Clinical Dermatology Review. 2017;1:19-
+23. 
+12. Wald A, Zeh J, Selke S, Ashley R L, Corey 
+L. Virologic characteristics of subclinical 
+and 
+symptomatic 
+genital 
+herpes 
+infections. N Engl J Med. 1995;333:770–
+775. 
+13. Westhoff GL, Little SE, Caughey AB. 
+Herpes simplex virus and pregnancy: a 
+review of the management of antenatal 
+and peripartum herpes infections. Obstet 
+Gynecol Surv. 2011;66(10):629-38.  
+14. Holmberg SD, Stewart JA, Gerber AR, 
+Byers RH, Lee FK, O’Malley PM et al. Prior 
+herpes simplex virus type II infection as a 
+risk factor for HIV infection. JAMA. 
+1988;259:1048-1050. 
+15. Heininger U, Seward JF. Varicella. Lancet. 
+2006;368:1365.  
+16. Feldman 
+S. 
+Varicella-zoster 
+virus 
+pneumonitis. Chest. 1994;106:22S. 
+17. Braue A, Ross G, Varigos G, Kelly H. 
+Epidemiology and impact of childhood 
+molluscum contagiosum: a case series 
+and critical review of the literature. Pediatr 
+Dermatol. 2005;22:287. 
+18. Peate I. Nursing care and treatment of the 
+patient with human papillomavirus. Br J 
+Nurs. 2006;15(19):1063-1069. 
+19. FUTURE II Study Group. Quadrivalent 
+vaccine against human papillomavirus to 
+prevent high-grade cervical lesions. N 
+Engl J Med. 2007;356(19):1915–1927. 
+20. Hu Y, Jiang L, Peng HL. Clinical Analysis 
+of 134 Children with Nervous System 
+Damage Caused by Enterovirus 71 
+Infection. Pediatr Infect Dis J. 2015 
+Jul;34(7):718-723. 
+21. Feist H, Turowski G, Hussein K, Blöcker T, 
+Heim 
+A. 
+Massive 
+Perivillous 
+Fibrin 
+Deposition of an Enterovirus A-Infected 
+Placenta Associated With Stillbirth: A 
+Case Report. Pediatr Dev Pathol. 2018 
+Sep; 7:1093526618798772. 
+22. Report of the Committee on Infectious 
+Diseases 
+American 
+Academy 
+of 
+Pediatrics. Rubella. In: Kimberlin DW, 
+Brady MT, Jackson MA, Long SS 
+editors.IL. Elk Grove Village. 2015. p.688. 
+23. Bellini WJ, Helfand RF. The challenges 
+and strategies for laboratory diagnosis of 
+measles in an international setting. J 
+Infect Dis. 2003;187 Suppl 1:S283. 
+24. Falay T, Gurel MS. Uyuz. et Salih Gürel. T 
+Klin 
+J 
+Dermatol 
+(Özel 
+ 
+Sayı). 
+2017;10(2):143-153. 
+25. Uçmak D. Pedikuloz. T Klin J Dermatol 
+(Özel  Sayı). 2017;10(2):154-160. 
+ 
+Dermatoloji ve Halk Sağlığı Özel Sayısı 
+ 
+ 
+89 
+26. Infection prevention and control of 
+epidemic- and pandemic-prone acute 
+respiratory infections in health care WHO 
+Guidelines. [serial on the Internet] 2014]: 
+Available 
+from: 
+https://apps.who.int/iris/bitstream/handle
+/10665/112656/9789241507134_eng.pdf
+;jsessionid=EAA714BEF182F23B801249
+6D99B2157B?sequence=1ttps://apps.wh
+o.int/iris/bitstream/handle/10665/112656/
+9789241507134_eng.pdf;jsessionid=EAA
+714BEF182F23B8012496D99B2157B?se
+quence=1 
+27. United States Center for Disease Control 
+and Prevention. 2007 Guideline for 
+Isolation 
+Precautions: 
+Preventing 
+Transmission of Infectious Agents in 
+Healthcare 
+Settings. 
+Available 
+from: 
+https://www.cdc.gov/infectioncontrol/pdf
+/guidelines/isolation-guidelines.pdf.
+  
+ 
+ 
+ 
+  

@@ -1,0 +1,468 @@
+108
+©2019 Androloji Bülteni
+DERLEME | REVIEW
+https://doi.org/10.24898/tandro.2020.27132
+Androl Bul 2020;22:108−112 
+1Gazi Üniversitesi Tıp Fakültesi, Üroloji Anabilim Dalı, Ankara, Türkiye
+2Atatürk Üniversitesi Tıp Fakültesi, Üroloji Anabilim Dalı, Erzurum, Türkiye
+Yazışma Adresi/ Correspondence: 
+Prof. Dr. İsa Özbey
+Atatürk Üniversitesi Tıp Fakültes,i Üroloji Anabilim Dalı, 00250 Erzurum, Türkiye
+Tel. 	
++90 532 387 99 02
+E-mail: 	
+isaozbey@yahoo.com
+Geliş/ Received: 	
+22.06.2019
+Kabul/ Accepted:	 08.09.2019
+Erkek Cinsel Sağlığı
+Testosteron replasman tedavisi prostat kanseri, 
+kardiyovasküler ve nörolojik patolojiler arasındaki 
+ilişkinin kanıta dayalı değerlendirilmesi: Önleyici mi, 
+tetikleyici mi?
+The evidence based association of testosterone replacement therapy and 
+prostatic carcinoma, cardiovascular system, and neurological pathologies: 
+Is it preventive or triggering factor?
+Ali Atan1 , İsa Özbey2
+Y
+eni teknolojilerin ve uygulamaların geliştirilmesi so-
+nucu hastalıkların erken tanı ve tedavilerinin yapıl-
+ması, koruyucu hekimlik kavramının yaygınlaşması, kişi-
+lerin hastalıklara karşı farkındalıklarının artması sonucu 
+hekime daha sık gitmeleri ve hekimlere ulaşımın daha ko-
+lay hale gelmesi ile beklenen yaşam süresinde belirgin bir 
+artış olmuştur. Buna bağlı olarak, kliniğe gelen yaşlı erkek 
+ABSTRACT
+Testosterone (T) is a hormone produced by the connection between the 
+hypothalamus, pituitary and testis. It is known that T has positive effects 
+on many organs and systems. In spite of these beneficial effects, there 
+are concerns about some adverse effects on the prostate, cardiovascular 
+system (CVS) and cerebrovascular accident (CVA). The association of 
+T with prostate cancer, CVS and CVA have been intensively studied 
+in recent years and it has been shown that endogenous T levels and 
+T-replacement therapy (TRT) have no effect on prostate cancer 
+formation. However, current use of TRT among aging men with low 
+testosterone levels was associated with an increased risk of a composite 
+of ischemic stroke, transient ischemic attack, and myocardial infarction. 
+The association was highest in the ﬁrst 2 years of use. In aging men, 
+the potential cardiovascular and cerebrovascular risks of TRT should be 
+weighed against its expected beneﬁts.
+In this review, we present the effects of TRT on the prostate, CVS and 
+CVA by reviewing the current international literature.
+Keywords: Testosteron replacement therapy, prostate, cardiovascular 
+system, cerebrovascular system
+ÖZ
+Testosteron (T), hipotalamus, hipofiz ve testis arasındaki bağlantı so-
+nucu üretilen bir hormondur. T’un pek çok organ ve sistem üzerin-
+de olumlu etkiler gösterdiği bilinmektedir. Bu faydalı etkilerine kar-
+şın, prostat, kardiyovasküler sistem (KVS) ve serebrovasküler olaylar 
+(CVA) üzerinde bazı olumsuz etkiler oluşturduğu ile ilgili endişeler 
+de vardır. T’un prostat kanseri ile olan ilişkisi son yıllarda yoğun ola-
+rak çalışılmış ve endojen T düzeyi ile T replasman tedavisi (TRT)’nin 
+prostat kanseri oluşumunda bir etkisinin olmadığı gösterilmiştir. 
+Ancak yeni çalışmalar TRT’nin iskemik serebrovasküler inme, geçici 
+iskemik atak ve miyokard enfarktüsü riskini artırdığı, bu riskin ilk iki 
+yılda fazla olduğu ve tedavinin ikinci yılından sonra stabil hale geldiği 
+bildirilmiştir. Son yayınlar, yaşlı erkeklerde özellikle tedavinin ilk iki 
+yılında TRT’nin KVS ve nörolojik zararlarının faydalarından daha ağır 
+bastığına işaret etmektedir. Bu derlemede, mevcut uluslararası literatür 
+gözden geçirilerek, TRT’nin prostat, KVS ve CVA üzerindeki etkileri 
+sunulmaktadır.
+Anahtar 
+Kelimeler: Testosteron 
+replasman 
+tedavisi, 
+prostat, 
+kardiyovasküler sistem, serebrovasküler sistem
+popülasyonu da anlamlı düzeyde fazlalaşmıştır. Yaşlanan 
+erkeklerde ortaya çıkan önemli sağlık sorunlarından bir ta-
+nesi testosteron düzeyinin azalmasıdır. Yaşlanan erkekler-
+de testosteron azalmasına bağlı olarak ortaya çıkan klinik 
+tabloya “Geç Başlangıçlı Hipogonadizm” adı verilmektedir.
+Testosteron eskiden sanıldığı gibi sadece genital organlar 
+ve cinsel fonksiyonlar üzerinde etkili bir hormon değildir. 
+Testosteronun deri, karaciğer, beyin, adale, böbrekler, ke-
+mik ve kemik iliği üzerinde de önemli etkilerinin olduğu 
+gösterilmiştir.[1,2] Yapılan klinik çalışmalarda testosteronun 
+libidoyu, ereksiyon fonksiyonunu, kemik mineral dansite-
+sini, adale kitlesini ve adale gücünü, hematopoezi artırdı-
+ğı, yağ kitlesini azalttığı, kardiyovasküler sistem, ruh hali, 
+bilişsel fonksiyonlar, enerji düzeyi ve insülin duyarlılığı 
+109
+Atan ve Özbey  n  Testosteron tedavisi prostat kanseri, kardiyovasküler ve nörolojik patolojiler arasındaki ilişki: Önleyici mi, tetikleyici mi?
+üzerinde de olumlu etkisinin olduğu saptanmıştır. Ancak 
+spermatogenez üzerinde kuvvetli kanıtlarla olumsuz etkisi 
+olduğu gösterilmiştir.[3]
+Testosteronun bu etkilerinin anlaşılmasından sonra tes-
+tosteron yerine koyma tedavisine ilgi ve istek artışı olmuş 
+ve son 20 yıldır testosteron reçetelenmesinde yaklaşık 4 
+kata ulaşan bir artış saptanmıştır.[4–6] Ancak elde ettiğimiz 
+olumlu verilere rağmen henüz testosteron yerine koyma 
+tedavisi kullanımı ile ilgili bazı endişelerden tam olarak 
+kurtulmuş değiliz. Testosteron yerine koyma tedavisi yapı-
+lan erkeklerin bu tedavi öncesi ve esnasında prostat, kardi-
+yovasküler ve nörolojik sağlık açısından değerlendirilmesi 
+çok önemlidir.
+Testosteron 
+replasman 
+tedavisi 
+ve 
+prostat 
+kanseri 
+arasındaki 
+ilişkinin 
+kanıta dayalı değerlendirilmesi: Önleyici 
+mi, tetikleyici mi?
+Testosteron yerine koyma tedavisi ile ilgili prostat sağlığı 
+açısından endişe duyulan konular endojen serum testos-
+teron düzeyinin prostat kanseri oluşumundaki etkisi, tes-
+tosteron yerine koyma tedavisinin prostat kanseri oluşu-
+mundaki rolü, prostat kanseri için yüksek risk grubunda 
+olan ve prostat kanseri tanısı almış kişilere testosteron ye-
+rine koyma tedavisinin verilip verilemeyeceğidir. Uzun yıl-
+lar testosteron yerine koyma tedavisinin prostat kanserine 
+neden olabileceği veya gizli prostat kanserini alevlendire-
+bileceğinden korkmaktaydık. Ancak yapılan çalışmalarda 
+ne vücudun ürettiği testosteron düzeyinin ne de dışarıdan 
+verilen testosteron tedavisinin prostat kanseri gelişmesi ile 
+ilişkili olmadığı gösterilmiştir. Prostat kanseri için yük-
+sek risk grubunda olan kişilerde ve hatta lokalize prostat 
+kanseri nedeniyle cerrahi tedavi uygulanmış ve rekürrens 
+açısından düşük risk grubunda olan kişilerde bile en az 
+1 yıllık bir takip süresi sonrasında hastalık nüksü yok ise 
+testosteron azalmasına bağlı klinik yakınmalar varlığında 
+testosteron yerine koyma tedavisinin yapılabileceği yö-
+nünde güncel verilere sahibiz. Henüz radyoterapi yapılmış 
+prostat kanseri olgularında durum radikal prostatektomi 
+yapılmış olanlardaki kadar açık değildir. Daha fazla kap-
+samlı çalışmalara gerek vardır. Güncel verilere dayanarak 
+prostat kanseri tanısı almış kişilerde radikal prostatektomi 
+ve radyoterapi sonrası testosteron yerine koyma tedavisi 
+yapılması gerekli olduğunda detaylı olarak bilgilendiril-
+me, onay imzalarının alınması ve yakın takipte tutulma 
+zorunluluğu vardır. Ancak bu bilgilere rağmen hala daha 
+ileri evre prostat kanseri olgularında testosteron yerine koy-
+ma tedavisi kesin olarak kontrendikedir.[7–9] Hem Avrupa 
+Üroloji Derneğinin hem de Amerikan Üroloji Derneğinin 
+Erkek hipogonadizmi ile ilgili güncel kılavuzlarında da bu 
+olumlu sonuçlar ifade edilmektedir.[10,11] Elimizdeki mev-
+cut veriler bu konuda bizleri cesaretlendirmesine karşın 
+daha fazla sayıda hastanın dahil olduğu daha uzun takipli 
+çalışmalar ile günümüz verilerinin desteklenmesine kadar 
+henüz bu konuda çok dikkatli olmalıyız.
+Testosteron 
+replasman 
+tedavisi 
+ve 
+kardiyovasküler 
+sistem 
+arasındaki 
+ilişkinin kanıta dayalı değerlendirilmesi: 
+Önleyici mi, tetikleyici mi?
+Testosteron yerine koyma tedavisinin artması sonrası en-
+dişe kaynağı olan konulardan bir tanesi bu tedavinin kar-
+diyovasküler sistem üzerindeki etkileridir. Uluslararası 
+literatürde testosteronun kardiyovasküler sistem üzerinde 
+olumsuz etkiler yaptığını belirten bazı çalışmalar olmasına 
+karşın bu çalışmaların yüksek kanıt düzeyine sahip çalış-
+malar olmadıkları ortaya konulmuştur. Bu olumsuz sonuç 
+veren çalışmalardan çok daha fazla çalışmada testosteron 
+yerine koyma tedavisinin faydalı olduğu gösterilmiştir.[12] 
+Testosteronun kardiyak etkilerinin incelendiği bir derleme 
+makalede testosteronun endotel üzerindeki etkisi ile vaso-
+dilatasyon yaparak periferik ve koroner kan akımını fazla-
+laştırdığı, sistemik vasküler direnci ve sol ventrikül diastol 
+sonu basıncını azaltarak kardiyak atımı artırdığı, kardiyo-
+vasküler enflamasyon ve ateroskleroz belirteçleri üzerine de 
+anlamlı bir etki oluşturmadığı, kardiyak iletim açısından 
+depolarizasyon esnasında ve hemen sonrasında aksiyon po-
+tansiyelini azaltarak Q-T aralığını kısalttığı ve antiaritmik 
+bir etki oluşturduğu, miyokard üzerinde STAT-3 (Signal 
+Transducer and Activator of Transcription-3) aktivasyonu 
+ile reperfüzyon hasarını azalttığı ifade edilmektedir. Ancak 
+lipit düzeyleri ve aterom oluşumu üzerinde net bir etki-
+sinin bulunmadığı sadece tromboksan A-2 reseptör akti-
+vasyonu ile trombosit agregasyonunu artırarak tromboz 
+riskini biraz artırdığı belirtilmektedir.[3]
+Morgantaler ve ark.’nın yaptıkları 1940 ile 2014 yılları 
+arasında “testosteron, androjenler, insan, erkek, kardiyo-
+vasküler, inme, serebrovasküler olay, miyokardiyal enfark-
+tüs, kalp krizi, ölüm ve mortalite” anahtar kelimeleri ile 
+yapılan Medline taraması sonucu ulaştıkları makalelerin 
+bir derlemesinde testosteron tedavisinin mortalite, koroner 
+arter hastalığı sıklığı, koroner arter hastalığı ciddiyeti, ka-
+rotis intima-media kalınlığı, obezite/yağ kitlesi, lipit pro-
+fili, glisemik kontrol, enflematuar belirteçler (CRP, TNF-
+alfa) ve kalp yetmezliği ile ilişkisi incelenmiştir. Elde edilen 
+kanıtlar değerlendirilmiş ve kanıt düzeyleri saptanmıştır. 
+Bu derlemede total, biyoaktif ve serbest testosteronun dü-
+şük düzeylerinin kardiyovasküler ve tüm nedenlere bağlı 
+110
+Androl Bul 2020;22:108-112
+mortalite için risk artışına neden olduğu (kanıt düzeyi 2a); 
+total, biyoaktif ve serbest testosteronun düşük düzeylerinin 
+gizli koroner arter hastalığı ile ilişkili olduğu (kanıt düzeyi 
+2a); total, biyoaktif ve serbest testosteron düzeylerinin ko-
+roner arter hastalığı ciddiyeti ile ters orantılı olduğu (kanıt 
+düzeyi 2a); total, biyoaktif ve serbest testosteron düzeyleri-
+nin karotis intima-media kalınlığının ve/veya karotis plak 
+volümü ile ters korelasyonlu olduğu (kanıt düzeyi 2a); tes-
+tosteron tedavisinin obezite ve yağ kitlesinde anlamlı azal-
+ma ile ilişkili olduğu (kanıt düzeyi 1b); testosteron teda-
+visinin total kolesterol, HDL ve LDL düzeylerinde küçük 
+azalmalara yol açtığı ancak trigliserid düzeyleri üzerinde 
+anlamlı bir etkisinin olmadığı (kanıt düzeyi 2a); testoste-
+ron tedavisinin diyabetik ve prediyabetik erkeklerde serum 
+glukoz düzeyinde, hemoglobin A1 c düzeyinde ve insülin 
+direncinde azalma yaptığı (kanıt düzeyi 1a); testosteron 
+tedavisinin enflematuar belirteç düzeylerinde devamlılık 
+göstermeyen bir azalma ile ilişkili olduğu (kanıt düzeyi 
+1b); testosteron tedavisinin egzersiz ile semptomatik an-
+jina başlamasını geciktirdiği (kanıt düzeyi 1b); testosteron 
+tedavisinin semptomatik konjestif kalp yetmezliği olan er-
+keklerde egzersiz kapasitesini artırdığı ve oksijen tüketimi-
+ni düzelttiği (kanıt düzeyi 1a) saptanmıştır.[13]
+Mevcut çalışma verileri testosteron yerine koyma tedavisi-
+nin kardiyovasküler açıdan faydalı olduğunu göstermesinin 
+yanında testosteron düşüklüğünün ciddi kardiyovasküler 
+olaylar ve mortalite açısından bir risk faktörü olduğunu 
+düşündürmektedir. Anderson ve ark.’nın çalışmasında bu 
+görüş desteklenmektedir.[14] Hackett tarafından yazılmış 
+çok yeni bir derleme makalede de düşük testosteron düze-
+yinin kardiyovasküler mortalite ile ilişkili olduğu belirtil-
+mektedir.[15] EAU kılavuzunda da hipogonadal erkeklerde 
+testosteron yerine koyma tedavisinin önemli kardiyovaskü-
+ler yan etkilere yol açmadığı belirtilmektedir. Ancak hala 
+ciddi kalp yetmezliği olan hastalarda sıvı retansiyonu ris-
+kinden dolayı testosteron yerine koyma tedavisinin kont-
+rendike olduğu kabul edilmektedir.[11] AUA kılavuzunda da 
+düşük testosterone düzeyinin ciddi kardiyovasküler olaylar 
+açısından risk faktörü olduğu belirtilmektedir. Ancak bir 
+kardiyovasküler olay sonrası 3–6 aylık bir bekleme sonrası 
+testosterone yerine koyma tedavisinin uygun bulunmakta-
+dır.[16]
+Kurumsal anlamda ise bu konuya yaklaşım net değildir. 
+Amerikan Gıda ve İlaç Kurumu’nun 2014 ve 2015 yılların-
+da bazı açıklamalarda bulunmuştur. İlk olarak Eylül 2014 
+yılında testosteron tedavisinin kullanımı ve testosteron 
+tedavisinin kardiyovasküler risklerini incelemek üzere bir 
+tavsiye komitesi toplamıştır. Komiteden testosteron teda-
+visinin güncel endikasyonları konusunda görüş vermeleri 
+ve testosteron üreticilerinden testosteron kullanımı ile ilgili 
+kardiyovasküler riskleri saptamak için çalışmalar yapma-
+ları istenmiştir. Komite üyeleri testosteron tedavisi almış 
+hastalarda anlamlı bir kardiyovasküler risk oluşturduğu 
+konusunda yeterli kanıtların olmadığı sonucuna varmış-
+lardır. Bununla birlikte komite yaşlı, diyabetik ve obezite 
+gibi yüksek kardiyovasküler riski olan kişilerde testosteron 
+tedavisinin emniyeti için daha ileri çalışmalara gerek oldu-
+ğunu vurgulamıştır. Daha sonra Mart 2015’te Amerikan 
+Gıda ve İlaç Kurumu testosteron tedavisi kullanımı ile ilgi-
+li önerilerini netleştirmiş ve testosteron tedavisinin sadece 
+özel tıbbi durumlara bağlı dökümente edilmiş testosteron 
+düşüklüğü olan erkeklerde onaylandığını beyan etmiştir. 
+Komite ayrıca semptomatik olsa bile testosteronu düşük 
+yaşlı erkeklerde testosteron tedavisinin faydaları ve emniye-
+tinin açık olmadığını da ifade etmiştir. Son olarak Haziran 
+2015’te Amerikan Gıda ve İlaç Kurumu testosteron ürünü 
+üreticilerinin prospektüslere ilave uyarılar içerecek şekilde 
+değişiklik yapmalarının gereğini belirtmiştir.[17]
+Amerikan Gıda ve İlaç Kurumu’nun aksine Amerikan Klinik 
+Endokrinologları Derneği ve Amerikan Endokrinoloji 
+Kolejinin ortak konsensüs raporunda testosteron tedavi-
+sinin kardiyovasküler riski artırdığına dair anlamlı deliller 
+olmadığı beyan edilmektedir.[18]
+Testosteron 
+replasman 
+tedavisi 
+ve 
+nörolojik patolojiler arasındaki ilişkinin 
+kanıta dayalı değerlendirilmesi: Önleyici 
+mi, tetikleyici mi?”
+TRT’nin fayda/zarar konusunu işleyen ve inceleyen ça-
+lışmalarda genellikle izole nörolojik yan etkiler ve yarar-
+lar değerlendirilmemiş ve sıklıkla inme gibi nörolojik 
+hastalıklar kardiyovasküler etki ve yan etkiler ile birlikte 
+değerlendirilmiştir.
+Testosteron yerine koyma tedavisi ve başta inme olmak 
+üzere nörolojik hastalık riskini inceleyen en kapsamlı der-
+leme 2017 yılında yayınlanmıştır. Bu amaçla, MEDLINE, 
+EMBASE ve Cochrane CENTRAL gibi arama motorla-
+rından toplam 7348 makale gözden geçirilmiş ve ancak 15 
+çalışma nörolojik hastalıklar ve testosteron yerine koyma 
+tedavisi arasındaki ilişkiyi incelemeye değer bulunmuştur. 
+Bu çalışmaların çoğunluğunda kardiyovasküler risk ile 
+inme riski birlikte değerlendirilmiştir. Bu da testosteron 
+yerine koyma tedavisi ile nörolojik hastalıklar arasındaki 
+ilişkiyi inceleyen çalışmaların yok denecek kadar az oldu-
+ğunu göstermektedir. İncelenen çalışmaların yedisi testos-
+teron yerine koyma tedavisi ve “inme” birlikteliğini ince-
+leyen gözlemsel çalışmalar olurken, sekizinde testosteron 
+yerine koyma tedavisinin bir yan etkisi olarak inme, ran-
+domize ve kontrollü bir şekilde ele alınmıştır. Gözlemsel 
+111
+Atan ve Özbey  n  Testosteron tedavisi prostat kanseri, kardiyovasküler ve nörolojik patolojiler arasındaki ilişki: Önleyici mi, tetikleyici mi?
+çalışmaların ikisinde, hipogonadal erkeklerde uygulanan 
+testosteron yerine koyma tedavisinin inme riskini azalttı-
+ğı bildirilirken, geri kalan beş çalışmada testosteron yerine 
+koyma tedavisi ile inme arasında özel bir ilişki olmadığı 
+belirtilmiştir. Randomize ve kontrollü sekiz çalışmanın tü-
+münde hem testosteron yerine koyma tedavisi grubunda 
+hem de plasebo grubunda yan etki olarak çok az sayıda 
+inme olgusu görüldüğünden, istatistiksel olarak anlam-
+lı ilişki saptanamamıştır.[19] Sonuçta bu kadar büyük bir 
+derlemede, yazarlar testosteron yerine koyma tedavisi ile 
+“inme” arasında anlamlı bir ilişki saptayamadıklarını geniş, 
+randomize ve kontollü yeni çalışmalara gereksinim oldu-
+ğunu rapor etmişlerdir.
+Aynı yazar grubu daha sonra 2019 yılında yayımladıkla-
+rı yeni çalışmalarında, kardiyovasküler ve serebrovasküler 
+hastalığı olan yaşlı erkeklerde testosteron yerine koyma te-
+davisinin özellikle başlangıçtan sonraki ilk iki yılda dikkatli 
+kullanılması gerektiğini ve risk oluşturduğunu bildirmiş-
+lerdir. Bu çalışmada testosteron yerine koyma tedavisinin 
+iskemik serebrovasküler inme, geçici iskemik atak ve mi-
+yokard enfarktüsü riskini artırdığı, bu riskin ilk altı aydan 
+iki yıla kadar arttığı ve tedavinin ikinci yılından sonra sta-
+bil hale geldiği bildirilmiştir. Ayrıca ilginç bir tespit olarak 
+testosteron yerine koyma tedavisinin orta yaşlı erkeklerde 
+(40–60 yaş arası) ileri yaşlı erkeklerden (60–75 yaş arası) 
+daha fazla risk oluşturduğu da rapor edilmiştir. En yeni 
+çalışmalardan birisi olarak bu çalışmanın sonuçları, testos-
+teron yerine koyma tedavisinin nörolojik zararlarının fay-
+dalarından daha ağır bastığına işaret etmektedir.[20]
+Diğer bir konu, T ile epilepsi arasındaki ilişki olup, bu-
+güne kadar yapılan klinik ve deneysel çalışmalar cinsiyetin 
+ve seks hormonlarının nöbetler ve epilepsi üzerinde etkili 
+olduğunu göstermektedir. Seks hormonlarının üreme or-
+ganlarındaki ana rolünün yanında nöronların uyarılabi-
+lirliği üzerine de etkisi vardır. Sonuç olarak seks hormon-
+ları ve epilepsi birbiriyle karşılıklı bir etkileşim içindedir. 
+Klinik olarak seks hormonlarının beynin uyarılabilirliği 
+üzerine etkisi hem hormon düzeylerinin değişmesi hem 
+de nöbet sıklığında değişme şeklinde ortaya çıkabilir. 
+Adolesans, perimenopozal ve menopozal dönemler gibi 
+hormonal değişikliklerin olduğu dönemlerde nöbetler sık-
+lık ya da biçim değişikliği gösterebilirler.[21–23] Katamenial 
+epilepsi seks hormonlarının epilepsi nöbetleri üzerine et-
+kisini gösteren en iyi klinik örnek olmuştur. Özetle nöro-
+aktif steroidler anksiyete, uyku, stres gibi birçok fizyolojik 
+beyin fonksiyonunun düzenlenmesinde ve serebral eksita-
+bilitenin değişime uğradığı epilepsi gibi hastalıkların orta-
+ya çıkışında rol oynayabilir. Başta seks hormonları olmak 
+üzere steroid yapıdaki bu hormonların epilepsi tedavisinde 
+yeri olup olmayacağına karar vermek için daha fazla klinik 
+veriye gereksinim duyulmaktadır. Yakın gelecekte, TRT ile 
+epilepsi arasında ilişki olup olmadığını saptamaya yönelik 
+yeni çalışmaların yayımlanacağı beklenmektedir.
+Sonuç olarak testosteron yerine koyma tedavisinin prostat, 
+kardiyovasküler ve nörolojik etkileri kanıt terazisine konul-
+duğunda prostat ve kardiyovasküler açıdan fayda kefesi ağır 
+basmaktadır. Ancak mevcut veriler nörolojik açıdan aynı 
+sonucu göstermemektedir. Bununla birlikte yeni çalışma-
+lar, TRT’nin iskemik serebrovasküler inme, geçici iskemik 
+atak ve miyokard enfarktüsü riskini artırdığı, bu riskin ilk 
+iki yılda fazla olduğu ve tedavinin ikinci yılından sonra sta-
+bil hale geldiği bildirilmiştir. Son yayınlar, yaşlı erkeklerde 
+özellikle tedavinin ilk iki yılında TRT’nin KVS ve nöro-
+lojik zararlarının faydalarından daha ağır bastığına işaret 
+etmektedir.
+Hakem Değerlendirmesi
+Dış bağımsız
+Çıkar Çatışması
+Yazarlar çıkar ilişkisi olmadığını beyan etmişlerdir.
+Finansal Destek
+Herhangi bir mali destek alınmamıştır.
+Peer-review
+Externally peer-reviewed.
+Conflict of Interest
+No conflict of interest was declared by the authors.
+Financial Disclosure
+No financial disclosure was received.
+KAYNAKLAR
+	 1.	Morey, Charlton E, Patrick P, Kaiser FE, Cadeau P, McCready 
+D, Perry HM 3rd. Validation of a screening questionnaire for 
+androgen deficiency in aging males. Metab 2000;49:1239–1242. 
+[CrossRef] 
+	 2.	American Association of Clinical Endocrinologists Medical 
+Guidelines for Clinical Practice for the Evaluation and Treatment of 
+Hypogonadism in Adult Male Patients—2002 Update. Endocrine 
+Pract 2002;8:439–56.
+	 3.	Kloner RA, Carson C 3rd, Dobs A, Kopecky S, Mohler ER. 
+Testosterone and Cardiovascular Disease. J Am Coll Cardiol 
+2016;67:545–57. [CrossRef] 
+	 4.	Baillargeon J, Urban RJ, Kuo YF, Holmes HM, Raji MA, 
+Morgentaler A, Howrey BT, Lin YL, Ottenbacher KJ. Screening 
+and monitoring in men prescribed testosterone therapy in the U. 
+S., 2001–2010. Public Health Rep 2015;130:143–52. [CrossRef] 
+	 5.	Gabrielsen JS, Najari BB, Alukal JP, Eisenberg ML. Trends in 
+Testosterone Prescription and Public Health Concerns. Urol Clin 
+North Am 2016;43:261–71. [CrossRef] 
+	 6.	Yafi FA, Haney NM, Anaissie J, DeLay KJ, Trost L, Khera 
+M, Hellstrom WJG. Practice Patterns in the Diagnosis and 
+Management of Hypogonadism: A Survey of Sexual Medicine 
+Society of North America Members. Urology 2017;106:87–95. 
+[CrossRef] 
+	 7.	Atan A, Tuncel A, Yeşil S. Prostat kanserinde testosteron replasmanı 
+yapılabilir mi? Androloji Bülteni 2013;55:248–51. Erişim: http://
+www.journalagent.com/androloji/pdfs/AND_2013_55_248_251.
+pdf
+112
+Androl Bul 2020;22:108-112
+	 8.	Atan A, Tuncel A, Yeşil S, Balbay MD. Serum Testosterone Level, 
+Testosterone Replacement Treatment, and Prostate Cancer. Adv 
+Urol 2013;275945. [CrossRef] 
+	 9.	Morgentaler A, Traish A. The History of Testosterone and the 
+Evolution of its Therapeutic Potential. Sex Med Rev 2018. 
+[CrossRef] 
+	10.	Dohle GR, Arver S, Bettocchi C, Jones TH, Kliesch S, Punab M. 
+EAU Guidelines on Male Hypogonadism. European Association 
+of Urology, 2018.
+	11.	Mulhall JP, Trost LW, Brannigan RE, Kurtz EG, Redmon JB, 
+Chiles KA, Lightner DJ, Miner MM, Murad MH, Nelson CJ, Platz 
+EA, Ramanathan LV, Lewis RW. Evaluation and Management of 
+Testosterone Deficiency: AUA Guideline. J Urol 20018;200:423–
+32. [CrossRef] 
+	12.	Atan A, Yeşil S, Polat F. Testosteron replasmanı ve kardiyovasküler 
+yan etkileri. Androloji Bülteni 2017;19:127–30. [CrossRef] 
+	13.	Morgentaler A, Miner MM, Caliber M, Guay AT, Khera M, Traish 
+AM. Testosterone therapy and cardiovascular risk: advances and 
+controversies. Mayo Clin Proc 2015;90:224–51. [CrossRef] 
+	14.	Anderson JL, May HT, Lappé DL, Bair T, Le V, Carlquist JF, 
+Muhlestein JB. Impact of Testosterone Replacement Therapy 
+on Myocardial Infarction, Stroke, and Death in Men With Low 
+Testosterone Concentrations in an Integrated Health Care System. 
+Am J Cardiol 2016;117:794–9. [CrossRef] 
+	15.	Hackett G. Type 2 diabetes and testosterone therapy. World J 
+Mens Health 2019;37:31–44. [CrossRef] 
+	16.	EAU Guideline Male Hypogonadism 2019. Erişim: https://
+uroweb.org/guideline/male-hypogonadism/
+	17.	Johnson JK. Summary Minutes of the Joint Meeting of the Bone, 
+Reproductive and Urologic Drugs Advisory Committee and the 
+Drug Safety and Risk Management Advisory Committee Meeting, 
+September 18, 2014. U. S. Food and Drug Administration, Center 
+for Drug Evaluation and Research. Erişim: http://www.fda.gov/
+downloads/AdvisoryCommittees/CommitteesMeetingMaterials/
+Drugs/ReproductiveHealthDrugsAdvisoryCommittee/
+UCM424069.pdf
+	18.	Goodman N, Guay A, Dandona P, Dhindsa S, Faiman C, 
+Cunningham GR; AACE Reproductive Endocrinology Scientific 
+Committee. American Association of Clinical Endocrinologists 
+and American College of Endocrinology Position Statement of the 
+Association of Testosterone and Cardiovascular risk. Endocr Pract 
+2015;21:1066–73. [CrossRef] 
+	19.	Loo SY, Chen BY, Yu OHY, Azoulay L, Renoux C. Testosterone 
+replacement therapy and the risk of stroke in men: A systematic 
+review. Maturitas 2017;106:31–37. [CrossRef] 
+	20.	Loo SY, Azoulay L, Nie R, Dell’Aniello S, Yu OHY, Renoux 
+C. Cardiovascular and Cerebrovascular Safety of Testosterone 
+Replacement Therapy Among Aging Men with Low Testosterone 
+Levels: A Cohort Study. Am J Med 2019;132:1069–77.e4. [CrossRef] 
+	21.	Genç E, Genç BO. Epilepsi ve Seks Hormonları. Epilepsi 
+2018;24:6–9. [CrossRef] 
+	22.	Taubøll E, Sveberg L, Svalheim S. Interactions between hor­mones 
+and epilepsy. Seizure 2015;28:3–11. [CrossRef] 
+	23.	Perling MR, Klein P, Tsai J. Randomized, doubleblind, placebo-
+controlled phase 2 study of ganaxolone as add-on therapy in adults 
+with uncontrolled partial-onset seizures. Epilepsia 2017;58:558–
+64. [CrossRef] 

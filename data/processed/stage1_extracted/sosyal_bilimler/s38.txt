@@ -1,0 +1,845 @@
+bilimname XL, 2019/4, 351-373 
+Geliş Tarihi: 23.07.2019, Kabul Tarihi: 24.11.2019, Yayın Tarihi: 31.12.2019 
+doi: http://dx.doi.org/10.28949/bilimname.595847 
+ 
+PRO-SOSYAL DAVRANIŞLARDA 
+DİĞERKÂMLIĞIN (ÖZGECİLİK) TANIMI VE 
+KONUMU
+ 
+ Sevde DÜZGÜNERa 
+ 
+Öz 
+İnsanın duygu, düşünce ve davranışlarını inceleyen psikoloji, insanın pro-sosyal 
+davranışlarını (olumlu sosyal davranış) da çeşitli açılardan araştırmaktadır. En 
+genel haliyle karşılık beklemeden yardım etme davranışı olarak tanımlanan 
+diğerkâmlık (özgecilik) da bu literatürde önemli bir yere sahiptir. Söz konusu 
+literatür incelendiğinde, diğerkâmlık ile yardım davranışı, fedakârlık, îsâr gibi 
+farklı davranış türlerini birbirinin yerine kullanıldığı görülür. Dahası İngilizce 
+literatürde “altruism” olan kavramın, Türkçe literatüre “diğerkamlık”, 
+“özgecilik”, “elseverlik”, “altürizm” gibi kavramların yanı sıra “fedakarlık” “isar” 
+gibi yakın kavramlar şeklinde çevrildiği tespit edilmiştir. Bu durum da 
+literatürde bir kavram karmaşasına neden olmuştur. Oysa psikolojinin; teori, 
+araştırma ve uygulama alanlarının sağlam temellere oturması için kavramların 
+sınır ve konumlarının net olarak çizilmesi önemlidir. Bu nedenle makale, pro-
+sosyal davranışlar özelinde diğerkâmlığın tanımını yapmayı ve konumunu 
+belirlemeyi amaçlamaktadır. Makalede, pro-sosyal davranışlar hakkındaki 
+bilgilere değinilerek diğerkâmlığın tanımlarına yer verilmiştir. Diğer pro-sosyal 
+davranışlar arasında diğerkâmlığın yerini belirlemek için birbirine yakın 
+kavramların arasındaki nüanslara dikkat çekilerek diğerkâmlığın kavram 
+haritası çıkarılmıştır. Buna dayanarak diğerkâmlığın net bir tanımı yapılmıştır. 
+Bu noktada pro-sosyal davranışın bir şemsiye kavram olduğu, yardım etme 
+davranışının onun altında yer aldığı, diğerkamlığın da bir tür yardım etme 
+davranışı olduğu, îsârın ise diğerkamlığın daha spesifik hali olduğu ortaya 
+konmuştur. Ardından diğer pro-sosyal davranışların tanımlanmasında dikkat 
+edilmesi gereken kriterler belirlenmiştir. Makale, pro-sosyal davranışları 
+tanımlarken kullanılabilecek bu kriterleri içeren bir tanım cetveli sunmaktadır. 
+Bu cetvel, pro-sosyal davranış, yardım etme davranışı, işbirliği, sosyal 
+sorumluluk, fedakârlık, özveri, diğerkâmlık ve îsâr kavramlarını içermektedir. 
+Anahtar kelimeler: Din Psikolojisi, Pro-sosyal Davranış (Olumlu Sosyal 
+ 
+a Dr. Öğr. Üyesi, Marmara Üniversitesi, sevdeduzguner@hotmail.com 
+Sevde DÜZGÜNER 
+ 
+|352| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+Davranış), Yardım Etme Davranışı, Diğerkâmlık (Özgecilik), Îsâr.
+   
+THE DEFINITION AND LOCATION OF ALTRUISM AMONG PRO-SOCIAL 
+BEHAVIORS 
+Investigating emotions, thoughts, and behaviors of human being, psychology 
+studies pro-social behavior from various perspectives. Since altruism is related 
+to sociality and morality it is discussed mostly in social psychology and 
+psychology of religion. But recently, altruism has attracted attention in general 
+psychology with the development of positive psychology. This has led to be 
+published many studies on altruism in the literature. These studies include 
+different approaches to definition and scope of altruism.  
+Altruism, generally, defined as helping without expectation of personal benefit, 
+takes an important place in the literature. Altruism is used synonymous with 
+some concepts like helping, self-sacrifice, and îsâr (which is used in Turkish 
+literature with the meaning of helping others even the person himself in need). 
+Yet the determination of borders and locations of concepts is necessary to build 
+psychological theory, research, and practice on firm basis. This paper presents 
+information about pro-social behavior and definitions of altruism. Then it 
+mentions nuances of other pro-social concepts in order to determine the location 
+of altruism. It presents a concept map of altruism and definition chart for pro-
+social behaviors as well. 
+[The Extended Abstract is at the end of the article.] 
+   
+Giriş 
+Psikoloji alanında yapılan çalışmalar, her geçen gün insanın farklı bir 
+boyutuna ışık tutmaktadır. İnsan fenomenini anlama yönünde değişik bakış 
+açılarıyla ilerleyen psikoloji kısa sürede kendi alt araştırma alanlarını 
+oluşturmuştur. Bunlardan biri olan sosyal psikoloji, insanın duygu düşünce 
+ve davranışlarının diğer insanların varlığından ne şekilde etkilendiğini 
+araştırmaktadır. Dolayısıyla sosyal psikoloji literatürü, insanın diğerlerine 
+karşı saldırgan davranışlarını incelediği kadar onun diğerlerine yönelik 
+olumlu davranışlarını (pro-sosyal davranışı) da konu edinmekte ve böylece 
+diğerkâmlığa (özgeciliğe) yer açmaktadır (Kağıtçıbaşı ve Cemalcılar, 2017).  
+Psikolojinin bir diğer alt dalı olan din psikolojisi de diğerkâmlığa 
+oldukça büyük bir alan tanımaktadır. Nitekim din psikolojisi, insanın yüce bir 
+güce inanmayı veya inanmamayı tercih etmesinin onun üzerindeki etkilerini 
+inceleyen bilim dalıdır (Köse ve Ayten, 2015; Kayıklık, 2011; Peker, 2003). 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|353| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+Dini inanç, insanların tüm davranışlarını olduğu gibi diğer varlıklarla 
+kurduğu iletişimi de belirleyen en önemli motivasyon kaynaklarından 
+biridir. İnsanın diğer insanlara yardım etmesi, hatta onu kendine 
+öncelemesine yönelik inanç, dini bir arka plana da sahip olabilmektedir. Bu 
+nedenle din psikoloji çalışmalarında da pro-sosyal ve diğerkâm (özgeci) 
+davranışlar sıkça ele alınmaktadır.  
+Diğer taraftan son yıllarda psikoloji alanında, pozitif psikoloji 
+yaklaşımının güç kazanmasıyla bu davranışlar, sadece sosyal psikoloji ve din 
+psikolojisinde değil genel olarak psikoloji çevrelerinde de daha çok gündeme 
+gelmeye başlamıştır. İnsanın karanlık yönlerinin aksine onun iyiliğe 
+yöneliminin de ele alınması gerektiğini savunan pozitif psikoloji; adalet, 
+cesaret, şükür, affedicilik, yardımseverlik gibi erdemleri konu edinmektedir 
+(Seligman, 2002). Bu erdemlerden biri olan diğerkâmlık da böylece öne 
+çıkmıştır.  En genel haliyle karşılık beklemeden yardım etme davranışı olarak 
+tanımlanan diğerkâm (özgeci) davranış, bu gelişmelerin etkisiyle literatürde 
+önemli bir yere sahip olmuştur. Ancak bu literatür, diğerkâmlık kavramı, 
+tanımı ve kapsamı konusunda oldukça farklı bakış açılarını içermektedir. Bu 
+çalışma, diğerkâmlık kavramının tanım ve kapsamını ele alarak pro-sosyal 
+davranışlar arasındaki konumunu belirlemeyi amaçlamaktadır.  
+Araştırma, literatür taramasına dayandığı için dokümantasyon 
+yöntemi kullanılmıştır. Makalede, kavramsal netliğe ulaşmak için 
+diğerkâmlık kavramı ve ona yakın olan diğer kavramlara dair tanım önerisi 
+getirilmektedir. 
+A. Diğerkâmlık Kavramı 
+Türk Dil Kurumu Güncel Türkçe Sözlüğü diğerkâm ve diğerkâmlık 
+kavramlarının karşılığını özgeci ve özgecilik şeklinde vermiştir. Aynı sözlüğe 
+göre özgeci, “kişisel yarar gözetmeksizin başkasına yararlı olmaya çalışan 
+(kimse), diğerkâm” şeklinde açıklanırken özgecilik “özgeci olma durumu, 
+diğerkâmlık” ifadesiyle açıklanmıştır (www.tdk.gov.tr). Özgecilik ve 
+diğerkâmlık farklı dillerden olsalar da Türkçede eş anlamlı olarak 
+kullanılmaktadır. Diğerkâmlığın diğer dillerdeki kullanımları şu şekildedir: 
+Sevde DÜZGÜNER 
+ 
+|354| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+ 
+Tablo 1’de görüldüğü üzere diğerkâmlık kavramı, dillerde genel olarak 
+“diğer” (alter, gayr, özge, el) kavramlarından türetilmiş ve kişinin diğerini 
+öncelemesi halini ifade eden bir ek ile (-ist, -ci, -sever, -kâm) sıfat haline 
+getirilmiştir. Dolayısıyla diğerkâmlık, kişinin kendisi dışındaki kişileri 
+öncelemesine dayanmaktadır. 
+Diğerkâmlık kavramının terim anlamı farklı disiplinlerde benzer 
+şekillerde ele alınmıştır. Türk Dil Kurumu’nun Eğitim Terimleri Sözlüğü 
+kavramı şu şekilde açıklamıştır: “1. Çıkar gözetmeksizin başkalarının iyiliği 
+için özveride bulunmayı bir ilke olarak benimseyen ahlak tutum ve görüşü. 
+2. Her kişinin asıl yükümlülüğünün, kendisini başkalarına, topluma adamak 
+olduğu düşüncesine dayanan ve A. Comte ile Spencer'in temelini attıkları 
+ahlak görüşü”. Felsefe Terimleri Sözlüğü, “başkalarının iyiliğini yaşama ve 
+eyleme ilkesi yapan görüş. Bu terimi felsefeye kazandıran Auguste 
+Comte'dur. Ona göre özgecilik, insanlığın ahlak ve kültür bakımından 
+gelişmesinin koşuludur.” açıklamasını yapmıştır. Benzer şekilde Ruhbilim 
+Terimleri Sözlüğü, “bencillik ve ben tutkusu yerine sevginin başkalarına 
+yönelmesi durumu” ifadesine yer verirken Toplumbilim Terimleri Sözlüğü, 
+“başkalarının yararına kişisel çıkarlardan vazgeçmeye, başkalarına bencil 
+olmayan güdülerle yardım etmeğe hazır olma durumu” ifadesini kullanmıştır 
+(www.tdk.gov.tr). Görüldüğü gibi, eğitim, felsefe, psikoloji ve sosyoloji gibi 
+alanlar, sözlüklerinde özgeci davranışa yer vermekte ve bencilliğin zıddı 
+olarak kullanmaktadır. Sözlüklerdeki genel tanımlamada ortak noktalar 
+görülse de literatürde kullanılan kavramlar ve terim anlamlarında çeşitli 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|355| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+farklılıklar göze çarpmaktadır. Diğerkâmlık kavramının Türkçe akademik 
+literatürdeki farklı kullanımlarına örnekler şu şekildedir:  
+ 
+Tablo 2’de diğerkâmlıkla aynı kökten gelen ancak farklı dillerdeki 
+kullanımların Türkçe literatürde kullanıldığına işaret edilmiştir. Ancak 
+literatür daha dikkatli incelendiğinde diğerkâmlık kavramı ile aynı veya 
+yakın anlamda kullanılan başka kavramlar olduğu da görülür. Örneğin, 
+özgeciliğin Türkçe literatürdeki çeşitliliğine değinen Karacaoğlu ve Güney’e 
+(2010: 139) göre diğerkâmlık, “alan yazında genel olarak özgecilik veya 
+yardımlaşma davranışı olarak nitelendirilmiştir. Bu boyutu bazıları özgecilik, 
+kişiler arası yardımlaşma, iş arkadaşlarına yardım, iş arkadaşlarıyla 
+yardımlaşma ve işbirliği olarak isimlendirmiştir. Alan yazında farklı olarak 
+isimlendirilen bu boyut kimi çalışmalarda "yardımseverlik" kimilerinde 
+"diğerlerini düşünme" kimilerinde ise "özverili olmak" şeklinde Türkçeye 
+çevrilmiştir.” Oysa diğerkâmlık, “diğerini düşünme” anlamını taşısa da 
+yardımseverlik ve özveri ile farklı bir olguya işaret etmektedir.  
+Diğerkâmlıkla sıklıkla eş anlamlı kullanılan bir diğer kavram ise 
+fedakârlıktır (bkz. Hablemitoğlu ve diğ. 2010). Ancak fedakârlık ile 
+diğerkâmlık arasında da ince bir farktan söz edilebilir. Diğerkâmlık, 
+çoğunlukla bir diğerini düşünmeye işaret ederken fedakârlıkta, çevre baskısı 
+vb.nin etkisiyle kişinin kendini feda etmesi söz konusudur. Diğer bir ifadeyle 
+diğerkâmlıkta gönüllük ve kişisel tercih öne çıkarken, fedakârlıkta kişinin 
+içinden gelmese bile verici davranması söz konusu olabilmektedir (Özdoğan, 
+Sevde DÜZGÜNER 
+ 
+|356| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+2005: 178). 
+Alanyazın tarandığında yukarıda belirtilen kavramlardan ayrı olarak 
+bir de îsâr kavramı göze çarpmaktadır. İslam ahlakında değerli görüldüğü 
+için bu kavram daha çok din bilimleri alanındaki çalışmalarda tercih 
+edilmiştir. Diğerkâmlık ile îsâr eş anlamlı olarak kullanılmakla birlikte 
+(Sancaklı, 2006) terim anlamı açısından ikisi arasında ince bir ayrım 
+bulunmaktadır. Sözlükte “bir şeyi veya bir kimseyi diğerine üstün tutma, 
+tercih etme” anlamına gelen îsâr, “bir kimsenin, kendisi ihtiyaç içerisinde 
+bulunsa bile sahip olduğu imkânları başkalarının ihtiyacını karşılamak üzere 
+kullanması, başkasının yararı için fedakârlıkta bulunması” (Çağrıcı, 2000: 
+490) şeklinde tanımlanmıştır. Diğer taraftan bir davranışın diğerkâm olarak 
+nitelendirilebilmesi için yardım olarak verdiği şeye kendisinin fiilen 
+ihtiyacının olmasının şart olmadığı not olarak düşülürse (Çağrıcı, 2000: 490; 
+Durmuş, 2003: 19) îsârın diğerkâmlığın bir alt boyutu, ahlaki açıdan da bir 
+üst noktası olduğunu söylemek mümkündür.  
+Şu halde literatürdeki çalışmalara bakılarak diğerkâmlığın, özgecilik, 
+elseverlik gibi benzer kök ve anlamlardan gelen kavramların yanı sıra 
+fedakârlık, özveri ve îsâr gibi değişik kavramlarla da eş anlamlı kullanıldığını 
+söylemek mümkündür. Bu noktada diğerkâmlık tanımlarına değinmek 
+ardından da yakın anlamda kullanılan diğer kavramlar arasındaki konumunu 
+netleştirmek önem kazanmaktadır.  
+B. Diğerkâmlık Tanımları ve Kavram Haritası 
+Literatürde diğerkâmlık ile yakın anlamda kullanılan başka 
+kavramlara değindikten sonra diğerkâmlığın tanımlarına değinmek 
+gerekmektedir. Tablo 1’de görüldüğü üzere altruism kelimesi, Latince bir kök 
+olan ve “diğer” anlamına gelen alter kelimesinden türemiştir. 1830’larda bu 
+kelimeyi, diğerlerini umursamak, kaale almak (care others) anlamında genel 
+bir terim olarak kullanan isim Auguste Comte olmuştur (Green, 2005: xi; 
+Karadağ ve Mutafçılar, 2009: 43). Bu anlamıyla diğerkâmlık sosyoloji alanı 
+içerisinde ortaya çıkmış olsa da bugün akademik alanda diğerkâmlık, 
+disiplinleri aşan bir yapıya sahiptir. Çünkü o, evrimsel biyoloji, sosyoloji, 
+psikoloji, ekonomi, felsefe ve din gibi alanlarda kullanılmaktadır. Bu 
+disiplinlerin hiçbirisi, insanın diğerlerinin faydasına olacak davranışlar 
+sergilediğini inkâr etmez. Ancak birbirinden farklı teorik yönelimleri 
+nedeniyle bu disiplinler, söz konusu davranışı ve onun motivasyonlarını 
+açıklama noktasında net bir şekilde birbirlerinden ayrılır (Green, 2005: xi). 
+Sosyal psikoloji, kişilik psikolojisi, gelişim psikolojisi ve ahlak psikolojisi gibi 
+psikolojinin değişik alanları da diğerkâmlığı ele almış ve konu ile ilgili pek 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|357| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+çok tanım geliştirmiştir. Bazı temel uyuşma noktaları olmakla birlikte 
+literatürde diğerkâmlıkla ilgili olarak ele alınan bakış açıları ve süreçler 
+birbirinden farklılık göstermektedir (Dovidio, Piliavin, Schroeder, ve Penner, 
+2006; Mikulincer ve Shaver, 2010. Nakl. Saroglou, 2013: 439). Farklı bakış 
+açıları ve farklı disiplinlerde ele alınan diğerkâmlığın tanımları da doğal 
+olarak çeşitlilik arz etmektedir (Piliavin ve Charng, 1990: 29; Karadağ ve 
+Mutafçılar, 2009: 42). Bu tanımlardan birkaçı aşağıdaki tabloda verilmiştir: 
+ 
+Değinilen tanım çeşitliliği, diğerkamlık tanımlarındaki ortak ve farklı 
+noktaları görmeye imkan vermektedir. Tanımların ortak odağı için en genel 
+haliyle şunlar söylenebilir: Diğerkâmlık, bu davranış sonucunda fayda 
+görecek kişi için, davranışı gerçekleştiren kişinin kendisini düşünmeden 
+hareket etmesine dayanmaktadır. Diğer bir deyişle özgecilik, yardım etme 
+davranışının kişisel bir ödül veya çıkar beklentisi olmadan yapılmasıdır 
+(Karadağ ve Mutafçılar, 2009: 43).  
+Diğerkâmlık tanımlarındaki farklılıklar ise, iki faktör üzerine yapılan 
+göreli vurguları içermektedir: niyetler ve aktöre fayda veya zarar sağlama 
+miktarı (Krebs 1987. Nakl. Piliavin ve Charng, 1990: 29). Dolayısıyla özgecilik 
+tanımlarında dikkati çeken nokta, davranışın özgeci olup olmadığının yardım 
+edenin niyetine bağlı oluşudur (Taylor ve diğ., 2007: 379). Bu noktada 
+motivasyon-davranış ayrımı ortaya çıkmaktadır. Bu ayrım, diğerkâm 
+davranış konusunda iki farklı yaklaşımın ortaya çıkmasına neden olmuştur. 
+Bazı teorisyenler, özgecilik teriminin, sadece faydalanan kişinin refahı için 
+Sevde DÜZGÜNER 
+ 
+|358| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+yapılan davranışlara işaret ettiğini söylemiştir (bkz. Batson, 1991, Bedosky, 
+2005). Örneğin Latane ve Darley’e göre, güdülere bakılmaksızın, ihtiyacı olan 
+bir kimseye yarar sağlayıcı herhangi bir davranış, diğerkâm bir davranıştır 
+(Maculay ve Berkowitz, 1970: 2. Nakl. Akbaba, 1994: 17). Diğer teorisyenler 
+ise, bizatihi eylemin önemli olduğunu ve onu yapan kişinin faydasına olan 
+şeylerin eylemin nasıl yorumlandığıyla alakası olmadığını ileri sürmüşlerdir. 
+Bazı araştırmacılar ise bu iki bakış açısını birleştirerek çoğulcu bir yaklaşım 
+benimsemektedir (Bedosky, 2005: 16-17).  
+Aslında davranış temelli düşünenler hariç teorisyenler arasında 
+diğerkâmlığın, diğer kişi merkezli olduğu ve diğerinin refahını yükseltmek 
+amaçlı eyleme doğru bireyi motive ettiği konusunda görüş birliği vardır 
+(Bedosky, 2005: 17). Ancak davranışı güdüleyen unsur ile davranışın 
+kendisini birbirinden ayırarak özgeci olup olmama konusundaki bu farklı 
+yaklaşımlardan genel olarak şöyle bir sonuca ulaşılabilir. Diğerkâm 
+motivasyon, “insanın kendi refahına zararı olmasına rağmen başkalarının 
+refahını artırma arzusu”; diğerkâm davranış da, “diğerkâm bir motivasyonun 
+yeterli neden sunduğu eylem” şeklinde tanımlanabilir (Elster, 2007: 120). 
+Bu noktada belirtmek gerekir ki bazı kaynaklarda diğerkâm 
+davranışın ayırt edici özelliğinin yardım eden kişinin kendi refahından 
+vazgeçmesi olduğu ileri sürülmüştür. Ancak bu yaklaşımın, diğerkâmlık ile 
+îsâr farkını açıklarken değil diğerkâmlık ile yardım davranışının farkını 
+açıklarken kullanıldığına dikkat etmek gerekir. Bu noktada tanımlarda da 
+farklılıklar söz konusudur. Bu farklar özellikle, bir eylemin diğerkâm olarak 
+addedilebilmesi için yardım eden kişinin bir bedel ödeyip ödememesinin 
+gerekliliği noktasında ortaya çıkmıştır. Bazı araştırmacılar, yardım eden 
+kişinin zararına olan ve yardımı alan kişinin faydasına olup o kişi için yapılan 
+her türlü eylemin diğerkâm olarak değerlendirilmesi gerektiğini iddia 
+etmişlerdir (Hauert ve diğ., 2002). Onlara göre eğer bu etkileşimde her iki 
+taraf da kazanç içindeyse bu, diğerkâmlık değil işbirliğidir. Monroe (1994: 6) 
+de diğerkâmlığı, “aktörün kendi iyiliğinden feragat etmesini gerektirse bile 
+diğerinin faydası için yapılan davranış” şeklinde tanımlamıştır. Bununla 
+birlikte “Batson (1991),  diğerkâmlık söz konusu olduğunda, kişi kendinden 
+feragat edebileceği gibi diğerkâm motivasyonun zorunlu olarak bu feragati 
+gerektirmediğini ileri sürmüştür. Ona göre, kendinden feragat etmeyi (self-
+sacrifice) diğerkâmlığın tanımına dahil etmek, yardım eden kişinin ödediği 
+bedel artınca daha çok kendi faydasına olması ihtimalini gözardı ederek 
+dikkati motivasyonlardan sonuçlara çekmektir” (Haski-Leventhal, 2009: 
+272). 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|359| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+Yukarıda değinilen çalışmalar literatürdeki farklı yaklaşımları ortaya 
+koymuştur. Aslında her çalışma kendi tanımı içerisinde bir bütünlük arz 
+etmektedir. Bu nedenle çalışmaları kendi bütünlüğü içerisinde okumak 
+önemlidir. Yayının dili de bu noktada belirleyici olmaktadır. Nitekim Türkçe 
+literatürde diğerkâmlık ve îsâr kavramları birbirine yakın kullanılan 
+kavramlar olduğunun bu iki kavram arasındaki nüansa değinmek anlamlıdır. 
+Burada yapılan davranışın kişiye maliyeti olup olmaması kilit noktadadır. 
+Ancak İngilizce literatür, hem diğerkâm hem de îsâr kavramları için 
+“altruism” terimini kullanmaktadır. Dolayısıyla bu çalışmalarda daha çok 
+pro-sosyal davranış-diğerkâm davranış ayrımı öne çıkmaktadır. Bu konudaki 
+genel yaklaşım pro-sosyal davranışın diğerkâm davranışı kapsadığı 
+şeklindedir. Ancak bir yardım eyleminin aktöre maliyetinin olup olmaması 
+halinde farklı alt boyutlar oluşturacağını söyleyenler de vardır. Bu yaklaşım, 
+diğerkâm davranış ile diğerini dikkate alan davranış ayrımını şu şekilde 
+yapmıştır: “özgecilik, olumlu sosyal davranışın bir türüdür fakat yardım eden 
+kişi diğer bireye yardım etmek vasıtasıyla bir maliyetle karşılaşmaktadır. 
+Aksine diğerlerini dikkate alan davranış, bireylerin kendilerine bir maliyeti 
+olmaksızın diğerlerine yardım etmesi durumu anlamına gelir (Nakl. Yıldız ve 
+diğ., 2012: 219). 
+Görüldüğü üzere bu yaklaşım, aktörün bir bedel ödemeden diğerini 
+önceleyerek yaptığı yardıma diğerlerini dikkate alan davranış, aktörün bedel 
+ödeyerek diğeri için yaptığı yardıma diğerkâm davranış ismini vermektedir. 
+Bir davranışın özgeci olarak nitelendirilebilmesi için aktörün bir maliyetle 
+karşılaşması gerektiği iddiası, İngilizce literatürdeki diğer kullanımlarla 
+uyumlu değildir. Zira yukarıda değinildiği üzere diğerkâmlık (altruism) 
+kavramının sözlük ve terim anlamları, diğerini önceleyen tüm yardım 
+davranışını kapsayacak şekilde verilmiştir. Diğer taraftan Türkçe literatürde 
+bu ayrımı yapmak mümkündür. Diğerkâmlık, diğeri için yapılan her türlü 
+eyleme işaret ederken îsâr, kişiye maliyeti olsa bile diğerini tercih etmesi 
+üzere kuruludur. Bu nedenle yardım davranışını daha genel almak, 
+diğerkâmlığı diğerini önceleyen yardım davranışı olarak belirlemek, îsârı da 
+kişinin bedel ödese dahi yardımda bulunması olarak kavramlaştırmak daha 
+net bir tablo ortaya çıkaracaktır.  
+Bu makalede ileri sürülen konu ise farklı yaklaşımlar ışığında genel bir 
+tanım sistemi geliştirmektir. Bu bağlamda şu sınırlar çizilebilir: insanın diğer 
+varlıklara yönelik tüm olumlu davranışları pro-sosyal davranış olarak ele 
+alınabilir. Yardım etme davranışı ise bir pro-sosyal davranış türüdür ve 
+kişilerin karşılıklı veya tek taraflı tüm yardım faaliyetlerini kapsar. Yardım 
+karşılıklı değil de tek taraflı ise ve yardım eden kişi diğerinin ihtiyacını 
+Sevde DÜZGÜNER 
+ 
+|360| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+önceleyerek böyle bir davranışta bulunmuşsa buna diğerkâm davranış denir. 
+Yardım eden kişi kendisi de ihtiyaç içindeyse veya yardım karşılığında bir 
+güçlük yaşayacaksa bile diğerini önceleyerek yardım davranışında 
+bulunması îsâr olarak nitelendirilebilir. Dolayısıyla diğerkâmlık îsârı; yardım 
+davranışı diğerkâmlığı; pro-sosyal davranış da yardım davranışını 
+kapsamaktadır.  
+Şekil 1: Pro-sosyal Davranışlarda Diğerkâmlığın Kavram Haritası 
+ 
+Değinilen 
+kavram 
+haritası, 
+genelden 
+özele 
+doğru 
+bir 
+konumlandırmaya işaret etmektedir. Ancak bu konularda yapılan çalışmalar 
+daha farklı kavramsallaştırmaları da barındırmaktadır. Bu nedenle aşağıda 
+pro-sosyal davranışlar hakkında bilgi sunularak diğerkâmlığın konumuna 
+işaret edilmiştir. Diğer pro-sosyal davranışlar için de bir tanım cetveli 
+sunulmuştur.  
+C. Pro-sosyal Davranışların Tanım Cetveli ve Diğerkâmlığın 
+Konumu 
+Diğerkâmlığın tanım ve kapsamı netleştirildikten sonra onun diğer 
+pro-sosyal davranışlar içerisindeki konumuna değinmek gerekmektedir. 
+Diğerkâmlık konusunda olduğu gibi pro-sosyal davranışların tanım ve 
+kapsamları hususunda da farklı yaklaşımlar mevcuttur. Olumlu sosyal 
+davranış olarak da kullanılan pro-sosyal davranış (pro-social behavior) 
+terimi, 1960’lı yıllarda anti-sosyal davranışın (anti-social behavior) zıddı 
+olarak tüm yardım etme davranışlarını içine alacak şekilde geniş bir terim 
+olarak kullanılmaya başlanmıştır (Bilgin 1995: 274).  
+Diğerkâmlık ile pro-sosyal davranış birbirinden farklı olsa da bu iki 
+kavramın eşanlamlı olarak kullanıldığı çalışmalara rastlamak mümkündür 
+(Eisenberg ve Miller, 1987; Einolf, 2006. Nakl. Ayten, 2009: 51). Oysa pro-
+sosyal davranış kavramının tanımları dahi onu özgeci davranıştan ayırır. 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|361| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+“Herhangi bir emre dayalı olmayan, örgüt için fayda sağlayan davranışlar ve 
+hareketler, çalışanların biçimsel rol davranışlarından farklılık gösterir. 
+Biçimsel olmayan davranışlar şeklinde ele alınan bu davranışlar literatürde, 
+pro-sosyal davranış veya fazladan rol davranışı olarak adlandırılmaktadır” 
+(Karadağ ve Mutafçılar, 2009: 52). Carlo ve diğerlerine (2003:108) göre de, 
+“başka bir insanın ya da bir grup insanın yararına olabilecek, kişinin baskı 
+altında olmadan ve kendi isteğiyle sergilediği davranışlar” pro-sosyal 
+davranış kapsamına girmektedir. Bu tanımlardan pro-sosyal davranışın 
+geniş bir kapsamı olduğu görülmektedir. Adından da anlaşılacağı üzere 
+olumlu sosyal davranış, kişinin diğer kişi ve kişilere yönelik tüm olumlu 
+davranışlarını kapsamaktadır. Teselli etme, paylaşma, selamlaşma gibi 
+davranışlar bu kapsama girer ancak diğerine yönelik olumlu davranış 
+denilince şüphesiz yardım etme davranışı öne çıkmaktadır.  
+Yardım etme davranışı, işbirliği / dayanışma, sosyal sorumluluk olarak 
+addedilen etkinliklerde yer alma ve diğerkâm davranışların yanı sıra çıkar 
+amaçlı yardım davranışlarını da içine alan kapsayıcı bir yapıdır. Bu özelliği 
+de onun bölünmez bir yapı olmaktan ziyade çok boyutlu bir yapı olarak ele 
+alınmasına neden olmuştur (Benson ve diğ., 1980. Nakl. Ayten, 2009: 16). 
+Olumlu toplumsal davranış bir anlamda, en saf haliyle tamamen diğerkâm 
+olan davranışlardan çıkar amacı taşıyan bencil yardım davranışına kadar 
+uzanmaktadır (Taylor ve diğ., 2007: 379). Yardım etme davranışının çok 
+boyutlu yapısına farklı bir açıdan yaklaşan Duru’ya (2004: 31) göre ise bu 
+boyutların bir ucunda işbirliğine yönelik yardım davranışlarını, diğer ucunda 
+ise diğerkâm davranışları koymak mümkündür. Çünkü işbirliği, ortak 
+hedeflere ulaşma temeline dayanan pro-sosyal davranıştır. Örneğin, beraber 
+ders çalışan iki öğrenci, bilgilerini paylaşıp ortak etkinlikleri için zaman ve 
+enerji harcıyorsa bunun adı işbirliğidir. Diğerkâmlıkta da işbirliğinde de 
+aktör için bir bedel ödeme vardır ama diğerkâmlıkta farklı olarak bir de 
+kişisel kazanç beklentisi olmadan yardım etme söz konudur.  
+Şu halde işbirliği, karşılıklı yardım faaliyeti için kullanılırken 
+diğerkâmlık tek taraflı yardım faaliyeti anlamında kullanılmaktadır. 
+Bunumla birlikte literatürde, pro-sosyal davranış, yardım davranışı ve 
+diğerkâm davranışın kapsamlarını farklı şekillerde tanımlayan çalışmalar 
+bulunmaktadır. Örneğin Bierhoff (2005: 9), yardım etme davranışı, pro-
+sosyal davranış ve diğerkâm davranışı birbirinden şu şekilde ayırmıştır:   
+“Yardım etme, kişiler arası tüm destek türlerini kapsayan geniş 
+terimdir. 
+Pro-sosyal davranış, eylemin yardımı alanın durumunu geliştirme 
+Sevde DÜZGÜNER 
+ 
+|362| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+niyetiyle yapılmış olması, yardım edenin mesleki zorunluluğu yerine 
+getirme ile güdülenmemiş olması ve yardım alanın bir kurum değil 
+kişi olması nedenleriyle yardım etmeye nispetle daha dar bir 
+kavramdır. 
+Diğerkâmlık, 
+ise 
+ilave 
+bir 
+kısıtlamayla 
+yardım 
+edenin 
+motivasyonunun perspektif edinme ve empati tarafından belirlenmiş 
+olması anlamına gelen pro-sosyal davranıştır.”  
+Bu 
+konumlandırmada Bierhoff, 
+pro-sosyal 
+davranışı, 
+yardım 
+davranışının bir alt boyutu olarak ele almıştır. Kendi tanımlama sistemine 
+göre bu kavramsallaştırma anlaşılabilir. Ancak literatürdeki pek çok çalışma, 
+pro-sosyal davranışı bütün olumlu sosyal davranışları içine alacak şekilde 
+tanımlamış, yardım davranışını bunun bir alt türü olarak ileri sürmüştür. 
+Benzer şekilde diğerkâmlık da diğer pro-sosyal davranışlardan biri olarak 
+ele alınmıştır. Diğerkâmlık, yardım etme, sorumluluk üstlenme ve bağış 
+yapma gibi birçok olumlu sosyal davranışla sıkı ilişki içindedir. Ancak her 
+olumlu sosyal davranışın diğerkâm davranış olarak nitelendirilebileceğini 
+söylemek mümkün değildir. Çünkü karşılık bekleyerek veya zorla yapılan 
+yardım, çıkar amaçlı işbirliği gibi durumlar olumlu sosyal davranış olsalar 
+bile diğerkâm davranış olarak addedilemez (Akbaba, 1994: 17). Bilimsel 
+planda diğerkâmlığı; vermek, paylaşmak, yardımlaşmak/işbirliği yapmak ve 
+derin sevgi gibi onunla yakından alakalı diğer pro-sosyal davranışlardan 
+ayırt etmek gerektiğini söyleyen Monroe (2002: 107; 1994: 862-863), ileri 
+sürdüğü tanımında şu unsurlara dikkat çekmiştir:  
+“Geleneksel olarak diğerkâmlık, kendinden fedakârlık etmesi gereken 
+bir durum olduğunda dahi kişinin bir diğerinin yararına yönelik 
+eylemlerde bulunmasını ifade etmektedir. Bu kavramlaştırma, çeşitli 
+kritik noktalara işaret etmektedir.  
+1. Diğerkâmlık, eylem içermelidir. İyi niyetler ve iyi niyetli 
+düşünceler yeterli değildir.  
+2. Bu eylem, bilinçli olsun olmasın bir hedefe sahip olmalıdır. 
+3. Bu hedef, bir diğer kişiye yardım etmeye yönelik olmalıdır. Eğer 
+diğer insanın refahı, kişinin kendi refahını geliştirmek için yaptığı 
+bir davranışın istemeden ortaya çıkan veya ikincil bir sonucu ise 
+bu eylem diğerkâm değildir. 
+4. Sonuçlar, niyetlerden daha önemsizdir.  
+5. Diğerkâmlık, şartlara göre değişmez. Diğerkâm eylemin amacı, 
+bir başka insana yardım etmektir. Diğerkâm olan kişi için ödül 
+beklentisi söz konusu değildir. Diğerkâmlık kavramlaştırmaları 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|363| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+çoğunlukla bu beş noktaya ilaveten bir altıncısını da 
+içermektedir. 
+Diğerkâmlık, aktörün refahını azaltma riski taşımalıdır. Hem 
+aktörün hem de diğerinin refahını geliştiren eylemler genellikle, 
+kolektif eylem sayılmaktadır. Bu bakış açısı geniş bir biçimde sosyal 
+bilimlerde tartışılmış ancak diğer beş madde kadar üzerinde 
+durulmamıştır”. 
+Diğerkâmlığa yönelik yaklaşımların her biri, bu kavramı kendi 
+açısından ele almıştır. Kavrama yönelik tanım ve yaklaşım farkı ve çeşitliliği 
+diğerkâmlığın çok boyutlu ve karmaşık yapısını ortaya koymaktadır. 
+Dolayısıyla özgecilik, kavrama ve etkiye, kişisel düşünceye, değerlere, 
+hislere, amaçlara, davranışlara ve bazı durumlarda davranışın sonuçlarına 
+işaret eden insan fonksiyonlarının hepsini kapsamaktadır (Karadağ ve 
+Mutafçılar, 2009: 63). Diğerkâmlık, insanın yapısında vardır. Bu yapı, ister 
+genlerde kodlanmış olsun, ister sosyalleşme sürecinde öğrenilmiş olsun 
+isterse sosyal normlara dayansın sonuç değişmez. Tipik bir birey, 
+başkalarının veya daha geniş anlamda toplumun yararına olan sosyal yardım 
+ile ilgili işlere katılma ihtiyacı hissetmektedir (Piliavin ve Charng, 1990: 58). 
+Bağışta bulunma, acil durumlarda yardımseverlik, gündelik durumlarda 
+yardımseverlik ve fedakârlık, bu ihtiyacın görünümleri arasındadır. Tüm 
+diğerkâm davranışların ortak özelliği ise, gönüllülük ilkesi çerçevesinde 
+ortaya çıkmasıdır (Yavuzer ve diğ. 2006. Nakl. Kaçar Banbal, 2010: 5). Hangi 
+yönüyle ele alınırsa alınsın diğerkâmlıkla ilgili olarak Piliavin ve Charng 
+(1990: 29) şu tespitte bulunmuşlardır: Sosyoloji, ekonomi, siyasi bilimler ve 
+sosyal psikolojiden elde edilen veriler, diğerkâmlığın insan doğasının parçası 
+olduğuna işaret etmektedir. İnsanlar, başkasını önemseme duygusuna 
+sahiptirler ve kendilerinin çok az faydasına olan işlerde de kamu yararına 
+katkı sağlarlar. Kendi çocukları hatta ilgileri olmayan başka kimseler için de 
+fedakârlık yaparlar. 
+Buraya kadar ortaya konan görüşlere göre denilebilir ki pek çok pro-
+sosyal davranış türü bulunmaktadır ve diğerkâmlık bunlar arasında yer 
+almaktadır. Bu makale kapsamında yapılan çalışmada ise pro-sosyal 
+davranış ile ilgili literatürdeki farklı tanımların en temelde, aktörün niyeti, 
+aktörün hedefi, etkileşim türü, aktörün içinde bulunduğu durum ve davranış 
+türüne göre tanımlandığı tespit edilmiştir. Bu tanımlar ışığında ise aşağıda 
+sunulan şekliyle bir tanım cetveli oluşturulmuştur. Bu cetvel esas alınarak, 
+pro-sosyal davranış türlerinden yardım davranışları için bir içerik belirleme 
+yapılabilir.  
+Sevde DÜZGÜNER 
+ 
+|364| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+ 
+Tablo 4’te görüldüğü üzere pro-sosyal davranış; gönüllü veya gönülsüz 
+olarak yapılabilir; aktör çıkar amacı güdebilir veya gütmeyebilir; davranış 
+tek taraflı veya karşılıklı olabilir; aktörün söz konusu desteğe ihtiyacı olabilir 
+veya olmayabilir; yardım davranışını veya diğer davranışları kapsayabilir. 
+Diğer bir deyişle pro-sosyal davranış tüm olumlu sosyal davranışları 
+içermektedir. Ancak yardım etme davranışı, pro-sosyal davranışın bir 
+türüdür. Gönüllü veya zorunlu yardım söz konusu olabilir. Gönüllü yardım 
+daha kolay anlaşılabilen bir kavramken gönülsüz yardıma bir kurumun 
+çalışanlarından belli bir derneğe bağışta bulunmalarını zorunlu tutması 
+örnek verilebilir. Yardım davranışı, aktör odaklı veya diğeri odaklı olabilir. 
+Bir muhtaca yapılan yardımda kişinin özel bir çıkar amacı olmaması 
+mümkünken böyle bir çıkar beklentisine girmesi de mümkündür. Aktör 
+odaklı yardıma, kişi veya kurumların reklam yapmak ve prestij sağlamak için 
+yardım faaliyetlerine katılması verilebilir. Yardım faaliyeti karşılıklı 
+olabileceği gibi tek taraflı da olabilir ve aktörün bizzat kendisi de bu 
+yardımda ihtiyaç duyuyor olabileceği gibi olmaması da mümkündür. Diğer 
+bir deyişle, yardım davranışı, her türlü destek alıp verme faaliyetlerini 
+kapsar.  
+Yardım davranışının bir alt boyutu olan işbirliği ise gönüllü veya 
+zorunlu olabilir; çıkar amaçlıdır ve çift taraflı bir yardım türüne işaret 
+etmektedir. Sosyal sorumluluk davranışı, bireylerin gönüllü olarak 
+katıldıkları tek taraflı bir yardım türüdür. Örneğin engellilere yönelik bir 
+yardım projesinde yer almak bir tür sosyal sorumluluk davranışıdır. Ancak 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|365| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+bu davranış türünde genel olarak toplumun refahı için çalışma olduğu için 
+kişi dolaylı bir çıkar sağlamaktadır. Ayrıca sosyal sorumluluk davranışı 
+gösteren kişi, ilerde kendi başına bir sıkıntı geldiğinde ona da yardım 
+edenlerin olacağını hesaba katabilir. Yani bu davranış türünde uzun vadede 
+ve dolaylı olarak bir çıkar amacından bahsetmek mümkündür.  
+Fedakârlık davranışı, gönüllü veya gönülsüz yapılabilen çıkar amacı 
+güdülen veya güdülmeyen tek taraflı yardım davranışlarını kapsamaktadır. 
+Dolayısıyla bir kişinin fedakârlığı, kendi isteğiyle olduğu gibi toplumsal baskı 
+sonucu da olabilir. Fedakârlık ve özveride kişinin kendi kısa vadeli 
+çıkarlarından vazgeçmesi vardır. Özveriyle çalışan birey, anlam yüklediği 
+hedeflerine ulaşmak için zamanını başka eylemlere değil çalışmaya ayırmayı 
+tercih eden bireydir. Ancak fedakârlık ve özveri insan ilişkilerinde 
+yaşandığında bu makalede ele alınan anlamı alır. Fedakârlığı özveriden 
+ayıran en temel nokta kişinin bu eylemi gönüllü olarak yapıp yapmadığıdır. 
+Fedakârlıkta kişinin diğeri için kendini feda etmesi ve bazen de ondan 
+karşılık beklemesi durumu vardır. Örneğin bir anne çocuklarının istediği gibi 
+davranmadığını görünce yaptığı fedakârlılar için onlara ve kendine kızabilir. 
+Özveride ise kişinin sevgisine emek vermek gibi kendi amaç ve hedefleri 
+uğruna kendi yararından vazgeçmesi vardır. Ancak bu karar kişi tarafından 
+bilinçli ve gönüllü alınmış bir karardır; bir kâr amacı ve beklentisi yoktur. 
+Fedakârlıktaki kişisel çıkar daha çok karşılık beklemek şeklindeyken 
+özverideki kendi odaklılık, anlam yüklediği konuya emek vermek 
+şeklindedir.   
+Diğerkâm davranışta ise fedakârlıktaki gibi beklenti veya özverideki 
+gibi kişisel hedeflere ulaşma çabası hesabı yoktur. Diğerkâmlık, gönüllü 
+olarak yapılan, diğeri odaklı, tek taraflı bir yardım faaliyetidir. Birey, sırf 
+diğer kişi iyi olsun diye bir yardım eyleminde bulunursa diğerkâm davranmış 
+olur. Aktörün, yardım ettiği konuya kendisinin ihtiyaç duyup duymamasının 
+ikisi de geçerli olabilir. Ancak îsâr, gönüllü olarak yapılan, diğeri odaklı, tek 
+taraflı, aktörün kendi ihtiyacı varken bile yardım etmesi faaliyetine denir.  
+Sonuç 
+Psikoloji, her geçen gün insan fenomeninin bir yönüne daha ışık tutan 
+çalışmalar yapmaktadır. Grup içindeki bireyi inceleyen sosyal psikoloji ile 
+insanın olumlu yönlerini inceleyen pozitif psikoloji ve insanın dini 
+yönelimlerini inceleyen din psikolojisi, pro-sosyal davranış ve diğerkâmlık 
+konularında kesişmektedir. Ancak bu kavramlar hakkında literatürde 
+oldukça farklı tanım ve yaklaşımlar bulunmaktadır. Bu çalışmalar kendi 
+tanımlama sistemlerine bağlı olarak kendi içlerinde bir bütünlük arz etse de 
+Sevde DÜZGÜNER 
+ 
+|366| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+bir arada değerlendirildiğinde ortaya bir kavram karmaşası çıkmaktadır. Bu 
+karmaşaya bir netlik getirmek amacıyla kaleme alınan makalede 
+kavramların farklı tanımlarına yer verildikten sonra şu sonuca ulaşılmıştır: 
+Olumlu sosyal davranış olarak da nitelendirilen pro-sosyal davranışı bir üst 
+şemsiye olarak ele alınmalıdır. Yardım davranışı bunun alt türlerinden 
+biridir. Diğerkâmlık, karşılık beklemeden yardım etme davranışına işaret 
+etmektedir. Kişinin kendi ihtiyacı varken dahi diğerine yardım etmeyi tercih 
+etmesi ise îsâr olarak tanımlanabilir. Böylece genelden özele doğru bir 
+kavram haritası ortaya çıkmış olur.  
+Pro-sosyal davranışların ve diğerkâmlığın tanımlarına bakıldığında 
+bazı kriterlerin öne çıktığı görülür. Bunları, aktörün niyeti, aktörün hedefi, 
+etkileşim türü, aktörün içinde bulunduğu durum ve davranış türü şeklinde 
+sınıflandırmak mümkündür. Bu kriterler esas alınarak pro-sosyal 
+davranışlar ve diğerkâmlığın içeriğinin belirlenmesi için bir tanım cetveli 
+geliştirilmiştir. Bu cetvelin, sonraki çalışmaların daha sağlam temellere 
+oturması 
+ve 
+kavram 
+karmaşasının 
+giderilmesine 
+katkı 
+sağlaması 
+beklenmektedir. 
+   
+KAYNAKÇA 
+AKBABA, S. (1994). Grupla Psikolojik Danışmanın Sosyal Psikolojik Bir 
+Kavram Olan Özgecilik Üzerindeki Etkisi. Yayınlanmamış Doktora Tezi. 
+Atatürk Üniversitesi SBE Eğitim Bilimleri Anabilim Dalı, Erzurum. 
+ARSLAN, Z. Ş. (2012). İyilik Halkasına Ait Bir Kavram: Diğerkâmlık ve Eğitimi. 
+1. Ulusal İyilik Sempozyumu, Elazığ, 538-546.  
+AYTEN, A. (2009). Prososyal Davranışlarda Dindarlık ve Empatinin Rolü 
+Yayınlanmamış Doktora Tezi. Marmara Üniversitesi SBE İlahiyat 
+Anabilim Dalı Din Sosyolojisi Bilim Dalı, İstanbul. 
+BAR-TAL, D. (1976). Prosocial Behavior. Washington D.C.: Hemisphere 
+Publishing Corporation. 
+BATSON, C. D. (1991). The Altruism Question: Toward a Social-Psychological 
+Answer. New-Jersey: Lawrence Erlbaum Associates Publishers.  
+BATSON, C. D. (1991). The Altruism Question: Toward a Social-Psychological 
+Answer. New-Jersey: Lawrence ErlbaumAssociatesPublishers. 
+BEDOSKY, J. C. (2005). Motivators of Altruistic Bahevior, Unpublished 
+Dissertation. Union Institute & Univeristy / ClinicalPsychology, Ohio.  
+BIERHOFF, H. W. (2005). Prosocial Behaviour, New York: Taylor & Francis. 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|367| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+BİLGİN, N. (Ed.) (1995). Sosyal Psikolojiye Giriş, İzmir: İzmir Kitaplığı.  
+CARLO, G., HAUSMANN, A., CHIRISTIANSEN, S. & RANDALL, B. A. (2003). 
+Sociocognitive and Behavioral Correaltes of a Measure of Prosocial 
+Tendencies for Adolescents. The Journal of Early Adolescence, 23 (1), 
+107-134. 
+ÇAĞRICI, M. (2000). Îsâr, Diyanet İslam Ansiklopedisi, 22, 490. 
+DURMUŞ, Z. (2003). Sosyal Dayanışmanın Sağlanmasında Kur’an’nın 
+Öngördüğü İdeal Model: Îsâr. Dinbilimleri Akademik Araştırma Dergisi, 
+3 (1), 17-27.  
+DURU, E. (2004). Öğretmen Adaylarında Empati -Yardım Etme Eğilimi İlişkisi 
+ve Yardım Etme Eğiliminin Bazı Psikososyal Değişkenler Açısından 
+İncelenmesi, Pamukkale Üniversitesi Eğitim Fakültesi Dergisi, 15, 31-
+41. 
+ELSTER, J. (2007). Sosyal Davranışı Açıklamak, Çev. Olcay Sevimli ve Macide 
+Ö. Karaduman, Ankara: Phoenix Yay. 
+FREEDMAN, J. L., SEARS D. O. & CARLSMITH, J. M. (2003). Sosyal Psikoloji, 
+Çev. Ali Dönmez, Ankara: İmge Yay.  
+GREEN, W. S. (2005). Introduction: Altruism and the Study of Religion. 
+Altruism in World Religions, Ed. JacobNeusner ve Bruce Chilton. 
+Washington: Georgetown UniversityPress, ix-xiv. 
+HABLEMİTOĞLU, Ş., ÖZKAN, Y. & YILDIRIM, F. (2010). Bir Fedakâkarlık 
+Örneği Olarak "Kan Bağışı". Aile ve Toplum, 5 (20), 67-77.  
+HASKI-LEVENTHAL, D. (2009). Altruism and Volunteerism: ThePerceptions 
+of Altruism in Four Disciplines and Their Impact on The Study of 
+Volunteerism. Journal for the Theory of SocialBehaviour, 39 (3), 271-
+299. 
+HAUERT, C., DE MONTE, S., HOFBAUER, J. & SIGMUND, K. (2002). 
+Volunteering as RedQueen Mechanism for coorperation in Public 
+Goods Games, Science, 296 (5570), 1129-1132. 
+HOFFMAN, M. L. (1978). Psychological and Biological Perspectives on 
+Altruism. International Journal of Behavioral Development, 1(4), 323–
+339. 
+KAÇAR BANBAL, G. (2010).  Hemşirelik Öğrencilerinin Özgecilik Düzeyleri, 
+İstanbul: İstanbul Üniversitesi Sağlık Bilimleri Enstitüsü. 
+KAĞITÇIBAŞI, Ç. & CEMALCILAR, Z. (2014). İnsan ve İnsanlar: Sosyal 
+Psikolojiye Giriş, İstanbul: Evrim Yay. 
+Sevde DÜZGÜNER 
+ 
+|368| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+KARACAOĞLU, K. & GÜNEY, Y. S. (2010). Öğretmenlerin Örgütsel 
+Bağlılıklarının, Örgütsel Vatandaşlık Davranışları Üzerindeki Etkisi: 
+Nevşehir İli Örneği. Öneri, 9 (34), 137-153. 
+KARADAĞ, E. & MUTAFÇILAR, I. (2009). Prososyal Davranış Ekseninde 
+Özgecilik Üzerine Teorik Bir Çözümleme. Flsf Dergisi, 8, 41-70. 
+KAYIKLIK, H. (2011). Din Psikolojisi: Bireysel Dindarlık Üzerine. Adana: 
+Karahan Yayınları.  
+KÖSE, A. & AYTEN, A. (2015). Din Psikolojisi. İstanbul: Timaş Yayınları.  
+MONROE, K. R. (1994). A Fat Lady in a Corset: Altruism and Social Theory, 
+American Journal of Political Science, 38 (4), 861-893. 
+MONROE, K. R. (2002). Explicating Altruism. Altruism and Altruistic Love: 
+Science, Philosophy and Religion in Dialogue, Ed. S. G. Post, L. G. 
+Underwood, J. P. Schloss, and W. B. Hurlbut. Oxford: Oxford 
+UniversityPress, 106-122. 
+ÖZDOĞAN, Ö. (2005). İsimsiz Hayatlar: Manevi ve Psikolojik Yaklaşımla 
+Arınma ve Öze Dönüş, Ankara: Lotus Yay. 
+PEKER, H. (2003). Din Psikolojisi, İstanbul: Çamlıca. 
+PILIAVIN, J. A. & CHARNG, H. W. (1990). Altruism: A Review of Recent Theory 
+and Research.  Annual Review of Sociology, 16, 27-65.  
+SANCAKLI, S. (2006). Hz. Peygamber’in Erdemli İnsan Yetiştirme 
+Bağlamında Îsâr (Diğergamlık) Kavramına Verdiği Önem. Tasavvuf: 
+İlmî ve Akademik Araştırma Dergisi, 7 (17),  29-56. 
+SAROGLOU, V. (2013). Religion, Spirituality and Altruism, APA Handbook of 
+Psychology, Religion and Spirituality, Ed. Kenneth I. Pargament, New 
+York: American Psychological Association, 439-450. 
+SELIGMAN, M. (2007). Gerçek Mutluluk, Ankara: Hyb Yay. 
+SERPEN, A. S. & HASGÜL, E. (2015). Sosyal Hizmet Uygulamalarında 
+Empatinin Önemi ve Yardım İlişkisi Üzerindeki Etkisi. Sosyal Politika 
+Çalışmaları Dergisi, 15 (35), 37-52. DOI: DOI: 10.21560/spcd.3633.  
+SNYDER, C. & SHANE J., L. (2007). Positive Psychology: The Scientific and 
+Practical Explorations of HumaStrength. California: Sage Publications.  
+TAYLOR, S. E., PEPLAU, L. A. & SEARS, D. O. (2007). Sosyal Psikoloji, Çev. Ali 
+Dönmez, Ankara: İmge Kitabevi.  
+TOPSES, G. (2012). Elseverlik (Alturizm) ve Benseverlik (Egoizm) Ölçeğiyle 
+İlgili Geçerlik ve Güvenirlik Çalışması. International Journal of New 
+Trends in Arts, Sports & Science Education, 1 (2), 60-71. 
+Pro-Sosyal Davranışlarda Diğerkâmlığın (Özgecilik) Tanımı ve Konumu 
+ 
+|369| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+TOPSES, M. D. (2009). Modernleşme Sürecinde Bireyin Elcilik Davranışının 
+Aile Kontrol Düzeyi ile İlişkisi. Hacettepe Üniversitesi Türkiyat 
+Araştırmaları Dergisi, Güz (11), 119-142. 
+WILSON, E. 0. (1975). Sociobiology: The New Synthesis. Cambridge: Harvard 
+University Press.  
+www.tdk.gov.tr, 29.04.2019 tarihinde ulaşıldı. 
+YILDIZ, S., TAŞTAN BOZ, İ. & YILDIRIM, B. F. (2012). Kişilik Tipi İle Olumlu 
+Sosyal Davranış Arasındaki İlişki: Marmara Üniversitesi Öğrencileri 
+Üzerinde Bir Araştırma. Atatürk Üniversitesi İktisadi ve İdari Bilimler 
+Dergisi, 26 (1), 215-233. 
+  
+bilimname XL, 2019/4, 370-373 
+Arrival Date: 7.23.2019, Accepting Date: 11.24.2019, Publishing Date: 12.31.2019 
+doi: http://dx.doi.org/10.28949/bilimname.595847 
+ 
+THE DEFINITION AND LOCATION OF 
+ALTRUISM AMONG PRO-SOCIAL BEHAVIORS
+ 
+ Sevde DÜZGÜNERa 
+ 
+Extended Abstract
+Investigating emotions, thoughts, and behaviors of human being, psychology 
+studies pro-social behavior from various perspectives. Since altruism is 
+related to sociality and morality it is discussed mostly in social psychology 
+and psychology of religion. But recently, altruism has attracted attention in 
+general psychology with the development of positive psychology. This has 
+led to be published many studies on altruism in the literature. These studies 
+include different approaches to definition and scope of altruism. Altruism, 
+generally, defined as helping without expectation of personal benefit, takes 
+an important place in the literature. Altruism is used synonymous with some 
+concepts like helping, self-sacrifice, and îsâr (which is used in Turkish 
+literature with the meaning of helping others even the person himself in 
+need). Yet the determination of borders and locations of concepts is 
+necessary to build psychological theory, research, and practice on firm basis. 
+This paper presents information about pro-social behavior and definitions of 
+altruism. Then it mentions nuances of other pro-social concepts in order to 
+determine the location of altruism. It presents a concept map of altruism and 
+definition chart for pro-social behaviors as well.  
+The term altruism in different languages has similar roots as seen in the 
+Table 1. 
+The usage of altruism in other languages consists of a term with the meaning 
+of “other” (alter, gayr, özge, el) and a suffix (-ist, -ci, -sever, -kâm) with the 
+meaning of "centered". So altruism bases on being “other centered”. In 
+Turkish literature one can find different versions of the term altruism like 
+elsever, diğerkâm, diğergam, özgeci, altruist, and, altürist. Therefore, 
+researchers should be careful about these terms and make a search on them 
+ 
+a Asst. Prof., Marmara University, sevdeduzguner@hotmail.com 
+The Definition and Location of Altruism among Pro-Social Behaviors 
+ 
+|371| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+all.  
+ 
+On the other hand, there are some concepts like “helping” (yardım etme), 
+“care others” (diğerlerini düşünme), and “self-giving” (özveri) used as 
+synonymous with altruism (Güney, 2010: 139). “Self-sacrifice” (fedakârlık) 
+is also frequently used equal to altruism (see Hablemitoğlu ve diğ. 2010). Îsâr 
+is another term used with the meaning of altruism as well (see Sancaklı, 
+2006). However, there are nuances among these concepts. For instance, 
+helping is wider than altruism and caring others may not indicate an action 
+but altruism does. Likely, altruism is a voluntary behavior while self-sacrifice 
+may be involuntary under the influence of some reasons like social norms 
+(Özdoğan, 2005: 178). With the lexical meaning of “preferring someone or 
+something to other” îsâr is defined as “using one’s own means for the benefit 
+of others even if she/he is in need” (Çağrıcı, 2000: 490). However, being in 
+need is not a necessity for altruism (Durmuş, 2003: 19).  
+Varieties of definitions of altruism provide us to see the common and 
+different point of views. There is a consensus of the fact that altruism 
+depends on an action of a person for the benefit of others (Bedosky, 2005: 
+17). Namely altruism is a type of helping behavior without expecting any 
+personal gift or benefit. Yet there is dissidence on conceptualization and 
+scope of pro-social behavior, helping, altruism and îsâr. What this article 
+concludes from these discussions is pro-social behavior is a broad band term. 
+Helping is a type of pro-sociality and altruism is a type of helping. Îsâr is a 
+specific form of altruism as shown in the diagram 1 below. 
+Sevde DÜZGÜNER 
+ 
+|372| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+Diagram 1. Concept Map of Altruism 
+ 
+After mentioning the definition and scope of altruism it is required to 
+determine the location of altruism among other pro-social behaviors. Like 
+altruism, there are a plenty of different definitions for other pro-social 
+behaviors. After a detailed literature review this study detected that these 
+definitions are made depending on the actor’s intention, aim, interaction, 
+state, target and behavior type. Here is a definition chart for pro-social 
+behaviors. 
+ 
+As a conclusion, this paper asserts that altruism is to help others for the 
+benefit of her/him. It depends on being “other centered” instead of being 
+“self-centered”. Îsâr is a specific form of altruism that means to help others 
+even the actor herself/himself is in need. This paper also presents a range of 
+The Definition and Location of Altruism among Pro-Social Behaviors 
+ 
+|373| 
+bilimname 
+XL, 2019/4 
+CC BY-NC-ND 4.0 
+criteria to define pro-social behaviors. It is expected that this definition chart 
+will contribute to eliminating the confusion of concepts in the literature. 
+Keywords: Psychology of Religion, Pro-social Behavior, Helping Behavior, 
+Altruism, Îsâr. 
+   
+ 

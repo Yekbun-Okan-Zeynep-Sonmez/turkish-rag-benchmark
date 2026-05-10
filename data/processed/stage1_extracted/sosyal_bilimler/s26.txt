@@ -1,0 +1,690 @@
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+39 
+ 
+ 
+TOPLUMSAL GERÇEKLİĞİN İNŞASINDA ETNOMETODOLOJİ VE 
+SEMBOLİK ETKİLEŞİMCİLİK KURAMLARININ ETKİSİNİ KAVRAMAK 
+ 
+Büşra Doğan* 
+Seher Oral* * 
+Öz 
+Bu çalışmada, sembolik etkileşimcilik ve etnometodoloji kuramının Amerikan 
+sosyolojisinde ortaya çıkışı, teorik varsayımları ve toplum anlayışı ele alınmıştır. Klasik 
+sosyolojide makro çalışmaların yerini mikro ölçekli çalışmaların almaya başlaması ve bunun 
+nedenlerini anlamak çalışmanın ana problematiğini oluşturmaktadır. Bu çalışmada, sembolik 
+etkileşim kuramının ortaya çıkışını sağlayan ve bu konuda teoriler sunan Mead’in; I (ben), Me 
+(bana), Blumer’ın günlük karşılaşmalar ve tecrübeler, Coley’in ayna benlik kavramı ve 
+Goffman’ın benlik sunumu kavramı ele alınacaktır. Etnometodoloji kuramı ise, bireylerin 
+toplumsal gerçekliği, nasıl inşa ettikleri, sürdürdüklerini ve değiştirdiklerini açıklamaya 
+çalışan; tüm bunları yaparken hangi kurallar, ilkeler ve metotlardan yararlandıklarını analiz 
+etmeye çalışan bir disiplin alanıdır. Etnometodolojide toplumsal gerçekliğin nasıl işlediğini 
+açıklamak toplumda var olan üyelerin bakış açılarını bilmekten geçer. Bu yüzden 
+etnometodoloji, gündelik hayatın sosyolojisi olarak da nitelendirilmektedir. Bu bağlamdan 
+hareketle bu çalışmada, etnometodoloji ve sembolik etkileşim kuramlarının gündelik hayat 
+sosyolojisini kurarken hangi temel noktalardan hareket ettiği üzerine bir inceleme 
+yapılacaktır.  
+Anahtar Kelimeler: Klasik sosyoloji, sembolik etkileşim, benlik sunumu, ayna 
+benlik, etnometodoloji. 
+UNDERSTANDING THE EFFECT OF THE THEORIES OF 
+ETHNOMETODOLOGY AND SYMBOLIC INTERACTIONS IN THE 
+CONSTRUCTION OF SOCIAL REALITY 
+Abstract 
+In this study, the emergence of symbolic interactionism theory and ethnomethodology 
+theory in American sociology, theoretical assumptions and understanding of society are 
+discussed. The main problematic of the study is the fact that small-scale studies start to be 
+replaced by macro studies in classical sociology and to understand the reasons of this. Thus, 
+the social order, stability, harmony and balance manifestations presented by the theory of 
+functionalism in classical sociology, together with the symbolic interaction and 
+ethnomethodology theories, will change the social sciences. Here, Mead provides the 
+emergence of symbolic interaction theory and offers theories in this regard; I (me), Me (me), 
+Blumer's daily encounters and experiences, Coley's mirror self concept and Goffman's self 
+ 
+Article Types / Makale Türü: Research Article / Araştırma Makalesi 
+Received / Makale Geliş Tarihi: 23.05.2020 Accepted / Kabul Tarihi: 14.06.2020 
+* Mardin Artuklu Üniversitesi, busra.dogan4747@gmail.com 
+* * Mardin Artuklu Üniversitesi, seherroral@gmail.com 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+40 
+ 
+ 
+presentation concept. In the ethnomethodology theory, it tries to explain the social reality of 
+individuals, how they construct, maintain and change; In doing all this, it is a discipline that 
+tries to analyze which rules, principles and methods they use. Explaining how social reality 
+works in ethnomethodology is through knowing the perspectives of members present in 
+society. Therefore, ethnomethodology is also described as the sociology of everyday life. In 
+this context, in this study, an investigation will be made on which basic points 
+ethnomethodology and symbolic interaction theories move from when establishing the 
+sociology of daily life. 
+Keywords: Classical sociology, Symbolic İnteraction, Self Presentation, Mirror Self, 
+Ethnomethodology. 
+GİRİŞ 
+19. yüzyılda Amerika’da sanayileşmenin gözde şehirlerinden biri olan Chicago yoğun 
+göç dalgası ile toplumsal değişmeler ve gelişmeleri analiz etmek adına sosyoloji bölümü ilk 
+olarak 1892’de Chicago’da kurulmuştur. Sosyolojide Chicago ekolü olarak bilinen bu ekol ile 
+pozitivist bakış açısı ile yapısal işlevci kuramlar aracılığıyla çeşitli teoriler sunulmaktaydı. 
+İkinci dünya savaşından sonra sosyal entegrasyona odaklanan yapısal işlevselcilik 
+kuramlarında pozitivist bir bakış açısı hâkimdir. 
+Birçok sosyolog, toplumsal düzeni aksatan savaş, göç, işsizlik, şiddet gibi 
+problemlerle ilgilenirken, gündelik hayatın hiç aksamadan, rutin bir şekilde devam eden 
+düzenini bir problem olarak ele almayı ihmal etmişlerdir. Bu durum, toplumsal gerçeklikleri 
+ve bireylerin gündelik deneyimlerini gerçekleştirirken kullandıkları metotları tam olarak 
+anlamamızı ve yorumlamamızı engellemektedir. Bu noktada etnometodoglar, araştırmalarının 
+merkezine toplumsal gerçeklikleri daha iyi kavramamızı sağlayan, gündelik hayat pratiklerini 
+yerleştirirler. Bu bağlamda bireylerin eylemlerini gerçekleştirirken olaylar karşısında 
+sergilemiş oldukları doğal, sağduyusal veya bilimsel tutumun hangi paradigmalar etrafında 
+kodlandığı sorunu etnometodolojinin ilgi alanına girmektedir. Etnometodoloji, belirli bir 
+toplumdaki üyelerin kendi varoluşlarını devam ettirebilmek için toplumsal normlara uyum 
+sağlamada, farklı bireylerle etkileşime geçmede ya da kendi gündelik deneyimlerinin 
+sürekliliğini sağlamada kullandığı metotların analizini yapmaktır. Böylece etnometodoloji, 
+kendine ait bir amacı, dili, kavramları ve tarzı olması nedeniyle sosyal bilimler alanına yeni 
+bir bakış açısı kazandırmıştır. Bu bağlamda entometodoloji, geleneksel sosyoloji anlayışında 
+radikal bir değişime neden olmuştur. Şöyle ki, açıklayıcı sosyolojiden ziyade anlamacı 
+sosyolojiye; nicel araştırmalardan ziyade nitel araştırmalara önem verilmeye başlanmıştır. 
+Ancak bu durum, entometodolojinin klasik sosyolojiyle bağının olmadığı şeklinde 
+yorumlanmamalıdır. Aksine entometodoloji ile Durkheim ve Weber’in klasik sosyolojisi 
+arasında güçlü bir bağ olmakla birlikte, sembolik etkileşimcilik, fenomonoloji ve 
+varoluşçuluk gibi alanlarla da çeşitli bağlantılar içerisindedir (Coulon, 2015: 10). Bu 
+bağlantıların temel göstergelerinden biri ise, etnometodolojinin bireylerin, gündelik hayat 
+pratiklerindeki ilişkilerini geliştirmek için kullandıkları yöntemleri devam ettirebilmek için 
+toplumda var olan norm ve değerleri nasıl kullandıklarının bir analizini yapmasıdır. 
+Etnometodoloji ve sembolik etkileşim bu hususta iki önemli bağlantı alanı olarak karşımıza 
+çıkmaktadır. Bu bağlamdan hareketle bu çalışmada ilk olarak sembolik etkileşim kuramının 
+teorik gelişim süreci, varsayımları ve kuramcılarının sunmuş olduğu teoriler ele alınmıştır. 
+İkinci olarak etnometodolojinin tarihsel serüvenine değinilmiştir. Burada etnometodolojinin 
+genel anlamda ne olduğu, etnometodolojinin kurucusu olan Grfinkel’in çalışmalarında 
+kimlerin etkisinin bulunduğuna değinilmiştir. Üçüncü olarak etnometodolojide kullanılan 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+41 
+ 
+ 
+temel kavramların neler olduğu üzerinde durulmuştur. Dördüncü olarak hangi yöntemlerin 
+kullanıldığı ve yapılan alan çalışmalarına değinilmiştir. Son olarak etnometodolojiye karşı 
+yapılan eleştiriler ve yakınlaşmalardan söz edilerek sonuç kısmında bu çalışmanın genel bir 
+değerlendirmesi yapılmıştır. 
+1. Sembolik Etkileşim Kuramının Teorik Gelişim Süreci 
+Amerika’da siyahîlerin 1950’li yıllarda sosyal, politik ve ekonomik eşitlik talepleri 
+karşısında yapısal işlevselci teoriler yetersiz kalarak sistemde meydana gelen çatışmalarda, 
+toplumsal dengenin tekrar kurulamadığı anlaşılmış bu durum karşısında sosyoloji ile ilgili 
+tartışmalar ve eleştiriler başlamıştır. Bu yüzden sosyoloji refleksif olmalı kendi farkındalığı 
+üzerine eleştirel düşünmelidir tartışmaları hız kazanmıştır (Gouldner, 2015: 50-54). Burada 
+yapıya odaklanan sistemi açıklamaya çalışan teorilerden ziyade insan ilişkilerine odaklanan 
+mikro teorilere doğru bir geçiş meydana gelmiştir.  
+Sembolik etkileşimcilik öğretisi 20. yüzyılın başlarında George Herbert Mead’in 
+öğretilerinden yola çıkılarak oluşturulmuştur. Burada mikro ölçekli teoriler, sembolik 
+etkileşimcilik kuramı üzerinden gelişme göstermeye başlamıştır. Bu kurama göre insanlar 
+arasındaki toplumsal ilişki ve davranış biçimleri semboller aracılığıyla sağlanmakta böylece 
+insanlar arasında sosyal etkileşim sağlanmaktadır. Sembolik etkileşim kuramı da bireylerin 
+kendi aralarındaki ilişki bağlamına atıfta bulunmaktadır.  Bu doğrultuda bireylerarası 
+etkileşim sonucu doğan davranışsal değişimler bizlere bireysel ilişkiler sonucu doğan benlik 
+sunumu hakkında ipucu verebilmektedir. Sembolik etkileşim, toplumsal alanda, mikro 
+düzeyde insan davranışının etkilenme sürecinin benlik sunumları aracılığıyla ve 
+bireylerarasında karşılıklı olarak gerçekleştiğine vurgu yaparken yapısal işlevselci yaklaşımın 
+da bir eleştirisi olarak karşımıza çıkmaktadır.  Birey, davranışını sergilemeden önce 
+davranışının toplumsal izdüşümde nasıl bir tepkiyle karşılaşacağını tahmin ederek ona göre 
+davranışını şekillendirebilmektedir. Örneğin, bir çocuk gündelik hayatta annesi veya 
+öğretmeni gibi kişileri taklit edebilirken burada benlik, sosyal ve zihinsel etkileşim vasıtasıyla 
+oluşan bir sürecin ürünü olarak, bireylerin davranışlarına dair beklentilerle şekillenmektedir 
+(Ritzer, 2011: 363-364). Bu durum yapısal işlevselci kuramdan ziyade gündelik yaşamda 
+bireylerin sembolik (jest, mimik, taklit vb.) davranışlarına odaklanan sembolik etkileşim 
+kuramıyla açıklanabilmektedir.  
+Gündelik yaşamda insanın edindiği bilgiler üzerinden davranışları ile ilgili 
+araştırmalar ve çıkarımlar yapmak sembolik etkileşim kuramı açısından önem arz etmektedir. 
+“Makro olgular kendilerindeki içsel etkenlerle, mümkünse bireylerle açıklamalıdır. Ancak, 
+bireyler dışındaki mikro yapılar da inceleme sahasına dâhildir. Örneğin devlet politikalarında, 
+devletlerin stratejilerinde tercihleri ve yönelimleri olduğu gibi bireylerin de mevcut 
+konumlarında tercihleri ve duygularının etkisi vardır” (Ritzer, 2011: 132).Bu bağlamdan 
+hareketle sembolik etkileşim kuramının önemli temsilcilerinden; Mead, Blumer ve Cooley 
+gibi düşünürlerin benlik, davranış ve rol gibi insan eylemleri ile ilgili sundukları teoriler 
+aracılığıyla sembolik etkileşim kuramı ortaya çıkıp gelişme göstermiştir. Sembolik 
+etkileşimcilere göre birey, davranış kurallarına uygun davranır. Yani etkileşim ve eylemlerin 
+birbirleriyle iletişim kurmaları grupları ve toplumları oluşturur. Böylece insanlar, kendi bakış 
+açılarındaki etki ve davranışlarına döktükleri sembolleri ve anlamlarını değiştirebilmektedirler 
+(Poloma, 2007: 23-25). İşlevselcilik sunduğu pozitivist bakış açısı ile teori ve toplumsallıklar 
+arasında uçuruma sebep olmuştur. Mead, bireyin şeylere atfettiği anlamın sosyal bir süreçle 
+şekillendiğine vurgu yaparken toplumsal gerçekliği durağan olarak değil bir süreç olarak ele 
+almıştır. Çünkü insanlar ve toplumlar, tamamlanmamış süreçler içerisindedir. Bireylerin 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+42 
+ 
+ 
+gelişimi, sosyal bir süreçten geçerek oluşurken bu toplumsal ilerleme rol alma süreciyle 
+gerçekleşmektedir. Bu durumda rol alma süreci, bireyin kendini diğer bireylerin yerine 
+koyması olarak tanımlanır. Mead’de göre benlik bireyin dışarıdan kendine nesne olarak 
+bakması ve kendini ona göre düzenlemesi ile gerçekleşir. Mead benliği hem özne hem de 
+nesne olarak ele alır. Ben: eyleyen bir özne konumundadır (ferdi ben). Beni- bana: bireyin 
+başkaları için var olan bir dünyada bir nesne konumunda olmasının farkında olmasını içerir 
+(sosyal ben). Ben ve beni bananın etkileşimi eylemi oluşturmaktadır (Mead, 2017: 173-195). 
+Burada ferdi ben ve sosyal ben arasındaki etkileşim bireyin benlik sunumunda önemli bir 
+noktadır. İnsan eylemi sırasında sembollerin kullanılması sembolik etkileşimi temsil ederken 
+jestlerin konuşması veya sembolik olmayan etkileşim biçimi, canlıların jest aracılığıyla 
+eyleme geçmesi veya nesneye tepki vermesi demektir (Coser, 2008:297). Mead, insan 
+iletişiminde sembolik etkileşimin eyleme dönüşmesinin önemine vurgu yaparken eylemin 
+zihinsel oluşum sürecine de vurgu yapmaktadır.  
+Niyeti belirlemede jest, mimik, dil gibi semboller önemli aracılardır çünkü davranışın 
+niyeti eylemin yönünü belirleme açısından önemlidir. “Bir jestin onu yapan ve ona yanıt 
+veren bireyde aynı anlamı uyandırması için belirli sosyal eylemler içerisindeki bireylerde 
+benzer bir tepki uyandırması gerekmektedir. Burada toplumsal etkileşim bireylerin karşılıklı 
+jestlere yanıt verme yeteneğinin gelişmesinden kaynaklanmaktadır” (Mead, 2017: 42). Burada 
+deneyim, davranış esnasında işaret edilen anlam hakkında bilgi sahibi olmak ve karşılıklı 
+etkileşim kurmak açısından önemlidir. Bu deneyimler bireyin tepki uyandırma bilincinde olur 
+ve bu bilinç zihinde oluşur. Davranışsal süreçte meydana gelen deneyimler eylemsel etki ile 
+algıya dönüşebilmektedir. Böylece insanlar, jestleri birbirine benzer şekilde yorumladıkça 
+jestler anlamlı sembollere dönüşür. Davranışlar da rol alma ve benlik sunumu aracılığıyla 
+sosyal dünyada görünür olmakta ve meydana gelmektedir.   
+Herbert Blumer, Mead’in çalışmalarını devam ettirip geliştirerek ortaya çıkan sosyal 
+teoriyi sembolik etkileşimcilik olarak kavramsallaştırmıştır. Burada sembolik etkileşimciliği 
+açıklamak için çeşitli ilkeler öne sürmektedir; Bunlardan birincisi; bir şeye anlam verdiğimiz 
+ölçüde hareket ediyor olmamız gerekmektedir. İkincisi; Sosyal etkileşimler sonucu şeylere 
+anlam yüklemekteyiz. Aynı şeyin anlamı bireyler arasında farklılık gösterebilir. Son olarak 
+ise, bir şeye yüklediğimiz anlamların günlük karşılaşmalar ve tecrübeler sonucu 
+değişebilmektedir. Dil ve jestler en önemli semboldür. Etkileşim dil ve semboller aracılığı ile 
+sağlanmaktadır (Coser, 2006: 142-150). “İnsan eylemi tek tek bireylerin kendi yorumlama 
+süreçleri sonucunda oluşturduğu bir üründen ziyade, bireyin içinde bulunduğu koşullar 
+tarafından oluşturulan bir şeymiş gibi görülür. Oysa sembolik etkileşimcilikte, toplumun 
+kültür, sosyal sistem, sosyal sınıf ya da sosyal roller gibi yapısal özellikleri, bireyin içinde 
+eylemini oluşturduğu koşulları hazırlamakla birlikte, eylemin belirleyicileri değildir” 
+(Blumer, 1969: 140). Blumer’in sunduğu teorilerin, sosyolojide dönemin hâkim teorisi olan 
+yapısal işlevselciliğe karşı ciddi bir eleştiri olduğu aşikardır. “Yapısal işlevselcilerin tartıştığı 
+gibi, normlar bireylerin davranışlarını belirlemez. Bireyler, davranış kurallarını ya da normları 
+destekleyici bir uyumla davranırlar. Bir yapısal işlevselci, insanların içinde bulundukları 
+toplumun ürünleri olduklarını vurgular; bir sembolik etkileşimci ise, madalyonun öbür 
+yüzünü vurgulayarak, toplumsal yapının etkileşimde bulunan kişilerin etkileşimi sonucu 
+yaratıldığını iddia eder” (Polama, 2007: 228). Blumer “sembolik etkileşim” ile beraber 
+sosyolojinin toplumsal alanda temasına yeni bir boyut kazandırmıştır. Artık sosyoloji büyük 
+anlatılardan büyük resimden ziyade gündelik hayatın içine daha fazla dahil olmakta ve 
+incelemektedir. Bunlar gündelik etkinlikler ve pratikler üzerinden rol alma ve benlik 
+sunumları olarak sembolik etkileşimciliğin çıkış noktasını oluşturmaktadır. Burada toplumsal 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+43 
+ 
+ 
+aktörler arasında sembolik iletişim sürecini anlamak için benlik ve toplum ilişkisi ele alınır. 
+Bu durumda insanlar birbiriyle etkileşim halindedir ve toplum etkileşimlerden oluşmaktadır. 
+Burada benlik toplumsal süreç içerisinde oluşan toplumsal bir kurgudur. Bireyin benliği diğer 
+insanlarla etkileşim sonucu meydana gelmektedir. Sembolik etkileşimci diğer bir isim ise 
+Cooley’dir. Coley’in ayna benlik ve sempatetik içe bakış yöntemi, birincil grup kavramları ön 
+plana çıkar. Ayna Benlik, Bireyin diğer insanların davranışlarına bağlı oluşturduğu kendi 
+imgesidir. Sempatetik içe bakış yöntemi, insanların tavır ve davranışlarını, öznenin dünyasına 
+girerek grubun kullandığı sembollerin anlamını öğrenme amacı taşımaktadır (Coser, 2008: 
+147-151). Bir diğer sembolik etkileşim kuramcısı Goffman ise gündelik rutinlerden 
+bahsederken tiyatral bir dilden esinlenir ve bireylerin farklı ortamlarda duruma göre adeta bir 
+tiyatro oyuncusu gibi rol değiştirdiğini belirtir. "Bir oyuncuyla bir karakterin nitelikleri 
+arasında çok temel bir fark vardır, ancak her iki tür de devam etmekte olan gösteri açısından 
+önemlidir. Burada gündelik hayatı sergilenen bir gösteri olarak ele alır çünkü kişi ortamdaki 
+diğer kimselere, geçmiş ve gelecek hakkında şu anda verdikleri izlenimlere dayanarak 
+muamele eder. Bu noktada iletişim eylemleri ahlaki eylemlere dönüşür" (Goffman, 2016: 
+234- 235). Burada bireyin içinde bulunduğu ortamın benlik sunumunda önemli bir rol 
+oynadığı ve bireyin davranışlarına etki ettiği vurgulanmaktadır. Ayrıca “birey, ötekilerin 
+gözlerini onu gözlüyorlar mı diye kontrol edebilir. Buradaki temel varsayım, ancak karşıdaki 
+durumu algıladığında güven içinde eyleme devam edilebileceği şeklindedir” ( Goffman, 
+2016:33). Böylece kişisel deneyimler ve toplumsal tepkiler bireyin davranışının devamlılığını 
+sekteye uğratıp yön değiştirmesine neden olabilmektedir. 
+Sembolik etkileşimde insan ilişkilerindeki anlamın bağlamsal değişkenliği söz konusu 
+olabilmektedir. Burada davranışlardaki sembollerin sunduğu anlamlarönem arz etmektedir. 
+“Sembolik etkileşimcilere göre süreç kuralları oluşturur veya ayakta tutar. Bireyler davranış 
+kurallarını ya da normları destekleyici bir uyumla davranır. Yani etkileşim ve eylemlerin 
+birbirini ören örüntüleri, grupları ve toplumları oluşturur. Aynı zamanda insanlar, kendi 
+yorumlamaları üzerindeki etkileşim ve eylemde kullandıkları sembolleri ve anlamlarını 
+değiştirme yeteneğine sahiptirler” (Poloma, 2007: 23-25).  Buradan hareketle eylemlerdeki 
+etkileşim düzeyinin davranışlarda sembolik değişimlere yol açabileceği anlaşılmaktadır.  
+Parsons'a göre, "içselleştirilmiş sistem davranışlarımızı, hatta düşüncelerimizi 
+yönlendirir" (Coulon, 2015:12). Bu yüzden toplum içinde uyum gösterdiğimizi ve denge 
+halinde olduğumuzu belirtir. Ancak sembolik etkileşimde bu durumun farklılık gösterdiğine 
+şahit oluruz.  Çünkü sembolik etkileşim bireyin davranışının toplumsal yapı tarafından 
+standartlaşmasının mümkün olmadığını hatta bireyin benlik sunumunun ortamdan ortama 
+değişebildiğini ileri sürmektedir. Bu durumdan hareketle “sembolik etkileşimcilikte nesneler 
+hatta bireyler anlam yüklenen objelerdir. Yüklenen anlam da içerisinde bulunduğu topluma 
+göre değişebilen bir anlam ifade etmektedir. Örneğin inek Amerika için et anlamına gelirken, 
+Hindistan için bir kutsal anlamına gelebilmektedir. Aynı durumda genç bir adam içerisinde 
+bulunduğu gruba göre bir öğrenci bir eş ve bir babayı sembol olarak ifade edebilir” (Poloma, 
+2007: 30) buradan hareketle sembolik etkileşim, bireyin benlik sunumunun duruma ve ortama 
+göre değişebileceğine ve farklılıklara vurgu yapmaktadır.   
+2. 
+Etnometodolojinin Tarihsel Serüveni 
+Etnometodolojik hareketin temeli, Garfinkel’in çalışmalarına dayanmaktadır. 
+Garfinkel, 1950 ve 60 yılları arasında yaptığı çalışmalarla etnometodolojinin temel hatlarını 
+belirlemeye başlamıştır. Garfinkel bu çalışmaları yaparken hocası T. Parsons, 
+Schutz, 
+Aron Gurwitsch ve Edmund Husserl’den etkilenmiştir. Yani etnometodolojik hareketin 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+44 
+ 
+ 
+başlangıcı Garfinkel olarak görülse de bu serüven, Parsons’ın toplumsal düzen problemi ve 
+Schutz’un fenomenolojik çalışmalarına kadar götürülebilir. Parsons, toplumsal düzen 
+problemini ele alırken temel amacı, bu düzen problemini en derin araştırma düzeyi olarak 
+konumlandırmaktır. Ancak Garfinkel’e göre, Parsons toplumsal düzen probleminde, 
+toplumsal düzenin mevcudiyetini veri olarak ele aldığından fazla derine inemez. Şöyle ki, 
+Parsons, sosyolojik araştırmaların toplum içinde gerçekleştirilebileceği, toplumun kendi 
+üyeleri arasında bilinen ortaklaşa bir dünya olarak var olduğunu ve sosyologların onlarla bu 
+dünyayı kolayca paylaşabileceği düşüncesini sorgulama gereği duymaz (Cuff ve diğerleri, 
+2015: 175). Aynı zamanda Schutz için, insanların özneler arası bir dünyada yaşadıkları 
+duygusunu nasıl sürdürdükleri, bu dünyanın farklı bireyler için nasıl aynı olduğu, aynı 
+zamanda bu aynı dünyanın bireylerin görüş ve deneyimlerini, nasıl farklı kılabildiği temel 
+problemdir. Schutz’a göre, toplumsal dünya özneler arası bir olgudur. Bireyler, etrafındaki 
+dünyayı sahip oldukları bilgiler ışığında anlarlar. Ancak bu bilgileri her birey, kendi başına 
+değil diğer bireylerden onlarda kendilerinden öncekilerden öğrenmiştir. Bu bağlamda 
+Schutz’a göre, kişi, kendinden öncekilerden miras kalan bilgi stokuna göre hareket eder (Cuff 
+ve diğerleri, 2015: 170-171). Böylece Garfinkel, Parsons’ın toplumsal düzen problemi üzerine 
+ortaya attığı görüşleri ve Schutz’un fenomonolojideki görüşlerini geliştirerek etnometodolojik 
+hareketi başlatmıştır.  
+Garfinkel’i etnometodolojinin başat eseri olan “Etnometodolojide Araştırmalar” adlı 
+çalışmaya iten temel sebeplerden bir tanesi toplumsal olguların pratik icralar olarak 
+alınabileceği gerçeğidir. Çünkü toplumsal olgu, sabit bir nesne değildir. Aksine toplumsal 
+olgu, sıradan gündelik metotları kullanan insanların devam eden etkinlikleri sayesinde üretilen 
+bir şeydir ve Garfinkel’e göre sosyoloğun asıl görevi bunu analiz etmektir (Coulon, 2015: 23).  
+Garfinkel, sosyologların bireylerin eylemlerini gerçekleştirirken nasıl bir düzenlilikle 
+yaptıklarını analiz etmelerini ister. Çünkü Garfinkel’e göre, toplumsal yapı, bireyler 
+tarafından gerçekleştirilen bu düzenli eylemler ile oluşmaktadır. Bu düzeni hem bireyler 
+yaşamakta hem de bu düzen, bireylerin yaşaması sonucu ortaya çıkan ürünlere 
+dönüşmektedir. Bu anlamda etnometodolojide toplumsal düzen, diğer sosyolojik 
+yaklaşımlardan farklı bir anlayış olarak karşımıza çıkmaktadır. Garfinkel, ilk olarak 
+sosyolojiyi sınırlı anlam alanları olarak bilim ve sağduyusal dünya arasındaki ilişkiye uygular. 
+Böylece Garfinkel için, sosyolojinin inceleme nesnesini gündelik yaşantı dünyası oluşturur ve 
+bilimsel tutumun kullanılma biçimi araştırma konusu olarak ele alınır. Bu bağlamda hareketle 
+diyebiliriz ki Garfinkel için, sosyolojideki sistematik araştırmalar hem gündelik hayatın 
+araştırılmasıdır hem de bizzat gündelik yaşantı içerisinde gerçekleştirilir. Bu bağlamda 
+Garfinkel’e göre, etnometodolojik hareketi diğer bütün sosyoloji türlerinden ayıran şey, düzen 
+problemini yeniden konumlandırmasıdır (Garfinkel 2015). 
+2.1 
+Etnometodolojide Kullanılan Temel Kavramlar 
+Etnometodoloji, bireylerin gerçekliği kavrarken, zihinlerinde yeniden kurarken 
+sıradanlaşmış ve rutin hale gelmiş günlük ilişkilerde bile sorgulamadan, çoğunlukla da 
+bilinçsiz olarak kabul ettikleri kural, inanç ve değerleri çözümlemeyi konu edinen bir 
+disiplindir. Yani etnometodoloji, bireylerin objeleri anlama biçimlerini ve gerçekleşen olayları 
+anlamada kullandıkları yöntemleri inceler. Bu bağlamda etnometodolojide önemli olan 
+insanların toplumsal gerçeklikleri nasıl oluşturduklarını, sürdürdüklerini ve değişimi nasıl 
+sağladıklarını açıklamaya yardımcı olan kavramlar geliştirmektir (Kaşıkçı, 2017: 164). Çünkü 
+toplumun nasıl işlediğini anlamanın yolu, toplumda var olan üyelerin bakış açılarının ne 
+olduğunu anlamaktan geçmektedir. Buradan hareketle etnometodoglar, analizlerini 
+yapabilmek için çeşitli kavramlar kullanmaktadır ancak kullanılan bu kavramların bazıları 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+45 
+ 
+ 
+başka alanlardan alınmıştır bazılarına ise yeni anlamlar yüklenmiştir. Bu kavramlardan 
+birkaçına değinecek olursak; 
+a. 
+Pratik/İcra 
+Garfinkel, etnometodolojide özellikle gündelik hayattaki pratik etkinliklerle 
+ilgilenmektedir. Çünkü etnometodoloji, bireylerin gündelik eylemlerini anlamak ve 
+gerçekleştirmek için kullandıkları metotları araştırır. Bu bağlamda George Psathas’a göre 
+etnometodoloji, toplumsal pratiklerle ilgili metotları açıklamaya çalışan refleksif bir 
+toplumsal pratiktir. Sosyolojinin modeller diye adlandırdığı şey, etnometodolojide üyelerin 
+sürekli devam eden icrası olarak tanımlanmaktadır. Yani gündelik hayat içinde sürekli 
+tekrarlanarak oluşan eylemlerin bilgisine pratik denir. Garfinkel’e göre toplumsal olgular, 
+üyelerin icralarıdır. Toplumsal gerçeklik üyeler tarafından sürekli yaratılır yani önceden var 
+olan bir kendilik değildir. Bu yüzden etnometodoloji üyelerin karar verme süreçlerini, akıl 
+yürütürken başvurdukları metotları, karşılıklı konuşmalarda etkileşimi nasıl sağladıklarını 
+araştırır. Yani etnometodoloji, üyelerin kurallara göre davrandıklarını veri olarak almak 
+yerine, bu kuralları uygularken kullandıkları metotları ortaya çıkarmaya çalışır. (Coulon, 
+2015: 28-29).  Özetle söyleyecek olursak etnometodolojide önemli olan üyelerin içinde 
+yaşayabilecekleri, kabul edilebilir bir dünyayı nasıl inşa ettiklerini gözlemektir.  
+b. 
+Bağlama-gönderimlilik 
+Toplumsal hayatımızı şekillendiren en önemli araçlardan bir tanesi dildir. Bu dil ise, 
+gündelik hayatın dilidir. Gündelik hayatımızda her birey bulunmuş olduğu statü itibariyle 
+birtakım eylemlerde bulunur. Öyle ki, öğretmen soru sorar öğrenci cevap verir, kimisi 
+alışveriş yapar, kimisi emir verir, kimisi kitap yazar, kimisi toplantılar düzenler, kimisi yalan 
+söyler kimisi çok konuşur. Ama tüm bunları yaparken herkes aynı dilsel yeterliliği kullanarak 
+yapar. Bağlama gönderimlilik, dil bilimcilerce bir sözcüğün ya da cümlenin farklı 
+durumsallıklarda farklı anlamlara gelmesini ifade eder. Örneğin; “Hava soğuk” cümlesi 
+kişinin bağlama, içinde bulunduğu duruma göre farklı anlamlara gelebilir (Tatlıcan, 2011: 
+166). Entometodoglar, bu görüşlerden hareket ederek araştırmalarını genişletmişlerdir.  
+Bağlama gönderimli ifadeler, anlamlarını kullanıldıkları bağlamlardan alan “ben”, 
+“sen” gibi ifadelerdir. Bağlama gönderimlilik, sözcüklere kesin anlamlarını sadece 
+üretildikleri somut bağlamlarda kazandırırlar. Hatta etnometodoglara göre, bağlama 
+gönderimlilik bile, onların potansiyel anlamlarındaki belirsizlikleri ortadan kaldırmaz. Çünkü 
+bağlama gönderimlilik, bütün sembolik formların, kurallar, sözler, hareketler gibi yalnızca 
+icra edildiklerinde ortadan kaybolan ve adeta “tamamlanmamışlık ufku”na işaret ederler. 
+Örneğin; “vesaire” kelimesi entometodoglara göre, “gösteren” bir ifadenin tamamlayıcısıdır. 
+Garfinkel’e göre, gündelik dil, insanların anlayabileceği sıradan bir anlama sahiptir. 
+İlişkilerimizin anlaşılırlığı, bağlama gönderimli doğaları ve sözün sarf edildiği koşulların 
+bilgisine bağlıdır. Böylece Garfinkel’e göre, gündelik dilin bağlama gönderimli karakteri bir 
+kusur değil aksine, gündelik dilin temel karakteristiklerinden biridir. Bu bağlamda 
+etnometodoloji, gündelik dili nasıl kullandığımızı da araştırır (Coulon, 2015: 30-33).  
+c. 
+Refleksivite (Düşünümsellik) 
+Garfinkel’e göre toplumsal düzen, toplumda var olan üyelerin katılımıyla 
+gerçekleştirilir. Bu düşüncesini doğrulayabilmek adına öğrencileriyle beraber deneyler 
+gerçekleştiren Garfinkel, bu deneylerle gündelik hayatın her gün yeniden nasıl inşa 
+edilebildiğini açıklamaya yönelik bazı temel kavramlar ortaya atmıştır. Bunlardan biri de 
+düşünümsellik yani refleksivitedir (Slattery, 2007). Garfinkel’e göre refleksivite, toplumsal 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+46 
+ 
+ 
+düzeni sürdürmenin ve anlamanın temel koşuludur. Buradan hareketle refleksivite, bir 
+toplumsal portreyi hem betimleyen hem de inşa eden pratikleri ifade eder. Bu süreçte aktif 
+özne olarak yer alan birey, kendisinin ve diğerlerinin eylemleri üzerine düşünebilmekte bu 
+düşünceler sayesinde yapıp ettiklerini değiştirebilme ya da anlayabilme yeteneğine sahiptir. 
+Yani ehliyetli her birey refleksif bir varlıktır ve refleksivite toplumsal hayatın temel koşuludur 
+(Tatlıcan, 2011: 160). Ancak refleksivite, bilinçli olarak yapılan bir eylem değildir. Çünkü 
+insanlar, eylemlerinin refleksif karakterlerinin farkına vardıkları zaman pratik eylemlerini 
+sürdürmekte zorlanabilirler.  
+d. 
+Açıklanabilirlik 
+Garfinkel’e göre, bireylerin gündelik hayatlarında kullandıkları metotlar açıklanabilir 
+metotlar olarak analiz edilir. Etnometodoglara göre, açıklanabilirlik hem refleksifdir hem de 
+rasyoneldir. Bir etkinliğin açılanabilirliği o etkinliğin kurucu unsuru ise refleksif, bir 
+etkinliğin anlaşılabilir olması ve bulunduğu koşullar içinde betimlenip değerlendirilebilmesi 
+ise onun rasyonel olduğunu göstermektedir (Coulon, 2015: 37). Bu bağlamdan hareketle 
+denilebilir ki, toplumsal hayatın veya insan eylemlerinin açıklanabilir olduğunu söylemek, 
+onun betimlenebilir, değerlendirilebilir olduğunu söylemektir. Çünkü toplumsal hayatı, 
+görünür kılmak onu anlaşılır kılmaktır. Bu da bireyin toplumsal hayatı anlamlandırmaya 
+çalışırken kullandığı metotlar analiz edilerek gerçekleştirilebilir. Etnometodoglar, açıklama 
+pratikleriyle ilgilenirler. Yani, açıklamaların pratik eylem içinde nasıl kullanıldıklarını 
+değerlendirmeye çalışırlar. Çünkü etnometodoglar için karşılıklı konuşma analizleri 
+önemlidir. Bununla insanların açıklamalarını analiz eder, aynı zamanda bu açıklamaların 
+diğer insanlar tarafından kabul edilme ya da reddedilme biçimlerine bakarlar. Çünkü 
+etnometodoglara göre, toplumsal hayat bireylerin pratik eylemleri ve bu eylemlerde 
+kullandıkları metotlar ile inşa edilmektedir.  
+e. 
+Üye   
+Etnometodolojide üye kavramı, herkesin aklına gelen ve özellikle Personscı anlamda 
+kullanılan bir gruba ait olmayı değil, doğal dile hâkimiyet anlamına gelmektedir (Coulon, 
+2015: 40).  Garfinkel için üye kavramını kullanmak yanlıştır. Çünkü akla ilk başta kişi 
+kavramını getirmektedir. Ancak ona göre üye, sadece nefes alan ve düşünen bir kişi değil; 
+aynı zamanda yaşadığı dünyaya anlam kazandıran ve bu dünyaya uyum sağlamak için her 
+türlü aracı inşa eden metotlar kullanan bir kişidir. Bu bağlamda Garfinkel dile hâkimiyetten 
+söz eder. Daha önce de belirttiğimiz gibi entometodoloji de karşılıklı konuşma analizleri, 
+kişinin pratik icraatlarının açıklanabilirliği vs. için önemlidir. Bu bağlamda birey, yaşadığı 
+dünyaya uyum sağlama sürecini, diğer bireylerle var olan ortak dil yani doğal dil aracılığı ile 
+yapmaktadır.  
+3. 
+Etnometodolojide Yöntem ve Alan Araştırmaları 
+Garfinkel’in kullandığı etnometodolojideki “metodoloji” terimi üyelerin aylayışını 
+ifade etmektedir. Böylece Garfinkel’in sosyolojik muhakeme olarak söz ettiği üyelerin 
+metodolojileri, etnometodolojik araştırmaların temel odağı haline gelmiştir. Bu bağlamda 
+etnometodoloji, insanların aynı toplumsal hayat içinde yaşarken birbirlerini anlamakta 
+kullandıkları metotlarla ilgilenir. Ancak her toplumsal düzende üyelerin kullandığı metotlar 
+farklıdır. Garfinkel’ göre her toplum için bu metotlar, lokaldir, bir gruba özeldir ve yabancı 
+biri onlara doğrudan ulaşamaz ( Coulon, 2015: 45). Bu bağlamda etnometodoloji, üyelerin 
+gündelik hayatlarında topluma uyum sağlamalarını kolaylaştıran ya da toplumla çatışmalarına 
+neden olan metotlar üzerinde çalışır.  
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+47 
+ 
+ 
+Garfinkel, sosyolojide toplumsal aktörün refleksivitesinin ve yorumlama kapasitesinin 
+olduğunu kabul eder. Sosyolojide toplumsal aktörün gerçekleştirdiği eylemlerin anlamına 
+sadece uzman sosyologlar ulaşabilir. Çünkü aktör, gündelik eylemlerinin kaynağına dikkat 
+etmez. Mesela, orta sınıfa ait bir kişinin bu aidiyetten kaynaklı müzeye gittiğini bilmez. 
+Garfinkel bu durumu, tersine çevirir. Ona göre, toplumsal aktör, yargı gücünden yoksun 
+değildir. Aktör, gündelik etkinliklerin akışı içinde kendi eylemlerini, anlayabilir, 
+yorumlayabilir ve muhakeme edebilir. Bu bağlamda etnometodoglara göre, toplumsal 
+aktörlerin birbirlerinin eylemlerini ve yaşadıkları dünyayı anlamak için kullandıkları metotlar 
+ile uzman sosyologların kullandığı metotlar arasında bir fark yoktur (Garfinkel, 2015: 78-
+100).  Bu bağlamdan hareketle Garfinkel, gündelik hayat etkinliklerinin açıklanabilirliği ve 
+yorumlanabilirliğinde “dokümenter yorum metodu” nu da kullanır. Bu metodu Garfinkel, 
+Manneheim’den almıştır. Garfinkel’e göre, gündelik hayattaki sosyolojide eylemler sırasında 
+dokümenter yorum metodu kullanılır. Bu metod ile aktör, gündelik hayatında karşılaştığı 
+olağandışı bir durumu, gündelik hayatını anlamak için kullandığı kalıp bilgilerin içerisine var 
+olan anlamlar bağlamında yerleştirir (Uca, 2014: 112). Böylece bu metot, somut bir olgunun 
+varsayılan temel bir kalıbının dokümanı olarak ele alınır. Kalıp ise, açıklanabilir, rapor 
+edilebilir ya da betimlenebilir bir şey olduğu için bir anlama veya yorumlama sürecine işaret 
+eder (Coulon, 2015: 48). Garfinkel’göre, gündelik konuşmalarımızın ya da karşılıklı 
+ilişkilerimizin anlamsız olmaması için her zaman bir kalıp ararız. Dilin bağlama 
+gönderimliliğini telafi etmek için de kalıplara başvururuz. Çünkü dokümanter yorum metodu, 
+başkalarının eylemlerini, kalıplarının ifadeleri olarak görmemizi sağlar ve bu kalıplar da bu 
+eylemlerin neler olduğunu görmemizi olanaklı kılar. Böylece, bireyler toplumsal gerçekliği 
+görünür kalıplar inşa ederek açılayabilirler (Garfinkel, 2015: 95). 
+Etnometodolojide en önemli metotlardan biri de karşılıklı konuşma analizidir. Çünkü 
+etnometodolojinin en temel araştırma nesneleri, gündelik konuşmalar yani insanlar arasındaki 
+sözlü alışverişlerdir. Karşılıklı konuşma analizi, dilin toplumsal kullanımı içinde olduğu 
+varsayılan dil yapılarının ve dilin formel özelliklerinin araştırılmasıdır (Coulon, 2015: 54). 
+Biz karşılıklı konuşmalarımız ile ilişkilerimizi organize edebiliriz. Çünkü ilişkilerimiz 
+esnasında karşılıklı konuşmalar, açıklama gerektirmeyen ve buna rağmen bu ilişkileri 
+anlamamızı sağlayan bir düzene tabidir. Etnometodolojide sözler, konuşmanın gelişme seyrini 
+bize gösterecek ve konuşmayı anlamamızı ve konuşmaları sürdürmemizi sağlayacak biçimde 
+organize edilir. Karşılıklı konuşma analizinde konuşmalar özneler arası inşa edilir. 
+Konuşmaların bağlamının ne anlama geldiğini ya da neyi anlattığını bilmemiz için bağlama 
+gönderimliliğine hâkim olmamız gerekmektedir.  
+Etnometodoglar, gündelik hayatın sosyolojisini yaparken daha çok pratik icralarla 
+ilgilendiler. Çünkü onlara göre toplumsal olgular, nesneler değil pratik icralardır. Bu 
+bağlamda etnometodoglar, çalışmalarının merkezine sosyal problemleri yerleştirdiler. 
+Buradan hareketle etnometodolojide birçok alanda sosyolojik araştırmalar yapılmıştır. 
+Bunlardan birkaçını şöyle sıralayabiliriz:  
+- 
+Eğitim; sınıf içi etkileşim, eşitsizliğin yaratılması, derslerin testlerin, 
+danışmanlık süreçlerinin organizasyonu, öğrenci olmayı öğrenme.  
+- 
+Yargı sistemi; polislerin pratik eylemleri (polisin kriminal vakaları hakimler 
+kadar avukatlarında hukuki vakaları tespit etmek için kullandıkları pratikler betimlenmiştir), 
+mahkemeler, cezaevleri. 
+- 
+Tıp pratikleri; teşhis ve tıbbi pratikler, hastanelerde ölümün organizasyonu, 
+hastaları resmi ve informel olarak kategorileştirme (Coulon, 2015: 67-68). 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+48 
+ 
+ 
+Bunlarla beraber örgütsel araştırmalar, bilimsel araştırmalar gibi çalışılan daha birçok 
+alan vardır. Etnometodoglar, bu alan araştırmalarını yaparken örneğin eğitimde bir 
+danışmanın öğrencisiyle, yönetimle ilişkisinde hangi prosedürlere göre hareket ettiğini, hangi 
+metotları kullandığını analiz etmeye, yorumlamaya çalışmıştır. 1963’te Cicourel ve Kitsuse 
+tarafından eğitimde bir danışmanın pratik icraları analiz edilmeye çalışılmıştır. Onlara göre, 
+özellikle liselerdeki danışmanların, öğrencilerin üniversite tercihlerinin şekillenmesinde ırkçı 
+ve sosyo ekonomik önyargılar temelinde etkilidirler. Bu bağlamda etnometodolojik eğitim 
+araştırmalarında öğrencilerin geleceği açısından önemli olan bu kararların nasıl alındığı analiz 
+edilmeye çalışılmıştır (Coulon, 2015: 72).  
+4. 
+Etnometodolojiye Eleştiriler ve Yakınlaşmalar 
+Etnometodolojinin kullandığı metotlar ya da bilgiyi kullanış şeklinde ortaya koyduğu 
+radikal yapılanma yerleşik sosyolojiye bir savaş ilanı olarak görülmüştür. Amerikan Sosyoloji 
+Derneği’nin başka Coser, 1975’te etnometodolojinin Amerikan sosyolojisinin geleceğini 
+tehdit edeceğini düşünerek bir suçlamada bulunur. Coser, etnometodolojinin kısıtlı bir 
+çevreye hitap eden özel dilinin sınırları kesin hatlarla belirleme ve üye olmayanları uzak 
+tutma işlevine sahip olduğunu söyler. Aynı zamanda Coser, etnometodolojinin ilgilendiği 
+konuların önemsiz olduğunu dile getirir (Coulon, 2015: 84). Coser’a göre etnometodoloji, 
+karizmatik liderleri, müritlerini birleştiren özel bir dili olması ve sosyolojik topluluğu dikkate 
+almaması nedeniyle bir mezheptir (Coulon, 2015: 88). Bu bağlamda Zimmerman, Coser’ın 
+aslında etnometodolojiyi anlamadığını ifade eder. Etnometodoloji, Coser’ın düşüncesinin 
+aksine “inşa edici pratik” anlayışı yani toplumsal düzen problemini psikolojiye indirgemez. 
+Etnometodoloji insan etkinliklerini analiz ederek toplumsal olguların gündelik eylemlerimize 
+nasıl karıştığını araştırmaya çalışır. Bu bağlamda etnometodoloji, “fenomenolojik indirgeme” 
+olarak görülmez. Gerçekte laboratuvar deneyleri, etnografiler, alan araştırmaları çok titiz bir 
+biçimde kullanılır (Coulon, 2015: 89-90).  
+Çağdaş sosyologlardan olan Pierre Bourdieu, çalışmalarını “inşacı yapısalcılık” ya da 
+“yapısalcı inşacılık” olarak tanımlar. Bourdieu, yapısalcılık kavramı ile aktörlerden bilinç ve 
+arzularından bağımsız ve onların eylemlerini şekillendiren nesnel yapıların olduğunu ifade 
+ederken; inşacılık ile habitus olarak nitelendirdiği şeyi meydana getiren algı, düşünce, eylem 
+gibi etkinliklerin gruplar ya da sosyal sınıflar tarafından üretildiğini ifade eder (Coulon, 2015: 
+92). Ancak Grfinkel’in üye kavramı ile Bourdieu’nun habitus kavramı arasında fark vardır. 
+Garfinkelde üye, belirli bir toplumsal grubun doğal diline hâkimiyete işaret ederken; sosyal 
+sınıfların yeniden üretiminin merkezinde olan habitus, bireyin ya da bir sosyal sınıfın genel 
+karakterine işaret eder. Ancak buna rağmen Bourdieu, hem yapı ve hem de aktör kavramlarına 
+önem vererek etnometodolojiye sentezci bir şekilde yaklaşmıştır.  
+Marksizm ve etnometodoloji arasında keskin bir uyuşmazlık olması beklenirken 
+aksine Coulan’a göre, Garfinkel ve Marx’ın çalışmaları arasında ortak noktalar vardır. Bu 
+ortak noktalar içinde en önemlisi toplumun kendini sürekli yeniden inşası ile ilgiliyken diğer 
+bir önemli nokta ise bu inşanın şeyleştiğini ve Sartrecı anlamda “pratico-inerte” bir dünyaya 
+dönüşmesidir (Coulon, 2015: 93). 
+ 
+ 
+Sonuç 
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+49 
+ 
+ 
+Bu çalışmada Amerikan sosyolojisinde sembolik etkileşim kuramının ortaya çıkışını, 
+gelişimini ele alarak sembolik etkileşimcilerin yapısal işlevsel teorileriye sunmuş oldukları 
+eleştiri ve teorik yönelimi ele aldık.  
+Sembolik etkileşimciler yapısal işlevselcilerden farklı olarak sosyal yapıya 
+odaklanmayarak zihin ve benlik aracılığıyla şekillenen birey davranışının nasıl sunulduğu ve 
+bu benlik sunumunu nelerin etkilediği üzerine eğilmektedir. Burada bireylerarasında kurulan 
+ilişkiler önemlidir. Çünkü bireyin toplumsal alanda etkileşimi, tepkileri ve beklentileri bireyin 
+davranışları üzerinde etkili olmaktadır. Böylece bilimsel gündelik etkinliklerin rasyonel 
+özelliklerinin nasıl şekillendiği üzerine çeşitli teoriler sunulmuştur. Mead, Blumer ve Cooley 
+sembolik etkileşimin kavramsal olarak ana hatlarını çizerken Goffman etkileşim boyutuna 
+odaklanmaktadır. Bunun yanında etnometodoloji kuramı ise, insanların gündelik etkinliklerini 
+gerçekleştirirken ya da toplumsal düzeni inşa ederken hangi temelden hareket ettiğinin 
+ampirik bir incelemesini yapmaya çalışır. Öyle ki Garfinkel’göre, bir toplumun üyelerinin 
+gündelik hayatlarında bir bütünlük, düzenlilik, anlamlar ve toplumsal düzenle ilgili 
+etnometotları ortak bir şekilde nasıl sergileyebildiklerini ve nasıl ürettiklerini sadece 
+etnometodolojik araştırmalar bize gösterebilir. Etnometodolojide bireyin davranışları 
+doğrudan toplumsal konumu tarafından belirlenmez. Çünkü toplumsal düzen bir inşa 
+sürecidir. Ve bu inşa sürecini gerçekleştiren ise bireylerin gündelik hayatlarında 
+gerçekleştirdikleri pratik icralara ve kullandıkları metotlara bağladır.  
+Bu bağlamlardan hareketle bu makalede toplumsal inşa sürecinin etnometodoloji ve 
+sembolik etkileşimcilik kuramı ile nasıl bir soruna dönüştüğünü, etnometodolojinin ve 
+sembolik etkileşim kuramının tarihininin, ne olduğunu, temel kavram ve ilkelerinin neye 
+dayandığını, metodu nasıl kullandıklarını ve en son ne gibi eleştirilere maruz kaldığına 
+değinilmiştir. Özetle toplumsal yapı esasen önceden verili olan bir şey değildir, aynı zamanda 
+aktör ve durum arasındaki ilişki sabit de değildir. Bu yüzden toplumsal yapı, aktör ve durum 
+arasındaki sürekli devam eden ve yenilenebilir, açıklanabilir, yorumlanabilir bir icranın 
+ürünüdür.  Etnometodolojinin temel görevi ise bu kurulumun analizini yapmaktır.  
+Sonuç olarak yapı ve birey düalizmi sunan hâkim pozitivist sosyolojik paradigmanın 
+sarsıldığını ve sosyolojinin dönem dönem yeni alternatifler üretme yolunda olduğu 
+gözlemlenmektedir. 
+KAYNAKÇA 
+Berberoğlu, B. (2009). “Klasik ve Çağdaş Sosyal Teoriye Giriş: Eleştirel Bir 
+Perspektif”,  Çev: Can Cemgil, İstanbul Bilgi Üniversitesi Yay, İstanbul. 
+Blumer, H. (1969). “Symbolic İnteractionism: Perspective And Method” Berkeley: 
+University of California Press. 
+Coser, L. (2006), “Sosyolojik Çözümlemenin Tarihi”, Hazırlayanlar: Tom B. 
+Bottomore; Robert Nisbet, Çev: Mete Tuncay, Aydın Uğur, Kırmızı Yay, İstanbul. 
+Coser, L. (2008), “Sosyolojik Düşüncenin Ustaları: Tarihsel Ve Toplumsal 
+Bağlamlarında Fikirler”, Çev: Himmet Hülü, De Ki Basım Yayım, Ankara. 
+Coulon, A. (2015). “Etnometodoloji”, Çev. Ümit Tatlıcan. İstanbul: Küre Yay. 
+Fısher B. ve Strauss A. (1997). “Etkileşimcilik”, Sosyolojik Çözümlemenin Tarihi”, 
+Çev: Kurtuluş Dinçer, Editör: Tom Bottomore ve Robert Nisbet, Ayraç Yay, Ankara.  
+  
+ 
+  Cilt/Volume:2 
+ Uluslararası Sosyal Bilimler Dergisi 
+ 
+Sayı/Issue:1 
+ International Journal of Social Sciences 
+ 
+Haziran/June 2020 Yıl:2 
+ 
+50 
+ 
+ 
+Francis, D. W., Cuff, E. C., Sharrock, W. W. (2015). “Sosyolojide Perspektifler”, Çev. 
+Ümit Tatlıcan, Say Yay, İstanbul. 
+Garfinkel, H. (2015), “Etnometodolojide Araştırmalar”, Çev: Ümit Tatlıcan, Heretik 
+Yay, İstanbul. 
+George R. ve Jeffrey S. (2011) “Çağdaş Sosyoloji Kuramları Ve Klasik Kökleri”, Çev: 
+Irmak Ertuna Howison, De Ki Basım Yay, Ankara. 
+Goffman, E. (2016), “Günlük Yaşamda Benliğin Sunumu”, Metis Yay, İstanbul. 
+Gouldner, A. W. (2015), “Batı Sosyolojisinin Yaklaşan Çıkmazı”, Çev: M. Şenol, 
+Sakarya Üniversitesi Kültür Yay, Sakarya. 
+Kaşıkçı, F. (2017). “Etnometodoloji Üzerine Bir Araştırma”. Toplum Bilim Dergisi, 
+Haziran 11(21), ss. 161-168. 
+Kızılçelik S. (1996). “Sosyoloji Teorileri 3”, Saray Kitabevleri, İzmir. 
+Mead, G, H, (2017). “Zihin, Benlik Ve Toplum”, Çev: Yeşim Erdem Heretik Yay, 
+Ankara. 
+Poloma, M. (2007), “Çağdaş Sosyoloji Kuramları”, Çev: Hayriye Erbaş, EOS Yay, 
+Ankara. 
+Slattery, M. (2007). “Sosyolojide Temel Fikirler”, Çev. Ümit Tatlıcan & Gülhan 
+Demiriz. Sentez Yay, Bursa. 
+Tatlıcan, Ü. (2011). “Sosyoloji ve Sosyal Teori Yazıları”,  Sentez Yay, İstanbul.  
+Uca, O. (2014). “Düşünümsel Sosyolojide Yapı Eylem Etkileşimine Yönelik Bir 
+Örnek Olay Araştırması”. Sosyoloji Dergisi, 6, ss. 105-128. 
+Wallace R. A. ve Wolf A. (2004). “Çağdaş Sosyoloji Kuramları: Klasik Geleneğin 
+Geliştirilmesi”, Çev: Leyla Elburuz - M. Rami Ayas, Punto Yay, İzmir. 
+Wallerstain I. (1999). “Sosyal Bilimleri Düşünmemek: 19. Yüzyıl Paradigmasının 
+Sınırları”, Çev: Taylan Doğan, Avesta Yay, İstanbul. 
+ 
+ 

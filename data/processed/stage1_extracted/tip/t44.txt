@@ -1,0 +1,941 @@
+Dicle Tıp Dergisi / Dicle Med J (2021) 48 (Özel Sayı / Special Issue) : 85-92 
+Derleme / Review 
+COVID-19 ve Kardiyovasküler Hastalıklar 
+Muhammed Demir
+1, Mehmet Özbek
+2, Hakkı Şimşek
+3 
+1 Dicle Üniversitesi Tıp Fakültesi Kardiyoloji AD, Diyarbakır, Türkiye 
+Geliş: 15.09.2021; Kabul Tarihi: 29.09.2021
+Öz 
+Koronavirüs hastalığı 2019 (COVID-19), şiddetli akut solunum sendromu koronavirüs 2 (Sars-CoV-2)’nin yol açtığı bir 
+viral enfeksiyondur. İlk kez Aralık 2019'da Çin'in Wuhan şehrinde tespit edildi ve küresel bir sağlık krizine dönüştü. Bu 
+derlemede COVID-19 ile kardiyovasküler hastalıkların ilişkisi, fizyopatolojisi, klinik seyri, prognozu ve tedavi yönetimi 
+ele alındı. Pubmed, Google Scholar, Scopus, Science Direct veri tabanlarından COVID-19 ve kardiyovasküler hastalıklarla 
+ilişkili bilimsel araştırmalar derlendi. Hastalığın epidemiyolojisi, fizyopatolojisi, kardiyovasküler hastalıklarla ilişkisi, 
+klinik seyri ele alındı. COVID-19’un aritmilerden, kalp yetmezliğine kadar geniş spektrumda kalp hastalıklarıyla yakından 
+ilişkili olduğu, aynı zamanda var olan kardiyovasküler hastalıkların COVID-19’un morbidite ve mortalitesini belirgin 
+derecede artırdığı izlendi. 
+Anahtar kelimeler: Sars-CoV-2, miyokardit, hipertansiyon, aritmi, kalp yetmezliği 
+COVID-19 and Cardiovascular Diseases 
+Abstract 
+Coronavirus disease 2019 (COVID-19) is a viral infection caused by severe acute respiratory syndrome coronavirus 2 
+(Sars-CoV-2). It was first stated in December 2019 in Wuhan, China, and has turned into a global health crisis. In this 
+review, the relationship between COVID-19 and cardiovascular diseases, its pathophysiology, clinical course, prognosis 
+and treatment management were discussed. Researches related to COVID-19 and cardiovascular diseases were gathered 
+from Pubmed, Google Scholar, Scopus, Science Direct databases. The epidemiology, pathophysiology and clinical course 
+of the disease with cardiovascular diseases were discussed. It has been observed that COVID-19 is closely associated with 
+a wide spectrum of heart diseases range from arrhythmias to heart failure, additionally, it was observed that existing 
+cardiovascular diseases significantly increased the morbidity and mortality of COVID-19. 
+Keywords: Sars-CoV-2, myocarditis, hypertension, arrhythmia, heart failure. 
+DOI: 10.5798/dicletip.1004959  
+Yazışma Adresi / Correspondence: Muhammed Demir, Dicle Üniversitesi Tıp Fakültesi Kardiyoloji AD, Diyarbakır, Türkiye, e-mail: 
+drmdemirr@gmail.com
+85 
+Demir M., Özbek M., Şimşek H. 
+86 
+GİRİŞ 
+Koronavirüs hastalığı 2019 (COVID-19), şiddetli 
+akut solunum sendromu koronavirüs 2 (Sars-
+CoV-2)’nin yol açtığı bir viral enfeksiyondur1. İlk 
+kez Aralık 2019'da Çin'in Wuhan şehrinde 
+tespit edildi ve küresel bir sağlık krizine 
+dönüştü. 
+İnsanlarda 
+Sars-CoV-2 
+enfeksiyonlarının klinik spektrumu henüz tam 
+olarak anlaşılmadı, ancak yoğun bir şekilde 
+inceleniyor. COVID-19; ana klinik belirtileri, 
+hafif bir solunum sıkıntısından, ciddi akut 
+solunum sıkıntısı sendromuna (ARDS) kadar 
+değişen ve potansiyel olarak ölümcül olabilen 
+bir hastalıktır. Ayrıca, diğer solunum yolu 
+enfeksiyonlarında olduğu gibi, önceden var olan 
+kardiyovasküler hastalıklar (KVH) ve risk 
+faktörleri, COVID-19'un şiddetini artırarak, altta 
+yatan 
+kronik 
+kardiyak 
+patolojilerin 
+alevlenmesine, dekompansasyonuna ve ayrıca 
+akut 
+başlangıçlı 
+yeni 
+kardiyak 
+komplikasyonlara yol açabilir2. 
+Bu derlemede COVID-19 ile kardiyovasküler 
+hastalıkların ilişkisi, fizyopatolojisi, klinik seyri, 
+prognozu ve tedavi yönetimi ele alındı. 
+YÖNTEMLER 
+Çalışmada belirtilmiş olan anahtar kelimeler 
+kullanılarak Pubmed, Google Scholar, Scopus, 
+Science 
+Direct 
+veri 
+tabanlarında 
+arama 
+motorlarından elde edilen ulaşılabilir (ön baskı 
+aşamasında olanlar dâhil) datalar kullanıldı. 
+İngilizce olmayan, KVH ile ilişkili olmayan veya 
+kardiyak dışı konulara odaklanmış Sars-CoV-2 
+yayınları dışlandı. 
+TARTIŞMA 
+Epidemiyoloji 
+Dünya genelinde ulusların data kayıtları, 
+gözlemleri oldukça değişkenlik gösterdiği için 
+COVID-19 prevalansını net olarak belirlemek 
+oldukça zordur3. Çin verilerine göre, COVID-19 
+ile hastanelere başvuran hastaların %40'ında 
+bilinen KVH mevcuttur4. Wuhan'da COVID-19 
+ile enfekte hastaneye kabul edilen 41 hastanın 
+%15'inde hipertansiyon ve %15'inde KVH 
+mevcuttur5. 3470 COVID-19 hastasından oluşan 
+farklı ülkelerden elde edilmiş 72 çalışmanın 
+sistematik bir incelemesinde, kardiyovasküler 
+hastalık ve hipertansiyon prevalansının %8,3 ve 
+%13,3 
+olduğunu 
+bildirildi6. 
+Ayrıca 
+altı 
+araştırmayı kapsayan başka bir çalışmada, 
+COVID-19 
+hastalarında 
+hipertansiyon 
+ve 
+kardiyovasküler hastalık oranlarının sırasıyla 
+%17,1 ve %16,4 olduğu gösterilmiştir7.  
+Bu komorbiditeler hastalığın daha şiddetli 
+geçmesine neden olarak prognoz üzerinde etkili 
+olurlar7. Ciddi COVID-19 semptomları olan 
+hastaların, 
+%58'inde 
+hipertansiyon 
+(HT), 
+%25'inde KVH ve %44'ünde aritmi tespit 
+edilmiştir8. Bir meta-analizde, genel vaka-ölüm 
+oranının genelde %2,3, kritik vakalar arasında 
+ise %49 olduğu belirtildi. Bu doğrultuda, kalp 
+hastalığı öyküsü bulunan hastaların ölüm oranı 
+%10,5, hipertansiyon öyküsü bilinen hastaların 
+ölüm 
+oranı 
+%6 
+iken 
+Çin'deki 
+kohortta 
+komorbiditesi olmayan hastalarda ölüm oranı 
+%0,9 tespit edilmiştir9. 
+Klinik değerlendirme 
+COVID-19; ana klinik belirtileri, hafif bir 
+solunum sıkıntısından, ciddi akut solunum 
+sıkıntısı sendromuna (ARDS) kadar değişen ve 
+potansiyel 
+olarak 
+ölümcül 
+olabilen 
+bir 
+hastalıktır2. Hastalığın ilk veya “hafif” aşaması, 
+genellikle üst solunum yolu enfeksiyonu 
+semptomları ile ilk 7 gün içinde ortaya çıkar. 
+Anosmi, ageusia ve gastrointestinal belirtiler 
+gibi spesifik olmayan semptomlar ortaya 
+çıkabilir. Genellikle bu safhada vakaların 
+yaklaşık %80'i iyileşir2. 
+Hastalığın ikinci aşaması orta şiddetle seyreden 
+pnömoni 
+safhasıdır. 
+Hastaların 
+yaklaşık 
+%15’inde ilk semptomdan 10 gün sonra ortaya 
+çıkan 
+öksürük, 
+nefes 
+darlığı, 
+oksijen 
+Dicle Tıp Dergisi / Dicle Med J (2021) 48 (Özel Sayı / Special Issue) : 85-92 
+87 
+satürasyonlarında düşüş gibi hastalığın alt 
+solunum yollarına ulaştığını gösteren semptom 
+ve bulgular gelişir2. Laboratuvar bulguları 
+olarak C-reaktif protein (CRP), ferritin ve D-
+dimer gibi inflamasyon yükü ve protrombotik 
+süreci gösteren değerler yükselir2. Ek olarak, 
+akciğer bilgisayarlı tomografisi (BT), viral 
+pnömoni 
+gelişimini 
+gösteren 
+buzlu 
+cam 
+paterninde 
+bilateral 
+periferik 
+pulmoner 
+infiltrasyon gösterebilir. Hastaların yaklaşık 
+%5’i yüksek ateş, hipoksemi, ciddi solunum 
+sıkıntısıyla seyreden ağır pnömoni safhası olan 
+üçüncü aşamaya geçer2. Bu safha genellikle 
+ARDS’ye ilerler. Akciğer BT’de, bilateral buzlu 
+cam 
+dansitesinde 
+ve 
+multifokal 
+akciğer 
+tutulumlarda belirgin artış olur. Hastalığın son 
+safhasında viral disseminasyon, inflamatuar 
+hiperaktivite 
+neticesinde 
+sitokin 
+fırtınası 
+gelişebilir, 
+septik 
+şok 
+ve 
+multiorgan 
+yetmezliğine bağlı ölüm gelişebilir. 
+Fizyopatoloji 
+COVID-19 
+direk 
+veya 
+indirek 
+olarak 
+kardiyovasküler sistemi etkiler. COVID-19’un 
+neden olduğu akut miyokard hasarı ile 
+anjiyotensin dönüştürücü enzim-2 (ACE)-2 
+arasında bir ilişki olduğu öne sürülmüştür. ACE-
+2 
+akciğer 
+dokusunda 
+olduğu 
+gibi 
+kalp 
+dokusunda da mevcuttur10. Sars-CoV-2, kalp 
+dokusunda ACE-2 reseptörlerini tanıyarak 
+inflamatuar 
+yolakları 
+tetikleyerek 
+kardiyomiyositlere zarar verebilir. Özellikle 
+dikkat çeken konu, kardiyovasküler etkileri 
+nedeniyle COVID-19 patogenezinde yüksek 
+öneme sahip olduğu kabul edilen ACE-2'nin 
+rolüdür. ACE-2 reseptörleri aracılığıyla enfekte 
+edilen miyokard hücrelerine doğrudan zarar 
+verilmesi inflamatuar fırtınaya yol açabilir veya 
+ARDS’ye 
+yol 
+açarak 
+oksijen 
+arz 
+talep 
+dengesizliğine yol açabilir11,12. Öte yandan, 
+COVID-19 hastalarında, hastalığın gelişimi 
+sırasında sistemik inflamatuar yanıtlar ve 
+bağışıklık sistemi işlev bozukluğu sonucu 
+kardiyovasküler semptomlar sıklıkla ortaya 
+çıkar (Şekil 1). T-Helper 1 ve T-Helper 2 
+hücrelerinin aşırı uyarılmasına bağlı gelişen 
+sitokin fırtınası solunum fonksiyon bozukluğu, 
+hipoksemi, şok veya hipotansiyona neden 
+olarak COVID-19 enfeksiyonu ile miyokard 
+hasarı oluşabileceği bildirilmiştir. Bu durum 
+kalp yetmezliği, karaciğer ve böbrek hasarı, 
+ARDS, şok neticesinde çoklu organ yetmezliğine 
+yol açarak ölüme neden olabilir13. Akciğer 
+enfeksiyonlarının 
+neden 
+olduğu 
+hipoksi, 
+solunum yetmezliği, şok veya hipotansiyon tipik 
+olarak miyokarda yetersiz oksijen sunumu ile 
+sonuçlanır. Özellikle KVH öyküsü olan hasta 
+grubunda COVID-19 hastalığı boyunca kalbin iş 
+yükü artar bu durum miyokard dokusu için 
+oksijen sunumunda arz talep dengesizliğine yol 
+açar14. 
+Şekil 1. SARS-CoV-2 miyokard hasarı fizyopatolojisi 
+COVID-19 ve Kardiyovasküler Hastalıklar 
+COVID-19; miyokard hasarı, aritmiler, ani 
+kardiyak arrest, hipertansiyon, kalp yetmezliği, 
+akut koroner sendrom, miyokardit, perikardit 
+gibi geniş bir hastalık perspektifiyle karşımıza 
+çıkabilir. 
+COVID-19’un 
+ilk 
+bulgusu 
+kardiyovasküler semptomlar olabilir. COVID-19 
+hastalarının %7,3'ünün ilk semptom olarak kalp 
+çarpıntısından şikayet ettiği bildirilmiştir15. 
+Aşağıda COVID-19 ve çeşitli kalp hastalıklarının 
+ilişkisi, klinik seyri ve tedavi konularına 
+değinilmiştir. 
+Akut Miyokard Hasarı 
+Kardiyak disfonksiyon, COVID-19 hastalığının 
+yaygın görülen bir sekeli değildir. Bununla 
+birlikte, 
+önemli 
+sayıda 
+enfekte 
+hastada 
+miyokard hasarı bulgularına rastlanmış olup 
+yine de bu durum koronavirüsün kardiyak 
+Demir M., Özbek M., Şimşek H. 
+88 
+komplikasyonlarla ilk kez ilişkilendirilmesi 
+olmayacaktı. 
+Daha 
+önceki 
+SARS 
+enfeksiyonlarında hastalarda kalp yetmezliği, 
+aritmiler ve miyokard hasarına bağlı ani ölümle 
+birlikte sistolik ve diyastolik işlev bozukluğu 
+gelişmiştir16. 
+Ancak 
+Sars-CoV-2’ye 
+bağlı 
+miyokard hasarı bu virüsün atalarına göre daha 
+yaygındır. 
+COVID-19'un neden olduğu miyokard hasarının 
+altında yatan patofizyolojik mekanizmalar şu 
+ana 
+kadar 
+iyi 
+bilinmemektedir 
+ve 
+mekanizmaları daha fazla tanımlamak için daha 
+fazla çalışma yapılması gerekmektedir. Daha 
+önce tartışıldığı gibi, miyokardın hasarının Sars-
+CoV-2 virüsünün miyokart dokusunun ACE-2 
+reseptörleriyle 
+etkileşimine 
+bağlı 
+olduğu 
+bilinmektedir. Oudit ve arkadaşları, SARS-CoV 
+ve kalpteki ACE-2 arasındaki etkileşimin SARS 
+aracılı miyokard iltihabına ve hasarına katkıda 
+bulunabileceğini varsaydılar. SARS-CoV viral 
+RNA'sının, virüsün doğrudan miyosit invazyonu 
+yaptığını 
+otopsisi 
+yapılmış 
+insan 
+kalp 
+örneklerinde 
+gösterdiler. 
+Ayrıca 
+kalp 
+örneklerinde ACE-2'nin belirgin şekilde down 
+regülasyonunu ve ACE-2 proteininde azalma 
+olduğunu gösterdiler. Ayrıca, post-mortem kalp 
+dokusunda önemli 
+miyokardiyal 
+makrofaj 
+infiltrasyonunu 
+bildirdiler17. 
+ACE-2 
+down 
+regülasyonu, 
+anjiyotensin 
+1-7'nin 
+kardiyoprotektif etkilerini engelleyerek tümör 
+nekroz faktör alfa (TNFa) üretiminin artmasına 
+neden olur18. TNFa yaygın bir inflamatuar 
+sitokin olup birçok araştırmacı, inflamatuar 
+yanıtın yol açtığı miyokardiyal hasardan en 
+azından 
+kısmen 
+sorumlu 
+olabileceğini 
+göstermiştir18. TNFa'ya ek olarak, Zhao ve ark. 
+SARS virüsünün, akciğer fibrozunu indüklemek 
+için Smad yolu aracılığıyla TGF-β sinyalini nasıl 
+aktive ettiğini keşfetti. Bu aynı zamanda 
+miyokartta fibrozis gelişiminin bir yoludur ve 
+potansiyel 
+olarak 
+kardiyak 
+hasarı 
+açıklayabilir19. 
+SARS'lı 
+hastalarda 
+güçlü 
+interferon 
+aracılı 
+yanıtların 
+miyokardiyal 
+disfonksiyona katkıda bulunabileceği de öne 
+sürülmüştür20. Son olarak, önerilen başka bir 
+mekanizma, Tip 1 ve 2 yardımcı T hücrelerinin 
+aşırı sitokin yanıtıdır21. 
+Sonuç 
+olarak, 
+COVID-19 
+ile 
+SARS-CoV 
+enfeksiyonunun önemli benzerliği nedeniyle, 
+COVID-19'daki 
+olası 
+miyokard 
+hasarı 
+mekanizmaları, kardiyomiyositlere doğrudan 
+hasar, sistemik inflamasyon, miyokardiyal 
+interstisyel fibroz, interferon aracılı immün 
+yanıt, tip 1 ve 2 yardımcı T hücrelerinin neden 
+olduğu 
+sitokin 
+fırtınası, 
+koroner 
+plak 
+destabilizasyonu ve hipoksi olabilir. 
+Aritmiler 
+Sars-CoV-2 enfeksiyonunda yaklaşık %6-17 
+arasında çeşitli kardiyak aritmiler gelişir. Bu 
+aritmiler 
+ventriküler 
+aritmileri 
+(VA) 
+de 
+içermekle birlikte yoğun bakım yatışı gereken 
+hastalarda aritmi prevelansı %44’e kadar 
+yükselebilmektedir8. Klinik açıdan stabil olan 
+hastalarda aritmi olasılığı daha düşük olmakla 
+birlikte kritik hastalarda aritmi riski çok daha 
+yüksektir22. Hayatı tehdit eden VA'ler de dâhil 
+olmak üzere kardiyak aritmiler, COVID-19 
+enfeksiyonunun 
+doğrudan 
+veya 
+sistemik 
+hastalığın etkilerine bağlı veya pandemide 
+kullanılan bazı ilaçların yan etkilerine bağlı 
+gelişebilir23. 5.815 COVID-19 hastasını içeren 
+17 
+retrospektif 
+kohort 
+çalışmasının 
+metaanalizinde, kardiyak aritmi için insidansın 
+%9,3 (kardiyak arrest için %5,7) olduğunu 
+gösterilmiştir24. Başka bir çalışmada, 700 
+COVID-19 hasta arasında (ortalama yaş 50 ±18 
+yıl, %45 erkek, %71 Afrika kökenli Amerikalı, 
+%11 yoğun bakımda tedavi görüyor), 9 kalp 
+arrest, 25 atriyal fibrilasyon (AF) epizodu, 9 
+bradiaritmi ve 10 sürekli olmayan ventriküler 
+taşikardi (NSVT') izlenmiştir. Yoğun bakım 
+ünitesine kabul edilen hastalarda meydana 
+gelen aritmiler arasında kardiyak arrest (bu 
+grupta 9 kardiyak arrest olayının tamamı 
+meydana 
+gelmiştir), 
+AF 
+(yoğun 
+bakım 
+ünitesinde olmayanlara karşı OR 4,68) ve NSVT 
+(OR 8,92) yer almaktadır. Kardiyak arrestler 
+hastane içi mortalite ile ilişkilendirilmiştir25. 
+Dicle Tıp Dergisi / Dicle Med J (2021) 48 (Özel Sayı / Special Issue) : 85-92 
+89 
+Tablo 1’de COVID-19’da görülen aritmiler 
+gösterilmiştir. 
+Tablo I: COVID-19 ve Aritmiler 
+İleti Bozuklukları (Atrioventriküler tam blok, dal blokları) 
+Atrial Prematür Vuru 
+Atrial Fibrilasyon ve Flatter 
+Atrial Taşikardi 
+Supraventriküler Taşikardiler 
+Ventriküler Prematür Vuru 
+Ventriküler Taşikardiler 
+Ventriküler Polimorfik Taşikardiler 
+Ventriküler Fibrilasyon 
+Nabızsız Elektriksel Aktivite 
+Sinüs Bradiaritmileri 
+Sinüs Taşikardileri 
+Belirtildiği gibi, akut miyokardiyal hasarı olan 
+hastalarda, kardiyak aritmi prevalansı miyokart 
+hasarı olmayan hastalara göre daha yüksektir. 
+4631 COVID-19 hastasını içeren 23 çalışmanın 
+yakın tarihli bir metaanalizi, kalp hasarı ve yeni 
+ortaya çıkan aritmileri olan hastaların ciddi 
+hastalık geliştirme veya yoğun bakım ünitesine 
+yatış gerektirme riskinin daha yüksek olduğunu 
+göstermiştir (göreceli risk-RR ~13, p < 0.001) 
+(26). COVID-19 hastalığında aritmojeniteye yol 
+açan en olası nedenler Tablo 2 ve Şekil 2’de 
+özetlenmiştir. 
+Tablo II: COVID-19 aritminin olası nedenleri 
+Akut kalp kası hasarı ve enfeksiyonu (miyokardit) 
+Koroner Tromboz 
+Hipoksi 
+Sistemik inflamasyon 
+Sıvı elektrolit bozuklukları 
+Sempatik aktivasyon artışı 
+İlaç 
+etkileşimleri 
+(QT 
+uzamasına 
+yol 
+açan 
+ilaçlar; 
+hidroksiklorokin) 
+Şekil 2. COVID-19 aritmiler ve olası nedenler 
+AV Blok; Atrioventriküler blok, AF; atrium 
+fibrilasyonu, VT; ventriküler taşikardi, VF; 
+ventriküler 
+fibrilasyon, 
+NEA; 
+nabızsız 
+elektriksel aktivite, TdP; torsades de pointes, 
+AKA; ani kardiyak arrest  
+Hipertansiyon 
+Akut solunum sıkıntısı sendromu gelişen 
+COVID-19 
+hastalarında 
+en 
+sık 
+görülen 
+komorbiditelerin hipertansiyon (%27), diyabet 
+(%19) ve kardiyovasküler hastalık (%6) olduğu 
+gösterilmiştir27. Kontrolsüz kan basıncının 
+COVID-19'a yakalanma için bir risk faktörü olup 
+olmadığı veya hipertansiyonu olan hastalarda 
+kontrollü kan basıncının daha az risk faktörü 
+olup olmadığı belirsizdir. Birçok kılavuz COVID-
+19’a yakalanma riski açısından etkisiz de olsa 
+kan basıncı kontrolünün hastalığın ciddiyetini 
+önemli 
+derecede 
+azalttığını 
+belirtmiştir28. 
+COVID-19 hastalarında KVH ve hipertansiyon 
+prevalansının yüksek olduğu düşünüldüğünde 
+bu hastalarda anjiyotensin dönüştürücü enzim 
+inhibitörleri 
+(ACEi), 
+anjiyotensin 
+reseptör 
+blokerleri (ARB) tedavisinin de yaygın olduğu 
+aşikârdır. 
+Sars-CoV-2 
+virüsünün 
+akciğer 
+hücrelerine ACE-2 reseptörleri üzerinden giriş 
+yaptığı bilinmektedir. ACEi ve ARB tedavisi alan 
+hastalarda 
+ACE-2 
+reseptör 
+düzeyinin 
+yükseleceği 
+ve 
+teorik 
+olarak 
+virüsün 
+akciğerlerde daha büyük hasarlara yol açacağı 
+düşünülmektedir29. 
+Yine 
+de 
+deneysel 
+çalışmalarda 
+ACE-2’nin 
+akciğeri 
+hasardan 
+koruduğu gösterilmiştir. ACE-2; anjiyotensin 
+Demir M., Özbek M., Şimşek H. 
+90 
+2’yi 
+anjiyotensin 
+1-7 
+‘ye 
+dönüştürüp 
+anjiyotensin 2’nin inflamatuar etkisini azaltır, 
+anjiyotensin 1-7’nin antiinflamatuar etkinliğini 
+artırır. ACEi veya ARB tedavisi teorik olarak 
+böbreklerde, kalp dokusunda, akciğerlerde 
+inflamasyon yükünü anjiyotensin 2’nin etkisini 
+azaltarak 
+yapacaktır30. 
+Bu 
+nedenle, 
+ACE 
+inhibitörleri ve ARB'ler, COVID-19 hastalarında 
+meydana gelebilecek akut solunum sıkıntısı 
+sendromu, miyokardit veya akut böbrek hasarı 
+gelişme potansiyelini azaltabilir. Bu hastalarda 
+ACEi veya ARB tedavsinin faydalı mı yoksa 
+zararlı mı olacağı net olarak bilinmemektedir. 
+Avrupa 
+Kardiyoloji 
+Derneği, 
+COVID-19 
+nedeniyle ACEi veya ARB'lerle tedavinin 
+kesilmesi gerektiğine dair klinik veya bilimsel 
+kanıt 
+bulunmadığından 
+antihipertansif 
+tedavinin idamesini şiddetle tavsiye etmektedir. 
+Kalp Yetmezliği 
+Kalp yetmezliği, COVID-19 hastalarında yaygın 
+görülen hastalıklardan biridir27. Yeni ortaya 
+çıkan veya önceden var olan kalp yetmezliği 
+COVID-19 
+hastalarında 
+tedavi 
+yönetimini 
+zorlaştırır, kliniği kötüleştirir veya prognozu 
+olumsuz yönde etkiler. Bu hastaların uygun 
+yönetimi 
+için, 
+elektrokardiyografi 
+(EKG), 
+ekokardiyografi (EKO), invaziv arteryel kan 
+basıncı 
+takibi, 
+idrar 
+çıkışı 
+takibi 
+gibi 
+hemodinamik ve tanısal testlerin etkin bir 
+şekilde 
+kullanılması 
+esastır. 
+COVID-19 
+hastalığında 
+kardiyak 
+biyobelirteçlerde 
+(troponin 
+T 
+ve 
+I, 
+NT-probnp) 
+anormal 
+değişimler izlenebilir. En olası mekanizmalar 
+ACE-2 aracılığıyla oluşan miyokart hasarı, 
+miyokardit, anormal trombotik aktivite, stres 
+kardiyomyopatisi 
+ve 
+artmış 
+sempatik 
+aktivasyondur18-21. 
+Sitokin 
+fırtınası, 
+gözlemlenen 
+mekanizma 
+ve 
+sunumların 
+çoğundan sorumlu olabilir. Gerek COVID-19 
+tedavisinde kullanılan ilaçlar gerekse de kalp 
+yetmezliği 
+tedavisinde 
+kullanılan 
+ilaçların 
+etkileşiminin iyi bilinmesi lazım, ilaç-ilaç 
+etkileşimlerinin 
+optimize 
+edilmesi 
+gerekmektedir. 
+Kılavuzların 
+önerdiği 
+kalp 
+yetmezliği tedavileri, klinik açıdan engel bir 
+durum 
+yoksa 
+veya 
+tolere 
+ediliyorsa 
+kesilmemelidir. Enfeksiyonu önlemek veya 
+hastalığı 
+hafifletmek 
+için 
+spesifik 
+kalp 
+yetmezliği ilaçlarının başlatılması kanıta dayalı 
+bir uygulama değildir. 
+Akut Koroner Sendrom 
+2003 yılında 29 ülkede toplam 8096 kişiyi 
+etkileyen ve yaklaşık %9,6'lık bir ölüm oranı ile 
+bulaşıcı bir hastalık olan şiddetli akut solunum 
+sendromunda 
+(SARS) 
+da 
+akut 
+koroner 
+sendromlar 
+meydana 
+geldiği 
+kaydedildi31. 
+Covid-19'da baskın klinik belirtiler solunum 
+semptomları olsa da, Çin'deki erken vakalarda 
+miyokard hasarına dair kanıtlar tespit edildi. 
+Huang ve ark. ilk olarak, hastanede yatan SaRS-
+CoV-2 ile enfekte 41 hasta arasında %12 
+prevalans ile akut miyokard hasarı rapor 
+ettiler32. 341 hastayı (123'ü şiddetli hastalığı 
+olan, %36'sı) içeren bir çalışmada, daha hafif 
+hastalık formlarına sahip olanlara kıyasla 
+şiddetli Sars-CoV-2 enfeksiyonu olan hastalarda 
+Tn-I 
+değerlerinin 
+önemli 
+ölçüde 
+arttığı 
+görülmüştür33. 
+Sars-CoV-2 
+enfeksiyonunda 
+miyokard iskemisine bağlı akut miyokard 
+hasarının açıklayabilecek çeşitli mekanizmalar 
+önerilmiştir. 
+Sars-CoV-2 
+virüsünün 
+neden 
+olduğu proinflamatuar durum, sitokin fırtınası 
+plak instabilitesine yol açabilir, ya da akut 
+solunum 
+yetmezliğine 
+bağlı 
+gelişen 
+protrombotik 
+durum, 
+hipoksi 
+miyokart 
+iskemisini tetikleyebilir. D-dimer, interlökin-6 
+ve laktat dehidrojenaz gibi diğer inflamatuar 
+biyobelirteçlerle birlikte troponin düzeyindeki 
+artış, bunun izole miyokard hasarı olmadığını, 
+sitokin 
+fırtınası 
+ile 
+ilişkili 
+olabileceğini 
+düşündürmektedir34. Öte yandan kardiyak 
+semptomlar, 
+ekg 
+değişiklikleri, 
+EKO’da 
+segmenter duvar hareket kusuruyla karşımıza 
+çıkan bazı vakalarda viral miyokardit, stres 
+kardiyomyopatisi gibi farklı paternler de 
+izlenmiştir. 
+Bu 
+salgın 
+sırasında 
+yüksek 
+enfeksiyon bulaş riski nedeniyle koroner 
+anjiyografinin yeterince kullanılmaması, birçok 
+Dicle Tıp Dergisi / Dicle Med J (2021) 48 (Özel Sayı / Special Issue) : 85-92 
+91 
+vakada 
+kesin 
+ayırıcı 
+tanı 
+koymayı 
+zorlaştırmaktadır. Her ne kadar COVID-19 
+salgının gölgesinde de kalsa hala akut koroner 
+sendromlar en önemli morbidite ve mortalite 
+nedenidir. Akut koroner sendrom tanısıyla 
+başvuran hastalar için 7/24 perkütan koroner 
+girişim yapılan, reperfüzyon tedavisi sunan 
+hastanelere 
+transferi 
+kolaylaştırmak 
+için 
+stratejiler geliştirilmelidir. 
+SONUÇ 
+Hipertansiyon, 
+muhtemelen 
+COVID-19'da 
+ortaya çıkan hipersitokinemiye ek olarak bu 
+kronik hastalığın proinflamatuar durumundan 
+dolayı SARS-CoV-2 enfeksiyonu ile güçlü bir 
+şekilde ilişkilidir. Miyokard hasarı, önceden 
+KVH’ı olan veya olmayan hastanede yatan 
+hastalarda yaygın bir komplikasyon olup artmış 
+hastane içi mortalite ve kötü prognoz ile 
+ilişkilidir. Prognostik belirteç olarak seri 
+troponin takibi klinik açıdan önemlidir. Ek 
+olarak retrospektif çalışmalarda gösterildiği 
+üzere, 
+miyokard 
+hasarı 
+ciddi 
+ventrikül 
+disfonksiyonu, ventriküler aritmilerle ilişkili 
+olup erken teşhis ve tedavi klinik açıdan 
+elzemdir. 
+Çıkar Çatışması Beyanı: Yazarlar çıkar çatışması 
+olmadığını bildirmişlerdir. 
+Finansal Destek: Bu çalışma her hangi bir fon 
+tarafından desteklenmemiştir. 
+Declaration of ConflictingInterests: The authors 
+declare that they have no conflict of 
+interest. 
+Financial Disclosure: No financial support was 
+received. 
+KAYNAKLAR 
+1. Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR (2020
+Feb) 
+Severe 
+acute 
+respiratory 
+syndrome
+coronavirus 2 (SARS-CoV-2) and corona virus
+disease-2019 (COVID-19): the epidemic and the
+challenges. Int J Antimicrob Agents 17: 105924
+2. Wu Z, McGoogan JM. Characteristics of and
+important lessons from the coronavirus disease
+2019 (COVID-19) outbreak in China. JAMA. 2020; 
+323: 1239–42.  
+3. Li B, Yang J, Zhao F, et al. Prevalence and impact of
+cardiovascular metabolic diseases on COVID-19 in
+China. Clin Res Cardiol. 2020 May; 109: 531–8.
+4. Story AN. Cancer, CVD patients more likely to
+contract COVID-19, experience adverse outcomes;
+2020.
+5. Zhou P, Yang X, Wang X, et al. A pneumonia
+outbreak associated with a new coronavirus of
+probable bat origin. Nature. 2020; 579 (7798):270–
+3.
+6. Luo W, Yu H, Gou J, et al. Clinical pathology of
+critical patient with novel coronavirus pneumonia
+(COVID-19). Preprints. 2020; 2020: 2020020407.
+7. Li B, Yang J, Zhao F, et al. Prevalence and impact of
+cardiovascular metabolic diseases on COVID-19 in
+China. Clin Res Cardiol. 2020 May; 109: 531–8.
+8. Wang D, Hu B, Hu C, et al. Clinical characteristics
+of 138 hospitalized patients with 2019 novel
+coronavirus–infected pneumonia in Wuhan, China.
+Jama. 2020 Feb; 323: 1061–9.
+9. Novel CPERE. The epidemiological characteristics
+of an outbreak of 2019 novel coronavirus diseases
+(COVID-19) in China. Zhonghua Liu Xing Bing Xue Za 
+Zhi= Zhonghua Liuxingbingxue Zazhi. 2020; 41: 145.
+10. Chen L, Li X, Chen M, et al. The ACE2 expression
+in human heart indicates new potential mechanism
+of heart injury among patients infected with SARS-
+CoV-2. Cardiovasc Res. 2020 May;116: 1097–1100.
+11. Khan IH, Zahra SA, Zaim S, et al. At the heart of
+COVID-19. J Card Surg. 2020 Jun; 35: 1287–94.
+12. Tan ZC, Fu LH, Wang DD, et al. Cardiac
+manifestations 
+of 
+patients 
+with 
+COVID-19
+pneumonia 
+and 
+related 
+treatment
+recommendations. Zhonghua Xin Xue Guan Bing Za
+Zhi. 2020 Mar 2; 48: E005.
+13. Zaim S, Chong JH, Sankaranarayanan V, et al.
+COVID-19 and multiorgan response. Curr Probl
+Cardiol. 2020 Aug; 45: 100618.
+14. Wei ZY, Qian HY. Myocardial injury in patients
+with COVID-19 pneumonia. Zhonghua Xin Xue Guan
+Bing Za Zhi. 2020 Mar 2;48: E006.
+Demir M., Özbek M., Şimşek H. 
+92 
+15. Kui L, Fang -Y-Y, Deng Y, et al. Clinical
+characteristics of novel coronavirus cases in tertiary
+hospitals in Hubei Province. Chin Med J. 2020 May;
+133: 1025–31.
+16. Li S.S., Cheng C.W., Fu C.L., et al. Left ventricular
+performance 
+in 
+patients 
+with 
+severe 
+acute
+respiratory syndrome: a 30-day echocardiographic
+follow-up study. Circulation. 2003; 108: 1798–803
+17. Oudit G.Y., Kassiri Z., Jiang C., Liu P.P., Poutanen
+S.M., Penninger J.M., et al. SARS-coronavirus
+modulation of myocardial ACE2 expression and
+inflammation in patients with SARS. Eur. J. Clin.
+Investig. 2009;39:618–625
+18. Crackower M.A., Sarao R., Oudit G.Y., Yagil C.,
+Kozieradzki I., Scanga S.E et al. Angiotensin-
+converting enz me 2 is an essential regulator of heart
+function. Nature. 2002; 417: 822–8.
+19. Zhao X., Nicholls J.M., Chen Y.-G. Severe acute
+respiratory 
+syndrome-associated 
+coronavirus
+nucleocapsid protein interacts with Smad3 and
+modulates transforming growth factor-β signaling. J.
+Biol. Chem. 2008; 283: 3272–80.
+20. Cameron M.J., Ran L., Xu L., et al. Interferon-
+mediated 
+immunopathological 
+events 
+are
+associated with atypical innate and adaptive
+immune responses in patients with severe acute
+respiratory syndrome. J. Virol. 2007;81: 8692–706.
+21. Wong C.K., Lam C.W., Wu A.K., et al. Plasma
+inflammatory cytokines and chemokines in severe
+acute respiratory syndrome. Clin. Exp. Immunol.
+2004; 136: 95–103.
+22. Sala S, Peretto G, De Luca G, et al. Low prevalence
+of arrhythmias in clinically stable COVID-19
+patients. Pacing Clin Electrophysiol 2020 Jun 16
+Online ahead of print. doi: 10.1111/pace.13987.
+23. Naksuk N, Lazar S, Peeraphatdit TB. Cardiac
+safety of off-label COVID-19 drug therapy: a review
+and proposed monitoring protocol. Eur Heart J
+Acute Cardiovasc Care 2020; 9: 215–21.
+24. Kunutsor SK, Laukkanen JA. Cardiovascular
+complications in COVID-19: a systematic review and
+meta-analysis. J Infect 2020; 81: e139–ee41.
+25. Bhatla A, Mayer MM, Adusumalli S, et al. COVID-
+19 and cardiac arrhythmias. Heart Rhythm 2020 Jun
+20 S1547-5271(20) 30594- 4Online ahead of print. 
+doi: 10.1016/j.hrthm.2020.06.016. 
+26. Li X, Pan X, Li Y, et al. Cardiac injury associated
+with severe disease or ICU admission and death in
+hospitalized patients with COVID-19: a meta-
+analysis and systematic review. Crit Care 2020; 24:
+468.
+27. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S,et al. Risk
+factors associated with acute respiratory distress
+syndrome and death in patients with coronavirus
+disease 2019 pneumonia in Wuhan, China. JAMA
+Intern Med 2020, published online 13 March.
+28. HFSA/ACC/AHA Statement Addresses Concerns
+Re: 
+Using 
+RAAS 
+Antagonists 
+in 
+COVID19.
+https://professional.heart.org/professional/Scienc
+eNews/UCM_505836_HFSAACCAHA-statement-
+addresses-concerns-re-using-RAAS-antagonists-in-
+COVID-19.jsp. Accessed 29 March 2020.
+29. Ferrario CM, Jessup J, Chappell MC, et al. Effect of
+angiotensin-converting enzyme inhibition and
+angiotensin II receptor blockers on cardiac
+angiotensin-converting enzyme 2. Circulation 2005;
+111: 2605–10.
+30. Phadke M, Saunik S. Rapid response: use of
+angiotensin receptor blockers such as Telmisartan,
+Losartsan in nCoV Wuhan Corona Virus infections—
+novel mode of treatment. Response to the emerging
+novel coronavirus outbreak. Br Med J 2020; 368:
+m406.
+31. WHO. Summary of Probable SARS Cases with
+Onset of Illness from 1 November 2002 to 31 July
+2003.
+https://www.who.int/csr/sars/country/table2004
+_04_21/en/ (accessed on 16 April 2020).
+32. Huang C.; Wang Y.; Li X.; et al. Clinical features of
+patients infected with 2019 novel coronavirus in
+Wuhan, China. Lancet 2020, 395, 497–506.
+33. Lippi G.; Lavie C.J.; Sanchis-Gomar F. Cardiac
+troponin I in patients with coronavirus disease 2019
+(COVID-19): Evidence from a meta-analysis. Prog.
+Cardiovasc. Dis. 2020.
+34. Clerkin K.J.; Fried J.A.; Raikhelkar J.; et al.
+Coronavirus 
+disease 
+2019 
+(COVID-19) 
+and
+cardiovascular disease. Circulation 2020.

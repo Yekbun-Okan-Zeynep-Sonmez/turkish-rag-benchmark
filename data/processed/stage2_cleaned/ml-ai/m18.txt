@@ -1,0 +1,802 @@
+4th International Conference on Recent Academic Studies
+
+March 04-05, 2025: Konya, Turkey
+
+https://as-proceeding.com/index.php/icras/home © 2025 Published by All Sciences
+Academy
+
+1
+
+CNN ve ViT Modellerinde Farklı Aktivasyon Fonksiyonlarının CIFAR-10
+Sınıflandırma Performansına Etkisi Ahmet AKKAYA1* ve Cemil KÖZKURT 2
+
+1 Bilgisayar Teknolojileri / Gönen Meslek Yüksekokulu, Bandırma Onyedi Eylül
+Üniversitesi, Türkiye 2 Bilgisayar Mühendisliği /Mühendislik ve Doğa Bilimleri
+Fakültesi, Bandırma Onyedi Eylül Üniversitesi, Türkiye
+
+*(aakkaya@bandirma.edu.tr) Sorumlu yazarın mail adresi
+
+Özet – Bu çalışmada, Evrişimsel Sinir Ağları (Convolutional Neural Network –
+CNN) ve Görüntü Dönüştürücü (Vision Transformer – ViT) modellerinin ReLU, LReLU,
+ELU, GELU ve Mish gibi popüler aktivasyon fonksiyonlarıyla CIFAR-10 veri seti
+üzerinde gösterdiği performans karşılaştırılmaktadır. Araştırmanın temel amacı,
+CNN ve ViT modellerinin farklı aktivasyon fonksiyonları kullanılarak sinir ağı
+eğitim ve doğrulama aşamalarındaki etkilerini inceleyerek kullanılan aktivasyon
+fonksiyonlarının modeller üzerindeki performanslarını çeşitli metriklerle
+değerlendirmektir. Yapılan deneysel çalışmalarda her aktivasyon fonksiyonu için
+CNN ve ViT modelleri, 30 epok ve 5 ayrı çalıştırma ile eğitilmiş ve test
+edilmiştir. Eğitim sürecinde elde edilen eğitim doğruluğu (train accuracy),
+eğitim kaybı (train loss), doğrulama doğruluğu (validation accuracy) ve
+doğrulama kaybı (validation loss) metriklerinin ortalama değerleri analiz
+edilerek aktivasyon fonksiyonları ve kullanılan model arasında performans
+karşılaştırması yapılmıştır. Elde edilen sonuçlar, CNN modelinde LReLU
+aktivasyon fonksiyonunun en yüksek eğitim doğruluğunu (%86.36) sağladığını,
+ancak doğrulama doğruluğunun (%69.31) diğer fonksiyonlara göre daha dengesiz
+olduğunu göstermektedir. Diğer yandan, ELU aktivasyon fonksiyonu, CNN modeli
+için doğrulama kaybını minimize ederek daha kararlı bir performans sunmuştur.
+ViT modelinde ise ELU aktivasyon fonksiyonunun en yüksek doğrulama doğruluğunu
+(%63.45) sağladığı gözlemlenmiştir. Eğitim ve doğrulama kayıpları açısından, CNN
+modelinde LReLU’nun düşük eğitim kaybı sağladığı ancak doğrulama kaybının yüksek
+olduğu görülmüştür. ViT modelinde ise GELU ve Mish aktivasyon fonksiyonlarının
+eğitim ve doğrulama kaybını belirgin şekilde azalttığı tespit edilmiştir. Genel
+olarak, CNN ve ViT modellerinin farklı aktivasyon fonksiyonlarına karşı
+duyarlılığı değişkenlik göstermekte olup, uygulama alanına göre en uygun
+fonksiyonun seçilmesi performansı önemli ölçüde etkilediği sonucuna
+ulaşılmıştır.
+
+Anahtar Kelimeler – CNN,Vit, CIFAR-10, Karşılaştırma, ReLU, LReLU, ELU, GELU,
+Mish I. GİRİŞ Günümüzde bilgisayarla görme, doğal dil işleme ve ses tanıma gibi
+birçok alanda derin öğrenmenin ilerlemeler kaydettiği görülmektedir. Özellikle,
+Evrişimsel Sinir Ağları’nın (Convolutional Neural Network – CNN) görüntü işleme
+alanında popüler olarak kullanılan bir yöntem olduğu görünmektedir. CNN'ler,
+yerel özellikleri öğrenme [1] ve uzamsal bağıntıları koruma yetenekleri [2]
+sayesinde çeşitli görüntü sınıflandırma [3] ve nesne tespiti [4] görevlerinde
+oldukça başarılı sonuçlar elde etmektedir. Bu başarılı sonuçlara rağmen
+CNN'lerin sınırlı alansal farkındalığı ve büyük veri kümelerinde genel
+performansının artışı için daha derin ve karmaşık yapılara ihtiyaç duyması,
+araştırmacıları alternatif yaklaşımlar kullanmaya yöneltmektedir. Bu nedenle son
+yıllarda Transformer tabanlı modellerin yüksek başarımdan dolayı kullanımının
+arttığı görünmektedir. Özellikle Doğal Dil İşleme (Natural Language
+
+2
+
+Processing – NLP) alanında Transformer modelleri büyük ilgi görmektedir [5]. Bu
+duruma paralel olarak görüntü işleme alanında da Transformer yapılarının
+kullanımı giderek artmaktadır [6]. Transformer tabanlı bir model olan Görüntü
+Dönüştürücü (Vision Transformer – ViT), görüntüleri küçük parçalara bölerek
+bunları sıralı bir giriş olarak ele almaktadır. ViT modelleri, kendine dikkat
+(self-attention) olarak isimlendirilen mekanizması sayesinde küresel ilişkileri
+öğrenebilmektedir. ViT modelleri, yeterli veri ve hesaplama gücü sağlandığında
+CNN'lere alternatif olarak yüksek doğrulukta sonuçlar verebilmektedir [7].
+Literatür incelendiğinde CNN ve ViT modelleri kullanılarak çeşitli çalışmalar
+yapıldığı görünmektedir. CNN'lerin temelini atan ilk derin öğrenme modeli LeNet
+olarak karşımıza çıkmaktadır. Bu model MNIST veri seti üzerinde oldukça başarılı
+sonuçlar elde etmektedir. Özellikle el yazısı tanıma için geliştirilen modelde
+konvolüsyonel katmanlar, subsampling (max pooling) katmanları ve fully connected
+katmanları bulunmaktadır. Bu yapı, görsel özellikleri öğrenme ve sınıflandırma
+için etkili bir yöntem olarak kabul edilmektedir [8]. Diğer önemli model ise,
+görsel tanıma alanında devrim yaratan AlexNet modelidir. ImageNet yarışmasında
+birincilik kazanan bu model, derin CNN'lerin büyük veri setlerinde üstün
+performans gösterebileceğini ortaya koymuştur. 8 katmanlı yapısıyla, büyük veri
+setleri üzerinde eğitim yapabilen ve GPU'lar kullanarak hızlı işlem yapabilme
+gibi özellikleri bulunmaktadır [9]. Bir başka model ise, derin ağların öğrenme
+yeteneğini artırmak için residual (kalan) bağlantıları kullanarak derin ağların
+eğitiminde karşılaşılan zorlukları aşmak için tasarlanmış olan ResNet modelidir.
+ResNet modelinde, kalan bağlantılar ağın daha derin katmanlarla eğitilebilmesini
+sağlamaktadır. Bu durum modelin daha iyi genelleştirmesini ve daha derin
+yapıların öğrenilmesini mümkün kılmaktadır [10]. Bir diğer model ise, modelin
+verimliliğini artırarak daha az parametreyle yüksek doğruluk elde etmeyi
+amaçlayan EfficientNet modelidir. Bu model, derinlik, genişlik ve çözünürlük
+arasındaki dengeyi optimize ederek, daha verimli bir şekilde ve daha yüksek
+doğruluk elde etmeyi amaçlamaktadır [11]. Diğer model görsel görevler için
+Transformer mimarisini ilk kez uygulayan Vision Transformer model olmaktadır. Bu
+model, görsel bilgileri işlemeyi dil işleme görevlerinden uyarlayarak başarılı
+sonuçlar elde etmektedir. Bu modelde görseller küçük parçalara (patch) bölünür
+ve bu parçalar birer kelime gibi işlenir. Her patch, bir embeding vektörüne
+dönüştürülür ve Transformer mimarisi ile işlenmektedir [12]. DeiT
+(Data-efficient Image Transformer), ViT'in veri verimliliğini artırmak için
+Facebook AI tarafından geliştirilen bir versiyondur [13]. Özellikle daha küçük
+veri setlerinde ViT modelinin başarılı olmasını sağlamak için distilasyon
+teknikleri kullanılmıştır. DeiT, eğitimde daha az veri kullanarak ViT'in
+performansını artırmayı hedeflemekte ve distilasyon sayesinde daha hızlı ve
+etkili bir öğrenme sağlamaktadır [14]. Swin Dönüştürücü (Swin Transformer –
+Swin-T), Transformer mimarisini daha verimli hale getiren bir modeldir. Görsel
+verilerin işlenmesinde, hiyerarşik bir yapıya sahip olup, daha verimli özellik
+çıkarımı sağlamaktadır. Swin-T, "shifted window" (kaydırılmış pencere)
+yaklaşımını kullanarak, daha büyük görsel bağlamları öğrenirken hesaplama
+verimliliğini artırmaktadır [15]. Araştırma kapsamında yapılan çalışmada
+kullanılan CNN ve ViT model arasındaki temel farkları mimari farklar, veri
+gereksinimleri, eğitim süresi ve genelleme yeteneği kriterleri bakımından
+şöyledir. Mimari farklar açısından, CNN'ler görsel verileri öğrenmek için
+konvolüsyonel katmanlar kullanırken, Vision Transformer'lar görsel veriyi küçük
+parçalara ayırıp, her birini Transformer yapısına geçirerek işlemektedir. Veri
+gereksinimleri açısından ViT özellikle büyük veri setlerinde üstün performans
+gösterirken, CNN'ler genellikle daha küçük veri setlerinde daha hızlı ve etkili
+çalışmaktadır. Eğitim süresi açısından, ViT daha uzun eğitim süreleri
+gerektirebilir ve büyük veri setlerine ihtiyaç duyabilir, bu nedenle GPU
+kullanımı önemli olmaktadır. CNN'ler ise genellikle daha hızlı eğitim sürelerine
+sahip olmaktadır. Genelleme yeteneği açısından, ViT global bağlamı öğrenme
+yeteneği sayesinde geniş kapsamlı verileri daha iyi genelleyebilirken, CNN'ler
+yerel özellikleri daha iyi çıkarma eğiliminde olmaktadır. Bu çalışmada LReLU,
+ReLU, ELU, GELU ve Mish aktivasyon fonksiyonları kullanılmıştır.
+
+3
+
+LReLU fonksiyonunun genel özelliği negatif girişler için küçük bir eğim
+içermesidir. Klasik ReLU'nun negatif bölgedeki sıfır değerini kırmak için
+kullanılmaktadır. ReLU’nun girişin negatif bölgesindeki "dying ReLU" problemini
+azalttığı için tercih edilmektedir. LReLU aktivasyon fonksiyonu retinopati
+hastalığının tespiti ve sınıflandırılmasında [16], Elektroensefalogram artefakt
+giderme çalışmalarında [17], insan etkinliği tanımlama çalışmalarında [18] ve
+başka birçok alanda kullanılmaktadır. Leaky ReLU fonksiyonunun matematiksel
+ifadesi Denklem 1 ile verilmiştir.
+
+𝑓(𝑥) = { 𝑥 𝑒ğ𝑒𝑟 𝑥> 0 𝛼𝑥 𝑒ğ𝑒𝑟 𝑥≤0
+
+(1)
+
+ReLU, doğrusal olmayan aktivasyon fonksiyonları arasında en yaygın kullanılan
+fonksiyondur. Bu aktivasyon fonksiyonunun özelliği giriş değeri negatifse çıkışı
+sıfır, pozitifse girişin kendisini döndürmektedir. Negatif girişlerin
+sıfırlanması, ağın hesaplama verimliliğini artırırken bazı nöronların "ölmesine"
+(dead neurons) yol açabilmektedir. Yüz maskesi algılamada [19], karışımların
+havuz kaynamasında kabarcık çıkış çapının tahmininde [20], parkinson hastalığı
+ve COVID-19 tanısını iyileştirmek için [21] ve başka birçok alanda
+kullanılmaktadır. Matematiksel denklemi Denklem 2 ile verilmiştir.
+
+𝑓(𝑥) = 𝑚𝑎𝑥(0, 𝑥)
+
+(2)
+
+ELU, negatif girişlerde üssel bir eğri kullanarak doğrusal olmayan bir
+karakteristik sağlamaktadır. Genellikle ReLU'ya kıyasla daha iyi öğrenme
+dinamikleri sunmaktadır. Pozitif girişler için ReLU gibi doğrusal davranırken,
+negatif girişlerde üssel bir fonksiyon kullanmaktadır. Görüntü sınıflandırma
+modellerinde [22], optik bilgili sinir ağlarında [23], ses tekrarı saldırısı
+algılamak için [24] ve başka birçok alanda kullanılmaktadır. Matematiksel
+denklemi Denklem 3 ile verilmiştir.
+
+𝑓(𝑥) = { 𝑥 𝑒ğ𝑒𝑟 𝑥> 0 𝛼(𝑒𝑥−1) 𝑒ğ𝑒𝑟 𝑥≤0
+
+(3)
+
+GELU, Gauss Hata Doğrusal Birimi, aktivasyon fonksiyonudur ve özellikle
+Transformer tabanlı modellerde sıkça kullanılmaktadır. GELU, bir giriş değerinin
+belirli bir olasılıkla iletilmesini sağlayan doğrusal olmayan bir aktivasyon
+fonksiyonudur. Standart ReLU gibi sert eşikleme yapmamakla birlikte sigmoid
+tabanlı bir ağırlıklandırma uygulamaktadır. Yatak arıza sınıflandırmasında [25],
+borsa endeksi tahmininde [26], beyin tümörü sınıflandırmasında [27] ve başka
+birçok alanda kullanılmaktadır. Matematiksel denklemi Denklem 4 ile verilmiştir.
+
+𝐺𝐸𝐿𝑈(𝑥) = 𝑥⋅𝛷(𝑥)
+
+(4)
+
+Mish, 2019 yılında Diganta Misra tarafından önerilen bir nonmonotonik aktivasyon
+fonksiyonudur [28]. Swish ve GELU'ya benzer şekilde yumuşak ve sürekli
+türevlenebilir bir fonksiyondur. Tıbbi görüntü segmentasyonunda [29], yapay zeka
+saldırılarının tespitinde [30], güç elektroniği uygulamalarında [31] ve başka
+birçok alanda kullanılmaktadır. Matematiksel olarak Mish, Denklem 5 ile
+verilmiştir. 𝑀𝑖𝑠ℎ(𝑥) = 𝑥⋅𝑡𝑎𝑛ℎ(𝑠𝑜𝑓𝑡𝑝𝑙𝑢𝑠(𝑥))
+
+(5) Burada kullanılan softplus fonksiyonu Denklem 6 ile verilmiştir. 𝑠𝑜𝑓𝑡𝑝𝑙𝑢𝑠(𝑥)
+= 𝑙𝑛(1 + 𝑒𝑥)
+
+(6) Araştırma kapsamında yapılan çalışmada, CIFAR-10 veri seti kullanılarak CNN
+ve ViT modellerinin performansları karşılaştırılmaktadır. Karşılaştırma
+işleminde farklı aktivasyon fonksiyonlarının (LReLU, ReLU, ELU, GELU ve Mish)
+etkisi analiz edilmektedir.
+
+4
+
+II. MATERYAL VE YÖNTEM Araştırma kapsamında gerçekleştirilen deneysel çalışmada
+CIFAR-10 veri seti kullanılmıştır. CIFAR10 veri seti, her biri 32x32 boyutunda
+olan 60.000 renkli görüntüden oluşan bir veri setidir. Bu veri setinde uçak,
+araba, kuş, kedi, geyik, köpek, kurbağa, at, gemi, kamyon olmak üzere 10 sınıf
+bulunmaktadır. 10 sınıfın her biri 6.000 adet görüntü içermektedir. Yapılan
+deneysel çalışmalarda eğitim için 50.000 adet, test için 10.000 adet görüntü
+kullanılmaktadır. Deneysel çalışmalarda CNN ve ViT modelleri kullanılmıştır. Bu
+modeller LReLU, ReLU, ELU, GELU ve Mish aktivasyon fonksiyonları kullanılarak 30
+epok ve 5 çalıştırma için eğitim doğruluğu, doğrulama doğruluğu, eğitim kaybı ve
+doğrulama kaybı değerleri hesaplanarak CIFAR-10 veri seti üzerindeki
+performansları karşılaştırılmıştır. III. DENEYSEL ÇALIŞMALAR Bu bölümde CNN ve
+ViT modellerinde LReLU, ReLU, ELU, GELU ve Mish aktivasyon fonksiyonları
+kullanılarak 30 epok ve 5 çalıştırma sonucunda elde edilen eğitim doğruluğu,
+doğrulama doğruluğu, eğitim kaybı ve doğrulama kaybı değerleri tablolarla
+sunulmuş daha sonra her bir aktivasyon fonksiyonu için görselleştirilme
+sağlanmıştır. A. CNN modelinde ReLU AF Performansı Tablo 1 ile CNN modelin ReLU
+AF performansı verilmiştir.
+
+Tablo 1: CNN modelin ReLU AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.2701
+1.9889 0.4412 1.5535 2 0.4576 1.5053 0.5022 1.396 3 0.5089 1.3833 0.5216 1.3427
+4 0.5338 1.3181 0.5561 1.2653 5 0.5608 1.2473 0.5675 1.2171 6 0.5763 1.2042
+0.5752 1.203 7 0.5968 1.1553 0.5901 1.1629 8 0.6151 1.1124 0.605 1.1327 9 0.627
+1.0745 0.6197 1.0796 10 0.6427 1.0349 0.6315 1.0531 11 0.6467 1.0201 0.6338
+1.0473 12 0.6554 0.9998 0.6474 1.0198 13 0.6617 0.975 0.66 0.9823 14 0.6746
+0.9488 0.657 0.985 15 0.684 0.9197 0.6639 0.9701 16 0.6851 0.914 0.6708 0.9469
+17 0.6891 0.9012 0.6734 0.9418 18 0.6986 0.8733 0.6712 0.9432 19 0.707 0.8554
+0.6788 0.9324 20 0.7116 0.8415 0.6846 0.9339 21 0.7151 0.8248 0.69 0.8967 22
+0.7212 0.8145 0.6972 0.8883
+
+5
+
+23 0.7218 0.8137 0.6923 0.9022 24 0.73 0.7838 0.695 0.8843 25 0.7346 0.7703
+0.7021 0.8693 26 0.7364 0.7675 0.6934 0.8937 27 0.7447 0.7456 0.6931 0.8979 28
+0.745 0.737 0.6954 0.8859 29 0.7503 0.721 0.7128 0.8474 30 0.7544 0.7168 0.7124
+0.8457
+
+Tablo 1 incelendiğinde CNN modelinde ReLU AF performansı görünmektedir. Eğitim
+doğruluğu %27 ile başlayıp %75 seviyesine kadar çıkmaktadır. Bu durum, modelin
+eğitim setinde iyi bir şekilde öğrenme gerçekleştirdiğini göstermektedir. Eğitim
+kaybı, 1.98’den 0.71 seviyesine kadar düşerek modelin hatalarının azaldığını
+göstermektedir. Doğrulama doğruluğu %44 seviyesinden başlayarak %71’e kadar
+yükselmektedir. Ancak, 22. epok sonrasında belirgin bir ilerleme
+kaydedilmemektedir. Doğrulama kaybı ise başlangıçta 1.55 olup zamanla 0.84
+seviyelerine düşmektedir. Bu, modelin genelleştirme performansının geliştiğini
+göstermektedir. 22. epok civarında eğitim doğruluğu ile doğrulama doğruluğu
+arasındaki fark açılmaya başlamaktadır. Eğitim doğruluğu %75'e ulaşırken,
+doğrulama doğruluğu %71’de kalmaktadır. Bu durum, modelin eğitim verisini
+ezberlemeye başladığını ve aşırı öğrenme ihtimali olduğunu göstermektedir. Şekil
+1 ile CNN model için ReLU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli verilmiştir.
+
+Şekil 1: CNN model için ReLU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli
+
+B. CNN modelinde LReLU Performansı Tablo 2 ile CNN modelin LReLU AF performansı
+verilmiştir.
+
+6
+
+Tablo 2: CNN modelinde LReLU performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.36414
+1.72142 0.56218 1.22218 2 0.59404 1.1475 0.62838 1.06334 3 0.6638 0.95926
+0.65998 0.97666 4 0.70566 0.83784 0.69238 0.88092 5 0.74078 0.74156 0.6979
+0.88124 6 0.76842 0.66176 0.70128 0.87574 7 0.79018 0.59816 0.71574 0.8567 8
+0.81276 0.53292 0.71988 0.8674 9 0.83272 0.47258 0.71162 0.91852 10 0.85266
+0.4202 0.71348 0.95576 11 0.86984 0.3707 0.71164 0.99682 12 0.88376 0.32878
+0.70468 1.07928 13 0.89706 0.29186 0.70566 1.13318 14 0.90822 0.25902 0.70798
+1.1841 15 0.9192 0.2283 0.70564 1.25136 16 0.92868 0.20044 0.70086 1.37198 17
+0.93504 0.18504 0.70274 1.42948 18 0.94038 0.16844 0.70146 1.54062 19 0.94408
+0.15844 0.70412 1.57576 20 0.94918 0.14256 0.69774 1.66714 21 0.95276 0.13408
+0.6974 1.71594 22 0.95474 0.1279 0.69752 1.77746 23 0.95844 0.1192 0.69568
+1.85818 24 0.95912 0.11624 0.6963 1.93874 25 0.96144 0.1103 0.69436 2.0181 26
+0.96044 0.1132 0.69488 2.0664 27 0.96322 0.1042 0.69254 2.11524 28 0.96454
+0.10188 0.6945 2.16712 29 0.96484 0.10076 0.69262 2.21894 30 0.96686 0.0961
+0.69274 2.26438
+
+Tablo 2 incelendiğinde CNN modelinde ReLU AF performansı görünmektedir. Modelin
+eğitim doğruluğu ilk epokta %36 seviyesindeyken, eğitim ilerledikçe %96'ya kadar
+çıkmaktadır. Eğitim kaybı ise 1.72’den 0.09 seviyesine kadar düşmektedir. Bu
+durum, modelin eğitim setindeki verileri çok iyi öğrendiğini göstermektedir. İlk
+10 epok boyunca doğrulama doğruluğu düzenli bir şekilde artmaktadır (%56 → %71).
+10. epoktan sonra doğrulama doğruluğu %71 civarında sabitlenmektedir. Buna
+karşılık, doğrulama kaybı 10. epoktan sonra artmaya başlamakta ve 2.26
+seviyesine kadar yükselmektedir. Bu veriler, modelin başta iyi bir öğrenme
+gerçekleştirdiğini ancak belli bir noktadan sonra doğrulama performansında
+bozulma olduğunu göstermektedir. Eğitim doğruluğu %96’ya ulaşırken, doğrulama
+doğruluğu %71 civarında sabit kalmaktadır. Doğrulama kaybı 10. epoktan sonra
+giderek artmaktadır (1.22 → 2.26). Bu durum, modelin eğitim setini çok iyi
+öğrendiğini fakat doğrulama setine genelleme yapamadığını göstermektedir. Buna
+göre model, eğitildiği veriyi ezberlemiş olabilir. 10-15. epok
+
+7
+
+civarında doğrulama doğruluğu sabitlenirken doğrulama kaybı artmaya
+başlamaktadır. 15. epok sonrası modelin doğrulama kaybı önemli ölçüde artış
+göstermektedir. Şekil 2 ile CNN model için LReLU AF eğitim ve doğrulama
+doğruluğu ile eğitim ve doğrulama kaybı görseli verilmiştir.
+
+Şekil 2: CNN model için LReLU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli C. CNN modelinde ELU AF Performansı Tablo 3 ile CNN
+modelin ELU AF performansı verilmiştir.
+
+Tablo 3: CNN modelin Elu AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.2951
+1.9584 0.4473 1.5624 2 0.4648 1.5171 0.507 1.3863 3 0.5151 1.3712 0.5396 1.305 4
+0.5468 1.2939 0.539 1.2894 5 0.5714 1.2207 0.5895 1.1872 6 0.5948 1.1624 0.6011
+1.1522 7 0.6123 1.1176 0.6084 1.12 8 0.622 1.0858 0.6035 1.121 9 0.6366 1.0492
+0.6284 1.0694 10 0.6482 1.0169 0.6305 1.0672 11 0.6544 0.9914 0.6431 1.0337 12
+0.663 0.9751 0.6489 1.0108 13 0.6735 0.9466 0.6525 1.0052 14 0.6757 0.9306
+0.6625 0.9815 15 0.6846 0.9136 0.6593 0.99
+
+8
+
+16 0.6934 0.8842 0.6662 0.9698 17 0.704 0.8624 0.6712 0.9557 18 0.709 0.8569
+0.6754 0.9439 19 0.712 0.8362 0.6804 0.9348 20 0.7157 0.818 0.6859 0.9199 21
+0.7242 0.795 0.6887 0.9138 22 0.7323 0.7719 0.6916 0.8998 23 0.735 0.7709 0.6834
+0.929 24 0.7372 0.7615 0.6987 0.8874 25 0.7477 0.7359 0.6919 0.8967 26 0.7525
+0.7192 0.6965 0.8834 27 0.7573 0.7131 0.7023 0.8715 28 0.7602 0.6988 0.6999
+0.8743 29 0.7646 0.689 0.7028 0.8809 30 0.7692 0.6726 0.7063 0.8696
+
+Tablo 3 incelendiğinde CNN modelinde ELU AF performansı görünmektedir. İlk
+epokta eğitim doğruluğu %29 seviyesinde, eğitim kaybının ise 1.95 olduğu
+görünmektedir. Modelin 30. epokta eğitim doğruluğunu %76 seviyesine çıkardığı ve
+eğitim kaybını 0.67 seviyesine düşürdüğü görünmektedir. Eğitim doğruluğu sürekli
+artarken, eğitim kaybı düzenli olarak azalmaktadır. Bu durum modelin, eğitim
+setindeki veriyi iyi öğrenmiş olduğunu göstermektedir. İlk 10 epok boyunca hem
+eğitim hem doğrulama doğruluğu hızlı artmaktadır (%44 → %63). 10. epoktan sonra
+doğrulama doğruluğundaki artış hızı yavaşlamakta ve %70 civarına yakınsadığı
+görünmektedir. Doğrulama kaybı 14. epoktan sonra belirgin şekilde azalmaya devam
+etmektedir. 30. epokta doğrulama doğruluğu %70 seviyesine ulaştığı ve doğrulama
+kaybının 0.86'ya düştüğü görülmektedir. Bu model, ilk 10-15 epok boyunca iyi bir
+öğrenme gerçekleştirmekte, ancak sonraki epoklarda öğrenme hızı yavaşlamaktadır.
+Eğitim doğruluğu %76’ya ulaşırken, doğrulama doğruluğu %70 seviyesinde
+kalmaktadır. Eğitim kaybı 0.67’ye düşerken, doğrulama kaybı 0.86 seviyesinde
+kalmaktadır. Doğrulama doğruluğu 21-30. epok arasında %68-70 bandında
+kaldığından modelin genel performansında durağanlaşma olduğu söylenebilmektedir.
+Şekil 3 ile CNN model için ELU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli verilmiştir.
+
+9
+
+Şekil 3: CNN model için ELU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli D. CNN modelinde GELU AF Performansı Tablo 4 ile CNN
+modelin GELU AF performansı verilmiştir.
+
+Tablo 4: CNN modelin GELU AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.2647
+2.0237 0.3972 1.6631 2 0.4206 1.6124 0.4595 1.5039 3 0.4663 1.4892 0.4977 1.4127
+4 0.4977 1.4013 0.5083 1.3683 5 0.5254 1.3435 0.5337 1.3085 6 0.5389 1.3075 0.54
+1.2897 7 0.5531 1.2711 0.5626 1.2546 8 0.5674 1.2272 0.5732 1.2117 9 0.5832
+1.1869 0.579 1.1911 10 0.5967 1.1591 0.5937 1.1583 11 0.6107 1.1186 0.6089
+1.1201 12 0.6203 1.0864 0.6096 1.1104 13 0.632 1.0569 0.619 1.0915 14 0.6385
+1.0369 0.6236 1.0725 15 0.6504 1.0021 0.6309 1.0566 16 0.6562 0.9849 0.6343
+1.0372 17 0.6657 0.957 0.6429 1.0253 18 0.6701 0.9415 0.65 1.0083 19 0.6782
+0.9249 0.6527 1.0005
+
+10
+
+20 0.6888 0.8946 0.6546 0.9886 21 0.6954 0.8785 0.656 0.9899 22 0.6975 0.8676
+0.6605 0.9812 23 0.704 0.8492 0.6709 0.9628 24 0.7078 0.836 0.6654 0.9737 25
+0.7199 0.815 0.6738 0.9462 26 0.7224 0.8041 0.6765 0.9472 27 0.7312 0.7753
+0.6709 0.9527 28 0.732 0.7787 0.6686 0.9647 29 0.7366 0.758 0.6771 0.9479 30
+0.7467 0.7401 0.6705 0.9574
+
+Tablo 4 incelendiğinde CNN modelinde GELU AF performansı görünmektedir.
+Başlangıçta eğitim doğruluğu %26, eğitim kaybının ise 2.02 seviyesinde olduğu
+görünmektedir. Son epokta eğitim doğruluğu %74’e ulaştığı, eğitim kaybı ise
+0.74’e düştüğü görünmektedir. Eğitim doğruluğu istikrarlı bir şekilde artmakta,
+eğitim kaybı ise sürekli azalmaktadır. Modelin eğitim setindeki veriyi iyi bir
+şekilde öğrendiği görünmektedir. Başlangıçta doğrulama doğruluğu %39 ve
+doğrulama kaybının ise 1.66 olduğu görünmektedir. En yüksek doğrulama doğruluğu
+%67 civarında iken son epokta doğrulama doğruluğu %67 civarında sabit kalmakta
+ve doğrulama kaybı %0.95 seviyesinde olduğu görünmektedir. 24. epoktan itibaren
+doğrulama doğruluğu çok az değişmekte, bu da modelin doğrulama setinde
+ilerlemesinin yavaşladığını göstermektedir. İlk 10 epok boyunca modelin doğruluk
+değerleri hızla artmaktadır (%39 → %59). 10-20. epok arasında model yavaşlamaya
+başlamakta ve %65 seviyelerinde bir plato oluşmaktadır. 20-30. epok arasında
+eğitim doğruluğu artmaya devam etse de, doğrulama doğruluğundaki artış çok küçük
+olmaktadır. 26. epoktan sonra doğrulama doğruluğu dalgalanmaya başlamakta ve
+artış durmaktadır. Şekil 4 ile CNN model için GELU AF eğitim ve doğrulama
+doğruluğu ile eğitim ve doğrulama kaybı görseli verilmiştir.
+
+Şekil 4: CNN model için GELU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli
+
+11
+
+E. CNN modelinde Mish AF Performansı Tablo 5 ile CNN modelin Mish AF performansı
+verilmiştir.
+
+Tablo 5: CNN modelin Mish AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.2707
+2.0135 0.4267 1.6176 2 0.4309 1.5749 0.4796 1.4676 3 0.4794 1.4592 0.5028 1.3903
+4 0.5057 1.3857 0.5241 1.3456 5 0.5269 1.3293 0.5396 1.2926 6 0.5428 1.2888
+0.5548 1.2579 7 0.5685 1.2318 0.5656 1.2201 8 0.5773 1.1927 0.5788 1.1893 9
+0.5958 1.1533 0.5924 1.1609 10 0.6085 1.1261 0.6024 1.1328 11 0.6202 1.095
+0.6086 1.1054 12 0.625 1.0672 0.6164 1.0876 13 0.6382 1.0461 0.6258 1.0644 14
+0.6481 1.0106 0.6294 1.0563 15 0.6579 0.9829 0.6384 1.0255 16 0.666 0.956 0.6435
+1.0148 17 0.6756 0.9339 0.6541 0.9969 18 0.6825 0.9168 0.6354 1.0181 19 0.6856
+0.8989 0.6608 0.9771 20 0.6912 0.8801 0.6611 0.9721 21 0.7015 0.8685 0.6618
+0.9708 22 0.7062 0.8419 0.6694 0.9514 23 0.7145 0.8256 0.6684 0.9588 24 0.7181
+0.8154 0.6612 0.9794 25 0.7195 0.8011 0.6771 0.936 26 0.7274 0.788 0.6746 0.9363
+27 0.739 0.7563 0.6792 0.939 28 0.7417 0.7422 0.6836 0.9293 29 0.7466 0.7322
+0.6834 0.922 30 0.7555 0.709 0.6827 0.9294
+
+Tablo 5 incelendiğinde CNN modelinde Mish AF performansı görünmektedir.
+Başlangıçta eğitim doğruluğu %27, eğitim kaybının 2.01 seviyesinde olduğu
+görünmektedir. Son epokta eğitim doğruluğu %75.6’ya ulaştığı, eğitim kaybının
+0.71’e düştüğü görünmektedir. Eğitim doğruluğu istikrarlı bir şekilde artımakta
+ve eğitim kaybı sürekli olarak azalmaktadır. Model eğitim süreci boyunca sürekli
+olarak gelişmektedir. Başlangıçta (1. epok) doğrulama doğruluğu %43 ve doğrulama
+kaybı 1.62 olduğu görünmektedir. En yüksek doğrulama doğruluğu %68 civarında
+olduğu görünmektedir. Son epokta doğrulama doğruluğu %68 seviyelerinde sabit
+kaldığı ve doğrulama kaybının %0.93 seviyesinde olduğu görünmektedir. Doğrulama
+doğruluğu 28. epokta zirve yapmakta ve sonrasında çok az bir değişim
+
+12
+
+göstermektedir. İlk 10 epok boyunca modelin doğruluk değerleri hızla artmaktadır
+(%43 → %60). 10-20. epok arasında doğrulama doğruluğu da artmakta ve %63
+seviyelerine çıkmaktadır. 20-30. epok arasında doğrulama doğruluğu %68 civarında
+sabit kalmakta, eğitim doğruluğu ise artmaya devam etmektedir. 2830. epok
+arasında doğrulama doğruluğunda önemli bir değişim olmadığı görünmektedir. Şekil
+5 ile CNN model için Mish AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli verilmiştir.
+
+Şekil 5: CNN model için Mish AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli
+
+F. ViT modelinde ReLU AF Performansı Tablo 6 ile ViT modelin ReLU AF performansı
+verilmiştir.
+
+Tablo 6: ViT modelin ReLU AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.2612
+2.008 0.4364 1.5625 2 0.4516 1.5265 0.4908 1.4332 3 0.4983 1.4045 0.5222 1.3337
+4 0.5364 1.3214 0.5437 1.2868 5 0.558 1.2623 0.5526 1.2518 6 0.5695 1.219 0.5799
+1.1899 7 0.5862 1.1778 0.5781 1.188 8 0.5997 1.1477 0.5938 1.1486 9 0.6124
+1.1118 0.6158 1.0946 10 0.6274 1.0745 0.6149 1.1011 11 0.6292 1.0583 0.6292
+1.0658 12 0.6425 1.0288 0.6319 1.0496
+
+13
+
+13 0.6508 1.0094 0.6323 1.0503 14 0.6576 0.9842 0.6546 1.0035 15 0.6656 0.9603
+0.653 0.997 16 0.6761 0.9313 0.6522 0.994 17 0.6834 0.9164 0.6521 0.9955 18
+0.6934 0.8991 0.6597 0.9837 19 0.6945 0.8875 0.6709 0.959 20 0.7017 0.8712
+0.6733 0.9442 21 0.7052 0.8518 0.6782 0.9326 22 0.7168 0.8282 0.6802 0.9382 23
+0.7158 0.8273 0.6786 0.9376 24 0.7202 0.8053 0.6669 0.9506 25 0.7248 0.7996
+0.6931 0.9 26 0.7378 0.7706 0.6854 0.9079 27 0.7384 0.7628 0.6992 0.8872 28
+0.737 0.7634 0.6962 0.8946 29 0.7454 0.7415 0.7032 0.8831 30 0.7519 0.7253
+0.7098 0.8615
+
+Tablo 6 incelendiğinde ViT modelinde ReLU AF performansı görünmektedir.
+Başlangıçta eğitim doğruluğunun %26.1 ve eğitim kaybının 2.01 olduğu
+görünmektedir. Son epokta eğitim doğruluğu %75.2 ve eğitim kaybı 0.73
+olmaktadır. Eğitim doğruluğu zamanla düzenli bir artış göstermekte ve eğitim
+kaybı ise düşüşe geçmektedir. Başlangıçta doğrulama doğruluğunun %43.6 ve
+doğrulama kaybının 1.56 olduğu görünmektedir. Son epokta doğrulama doğruluğu
+%70.98, doğrulama kaybı ise 0.86 seviyelerine inmektedir. Doğrulama doğruluğu
+önemli bir artış göstererek %70.98 seviyesine ulaştığı, doğrulama kaybının da
+azaldığı görünmektedir. İlk 10 epok boyunca model doğruluğu hızla artmaktadır
+(Doğruluk: %26.1 → %61.2, Kaybı: 2.01 → 1.07). 10-20. epoklar arasında doğrulama
+doğruluğu %61.2 → %69.4 seviyelerine çıkarken eğitim doğruluğu da hızlı bir
+şekilde artmaya devam etmektedir. 20-30. epoklar arasında eğitim doğruluğu %75.2
+seviyesine ulaşırken doğrulama doğruluğu %70.98'e çıkmakta ve her iki metrik de
+stabil kalmaktadır. Şekil 6 ile ViT model için ReLU AF eğitim ve doğrulama
+doğruluğu ile eğitim ve doğrulama kaybı görseli verilmiştir.
+
+14
+
+Şekil 6: ViT model için ReLU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli
+
+G. ViT modelinde LReLU AF Performansı Tablo 7 ile ViT modelin LReLU AF
+performansı verilmiştir.
+
+Tablo 7: ViT modelin LReLU AF performansı Epok Ortalama Eğitim Doğruluğu
+Ortalama Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1
+0.1147 2.396028571 0.1529 2.203214286 2 0.160028571 2.195657143 0.219271429
+2.017157143 3 0.211971429 2.047671429 0.276657143 1.894714286 4 0.264671429
+1.929085714 0.347214286 1.752557143 5 0.317842857 1.8172 0.377842857 1.656771429
+6 0.354128571 1.729485714 0.410414286 1.586514286 7 0.389571429 1.650471429
+0.4419 1.524228571 8 0.415114286 1.597885714 0.466142857 1.467285714 9
+0.436957143 1.548971429 0.4867 1.418871429 10 0.438114286 1.616414286
+0.440585714 1.541357143 11 0.416628571 1.600771429 0.476957143 1.453485714 12
+0.431928571 1.567371429 0.487114286 1.409671429 13 0.461885714 1.490171429
+0.509085714 1.361742857 14 0.475228571 1.460285714 0.514228571 1.347242857 15
+0.488428571 1.426928571 0.531671429 1.295242857 16 0.4985 1.396557143 0.5398
+1.278385714 17 0.510528571 1.367514286 0.545171429 1.260928571 18 0.516357143
+1.349171429 0.560028571 1.227342857
+
+15
+
+19 0.526528571 1.326457143 0.563314286 1.214514286 20 0.5337 1.305585714
+0.566585714 1.208557143 21 0.539642857 1.291057143 0.578271429 1.178571429 22
+0.547114286 1.266528571 0.581085714 1.173028571 23 0.550428571 1.264528571
+0.571342857 1.192185714 24 0.544771429 1.275714286 0.578885714 1.1757 25
+0.557328571 1.246357143 0.595328571 1.128457143 26 0.558828571 1.2385
+0.598228571 1.1264 27 0.5695 1.210942857 0.606271429 1.100628571 28 0.577257143
+1.191971429 0.607814286 1.095957143 29 0.581885714 1.179442857 0.615385714
+1.077571429 30 0.5866 1.164414286 0.618342857 1.0738
+
+Tablo 7 incelendiğinde ViT modelinde LReLU AF performansı görünmektedir. Eğitim
+doğruluğu %11.5 ve eğitim kaybı 2.40 seviyesinde olduğu görünmektedir. Son
+epokta eğitim doğruluğu %58.7 ve eğitim kaybı 1.16 olmaktadır. Eğitim doğruluğu
+zamanla sürekli bir artış göstermekte ve eğitim kaybı da azalma eğiliminde
+olduğu görünmektedir. Model eğitim süreci boyunca gelişim göstermektedir.
+Başlangıçta doğrulama doğruluğu %15.3 ve doğrulama kaybı 2.20 seviyesinde
+olmaktadır. son epokta doğrulama doğruluğu %61.8, doğrulama kaybı ise 1.07
+seviyelerine düştüğü görünmektedir. Doğrulama doğruluğu başlangıçtaki düşük
+seviyeden %61.8 seviyelerine ulaşmakta ve doğrulama kaybı ise sürekli
+azalmaktadır. İlk 10 epok boyunca model doğruluğu hızla artmaktadır (Doğruluk:
+%11 → %43, Kaybı: 2.40 → 1.55). 10-20. epoklar arasında doğrulama doğruluğu %50
+seviyelerine yaklaşırken eğitim doğruluğu da hızla artmaktadır. 20-30. epok
+arasında eğitim doğruluğu %58'e çıkarken, doğrulama doğruluğu %61.8'e ulaşmakta
+ve daha sonra ise stabil hale geldiği görünmektedir. 30. epokta modelin
+doğrulama doğruluğu %61.8'de, eğitim doğruluğu ise %58.6'ya ulaşmaktadır. Şekil
+7 ile ViT model için LReLU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli verilmiştir.
+
+Şekil 7: ViT model için LReLU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli
+
+16
+
+H. ViT modelinde ELU AF Performansı Tablo 8 ile ViT modelin ELU AF performansı
+verilmiştir.
+
+Tablo 8: ViT modelin ELU AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.1937
+2.7925 0.4313 1.5771 2 0.333 2.0282 0.4899 1.4275 3 0.4039 1.7531 0.5338 1.2931
+4 0.4447 1.5826 0.5572 1.2202 5 0.4965 1.4315 0.5619 1.2209 6 0.5169 1.3616
+0.5776 1.1687 7 0.5425 1.2791 0.5883 1.1584 8 0.5577 1.2412 0.5795 1.1726 9
+0.5694 1.1992 0.6129 1.0777 10 0.5848 1.1555 0.6245 1.0438 11 0.6034 1.1207
+0.6238 1.0462 12 0.6083 1.1016 0.6412 0.9967 13 0.6159 1.0779 0.6455 0.9787 14
+0.6247 1.056 0.6535 0.9522 15 0.6279 1.0391 0.6567 0.9604 16 0.64 1.0087 0.6436
+1.0053 17 0.6443 1.0024 0.6593 0.9574 18 0.6527 0.9776 0.6658 0.9193 19 0.6602
+0.9613 0.6707 0.9301 20 0.6642 0.9491 0.6782 0.897 21 0.6717 0.9334 0.6746
+0.9091 22 0.6702 0.9285 0.6758 0.9011 23 0.6817 0.9031 0.6994 0.8525 24 0.6844
+0.8929 0.6869 0.8668 25 0.6828 0.8888 0.6955 0.8713 26 0.6892 0.8737 0.7009
+0.8394 27 0.69 0.8701 0.6997 0.8544 28 0.6957 0.8576 0.7037 0.8394 29 0.7049
+0.8445 0.6968 0.863 30 0.7041 0.8287 0.7079 0.8204
+
+Tablo 8 incelendiğinde ViT modelinde ELU AF performansı görünmektedir.
+Başlangıçta eğitim doğruluğunun %19.37 ve eğitim kaybının 2.7925 olduğu
+görünmektedir. Son epokta eğitim doğruluğu %70.41 ve eğitim kaybı 0.8287
+olmaktadır. Eğitim doğruluğu hızla artmakta ve eğitim kaybı düşmektedir.
+Başlangıçta doğrulama doğruluğu %43.13 ve doğrulama kaybı 1.5771 olmaktadır. Son
+epokta doğrulama doğruluğu %70.79, doğrulama kaybı ise 0.8204 seviyelerine
+inmektedir. Doğrulama
+
+17
+
+doğruluğu, eğitim doğruluğuna yaklaşmakta ve doğrulama kaybı da önemli ölçüde
+azalmaktadır. İlk 10 epok boyunca model doğruluğu hızla artmaktadır (Doğruluk:
+%19.37 → %58.48, Kaybı: 2.79 → 1.16). 10-20. epoklar arasında doğrulama
+doğruluğu %58.48 → %66.42 seviyelerine çıkarken eğitim doğruluğu da hızla
+artmaya devam ettiği görünmektedir. 20-30. epoklar arasında eğitim doğruluğu
+%70.41 seviyesine ulaşırken doğrulama doğruluğu %70.79'a çıkmaktadır. Şekil 8
+ile ViT model için ELU AF eğitim ve doğrulama doğruluğu ile eğitim ve doğrulama
+kaybı görseli verilmiştir.
+
+Şekil 8: ViT model için Elu AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli İ. ViT modelinde GELU AF Performansı Tablo 9 ile ViT
+modelin GELU AF performansı verilmiştir.
+
+Tablo 9: ViT modelin GELU AF performansı Epok Ortalama Eğitim Doğruluğu Ortalama
+Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1 0.1622 2.36
+0.3397 1.8263 2 0.2967 1.9185 0.4111 1.6273 3 0.349 1.7782 0.4545 1.5065 4
+0.3907 1.6701 0.4654 1.5052 5 0.4239 1.5952 0.5064 1.3545 6 0.4452 1.5417 0.5096
+1.3192 7 0.465 1.4871 0.5501 1.2772 8 0.4837 1.4422 0.5524 1.2313 9 0.4983
+1.4066 0.5607 1.2086 10 0.5139 1.3664 0.5644 1.1981 11 0.5231 1.3416 0.5776
+1.1759
+
+18
+
+12 0.5284 1.3207 0.5883 1.1412 13 0.5442 1.2847 0.5955 1.1306 14 0.551 1.2719
+0.5917 1.1266 15 0.5657 1.2401 0.6025 1.1049 16 0.5647 1.232 0.6062 1.0916 17
+0.5778 1.2004 0.6035 1.0953 18 0.5807 1.185 0.6148 1.0702 19 0.5861 1.1721
+0.6206 1.0517 20 0.5973 1.1565 0.6172 1.0617 21 0.6059 1.1266 0.6339 1.024 22
+0.6081 1.1177 0.6327 1.0207 23 0.6145 1.1008 0.6408 1.0087 24 0.6198 1.0866
+0.6447 0.9955 25 0.6203 1.0819 0.6453 0.9903 26 0.6296 1.0565 0.6431 0.9949 27
+0.6334 1.0498 0.6514 0.9733 28 0.6396 1.0344 0.6558 0.9644 29 0.637 1.0327
+0.6558 0.9688 30 0.6429 1.0254 0.6643 0.9449
+
+Tablo 9 incelendiğinde ViT modelinde GELU AF performansı görünmektedir.
+Başlangıçta eğitim doğruluğu %16.2 ve eğitim kaybı 2.36 olmaktadır. Son epokta
+eğitim doğruluğunun %64.3 ve eğitim kaybının 1.03 olduğu görünmektedir. Eğitim
+doğruluğu zamanla artmakta, eğitim kaybı ise sürekli olarak düşmektedir.
+Başlangıçta doğrulama doğruluğunun %33.97 ve doğrulama kaybının 1.83 olduğu
+görünmektedir. Son epokta doğrulama doğruluğu %66.43, doğrulama kaybı ise 0.94
+seviyelerine inmektedir. Doğrulama doğruluğunun, eğitim doğruluğuna yakın bir
+seviyeye çıktığı ve doğrulama kaybınun da önemli ölçüde düştüğü görünmektedir.
+İlk 10 epok boyunca model doğruluğu hızla artmaktadır (Doğruluk: %16.2 → %51.39,
+Kaybı: 2.36 → 1.37). 10-20. epok arasında doğrulama doğruluğu %51.39 → %61.72
+seviyelerine çıkarken eğitim doğruluğu da hızlı bir şekilde artmaya devam
+etmektedir. 20-30. epok arasında eğitim doğruluğu %64.3 seviyesine ulaşırken
+doğrulama doğruluğu %66.43'e çıkmakta ve her iki metrik de sabit hale
+gelmektedir. Şekil 9 ile ViT model için GELU AF eğitim ve doğrulama doğruluğu
+ile eğitim ve doğrulama kaybı görseli verilmiştir.
+
+19
+
+Şekil 9: ViT model için GELU AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli J. ViT modelinde Mish AF Performansı Tablo 10 ile ViT
+modelin Mish AF performansı verilmiştir.
+
+Tablo 10: ViT modelin Mish AF performansı Epok Ortalama Eğitim Doğruluğu
+Ortalama Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama Doğrulama Kaybı 1
+0.1764 2.3136 0.3625 1.7749 2 0.3125 1.8614 0.4248 1.6058 3 0.3775 1.7141 0.4741
+1.4394 4 0.4256 1.609 0.5081 1.3611 5 0.4616 1.5179 0.5198 1.3135 6 0.4888
+1.4537 0.5391 1.2734 7 0.5051 1.3907 0.5481 1.2453 8 0.5293 1.3383 0.5627 1.1928
+9 0.5458 1.296 0.5746 1.1877 10 0.5609 1.2504 0.5866 1.1586 11 0.5718 1.216
+0.6024 1.1138 12 0.5866 1.1849 0.6111 1.0864 13 0.5937 1.163 0.6165 1.0789 14
+0.6035 1.141 0.6081 1.0847 15 0.6105 1.1124 0.6148 1.0767 16 0.6152 1.0948
+0.6213 1.0557 17 0.6251 1.0701 0.6456 0.9975 18 0.6288 1.0595 0.6419 1.0009 19
+0.6393 1.0392 0.6437 0.9935
+
+20
+
+20 0.6451 1.0117 0.6464 0.9936 21 0.6537 0.9938 0.6541 0.9624 22 0.6602 0.977
+0.6614 0.9457 23 0.6622 0.9675 0.6609 0.9557 24 0.6633 0.9612 0.6544 0.9851 25
+0.6692 0.9443 0.6646 0.9356 26 0.6744 0.9348 0.6633 0.9426 27 0.672 0.9354
+0.6745 0.9174 28 0.6815 0.9193 0.6832 0.8906 29 0.6834 0.9039 0.6848 0.8909 30
+0.6898 0.8961 0.6855 0.8874
+
+Tablo 10 incelendiğinde ViT modelinde Mish AF performansı görünmektedir.
+Başlangıçta eğitim doğruluğunun %17.64 ve eğitim kaybının 2.3136 olduğu
+görünmektedir. Son epokta eğitim doğruluğu %68.98 ve eğitim kaybı 0.8961
+olmaktadır. Eğitim doğruluğu zamanla artmakta, eğitim kaybı ise düşmektedir.
+Başlangıçta doğrulama doğruluğu %36.25 ve doğrulama kaybı 1.7749 olmaktadır. Son
+epokta doğrulama doğruluğu %68.55, doğrulama kaybı ise 0.8874 seviyelerine
+inmektedir. Doğrulama doğruluğu, eğitim doğruluğuna yakın bir seviyeye çıkmakta
+ve doğrulama kaybı da önemli ölçüde düşmektedir. İlk 10 epok boyunca model
+doğruluğu hızla artmaktadır (Doğruluk: %17.64 → %56.09, Kaybı: 2.31 → 1.25).
+10-20. epoklar arasında doğrulama doğruluğu %56.09 → %64.51 seviyelerine
+çıkarken eğitim doğruluğu da hızla artmaya devam etmektedir. 20-30. epok
+arasında eğitim doğruluğu %68.98 seviyesine ulaşırken doğrulama doğruluğu
+%68.55'e çıkmakta ve her iki metrik de sabit hale gelmektedir. Şekil 10 ile ViT
+model için Mish AF eğitim ve doğrulama doğruluğu ile eğitim ve doğrulama kaybı
+görseli verilmiştir.
+
+Şekil 10: ViT model için Mish AF eğitim ve doğrulama doğruluğu ile eğitim ve
+doğrulama kaybı görseli
+
+.
+
+21
+
+IV. SONUÇLAR Araştırma kapsamında yapılan çalışmada CNN ve ViT modelleri
+kullanılarak 5 farklı çalıştırma ve 30 epok sonucunda elde edilen ortalama
+eğitim ve doğrulama doğrulukları ile ortalama eğitim ve doğrulama kayıpları
+değerleri kullanılan beş farklı aktivasyon fonksiyonuna göre Tablo 11 ile özet
+olarak verilmiştir.
+
+Tablo 11: CNN ve ViT modellerin AF karşılaştırması Model Adı AF Adı Ortalama
+Eğitim Doğruluğu Ortalama Eğitim Kaybı Ortalama Doğrulama Doğruluğu Ortalama
+Doğrulama Kaybı CNN ReLU 0.65188 0.99893333 0.64115667 1.03066667 LReLU
+0.86356667 0.38502133 0.69312933 1.428956 ELU 0.66242 0.97120333 0.64339333
+1.03039333 GELU 0.62394667 1.07094 0.60872 1.11655333 Mish 0.63222667 1.04743333
+0.61605667 1.09484333 ViT ReLU 0.64296 1.02252667 0.63094 1.05753667 LReLU
+0.45253905 1.50497143 0.49548476 1.38140286 ELU 0.59531333 1.16467333 0.63454667
+1.02069 GELU 0.52995667 1.32278 0.58 1.16631333 Mish 0.57376 1.20903333
+0.60129667 1.11158667
+
+Tablo 11 incelendiğinde CNN modellerin ViT modellerine kıyasla genellikle daha
+yüksek eğitim doğruluğuna ulaştığı görülmektedir. Leaky ReLU (LReLU), CNN için
+en yüksek eğitim doğruluğunu sağlamış (%86,35), ancak doğrulama doğruluğu %69,31
+olup overfitting (aşırı öğrenme) ihtimali olabileceği düşünülmektedir. ViT
+modelleri genel olarak daha düşük eğitim doğruluğuna sahip, ancak bazı
+aktivasyon fonksiyonları (ELU, Mish) doğrulama doğruluğunda nispeten başarılı
+oldukları görülmektedir. Aktivasyon fonksiyonlarının etkisi açısından
+bakıldığında Leaky ReLU (LReLU) CNN modelinde en iyi eğitim doğruluğunu (%86,35)
+verse de, doğrulama kaybı (1.42) ile diğerlerine göre oldukça yüksek, yani
+genelleme sorunu olabileceği düşünülmektedir. GELU ve Mish, her iki modelde de
+orta seviye doğruluk değerleri sunmuş ancak kayıpları nispeten yüksek olduğu
+düşünülmektedir. ELU, özellikle ViT modeli için en iyi doğrulama doğruluğunu
+sağladığı görülmektedir (%63,45). ReLU, CNN için en iyi doğrulama doğruluğunu
+sağladığı görülmektedir. (%64,11). Aşırı öğrenme ve yetersiz öğrenme durumu
+açısından değerlendirildiğinde ise CNN LReLU modelinin eğitim doğruluğu çok
+yüksek (%86,35) ancak doğrulama doğruluğu %69,31, ayrıca doğrulama kaybı en
+yüksek seviyede (1.42) olduğundan aşırı öğrenmiş olabileceği düşünülmektedir.
+ViT GELU ve ViT Mish modelleri eğitim doğruluğu düşük ve doğrulama doğruluğu
+yeterince iyi olmadığı için yetersiz öğrenme yaşıyor olabileceği
+düşünülmektedir. Şekil 11 ile çalışma kapsamında kullanılan aktivasyon
+fonksiyonlarının CNN ve ViT model üzerindeki eğitim ve doğrulama doğrulukları,
+Şekil 12 ile çalışma kapsamında kullanılan aktivasyon fonksiyonlarının CNN ve
+ViT model üzerindeki eğitim ve doğrulama kayıpları görselleri verilmiştir.
+
+22
+
+Şekil 11: Kullanılan aktivasyon fonksiyonlarının CNN ve ViT üzerindeki
+doğrulukları
+
+Şekil 12: Kullanılan aktivasyon fonksiyonlarının CNN ve ViT üzerindeki kayıpları
+
+KAYNAKLAR
+
+[1] Y. Zheng, J. Huang, T. Chen, Y. Ou, ve W. Zhou, “CNN classification based on
+global and local features”, içinde Real-Time Image Processing and Deep Learning
+2019, SPIE, May. 2019, ss. 96-108. doi: 10.1117/12.2519660. [2] L. Bao, B. Ma,
+H. Chang, ve X. Chen, “Preserving Structural Relationships for Person
+Re-Identification”, içinde 2019 IEEE International Conference on Multimedia &
+Expo Workshops (ICMEW), Tem. 2019, ss. 120-125. doi: 10.1109/ICMEW.2019.00028.
+
+23
+
+[3] M. Hussain, J. J. Bird, ve D. R. Faria, “A Study on CNN Transfer Learning
+for Image Classification”, içinde Advances in Computational Intelligence
+Systems, A. Lotfi, H. Bouchachia, A. Gegov, C. Langensiepen, ve M. McGinnity,
+Ed., Cham: Springer International Publishing, 2019, ss. 191-202. doi:
+10.1007/978-3-319-97982-3_16. [4] X. Xie, G. Cheng, J. Wang, X. Yao, ve J. Han,
+“Oriented R-CNN for Object Detection”, program adı: Proceedings of the IEEE/CVF
+International Conference on Computer Vision, 2021, ss. 3520-3529. Erişim: 26
+Şubat 2025. [Çevrimiçi]. Erişim adresi:
+https://openaccess.thecvf.com/content/ICCV2021/html/Xie_Oriented_RCNN_for_Object_Detection_ICCV_2021_paper.html
+[5] A. Gillioz, J. Casas, E. Mugellini, ve O. A. Khaled, “Overview of the
+Transformer-based Models for NLP Tasks”, içinde 2020 15th Conference on Computer
+Science and Information Systems (FedCSIS), Eyl. 2020, ss. 179-183. doi:
+10.15439/2020F20. [6] H. Chen vd., “Pre-Trained Image Processing Transformer”,
+program adı: Proceedings of the IEEE/CVF Conference on Computer Vision and
+Pattern Recognition, 2021, ss. 12299-12310. Erişim: 26 Şubat 2025. [Çevrimiçi].
+Erişim adresi:
+https://openaccess.thecvf.com/content/CVPR2021/html/Chen_PreTrained_Image_Processing_Transformer_CVPR_2021_paper.html
+[7] H. Yin, A. Vahdat, J. M. Alvarez, A. Mallya, J. Kautz, ve P. Molchanov,
+“A-ViT: Adaptive Tokens for Efficient Vision Transformer”, program adı:
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, 2022, ss. 10809-10818. Erişim: 26 Şubat 2025. [Çevrimiçi]. Erişim
+adresi:
+https://openaccess.thecvf.com/content/CVPR2022/html/Yin_AViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html?ref=https://githubhelp.com
+[8] Y. Lecun, L. Bottou, Y. Bengio, ve P. Haffner, “Gradient-based learning
+applied to document recognition”, Proc. IEEE, c. 86, sy 11, ss. 2278-2324, Kas.
+1998, doi: 10.1109/5.726791. [9] “AlexNet论文翻译-ImageNet Classification with Deep
+Convolutional Neural Networks | the”. Erişim: 21 Şubat 2025. [Çevrimiçi]. Erişim
+adresi: https://www.lmlphp.com/user/57787/article/item/612167 [10] K. He, X.
+Zhang, S. Ren, ve J. Sun, “Identity Mappings in Deep Residual Networks”, içinde
+Computer Vision – ECCV 2016, B. Leibe, J. Matas, N. Sebe, ve M. Welling, Ed.,
+Cham: Springer International Publishing, 2016, ss. 630-645. doi:
+10.1007/978-3-319-46493-0_38. [11] B. Koonce, “EfficientNet”, içinde
+Convolutional Neural Networks with Swift for Tensorflow: Image Recognition and
+Dataset Categorization, B. Koonce, Ed., Berkeley, CA: Apress, 2021, ss. 109-123.
+doi: 10.1007/978-1-4842-6168-2_10. [12] A. Dosovitskiy vd., “An Image is Worth
+16x16 Words: Transformers for Image Recognition at Scale”, 03 Haziran 2021,
+arXiv: arXiv:2010.11929. doi: 10.48550/arXiv.2010.11929. [13] S. Jeon, “2nd
+Place Solution to Facebook AI Image Similarity Challenge Matching Track”, 15
+Kasım 2021, arXiv: arXiv:2111.09113. doi: 10.48550/arXiv.2111.09113. [14] S.
+Cong, H. Wang, Y. Zhou, Z. Wang, X. Yao, ve C. Yang, “Comprehensive review of
+Transformer-based models in neuroscience, neurology, and psychiatry”, Brain-X,
+c. 2, sy 2, s. e57, 2024, doi: 10.1002/brx2.57. [15] Z. Liu vd., “Swin
+Transformer: Hierarchical Vision Transformer Using Shifted Windows”, program
+adı: Proceedings of the IEEE/CVF International Conference on Computer Vision,
+2021, ss. 10012-10022. Erişim: 22 Şubat 2025. [Çevrimiçi]. Erişim adresi:
+https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using
+_Shifted_Windows_ICCV_2021_paper [16] P. B. Chopade, P. N. Kota, B. D. Jadhav,
+P. M. Ghate, ve S. S. Kulkarni, “Retinopathy Disease Detection and
+Classification Using a Coordinate Attention Module-Based Convolutional Neural
+Network with Leaky Rectified Linear Unit”, IIUM Eng. J., c. 26, sy 1, ss.
+129-147, Oca. 2025, doi: 10.31436/iiumej.v26i1.3194. [17] Y. Tang, W. Huang, C.
+Chen, ve D. Chen, “CT-DCENet: Deep EEG Denoising via CNN-Transformer-based
+Dual-stage Collaborative Ensemble Learning”, IEEE J. Biomed. Health Inform., ss.
+1-14, 2025, doi: 10.1109/JBHI.2025.3535592. [18] A. Waghumbare ve U. Singh,
+“Diat-separable-cnn-eca-harnet: a lightweight and explainable model for
+efficient human activity recognition”, Signal Image Video Process., c. 19, sy 3,
+s. 245, Oca. 2025, doi: 10.1007/s11760-025-03838-w. [19] R. Dasgupta, Y. S.
+Chowdhury, ve S. Nanda, “Performance Comparison of Benchmark Activation Function
+ReLU, Swish and Mish for Facial Mask Detection Using Convolutional Neural
+Network”, içinde Intelligent Systems, A. Sheth, A. Sinhal, A. Shrivastava, ve A.
+K. Pandey, Ed., Singapore: Springer, 2021, ss. 355-367. doi:
+10.1007/978-981-16-2248-9_34. [20] S. A. A. Fazel, “Prediction of bubble
+departing diameter in pool boiling of mixtures by ANN using modified ReLU”,
+Heliyon, c. 10, sy 11, Haz. 2024, doi: 10.1016/j.heliyon.2024.e31261. [21] L.
+Parisi, D. Neagu, R. Ma, ve F. Campean, “Quantum ReLU activation for
+Convolutional Neural Networks to improve diagnosis of Parkinson’s disease and
+COVID-19”, Expert Syst. Appl., c. 187, s. 115892, Oca. 2022, doi:
+10.1016/j.eswa.2021.115892. [22] D. Al-Alimi, Z. Cai, ve M. A. A. Al-qaness,
+“FHIC: Fast Hyperspectral Image Classification Model Using ETR Dimensionality
+Reduction and ELU Activation Function”, IEEE Trans. Geosci. Remote Sens., c. 61,
+ss. 1-17, 2023, doi: 10.1109/TGRS.2023.3314619.
+
+24
+
+[23] S. Kovaios vd., “Programmable Tanh- and ELU-Based Photonic Neurons in
+Optics-Informed Neural Networks”, J. Light. Technol., c. 42, sy 10, ss.
+3652-3660, May. 2024, doi: 10.1109/JLT.2024.3366711. [24] C.-I. Lai, A. Abad, K.
+Richmond, J. Yamagishi, N. Dehak, ve S. King, “Attentive Filtering Networks for
+Audio Replay Attack Detection”, içinde ICASSP 2019 - 2019 IEEE International
+Conference on Acoustics, Speech and Signal Processing (ICASSP), May. 2019, ss.
+6316-6320. doi: 10.1109/ICASSP.2019.8682640. [25] K. K. K ve S. Mandava, “A
+Novel Lightweight Customized Convolution Neural Network for Bearing Fault
+Classification”, içinde 2023 International Conference on Next Generation
+Electronics (NEleX), Ara. 2023, ss. 1-5. doi: 10.1109/NEleX59773.2023.10421623.
+[26] C. Yañez, W. Kristjanpoller, ve M. C. Minutolo, “Stock market index
+prediction using transformer neural network models and frequency decomposition”,
+Neural Comput. Appl., c. 36, sy 25, ss. 15777-15797, Eyl. 2024, doi:
+10.1007/s00521024-09931-4. [27] S. Panigrahi, D. R. D. Adhikary, ve B. Kumar
+Pattanayak, “Analyzing Activation Functions With Transfer Learning-Based Layer
+Customization for Improved Brain Tumor Classification”, IEEE Access, c. 12, ss.
+168707-168727, 2024, doi: 10.1109/ACCESS.2024.3497346. [28] D. Misra, “Mish: A
+Self Regularized Non-Monotonic Activation Function”, 13 Ağustos 2020, arXiv:
+arXiv:1908.08681. doi: 10.48550/arXiv.1908.08681. [29] T. Hussain ve H. Shouno,
+“MAGRes-UNet: Improved Medical Image Segmentation Through a Deep Learning
+Paradigm of Multi-Attention Gated Residual U-Net”, IEEE Access, c. 12, ss.
+40290-40310, 2024, doi: 10.1109/ACCESS.2024.3374108. [30] S. Chan, “The
+Triumvirate of Bespoke Diverse Hybridized Activation Functions, Adaptive
+Momentum, and Enhanced Entropic Wavelet Energy Spectrum Discernment for Higher
+Efficacy Detection of Artificial Intelligence-centric Attacks”, 13 Kasım 2023,
+Social Science Research Network, Rochester, NY: 4679251. doi:
+10.2139/ssrn.4679251. [31] W. Bai, G. Zhuang, X. Zhao, ve Z. Wei,
+“High-Precision Intelligent Identification of Complex Power Quality Disturbances
+Based on Improved KST and CNNs”, IEEE Access, c. 12, ss. 86434-86443, 2024, doi:
+10.1109/ACCESS.2024.3416684.

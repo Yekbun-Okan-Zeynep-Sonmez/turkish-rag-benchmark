@@ -1,0 +1,524 @@
+71
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77
+Plevral efüzyonlarda 
+minimal invaziv yaklaşım
+Serdar ŞEN, Ekrem ŞENTÜRK, Engin PABUŞCU, Salih ÇOKPINAR, Ertan YAMAN
+Adnan Menderes Üniversitesi Tıp Fakültesi, Göğüs Cerrahisi Anabilim Dalı, Aydın.
+ÖZET
+Plevral efüzyonlarda minimal invaziv yaklaşım
+Plevral efüzyon, plevral sıvının salgılanması ile emilimi arasındaki dengenin bozulması sonucu oluşur. Plevral sıvının fazla
+üretilmesi veya emilimin azalması, plevral efüzyon oluşumunun temel mekanizmasıdır. Primer akciğer veya başka organ
+kaynaklı patolojiler plevral efüzyon nedeni olabilir. Günümüzde plevral sıvı tedavisinde uygun, kullanışlı ve ideal tedavi
+arayışları devam etmektedir. Kliniğimizde 2007-2008 yılları arasında 10F çaplı, trokarlı ucu sayesinde lokal anestezi ile ko-
+lay uygulanabilen ve maliyeti oldukça düşük olan basit küçük çaplı kateter kullandığımız 94 plevral efüzyonlu olguyu de-
+ğerlendirdik. Solunum sıkıntısı olan, ileri plevral efüzyonu saptanan, komplike efüzyonlu hastalarla nedene yönelik medi-
+kal tedavi veya torasentezle plevral efüzyonu drene edilemeyen ya da tekrar eden hastalara lokal anestezi ile yedinci veya
+sekizinci interkostal aralıktan 10F kateter uygulandı. Drenaj sonrası akciğer ekspansiyonu sağlanan, nüks beklenmeyen
+ve 100 mL/gün altında drenaj olan olgularda kateter çekildi. Drenajı devam eden veya nüks olgularda talk veya tetrasik-
+lin ile plöredez uygulandı. Doksan dört olgunun (58’i erkek, 36’sı kadın) yaş ortalaması 57.2 (26-94) idi. En sık etyolojik
+neden 34 (%36.1) olgu ile primer bronş kanseri olarak saptandı, kalp yetmezliği 11 olguda, ampiyem sekiz olguda görül-
+dü. Olguların 53 (%56.3)’üne efüzyonda nüks nedeniyle plöredez uygulandı. Bunlardan 19 (%35.8)’unda plöredezde ba-
+şarı sağlandı. Plevral efüzyonlarda, torakoskopi, tüp torakostomi, kalıcı tünelli kateterler ve torasentez ile drenaj gibi çeşit-
+li tedavi yöntemleri kullanılmaktadır. Minimal morbidite ve sıfır mortaliteye sahip basit küçük çaplı kateterler alternatif
+ayaktan uygulanabilen bir yöntemdir. Ayrıca, sadece malign efüzyonlarda değil benign efüzyonlarda da güvenle kullanı-
+labilmektedir. Sonuç olarak; uygulama ve kullanım kolaylığının yanı sıra drenaj ve plöredez uygulamasındaki etkinliği ve
+düşük maliyeti ile basit kateter kullanımı; plevral efüzyonlu hastalarda kısa ve orta süreli kullanımlarda ilk seçim olabile-
+cek ve uzun süreli kullanımda alternatif olabilecek bir tedavi yöntemidir.
+Anahtar Kelimeler: Küçük çaplı plevral kateter, plöredezis, drenaj, plevral efüzyon.
+Yazışma Adresi (Address for Correspondence): 
+Dr. Ekrem ŞENTÜRK, Adnan Menderes Üniversitesi Tıp Fakültesi, Göğüs Cerrahisi Anabilim Dalı, 09100
+AYDIN - TURKEY
+e-mail: ets100@yahoo.com
+Plevral efüzyon, plevral sıvının salgılanması ile
+emilimi arasındaki dengenin bozulması sonucu
+oluşur. Plevra dinamik bir yapıya sahip olup,
+plevradaki sıvının büyük bir bölümü pariyetal kı-
+sımdaki kapiller yataktan kaynaklanır. Pariyetal
+plevradan oluşan sıvı miktarı normalde 0.01
+mL/kg/saat olarak bilinmektedir. Plevral lenfa-
+tiklerin maksimal drenaj kapasitesi ise en az 0.20
+mL/kg/saat bulunmaktadır (1). İnsanlarda günde
+500 mL’ye kadar plevral sıvının lenfatik kanallar
+aracılığıyla emilebileceği bildirilmiştir (2).
+Plevral sıvının fazla üretilmesi veya emilimin
+azalması, plevral efüzyon oluşumunun temel
+mekanizmasıdır. Primer akciğerden veya başka
+organ kaynaklı patolojiler plevral efüzyon nede-
+ni olabilir.
+Plevral efüzyonlarda en sık klinik bulgu ileri de-
+recede sıvı birikimine bağlı nefes darlığıdır. Fizik
+muayenede palpasyon ve perküsyon en yararlı
+bilgiyi verir. Oskültasyonda ise sıvının bulundu-
+ğu tarafta azalmış akciğer sesleri ve az miktarda
+sıvı bulunan durumlarda plevral sürtünme sesi
+de duyulabilir. Ultrasonografi (USG), plevral
+efüzyonlu olgularda özellikle az miktarda sıvı bu-
+lunan olgularda torasentez yerinin belirlenmesi-
+ne yardımcı olur (3). Akciğer grafisi plevral efüz-
+yonu saptamada en sık ve kolay uygulanan tanı
+yöntemidir. Kostofrenik açının küntleşmesi için
+200-300 mL sıvı yeterlidir. Torasentez tanı ve
+drenaj amaçlı uygulanabilen standart yaklaşım
+şekli olmaktadır.
+Plevral sıvı saptandığında tanısal amaçlı tora-
+sentez yapılması önerilmektedir (4). Plevra sıvı-
+sı analizinde ilk basamak transüda-eksüda ayırı-
+mının yapılmasıdır. Laboratuvar ve patolojik ince-
+leme ile sıvı nedeni ortaya konulmalıdır. Porcell ve
+arkadaşlarının çalışmasında en sık plevral efüzyon
+nedeni maligniteler olarak bildirilmiştir (5).
+Plevral kateterler, tüp torakostomi ve torakosko-
+pi tanısal amaçlı kullanımın yanında, drenaj,
+plöredez ve biyopsi gibi tedavi amaçlı olarak da
+kullanılabilmektedir. Plöredez en sık standart bir
+tüp torakostomi aracılığıyla yapılır. Bununla bir-
+likte bazı çalışmalar, küçük çaplı (8-16F) kate-
+Plevral efüzyonlarda minimal invaziv yaklaşım
+72
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77
+SUMMARY 
+Minimaly invasive approach in the pleural fluids
+Serdar ŞEN, Ekrem ŞENTÜRK, Engin PABUŞCU, Salih ÇOKPINAR, Ertan YAMAN
+Department of Chest Surgery, Faculty of Medicine, Adnan Menderes University, Aydin, Turkey.
+The exess production or depleted absorbsion of pleural fluid is the major mechanism of pleural effusion formation. Primary
+lung pathologies or pathologies that originated from the other organs can be cause of pleural effusion. The search for su-
+itable, practical and ideal treatment is continued at the present day. We have reviewed 94 patients with pleural effusion
+that have been treated by 10F catheter with local anesthesia in 2007-2008. The patient with dispnea, massive effusion or
+reccurent pleural effusion have been administrated pleural catheter through 7th or 8th intercostal interspace with local
+anesthesia. The mean age of patients (58 male, 36 female) was 57.2 (26-94). The most common etiologic causes were pri-
+mary bronch carcinoma (34 cases 36.1%), cardiac failure (11 cases 11.1%) and empyema (eight cases 9.5%). Fifty three
+(56.3%) have been administrated pleuredesis because of treatment failure or reccurence. In 19 of these cases (20.2%), ple-
+uredesis was successfull. Pleuredesis agent was talc or tetracycline according to patients pain treshold. The treatment met-
+hods of pleural effusion include thoracentesis, thoracoscopy, tube thoracostomy and catheters with permanant tunnel. The
+simple and small-diamater catheters are administrated easily with minimal morbidity and no mortality. It’s not only used
+in malign effusion but also used in benign effusion. Finally, simple catheter can be first treatment choice in short-term the-
+rapy and alternative choice in long-term therapy because of it’s administrating facility, effectiveness in pleuredesis and cost-
+effectiveness.
+Key Words: Small-diameter catheter, ploredesis, drainage, pleural fluid.
+terlerle benzer başarı oranları bildirmiştir (6,7).
+Bazı araştırmacılar ise; özellikle malign olgular-
+da kısa sağkalım beklentisi, uygulama kolaylığı
+ve maliyet düşünülerek küçük çaplı kateter ile
+sıvı drenajının sağlanıp kateter ile evine gönde-
+rilmesini önermektedirler (8).
+Plevral sıvılarda etyolojiye ve tedavi yöntemine
+göre ideal yaklaşım arayışları devam etmektedir.
+Literatürde plevral drenaj için ucuzluğu ve kulla-
+nım kolaylığı vurgulanan değişik kateterler kul-
+lanılmıştır (9-11). Biz çalışmamızda ucuzluğu ve
+kullanım kolaylığı yanında kapalı su altı drenajı
+da uygulanabilen Vygon® kateter (Vygon Corp.
+Norristown, PA, USA) ile drenaj sağladığımız 94
+hastayı değerlendirdik.
+MATERYAL ve METOD
+Çalışmada 2008-2009 yılları arasında değişik
+etyolojiler nedeniyle oluşan ve tedavisinde cer-
+rahi ya da başka bir tedavi düşünülmeyen, plev-
+ral kateter ile tedavi edilen 94 olgu geriye dönük
+olarak incelendi. Çalışmaya tedavi ile gerileme-
+yen veya tekrarlayan ve semptomatik, submasif
+veya masif sıvısı olan drenaj endikasyonu konu-
+lan hastalar alındı. Plevral sıvı saptanan hasta-
+larda kateter olarak 10F çaplı, trokar ucu ile lo-
+kal anestezi ile kolay uygulanabilen ve maliyeti
+oldukça düşük olan Vygon® kateter (Vygon
+Corp. Norristown, PA, USA) takıldı.
+Olgularda fizik muayene ve görüntüleme yön-
+temleri ile plevral efüzyon saptandıktan sonra
+torasentez ile laboratuvar ve patolojik inceleme-
+ler yapıldı. Hastalar öncelikle arkadan ve yan
+akciğer grafileri ile değerlendirildi. Bazı olgular-
+da ise tanı veya lokalizasyon amacıyla hastalar-
+da USG ve toraks tomografisi çekimine gidildi.
+Tanılar aşağıdaki kriterlere göre konuldu:
+1. Konjestif kalp yetmezliği (KKY): Akciğer gra-
+fisinde kardiyomegali, pulmoner venöz konjes-
+yon, uygun ekokardiyografi ve klinik bulguların
+olması, transüda özellikli sıvının KKY tedavisine
+yanıt vermesi, hastada KKY’ye bağlı plevral
+efüzyon tanısı konulması için yeterli görülmekte,
+masif ve semptomatik sıvılarda drenaj gereke-
+bilmektedir.
+2. Böbrek yetmezliği: Klinik olarak sıvı yüklen-
+mesine (pulmoner veya periferik ödem) ek ola-
+rak üre ve kreatinin düzeylerinde yükseklik, uy-
+gun klinik.
+3. Karaciğer sirozu: Bilinen bir karaciğer yet-
+mezliğinin ve karaciğer fonksiyon testlerinde bo-
+zukluğun olması, karında asit varlığıyla birlikte
+sıvı oluşumunu açıklayacak herhangi bir başka
+patolojinin olmaması.
+4. Malign plevra sıvısı: Plevra sıvı sitolojisi veya
+biyopsisinde malign hücrelerin görülmesi.
+5. Paramalign plevra sıvısı: Bilinen malignitesi
+olup plevral sıvıda malignite gösterilemeyen ve
+malignite dışı eşlik eden sebeplere bağlı olduğu
+düşünülen sıvısı olan olgular.
+6. Tüberküloz plörezi: Plevra biyopsisi veya sıvı
+kültürlerinde aside dirençli basilin gösterilmesi
+veya plevra biyopsisinde tüberküloz ile uyumlu
+kazeöz granülomların varlığı.
+7. Parapnömonik sıvı ve ampiyem: Ateş, pürü-
+lan balgam ile seyreden uygun klinik, sıvı tara-
+fında pulmoner infiltrasyonlar, antibiyotik teda-
+visine yanıt veya pürülan plevra sıvısı varlığı.
+8. Diğer akciğer dışı benign hastalıklar: Toraks
+patolojisi saptanmayan, bilinen akciğer dışı be-
+nign hastalığı olan ve plevral sıvı oluşumunu
+açıklayacak başka patoloji saptanmaması.
+Plevral sıvı saptanan olgularda torasentez ile sı-
+vının sitopatolojik, mikrobiyolojik ve biyokimya-
+sal analizleri yapıldı.
+Solunum sıkıntısı olan, ileri plevral efüzyonu
+saptanan, nedene yönelik medikal tedavi veya
+torasentez ile plevral efüzyonu gerilemeyen ya
+da tekrar eden hastalara lokal anestezi ile yedin-
+ci veya sekizinci interkostal aralıktan 10F
+Vygon® kateter uygulandı (Resim 1). Girişim ön-
+cesi olguların kanama profili değerlendirildi.
+Hastalar oturur pozisyonda  iken orta aksiler
+hattan kateterizasyon uygulandı. Kateter yatış
+konforu düşünülerek yandan takıldı. Kateter gö-
+ğüs duvarına cilde 2/0 ipek sütür konarak tesbit
+edildi. Kateter plastik torbaya drene olması sağ-
+lanarak açık drenaja alındı. Sıvı drenajının fazla
+olduğu durumlarda kateter drenaj kontrolü sağ-
+lanan göğüs şişelerine bağlandı. Ortalama kate-
+ter uygulama süresi 10-15 dakika idi. Akciğer
+ödeminden kaçınmak için kateterden bir anda
+Şen S, Şentürk E, Pabuşcu E, Çokpınar S, Yaman E.
+73
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77
+1500 mL’nin üzerinde drenaja müsaade edilme-
+di. Masif olgularda kontrollü drenaj sağlandı.
+Drenaj sonrası akciğer ekspansiyonu sağlanan,
+nüks beklenmeyen ve 100 mL/gün altında dre-
+naj olan olgularda kateter çekildi. Nüks olgular-
+da plöredez uygulandı. Drenaj kateteri ile plöre-
+dez uygulanımı oldukça rahat yapılabilmektedir.
+İkinci plöredez ile yanıt alınamayan olguların ge-
+nel durumu iyi olanlar drenaj ve kateter eğitimi
+verilerek kateterleri ile evlerine gönderildi.
+Olgularda demografik veriler, etyolojik nedenler
+ve kateterin tedavide etkinliği ve komplikasyon-
+lar araştırıldı.
+BULGULAR
+Toplam 94 olguya değişik nedenlerle gelişen
+plevral efüzyon tedavisi için kateter uygulandı.
+Hastaların 58’i erkek, 36’sı kadındı, yaş ortala-
+ması 57.2 (26-94) yıl bulundu. Ortalama kateter
+kalış süresi 8.3 (1-48) gün  oldu. Olguların de-
+mografik verileri Tablo 1’de görülmektedir.
+Plevral efüzyon nedeniyle kateterizasyon uygu-
+lanan olgularda en sık etyolojik neden 34
+(%36.1) olgu ile primer bronş kanseri olarak
+saptandı. Etyolojik nedenler Tablo 2’de görül-
+mektedir. Bilateral plevral efüzyon nedeniyle 94
+olgudan beşinde bilateral kateter uygulanmıştı
+(Resim 2). Hastaların 53 (%56.3)’üne nüks ne-
+deniyle plöredez uygulandı. Bunlardan 19
+(%35.8)’unda  plöredezde başarı sağlandı. Tablo
+2’de etyolojik nedenlere göre tetrasiklin ile plö-
+redez yapılan olgular görülmektedir.
+Yapılan çalışmada hastane morbiditesi %8.5
+(8/94 hastada) olarak saptandı. Bir olguda pnö-
+motoraks ve kateterin yerinden çıkması, üç ol-
+guda kateterin yerinden çıkması, iki olguda ka-
+teterde tıkanma ve bir olguda drenaj sorunu ya-
+şandı. Bir olguda king nedeniyle tıkanma ve dre-
+naj sorunu yaşandı. Toplam sekiz olguda komp-
+likasyon görüldü. Pnömotoraks gelişen hastada
+Plevral efüzyonlarda minimal invaziv yaklaşım
+74
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77
+Tablo 1. Demografik veriler.
+Sayı
+%
+Yaş 
+57.2 (26-94) yıl
+94
+100
+Cinsiyet 
+Erkek/Kadın
+58/36
+61.8/38.2
+Etyoloji 
+Primer akciğer maligniteleri
+34
+36.1
+Malign plevral efüzyonlar
+18
+19.2
+Benign etyolojiler
+42
+44.7
+Plöredez 
+Evet/hayır
+53/41
+56.3/45.7
+Başarılı/ başarısız
+19/34
+35.8/74.2
+Kateter süresi
+1-3 gün
+28
+29.8
+4-7 gün
+17
+18.1
+8-14 gün
+18
+19.2
+15 üzeri gün
+31
+32.9
+Resim 1. Vygon® kateter.
+izlem sonucunda spontan akciğer ekspansiyonu
+gözlendi. Bir olguda tesbit sorunu nedeniyle ka-
+teter yerinden çıkmıştı; kateter tekrar yerleştiril-
+di ve sütür tesbiti sağlamlaştırıldı. İki olguda ise
+uzun süre kullanıma bağlı kateter yeri maseras-
+yonu sonucu kateterin çıktığı saptandı. Kateter
+yeri değiştirilerek tedaviye devam edildi. İki ol-
+guda ise kaza sonucu kateter çıkması görüldü,
+yeni kateter takılmadı. Sadece bir olguda kate-
+ter yerinde sızıntı görüldü ve sütür ile kapatıldı.
+Drenaj sorunu olan olgulara ikincil ankiste am-
+piyem poşu nedeniyle aynı tarafa ikinci kateter
+uygulanması yoluna gidildi. Üç olguda fibrin tı-
+kaçlar nedeniyle tıkanma gözlendi. Ancak steril
+izotonik ile yıkama sonrası drenaj sağlandı. Ka-
+tetere bağlı infeksiyon görülmedi.
+Olgulardan üçü terminal dönem malignite nede-
+niyle kateterleri mevcutken kaybedildi.
+TARTIŞMA
+Günümüzde plevral sıvı tedavisinde uygun, kul-
+lanışlı ve ideal tedavi arayışları devam etmekte-
+dir. Tekrarlayan efüzyonlarda; ayaktan uygula-
+nabilirlik, plöredez yapılabilmesi, hasta veya ya-
+kınlarının evde drenaj kontrolü yapabilmesi ve
+düşük maliyet kateter seçiminde etkili olmakta-
+dır (1,8,11). Bazı kalıcı tünelli kateterler (Pleurx
+catheter) ya da uzun süreli kullanım için dizayn
+edilmiş küçük çaplı ve valvi bulunan kateterler
+(pleurocan, thoracatch vs.) bu amaçlarla ayak-
+tan tedavi için kullanılan kateterlerdir. Benign
+Şen S, Şentürk E, Pabuşcu E, Çokpınar S, Yaman E.
+75
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77
+Tablo 2. Etyolojik nedenler ve plöredez etkinliği.
+Plöredez pozitif
+Plöredez etkinliği
+Etyoloji
+Sayı (%)
+Sayı 
+Sayı
+Primer bronş kanseri
+34 (36.1)
+21
+9
+Ekstratorasik maligniteler
+Baş-boyun 
+2 (1.0)
+1
+0
+Meme
+3 (3.0)
+2
+1
+Abdominal
+6 (6.1)
+5
+2
+Ürogenital
+4 (4.0)
+3
+1
+Hematojen-lenfoproliferatif
+3 (3.0)
+1
+0
+Benign nedenler
+Konjestif kalp yetmezliği
+11 (11.1)
+9
+3
+Kronik böbrek yetmezliği
+8 (8.6)
+5
+2
+Parapnömonik sıvı-ampiyem
+8 (8.6)
+1
+0
+Karaciğer sirozu
+5 (5.1)
+3
+1
+Travma
+4 (4.0)
+1
+0
+Postoperatif
+4 (4.0)
+0
+0
+Diğer
+2 (2.0)
+0
+0
+Toplam
+94 (100)
+53
+19
+Resim 2. Bilateral kateter uygulanmış bir olgunun
+akciğer grafisi.
+efüzyonlarda ise kolay uygulanım, tanı ve teda-
+viye olanak sağlaması, düşük maliyet ve kısa
+süreli kullanım kateterler için uygunluk kriterleri
+olarak kabul edilebilir. Minimal invaziv girişim
+tüm efüzyonlarda hasta ve yakınları için, hekim-
+ler için tercih nedenidir.
+Solunum sıkıntısı gelişen plevral efüzyonlarda,
+masif plevral efüzyonlarda ve nedene yönelik te-
+daviye yanıtsız, nüks plevral efüzyonlarda; en
+sık plevral kateter ya da tüp torakostomi ile dre-
+naj uygulanmakta ve kimyasal plöredezis ile te-
+davi yapılmaktadır.
+Tüp torakostomi cerrahi bir girişim olup bazı uy-
+gulama zorlukları ve komplikasyonları mevcut-
+tur. Cerrahi girişimin drenaj donanımı ve siste-
+minden kaynaklanan nedenlerle kullanımı pratik
+değildir. Hastanede yatış süresinin uzaması ne-
+deniyle yüksek maliyet yükü getirmektedir. 
+İngiliz Toraks Derneği (BTS) uzlaşı raporunda,
+kalıcı plevral kateterin tekrarlayan malign efüz-
+yonların kontrolünde hastanede kalış süresini
+minimum tutmak gerektiğinde ve ayaktan kate-
+ter yerleştirilmesiyle ilgili deneyimli ekip ve do-
+nanım bulunduğu durumlarda etkin bir seçenek
+olduğu sonucuna varılmıştır (12).
+Son yıllarda özellikle malign plevral efüzyonlar-
+da kalıcı kateterler tercih edilmektedir. En sık
+kullanılan tünelli plevral kateter; Pleurx (Denver
+Biomedical, Denver, Colorado, USA) 24 inch
+uzunlukta, delikli distal ucu olan, proksimal
+ucunda drenaj amaçlı valf bulunan 15.5 Fr ça-
+pında silikon tüp olduğu bildirilmektedir (13).
+Ancak kullanım kolaylığı yanında uygulama
+güçlüğü ve yüksek maliyet sorunu bu kateterler-
+de de mevcuttur. Kullanılan kateterin maliyeti
+kalıcı kateterin yaklaşık 1/5’i kadardır. Vakumlu
+şişeleri ve valf sistemleri ile güvenli drenaj sağ-
+layan kalıcı tünelli kateterlerin düşük sosyoeko-
+nomik popülasyonda kullanımı zorlaşmaktadır.
+Nitekim ülkemizde hala kullanım amacıyla teda-
+riki mümkün değildir.
+Bir çalışmada Foley kateter ile plevral sıvı dre-
+najı ve gereğinde plöredez ve intraplevral fibri-
+nolitik tedavi yapılmış, başarılı sonuçlar alınmış-
+tır. Çalışmada kateterin ucuzluğu ve kolay kulla-
+nımı vurgulanmıştır (9). Cystofix kateter uygu-
+lanması plevral drenaj amacıyla denenen kolay
+uygulanabilir bir yöntem olarak bildirilmiştir
+(10). Foley kateter ve Cystofix kateterler kolay
+uygulanıma sahip olsalar da gereğinde kapalı su
+altı drenajı için uygun kateterler değildir. Foley
+kateter daha çok uzun süreli kullanımda, Cysto-
+fix kateter ise kısa süreli drenajlarda başarılı so-
+nuçlar vermektedir.
+Basit küçük çaplı kateterler uygulama kolaylığı
+yanında oldukça düşük bir maliyet yüküne sa-
+hiptir. Tünelli kateterlere göre yerinden çıkma
+veya sızıntı riski fazla olmasına karşın deneyim-
+li ellerde bu risk minimuma indirilebilir. Tünelli
+kalıcı kateterlere göre tıkanma riski daha az ol-
+maktadır. Bir çalışmada, plevral kateter takılan
+(pleurx) 100 hastadan beşinde infeksiyon geliş-
+tiği bildirilmiştir (14). Ancak olgularımızda in-
+feksiyon görmedik.
+Çalışmamızda etkin drenaj sağlamakla birlikte
+plöredez uygulaması da rahatlıkla yapılmıştır.
+Ayrıca, basit küçük çaplı kateterler sadece ma-
+lign efüzyonlarda değil benign efüzyonlarda da
+güvenle kullanılabilmektedir. Basit küçük çaplı
+kateterler uygulama ve kullanım kolaylığı nede-
+niyle kısa ve orta süreli drenaj ve tedavi gereken
+durumlarda güvenle kullanılabilir. Kullandığımız
+kateterde küçük çaplı olmasına karşın etkin dre-
+naj yanında tıkanma probleminin düşük olması
+avantaj oluşturmaktadır. Bilinen kalıcı tünelli ka-
+teterlerin yurdumuzda temin güçlüğü düşünülür-
+se uzun süreli kateterizasyonlarda da etkin bir
+tedavi yöntemi olarak kullanılabilir.
+Sonuç olarak; uygulama ve kullanım kolaylığı-
+nın yanı sıra drenaj ve plöredez uygulamasında-
+ki etkinliği ve düşük maliyeti ile Vygon® kateter
+kullanımı; plevral efüzyonlu hastalarda kısa ve
+orta süreli kullanımlarda ilk seçim, uzun süreli
+kullanımda alternatif olabilecek güvenli bir teda-
+vi yöntemidir.
+KAYNAKLAR
+1.
+Light RW (ed). Pleural Effusion Due to Miscellaneous Di-
+seases in Pleural Diseases. 4th ed. Philadelphia: Lippin-
+cott Williams and Wilkins, 2002.
+2.
+Sahn SA. The pathophysiology of pleural effusions. An-
+nu Rev Med 1990; 41: 7-13. 
+Plevral efüzyonlarda minimal invaziv yaklaşım
+76
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77
+3.
+McLoud TC, Flower CD. Imaging of the pleura: Sonog-
+raphy, CT and MR imaging. AJR 1991; 156: 1145-53.
+4.
+Porcel JM, Light RW. Thoracentesis. PIER, American Col-
+lege of Chest Physicians, 2004. Accesed date: October
+28, 2004. Available from: http://pier.acponline.org
+5.
+Porcel JM, Vives M. Etiology and pleural fluid characte-
+ristics of large andmassive effusions. Chest 2003; 124:
+978- 83.
+6.
+Patz EF, McAdamsHP, Erasmus JJ, et al. Sclerotherapy
+for malignant pleural effusions: A prospective randomi-
+zed trial of bleomycin vs. doxycycline with small-bore
+catheter drainage. Chest 1998; 113: 1305-11.
+7.
+Parker LA, Charnock GC, Delany DJ. Small bore cathe-
+ter drainage and sclerotherapy for malignant pleural ef-
+fusions. Cancer 1989; 64: 1218-21.
+8.
+Putnam JB, Garrett LW, Swisher SG, et al. Outpatient
+management of malignant pleural effusion by a chronic
+indwelling pleural catheter. Ann Thorac Surg 2000; 69:
+369-75.
+9.
+Ben-Nun A, Best LA. A simple method of using a Foley
+catheter to drain pleural effusion. Surg Today 2008; 38:
+769-70.
+10.
+Kilic D, Findikcioglu A, Hatipoglu A. Description of a
+new technique: Management of pleural effusion with a
+Cystofix catheter. Respirology 2007; 12: 288-90. 
+11.
+Asopa S, Patel A. Bonnano’s catheter: A less invasive
+and cost-effective alternative for drainage of pleural effu-
+sion. J Thorac Cardiovasc Surg 2006; 132: 1503-4.
+12.
+Antunes G, Neville E, Duffy J, Ali N. BTS guidelines for
+the management of malignant pleural effusions. Thorax
+2003; 58 (Suppl 2): 29-38.
+13.
+Michaud G, Barclay P, Tremblay A. Tunneled pleural cat-
+heters for palliation of malignant pleural effusions. J
+Bronchol 2006; 12: 245-8.
+14.
+Putnam JB Jr, Walsh GL, Swisher SG, et al. Outpatient
+management of malignant pleural effusion by a chronic
+indwelling pleural catheter. Ann Thorac Surg 2000; 69:
+369-75.
+Şen S, Şentürk E, Pabuşcu E, Çokpınar S, Yaman E.
+77
+Tüberküloz ve Toraks Dergisi 2010; 58(1): 71-77

@@ -1,0 +1,998 @@
+ 
+ 
+Pamukkale  Üniversitesi Eğitim Fakültesi Dergisi (PAU Journal of Education) 48: 285-302 
+[2020] doi: 10.9779/pauefd.576186 
+  
+ 
+Araştırma Makalesi/Research Article 
+   
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık 
+Üzerindeki Etkileri   
+ 
+The Effects of Optimism, Altruism and Marital Status on the 
+Psychological Resilience  
+İzzet PARMAKSIZ1 
+ Geliş Tarihi: 11.06.2019  Kabul Tarihi: 17.07.2019 Çevrimiçi Yayın Tarihi: 17.07.2019 
+ 
+Öz 
+Bu çalışmada iyimserlik ve özgeciliğin psikolojik dayanıklılığı yordamadaki gücünü saptamak amaçlanmıştır. 
+Örneklem Orta Anadolu’da yaşayan 389 (Kadın:198, Erkek:191) yetişkin katılımcıdan oluşmaktadır. Bu araştırmada 
+İyimserlik Ölçeği, Özgecilik Ölçeği, Psikolojik Dayanıklılık Ölçeği ve araştırmacı tarafından geliştirilen kişisel bilgi 
+formu kullanılmıştır. Veri analizinde hiyerarşik regresyon analizi, t-testi ve ANOVA ve pearson korelasyonu 
+kullanılmıştır. Medeni durum dummy değişken olarak regresyon analizine dahil edilmiştir. Regresyon analizine dahil 
+edilen nicel değişkenler arasında pozitif yönlü anlamlı bir ilişki saptanmıştır. Yapılan analizlerde medeni durumun 
+psikolojik dayanıklılık puanlarını anlamlı farklılaştırdığı saptanmıştır. Buna karşın cinsiyet, yaşanan yer, eğitim 
+düzeyi ve ekonomik durum psikolojik dayanıklılık puanları üzerinde anlamlı bir farklılık oluşturmamıştır.  Yapılan 
+regresyon analizinde katılımcıların iyimserliklerinin, özgeci davranışlarının ve medeni durumlarının psikolojik 
+dayanıklılığı yordadığı saptanmıştır. Koruyucu ve önleyici ruh sağlığı hizmeti veren bireylerin yapacakları teorik ve 
+uygulamalı eğitimlere iyimserlik, özgecilik kavramlarını tanıtıcı ve kazandırıcı etkinlikler eklemelerinin faydalı 
+sonuçlar vereceği düşünülmektedir. Ayrıca bireyi ruh sağlığı anlamında güçlendiren ve yalnızlıktan uzaklaştırmak 
+için birinci derece öneme sahip sosyal destek mekanizmalarının önemi konusunda bireyleri bilinçlendirmek için 
+faaliyetler yürütülebilir. 
+Anahtar sözcükler: psikolojik dayanıklılık, iyimserlik, özgecilik, medeni durum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atıf: 
+Parmaksız, İ. (2020). İyimserlik, özgecilik ve medeni durumun psikolojik dayanıklılık üzerindeki etkileri. 
+Pamukkale Üniversitesi Eğitim Fakültesi Dergisi, 48, 285-302. doi 10.9779/pauefd.576186 
+                                                     
+* Dr. Öğr. Üyesi, Niğde Ömer Halisdemir Üni. Eğitim F. Eğitim Bil. Böl. Psikolojik Danışma ve Rehberlik ABD., 
+izparm44@gmail.com, https://orcid.org/0000-0003-2468-6134 
+ 
+İzzet PARMAKSIZ 
+ 
+286
+Abstract 
+The aim of this study was to determine the strength of optimism and altruism in predicting psychological resilience. 
+The sample consists of 389 (Female: 198, Male: 191) adult participants living in Central Anatolia. In this study, 
+Optimism Scale, Altruism Scale, Psychological Resilience Scale and personal information form developed by the 
+researcher were used. Hierarchical regression analysis, t test and ANOVA and Pearson correlation were used to 
+analyze the data. Marital status was included as a dummy variable in regression analysis. A positive significant 
+relationship was found between the quantitative variables included in the regression analysis. In the analyzes, it was 
+found that marital status significantly differentiated psychological resilience scores. On the other hand, gender, place 
+of living, education level and economic status did not differ significantly. In the regression analysis, it was found that 
+the optimism, altruistic behavior and marital status of the participants predicted their psychological resilience. It is 
+thought that adding optimistic and altruistic activities to the theoretical and practical trainings of protective and 
+preventive mental health service individuals will give beneficial results. Social support strengthens the individual in 
+terms of mental health and removes it from loneliness. Activities can be carried out to raise awareness of individuals. 
+Keywords: psychological resilience, optimism, altruism, marital status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cited: 
+Parmaksız, İ.(2020). The effects of optimism, altruism, and marital status on the psychological resilience. 
+Pamukkale Üniversitesi Eğitim Fakültesi Dergisi, 48, 285-302. doi: 10.9779/pauefd.576186 
+ 
+ 
+ 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+ 
+Giriş 
+Günümüz toplumunu düşündüğümüzde artık problemler kaçınılmaz hale gelmiştir. İnsanların 
+giderek daha fazla hassaslaşması ruh sağlığını etkileyen dinamiklerin daha dikkatlice ele 
+alınmasını gerektirmektedir. Bu nedenle toplumu oluşturan yapıyı dinamik tutmak için 
+stresörleri kontrol altına almak çok önemlidir. Ruh sağlığı alanındaki çalışmacıların bir yönden 
+de amacı; bireyin yaşam kalitesini ve mutluluğunu dolaylı olarak da yaşam doyumunu 
+artırmaktır (Seligman, 1998). Bunu sağlamanın da bireylerin dayanıklılığını artırmakla 
+olabileceği düşünülmektedir. Bu açıdan psikolojik dayanıklılığı etkileyen faktörlerin dikkatle 
+ele alınması gerekmektedir. İyimser tutum (Şahin,  2015), özgeci davranış (Tümlü ve 
+Recepoğlu, 2013) ve medeni durum (Bozgeyikli ve Şat, 2014) değişkenlerinin farklı örneklem 
+gruplarında psikolojik dayanıklılıkla ilişkili olduğu saptanmıştır. Bu çalışmada ise bu 
+değişkenlerin psikolojik dayanıklılık üzerindeki yordayıcı etkisi ele alınmıştır. 
+Psikolojik Dayanıklılık 
+Problem kaçınılmaz ise problemli durumlardan güçlenmiş olarak çıkmak önemlidir. Bu açıdan 
+gelişmek için üzerinde durulan kavramlardan biri de, negatifliğe ya da dezavantajlara 
+odaklanmak yerine, bireyin güçlü yönlerini ön plana çıkaran psikolojik dayanıklılıktır (Wang ve 
+Zhang, 2015). Psikolojik dayanıklılık, stresli zamanlarda kişinin performansı, sağlığı ve ruhsal 
+durumunun iyi olmasını ifade eden bir kişilik özelliğidir (Maddi, 1998). Herrman vd., (2011) 
+psikolojik dayanıklılığın çoğunlukla pozitif uyum, zorlu yaşam olayları sonrasında ruh 
+sağlığının korunması ya da tekrardan kazanılması anlamında kullanıldığını belirtmişlerdir. 
+Psikolojik dayanıklılığı yüksek olan kişiler hayata dair olumlu duygulara sahip kişilerdir 
+(Atarbay, 2017). Ayrıca insanların sosyal destek mekanizmaları güçlü olduğunda psikolojik 
+dayanıklılıkları da artmaktadır. (Kobau vd., 2011). Psikolojik dayanıklılık çözüm odaklı baş 
+etme ve problemi kontrol altında tutmaya yönelik tutumları içermektedir (Folkman ve Lazarus, 
+1990). Bu durumda psikolojik dayanıklılık, stresin negatif sonuçlarını azaltan ve uyum 
+sağlamayı kolaylaştıran bir nitelik olarak kendini göstermektedir (Jacelon 1997). Aynı zamanda 
+psikolojik dayanıklılık öğrenilebilir bir özelliktir (Beardslee ve Podorefsky 1998). Bu nedenle 
+psikolojik dayanıklılığı sağlayabilmek için bu özelliği güçlendiren iyimserlik ve özgeci 
+davranışı da bilmek önemlidir. 
+İyimserlik 
+İyimserlik, yaşamın bütün alanlarına genellenen ve değişmez bir biçimde sürdürülen olumlu 
+bakış açısı olarak (Abraham, 2007) bireyin geleceğine dair olumlu inançlarıdır (Gillham ve 
+Reivich, 2004). İyimserlik en kötü koşullarda bile olumlu bakış açısı ve olumlu beklentiler 
+geliştirmeyi sağlar. Burada söz konusu olan her koşulda olumlu bakış açısı geliştirebilmenin 
+temelinde, sosyal destek kaynaklarına ulaşabilmek kadar şans faktörlerine ya da koruyucu bir 
+güce sığınmanın rolü de bulunmaktadır (Magno, Parinas, ve Mamauag, 2008).  Kişilik gelişimi 
+açısından bakıldığında koruyucu bir faktör olarak karşımıza çıkmaktadır (Karaırmak, 2007; 
+Benson, 2007). Ayrıca iyimserlik, psikolojik iyilik halini arttırmada özellikle faydalı olabilir 
+(Carver ve Scheier, 2014) ve bireyin hedefleri davranışa dönüştürme kapasitesine katkıda 
+bulunarak (Boehm, Chen, Williams, Ryff, Kubzansky, 2015) bireyin kendini iyi hissetmesini 
+sağlayabilir. Ayrıca insanın eyleme geçmesinde sahip olduğu iyimser tutumun rolü çok 
+ 
+İzzet PARMAKSIZ 
+ 
+288
+önemlidir (Balcı ve Yılmaz, 2002). Çünkü iyimser bireyler olumsuz olaylardan, umutsuzluktan 
+ve suçluluk duygusundan kendilerini uzak tutarlar (Kesken ve Ayyıldız, 2008). Araştırmalarda, 
+iyimser insanların daha iyi fiziksel ve zihinsel sağlığa, daha uzun ömre, daha olumlu sosyal 
+ilişkilere ve daha iyi başa çıkma becerilerine sahip oldukları ifade edilmektedir (Castro-Schilo 
+vd., 2013; Taylor vd., 2012). Bu durum da daha iyi bir ruh sağlığı olarak kendini 
+göstermektedir. 
+Özgecilik 
+Özgecilik başkalarına yardım etmenin sağladığı memnuniyet duygusu dışında karşılık 
+beklemeden gönüllü olarak iyilik yapmaktır (Taylor, Peplau ve Sears, 2010). Özgecilik bir 
+anlamda başkalarının sorunlarına karşı hissedilen empati duygusunun davranışsal yönüdür 
+(Eisenberg, Fabes ve Spinrad, 2006). Bu açıdan pek çok sosyal davranışı da içinde 
+barındırmaktadır (Batson, 2003). Budak (2009)’a göre özgeci davranışta esas olan başkasının 
+yararına hareket etme ve kendi çıkarından çok başkasının yararını düşünmektir. Özgecilik 
+beklentisiz iş yapmaktır. Bu çıkarsız davranış kişinin kendini iyi hissetmesini sağlar. Çünkü 
+mutlu olmanın yollarından biri de insanlara karşılık beklemeden yardım etmektir (Seligman, 
+2007). Sağlıklı olmayı kendini gerçekleştirme olarak tanımlayan Maslow’a (2001) göre 
+özgecilik, bireyin kendini gerçekleştirme düşüncesiyle birlikte ruh sağlığının da aracı 
+değişkenidir. Özgeci davranış öğrenme sonucu ve model alınarak elde edilebileceğinden (Lee, 
+Piliavin ve Call, 1999) bu davranışın bireylere kazandırılmasıyla insanların ruh sağlığına olumlu 
+etkide bulunulabilir.  
+Psikolojik Dayanıklılık, Özgecilik ve İyimserlik Arasındaki İlişkiler 
+Yaşadığımız çağ ruh sağlığını tehdit edici pek çok riski barındırmaktadır. Bu açıdan insanlara, 
+ruh sağlığını koruyucu olumlu özellikleri kazandırmak çok önemlidir. Çünkü bireylerin ruh 
+sağlığını tehdit eden risklere karşı dayanıklılığı artıran özelliklerin kazandırılması onları bu 
+risklerden korumaktadır. Olumlu kişilik özelliklerden olan psikolojik dayanıklılık, iyimserlik ve 
+özgecilik ruh sağlığını etkileyen önemli dinamiklerdir. Özgecilik iyimser olma ile ilişkili olduğu 
+düşünülen bir kavramdır. Şahin (2015) de özgecilik ve iyimserlik arasında pozitif bir ilişki 
+bulmuştur. Ayrıca Sezer ve Genç (2018) de iyimserlikle aynı anlamı ifade eden pozitif algı ile 
+özgecilik arasında pozitif yönde anlamlı bir ilişki olduğunu saptamıştır.  
+Schwartz, Keyl, Marcum ve Bode, (2009), Weinstein ve Ryan, (2010) ve Eryılmaz ve 
+Ercan, (2011) özgeciliğin psikolojik iyi olmayla olumlu ilişkisinin olduğunu saptamışlardır. 
+Cheak, (2013), Foureur, Besley, Burton, Yu ve Crisp (2013), Çam ve Büyükbayram (2015) 
+özgeciliğin psikolojik dayanıklılığı etkileyen kişisel koruyucu faktör olduğunu saptamışlardır. 
+Psikolojik dayanıklılığı destekleyen en önemli kavramlardan biri de iyimser olmaktır. 
+İyimserlik de önemli ve olumlu bir kişilik özelliğidir. Kişilik yapılanmasının da, bu kavramla 
+ilişkili olduğu belirtilmiştir (Agaibi ve Wilson, 2005). İyimserlik gibi olumlu sonuçların 
+doğmasına destek olan koruyucu faktörler psikolojik dayanıklılığın oluşması ve ortaya 
+çıkmasında payı olan faktörlerdir (Aydın, 2018). Ayrıca yapılan araştırmalar psikolojik 
+dayanıklılığı yordayan en önemli faktörün iyimserlik olduğunu ve aralarında güçlü bir ilişki 
+olduğunu ortaya koymaktadır (Kumpfer, 1999; Luthar, 1999; Terzi, 2008). İyimserlik 
+öğrenilebilir ve geliştirilebilir bir duygudur  (Parmaksız ve Avşaroğlu, 2012). Teorik olarak, 
+erken ve orta yetişkinlik döneminde ortalama iyimserlik seviyelerinin artması beklenir (Arnett, 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+2006). Bu durumun sonucu olarak yetişkinlikte, iyimserlik, daha yüksek seviyelerde öznel iyi 
+oluş sağlar (Mens, Scheier, Carver, 2016). Bunun yanı sıra insanlar iyimser bakış açılarını 
+üzerinde etkin oldukları insanlara da öğretmektedir. Örneğin iyimserliği yüksek olan biriyle evli 
+olan kişilerin zaman içinde daha iyimser olma eğiliminde oldukları tespit edilmiştir (Chopik, 
+Kim ve Smith, 2015). Ayrıca yetişkinlik dönemindeki iyimserlik düzeyindeki artış, yaşamdan 
+doyum sağlamayla dolayısıyla psikolojik olarak dayanıklı olmayla ilişkilidir (Baird, Lucas ve 
+Donnellan, 2010; Orth ve Robins, 2014).  Sonuç olarak sosyal bir varlık olan insan diğer 
+bireylerle ilişkilerinde iyimser tutum gösterdiğinde bencil davranma eğilimini kısıtlar. Kültürel 
+unsurların da etkili olduğu özgeci bir eğilim sergiler. Bu davranış eğilimi de psikolojik 
+dayanıklılık düzeyini artırarak bireylerin ruh sağlığını olumlu etkiler.  
+Araştırmanın Amacı 
+Karacaoğlu ve Köktaş (2016) iyimserliğin psikolojik dayanıklılık üzerinde kısmi aracı rolü 
+olduğunu; Seligman (1999) iyimserliğin esnek düşünceyi sağlayarak bireyi güçlendirdiğini ifade 
+etmektedir. Karaırmak (2007) ise iyimserliğin dolaylı ve doğrudan psikolojik dayanıklılıkla 
+ilişkili olduğunu bulmuştur. Bozgeyikli ve Şat, (2014) özgeci davranışın psikolojik 
+dayanıklılıkla güçlü bir ilişkisi olduğunu ortaya koymuştur. Mellor vd., (2009) birine gönüllü 
+yardım etmenin (özgeci davranış) psikolojik iyilik halini olumlu etkilediğini bulmuştur.  
+Araştırma sonuçlarına bakılarak yetişkin bireylerin iyimser ve özgeci tutumlarının psikolojik 
+dayanıklılığı artıracağı düşünülmektedir. Bu nedenle bu araştırmada iyimserlik ve özgeciliğin 
+psikolojik dayanıklılığı yordayıcı etkisini saptamak amaçlanmıştır. Yetişkinlik dönemi 
+psikolojik dayanıklılık çalışmalarının sayıca az olduğu bilinmektedir (Bonanno, 2004). Alan 
+yazına özellikle örneklem grubu olarak özgün bir katkı sağlayacağı düşünüldüğünden bu 
+çalışma önem arz etmektedir. 
+Yöntem 
+Bu araştırma, yetişkin bireylerde iyimserlik ve özgeciliğin psikolojik dayanıklılıkla ilişkisini 
+incelemeye yönelik ilişkisel bir çalışmadır. Bu araştırmada tarama modeli kullanılmıştır. 
+Tarama modelinde amaç bir durumu betimlemek ya da keşfetmektir (Babbie, 2012). Tarama 
+modeli ile elde edilen veriler ise t-testi, Anova ve hiyerarşik regreyon analizi yöntemiyle analiz 
+edilmiştir.  
+Bu araştırmada aşağıdaki araştırma sorularına cevap aranmıştır. 
+1. Demografik değişkenlerin psikolojik dayanıklılıkla ilişkisi nedir? 
+2. İyimserlik, özgecilik ve medeni durum psikolojik dayanıklılığı yordamakta mıdır? 
+Veri analizinde kullanılan hiyerarşik regresyon analizi aşağıdaki modele göre yapılmıştır. 
+Model 1: Psikolojik Dayanıklılık = Sabit + Medeni Durum (Dummy Değişken) 
+Model 2: Psikolojik Dayanıklılık = Sabit + Medeni Durum (Dummy Değişken) + İyimserlik 
+Model 3: Psikolojik Dayanıklılık = Sabit + Medeni Durum (Dummy Değişken) + İyimserlik + 
+Özgecilik 
+ 
+ 
+ 
+İzzet PARMAKSIZ 
+ 
+290
+Çalışma Grubu 
+Araştırma grubu 2019 yılında Orta Anadolu’da yaşayan yetişkin bireylerden oluşmaktadır. 
+Çalışmaya dahil olan bireyler rastgele belirlenmiş gönüllü katılımcılardır. Katılımcılar 191’i 
+(%49.1) erkek 198’i (%50.9) kadın olmak üzere toplam 389 kişidir. Yaşları 20-73 arasında 
+değişmektedir (M±SD= 30.17 ± 10.65). 
+Tablo 1. Katılımcıların Sosyo-Demografik Özellikleri 
+Cinsiyet  
+ 
+N 
+ 
+Medeni Durum 
+Yaş   
+Eğitim Düzeyi 
+ 
+ 
+Yaşadığı Yer 
+ 
+Ekonomik 
+Durum 
+ 
+ 
+ 
+Evli 
+Bekâr 
+ 
+ 
+ 
+ 
+ 
+ 
+x̄  
+İlköğretim ve Altı 
+Lise 
+Ön Lisans 
+Lisans 
+Lisansüstü 
+Köy 
+İlçe veya Kasaba 
+İl 
+Büyükşehir 
+Düşük 
+Orta 
+Yüksek  
+Kadın (f)  198 
+80 
+118 
+29.39 
+26 24 23 118 7 
+30 49 93 26 
+12 170 16 
+Erkek (f)  191 
+79 
+112 
+30.97 
+8 
+25 24 122 12 
+31 36 85 39 
+10 154 27 
+Veri Toplama Araçları: 
+İyimserlik ölçeği 
+Bu ölçek iyimserlik düzeyini ölçmek amacıyla Balcı ve Yılmaz’ın (2002) geliştirdiği 24 
+maddeden oluşan 4’lü likert tipi bir ölçme aracıdır. Ölçeğin iç tutarlılığını saptamak için 
+hesaplanan Cronbach’s α iç tutarlılık katsayısı .96’dır. Pearson Momentler korelasyon katsayısı 
+.61’dir. Testi yarılama yöntemiyle hesaplanan güvenirlik katsayısı ise .91’dir. Geçerlik için 
+hesaplanan korelasyon katsayısı 55’tir. Ölçeğin maddelerinin yapı geçerliliğine ve alt 
+boyutlarının olup olmadığına bakmak için faktör analizi tekniği kullanılmıştır. 24 maddeden biri 
+hariç (1. madde) birinci faktörde toplandığı saptanmıştır. Ölçekten alınabilinecek puan 24 ile 96 
+aralığındadır. Yüksek puan bireyin “iyimser” olduğunu göstermektedir. 1, 6, 8, 9, 11 numaralı 
+maddeler için ters kodlama yapılmaktadır. Bu araştırma için hesaplanan güvenirlik katsayısı 
+.86’dır. 
+Özgecilik ölçeği 
+Doğan ve Sapmaz (2015) tarafından geliştirilmiştir. Ölçek 15 maddeden oluşmakta ve tek 
+boyutludur. Ölçek 5’li likert tip puanlama sistemine sahiptir. Ölçeğin Cronbach's α iç tutarlılık 
+katsayısı .84; test tekrar test güvenirlik katsayısı ise .74’tür. Ölçekten alınan yüksek puan, 
+özgecilik düzeylerinin yüksek olduğunu göstermektedir. Ölçekte 2. 3. 7. 8. ve 10. maddeler ters 
+puanlanmaktadır. Bu araştırma için hesaplanan güvenirlik katsayısı .83’tür. 
+Psikolojik dayanıklılık ölçeği 
+Friborg vd.,‘ nin 2005 yılında geliştirdiği ölçek, Basım ve Çetin (2011) tarafından Türkçe’ye 
+uyarlanarak geçerlik ve güvenirliliği yapılmıştır. 5’li likert tipi bir  ölçektir. Ölçek 33 maddeden 
+oluşmaktadır. Puanlar arttıkça psikolojik dayanıklılık da artar. Ölçekteki; 1,3,4, 8, 11, 12, 13, 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+14, 15, 16, 23, 24, 25, 27, 31, 33 numaralı maddeler tersten puanlanır. Ölçeğin toplam 
+Cronbach’s α katsayısı ise 0.90 olarak hesaplanmıştır. Bu araştırma verileriyle hesaplanan faktör 
+analizinde promax tekniği kullanılmış ve analiz sonucunda toplam varyansın % 47’sini 
+açıklayan ve öz değeri 1’den büyük olan 6 faktör elde edilmiştir. Bu sonuçlar ölçeğin yapı 
+geçerliğine sahip olduğunu göstermektedir. Bu araştırma için hesaplanan güvenirlik katsayısı 
+.88’dir. 
+Kişisel bilgi formu 
+Araştırmadaki bağımsız değişkenlerden olan yaş, cinsiyet, medeni durum, eğitim düzeyi, 
+yaşanan yer ve algılanan ekonomik durum gibi değişkenlerin kullanıldığı araştırmacı tarafından 
+geliştirilmiş bir formdur. 
+İşlem 
+Araştırmanın yapılabilmesi için seçilen gönüllü katılımcılara iyimserlik ölçeği, özgecilik ölçeği, 
+psikolojik dayanıklılık ölçeği ve kişisel bilgiler formu araştırmacı tarafından uygulanmıştır. 
+Katılıcılara 
+uygulama 
+öncesinde 
+araştırmanın 
+amacı 
+anlatılarak 
+ölçekleri 
+rahatça 
+cevaplandırabilecekleri bir ortam ve zaman sağlanmıştır. Araştırmacı ölçekle ilgili yönergeyi 
+verdikten sonra araştırmacının gözetiminde ölçekler cevaplandırılmıştır. Uygulamalar yaklaşık 
+25 dakika sürmüştür. 
+Verilerin Analizi 
+Bu araştırmada bağımlı değişken ile bağımsız değişken arasındaki ilişkiye bakılmış ve ilk adım 
+olarak da varyansların homojenliği (normal dağılım) incelenmiştir. Levene testi sonuçları tüm 
+değişkenler için p > 0.05 dır. Sonucun anlamlı olmaması dağılımın normal olduğunu ifade 
+etmektedir. Çarpıklık değeri tüm değişkenler için - 0.55 ile -0.14 aralığındadır; basıklık 
+değerinin ise tüm değişkenler için - 0.70 ile 0.37 aralığında olduğu hesaplanmıştır. Çarpıklık ve 
+basıklık katsayılarının ±1 sınırlarında olması, puanların normalden aşırı sapma göstermediğini 
+ifade eder (Büyüköztürk, Çokluk ve Köklü, 2010).  Skewness değerlerinin +1 ve -1 arasında 
+kurtosis değerlerinin de +2 ile -1 arasında olmasının da normal olduğu belirtilmektedir (Huck, 
+2008). Bu istatistiksel analiz sonuçlarına göre örneklem grubumuz normal dağılıma sahiptir. 
+Veriler üzerinde ikili karşılaştırmalarda t-testi, çoklu karşılaştırmalarda tek yönlü varyans 
+analizi (ANOVA) kullanılmıştır. Yordayıcı etkiyi saptamak için ise hiyerarşik regresyon analizi 
+tekniği kullanılmıştır. Verilerin aykırı değere sahip olup olmadığına bakmak için Mahalanobis 
+uzaklık değerine sahip olan aykırı değerlerin hesaplaması yapılarak aykırı değere sahip 11 veri, 
+veri setinden çıkarılmıştır. Bağımsız değişkenler arasındaki ikili korelasyonlar orta düzeydedir. 
+Bu bulgu değişkenler arasında çoklu bağlantının olmadığını anlamına gelir. Tolerans ve VIF 
+değerleri kabul edilir sınırlar içindedir. Otokorelasyonu test etmede kullanılan Durbin-Watson 
+değeri 1.93’tür. Veriler SPSS 22 programında çözümlenmiştir. 
+Bulgular 
+Psikolojik dayanıklılık çeşitli değişkenlere göre incelenmiştir. Bu amaçla elde edilen bulgular 
+aşağıda verilmiştir. 
+Katılımcıların psikolojik dayanıklılık toplam puanının cinsiyet (t(2-387)=-1.60, p>0.05) 
+değişkenine göre ortalamalar arası farkın anlamlı olmadığı bulunmuştur. Medeni durum (t(2-387)= 
+ 
+İzzet PARMAKSIZ 
+ 
+292
+3.87, p<0.001) değişkenine göre ise ortalamalar arası farkın anlamlı olduğu bulunmuştur. (Tablo 
+2) Bu bulguya göre, evli bireylerin psikolojik dayanıklılık düzeyleri daha yüksektir. 
+Tablo 2. Psikolojik Dayanıklılığın Çeşitli Değişkenlere Göre t-Testi Sonuçları  
+Değişkenler 
+ 
+N 
+X̅  
+ss 
+t 
+p 
+Cinsiyet 
+Erkek 
+191 
+125.53 
+19.27 
+-1.60 
+0.11 
+Kadın 
+198 
+128.55 
+17.96 
+Medeni Durum 
+Evli 
+159 
+131.39 
+18.82 
+3.87 
+0.00 
+Bekar 
+230 
+124.08 
+17.97 
+Katılımcıların psikolojik dayanıklılık toplam puanının ekonomik durum algısı F(3-386)= 
+2.58, p>0.05), yaşadığı yer F(4-385)= 2.25, p>0.05) ve eğitim düzeyi (5-384)= 0.70, p>0.05) 
+değişkenlerine göre puanlar arası farkın anlamlı olmadığı bulunmuştur. (Tablo 3).  
+Tablo 3. Psikolojik Dayanıklılığın Tek Yönlü Varyans Analizi (ANOVA) Sonuçları 
+Değişkenler 
+ 
+N 
+X̅  
+ss 
+F 
+p 
+Eğitim Düzeyi 
+İlköğretim ve Altı 
+34 
+127.14 
+16.08 
+0.54 
+0.70 
+Lise 
+49 
+124.69 
+20.45 
+Ön Lisans 
+47 
+126.72 
+19.19 
+Lisans 
+240 
+127.22 
+18.83 
+Yüksek Lisans 
+19 
+132.00 
+14.65 
+Yaşadığı Yer 
+Köy 
+61 
+127.95 
+18.63 
+2.25 
+0.08 
+Kasaba ve İlçe 
+85 
+123.57 
+17.64 
+İl 
+178 
+129.29 
+18.75 
+Büyükşehir 
+65 
+124.70 
+19.13 
+Ekonomik Durum Algısı 
+Düşük  
+22 
+118.95 
+21.22 
+2.58 
+0.08 
+Orta 
+324 
+127.25 
+18.02 
+Yüksek 
+43 
+129.81 
+21.19 
+Katılımcıların iyimserlikleri, özgeci davranışları ve psikolojik dayanıklılık düzeyleri 
+arasındaki korelasyon katsayıları aşağıdadır. Tablo 4 incelendiğinde, iyimserlik puanları ve 
+özgecilik puanları arasında (r=0.49), iyimserlik puanları ve psikolojik dayanıklılık puanları 
+arasında (r=0.51), özgecilik puanları ve psikolojik dayanıklılık puanları arasında (r=0.39) pozitif 
+yönlü güçlü bir ilişki olduğu; medeni durum ve psikolojik dayanıklılık puanları arasında (r=       
+-0.19) negatif yönlü güçlü bir ilişki olduğu saptanmıştır.  
+ 
+ 
+ 
+ 
+ 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+Tablo 4. Değişkenler Arasındaki Korelasyon Katsayıları 
+Değişkenler 
+MD 
+İ 
+Ö 
+PD 
+MD 
+1.00 
+ 
+ 
+ 
+İ 
+-0.20* 
+1.00 
+ 
+ 
+Ö 
+0.02 
+0.49* 
+1.00 
+ 
+PD 
+-0.19* 
+0.51* 
+0.39* 
+1.00 
+*p<.01  
+İ: İyimserlik, Ö: Özgecilik, PD: Psikolojik Dayanıklılık, MD: Medeni Durum 
+Regresyon Analizi Sonuçları 
+Katılımcıların iyimserlik ve özgecilik puanlarının psikolojik dayanıklılık puanlarını yordayıp 
+yordamadığı hiyerarşik regresyon analizi ile incelenmiştir. “Medeni durum” değişkenine göre 
+psikolojik dayanıklılık puanları farklılık gösterdiği için bu değişken “dummy değişken” olarak 
+tanımlandıktan sonra hiyerarşik regresyon analizine dahil edilmiştir. Analiz sonuçları Tablo 
+5’tedir. 
+Tablo 5. Medeni Durum, İyimserlik ve Özgecilik Puanlarının Psikolojik Dayanıklılığı 
+Yordamasına İlişkin Hiyerarşik Regresyon Analizi Sonuçları  
+Bağımlı Değişken 
+Bağımsız Değişken 
+R2 
+F 
+ 
+t 
+Psikolojik Dayanıklılık 
+1. Adım 
+  Medeni Durum 
+ 
+ 
+0.04 
+ 
+14.94 * 
+ 
+-0.19 
+ 
+-3.86* 
+2. Adım 
+   Medeni Durum 
+   İyimserlik 
+ 
+0.27 
+71.19* 
+ 
+-0.09 
+ 0.49 
+ 
+-2.17** 
+11.07* 
+3. Adım 
+   Medeni Durum 
+   İyimserlik 
+   Özgecilik 
+ 
+ 
+0.30 
+ 
+54.67* 
+ 
+-0.11 
+0.39 
+0.19 
+ 
+-2.56** 
+7.78* 
+4.00* 
+*p <0.001 **p<0.05 
+İyimserlik psikolojik dayanıklılığı medeni durum kontrol değişkeniyle birlikte %27 
+yordamaktadır. Bu iki değişkene özgeci davranışın da eklenmesiyle yapılan analizde %30 gibi 
+yüksek düzeyde yordayıcılık saptanmıştır. 
+Tartışma  
+Bu çalışmada özgeci tutum, iyimser tutum ve medeni durumun yetişkinlerin psikolojik 
+dayanıklılıkları üzerindeki etkisini saptamak amaçlanmıştır. Bulgular, yetişkin bireylerin 
+iyimser ve özgeci tutumlarındaki artışın psikolojik dayanıklılık düzeyinin artmasına katkı 
+sağladığını ortaya koymaktadır. Bu veriler iyimserlik, özgecilik ve medeni durumun psikolojik 
+dayanıklılığı yordadığını göstermektedir. 
+Araştırma bulgularına göre cinsiyet, yaşanan yer, ekonomik durum ve eğitim düzeyi 
+psikolojik dayanıklılık puanlarını anlamlı düzeyde farklılaştırmamaktadır buna karşın medeni 
+durum psikolojik dayanıklılık puanlarını anlamlı düzeyde farklılaştırmaktadır.  
+ 
+İzzet PARMAKSIZ 
+ 
+294
+Araştırma bulgularına göre yaşanan yer psikolojik dayanıklılık puanlarını anlamlı 
+farklılaştırmamaktır. Bu durum psikolojik dayanıklılığın yaşanan yerle ilgili olmadığını diğer 
+değişkenlerin ruh sağlığı üzerinde daha etkili olduğunu göstermektedir. Araştırma bulgularına 
+göre psikolojik dayanıklılık puanları cinsiyete göre anlamlı derece farklılaşmamaktadır. Bu 
+araştırma sonucuna paralel olarak Sezgin (2012), Karataş (2016)  ve Bektaş da (2018) cinsiyetin 
+psikolojik dayanıklılık üzerinde etkili olmadığını saptamıştır. Buna karşın Eryılmaz  (2012); 
+Önder ve Gülay (2008); Güngörmüş, Okanlı, Kocabeyoğlu (2015); Bozgeyikli ve Şat, (2014) 
+cinsiyetin psikolojik dayanıklılık puanlarını anlamlı farklılaştırdığını saptamıştır. 
+Bu araştırmada eğitim düzeyinin psikolojik dayanıklılık puanlarını anlamlı 
+farklılaştırmadığı saptanmıştır. Araştırma verilerine paralel olarak Boell, Silva, Hegadoren, 
+(2016); Karabulut ve Balcı (2017); Küçüktatlıdil (2016)  eğitim düzeyinin psikolojik 
+dayanıklılık puanlarını anlamlı farklılaştırmadığını bulmuştur; fakat Bonanno, Galea,  
+Bucciarelli ve Vlahov, (2007); Bozgeyikli ve Şat, (2014); Soyer, Gülle, Mızrak, Zengin ve Kaya 
+(2013) araştırmalarında eğitim düzeyinin psikolojik dayanıklılık puanlarını anlamlı 
+farklılaştırdığını belirten sonuçlar bulmuştur. 
+Bu araştırmada ekonomik durum algısının psikolojik dayanıklılık puanlarını anlamlı 
+farklılaştırmadığı saptanmıştır. Bu bulguya zıt olarak Güngörmüş vd. (2015) ekonomik 
+durumun psikolojik dayanıklılık puanlarını anlamlı farklılaştırdığını saptamıştır. Bu 
+araştırmanın verileri ekonomik durumun anlamlı etkisinin olmadığı bulgusuna sahip olsa da 
+psikolojik dayanıklılık puan ortalamaları yüksek ekonomik duruma sahip olmayla paralel olarak 
+artmaktadır. Campbell-Sills, Forde ve Stein (2009) çalışmalarında gelir düzeyi düşük bireylerin 
+psikolojik dayanıklılık düzeylerinin de düşük olduğu sonucuna ulaşılmıştır. Alan yazında 
+ekonomik düzeyin düşük olmasının ruh sağlığını olumsuz etkileyen risk faktörlerinden olduğu 
+ifade 
+edilmektedir 
+(Vanderbilt-Adriance, 
+2006). 
+Bu 
+durum 
+Maslow’un 
+ihtiyaçlar 
+hiyerarşisindeki temel ihtiyaçları gidermek için ekonomik gücün gerektiği düşüncesini 
+doğrulamaktadır.  
+Bu 
+araştırmada 
+medeni 
+durum 
+psikolojik 
+dayanıklılık 
+puanlarını 
+anlamlı 
+farklılaştırmaktadır. Araştırma verilerine paralel olarak Bozgeyikli ve Şat, (2014) medeni 
+durumun psikolojik dayanıklılık puanlarını anlamlı derecede farklılaştırdığı sonucuna 
+ulaşmıştır. Buna karşın Kırımoğlu, Çokluk ve Yıldırım (2012); Gökmen (2014); Sönmezer 
+(2015), medeni duruma göre anlamlı bir fark olmadığını belirtmişlerdir. 
+Yapılan analizlerde iyimserlik, özgecilik ve medeni durumun psikolojik dayanıklılığın 
+güçlü yordayıcıları olduğu tespit edilmiştir. Günümüzde iyimserlik ve özgecilik pozitif 
+psikolojide önemli bir araştırma alanına dönüşmüştür. İyimserlik ve özgeciliğin psikolojik 
+dayanıklılığı güçlendiren özellikler olduğu düşünüldüğünden mevcut araştırmacılar da bu 
+olumlu kişilik özelliklerini araştırmışlardır (Seligman ve Mather, 2002). Psikolojik 
+dayanıklılığın gelişiminde, yaşanan risklerin belirlenmesi, meydana getirdiği olumsuzlukların 
+azaltılması ya da mümkünse bu etkilerin yok edilmesi için koruyucu unsurların varlığı çok 
+önemlidir (Çam ve Büyükbayram, 2017). İyimserlik ve özgecilik de psikolojik dayanıklılığı 
+etkileyen kişisel koruyucu faktörler olarak karşımıza çıkmaktadır (Cheak, 2013; McAllister, 
+2013; Potter vd., 2013; Çam, Öztürk-Turgut ve Büyükbayram (2014).  
+Pozitif bakış açısıyla yapılan çalışmalarda da psikolojik dayanıklılığa ilişkin 
+niteliklerden birinin de iyimserlik (Peterson, 2000) olduğu bilinmektedir. Ruthig, Haynes, 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+Stupnisky ve Perry, (2009) iyimserlik ve psikolojik sağlık arasındaki ilişkiyi incelediği 
+araştırmasında iyimserliğin depresyon ve stresi yordadığını saptamıştır. Bu yönleri ile 
+iyimserlik, olumsuz yaşantılar ve algılanan stres arasında bir kalkan gibi işlevde bulunarak ruh 
+sağlığını korumaktadır (Segerstrom, Taylor, Kemeny, Fahey, 1998). Buradan anlaşılıyor ki 
+iyimser bakış açısıyla depresyon ve stresle baş ederek iyilik halini yakalamak bireyi dayanıklı 
+hale getirmektedir. Çünkü Ergün-Başak ve Can (2018); Ergün, (2012); Eryılmaz (2012); 
+(Karaırmak, 2007) iyimserlik arttıkça psikolojik dayanıklılığın da arttığını ifade etmektedir.  
+İyimserlik, bireyleri kırılganlıktan uzaklaştıran, travmadan koruyan ve bireylerin moralini 
+yükselten bir faktör olarak ele alınmakta ve psikolojik dayanıklılığı arttırmada önemli bir rolü 
+olduğu vurgulanmaktadır (Gillham ve Reivich, 2004). Araştırmaların büyük bir çoğunluğu 
+psikolojik dayanıklılıkla iyimserlik (Luthar, 1999; Goel, Akarte, Agrawal, Yadav,  2016); 
+Özdemir, (2017) arasındaki ilişkileri gözler önüne sermektedir. Bu araştırmalar psikolojik 
+dayanıklılığı yordayan en önemli faktörün iyimserlik olduğunu ortaya koymaktadır (Terzi, 
+2008). İyimserlik belli bir alanla ilgili özel bir tutum değil genel bir eğilim olarak görülmektedir 
+(Scheier ve Carver, 1992). Bu yönüyle iyimserlik ruh sağlığını koruyucu bir faktör olarak 
+karşımıza çıkmaktadır (Baum, 2008; Masten, 2014) ve ayrıca iyimserliğin bazı aracı faktörlerle 
+fiziksel sağlık ve ruh sağlığını etkilediği bilinmektedir (Vaillant, 2012). İyimserlik bu bulgular 
+ışığında ve bir kişilik eğilimi olarak ruh sağlığını olumlu etkileyen bir özelliktir. İyimserlik 
+koşullara bağlı olarak ortaya çıkan zorlanmaların insan psikolojisi üzerindeki olumsuz etkilerini 
+azaltarak ruh sağlığını olumlu yönde etkilemektedir (Segerstrom vd., 1998). 
+Özgeci davranış da bireyin kendini gerçekleştirmesi için psikolojik sağlığın aracısıdır 
+(Maslow, 2001). Ayrıca olumsuz koşullarla sağlıklı bir biçimde başa çıkabilmede önemli bir 
+faktör olan özgecilik psikolojik dayanıklılığı artıran bir özelliktir (Beltman, Mansfield ve Price, 
+2011).Yaşam doyumu ve özgeci davranış arasında pozitif yönde bir ilişki vardır ve özgecilik 
+yaşam doyumunun yordayıcısıdır. (Ümmet, 2012). Dolayısıyla mevcut yaşantısından doyum 
+sağlayan birey özgeci davranma eğilimi sergilerken aynı zamanda ruh sağlığına olumlu katkıda 
+bulunarak daha dayanıklı hale dönüşmektedir. Schwartz vd., (2009) özgeciliğin sağlık ve 
+psikolojik iyi olmayla olumlu ilişkisinin olduğunu saptamışlardır. Bu özelliklere sahip bireylerin 
+medeni durumu da ruh sağlığını etkilemektedir. Sosyal destek ve baş etme mekanizmalarını 
+kuvvetlendiren bir unsur olan ve bireyi yalnızlaşmaktan uzaklaştıran evli olmak da psikolojik 
+dayanıklılığa olumlu katkıda bulunmaktadır.  
+Bu alan yazın verilerine baktığımızda araştırma verilerinin tutarlı sonuçlar ortaya 
+çıkardığı görülmektedir. Araştırmamızda da iyimserlik, özgecilik ve medeni durumun psikolojik 
+dayanıklılığı artırdığı saptanmıştır. Bu sonuçtan yol çıkarak koruyucu ve önleyici ruh sağlığı 
+hizmeti veren bireylerin yapacakları teorik ve uygulamalı eğitimlere iyimserlik, özgecilik 
+kavramlarını tanıtıcı ve kazandırıcı etkinlikler eklemlerinin faydalı sonuçlar vereceği 
+düşünülmektedir. Ayrıca bireyi ruh sağlığı anlamında güçlendiren ve yalnızlıktan uzaklaşmak 
+için birinci derece öneme sahip sosyal destek mekanizmalarının önemi konusunda bireyleri 
+bilinçlendirmek için faaliyetler yürütülebilir. 
+ 
+ 
+ 
+ 
+İzzet PARMAKSIZ 
+ 
+296
+Kaynakça 
+Abraham, W. T. (2007). Dispositional optimism and pessimism: stability, change, and adaptative 
+recovery following life event experience. Doktora Tezi. Iowa State University, Iowa. 
+Agaibi, C. E. & Wilson, J. P. (2005). Trauma, PTSD and resilience a review of the literature. Trauma, 
+Violence and Abuse, 6(3), 195-216. 
+Arnett, J. J. (2007). Emerging adulthood: What is it, and what is it good for? Child Development 
+Perspectives, 1(2), 68-73. 
+Atarbay, S. (2017). Farklı bölümlerde öğrenim gören üniversite öğrencilerinin sosyal kaygı düzeylerinin 
+psikolojik dayanıklılıklarına etkisi. Yüksek Lisans Tezi, İstanbul Üniversitesi, Eğitim Bilimleri 
+Enstitüsü, İstanbul. 
+Aydın, E. (2018). Çocukluk çağı travmatik yaşantılarının psikolojik sağlamlık ve depresyon belirtileri 
+üzerine etkisi. Yüksek Lisans Tezi, Fatih Sultan Mehmet Vakıf Üniversitesi, Sosyal Bilimler 
+Enstitüsü, İstanbul. 
+Babbie, E. (2012). The practice of social research (13th ed.). Canada: Wadsworth Publishing Company 
+Baird, B. M., Lucas, R. E., & Donnellan, M. B. (2010). Life satisfaction across the lifespan: Findings 
+from two nationally representative panel studies. Social İndicators Research, 99(2), 183-203. 
+Balcı, S. ve Yılmaz, M. (2002). İyimserlik ölçeğinin geçerlilik ve güvenilirlik çalışması. On Dokuz Mayıs 
+Üniversitesi Eğitim Bilimleri Fakültesi Dergisi, 14, 54-60. 
+Basım, H. N., ve Cetin, F. (2011). The reliability and validity of the resilience scale for adults-Turkish 
+version. Türk Psikiyatri Dergisi, 22(2), 104. 
+Batson C. D.  (2003). Altruism and prosocial behavior, “İn Weiner IB (ed): Handbook of social 
+psychology, 5. edition” pp. 463–485, Newyork:John Wiley & Sons, Inc. 
+Baum, N. L. (2008). Building resilience: A school-based intervention for children exposed to ongoing 
+trauma and stress. Journal of Aggression, Maltreatment & Trauma, 10(1-2), 487-498 
+Bektaş, M. (2018). Evli bireylerin psikolojik sağlamlık düzeylerinin yordanması. Doktora Tezi, Dokuz 
+Eylül Üniversitesi, Eğitim Bilimleri Enstitüsü, İzmir. 
+Beltman, S., Mansfield, C. & Price, C. (2011) Thriving not just surviving: A review of research on 
+teacher resilience. Educational Research Review, 6, 185–207. 
+Benson, H.P. (2007). Children’s dispositional optimism and pessimism: social and emotional outcomes. 
+Doktora Tezi, Seattle Pacific University, Seattle. 
+Boehm, J. K., Chen Y., Williams, D. R., Ryff, C., & Kubzansky, L. D. (2015)  Unequally distributed 
+psychological assets: are there social disparities in optimism, life satisfaction, and positive affect. 
+PLoS One. ;10(2): e0118066. https://doi.org/10.1371/journal.pone.0118066. 
+Boell, J. E. W., Silva, D. M. G. V. & Hegadoren, K. M. (2016). Sociodemographic factors and health 
+conditions associated with the resilience of people with chronic diseases: A cross sectional study. 
+Revista Latino-Americana Enfermagem. 24, e2786 doi: 10.1590/1518-83451205.2786. 
+Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity 
+to thrive after extremely aversive events? American Psychologist, 59(1) , 20–28. 
+Bonanno, G., Galea, S., Bucciarelli, A. & Vlahov, D. (2007). What predicts psychological resilience after 
+disaster? the role of demographics, resources, and life stress. Journal of Consulting and Clinical 
+Psychology. 75(5), 671-82. doi:10.1037/0022–006X.75.5.671. 
+Bozgeyikli, H., ve Şat, A. (2014). Öğretmenlerde psikolojik dayanıklılık ve örgütsel vatandaşlık 
+davranışlarının bazı değişkenler açısından incelenmesi: Özel okul örneği. Hak İş Uluslararası 
+Emek ve Toplum Dergisi, 3(5), 172-191. 
+Budak, S. (2009). Psikoloji Sözlüğü. Ankara: Bilim ve Sanat Yayınları. 
+Büyüköztürk, Ş., Çokluk, Ö. ve Köklü, N. (2010). Sosyal bilimler için istatistik (6. baskı). Ankara: Pegem 
+Akademik Yayınevi. 
+Campbell-Sills, L., Forde D. R. ve Stein, M. B. (2009). Demographic and childhood environmental 
+predictors of resilience in a community sample. Journal of Psychiatric Research. 43(12), 1007-
+1012. 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+Carver, C. S., & Scheier, M. F. (2014). Dispositional optimism. Trends in Cognitive Sciences, 18, 293–
+299. doi:10.1016/j.tics.2014.02.003 
+Castro-Schilo, L., Ferrer, E., Taylor, Z. E., Robins, R. W., Conger, R. D., & Widaman, K. F. (2013). 
+Parents' optimism, positive parenting, and child peer competence in Mexicanorigin families. 
+Parenting: Science and Practice, 12, 95-112. 
+Chesak S. (2013). Integration and ımpact of stress management and resiliency training (smart) in a nurse 
+residency program: A Feasibility Study. Theses and Dissertations, paper:347. 
+Chopik, W. J., Kim, E. S., & Smith, J. (2015). Changes in optimism are associated with changes in health 
+over time among older adults. Social Psychological and Personality Science, 6, 814-822. doi: 
+http://dx.doi.org/10.1177/1948550615590199 
+Çam M. O, Öztürk-T.urgut E, ve Büyükbayram A. (2014), “Ruh sağlığı ve hastalıkları hemşireliğinde 
+dayanıklılık ve yaratıcılık”, Psikiyatri Hemşireliği Dergisi, 5(3), 160-163. 
+Çam, O, ve Büyükbayram A. (2015). The results of nurses’ increasing emotional intelligence and 
+resilience. Psikiyatri Hemşireliği Dergisi, 6(3), 130–136. doi: 10.5505/phd.2015.96729 
+Çam, O., ve Büyükbayram, A. (2017). Hemşirelerde psikolojik dayanıklılık ve etkileyen 
+faktörler. Psikiyatri Hemşireliği Dergisi, 8(2), 118-126. 
+Doğan, T. ve Sapmaz, F. (2015). Özgeciliğin değerlendirilmesi ve öznel iyi oluşla ilişkisinin incelenmesi. 
+Yayınlanmamış Çalışma. Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı, Sakarya 
+Üniversitesi. 
+Eisenberg, N. Fabes R. A., & Spinrad T. L. (2006). Prosocial development, “ İn Damon W., Lerner R. M. 
+(eds): Handbook of Child Psychology, 6. edition” pp. 646–719, Newyork:John Wiley & Sons,  
+Ergün, B., (2012). Düşük gelirli ailelerden gelen üniversite öğrencilerinin öz duyarlılık, sosyal bağlılık ve 
+iyimserlik ile psikolojik dayanıklılık düzeyleri arasındaki ilişkiler. Doktora Tezi. Anadolu 
+Üniversitesi Eğitim Bilimleri Enstitüsü, Eskişehir. 
+Ergün-Başak, B., ve Can, G. (2018). The relationships between self-compassion, social-connectedness, 
+optimism and psychological resilience among low-ıncome university Students. İlköğretim 
+Online, 17(2), 768-785. 
+Eryılmaz, A., ve Ercan, L. (2011). Öznel iyi oluşun cinsiyet, yaş grupları ve kişilik özellikleri açısından 
+incelenmesi. Türk Psikolojik Danışma ve Rehberlik Dergisi, 4 (36), 139-151. 
+Eryılmaz, S. (2012). Üniversite öğrencilerinde psikolojik sağlamlığı yordamada yaşam doyumu, benlik 
+saygısı, iyimserlik ve kontrol odağının incelenmesi. Yüksek Lisans Tezi. Muğla Sıtkı Koçman 
+Üniversitesi, Eğitim Bilimleri Enstitüsü. Muğla. 
+Folkman, S. & Lazarus, R. S. (1990). Coping and emotion. İn N. L. Stein, B. Leventhal ve T. Trabasso 
+(Ed.), Psychological and biological approaches to emotion. NJ: Lawrence Erlbaum Associates. 
+Foureur M, Besley K, Burton G, Yu N, & Crisp, J. (2013). Enhancing the resilience of nurses and 
+midwives: pilot of a mindfulness-based program for increased health, sense of coherence and 
+decreased depression, anxiety and stress. Contemp Nurse, 45(1), 114–125 
+Gillham J. & Reivich, K. (2004). Cultivating optimism in childhood and adolescence. Annals of the 
+American Academy of Political and Social Science, 591, 146-163. 
+Goel, A. D., Akarte, S. V., Agrawal, S. P., & Yadav, V. (2016). Longitudinal assessment of depression, 
+stress, and burnout in medical students. Journal of neurosciences in rural practice, 7(4), 493-498. 
+Gökmen, B. (2014). Özel eğitim okulu yöneticilerinin psikolojik dayanıklılık ve iş doyumları arasındaki 
+ilişkinin incelenmesi (İstanbul Örneği), Yüksek Lisans Tezi, İstanbul Aydın Üniversitesi, Sosyal 
+Bilimler Enstitüsü, İstanbul. 
+Güngörmüş, K., Okanlı, A., ve Kocabeyoğlu, T. (2015). Hemşirelik öğrencilerinin psikolojik 
+dayanıklılıkları ve etkileyen faktörler. Psikiyatri Hemşireliği Dergisi, 6(1), 9-14. 
+Herrman, H., Stewart, D. E., Diaz-Granados, N., Berger, E. L., Jackson, B. ve Yuen, T. (2011). What is 
+resilience?. Canadian Journal of Psychiatry. Revue Canadienne De Psychiatrie, 56(5), 258-265. 
+Huck, S. W. (2008). Reading statistics and research, 5th Edition.  New York: Pearson  
+Jacelon C. S. (1997) The trait and process of resilience. Journal of Advanced Nursing,, 25, 123–129 
+ 
+İzzet PARMAKSIZ 
+ 
+298
+Karabulut, N. ve Balcı, A. (2017). Okul yöneticilerinin yılmazlık düzeyi ve denetim odağı ile ilişkisi. 
+Trakya Üniversitesi Eğitim Fakültesi Dergisi. 7(1), 196-214 
+Karacaoğlu, K., ve Köktaş, G. (2016). Psikolojik dayanıklılık ve psikolojik iyi olma ilişkisinde 
+iyimserliğin aracı rolü: Hastane çalışanları üzerine bir araştırma. İş ve İnsan Dergisi, 3(2), 119-
+127. 
+Karaırmak, Ö. (2007). Investigation of personal qualities contributing to psyhological resilience among 
+earthquake survivors: A model testing study. Doktora Tezi, Orta Doğu Teknik Üniversitesi, Sosyal 
+Bilimler Enstitüsü, Ankara. 
+Karataş, R. (2016). Özel Eğitim okullarında çalışan öğretmenlerin psikolojik dayanıklılık düzeyleri ve 
+başa çıkma stratejilerinin incelenmesi. Yüksek Lisans Tezi. Hacettepe Üniversitesi, Eğitim 
+Bilimleri Enstitüsü, Ankara. 
+Kesken J. ve Ayyıldız N. A. (2008). “Liderlik yaklaşımlarında yeni perspektifler: Pozitif ve otantik 
+liderlik”, Ege Akademik Bakış, 8(2): 729-754. 
+Kırımoğlu, H., Çokluk, G. F. ve Yıldırım, Y. (2012). Türk antrenörlerin yılmazlık düzeylerinin 
+incelenmesi. Elektronik Sosyal Bilimler Dergisi, 11(39), 115- 127. 
+Kobau, R., Seligman, M. E. P., Peterson, C., Diener, E. D., Zack, M. M., Chapman, D., et al., (2011). 
+Mental health promotion in public health: Perspectives and strategies from positive psychology. 
+American Journal of Public Health, 101(8), 1-9. doi: 10.2105/AJPH.2010.300083 
+Kumpfer, K. L. (1999). Factors and processes contributing to resilience: The resilience framework. In M. 
+D. Glantz, & J. L. Johnson, (Eds), Resilience and development: Positive life adaptations  pp. 179-
+224. New York: Kluwer Academic/Plenum Publishers. 
+Küçüktatlıdil, S. (2016). Sigorta sektöründe çalışan kişilerin psikolojik dayanıklılık ve stresle başetme 
+stratejilerinin bazı değişkenler açısından incelenmesi. Yüksek Lisans Tezi, Nişantaşı Üniversitesi 
+Sosyal Bilimler Enstitüsü, İstanbul. 
+Lee L, Piliavin J. A., & Call R. A. V. (1999) “Giving time, mone, and blood: similarities and differences. 
+Social Psychology Quarterly. 62(3), 276-290 
+Luthar, S. S. (1999). Measurement issues in the empirical study of resilience: An overview. In M. Glanz, 
+& J. L. Johnson (Eds.), Resilience and development: Positive life adaptations  pp. 129-160. New 
+York: Plenum. 
+Maddi, S. R. (1998). Dispositional hardiness in health and effectiveness. İn H. S. Friedman (Ed.). 
+Encyclopedia of Mental Health. San Diego, CA: Academic Press. 
+Magno, C., Parinas, N. & Mamauag, M. (2008). The influence of self-mastery and communal-mastery on 
+building a model of resiliency. Philippine Journal of Counseling Psychology, 10(1), 1-23. 
+Maslow, A. (2001). İnsan olmanın psikolojisi. (Çev. O. Gündüz), İstanbul: Kuraldışı Yayınları. 
+Masten, A. S. (2014). Ordinary magic-resilience in development. New York: The Guilford Press. 
+McAllister M. (2013). Resilience: a personal attribute, social process and key professional resource for 
+the enhancement of the nursing role. Prof Inferm, 66, 55–62. 
+Mellor, D., Hayashi, Y., Stokes, M., Firth, L., Lake, L., Staples, et al. (2008). Volunteering and its 
+relationship with personal and neighbourhood wellbeing. Nonprofit and Voluntary Sector 
+Quarterly, 38(1), 144- 159. 
+Mens, M. G., Scheier, C. S., & Carver, C. S. (2016). Optimism. In C. R. Snyder, S. J. Lopez, L. M. 
+Edwards, & S. C. Marques (Eds.), Handbook of positive psychology (3rd ed.). New York, NY: 
+Oxford University Press. Advanced online publication. 
+Orth, U., & Robins, R. W. (2014). The development of self-esteem. Current Directions in Psychological 
+Science, 23, 381-387. 
+Önder A, Gülay H. (2008). İlköğretim 8.sınıf öğrencilerinin psikolojik sağlamlığının çeşitli değişkenler 
+açısından incelenmesi. Dokuz Eylül Üniversitesi Buca Eğitim Fakültesi Dergisi;23, 192–197. 
+Özdemir, E. (2017). Sporcuların ve sedanterlerin psikolojik sağlamlık, benlik saygısı, iyimserlik ve 
+kontrol odağı düzeylerinin karşılaştırılması. Yüksek Lisans Tezi, Muğla Sıtkı Koçman 
+Üniversitesi, Sağlık Bilimleri Enstitüsü, Muğla. 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+Parmaksız İ., ve Avşaroğlu S. (2012). Öğretmen adaylarının benlik saygısı düzeylerine göre iyimserlik ve 
+stresle başaçıkma stillerinin incelenmesi. İlköğretim Online, 11(2), 543-555. 
+Peterson, C. (2000). The future of optimism. American Psychologist, 55(1), 44-45 
+Potter P., Deshields T., Berger J. A., Clarke M., Olsen S., & Chen L. (2013), “Evaluation of a compassion 
+fatigue resiliency program for oncology nurses”, Oncol Nurs Forum, 40(2), 180-187. 
+Ruthig, J.C., Haynes, T.L., Stupnisky, R. H., & Perry, R. P. (2009). Perceived academic control: 
+Mediating the effects of optimism and social support on college students’ psychological health. 
+Social psychology of education, 12(2), 233-249. DOI 10.1007/s11218-008-9079-6 
+Scheier, M. F. & Carver, C. S. (1992). Effects of optimism on psychological and physical well-being: 
+Theoretical overview and empirical update. Cognitive Therapy and Research, 16(2), 201–228. 
+Schwartz, C. E., Keyl, P. M., Marcum, J. P., & Bode, R. (2009). Helping others shows differential 
+benefits on health and well-being for male and female teens. Journal Happiness Studies, 10(4), 
+431–448. 8 doi:10.1007/s10902-008-9098-1 
+Segerstrom, C., Taylor, S. E., Kemeny, M. E. & Fahey, J. L. (1998). Optimism associated with mood, 
+coping, and ımmune change in response to stress. Journal of Personality and Social Psychology, 
+74(6), 1646-1655. 
+Seligman, M. (1999). Teaching positive psychology. APA Monitor on Psychology, 30(7). Erişim adresi: 
+http://www.apa.org. 
+Seligman, M. E. P. (2007). Gerçek mutluluk. (Çev: S. Kunt Akbaş), Ankara: HYB Basım Yayın. 
+Seligman, M., & Mather, P. (2002). Authentic happiness: using the nev positive psychology to realize 
+your potantial for lasting fulfilment. New York: Free Pre 
+Seligman, M.E.P. (1998). Positive Social Science. APA Monitor. 29(4), 2,5. 
+Sezer, Ö., ve Genç, H. (2018). The relation between altruism and positive perception and social 
+comparison in preservıce teachers. The Journal of International Social Research, 11(58), 489-495 
+Sezgin, F. (2012). İlköğretim okulu öğretmenlerinin psikolojik dayanıklılık düzeylerinin incelenmesi. 
+Kastamonu Eğitim Dergisi. 20(2), 489-502. 
+Soyer, F., Gülle, M., Mızrak, O., Zengin, S. ve Kaya, E. (2013). Spor yapan bedensel engelli bireylerin 
+çeşitli değişkenlere göre yılmaz düzeylerinin incelenmesi. Niğde Üniversitesi Beden Eğitimi ve 
+Spor Bilimleri Dergisi, 7(2), 126-136.  
+Sönmezer B. (2015). Öğretmenlerin tükenmişlik ve psikolojik dayanıklılık düzeylerinin incelenmesi. 
+Yüksek Lisans Tezi, Erciyes Üniversitesi, Eğitim Bilimleri Enstitüsü, Kayseri. 
+Şahin, Y. (2015). Üniversite öğrencilerinin mutluluk, iyimserlik ve özgecilik düzeylerinin incelenmesi. 
+Yüksek Lisan Tezi, Gaziosmanpaşa Üniversitesi, Eğitim Bilimleri Enstitüsü, Tokat. 
+Taylor, S. E., Peplau, L. A., & Sears, D. O. (2010). Sosyal psikoloji. (Çev. A. Dönmez), İstanbul: İmge 
+Kitabevi Yayınları. 
+Taylor, Z. E., Widaman, K. F., Robins, R. W., Jochem, R., Early, D. R., & Conger, R. D. (2012). 
+Dispositional optimism: A psychological resource for Mexican-origin mothers experiencing 
+economic 
+stress. 
+Journal 
+of 
+Family 
+Psychology, 
+26(1), 
+133-139. 
+doi: 
+http://dx.doi.org/10.1037/a0026755 
+Terzi, Ş. (2008). Üniversite öğrencilerinde kendini toparlama gücünün içsel koruyucu faktörlerle ilişkisi. 
+Hacettepe Üniversitesi Eğitim Fakültesi Dergisi, 35, 297–306. 
+Tümlü, G. Ü., ve Recepoğlu, E. (2013). Üniversite akademik personelinin psikolojik dayanıklılık ve 
+yaşam doyumu arasındaki ilişki. Yüksek Öğretim ve Bilim ,  3(2), 205-213. 
+Ümmet, D. (2012). Üniversite öğrencilerinde özgecilik davranışının transaksiyonel analiz ego durumları 
+ve yaşam doyumu bağlamında incelenmesi. Doktora Tezi, Marmara Üniversitesi, Eğitim Bilimleri 
+Enstitüsü. İstanbul. 
+Vaillant, G. E. (2012). Triumphs of experience: The men of the Harvard grant study. Cambridge, Mass: 
+Belknap Press of Harvard University Press. 
+Vanderbilt-Adriance E. (2006). Protective factors and the development of resilience among boys from 
+low-ıncome families. Unpublished master’s thesis, McGill University. 
+ 
+İzzet PARMAKSIZ 
+ 
+300
+Wang, J. L. & Zhang, D. J. (2015). Resilience theory and its implications for chinese adolescents. 
+Psychological Reports: Disability & Trauma, 117(2), 354-375. 
+Weinstein, N., & Ryan, R. M. (2010). When helping helps: Autonomous motivation for prosocial 
+behavior and its influence on well-being for the helper and recipient. Journal of personality and 
+social psychology, 98(2), 222-244.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+İyimserlik, Özgecilik ve Medeni Durumun Psikolojik Dayanıklılık Üzerindeki Etkileri 
+Extended Abstract 
+Introduction 
+When we think about today's society, problems have become inevitable. Therefore, mental 
+health experts have a very important duty. Psychological resilience, optimism and altruism are 
+important dynamics that affect mental health. The concept of psychological resilience is a 
+personality trait that expresses a person's performance, health and well-being in stressful times. 
+Psychological resilience is a feature that reduces the negative consequences of stress and 
+facilitates adaptation. At the same time, psychological resilience is a feature that can be learned. 
+For this reason, it is important to know the optimism and altruistic behavior that strengthens this 
+feature in order to provide psychological resilience. Optimism is the positive beliefs about the 
+future of the individual as a positive point of view which is generalized and invariably 
+maintained in all areas of life. Research shows that optimistic people have better physical and 
+mental health, longer lifespan, more positive social relationships, and better coping skills. This 
+situation shows itself as a better mental health. Acting altruist is doing voluntarily without 
+waiting for a response, except for the satisfaction that is provided by helping others. Altruistic 
+behavior is a behavior that will be obtained by learning and modeling. By bringing this behavior 
+to individuals, a positive effect can be made on the mental health of individuals. Altruism is a 
+behavior that manifests itself with optimism. In this tendency, it affects individuals positively as 
+mental health. Therefore, it is aimed to determine the predictive effect of optimism and altruistic 
+behaviors in increasing psychological resilience, since it is thought that optimistic and altruistic 
+behaviors of adults will increase psychological resilience. This study is thought to make an 
+original contribution to the literature. 
+Method 
+This research is a relational study aimed at examining the relationship between optimism and 
+altruism and psychological resilience in adult individuals. The sample consists of 389 (Female: 
+198, Male: 191) adult participants living in Central Anatolia. Their ages ranged from 20 to 73 
+years (M ± SD = 30.17 ± 10.65). Participants were randomly selected volunteers. In this study, 
+Optimism Scale, Altruism Scale and Psychological Resilience Scale and personal information 
+form developed by the researcher were used. The validity and reliability of the measurement 
+tools used in the study were statistically determined. Hierarchical regression analysis, t test and 
+ANOVA and pearson correlation were used to analyze the data. Psychological resilience scores 
+differed according to the marital status variable. Therefore, marital status was included as a 
+dummy variable in regression analysis. A significant relationship was found between the 
+variables included in the regression analysis.  
+Results 
+In the analyzes, it was found that marital status significantly differentiated psychological 
+resilience scores. On the other hand, gender, place of living, education level and economic 
+status did not differ significantly. The hierarchical regression analysis was performed in 3 steps. 
+According to the results of hierarchical regression analysis, one of the predictors of 
+psychological resilience was found to be a high predictor of psychological resilience as 27% 
+with the marital status control variable and 30% with altruistic behavior. These findings show 
+that altruistic behavior and optimism are very effective in predicting psychological resilience. 
+ 
+İzzet PARMAKSIZ 
+ 
+302
+Discussion 
+The demographic variables used in this study did not affect psychological resilience.  Only 
+marital status affected psychological resilience. When the literature is reviewed, there are 
+studies supporting these findings as well as studies determining the opposite. Today, optimism 
+and altruism have become an important field of research in positive psychology. Since it is 
+thought that there are traits that strengthen psychological resilience, current researchers also 
+deal with positive personality traits such as optimism, psychological resilience and altruism. 
+Research shows that optimism is the most important factor predicting psychological resilience. 
+Optimism and altruism are also personal protective factors affecting psychological resilience. 
+They found that altruism had a positive relationship with health and psychological well-being. 
+Optimism and altruism are predictors of psychological resilience. In the literature, there are 
+research results that support this predictor. When we look at the literature data of this field, it is 
+seen that the research data produce consistent results. Based on this result, it is thought that 
+adding optimistic and altruistic activities to the theoretical and practical trainings of protective 
+and preventive mental health service individuals will give beneficial results. Social support 
+strengthens the individual in terms of mental health and removes it from loneliness. Activities 
+can be carried out to raise awareness of individuals. 
+This research is limited to the measurement tools and research sample used. This research 
+is original with the adult sample in which the data were collected. Because most of the research 
+in the literature is composed of adolescents and university students. 

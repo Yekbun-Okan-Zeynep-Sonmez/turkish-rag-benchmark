@@ -1,0 +1,458 @@
+40
+Ç
+in’in Wuhan kentinde 2019 yılının son aylarında yeni bir koronavirüs türüne 
+(severe acute respiratory syndrome coronavirus-2; SARS-CoV-2) bağlı pnö-
+moni vakaları ve ciddi solunum yetmezliği nedeniyle ölümler bildirilmeye baş-
+landı.1 Bu virüs tarafından oluşan ve özellikle pnömoni ile seyreden hastalığa ise 
+koronavirus hastalığı 2019 (COVID-19) adı verildi.2 COVID-19’un kesin tanısı boğaz-
+burun sürüntüsü, trakeal aspirat materyali gibi hastaya ait sekresyonlarda SARS-CoV-
+2’ye ait ribonükleik asitin ters transkriptaz-polimeraz zincir reaksiyonu (RT-PCR) ile 
+gösterilmesiyle konulmaktadır.1,2 Ancak RT-PCR’ın COVID-19 tanısı için özgüllüğü 
+yüksek iken duyarlılığı nispeten düşük düzeydedir.3 COVID-19 hastaları asemptomatik 
+olabileceği gibi öksürük, halsizlik, ateş, nefes darlığı gibi spesifik olmayan semptomlarla 
+da başvurabilirler.4,5 COVID-19 şüphesi ve orta-ciddi solunum şikayetleri olan hasta-
+larda görüntüleme yöntemlerine sıklıkla başvurulmakta olup görüntüleme yöntemleri 
+pnömoni teşhisinde ve yaygınlığının değerlendirilmesinde, pulmoner emboli veya pnö-
+motoraks gibi olası komplikasyonların araştırılmasında ve hastaların takibinde önemli 
+yarar sağlamaktadır.6,7 COVID-19 pnömonisinde duyarlılığı yüksek ancak özgüllüğü 
+düşük birçok görüntüleme bulgusu saptanmış olup bu hastalarda en sık görülen bulgu-
+ 
+ 
+COVID-19 Pnömonisinde Ayırıcı Tanı 
+Differential Diagnosis of COVID-19 Pneumonia
+ÖZET Yeni koronavirüs 2019 hastalığı (COVID-19) tüm dünyada ciddi sağlık sorunlarına neden ol-
+maktadır. Bu hastalarda özellikle toraks bilgisayarlı tomografi (BT) kullanımı oldukça sık olup toraks 
+BT pnömoni teşhisi ve yaygınlığının değerlendirilmesinde, olası komplikasyonların araştırılmasında ve 
+hastaların takibinde önemli yarar sağlamaktadır. COVID-19 pnömonisinde en sık toraks BT bulguları bi-
+lateral, periferik ve bazal baskın dağılım gösteren buzlu cam ve konsolidasyon alanlarıdır. Ancak bu 
+bulgular birçok enfeksiyöz veya enflamatuvar hastalıklarda da görülebilmektedir. Bu nedenle ayrıcı ta-
+nıların ve COVID-19 pnömonisi ile arasındaki klinik ve radyolojik farklılıkların bilinmesi büyük önem 
+taşımaktadır. Bu bölümde COVID-19 pnömonisinin ayırıcı tanıları toraks BT bulguları eşliğinde de-
+ğerlendirilecektir.  
+ 
+Anah tar Ke li me ler: COVID-19; pnömoni; bilgisayarlı tomografi; ayırıcı tanı 
+ 
+ 
+ABS TRACT The novel coronavirus disease 2019 (COVID-19) causes serious health problems world-
+wide. In these patients, the use of chest computed tomography (CT) is frequent, and it is of great bene-
+fit in the diagnosis and severity of pneumonia, in investigating possible complications and in the 
+follow-up of patients. The most common chest CT findings in COVID-19 pneumonia are ground glass 
+and consolidation areas with the bilateral, peripheral and basal dominant distribution. However, these 
+findings can be seen in many infectious or inflammatory diseases. Therefore, it is important to know the 
+differential diagnosis, clinical and radiological differences between COVID-19 pneumonia. Herein, the 
+differential diagnosis of COVID-19 pneumonia will be discussed with chest CT findings. 
+ 
+Keywords: COVID-19; pneumonia; computed tomography; differential diagnosis
+Furkan UFUKa 
+ 
+aPamukkale Üniversitesi Tıp Fakültesi, 
+Radyoloji ABD, 
+Denizli, TÜRKİYE 
+ 
+Yazışma Adresi/Correspondence: 
+Furkan UFUK 
+Pamukkale Üniversitesi Tıp Fakültesi, 
+Radyoloji ABD 
+Denizli, TÜRKİYE 
+furkan.ufuk@hotmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KAYNAK GÖSTERMEK İÇİN:  
+Ufuk F. COVID-19 pnömonisinde ayırıcı tanı. 
+Savaş R, editör. Radyoloji ve COVID-19. 1. 
+Baskı. Ankara: Türkiye Klinikleri; 2020. p.40-
+6.
+Furkan Ufuk
+COVID-19 Pnömonisinde Ayırıcı Tanı
+41
+lar bilateral, periferik ve bazal baskın dağılım gösteren 
+buzlu cam ve konsolidasyon alanlarıdır.6-9 Ancak bu bul-
+gular birçok enfeksiyöz veya enflamatuvar hastalıklarda da 
+görülebilmektedir.8,9. Bu nedenle ayrıcı tanıların ve 
+COVID-19 pnömonisi ile arasındaki klinik ve radyolojik 
+farklılıkların bilinmesi büyük önem taşımaktadır. Hatalı 
+değerlendirmelerin önüne geçebilmek için toraks bilgisa-
+yarlı tomografisi (BT) görüntülerinin radyoloji uzmanları 
+tarafından değerlendirilmesi ve radyoloji uzmanlarının da 
+COVID-19 pnömonisi ve ayırıcı tanılara ait görüntüleme 
+bulgularını iyi bilmesi gerekmektedir. 
+ VİRAl PNömONİlER 
+Virüsler solunum yolu enfeksiyonlarının en sık nedeni olup 
+viral pnömonilerde görüntüleme bulguları çok değişken-
+dir. Viral pnömonilerin genel olarak görüntüleme bulgu-
+ları viral olmayan enfeksiyöz ve enflamatuar patolojilere 
+ait bulgularla örtüşmekte olup viral pnömoni etkenlerinin 
+izole edilmesi ve tanımlanması çoğu zaman kolay değil-
+dir.10 Viral enfeksiyonların patogenezi ile ilişkili olabile-
+cek bazı görüntüleme bulguları tanımlanmış olup aynı 
+virüs ailesindeki üyeler benzer pnömoni patogenezine ve 
+radyolojik bulgularına sahiptir.11 Virüs türlerine göre sa-
+dece görüntüleme özellikleri ile kesin bir teşhis yapılama-
+masına rağmen, viral pnömoni paternlerinin tanınması, 
+viral patojenlerin ayırt edilmesine yardımcı olabilir.  
+İnfluenza vİrüs pnömonİsİ 
+İnfluenza A virüslerinin alt tipleri olan H1N1 2009 yılında, 
+H5N1 ise 2008 yılında pandemiye neden olmuş grip et-
+kenleridir.11 Akciğer radyografisi ve toraks BT, influenza 
+virüsü ile enfekte hastaların büyük çoğunluğunda normal 
+bulunmakta olup orta-üst zonlarda daha baskın nodüller, 
+nodüller çevresinde fokal konsolidasyon ve buzlu cam 
+alanları en sık görülen bulgulardır (Resim 1).11,12 COVID-
+19 pnömonisinde ise sıklıkla orta-alt akciğer zonlarda bas-
+kın, periferal ve multilobar dağılımlı, yamasal buzlu cam 
+alanları saptanır. H1N1 veya H5N1 pnömonisinin aksine 
+nodüller ve nodüller çevresinde konsolidasyon-buzlu cam 
+alanları COVID-19 için beklenen bir bulgu değildir.7 
+respİratuvar sİnsİsyal vİrüs (rsv)  
+Toraks BT’de sıklıkla sentrilobüler nodüller, tomurcukla-
+nan ağaç paternini (tree-in-bud pattern) ve bronşiyal duvar 
+RESİM 1: Elli-iki yaşında erkek hastada influenza virüs (H5N1) pnömonisi. Üç gün-
+dür giderek artan ateş ve kuru öksürük şikayetiyle başvuran hastada yapılan toraks 
+bilgisayarlı tomografi incelemesinde her iki akciğer parankiminde dağınık yerle-
+şimli nodüller (siyah oklar) ve yamasal buzlu cam alanları izlenmektedir (kırmızı 
+çerçeveler).
+RESİM 2: İki yaşında erkek hastada respiratuvar sinsisyal virüs (RSV) pnömonisi. (a, b) Toraks bilgisayarlı tomografi incelemesinde her iki akciğer orta-üst zonlarda, bir 
+çoğu santral-peribronkovasküler dağılımlı sentilobüler nodüller ve yamasal buzlu cam alanları izlenmektedir (kırmızı çerçeveler).
+Furkan Ufuk
+COVID-19 Pnömonisinde Ayırıcı Tanı
+42
+kalınlaşması ile ortaya çıkarken, COVID-19’dan farklı ola-
+rak RSV pnömonisinde periferal, multilobar buzlu cam ve 
+konsolidasyon alanları nadiren görülür  (Resim 2).9,11  
+adenovİrüs 
+Toraks BT’de multifokal dağılımlı, düzensiz konsolidas-
+yon ve/veya buzlu cam alanları sık saptanmakta olup bak-
+teriyel bronkopnömoni ile benzer bulgulara sahiptir.11 
+COVID-19’dan farklı olarak adenovirüs pnömonisinde pe-
+riferal baskın tutulum sık değildir (Resim 3). Ayrıca, ade-
+novirüs pnömonisi sıklıkla çocuklarda görülmekte olup 
+pnömoniye sıklıkla farenjit-larenjit gibi üst solunum yolu 
+enfeksiyonu (ÜSYE) bulguları ve konjonktivit eşlik eder. 
+COVID-19’da ise ÜSYE bulguları ve konjonktivit nadiren 
+bildirilmiştir.7,9 
+sİtomegalovİrüs (Cmv) pnömonİsİ 
+Sıklıkla immunsuprese hastalarda görülmekte olup toraks 
+BT’de her iki akciğerde dağınık veya difüz olarak yerleşim 
+gösteren düzensiz buzlu cam alanları ile karakterizedir 
+(Resim 4). COVID-19 pnömonisi ise CMV pnömonisine kı-
+yasla daha heterojen ve fokal-periferal olma eğilimindedir. 
+rİnovİrüs pnömonİsİ 
+Toraks BT’de düzensiz buzlu cam alanları, interlobüler 
+septal kalınlaşmalar ve yamasal heterojen konsolidasyon 
+alanları sık görülmektedir. Rinovirüs enfeksiyonu olan has-
+talarda sıklıkla burun akıntısı ve nezle bulguları mevcut 
+iken COVID-19’da burun akıntısı ve nezle çok nadiren bil-
+dirilmiştir.11 Bunun dışında COVID-19 pnömonisinde pe-
+riferal ve bazal baskın fokal tutulum görülürken, rinovirüs 
+pnömonisinde birden fazla lobda difüz dağılım daha sık 
+beklenen görüntüleme bulgularıdır.10,11 
+RESİM 3: Elli-dokuz yaşında kadın hastada adenovirüs pnömonisi. Gözlerde kı-
+zarıklık, ishal, ateş ve öksürük şikayetiyle gelen hastada sağ akciğer üst zonda 
+difüz buzlu cam alanı ve eşlik eden nodüler konsolidasyonlar izlenmektedir (kırmızı 
+çerçeve).
+RESİM 4: Otuz-iki yaşında akut myeloid lösemi tanılı immun suprese erkek has-
+tada sitomegalovirüs (CmV) pnömonisi. Her iki akciğer alt zonlarda difüz buzlu 
+cam alanları izlenmektedir (kırmızı çerçeveler).
+RESİM 5: Otuz-üç yaşında erkek hastada toplum kökenli pnömoni. (a, b) Her iki akciğerde peribronkovasküler dağılımlı multiple nodüller ve eşlik eden buzlu cam alanları 
+izlenmektedir. Hastanın balgam kültüründe mycoplasma pneumoniae üredi.
+Furkan Ufuk
+COVID-19 Pnömonisinde Ayırıcı Tanı
+43
+ 
+ BAKTERİYEl PNömONİlER 
+Bakteriyel pnömoniler toplum kökenli pnömoni (TKP), as-
+pirasyon pnömonisi (AP) ve hastane kökenli pnömoni 
+(HKP) olmak üzere üç gruba ayrılır. TKP sıklıkla tek lob 
+veya segmenti tutan, hava bronkogramları içeren konsoli-
+dasyon olarak görülürken, AP genelde alt loblarda, sentri-
+lobüler nodüller ve tomurcuklanan ağaç görünümleri ile 
+karakterizedir (Resim 5). HKP’de ise görüntüleme bulgu-
+ları çok değişken olup yüksek mortalite nedeniyle erken ta-
+nınması 
+önemlidir.14 
+COVID-19 
+pnömonisinde 
+lobar-segmental konsolidasyon ve sentrilobüler nodüller 
+nadir bulgular olup süperpoze bakteriyel pnömoni varlı-
+ğında görüntüleme bulguları kafa karıştırıcı olabilmekte-
+dir.  
+ FUNGAl PNömONİlER 
+Mantar türlerine bağlı akciğerlerde geniş bir enfeksiyon 
+yelpazesini kapsamakta olup özellikle bağışıklığı baskı-
+lanmış bireyleri etkilemektedir. İnvaziv pulmoner asper-
+gilloz ve mukomikoziste sıklıkla çevresinde buzlu cam 
+halesi bulunan nodüller ve nodüler konsolidasyonlar gö-
+rülmektedir (Resim 6). Pneumocystis jirovecii pnömoni-
+sinde ise immunsuprese hastada, bilateral akciğer üst 
+loblarında difüz buzlu cam alanları ve eşlik eden hava kist-
+lerinin görülmesi tipiktir (Resim 7). 
+ 
+ ORGANİzE PNömONİ 
+Sıklıkla periferal dağılımlı, multifokal buzlu cam ve kon-
+solidasyon alanları ile karakterize, etiyolojisi tam olarak 
+bilinmeyen bir hastalıktır. Histopatolojik olarak köpüksü 
+makrofajlar, mononükleer hücreler ve Masson cisimlerin-
+den oluşan kronik interstisyel inflamasyon saptanır. Peri-
+feral ve peribronkovasküler dağılımlı buzlu cam ve 
+konsolidasyon alanları en yaygın radyolojik bulgular olup, 
+olguların yaklaşık beşte birinde ters hale işareti (Atoll sign) 
+görülebilir (Resim 8).15 Ayrıca akciğerdeki lezyonlar za-
+manla yer değiştirebilmektedir (migratuvar opasiteler). 
+Radyolojik ve histopatolojik bulgular COVID-19 ile büyük 
+ölçüde örtüşmektedir. İki hastalık arasındaki ayrım için ek 
+hastalık varlığı ve klinik bulgular büyük önem taşımakta-
+dır. Ayrıca COVID-19 pnömonisinde tariflenen ve nispe-
+ten spesifik olduğu varsayılan “vasküler genişleme 
+bulgusu” iki hastalığın ayrımında fayda sağlayabilir.7,16 
+ 
+ AKUT İNTERSTİSYEl PNömONİlER 
+Hamman-Rich sendromu olarak da bilinen akut interstisyel 
+pnömonit (AIP), etiyolojisi tam olarak bilinmeyen, hızla 
+ilerleyen ve non-enfeksiyöz interstisyel akciğer hastalığı-
+dır. Leflunomid gibi bazı ilaçlara bağlı da ortaya çıkabile-
+ceği bildirilmiştir. Histopatolojik olarak difüz alveolar 
+RESİM 6: Elli-üç yaşında kadın hasta, invaziv pulmoner aspergillozis. (a, b) Hematolojik malignite nedeniyle tedavi alan ve immunsupresif olan hastada Her iki akciğer 
+ parankiminde buzlu cam halesi bulunduran nodüller izlenmektedir (kırmızı çerçeveler).
+RESİM 7: Elli-dört yaşında edinsel immun yetmezlik sendromu (AIDS) tanılı erkek 
+hastada Pneumocystis jirovecii pnömonisi. Her iki akciğer üst zonlarda difüz buzlu 
+cam alanları ve bu alanlar içerisinde pnömotosel ile uyumlu milimetrik hava kist-
+leri izlenmektedir.
+Furkan Ufuk
+COVID-19 Pnömonisinde Ayırıcı Tanı
+44
+hasar saptanır ve bulgular ARDS ile benzerdir. Radyolojik 
+olarak bazal ve periferal kesimlerde daha baskın, simetrik 
+buzlu cam alanları, interlobüler septal kalınlaşmalar ve ya-
+pısal distorsiyon ile karakterizedir.17 Hastalarda ateş olma-
+ması ve akut faz reaktanlarının normal düzeyde olması 
+enfeksiyöz süreçlerden ayrım için önemlidir. 
+ 
+ PUlmONER öDEm 
+Akciğerin ekstravasküler kompartmanlarında anormal sıvı 
+birikimi olarak tanımlanmakta olup sıklıkla kalp yetmezli-
+ğine bağlı olarak gelişir. COVID-19 pnömonisinden farklı 
+olarak santral yerleşimli buzlu cam alanları, peribronko-
+vasküler kalınlaşma, interlobüler septal kalınlaşma (Ker-
+ley çizgileri) ve plevral efüzyon ile karakterizedir.18  
+ 
+ DİFÜz AlVEOlER HEmORAjİ 
+Hemoptizi, anemi, ve yaygın pulmoner infiltrasyonlar ile 
+karakterize, akut solunum yetmezliğine neden olabilen 
+nadir bir klinik durumdur. Sıklıkla pulmoner vaskülitlere 
+veya kanama diyatezine bağlı ortaya çıkmaktadır. Erken 
+dönemde toraks BT’de yamasal buzlu cam-konsolidasyon 
+alanları, Arnavut kaldırımı paterninde opasiteler sık görü-
+lürken, kronik dönemde interstisyel fibrozis bulguları or-
+taya çıkar.19 Klinik olarak hastada hemoptizi ve anemi var-
+lığı tanı için büyük önem taşımaktadır. COVID-19 
+pnömonisinden farklı olarak akciğer opasitelerinde perife-
+ral baskın dağılım paterni beklenmez. 
+RESİM 8: Kırk-altı yaşında kadın hastada organize pnömoni. (a-c) Her iki akciğer parankiminde periferal ve peribronkovasküler dağılımlı, bazıları ters hale işareti  
+gösteren, multifokal buzlu cam ve konsolidasyon alanları izlenmektedir (kırmızı çerçeveler).
+RESİM 9: Yetmiş-iki yaşında erkek hastada pulmoner ödem. (a) Posteroanterior akciğer grafisinde bilateral plevral efüzyon (ok başları) ve kardiyomegali görülmektedir. 
+(b, c) Aksiyel toraks BT görüntülerinde peribronkovasküler kalınlaşmalar (kırmızı çerçeveler), interlobüler septal kalınlaşmalar (oklar), santral kesimlerde daha belirgin ya-
+masal buzlu cam alanları ve bilateral plevral efüzyon (ok başları) izlenmektedir.
+RESİM 10: Elli-dört yaşında erkek hastada difüz alveolar hemoraji. Hemoptizi şi-
+kayetiyle başvuran ve kontrolsüz kumadin kullanımı olan hastada, toraks BT’de 
+her iki akciğer parankiminde difüz dağılımlı yamasal buzlu cam alanları izlenmek-
+tedir.
+Furkan Ufuk
+COVID-19 Pnömonisinde Ayırıcı Tanı
+45
+Pulmoner kontüzyon: Genellikle penetran olmayan 
+travmaya bağlı interstisyel ve alveolar yaralanmayı  
+ifade eder. Baskın lobar veya segmental dağılım göster-
+memekle birlikte akciğerin periferal kesimlerinde, kos-
+talara komşu alanlarda ortaya çıkar. Travma öyküsü 
+bulunan hastada periferal konsolidasyon-buzlu cam var-
+lığında ve eşlik eden komşu kosta fraktürü saptandığında 
+kontüzyon ayrıcı tanıda ilk planda düşünülmelidir 
+(Resim 11).20  
+Pulmoner enfarkt: Akciğer dokusunun bir kısmının 
+kanlanması bozulduğunda ortaya çıkan bir patoloji olup 
+hemen her zaman pulmoner emboli (PE) nedeniyle ortaya 
+çıkar. Akciğerler aralarında anastomozlar bulunan çift kan-
+lanma sistemine (pulmoner arter ve bronşiyal arterler) sa-
+hiptir. Bu nedenle akciğer dokusu nadiren (özellikle em-
+boliye eşlik eden kalp yetmezliği veya ciddi hipotansiyon 
+varlığında) enfarkt geçirir. Periferik kama (veya üçgen) 
+şeklindeki pulmoner konsolidasyonlar (Hampton hörgücü) 
+en sık görüntüleme bulgusudur (Resim 12).21 İyileşme dö-
+neminde enfarkt periferal kesimlerden iyileşir ve iyileşir-
+ken lezyonların santralinde nekroza bağlı kavitasyon 
+görülebilir. COVID-19 hastalarında da PE sıklığı artmış 
+olup görüntüleme bulguları örtüşebilmektedir. Klinik ola-
+rak ani başlayan semptomlar (nefes darlığı, bilinç bulanık-
+lığı gibi), akut sağ kalp yetmezliği bulguları PE düşündüren 
+klinik bulgulardır. COVID-19 hastalarında ise genellikle 
+öncesinde ateş, öksürük, halsizlik gibi semptomlar sıklıkla 
+bulunur.21-23
+RESİM 11: Yirmi-altı yaşında kadın hastada araç dışı trafik kazasına bağlı akciğer kontüzyonu. Her iki akciğer parankiminde periferal ve subplevral alanlarda kontüzyonel 
+buzlu cam alanları izlenmektedir (ok başları). Hastada aynı zamanda kosta fraktürleri ve sağ klavikula fraktürü mevcut idi (Dr. muhammet Tekinhatun’un arşivinden alın-
+mıştır).
+RESİM 12: Yirmi-iki yaşında meme kanseri tanılı hastada pulmoner emboli ve enfarkt. (a) Kontrastlı pulmoner BT anjiyografi tetkikinde sağ akciğer alt lob pulmoner arter 
+dallarında emboli ile uyumlu dolum defekti izlenmektedir (oklar). (b, c) Sağ akciğer alt lobda periferal yerleşimli, üçgen şekilli enfarkt alanları görülmektedir (kırmızı çerçe-
+veler).
+Furkan Ufuk
+COVID-19 Pnömonisinde Ayırıcı Tanı
+46
+1.
+zhu N, zhang D, Wang W, li X, Yang B, Song 
+j, et, al. A Novel Coronavirus from Patients 
+with Pneumonia in China, 2019. N Engl j med. 
+2020; 382:727-33. 
+2.
+World Health Organization (2020) Coronavirus 
+disease 2019 (COVID-19) situation report–87. 
+World Health Organization, Geneva. Available 
+at: https://www.who.int/docs/default-source/ 
+coronaviruse/situation-reports/20200603-
+covid-19-sitrep-135.pdf?sfvrsn=39972feb_2, 
+Accessed june 4, 2020. 
+3.
+Kim H, Hong H, Yoon SH. Diagnostic Per-
+formance of CT and Reverse Transcriptase-
+Polymerase Chain Reaction for Coronavirus 
+Disease 2019: A meta-Analysis. Radiology. 
+2020; 201343. [published online] 
+4.
+liu j, Chen T, Yang H, Cai Y, Yu Q, Chen j, 
+et al. Clinical and radiological changes of hos-
+pitalised patients with COVID-19 pneumonia 
+from disease onset to acute exacerbation: a 
+multicentre paired cohort study. Eur Radiol. 
+2020; 1-7. [published online] 
+5.
+Suess C, Hausmann R. Gross and histopatho-
+logical pulmonary findings in a COVID-19 as-
+sociated death during self-isolation. Int j legal 
+med. 
+2020;10.1007/s00414-020-02319-8. 
+[published online] 
+6.
+Ufuk F. 3D CT of Novel Coronavirus (COVID-
+19) Pneumonia. Radiology. 2020; 201183. 
+[published online] 
+7.
+Ufuk F, Savaş R. Chest CT features of the 
+novel coronavirus disease (COVID-19. Turk j 
+med Sci. 2020; 10.3906/sag-2004-331. [pub-
+lished online] 
+8.
+zhang SX, li j, zhou P, Na jR, liu BF, zheng 
+XW, et al. Chest CT-based differential diag-
+nosis of 28 patients with suspected corona 
+virus disease 2019 (COVID-19). Br j Radiol. 
+2020; 20200243. [published online] 
+9.
+Güneyli S, Atçeken z, Doğan H, Altınmakas 
+E, Atasoy KÇ. Radiological approach to 
+COVID-19 pneumonia with an emphasis on 
+chest CT. Diagn Interv Radiol. 2020; 
+10.5152/dir.2020.20260. [published online] 
+10. Koo Hj, Choi SH, Sung H, Choe j, Do KH. 
+RadioGraphics Update: Radiographic and CT 
+Features of Viral Pneumonia. Radiographics. 
+2020; 200097. [published online] 
+11. Koo Hj, lim S, Choe j, Choi SH, Sung H, Do 
+KH. Radiographic and CT Features of Viral 
+Pneumonia. Radiographics. 2018;38(3): 719-
+39. 
+12. Ishiguro T, Takayanagi N, Kanauchi T, 
+Uozumi R, Kawate E, Takaku Y, et al. Clinical 
+and Radiographic Comparison of Influenza 
+Virus-associated Pneumonia among Three 
+Viral Subtypes. Intern med. 2016;55(7): 731-
+7. 
+13. Yun Tj, Kwon Gj, Oh mK, Woo SK, Park SH, 
+Choi SH, et al. Radiological and clinical char-
+acteristics of a military outbreak of pandemic 
+H1N1 2009 influenza virus infection. Korean j 
+Radiol. 2010;11(4):417-24. 
+14. Vilar j, Domingo ml, Soto C, Cogollos j. Ra-
+diology of bacterial pneumonia. Eur j Radiol. 
+2004;51(2):102-13. 
+15. zhao F, Yan SX, Wang GF, Wang j, lu PX, 
+Chen B, et al. CT features of focal organizing 
+pneumonia: an analysis of consecutive 
+histopathologically confirmed 45 cases. Eur j 
+Radiol. 2014;83(1):73-8. 
+16. Wu j, Pan j, Teng D, Xu X, Feng j, Chen YC. 
+et al. Interpretation of CT signs of 2019 novel 
+coronavirus (COVID-19) pneumonia. Eur Ra-
+diol. 2020; 1-8. [published online] 
+17. Sverzellati N, lynch DA, Hansell Dm, johkoh 
+T, King TE jr, Travis WD. American Thoracic 
+Society-European Respiratory Society Classi-
+fication of the Idiopathic Interstitial Pneumo-
+nias: Advances in Knowledge since 2002. 
+Radiographics. 2015; 35(7):1849-71. 
+18. Gluecker T, Capasso P, Schnyder P, et al. 
+Clinical and radiologic features of pulmonary 
+edema. Radiographics. 1999;19(6):507-33. 
+19. Ikeda m, Tanaka H, Sadamatsu K. Diffuse 
+alveolar hemorrhage as a complication of dual 
+antiplatelet therapy for acute coronary syn-
+drome. Cardiovasc Revasc med. 2011;12(6): 
+407-11. 
+20. Oikonomou A, Prassopoulos P. CT imaging of 
+blunt chest trauma. Insights Imaging. 2011; 
+2(3):281-95. 
+21. Kaya F, Ufuk F, Karabulut N. Diagnostic per-
+formance of contrast-enhanced and unen-
+hanced combined pulmonary artery mRI and 
+magnetic resonance venography techniques 
+in the diagnosis of venous thromboembolism. 
+Br j Radiol. 2019;92(1095):20180695. 
+22. Ufuk F. Radiological approach to COVID-19 
+pneumonia: Attention should be paid to pul-
+monary embolism and radiation exposure. 
+Diagn 
+Interv 
+Radiol. 
+2020; 
+10.5152 
+/dir.2020.20311. [published online] 
+23. Poyiadji N, Cormier P, Patel PY, et al. Acute 
+Pulmonary Embolism and COVID-19. Radiol-
+ogy. 2020; 201955. [published online]
+ KAYNAKlAR

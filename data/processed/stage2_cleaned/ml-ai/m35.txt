@@ -1,0 +1,721 @@
+Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Y.2014, C.19, S.1, s.139-157. Suleyman Demirel University The Journal of Faculty
+of Economics and Administrative Sciences Y.2014, Vol.19, No.1, pp.139-157.
+
+139
+
+YAPAY SĠNĠR AĞLARI VE DESTEK VEKTÖR MAKĠNELERĠ YÖNTEMLERĠYLE BORSA ENDEKSĠ
+TAHMĠNĠ
+
+PREDICTING STOCK-EXCHANGE INDEX USING METHODS OF NEURAL NETWORKS AND SUPPORT
+VECTOR MACHINES
+
+Yrd. Doç. Dr. Emre YAKUT1
+
+Doç. Dr. Bekir ELMAS2 Yrd. Doç. Dr. Selahattin YAVUZ3 ÖZET Günümüzde yapay sinir
+ağları ve destek vektör makineleri finans alanında borsa endeks tahmini,
+finansal başarısızlık tahmini ya da şirket bonolarının sınıflandırılması gibi
+birçok alanda istatistiki yöntemlere alternatif olarak giderek artan bir şekilde
+kullanılmaktadır. Yapay sinir ağı, birbirlerine paralel olarak çalışan, birçok
+basit işlem elemanından oluşan ve fonksiyonu, ağın yapısı, bağlantı ağırlıkları
+ve elemanlarda gerçekleştirilen işlemler tarafından belirlenen bir sistemdir.
+Destek vektör makineleri de yapay sinir ağlarıyla yakından ilişkili olup,
+sigmoid bir kernel fonksiyonu kullanan DVM; iki katmanlı, ileri beslemeli bir
+yapay sinir ağına sahiptir. Bu çalışmada amaç ileri beslemeli yapay sinir ağları
+ve destek vektör makineleri yöntemleriyle BIST endeksinin etkin bir tahminin
+yapılıp yapılmayacağının ortaya konmasıdır. Çalışmada Borsa İstanbul (BIST)
+endeksinin tahmin edilmesi için BIST endeksinin bir, iki ve üç gün öncesine ait
+değerleri yanında Amerikan dolar kuru, gecelik faiz oranı ve NIKKEI (Japonya
+Borsası), BOVESPA (Brezilya Borsası), FTSE (İngiltere Borsası), CAC (Fransa
+Borsası), DAX (Almanya Borsası) internet sitelerinden elde edilen 2005-2012
+tarihleri arasındaki borsa endeksi değerleri kullanılarak, BIST endeks değeri
+ileri beslemeli yapay sinir ağları ve destek vektör makineleri yöntemleriyle
+tahmin edilmiştir. Sonuç itibari ile yapay sinir ağları ve destek vektör
+makineleri yöntemlerinin borsa endeksinin tahmin edilmesinde modellenebileceğini
+göstermiştir. Anahtar Kelimeler: Yapay Sinir Ağları, Destek Vektör Makineleri,
+Endeks, BIST Jel Kodları: C50, C45 ABSTRACT Recently neural networks and support
+vector machines prediction techniques are seen to be used increasingly in many
+finance problems such as Stock-Exchange Index financial distress prediction or
+classification of corporate bond as an alternative for statistical methods..
+Neural Networks is conducted as a system working parallel to each other,
+composed of many simple elements of operation. Additionally the function is
+determined by structure of the network, connection weights (weights of the
+synapses) and performed operations in elements. Support vector machines (SVMs)
+which is closely related to artificial neural networks; SVM model using a
+sigmoid kernel the function is obtained using a two layer and feed forward
+neural network. In the study, the purpose is to find out whether it is possible
+to predict BIST index value effectively or not by using feed forward artificial
+neural network and support vector machines methods.
+
+1 Osmaniye Korkut Ata Üniversitesi, Ġktisadi ve Ġdari Bilimler Fakültesi,
+Yönetim BiliĢim Sistemleri Bölümü, emreyakut@osmaniye.edu.tr 2 Atatürk
+Üniversitesi, Ġktisadi ve Ġdari Bilimler Fakültesi, ĠĢletme Bölümü,
+belmas@atauni.edu.tr 3 Erzincan Üniversitesi, Ġktisadi ve Ġdari Bilimler
+Fakültesi, ĠĢletme Bölümü, syavuz@erzincan.edu.tr YAKUT – ELMAS – YAVUZ 140 2014
+In the study, BIST index value has been predicted by using America exchange rate
+of dollar, overnight interest rate and stock exchange index values obtained from
+NIKKEI (Japan Stock Exchange), BOVESPA (Brazil Stock Exchange), FTSE (England
+Stock Exchange), CAC (France Stock Exchange), DAX (Germany Stock Exchange)
+websites between 2005-2012 besides three days values of BIST index by feed
+forward artificial neural network and support vector machines methods. As a
+result, it can be said that artificial neural networks and support vector
+machines methods can be used to predict stock exchange index. Key Words:
+Artificial Neural Networks, Support Vector Machines, Index, BIST Jel Codes: C50,
+C45
+
+1. GĠRĠġ GeçmiĢ dönem endeks değerlerine dayanarak, endeksin gelecekte alacağı
+değerleri öngörebilmek, finans alanında oldukça ilgi gören bir konudur. Borsa
+endekslerinde oluĢan hareketlerin yönünü kesin olarak modelleyebilecek bir
+yöntem yoktur. Borsa endeksinin tahminini zorlaĢtıran nedenler yüksek
+belirsizlik ve oynaklıktır. Bu nedenle borsa yatırımları diğer tüm yatırım
+alanlarından daha fazla risk taĢır (Kutlu ve Badur, 2009:27). Hisse senedi
+yatırımlarında, yapılan yatırımın performansının değerlendirilmesi büyük önem
+taĢır. Performansın ölçülmesinde ise en basit ve en temel araç olarak piyasa
+endekslerinden yararlanılmaktadır. Endeksin hareketine göre, yapılan yatırımın
+baĢarılı olup olmadığına karar verilmektedir. Özellikle baĢka ülkelerde yatırım
+faaliyetlerinde bulunan uluslararası yatırımcılar için bu endekslerin önemi daha
+da fazladır (Dağlı, 2000: 204). Hisse senedi fiyatları ile genel ekonomik durum
+arasındaki iliĢki uzun yıllardan beri çeĢitli ekonomi ve finans uzmanlarının
+araĢtırmalarına konu olmuĢtur. Bazı araĢtırmacılar ekonomik göstergelerin
+yardımı ile hisse senedi fiyatlarında meydana gelebilecek bir artıĢ veya
+azalıĢın önceden tahmin edilebileceğini savunmuĢlardır (Albeni ve Demir, 2005:
+2). Hisse senetlerinin iĢlem gördüğü borsalar, dinamik, doğrusal olmayan, kaotik
+yapıda olduklarından bu piyasalarda tahmin yapmak zordur. Bununla beraber
+borsalar üzerinde siyasi olaylar, Ģirketlerin politikaları, genel ekonomik
+durum, yatırımcı beklentileri, kurumsal yatırımcıların seçimleri, diğer
+borsaların hareketleri ve yatırımcıların psikolojilerini etkilemektedir (Kara,
+vd., 2011: 5311). Yapay sinir ağı (YSA) ve destek vektör makineleri (DVM)
+uygulamaları borsa endeksi çalıĢmalarının baĢında gelmektedir. Son zamanlarda
+YSA ve DVM öngörü amacıyla yaygın olarak kullanılmaya baĢlanmıĢtır. Yapılan
+araĢtırmalar neticesinde YSA yönteminin öngörü için kullanılan diğer birçok
+yöntemlere göre baĢarılı olduğu gözlenmiĢtir. Wittkemper ve Steiner (1996) ise
+hisse senetlerinin sistematik riskinin tahmininde; Malliaris ve Salchenberger
+(1996) gelecek volatilite değerlerinin öngörüsünde yapay sinir ağlarını
+kullanmıĢlardır. Saad vd. (1998) hisse senetlerinin fiyat tahmini
+problemlerinde; Hamzaçebi ve Bayramoğlu (2007), YSA’lar ile hisse senedi
+endekslerinin tahmininde YSA ele almıĢlardır. Çinko ve Avcı, (2007) ĠMKB-100
+endeksinin tahminine yönelik çalıĢmalarında yapay sinir ağlarının regresyon
+modellerine göre daha iyi sonuçlar verdiğini gözlemlemiĢtir. Yıldız vd., (2008)
+tarafından yapılan çalıĢmada ĠMKB-100 endeksinin yön tahmini etmek amacıyla YSA
+kullanılmıĢtır. Analiz için ĠMKB en yüksek, en düĢük kapanıĢ değerleri ile ABD
+doları kuru analiz için kullanılmıĢtır. Kutlu ve Badur (2009), borsa endeksi
+tahmini yapmıĢlardır. ÇalıĢmanın diğer bir yöntemi olan DVM, görüntü ve metin
+sınıflandırma, nesne tanıma, el yazısı tanıma, ses tanıma ve yüz tanıma gibi
+çeĢitli Yapay Sinir Ağları ve Destek Vektör Makineleri Yöntemleriyle Borsa
+Endeksi Tahmini 141 C.19, S.1 örüntü tanıma uygulamaların da sıkça
+kullanılmaktadır. DVM pratikte daha çok sınıflama ve regresyon amacıyla
+kullanılmaktadır. Kim (2003) yaptığı çalıĢmada KOSPI endeksinin yönünü günlük
+verilerinin tahmininde; Kara vd. (2011) yapay sinir ağları ve destek vektör
+makineleri yöntemlerini kullanarak BIST 100 endeksinin yönünü tahmininde; Akcan
+ve Kartal, (2011) ĠMKB sigorta sektörü endeksini oluĢturan yedi adet Ģirketin
+hisse senedi fiyatlarını YSA ile tahmin etmiĢlerdir. Modelde ĠMKB-100 endeksi
+günlük kapanıĢ değeri, tüketici fiyat endeksi, dolar efektif satıĢ kuru, günlük
+cumhuriyet altını fiyatı makroekonomik değiĢkenleri kullanılmıĢtır. ÇalıĢmanın
+amacı, yapay sinir ağları ve destek vektör makineleri yöntemleriyle BIST
+endeksinin etkin bir tahminin yapılıp yapılmayacağının belirlenmesidir. ÇalıĢma
+üç bölümden oluĢmaktadır. Birinci bölümde yapay sinir ağları ve destek vektör
+makineleri genel hatları itibari ile tanıtılmıĢtır. Ġkinci bölümde BIST
+endeksinin günlük değerleri için yapay sinir ağları ve destek vektör makineleri
+ile 2011-2012 dönemine ait öngörü uygulaması yapılmıĢtır. Üçüncü bölümde ise,
+analizden elde edilen sonuçlara iliĢkin tartıĢma yer almıĢtır. 1.1. Yapay Sinir
+Ağları Yapay sinir ağları, insan beyninin özelliklerinden olan öğrenme yolu ile
+yeni bilgiler türetebilme ve keĢfedebilme gibi yetenekleri herhangi bir yardım
+almadan kendiliğinden gerçekleĢtirmek amacı ile biyolojik sinir ağlarından
+esinlenilerek geliĢtirilen bilgisayar sistemlerledir. (Fausett, 1994:3; Öztemel,
+2003:30). Yapay sinir ağlarının herhangi bir olay hakkındaki girdi ve çıktılar
+arasındaki iliĢkiyi, doğrusal olsun veya olmasın, elde bulunan mevcut
+örneklerden öğrenerek daha önce hiç görülmemiĢ olayları, önceki örneklerden
+çağrıĢım yaparak ilgili olaya çözümler üretebilmesi, algoritmik çözümü
+bulunamamıĢ problemlerin çözümlenmesinde kullanımını artırmıĢtır. Yapay sinir
+ağlarındaki en büyük problem karmaĢık problemleri çözmek için çok katmanlı ve
+çok nöron içeren yapay sinir ağlarına ihtiyaç olmasıdır (Kohonen,1987: 1-79)
+Yapay sinir hücreleri bir araya gelerek YSA’yı oluĢtururlar. Sinir hücrelerinin
+bir araya gelmesi rasgele olmaz. Genel olarak hücreler 3 katman halinde ve her
+katman içinde paralel olarak bir araya gelerek ağı oluĢtururlar. Bu katmanlar
+(Öztemel, 2003: 31-33):  Girdi katmanı: Bu katmandaki proses elemanları dıĢ
+dünyadan bilgileri alarak ara katmanlara transfer etmekle sorumludurlar. Bazı
+ağlarda girdi katmanında herhangi bir bilgi iĢleme olmaz.  Ara katmanlar: Girdi
+katmanından gelen bilgiler iĢlenerek çıktı katmanına gönderirler. Bu bilgilerin
+iĢlenmesi ara katmanlarda gerçekleĢtirilir. Bir ağ için birden fazla ara katman
+olabilir.  Çıktı katmanı: Bu katmandaki proses elemanları ara katmandan gelen
+bilgileri iĢleyerek ağın girdi katmanından sunulan girdi seti (örnek) için
+üretmesi gereken çıktıyı üretirler. Üretilen çıktı dıĢ dünyaya gönderilir. Genel
+olarak yapay sinir ağları modellerini; a) Ağın yapısına, b) ileri beslemeli (
+feed forward ), c) geri beslemeli ( feed back ), d) ağırlık matrislerinin
+simetrik veya asimetrik oluĢuna e) ağırlık matrisi değerlerinin sabit veya
+değiĢken oluĢuna, f) Ağda yer alan düğümlerin özelliklerine, g) Kullanılan eĢik
+fonksiyonuna, h) Düğüme sadece analog / ikil veya sürekli değerlerin
+uygulanabilmesine, j) Eğitim veya öğrenme kurallarına bağlıdır (ġen, 2004:
+s.183). YAKUT – ELMAS – YAVUZ 142 2014 Basit bir yapay sinir ağı modeli ġekil
+1’de verilmiĢtir. Girdi ve çıktı katmanından oluĢan bir ağdır. Her ağın bir veya
+daha fazla girdisi ve çıktısı vardır. Çıktı üniteleri (Ç) bütün girdi
+ünitelerine (X) bağlanmaktadır ve her bağlantının bir ağırlığı (W) vardır. Bu
+ağlarda proses elemanlarının değerinin sıfırdan farklı olmasını önleyen eĢik
+değer vardır ve bu değer daima 1’dir. ġekil 1: Tek Katmanlı Algılayıcı Yapısı
+
+Kaynak: (Hristev, 1998: 4). Tek katmanlı yapay sinir ağlarında
+ağırlıklandırılmıĢ giriĢ değerleri eĢik değer (θ) ile toplanarak aktivasyon
+fonksiyonundan geçerek çıktıya ulaĢır. Bu durum matematiksel olarak, (∑
+
+) Ģeklinde formülüze edilir. Burada, Wi : i’ninci girdi değerinin ağırlığını, θ
+: EĢik değerini, f(a) : Çıktı değerini, göstermektedir. Çok katmanlı yapay sinir
+ağları modeli Rumelhart ve arkadaĢları tarafından geliĢtirilmiĢtir. Bu modele
+hata yayma modeli veya geri yayılım modeli (backpropogation network) de
+denilmektedir (Öztemel, 2003:76). ÇKA modelinde geriye yayılım algoritması
+kullanılmaktadır. ÇKA ağının öğrenme kuralı en küçük kareler yöntemine dayalı
+Delta Öğrenme Kuralının genelleĢtirilmiĢ halidir. Bu yüzden öğrenme kuralına
+“GenelleĢtirilmiĢ Delta Kuralı” da denmektedir. Geri yayılım algoritmasında
+kullanılan “delta kuralı” na göre bir nöronun gerçek çıktı değeri ile istenilen
+çıktı değeri arasındaki farkı azaltmak için giriĢ bağlantılarını yani
+ağırlıkları sürekli ayarlama ve geliĢtirme fikrine dayalı bir kuraldır
+(Kartalopoulos, 1996:46). Bu kuralda, öğrenme esnasındaki bağlantı ağırlıkları
+sürekli değiĢtirilerek, ağırlıklar için optimum değer bulunur. Bu ağ yapısında
+“Öğretmenli Öğrenme” yöntemi kullanılır. Öğretmenli öğrenmede hedef çıktı
+değerleriyle iliĢkilendirilen her bir vektör, ağın öğrenmesi için ağa sunulur.
+Ağırlıklar, belirtilen öğrenme kuralına dayanarak düzeltilir (Hamid & Iqbal,
+2004:1119). ġekil 2’de örnek bir geri yayılma ağı verilmiĢtir.
+
+Yapay Sinir Ağları ve Destek Vektör Makineleri Yöntemleriyle Borsa Endeksi
+Tahmini 143 C.19, S.1
+
+ġekil 2: Örnek Geri Yayılma Ağı
+
+Kaynak: (Haykin, 1999: 159). Literatürde yapay sinir ağları ile yapılan bazı
+çalıĢmalar aĢağıda verilmiĢtir. Diler (2003), ĠMKB 100 endeksinin günlük yönünü
+tahmin etmek için 1990–2003 dönemi arasında yedi teknik analiz göstergesi
+kullanarak yapay sinir ağları yöntemi ile tahmin iĢlemini gerçekleĢtirmiĢ,
+modelin tahmin baĢarısını %60,8 oranında tespit etmiĢtir. Altay ve Satman
+(2005), yapay sinir ağları ve regresyon yöntemlerini günlük, haftalık ve aylık
+verileri kullanarak ĠMKB 30 ve ĠMKB tüm endekslerinin yönünü tahmin etmeye
+çalıĢmıĢlardır. Yapay sinir ağlarının endeksin yönünü günlük, haftalık ve aylık
+olarak sırasıyla %57,8, %67,1 ve %78,3’lik bir baĢarı ile tahmin etmiĢlerdir.
+1.2. Destek Vektör Makineleri Bir destek vektör makinesi, verileri optimal
+olarak iki kategoriye ayıran n – boyutlu bir hiperdüzlem oluĢturmaktadır. DVM
+modelleri yapay sinir ağlarıyla yakından iliĢkili olup, sigmoid bir kernel
+fonksiyonu kullanan DVM; iki katmanlı, ileri beslemeli bir yapay sinir ağına
+sahiptir (Haykin, 1999: 318). DVM’nin ilgi çekici özelliği; veri seti üzerinde
+ortalama hata karesini minimize ederek türetilen ampirik risk minimizasyonu
+prensibinden ziyade, istatistiksel öğrenme teorisindeki yapısal risk
+minimizasyonu niteliğinde çalıĢmasıdır. DVM’nin temel varsayımlarından biri,
+eğitim kümesindeki tüm örneklerin bağımsız ve benzer olarak dağılmıĢ olmasıdır
+(Song, vd., 2012: 440). DVM, sınıflandırma ve regresyon problemlerinde
+çalıĢtırılabilir. DVM regresyon metodundaki temel fikir, eldeki eğitim
+verilerinin karakterini mümkün olduğunca gerçeğe yakın bir Ģekilde yansıtan ve
+istatistiksel öğrenme teorisine uyan doğrusal ayırıcı fonksiyonun bulunmasıdır.
+Sınıflandırmaya benzer bir Ģekilde regresyonda da doğrusal olmayan durumların
+iĢlenebilmesi için çekirdek fonksiyonları kullanılır (Çomak, 2008: 37). Destek
+Vektör Makinelerinde karĢılaĢılabilecek iki durum, verilerin lineer olarak
+ayrılabilecekleri bir yapıda olması veya lineer olarak ayrılamayan yapıda
+olmasıdır. Lineer Ayrılabilme Durumu: Eğitim için kullanılacak N elemandan
+oluĢan verinin , i = 1,2,………N olduğu varsayalım. Burada etiket değerleri ve
+özellikler vektörüdür. Lineer olarak ayrılabilme durumunda, bu iki değerli
+veriler direkt olarak bir aĢırı düzlem ile ayrılabilecektir. Bu aĢırı düzleme
+ayırıcı aĢırı düzlem adı verilir. Destek Vektör Makinelerinin amacı bu aĢırı
+düzlemin iki ayrı sınıfta bulunan örnek grubuna eĢ uzaklıkta olmasını
+sağlamaktır.
+
+YAKUT – ELMAS – YAVUZ 144 2014 ġekil 3: Lineer Ayrılabilme Durumunda Optimum
+Ayırıcı AĢırı Düzlem
+
+Lineer Ayrılamama Durumu: Lineer ayrılabilme durumunda veriler iki sınıfa
+doğrusal bir düzlem ile ayrılabiliyordu. Uygulamada bu durum her zaman geçerli
+olmayabilir. Yani doğrusal bir düzlem ile veriler birbirinden ayrılmayabilir.
+ġekil 4: Birbirinden Doğrusal Olarak Ayrılamayan Veriler
+
+Kaynak: (Özkan, 2008:195). Verilerin doğrusal olarak ayrılamadığı durumlarda
+doğrusal sınıflandırıcı yerine doğrusal olmayan sınıflandırıcılar
+kullanılabilir. Bu bağlamda Doğrusal Olmayan Özellik Uzayı: gözlem vektörünü
+daha yüksek dereceden bir uzayda z vektörüne dönüĢtürerek, bu yeni uzayda
+doğrusal sınıflandırıcıları elde etmek söz konusu olabilir. Bu z vektörünün yer
+aldığı özellik uzayı F ile gösterilsin. Bu durum da ifadesi eĢlemesini yapmak
+üzere biçiminde ifade edilebilir (Yakut, 2012: 49).
+
+Doğrusal olmayan ayrılabilirlik durumu düĢünüldüğü zaman, eğitim örnekleri
+orijinal giriĢ uzayında doğrusal olarak ayrılamazlar. Bu tip durumlarda DVM,
+doğrusal olmayan haritalama fonksiyonu yardımıyla orijinal giriĢ uzayından
+doğrusal olarak kolayca sınıflandırma yapabileceği yüksek boyutlu nitelik
+uzayına dönüĢüm yapar. Böylece çekirdek fonksiyonları kullanılarak bütün
+değerlerin tekrar tekrar çarpım değerlerinin hesaplanarak bulunması yerine
+doğrudan çekirdek fonksiyonunda değerin yerine koyularak nitelik uzayındaki
+değerinin bulunması sağlanır. Bu sayede, son derece yüksek boyutlu bir nitelik
+uzayı ile uğraĢma olasılığı kalmaz. Çekirdek fonksiyonlarının diğer bir avantajı
+da, eğitme aĢamasında bir eğitim örneği için fonksiyon kurulup değerler
+bulunduktan sonra diğer örnekler için artık kalıp değerleri eğitim örneği
+dıĢında tamamen hazır olduğu için çok daha kolay hesaplanmasıdır (Kecman, 2001:
+169). DVM yaygın olarak kullanılan dört çekirdek fonksiyonu vardır. Bu
+fonksiyonlar: 1. Doğrusal Fonksiyon, 2. Polinomiyal Fonksiyon 3. Sigmoid
+Fonksiyon, Yapay Sinir Ağları ve Destek Vektör Makineleri Yöntemleriyle Borsa
+Endeksi Tahmini 145 C.19, S.1 4. Radyal Tabanlı Fonksiyon Literatürde destek
+vektör makineleri ile yapılan bazı çalıĢmalar aĢağıda verilmiĢtir. Kim (2003),
+tarafından yapılan çalıĢmada Kore Borsası (KOSPI) endeks yönünün günlük
+verilerle tahmini için destek vektör makineleri ve yapay sinir ağlarını
+kullanılmıĢtır. Verilerin %80’sini eğitim ve %20’sini test kümesi olarak ele
+almıĢtır. Analiz sonucuna göre DVM (%57,83), YSA (%54,73) baĢarı sonucuna
+ulaĢmıĢtır. Huang vd., (2005), Japonya Borsasında (NIKKEI-225 endeksinin)
+haftalık değiĢim yönünü tahmin etmek için DVM yöntemini kullanmıĢlardır. NIKKEI
+borsasının değiĢim yönünü tahmin etmek için Standart and Poor-500 endeksi ve
+Japon Yeni Amerikan Doları kuru modelde girdi değiĢkenler olarak kullanılmıĢtır.
+Özdemir vd. (2011) endeks getirisi yönünün ikili sınıflandırma yöntemiyle tahmin
+edilmesinde DVM’yi kullanmıĢlardır.
+
+2. YÖNTEM 2.1. Borsa Endeks Değeri Tahmini Sistem Modelleri Bu çalıĢmada amaç
+ileri beslemeli yapay sinir ağları ve destek vektör makineleri yöntemleriyle
+BIST endeksinin etkin bir tahminin yapılıp yapılamayacağının ortaya
+konulmasıdır. ÇalıĢmada yapay sinir ağları için ileri beslemeli yapay sinir
+ağlarından geri yayılım algoritması ve destek vektör makineleri yöntemlerinden
+ise sigmoid bir kernel fonksiyonu denenmiĢtir. Yapay sinir ağları ve destek
+vektör makineleri son yıllarda kullanımının gittikçe artmasının yanı sıra,
+örneklerden öğrenme yapabilmesi, genelleme yapabilmesi ve istatistiksel
+yöntemlere kıyasla daha az varsayımları içermesinden dolayı analizde çalıĢma
+yöntemleri olarak seçilmiĢtir. Borsa endeksini etkileyen çalıĢmalar
+incelendiğinde: Brigham (1995), faiz oranlarının hisse senetleri ve tahviller
+arasındaki rekabeti etkileyen en önemli unsur olduğunu ifade etmiĢtir. Fang-Loo
+(1996), hisse senetleri ile döviz kurunda meydana gelen değiĢmeler arasında
+negatif yönlü bir iliĢki olduğunu beyan etmiĢlerdir. Seler (1996), borsa
+endeksinin pazartesi ve salı günlerinin artıĢ oranları, perĢembe ve cuma günleri
+artıĢ oranlarından daha düĢük olduklarını ileri sürmüĢtür. Borsa endeksi
+üzerinde etkili olan değiĢkenler ekonomideki büyüme hızı, altın fiyatları, faiz
+oranı, enflasyon v.b. makroekonomik değiĢkenlerdir. (Durukan, 1999:25). Özalap
+ve Anagün (2003), hisse senedinin fiyatını; iĢlem adedi, iĢlem hacmi, dolar
+kuru, bileĢik endeksi, TEFE, TÜFE gibi ekonomik göstergelerin değerlerindeki
+değiĢmelerin etkilediğini ileri sürmüĢlerdir. Yüksel ve Güleryüz (2010), bir
+ülkenin menkul kıymetler borsası hem genel hem de sektörel ekonomiyi
+ilgilendiren iç ve dıĢ faktörlerden etkilendiğini ifade etmiĢlerdir. Modellerde
+kullanılacak değiĢkenlerin belirlenmesinde, yukarıda bahsedilen çalıĢmalardan
+hareketle borsa endeksinin tahminlenmesinde sırasıyla bir, iki ve üç önceki
+günün endeks değerlerinin yanında Amerikan dolar kuru, gecelik faiz oranı ve
+Japonya, Brezilya, Ġngiltere, Fransa ve Almanya’nın da borsa endeksi değerleri
+dikkate alınmıĢtır. Çıktı (bağımlı) değiĢkenlerinin t zamandaki değerlerinin,
+girdi değiĢkenlerinin t-1 (bir gün öncesinden), t-2 (iki gün öncesinden) ve t-3
+(üç gün öncesinden) zamanındaki değerlerinden etkilendiği varsayılarak 2005-2010
+yılları arasındaki verilerle modellerin eğitim ve test aĢaması olmak üzere ikiye
+ayrılmıĢtır. Bu çalıĢmada ele alınan girdi değiĢkenleri aĢağıda verilmiĢtir. 
+Bir önceki günün endeks değeri (BÖE),  Ġki önceki günün endeks değeri (ĠÖE),
+YAKUT – ELMAS – YAVUZ 146 2014  Üç önceki günün endeks değeri (ÜÖE),  Önceki
+günlere ait Amerikan dolar değeri (Ö$)  Önceki günlere ait faiz oranı (ÖFO), 
+Hafta günlerini belirten 5 kukla değiĢken (P, S, Ç, PE, C). DeğiĢken değerleri 1
+ya da 0 olarak alınmıĢtır. Cuma günü için C değeri 1 ve P, S, Ç, PE değerleri 0
+olarak kullanılmıĢtır.  Önceki günlere ait olan Japonya (J), Brezilya (B),
+Ġngiltere (Ġ), Fransa (F), Almanya (A) borsa endeks değerleri alınmıĢtır. Kutlu
+ve Badur’un (2009) çalıĢmasında kullanılan değiĢkenlere ek olarak iki ve üç gün
+önceki BIST endeksi değerleri alınarak 9 farklı Model kullanılmıĢtır. Model 1:
+fModel1 (BÖE, Ö$, ÖFO) Model 2: fModel2 (BÖE, Ö$, ÖFO, P, S, Ç, PE, C) Model 3:
+fModel3 (BÖE, Ö$, ÖFO, P, S, Ç, PE, C, J, B, Ġ, F, A) Model 4: fModel4 (ĠÖE, Ö$,
+ÖFO) Model 5: fModel5 (ĠÖE, Ö$, ÖFO, P, S, Ç, PE, C) Model 6: fModel6 (ĠÖE, Ö$,
+ÖFO, P, S, Ç, PE, C, J, B, Ġ, F, A) Model 7: fModel7 (ÜÖE, Ö$, ÖFO) Model 8:
+fModel8 (ÜÖE, Ö$, ÖFO, P, S, Ç, PE, C) Model 9: fModel9 (ÜÖE, Ö$, ÖFO, P, S, Ç,
+PE, C, J, B, Ġ, F, A) 2.2. Veri Kümesi Veriler BIST ve NIKKEI (Japonya Borsası),
+BOVESPA (Brezilya Borsası), FTSE (Ġngiltere Borsası), CAC (Fransa Borsası), DAX
+(Almanya Borsası) internet sitelerinden 03.01.2005 ile 31.12.2012 tarihleri
+arasından 1998 iĢgününe ait veri değerleri alınmıĢtır. 2005-2010 yılları
+arasındaki veriler alınarak modeller kurulmuĢ 2011-2012 dönemine ait ileriye
+yönelik öngörü değerleri elde edilmiĢtir. Verilerin %80’lik kısmıyla eğitim
+kümesi ve geri kalan %20’lik kısmıyla da test kümesi oluĢturulmuĢtur. Yapay
+sinir ağları ve destek vektör makineleri yöntemlerinin kullanımı için Statistica
+8.0 yazılımından yararlanılmıĢtır. Tahmini endeks değerleri ile gerçek endeks
+değerleri karĢılaĢtırılarak R2, MPE, MSPE, RMSPE ve MAPE ile
+değerlendirilmiĢtir. 2.3. YSA Ağ Parametreleri Modeller için ileri beslemeli
+yapay sinir ağı bir gizli katman kullanılmıĢtır. Gizli katmandaki nöron sayısı 4
+olarak belirlenmiĢtir. Kullanılan ağın parametreleri Ģunlardır.
+
+Yapay Sinir Ağları ve Destek Vektör Makineleri Yöntemleriyle Borsa Endeksi
+Tahmini 147 C.19, S.1 Tablo 1: Kullanılan Ağın Parametreleri Ağın türü Çok
+Katmanlı Perseptron Öğrenme Algoritması Geri Yayılım Öğrenme Kuralı Momentum
+GiriĢ Katmanındaki Düğüm Sayısı 3-8-13 Gizli Katman Sayısı 1 Gizli Katmandaki
+Düğüm Sayısı 4 ÇıkıĢ katmanındaki Düğüm Sayısı 1 Öğrenme Oranı 0,01 Devir Sayısı
+500 Gizli Katmanlar için Transfer Fonksiyonu Tansig Çıktı Katman Ġçin Transfer
+Fonksiyonu Purelin Geri Yayılım Ağının Eğitim Fonksiyonu Trainlm YSA
+uygulamasında kullanılan Çok Katmanlı Perceptron günümüzde en yaygın olarak
+kullanılan çok katmanlı algılayıcıdır (Öztemel, 2003:112). Tablo 1’de bahsedilen
+yapay sinir ağları parametrelerinin belirlenmesinde çok defa deneme yanılma
+yöntemi kullanılmıĢ ve çok sayıda test iĢlemi gerçekleĢtirilmiĢtir. Bu kapsamda
+gizli katman sayısı, gizli katmanlardaki düğüm sayısı, momentum terimi,
+aktivasyon fonksiyonu, devir sayısı gibi parametrelerin çeĢitli kombinasyonları
+denenerek gerek eğitim seti üzerinde gerekse test seti üzerinde daha iyi
+performansı gösteren ağ saptanmıĢtır. Öğrenme oranı yapay sinir ağlarında ağın
+öğrenme performansıyla yakından iliĢkilidir. Literatürde bahsedilen öğrenme
+oranı 0,4’e kadar çıkabilmektedir. Öğrenme oranının yüksek seçilmesi ağın
+öğrenme kabiliyetini azaltacaktır. 2.4. Destek Vektör Makineleri Kullanarak
+Doğrusal Regresyon Fonksiyonu (x1,y1),….,(xk,yk) ile gösterilen k örnek kütleli
+verilen eğitim verisi için, f(x,α) = (w, x) + b (w RN ve b R) ile bir karar
+fonksiyonu gösterilebilir. Doğrusal bir karar fonksiyonu (w, x), RN uzayında
+nokta çarpımı ifade etmektedir. w’nin küçük bir değeri, f(x, ) = (w,x) + b’in
+seviyesini göstermektedir ve ‖ ‖ ile tanımlanan ile tanımlanan Öklid normunun
+minimize edilmesiyle gerçekleĢmektedir. Regresyen için optimizasyon problemi Ģu
+Ģekilde ifade edilebilir: (Pal ve Goel, 2006:50).
+
+‖ ‖
+
+Optimizasyon problemi, dan küçük olan tüm eğitim çiftleri üzerinde bir hata
+sağlayan bir fonksiyonun var olduğu varsayımına dayanmaktadır. duyarlığa sahip
+olunduğunda, problem uygundur. Daha fazla hataya izin vermek için ve aylak
+değiĢkenleri tanımlanabilir ve böylelikle optimizasyon problemi Ģu Ģekilde
+yazılabilir.
+
+‖ ‖
+
+∑
+
+YAKUT – ELMAS – YAVUZ 148 2014
+
+ve
+
+3. MODELLERĠN SONUÇLARI Bu çalıĢmada 9 farklı Modeller Statistica 8.0
+yazılımının YSA ve DVM eklentisi ile analiz edilmiĢtir. Tahmin edilen değerlerin
+yaklaĢtığını ölçmek için, Burada; = Gerçek gözlem değerleri, ̂ = Tahmin edilen
+değerleri, T= Tahmin sayısıdır. Doğruluk ölçütleri ve formülleri Tablo 2’de
+gösterilmiĢtir (Hatipoğlu, vd., 2013: 66): Tablo 2: Doğruluk Ölçütleri ve
+formülleri
+
+∑ ̂ Hataların Kareli Ortalaması
+
+∑| ̂ | Ortalama Mutlak Hata
+
+∑ ̂
+
+Ortalama Yüzde Hata
+
+∑[ ̂
+
+]
+
+Ortalama Yüzde Hata Kareleri √ ∑[ ̂
+
+]
+
+Ortalama Yüzde Hata Kareleri Kökü
+
+∑| ̂
+
+| Ortalama Mutlak Yüzde Hata Tablo 3: YSA Belirlilik Katsayısı (R2) ve Yüzde
+Doğruluk Ölçüt Değerleri YSA R KARE MPE MSPE RMSPE MAPE MSE RMSE M1 0,972
+0,008873 0,000310 0,017611 0,013548 1081212 1039,813 M2 0,972 -0,006234 0,000283
+0,016837 0,013454 1099639 1048,637 M3 0,958 0,015254 0,000465 0,021554 0,017785
+1738745 1318,615 M4 0,964 0,002747 0,000416 0,020398 0,014927 1440669 1200,279
+M5 0,955 0,004122 0,000462 0,021490 0,000462 1612441 1269,819 M6 0,963 0,002494
+0,000422 0,020552 0,000422 1517172 1231,735 M7 0,943 -0,001928 0,000647 0,025445
+0,000647 2263292 1504,424 M8 0,924 0,011056 0,000824 0,028710 0,000824 2740904
+1655,568 M9 0,911 -0,018450 0,001124 0,033521 0,001124 4256648 2063,165 Analizde
+kullandığımız YSA ve DVM yöntemleri için 2005-2010 yılları arasındaki toplam
+1496 verinin %80’lik kısmına karĢılık gelen 1196 veri ile eğitim aĢaması; geri
+kalan %20’lik kısmına karĢılık gelen 300 veri ile test aĢaması
+gerçekleĢtirilmiĢtir. Yapay Sinir Ağları ve Destek Vektör Makineleri
+Yöntemleriyle Borsa Endeksi Tahmini 149 C.19, S.1 Yapay sinir ağları
+modellerinin karĢılaĢtırılmasında kullanılan belirleme katsayısı, ortalama yüzde
+hata, ortalama yüzde hata kareleri, ortalama yüzde hata kareleri kökü, ortalama
+mutlak yüzde hata, hataların kareleri ortalaması ve hataların kareli
+ortalamasının karekökü kriterlerinin 2011-2012 dönemine ait değerleri Tablo 3’de
+gösterilmiĢtir. Sonuçlara göre yapay sinir ağları modeli kullanıldığında 9
+farklı model için R2 değerleri 0,91 ile 0,97 arasında değer elde edilmiĢtir.
+Determinasyon katsayısı R2 ile gösterilir. Korelasyon katsayısının karesi
+determinasyon katsayısını verir. Bu değerin mesela %90 çıkması halinde toplam
+değiĢimin %90’nı kurulan modelle, yani bağımsız değiĢken veya değiĢkenler
+tarafından belirlenmiĢtir. %10’u ise ya tesadüfen meydana gelmiĢ veya dikkate
+alınmayan baĢka değiĢkenlerce belirlenmiĢtir (BaĢar ve Oktay, 2007: 103). 9
+farklı Model için R2 (determinasyon katsayısı) düzeyinde bir karĢılaĢtırma
+yapıldığında borsa endeksini en iyi tahmin eden modellerin M1 ve M2 modelleri
+olduğu söylenebilir. Bu modellerin R2 değerleri %97 olarak gerçekleĢtiğini
+söyleyebiliriz. Tahmin performans ölçümleri için literatürde en çok kullanılan
+formüller MAPE (Mutlak Hata Oranları Ortalaması) ve MSE (Hata Kareleri
+Ortalaması) değerlerine bakılmaktadır (Zhang and Hu, 1998:500, Cho, 2003:328).
+Lewis (2002), MAPE değerleri %10’un altında olan modelleri “çok iyi”, %10 ile
+%20 arasında olan modelleri “iyi”, %20 ile %50 arasında olan modelleri “kabul
+edilebilir” ve %50’nin altında olan modelleri ise “yanlıĢ ve hatalı” olarak
+gruplamıĢtır. Buradan hareketle M1 ve M2 modellerinin MAPE değerleri %10’nun
+altında gerçekleĢmesi sebebiyle bu modellerin Lewis’e göre çok iyi modeller
+oldukları ifade edilebilir. Grafik 1: Model 1: KarĢılaĢtırmalı Grafik 2: Model
+2: KarĢılaĢtırmalı YSA Tahmini - Gerçek Değerler YSA Tahmini - Gerçek Değerler
+
+Grafik 1 ve Grafik 2’de YSA’dan elde edilen en iyi iki modelin tahmin sonuçları
+ile gerçek verilere ait rakamların karĢılaĢtırmalı grafikleri verilmiĢtir. Bu
+grafiklerle geliĢtirilen modellerin çok iyi olduklarını ve güvenle
+kullanılabileceğini göstermektedir. Klasik istatistiksel yöntemler (regresyon)
+tahminleme aĢamasında kısmen baĢarılı olabildikleri için son yıllarda
+örneklerden öğrenme yapabilen, genelleme yeteneğine sahip ve istatistiksel
+yöntemlere göre daha az varsayımları olan makine öğrenmesi yöntemlerinden olan
+YSA ve DVM yöntemleri tercih edilmiĢtir. YSA’nın kısıtlı olduğu konulara
+değinilecek olursa probleme uygun yapısının belirlenmesi genellikle deneme
+yanılma yoluyla yapılması önemli bir problemdir. Bazı ağlarda ağın parametre
+değerlerinin her katmanda olması gereken proses elemanı sayısı, katman sayısı
+vb. belirlenmesinde de bir kural olmaması diğer bir problemdir (Öztemel,
+2003:34). y = 0,9468x + 2915,3 R² = 0,9719 50000 55000 60000 65000 70000 75000
+80000 50000 60000 70000 80000 Tahmin Edilen Borsa Endeksi Ölçülen Borsa Endeksi
+y = 0,9697x + 2448,7 R² = 0,9716 50000 55000 60000 65000 70000 75000 80000 50000
+60000 70000 80000 Tahmin Edilen Borsa Endeksi Ölçülen Borsa Endeksi YAKUT –
+ELMAS – YAVUZ 150 2014 YSA’dan elde edilen 2011-2012 dönemine ait öngörü
+sonuçları ile gerçek veriler arasında anlamca fark olmadığını göstermektedir.
+Ayrıca bu iki modelin korelasyon katsayısı R= 0,985 bulunmuĢtur. Buna göre iki
+grup veri (Ölçülen veriler-YSA Verileri) arasında kuvvetli bir iliĢki vardır
+sonucuna varılmıĢtır. Grafikler incelendiğinde YSA’dan elde edilen verilerin
+ölçülen değerlerle benzer olduğu görülmektedir. Model 2’nin Model 1’e göre R2
+düzeyinde %0,03 olarak biraz daha iyi olduğunu söyleyebiliriz. Grafik 3: Model 2
+için OluĢan Değerler ile YSA Öngörülerinin KarĢılaĢtırılması
+
+Grafik 3’de; bir önceki günün endeks değerini (BÖE), önceki gününün Amerikan
+dolar değerini (Ö$), önceki günün gecelik faiz oranını (ÖFO) ve haftanın
+günlerini belirten 5 kukla değiĢkenin değerlerini girdi olarak alan M2 modeline
+ait gerçek ve tahmini endeks değerleri arasındaki sapma gözlenebilmektedir.
+Tablo 4: DVM Belirlilik Katsayısı (R2) ve Yüzde Doğruluk Ölçüt Değerleri DVM R
+KARE MPE MSPE RMSPE MAPE MSE RMSE M1 0,939 -0,016238 0,000547 0,023383 0,019975
+2330289 1526,528 M2 0,970 -0,003464 0,000311 0,017646 0,013709 1162788 1078,326
+M3 0,977 -0,000753 0,000261 0,016148 0,012648 957332,6 978,4338 M4 0,898
+0,028238 0,001304 0,036115 0,030038 4967967 2228,894 M5 0,915 0,011400 0,000969
+0,031136 0,024228 3443679 1855,715 M6 0,957 -0,001901 0,000514 0,022682 0,017666
+1863286 1365,022 M7 0,944 0,005111 0,000734 0,027087 0,019566 2523425 1588,529
+M8 0,909 0,005321 0,001072 0,032737 0,024372 3763867 1940,069 M9 0,938 0,003623
+0,000697 0,026398 0,020085 2479781 1574,732 Destek Vektör Makineleri modelleri
+için elde edilen değerler Tablo 4’de gösterilmiĢtir. Sonuçlara göre DVM modeli
+kullanıldığında 9 farklı model için R2 değerleri 0,898 ile 0,977 arasında değer
+elde edilmiĢtir. 9 farklı Model için R2 düzeyinde bir karĢılaĢtırma esas
+alındığında borsa endeksini en iyi tahmin eden modellerin M2 ve M3 modelleri
+oldukları ifade edilebilir. Bu modellerin R2 değerleri sırasıyla %97-%97,7
+olarak gerçekleĢtiğini ifade edebiliriz. Bununla birlikte M2 ve M3 modellerinin
+MAPE değerleri %1 civarında gerçekleĢtikleri için Lewis’e göre çok iyi modeller
+olduklarını söylenebilir. 40.000 45.000 50.000 55.000 60.000 65.000 70.000
+75.000 80.000 40000 45000 50000 55000 60000 65000 70000 75000 80000 03.01.2011
+03.02.2011 03.03.2011 03.04.2011 03.05.2011 03.06.2011 03.07.2011 03.08.2011
+03.09.2011 03.10.2011 03.11.2011 03.12.2011 03.01.2012 03.02.2012 03.03.2012
+03.04.2012 03.05.2012 03.06.2012 03.07.2012 03.08.2012 03.09.2012 03.10.2012
+03.11.2012 03.12.2012 YSA Endeks Değeri Gerçek Endeks Değeri Tahmini Endeks
+Değeri Yapay Sinir Ağları ve Destek Vektör Makineleri Yöntemleriyle Borsa
+Endeksi Tahmini 151 C.19, S.1 Grafik 4: Model 2: KarĢılaĢtırmalı Grafik 5: Model
+3: KarĢılaĢtırmalı DVM Tahmini - Gerçek Değerler DVM Tahmini - Gerçek Değerler
+
+Grafik 4 ve Grafik 5’de DVM’den elde edilen en iyi iki modelin tahmin sonuçları
+ile gerçek verilere ait rakamların karĢılaĢtırmalı grafikleri verilmiĢtir.
+DVM’den elde edilen 20112012 dönemine ait öngörü sonuçları ile gerçek veriler
+arasında anlamca fark olmadığını göstermektedir. M2 ve M3 modellerine ait
+korelasyon katsayısı sırasıyla R2=0,985 ve R3=0,988 olarak hesaplanmıĢtır. Buna
+göre iki grup veri (Ölçülen veriler-DVM Verileri) arasında kuvvetli bir iliĢki
+vardır sonucuna varılmıĢtır. Grafikler incelendiğinde DVM’den elde edilen
+verilerin ölçülen değerlerle benzer olduğu görülmektedir. Model 3’ün Model 2’ye
+göre R2 düzeyinde %0,83 olarak biraz daha iyi olduğunu söyleyebiliriz. Grafik 6:
+Model 3 için OluĢan Değerler ile DVM Öngörülerinin KarĢılaĢtırılması
+
+Grafik 6’da; bir önceki günün endeks değerini (BÖE), önceki gününün Amerikan
+dolar değerini (Ö$), önceki günün gecelik faiz oranını (ÖFO) ve haftanın
+günlerini belirten 5 kukla değiĢkenin değerlerini ve bir önceki günün
+Japonya’nın (J), Brezilya’nın (B), Ġngiltere’nin (Ġ), Fransa’nın (F) ve
+Almanya’nın (A) borsa endeks değerlerini girdi olarak alan M3 modeline ait
+gerçek ve tahmini endeks değerleri arasındaki sapma gözlenebilmektedir. 3.1.
+Ġstatistiksel Analizi Yapay sinir ağları ve destek vektör makineleri
+yöntemlerinden elde edilen değerler ile gerçek değerler arasında anlamlı fark
+bulunup bulunmadığını ölçmek için hipotez testi yapılmıĢtır. Bu karĢılaĢtırmayı
+yapabilmek için gerekli formüller ve elde edilen değerler sırasıyla Tablo 5 ve
+Tablo 6’da verilmiĢtir. 40.000 50.000 60.000 70.000 80.000 40000 45000 50000
+55000 60000 65000 70000 75000 80000 03.01.2011 03.02.2011 03.03.2011 03.04.2011
+03.05.2011 03.06.2011 03.07.2011 03.08.2011 03.09.2011 03.10.2011 03.11.2011
+03.12.2011 03.01.2012 03.02.2012 03.03.2012 03.04.2012 03.05.2012 03.06.2012
+03.07.2012 03.08.2012 03.09.2012 03.10.2012 03.11.2012 03.12.2012 DVM Endeks
+Değeri Gerçek Endeks Değeri Tahmini Endeks Değeri Y = 0,9894x + 607,95 R² =
+0,977 50000 55000 60000 65000 70000 75000 80000 50000 60000 70000 80000 Tahmin
+Edilen Borsa Endeksi Ölçülen Borsa Endeksi Y = 0,9428x + 3310,6 R² = 0,969 50000
+55000 60000 65000 70000 75000 80000 50000 60000 70000 80000 Tahmin Edilen Borsa
+Endeksi Ölçülen Borsa Endeksi YAKUT – ELMAS – YAVUZ 152 2014 Tablo 5: Büyük
+Örneklem için Z Testi BoĢ Hipotez H0 = Test Ġstatistiği ̅ ̅ √
+
+Alternatif Hipotez Red Alanı Ha = eğer Z > Z kritik değer H0 red sağ kuyruk
+testi Ha = eğer -Z < -Z kritik değer H0 red sol kuyruk testi Ha =
+
+eğer Z > Z kritik değer eğer -Z < -Z kritik değer H0 red Tablo 6: YSA ve DVM
+Yöntemlerinin Ortalama ve Std. Sapma Değerleri Yöntemler YSA DVM Modeller
+Ortalama değer Std Sapma Ortalama değer Std Sapma M1 62792,77 6035,68 61151,77
+5446,92 M2 61831,54 5904,86 61981,25 5893,01 M3 63198,85 6258,98 62177,29
+6173,91 M4 62403,02 6064,34 63999,00 6602,76 M5 62430,58 5733,72 62894,66
+6032,90 M6 62374,67 6181,68 62110,62 6284,10 M7 62066,49 5895,66 62551,26
+6432,16 M8 62848,28 5714,19 62514,36 6023,01 M9 61064,75 6087,15 62420,28
+6024,31 Tablo 6’da YSA ve DVM yöntemleriyle elde edilen 2011-2012 dönemine ait
+öngörü sonuçlarının ayrı ayrı dokuz farklı model için ortalama ve standart sapma
+değerleri verilmiĢtir. 2011-2012 dönemine ait borsa endeksi gerçek verilerinin
+ortalama değeri 62228,19 ve standart sapma değeri 6161,52 olarak elde
+edilmiĢtir. Borsa endeksinin öngörüsü için hipotezleri, H0 = Gerçek verilerle
+ile tahmin edilen veriler arasında anlamlı bir fark yoktur. Veriler aynı veri
+setinden seçilmiĢtir. Ha = Gerçek verilerle ile tahmin edilen veriler arasında
+anlamlı bir fark vardır. Veriler aynı veri setinden seçilmemiĢtir.
+
+Yapay Sinir Ağları ve Destek Vektör Makineleri Yöntemleriyle Borsa Endeksi
+Tahmini 153 C.19, S.1 Tablo 7: Gerçek ve Tahmini Veriler Arasında: YSA ve DVM
+Yöntemlerinin Z Değerleri ve Hipotez Sonuçları Z DEĞERĠ YSA DVM YSA DVM M1
+1,466588 -2,932627 KABUL RED M2 -1,04136 -0,648933 KABUL KABUL M3 2,476163
+-0,130749 RED KABUL M4 0,453082 4,393201 KABUL RED M5 0,538762 1,7316504 KABUL
+KABUL M6 0,376022 -0,299333 KABUL KABUL M7 -0,42485 0,81264 KABUL KABUL M8
+1,653306 0,7441254 KABUL KABUL M9 -3,00964 0,4994281 RED KABUL Tablo 7’de YSA ve
+DVM yöntemlerine ait her bir model için Z değerleri verilmiĢtir. %95 güven
+aralığında karĢılık gelen Zkritik değeri 1,96’dır. Test istatistiği ve kritik Z
+değeri dikkate alındığında: YSA için M3 ve M9 modelleri ve DVM için M1 ve M4
+modelleri Zkritik değerlerinden büyük oldukları için Ho hipotezi red edilerek
+tahmin edilen verilerin gerçek verileri temsil etmediğini ifade edebiliriz.
+Bununla birlikte YSA için M1, M2, M4, M5, M6, M7 ve M8; DVM için M2, M3, M5, M6,
+M7, M8 ve M9 modellerinin Zkritik değerlerinden küçük oldukları için H0 hipotezi
+kabul edilerek; bu durumun istatistiksel anlamda gerçek verilerin ve tahmin
+edilen verilerin arasında anlamlı bir fark olmadığını, her iki örnek grubunun
+aynı yığından geldiğini böylelikle tahmin edilen verilerin gerçek verileri
+temsil edebilecek yeterlilikte olduklarını ve tahmin amacıyla bu modellerin
+kullanılabileceklerini söyleyebiliriz.
+
+4. SONUÇ Bu çalıĢmada BIST endeksi tahmini ileri beslemeli yapay sinir ağı ve
+destek vektör makinelerinden sigmoid tipli bir kernel fonksiyon kullanılarak
+gerçekleĢtirilmiĢtir. Yapay sinir ağları yöntemi günümüzde pek çok alanda
+uygulanmakta ve tahmin modellerinde de baĢarılı sonuçlar elde ettiği
+görülmektedir. YSA kullanımının kolay, esnek, hızlı ve tutarlı sonuçlar
+vermesinden dolayı araĢtırmada bu yöntem tercih edilmiĢtir. Son yıllarda
+sınıflandırma, regresyon ve zaman serileri tahmininde de baĢarılı uygulamaları
+olan destek vektör makineleri bu çalıĢmanın ikinci yöntemi olarak seçilmiĢtir.
+Elde edilen sonuçlar itibari ile bakıldığında YSA yöntemi seçildiğinde M2
+modelinde belirlenen öngörü için en yüksek R2 değerine ulaĢılmıĢ olup ve borsa
+endeksi öngörüsü için bir gün öncesine ait verilerin dikkate alınması önemlidir.
+DVM yöntemi seçildiğinde M3 modelinde belirlenen öngörü için en yüksek R2
+değerine ulaĢılmıĢtır. YSA yönteminde olduğu gibi, DVM yönteminde de borsa
+endeksi öngörüsü için bir gün öncesine ait verilerin alınması ile modellerin
+daha iyi performans gösterdiği gözlenmiĢtir.
+
+YAKUT – ELMAS – YAVUZ 154 2014 Tablo 8: YSA ve DVM Yöntemlerinin R2 Düzeyinde
+KarĢılaĢtırılması M1 M2 M3 M4 M5 M6 M7 M8 M9 Ort. %3,51 %0,21 %-1,94 %7,35 %4,37
+%0,63 %-0,11 %1,65 %-2,88 %1,36 Yöntemler açısından R2 düzeyinde bir kıyaslama
+yapıldığında, YSA yönteminin DVM yöntemine göre M3, M7 ve M9 modelleri hariç
+geri kalan altı modelde de biraz daha iyi performans gösterdiğini
+söyleyebiliriz. Tüm modeller dikkate alındığında YSA’nın, DVM’ye göre ortalama
+%1,36’lık daha iyi performans göstermiĢtir. Diğer yapılan literatür
+çalıĢmalarına bakıldığında; Yakut (2012), IMKB’de iĢlem gören toplam 120 sanayi
+iĢletmesinin finansal baĢarısızlık tahmini için yapay sinir ağlarının, destek
+vektör makinelerine göre daha yüksek doğrulukla sınıflandırma yaptığını
+gözlemlemiĢtir. Kara vd. (2011) yapay sinir ağları ve destek vektör makineleri
+yöntemlerini kullanarak on farklı teknik analiz göstergesi ile ĠMKB 100
+endeksinin yönünü tahmin etmeye çalıĢmıĢlardır. Yapay sinir ağlarının ortalama
+tahmin baĢarısının (%75,7), destek vektör makinelerininkinden (%71,2) anlamlı
+Ģekilde daha iyi olduğu sonucuna ulaĢılmıĢtır. Xiong, Zhang ve Chen (2010),
+sınıflandırma problemi için yaptıkları çalıĢmada YSA için %96’lık ve DVM için
+%94,71’lik bir toplam sınıflandırma baĢarısı elde etmiĢlerdir. Gazzah ve Amara
+(2008), Arab Alfabesini tanıyan yazıcılar için, YSA performansının, DVM
+performansına göre daha iyi sınıflandırma baĢarısı gerçekleĢtirdiklerini ifade
+etmiĢlerdir. Benzer Ģekilde Moraes vd., (2013), Ren (2012) ve Wu vd., (2008)
+yaptıkları çalıĢmalarda YSA’nın, DVM’ye daha iyi performans gösterdiklerini
+tespit etmiĢlerdir. YSA ve DVM yöntemlerinden elde edilen sonuçlara göre, gerçek
+değerler ve tahmini değerler arasındaki farklar hipotez testiyle istatistiksel
+olarak karĢılaĢtırılmıĢ ve %95 güven aralığında iki değer arasında genel itibari
+ile anlamlı bir fark olmadığı ortaya konmuĢtur. Haftanın günlerinin endeks
+tahmini üzerinde etkisinin ve dıĢ borsaların endeks tahmini üzerinde olumlu bir
+etkisinin olup olmadığını belirlemek için büyük örneklem için Z testi
+kullanılmıĢtır. H0 = Modeller arasında anlamlı bir fark yoktur veya haftanın
+günlerinin ya da dıĢ borsaların endeks tahmini üzerinde etkisi yoktur Ha =
+Modeller arasında anlamlı bir fark vardır veya haftanın günlerinin ya da dıĢ
+borsaların endeks tahmini üzerinde etkisi vardır. Tablo 9: Haftanın Günlerinin
+ve DıĢ borsaların Endeks Değeri Üzerindeki Etkisinin Z Testi ile Hesaplanması
+Modeller Z değerleri Modeller Z değerleri YSA.M1 - YSA.M2 2,55 DVM.M1 - DVM.M2
+-2,32 YSA.M1 - YSA.M3 -1,05 DVM.M1 - DVM.M3 -2,79 YSA.M4 - YSA.M5 -0,07 DVM.M4
+DVM.M5 2,77 YSA.M4 - YSA.M6 0,07 DVM.M4 - DVM.M6 4,64 YSA.M7 - YSA.M8 -2,13
+DVM.M7 - DVM.M8 0,09 YSA.M7 - YSA.M9 2,65 DVM.M7 - DVM.M9 0,33 Haftanın
+günlerinin ve dıĢ borsaların endeks değeri üzerindeki etkisinin olup olmadığını
+belirlemek için Z değerler hesaplanmıĢtır. %95 güven aralığında YSA’nın
+kullanıldığı, M1–M2, M7-M8 ve M7-M9 modellerinin; DVM’nin kullanıldığı M1-M2,
+M1-M3, M4-M5 ve M4-M6 modellerinin hesaplanan Z değerleri ≥ Zkritik olmasından
+dolayı, Ho hipotezi red edilmiĢtir. Böylelikle bu karĢılaĢtırılan modeller
+arasında haftanın günlerinin ya da dıĢ Yapay Sinir Ağları ve Destek Vektör
+Makineleri Yöntemleriyle Borsa Endeksi Tahmini 155 C.19, S.1 borsaların endeks
+tahmini üzerindeki etkisi istatistiksel açıdan anlamlı olduğunu tespit
+edilmiĢtir. Elde edilen bu bilgiler ıĢığında aĢağıdakiler söylenebilir: 
+Haftanın günlerinin endeks tahmini üzerinde etkisinin olduğu gözlenmiĢtir.  DıĢ
+borsaların endeks tahmini üzerinde olumlu bir etkisi olduğu düĢünülmektedir. 
+Her iki yöntemde de olduğu gibi bir gün öncesindeki verilerden hareketle
+oluĢturulan modellerin, iki gün öncesindeki verilerle oluĢturulan modellerden;
+iki gün öncesindeki verilerden hareketle oluĢturulan modellerin, üç gün
+öncesindeki verilerle oluĢturulan modellerden daha yüksek tahmin sonuçları
+ürettiği gözlenmiĢtir. Sonuçlar hem YSA hem de DVM yöntemlerinin borsa endeksi
+tahmininde kullanılabileceğini göstermiĢtir. Ayrıca bir sonraki çalıĢmada veri
+madenciliği tekniklerinden C5.0 algoritması, ANFIS metodu, doğrusal ve doğrusal
+olmayan regresyon modelleri ile karĢılaĢtırılması düĢünülmektedir.
+
+KAYNAKÇA AKCAN, A. ve KARTAL, C. (2011). “ĠMKB Sigorta Endeksini OluĢturan
+ġirketlerin Hisse Senedi Fiyatlarının Yapay Sinir Ağları Ġle Tahmini”, Muhasebe
+ve Finansman Dergisi, 27–40. ALBENĠ, M. ve DEMĠR, Y. (2008). “Makro Ekonomik
+Göstergelerin Mali Sektör Hisse Senedi Fiyatlarına Etkisi (ĠMKB Uygulaması)”,
+Muğla Üniversitesi SBS Dergisi, 14: 1-18. ALTAY, E. ve SATMAN, M.H. (2005).
+“Stock Market Forecasting: Artificial Neural Network and Linear Regression
+Comparison in an Emerging Market”, Journal of Financial Management and Analysis,
+18(2): 18-33. BAġAR, A. ve OKTAY, E. (2007). “Uygulamalı Ġstatistik 2”, Aktif
+Yayınevi, (4. Baskı), Ankara. BRIGHAM, E. (1995). Fundementals of Financial
+Management, [Elektronik Sürüm], 7th, The Dryden Press, Orlando, USA. CHO, V.
+(2003). “A Comparison Of Three Different Approaches To Tourist Arrival
+Forecasting”, Tourism Management, 24: 323-330. ÇĠNKO, M. ve AVCI, E. (2007). “A
+Comparision of Neural Network and Linear Regression Forecasts of The ISE-100
+Index”, Öneri, 7(28): 301-307. ÇOMAK, E. (2008). Destek Vektör Makinelerinin
+Etkin Eğitimi Ġçin Yeni YaklaĢımlar, Doktora Tezi, Selçuk Üniversitesi Fen
+Bilimleri Enstitüsü, Konya. DAĞLI, H. (2000). “Hisse Senedi Piyasa Endeksleri Ve
+Türkiye”, Balıkesir Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 3(4):
+189-206. DĠLER, A.Ġ. (2003). “ĠMKB Ulusal 100 Endeksinin Yönünün Yapay Sinir
+Ağları Hata iye Yayma Yöntemi ile Tahmin Edilmesi”, ĠMKB Dergisi, 7(25-26):
+65-81. DURUKAN, M.B. (1999). “Ġstanbul Menkul Kıymetler Borsasında Makroekonomik
+DeğiĢkenlerin Hisse Senedi Fiyatlarına Etkisi.”, ĠMKB Dergisi, 3(11): 20-41.
+YAKUT – ELMAS – YAVUZ 156 2014 FANG, H. ve LOO JEAN, C.H. (1996). “Foreign
+Exchange Risk and Common Stock Returns: A note on International Evidence”,
+Journal of Business Finance and Accounting, 23. FAUSETT, L. (1994).
+“Fundamentals of Neural Networks: Architectures, Algorithmsand Applications”,
+USA, Prentice Hall. GAZZAH, S. ve AMARA, N.B. (2008). “Neural Networks and
+Support Vector Machines Classifiers for Writer Identification Using Arabic
+Script”, The International Arab Journal of Information Technology, 5(1): 92-101.
+HAMĠD, S.A. ve IQBAL, Z. (2004). “Using Neural Networks for Forecasting
+Volatility of S&P 500 Index Futures Prices”, Journal of Business Research, 57:
+1116-1125. HAMZAÇEBĠ, C. ve BAYRAMOĞLU, M.F. (2007). “Yapay Sinir Ağları ile
+ĠMKB 100 Endeksinin Tahmini” Dokuz Eylül Üniversitesi 27. Yöneylem AraĢtırması
+ve Endüstri Mühendisliği Ulusal Kongresi, Temmuz 2-4, Ġzmir. HATĠPOĞLU, T.,
+BORAN, S., ÖZCAN, B. ve FIĞLALI, A. (2013). “Yapay Sinir Ağı YaklaĢımıyla Çinko
+Kalınlığının Tahminlenmesi”, SAÜ. Fen Bilimler Dergisi, 17(1): 60-68. HAYKIN S.
+(1999). Neural Networks: A Comprehensive Foundation [Elektronik Sürüm], Prentice
+Hall Inc, New Jersey. HRISTEV, R.M. (1998). The ANN Book [Elektronik Sürüm], GNU
+Public License, (Edition 1), Boston USA. HUANG, W., NAKAMORI, Y. ve WANG, S.Y.
+(2005). “Forecasting Stock Market Movement Direction with Support Vector
+Machine”, Computers & Operations Research, 32(10): 2513-2522. KARA, Y.,
+BOYACIOĞLU, M.A. ve BAYKAN, Ö.K. (2011). “Predicting Direction of Stock Price
+Index Movement Using Artifical Neural Networks and Support Vector Machines: The
+Sample of the Istanbul Stock Exchange”, Expert Systems with Aplications, 38:
+5311-5319. KARTALOPOULOS, S.V. (1996). Understanding Neural Network and Fuzzy
+Logic, Newyork: Basic Concepts and Applications, IEEE Press. KECMAN, V. (2001),
+Learning and Soft Computing: Support Vector Machines. NeuralNetworks and Fuzzy
+Logic Models [Elektronik Sürüm], MIT Press, Cambridge- Massachusetts. KIM, K.J.
+(2003). “Financial Time Series Forecasting Using Support Vector Machines”,
+Neurocomputing, 55: 307-319. KOHONEN, T. (1987). “Int. Conf. on AI”, State of
+the Art in Neural Computing, pp. 1-79, 1-90. KUTLU, B. ve BADUR, B. (2009).
+“Yapay Sinir Ağları ile Borsa Endeksi Tahmini” Yönetim, 20(63): 25-40. LEWIS,
+C.D. (1982). “Industrial and Business Forecasting Methods” Londra, Butterworths
+Publishing. MALLIARIS, M. ve SALCHENBERGER, L. (1996). “Using Neural Networks to
+Forecast The S&P100 Implied Volatility”, Neurocomputing, 10(2): 183-195. MORAES,
+R., VALIATI, J.F., NETO, W.P.G. (2013). “Document-Level Sentiment
+Classification: An Empirical Comparison Between SVM and ANN”, Expert Systems
+with Application, 40: 621-633. Yapay Sinir Ağları ve Destek Vektör Makineleri
+Yöntemleriyle Borsa Endeksi Tahmini 157 C.19, S.1 SONG, O., HU, W. ve XIE, W.
+(2002). “Robust Support Vector Machine with Bullet Hole Image Classification”
+[KurĢun Deliklerini Destek Vektör Makineleri ile Sınıflandırma], IEEE
+Transactions on Systems, Man and Cybernetics – Part C: Applications and Rewiews,
+32(4): 440. ÖZALP, A. ve ANAGÜN, A.S. (2003). “Yapay Sinir Ağı Performansına
+Etki Eden Faktörlerin Analizinde Taguchi: Hisse Senedi Fiyat Tahmini
+Uygulaması”, Ġstatistik AraĢtırma Dergisi, 2(1): 29-45. ÖZKAN, Y. (2008). Veri
+Madenciliği Yöntemleri, Papatya Yayıncılık, Ġstanbul. ÖZTEMEL, E. (2003). Yapay
+Sinir Ağları, Papatya Yayınları, Ġstanbul. PAL, M. ve GOEL, A. (2006).
+“Prediction Of The End Depth Ratio And Discharge Ġn Semi Circular And Circular
+Shaped Channels Using Support Vector Machines”, Flow Measurement And
+Ġnstrumentation, 17: 50-57. REN, J. (2012). “ANN vs. SVM: Which one performs
+better in Classificationof MCCs in mammogram imaginig”, Knowledge-Based Systems,
+26: 144-153. SAAD, E.W., DANIL, V.P. ve DONALD, C.W. (1998). “Comparative Study
+of Stock Trend Prediction Using Time Delay, Recurrent and Probabilistic Neural
+Networks,” IEEE Transactions on Neural Networks, 9(6): 1456–1470. SELER, Ġ.T.
+(1996). “Haftanın günleri: ĠMKB’ye Etkileri Üzerine Bir Ġnceleme, Sermaye
+Piyasası ve ĠMKB Üzerine ÇalıĢmalar”, ĠĢletme ve Finans Yayınları, Ankara. ġEN,
+Z. (2004). Yapay Sinir Ağları Ġlkeleri, Su Vakfı Yayınları, Ġstanbul.
+WITTKEMPER, H.G. ve MANFRED, S. (1996). “Using Neural Networks to Forecast the
+Systematic Risk of Stocks,” European Journal of Operational Research, 90(3):
+577-588. WU, T.K., HUANG, S.C. ve MENG, Y.R. (2008). “Evaluation of ANN and SVM
+Classifiers As Predictors to The Diagnosis of Students with Learning”, Expert
+Systems with Applications, 34: 1846-1856. XIONG, Y., ZHANG, Z. ve CHEN, F.
+(2010). “Comparison of ANN and SVM Methods for Urban Land Use/Cover
+Classifications from Remote Sensing Images”, 2010 International Conference on
+Computer and System Modeling (ICCASM 2010),v13-56. YAKUT, E. (2012). “Veri
+Madenciliği Tekniklerinden C5.0 Algoritması, Destek Vektör Makineleri ile Yapay
+Sinir Ağlarının Sınıflandırma BaĢarılarının KarĢılaĢtırılması: Ġmalat Sektöründe
+Bir Uygulama”, Doktora Tezi, Atatürk Üniversitesi Sosyal Bilimleri Enstitüsü,
+Erzurum. YILDIZ, B., YALAMA, A. ve COġKUN, M. (2008). “Forecasting the Istanbul
+Stock Exchange National 100 Index Using an Artificial Neural Network”, World
+Academy of Science, Engineering and Technology, No:46, 36–39. YÜKSEL, E. ve
+GÜLERYÜZ, G. (2010). “Ġstanbul Menkul Kıymetler Borsası’nda EĢhareketlilik Ve
+Asimetrik Ayarlama”, Maliye Finans Yazıları, 24(88): 97-113. ZHANG, G. ve HU,
+M.Y. (1998). “Neural Network Forecasting of the British Pound/US Dollar Exchange
+Rate, Omega International journal of Management Science, 26(4): 495-506.

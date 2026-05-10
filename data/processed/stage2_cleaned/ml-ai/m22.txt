@@ -1,0 +1,559 @@
+59/129
+
+Özetçe— Günümüzde dijital patoloji, tümörlerin teşhisi ve tahminleme konusunda
+önemli bir rol oynamaktadır. Derin Öğrenme (DÖ) yöntemlerinin geniş ölçekli
+uygulamalarla başa çıkma yeteneği göz önüne alındığında, bu tür modeller,
+histopatolojik görüntülerde doku sınıflandırma için cazip bir çözüm olarak
+kullanılmaktadır. Bu çalışma, histopatolojik görüntülerden akciğer kanserinin
+otomatik sınıflandırması için doğru ve yorumlanabilir bir makine öğrenimi
+tekniği oluşturmayı amaçlamaktadır. Mevcut yöntemde Evrişimsel Sinir Ağları
+(ESA), Vision Transformer (ViT) ve EfficientNet-B1 mimarisi karşılaştırılarak
+LIME (Local Interpretable Model-agnostic Explanations) açıklanabilirlik
+metoduyla patoloji görüntüleri üzerinde kanser tespit sistemi önerilmiştir. ViT
+ve EfficientNet-B1 mimarisinin evrişim tabanlı ESA mimarisine göre f1-skoru,
+hassasiyet ve duyarlılık oranının daha başarılı sonuçlar verdiği
+gözlemlenmiştir. En yüksek başarım oranına ViT mimarisi ile yaklaşılmış olup en
+ayrıntılı LIME sonuçlarına ise EfficientNet-B1 mimarisi ile ulaşılmıştır.
+Anahtar Kelimeler — Evrişimsel Sinir Ağları, EfficientNet-B1, Vision
+Transformer, Histopatoloji, Açıklanabilir Yapay Zeka Abstract— In today's
+context, digital pathology plays a significant role in the diagnosis and
+prediction of tumors. Given the capability of Deep Learning (DL) methods to
+handle largescale applications, such models are being increasingly employed as
+an attractive solution for tissue classification in histopathological images.
+This study aims to establish an accurate and interpretable machine learning
+technique for the automatic classification of lung cancer from histopathological
+images. In the current approach, a cancer detection system on pathology images
+is proposed by comparing Convolutional Neural Networks (CNNs), Vision
+Transformer (ViT), and EfficientNet-B1 architectures, utilizing the Local
+Interpretable Model-agnostic Explanations (LIME) interpretability method. It has
+been observed that the ViT and EfficientNet-B1 architectures outperform the
+convolution-based CNN architecture in terms of f1-score, precision, and recall
+rates. The ViT architecture approaches the highest performance rate, while the
+most detailed LIME results are achieved with the EfficientNet-B1 architecture.
+Keywords — Convolution Neural Network, EfficientNet-B1, Vision Transformer,
+Histopatology, Explainable Artificial Inteligence GİRİŞ Akciğer kanseri dünya
+genelinde geniş bir kesimi ilgilendiren sağlık sorunlarının başında gelir. Ölüm
+oranı yüksek ve kritik bir sağlık sorunudur. Akciğer kanseri hastalığına başlıca
+yakalanma sebebi sigara ve alkol tüketimidir. Bunun yanı sıra coğrafi bölgelere,
+yaş gruplarına, kalıtsal özelliklere ve diğer değişkenlere bağlı olarak
+farklılık gösterebilmektedir [1]. Kanser belirtileri arasında bitkinlik, mide
+bulantısı, kronik öksürük, nefes darlığı, kilo kaybı, kas ağrıları, kanama ve
+morluklar yer almaktadır. Fakat her kanser hastasında bu gibi durumlar
+görülmeyebilmektedir. Çoğu zaman akciğer kanser tanısı Pozitron Emisyon
+Tomografi (PET), Manyetik Rezonans (MR) veya Bilgisayarlı Tomografi (BT) ile
+görüntülenip ardından kesin tanı için patolojik teşhise ihtiyaç vardır [2].
+Genel olarak, akciğer kanseri erkeklerde daha yaygın görülürken, kadınlar
+arasında da son yıllarda artış gözlemlenmektedir [3]. 2020 WHO raporlarına göre
+dünya genelinde akciğer kanseri vakaları 2.21 milyon iken ölü sayısı 1.8 milyonu
+aşmaktadır [4]. Sistematik ve standartlaştırılmış tanı yöntemlerinin eksikliği,
+erken evre kanserlerin (1. veya 2. evre) ve belirsiz tümörlerin teşhisini
+zorlaştırmaktadır. Bu durumda, klinisyenler genellikle klinik tanı için
+dokulardan girişimsel biyopsi yöntemiyle örnekler alma yoluna başvururlar.
+Patolojik doku örneklerinin histolojik veya hücresel seviyede nihai tümör türü
+ve evresi belirlenebilmektedir [5]. Gelişen teknoloji ve yapay zeka modelleri
+sonucu komplikasyona sebep olan girişimsel yöntemlerin seyreltilmesi
+amaçlanmaktadır [6]. Günümüzde bilgisayar tabanlı görüntü işleme teknikleri,
+patolojik görüntülerin analizini otomatikleştirmektedir. Bu sayede süreci
+hızlandırmakla birlikte yüksek teşhis oranları elde edilmektedir [7]. Bu
+teknikler arasında görüntü bölütlemesi, özellik çıkarma ve sınıflandırma gibi
+yöntemler bulunmaktadır. Gelişmiş bilgisayar algoritmaları ve yapay zeka
+mimarileri, patoloji uzmanlarının hastalıkları daha iyi tanımlamasına ve tedavi
+planlarını belirlemesine yardımcı olabilmektedir. Bu çalışmada, akciğer
+histopatoloji görüntülerine baz model olarak Evrişimsel Sinir Ağları (ESA),
+dönüşüm tabanlı Vision Makale Türü: Araştırma Makalesi Makale Gönderim Tarihi:
+15.05.2024 Makale Kabul Tarihi: 08.07.2024 Akciğer Kanseri Tespitinde Dönüşüm ve
+Evrişim Tabanlı Modeller ile Açıklanabilir Yapay Zeka Uygulaması Explainable
+Artificial Intelligence Application for Lung Cancer Detection with Transformer
+and Convolution Based Models Delal Şeker1, Mustafa Said Kartal2, Abdulnasır
+Yıldız3, İlkay Öksüz4 1Mühendislik Fakültesi, Dicle Üniversitesi, Diyarbakır,
+Türkiye, delalkabak93@gmail.com 2Tıp Fakültesi, Sivas Cumhuriyet Üniversitesi,
+Sivas, Türkiye, md.mustafasaidkartal@gmail.com 3Mühendislik Fakültesi, Dicle
+Üniversitesi, Diyarbakır, Türkiye, abnayil@dicle.edu.tr 4Istanbul Technical
+Unıversity, İstanbul, Turkiye Faculty Of Computer And Informatıcs Engıneering,
+Department Of Computer Engineering oksuzilkay@itu.edu.tr 60/129 EMO Bilimsel
+Dergi 2024 Cilt:14 Sayı: 2 mimarileri uygulanmıştır. Derin Öğrenme (DÖ)
+modellerinin uygulanmasıyla elde edilen kestirim sonuçları karşılaştırılmıştır.
+Ardından tüm modellere ait sonuçlar açıklanabilir yapay zeka yöntemi olan LIME
+(Local nterpretable Model-agnostic Explanations)
+
+ile lişkilendirilmiştir. LIME uygulaması sonucu elde edilen görüntülerin ilgili
+bölgeleri çalışmada gösterilmiştir. Mevcut Çalışmalar Histopatolojik doku
+örneklerinin analizi ve sınıflandırılmasında farklı yaklaşımlar göze
+çarpmaktadır. Literatür incelendiğinde bu çalışmaların ağırlıklı olarak dönüşüm
+ve evrişim tabanlı olduğu gözlemlenmektedir. Aitazaz ve ekibi (2023), akciğer
+görüntülerini teşhis etmede ViT ve önceden eğitilmiş ESA mimarilerinin
+etkinliğini karşılaştırılmıştır. Deneyin sonuçları, ViT mimarisinin önceden
+eğitilmiş ESA mimarilerini performans bakımından aştığını göstermiştir. Ayrıca,
+daha fazla katmana sahip olan ViT-L32'nin ViT-B32'ye nazaran daha doğru sonuçlar
+ürettiği bulunmuştur [8]. Ali ve Ali (2021), geleneksel katmanlar, ayrılabilir
+evrişim katmanları ve kapsül ağı içeren çok girişli bir hibrit model
+oluşturmuşlardır. Bu modeli akciğer kanserini sınıflandırmak için
+kullanmışlardır. Ön işleme aşamasında, gama düzeltme, renk dengeleme, görüntü
+keskinleştirme ve çok ölçekli birleştirme uygulanmıştır. Önerilen model iki
+giriş alır: i) standart evrişim katmanları aracılığıyla birinci giriş bloğundan
+ham görüntüler ve ii) ayrılabilir evrişim katmanları kullanılarak ikinci giriş
+bloğundan işlenmiş görüntülerin her ikisi de sınıflandırma için bir kapsül ağına
+bağlıdır. Deneysel analiz, önerilen modelin üm sınıflarda dikkate değer bir
+başarı elde ettiğini ve akciğer kanseri için genel doğruluğun %99.58 olduğunu
+göstermişlerdir [9]. Kumar ve ark. (2022), akciğer histopatoloji görüntülerini
+sınıflandırmak için elle çıkarılan (hand-crafted) özelliklerin performansını
+derin özelliklerle karşılaştırmışlardır. Elde edilen özellikler dört makine
+öğrenimi algoritmasına uygulanmıştır: Gradient Boosting (GB), Çok Katmanlı
+Algılayıcı (ÇKA), Rastgele Orman (RO) ve Radyal fonksiyon tabanlı Destek Vektör
+Makinası (DVM-RBF). Analiz sonrasında, derin özelliklere sahip
+sınıflandırıcıların manuel özellikleri aştığını gözlemlemişlerdir [10]. Ibrahim
+ve Talaat (2022), özellik çıkarmak için EfficientNet-B7 kullanarak akciğer
+kanseri için çoklu sınıflandırma yapmak amacıyla Modifiye Edilmiş Sinir Ağları
+(MNNs) kullanarak DÖ tabanlı bir sistem önermişlerdir. Sonuçlara göre, bu sistem
+ile %99.5 doğruluk elde etmişlerdir [11]. Fan vd. (2021), akciğer
+kategorizasyonu için softmax ve DVM tabanlı bir transfer öğrenme mimarisi
+önermişlerdir. Sınıflandırma doğruluğunu artırmak için softmax
+sınıflandırıcısının tam bağlı katmanı, DVM sınıflandırıcısına bağlanmıştır.
+Önerilen modelin LC25000 veri kümesi için %99.4 doğruluğa sahip olduğunu
+göstermişlerdir [12]. Mehmood ve ekibi (2022), akciğer kanseri histopatolojik
+görüntülerinin otomatik olarak teşhisi için etkili bir transfer öğrenme
+stratejisi önermişlerdir. Bu yaklaşımda, hesaplama maliyetini azaltmak ve
+doğruluğu artırmak amacıyla kontrast artırma yöntemi tüm görüntülere değil,
+sadece performansı düşük olan sınıfa uygulamıştır (%89'dan %98.4'e kadar artış).
+Talukder ve ark. (2022), akciğer kanserini tespit için MobileNet kullanılıp
+sınıflandırma amacıyla birleşik yumuşak oylama sınıflandırıcısı
+kullanılmışlardır. Araştırma bulgularına göre, önerilen teknik ile akciğer
+kanserin sınıflandırmada %99.3 doğruluk sonucuna varılmıştır [13] Mangal vd.
+(2020), akciğer kanserini tanımlamak amacıyla geliştirilmiş sığ bir ESA tabanlı
+teknik kullanmış ve akciğe kanseri için %97, doğruluk elde edilmiştir [14]. Adu
+ve ark (2021), akciğer kanserini otomatik olarak tespit etmek ve sınıflandırmak
+için kapsül tabanlı bir metodoloji önermiştir. Bu çalışmada, kodlayıcı tabanlı
+benzersiz bir özellik birleştirme yaklaşımı ve özellik vektörünü bastırmak için
+yeni bir yatay sıkıştırma fonksiyonu geliştirilmiştir. Önerilen strateji il
+%99.23 doğruluk oranı yakalanmıştır [15]. Hage Chehade ve ark. (2022), akciğer
+histopatolojik görüntülerin çoklu sınıflandırılması için özellik mühendisliğine
+dayalı yeni bi makine öğrenimi modeli önermiştir. Bu yöntem, birinc dereceden
+istatistikler, GLCM ve Hu değişmez momentle kullanılarak 37 manuel çıkarılmış
+özellik hesaplamışlardır Akabinde bunları sınıflandırma işlemi için XGBoos
+sınıflandırıcısına uygulanmıştır. İlgili modelin LC25000 ver kümesi üzerinden
+test başarımının doğruluk performansı %99 olarak tespit edilmiştir. MATERYAL VE
+METOT A. Veri seti Bu çalışmada, Kaggle platformundan LC25000 adlı veri set
+kullanılmıştır. İlgili veri, Florida'da bulunan Jame Hastanesinde görev yapan
+Andrew Borkowski ve ekib tarafından oluşturulmuştur. Veri seti, akciğer ve kolon
+kanser histopatolojik görüntülerini içermektedir Akciğer kanseri ü farklı
+sınıftan oluşmaktadır. Orijinal görüntü boyutlar (1024,768) olup görüntüler
+(768,768) şeklinde yeniden boyutlandırılmıştır. Veri seti toplamda 750 adet
+akciğer kanser 500 adet kolon histopatolojik görüntü barındırmaktadır. Ver
+arttırma metodu sayesinde (sağ ve sol rotasyonlar- yatay ve dikey döndürmeler)
+her sınıftan 5000 adet olmak üzere toplamda 25000 adet görüntü elde edilmiştir.
+Önerilen çalışmada 15000 adet akciğer histopatolojik görüntüden
+faydalanılmıştır. Çalışmada kullanılan açık erişim veri setinde akciğer ve kolon
+kanseri görüntüleri ayrı ayrı sınıflandırılmıştır Fakat önerilen metot sadece
+akciğer verisine uygulanmıştır Verinin kapladığı alan bilgisi ve LC25000 adı
+kullanılmas sebebi ile 2 sınıflı kolon görüntülerini de barındırdığ
+bilinmelidir. Tüm veri setinin kapladığı alan 1.85 GB büyüklüğündedir [16].
+Akciğer kanseri için akciğer norma dokusu (ND), akciğer adenokarsinomu (ADK) ve
+akciğe skuamöz hücreli karsinom (SHK) olarak adlandırılan sınıfla çalışmada
+irdelenmiştir. Akciğer adenokarsinomu bronşlard görülen ikinci en yaygın kanser
+türüdür. Akciğerdeki bez hücrelerinde ortaya çıkar. Skuamöz hücreli karsinom,
+tıpk adenokarsinom gibi akciğerin alveol ve bronş epitelinden kaynaklanan habis
+tümörlerdir ve öncü lezyonlardan gelişirler Patoloji rutininde girişimsel
+karsinom diyebilmek için hücrese düzeyde anormal görünümün yanında bu hücrelerin
+yapısa olarak da anormal davranışını saptamak gerekmektedir Hücresel atipi daha
+çok hücrenin çekirdek özelliklerine 61/129 eğerlendirilmektedir [17]. Son olarak
+kontrol grubu olan ening hücreler ise normal doku olup vücudun diğer ölgelerine
+yayılmamaktadır. B. Metot lgili görüntüler (128,128,3) şeklinde yeniden
+boyutlandırılmış, EfficientNet-B1 mimarisi hariç, ESA ve ViT mimarisindeki [055]
+piksel değerleri normalize edilerek [0-1] arasına ndirgenmiştir. Toplam
+görüntülerin %80’i eğitim, %20’si test kümesine ayrılmıştır. Geri kalan eğitim
+kümesinin %20’si ise oğrulama kümesini oluşturmaktadır. Her sınıftan 5000 örüntü
+alınarak eğitim-test kümeleri dengeli oluşturulmuştur. Bu bağlamda üç farklı DÖ
+modeli kullanılmıştır. Model sonrası eşhis edilen görüntülere açıklanabilir bir
+yöntem uygulanıp onuçlar karşılaştırılmıştır. Çalışmada izlenilen metot Şekil
+.’de özetlenmiştir.
+
+Şekil 1. Mevcut çalışmada takip edilen metodoloji -Derin Öğrenme Modelleri
+Evrişimsel Sinir Ağları (ESA): ESA, özellik çıkarımı ve sınıflandırma
+işlemlerini eş zamanlı larak gerçekleştiren bir DÖ algoritmasıdır. Bu yöntem,
+ham erilerden özelliklerin otomatik olarak çıkarılması için evrişim şamaları,
+aktivasyon fonksiyonları ve havuzlama katmanlarını kullanır. Evrişim işleminin
+özü, bir veya daha fazla filtre ygulanarak gerçekleştirilen bir matematiksel
+operasyona ayanmaktadır. Filtrelerin görüntü üzerinde seçilen piksel ayısı
+adımları ile kaydırılması sonucu özellik haritaları ıkarılır. Filtreleme adımına
+ait bağıntı Denklem (1)’de erilmiştir. ‘b’ bias (yanlılık) değerini, ‘x’ yerel
+bölgeyi, ‘y’ ise zellik haritasını temsil etmektedir [18]. 𝑦𝑦𝑗𝑗= ∑(𝑥𝑥𝑖𝑖∗𝑘𝑘𝑗𝑗+
+𝑏𝑏𝑗𝑗)
+
+(1) Önerilen ESA mimari yapısı Şekil 2’de gösterildiği gibidir. Bu alışmada
+önerilen 3 katmanlı ESA modelinde katmanlardaki inir hücresi sayısı sırası ile
+(8,16,32) şeklindedir. Her katmandaki kernel boyutu (3,3) olarak belirlenmiştir.
+Tüm vrişim işlemleri ardına (2,2) maksimum havuzlama ygulanmıştır. Mimariye
+(256,128) sinir hücresi sayılarında oğunluk katmanı eklenmiştir. Hiper
+parametreler açısından atch boyutu 32, seyreltme oranı 0.3, öğrenme oranı 0.001,
+ptimizasyon metodu olarak ‘Adam’, kayıp fonksiyonu olarak categorical
+crossentropy’, aktivasyon fonksiyonu olarak softmax’ ve son olarak eğitim
+boyunca epok sayısı 50 eçilmiştir.
+
+Şekil 2. Önerilen ESA mimarisi yapısı
+
+Akciğer Kanseri Tespitinde Dönüşüm ve Evrişim Tabanlı Modeller ile Açıklanabilir
+Yapay Zeka Uygulaması Explainable Artificial Intelligence Application for Lung
+Cancer Detection with Transformer and Convolution Based Models Delal Şeker,
+Mustafa Said Kartal, Abdulnasır Yıldız, İlkay Öksüz 62/129 EMO Bilimsel Dergi
+2024 Cilt:14 Sayı: 2 EfficientNet-B1: Google araştırma ekibinden Tan ve Le
+(2019), ConvNet istemlerinin ölçeklendirme yöntemlerini inceleyerek temel yapıyı
+oluşturmuşlardır [19]. Araştırmacılar, ConvNet' e daha fazla katman ekleyerek
+onları daha geniş ve derin hale getirip yüksek çözünürlüklerle uğraşmak oldukça
+zahmetli olabileceği çin saniye başına kayan nokta işlemi (FLOPS) kullanıp temel
+bir ConvNet oluşturmak adına EfficientNet modeli kullanmışlardır. Bu mimari
+EfficientNet-B0 olarak adlandırılmıştır. Bu aşamadan sonra, EfficientNet-B1,
+EficientNet-B0'ı ölçeklendirerek oluşturulmuştur. Ölçekleme şlevini daha sonra
+EfficientNet-B7'ye uygulamışlardır. mageNet veri kümesi üzerinde EfficientNet-B7
+modelini kullanarak üst düzey doğruluk elde etmişlerdir. EfficientNet, diğer
+birçok derin öğrenme mimarisinden farklı olarak, ağın derinliği, genişliği ve
+çözünürlüğünü dengelemektedir. Bu dengeleme, daha iyi performans sağlamak için
+optimize edilmektedir. EfficientNet mimarisi daha sonra nesne tespiti çin farklı
+çözünürlüklerde kaynaştırılmış özellikler kullanan EfficientNet
+(B0,B1,B2,B3,B4,B5,B6,B7) ailesini oluşturmak çin kullanılmıştır [20]. Bu
+nedenle ilgili çalışmada, analiz edilen görüntülerin boyutu ve eğitim kolaylığı
+göz önünde bulundurularak EfficientNet-B1 ağ mimarisi tercih edilmiştir. Giriş
+görüntüleri (128,128,3) için normalizasyon işlemi uygulanmayıp görüntülerin
+orijinal piksel değerleri ile giriş ensörleri oluşturulmuştur. Mevcut çalışmada
+transfer öğrenme abanlı EfficientNet-B1 derin öğrenme mimarisinin özellik
+çıkarıcı olarak kullanılıp dense (yoğun) katmanı ile birleştirilerek yapılan
+sınıf tahmini Şekil 3.’ de gösterilmiştir. EfficientNet-B1 mimarisindeki
+katmanlar dondurularak mageNet ağırlıklarının kullanımı ile önerilen görüntü
+ınıflandırma problemi, önceden eğitilmiş bir derin öğrenme modelinin
+özelliklerinin alınıp, yeni veri kümesindeki örnekler çin sınıflandırma
+yapılmasını sağlar. Böylelikle büyük miktarda veriye ihtiyaç duymadan etkili bir
+şekilde yeni bir görev için modelin uyarlanması gerçekleştirilir. İlgili
+mimaride havuzlama olarak ‘average pooling’ seçilmiştir. Tam bağlı katmandaki
+sinir hücresi sayıları (2048, 1024, 512, 256, 128) eklindedir. Bunun dışındaki
+hiper parametreler önerilen ESA modeli ile benzerlik göstermektedir.
+
+Şekil 3. EfficientNet-B1 derin öğrenme mimarisinin akciğer patolojik görüntü
+tahminlenmesinde kullanımı Vision Tranformer (ViT): Vaswani vd. (2015), DÖ
+mimarilerinin kodlayıcı ve çözücü bloklarından oluşan karmaşık evrişimli
+modellerin dikkat mekanizmaları ile entegre olmasını sağlamışlardır. Böylece
+yinelemeli ve evrişimsel blokları tamamen ortadan kaldırmayı hedeflemişlerdir
+[21]. Bu çalışmaya dayanarak Dosovitskiy ve ekibi (2021), geleneksel Transformer
+modelinin görüntü [22]. ViT, girdi olarak bir görüntüyü alıp önceden belirlenmi
+belirli bir boyut ve piksel çözünürlüğüne sahip görüntüler küçük yamalara böler.
+Daha sonra, bu görüntü yamalarını düz vektörlere dönüştürür ve bir dizi dikkat
+katmanı üzerinden işler ViT modelinin mimari yapısı Şekil 4.’de gösterilmiştir
+Görüntüyü vektöre dönüştüren bağıntı Denklem (2)’de verilmiştir. Bu denklemde
+her bir görüntü için elde edilen terimler şu şekildedir: n yama sayısı, h
+yükseklik, w genişlik v p piksel netliğini vermektedir. Ardından görüntü
+yamaları 𝑝𝑝2𝑥𝑥𝑥𝑥 boyutunda vektörlere çevrilir.
+
+𝑛𝑛= (ℎ𝑥𝑥𝑥𝑥)/𝑝𝑝2
+
+(2)
+
+Modelde (128,128,3) olan girdi görüntüleri (72,72,3) şeklind yeniden
+boyutlandırılmıştır. Daha sonra her bir kenar 6 ade yamaya bölünmüştür.
+Böylelikle bir görüntüden toplamd (6x6) 36 adet yama elde edilmiştir. Modele ait
+diğer hipe parametreler şu şekildedir: Kayıp fonksiyonu seyrek kategori ağırlık
+azalması 0.0001, projeksiyon boyutu 64, dönüşüm birimindeki projeksiyon boyutu
+2, dönüşüm katmanının boyutu 8, son sınıflandırıcı olan çok katmanlı
+algılayıcının sinir hücres sayıları (2018,1024) olarak belirlenmiştir. Önerilen
+ViT mimarisinde büyük veri gereksiniminden dolay eğitim kümesinde veri artırımı
+yoluna gidilmiştir. Mimarinin içyapısı gereği ilgili değişimler belirli oranda
+görüntülerin y eksenine göre simetriğinin alınması, 0.02 faktörü ile
+döndürülmesi ve hem yatay hem düşeyde 0.2 faktörü ile yakınlaştırma şeklindedir.
+Bu işlemin amacı olası tes görüntülerine karşı sistemi gürbüz bir şekilde
+eğitmeye yöneliktir.
+
+Şekil 4. Çalışmada kullanılan ViT mimarisine ait genel içyapı [22].
+
+2-Performans Metrikleri
+
+Makine öğrenimi ile ilgili performans metrikleri, hassasiyet geri çağırma,
+F1skoru ve doğruluk değerleri dahil olmak üzer ölçülecektir. Kesinlik, doğru
+pozitiflerin (DP) doğru pozitifle ve yanlış pozitifler (YP) toplamına oranı
+olarak hesaplanır Yani, doğru pozitiflerin toplam pozitif tahminlere oranıdır
+Duyarlılık, doğru pozitiflerin toplam doğru pozitifler ve yanlı negatifler (YN)
+toplamına oranı olarak hesaplanır. Yani, doğru pozitiflerin toplam pozitif
+gerçekler ile oranıdır. F1 skoru kesinlik ve duyarlılığın harmonik
+ortalamasıdır. Dengesiz sınıflandırma problemlerinde sıklıkla tercih edilir.
+Doğruluk bir model tarafından yapılan tahminlerin genel doğruluğunu ölçer.
+Doğruluk, doğru tahminlerin (DN, YP) toplam tahminlere oranı olarak hesaplanır.
+Performans metrikler hesaplamasının özeti Tablo 1'de bulunmaktadır. 63/129
+
+Tablo 1. Performans metrikleri matematiksel hesabı Kesinlik Duyarlılık DP DP +
+YP DP DP + YN F1-skor Doğruluk 2x Kesinlik x Duyarlılık Kesinlik + Duyarlılık DP
++ DN DP + YP + YN + DN
+
+-Açıklanabilir Yapay Zeka Metodu: LIME (Local Interpretable Model-agnostic
+Explanations): DÖ modelleri, genellikle karmaşık yapısı ve yüksek boyutlu eriler
+üzerindeki etkin performansıyla dikkat çekmektedir. lgili modeller literatür
+çalışmalarında ‘kara kutu’ modeller larak adlandırılmaktadır [23]. Bu terim, DÖ
+modellerinin iç şleyişi ve karar süreçlerinin anlaşılmasının zorluğunu ifade
+der. Bu durum kritik uygulamalarda DÖ kullanımını kısıtlamaktadır. Tıbbi teşhis
+gibi kritik disiplinlerde makine ğrenimi kullanımında tahminlere tamamen
+güvenilmez, çünkü onuçlar yanıltıcı olabilir. Bireysel tahminlere güvenmekten
+aşka, modelin saha koşullarında kullanılmadan önce bütün larak değerlendirilmesi
+de gerekmektedir. Bu kararı vermek çin, kullanıcıların modelin gerçek dünya
+verilerinde iyi erformans göstereceğine ve ilgi çeken ölçütler doğrultusunda
+eğerlendirileceğine güvenmeleri gerekmektedir. Bu sebeple DÖ algoritmalarının iç
+işleyişini anlamak ve şeffaf hale etirmek amacıyla açıklanabilir modeller
+kullanılmaktadır. Çalışmada eğitim ve test işlemi sonrasında açıklanabilir
+modellerden biri olan LIME metodu kullanılmıştır. LIME metodunda amaç seçilen
+örnekleme DÖ metodunda alınan giriş e tahminlerin neden yaptığını anlamak ve bu
+tahminlere yakın eni tahmin bölgeleri belirlemektir. Yeni ağırlıklar elde edilen
+ahminlere göre ağırlıklandırılmaktadır. Görüntüler tahmin için 1,128,128,3)
+olarak yeniden boyutlandırılmıştır. Test kümesinden doğru olarak sınıflandırılan
+rastgele seçilmiş örüntü örnekleri ile modelin görüntü üzerinden özellik
+ıkardığı ilgili bölgeler kestirilmeye çalışılmıştır. LIME metodu kararlarını
+belirli bir örnek veya örnek kümesi üzerinde nlamlandırır. Model agnostik bir
+yaklaşım benimseyip erhangi bir makine öğrenmesi modeli ile uyumlu çalışır. Bu
+ayede temel bir açıklayıcı yapay zeka modeli olarak sıklıkla kullanılmaktadır
+[24]. 𝐴𝐴ç𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤(𝑥𝑥) = 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑔𝑔€𝐺𝐺 𝐿𝐿(𝑓𝑓, 𝑔𝑔, 𝜋𝜋𝑥𝑥) + Ω(𝑔𝑔) (3)
+Denklem (3)’de x açıklanmak istenen görüntü, g vekil model, f sıl model, 𝜋𝜋𝑥𝑥
+ise x görüntüsüne yakınlık ölçeği, L kayıp onksiyonu minimum yapan fonksiyon ve
+Ω(𝑔𝑔) vekil modelin zellik miktarını az sayıda tutabilmek için kullanılan bir
+onksiyondur. BULGULAR VE TARTIŞMA Çalışmada kullanılan veri seti ve mevcut
+yöntem, patolojik örüntülerin işlenmesinde ve yorumlanmasında literatüre katkı
+ağlamaktadır. 50 epok boyunca alınan eğitim validasyon ait karmaşıklık
+matrisleri Şekil 5.’de verilmiştir. Karmaşıklı matrislerinden çıkarılan
+metrikler ise Tablo 2.’de bir arad hesaplanmıştır. ViT mimarisinin evrişim
+tabanlı ESA v EfficientNet-B1 mimarisine göre daha başarılı sonuçlar verdiğ
+gözlemlenmiştir. ESA mimarisi %87.93, EfficientNet-B mimarisi %96.97 ve ViT
+mimarisi %98.40 doğruluk değerlerine ulaşmıştır. Derin mimariler sonucu farklı
+dok örneklerinden çıkarılan özelliklere ait doku konumları LIME metodu ile
+belirlenerek Şekil 6.’da gösterilmiştir. Önerilen çalışmanın bulgularına göre,
+ViT mimarisi doğruluk hassasiyet ve duyarlılık gibi performans metrikleri
+açısında incelendiğinde akciğer kanseri özelliği taşıyan histopatoloji dokuları
+sağlıklı görüntülerden ayırma amacıyla EfficientNet B1 ve ESA mimarisine kıyasla
+daha az parametre sayısı ile dah etkili bir sonuca ulaşmıştır. Evrişim tabanlı
+ESA ve transfe öğrenmeye dayalı EfficientNet-B1 mimarileri dikka mekanizmasına
+dayalı dönüşüm tabanlı ViT mimarisinin performans olarak gerisinde kalmıştır.
+Önerilen evrişim tabanl mimariler arasında EfficientNet-B1 mimarisi patolojik
+görünt sınıflandırma uygulamalarında daha başarılı performan sergilemiştir. Ek
+olarak EfficientNet-B1 mimarisi transfe öğrenme ile kullanılırken ESA mimarisi
+rastgele parametrelerl başlatılarak eğitilmiştir. Her iki mimari de evrişim
+tabanl olmasına rağmen bu durum ESA mimarisi için dezavantajlı bi durum olarak
+kabul edilebilir. Önceden öğrenilmiş ağırlıkların yeni veri setlerindeki
+kullanımına ait yüksek başarımlar transfe öğrenmenin getirdiği en önemli
+kazançlardan biridir [25] Ayrıca derin katmanlı EfficientNet-B1 modelinin LIME
+gib model agnostik yaklaşımlarda görüntüdeki detayları çok sayıd kümelemesi
+patolojik görüntü uygulamalarında önem taşıdığın göstermektedir ancak ilgili
+mimarinin efektif kullanımı için tüm slayt görüntülerden faydalanmak daha doğru
+bir yaklaşım olacaktır. İlgilenilen kanserli kısımlar ve önerilen deri öğrenme
+mimarileri arasındaki ilişki açısından şu şekilde bi yorumdan bahsedilebilir: i)
+ESA mimarisi akciğer kanserine ai ilgili yerlerden özellik çıkarırken bu bölgeyi
+daha geniş tutup ilgisiz yerlerden de örüntü toplamıştır. ii) EfficientNet-B
+algoritmasında kümelenen alanlar çok sayıdadır. Bu bağlamd tüm slaytlardan
+yararlanmak daha doğru olacaktır. İlgil görseller yama görüntülerini temsil
+etmektedir. iii) ViT mimarisinde ise hem sınıflandırma başarımı en yüksek olup
+hem de en anlamlı bölgelerden özellik çıkarılmıştır. Sonu olarak ViT akciğer
+kanserine ilişkin patolojik kesitleri analizinde an doğru ve anlamlı sonuçlar
+üretmiştir. Çalışmada LIME açıklanabilirlik yöntemi kullanılarak ViT, ESA v
+EfficientNet-B1 mimarilerinin eğitildiği görüntülerde öğrenile bölgelerin
+belirgin bir şekilde işaretlenmesi, araştırmay önemli bir değer katmıştır. Bu
+yaklaşım, DÖ mimarilerini içsel öğrenme mekanizmalarını daha anlaşılır ve
+yorumlanabili hale getirerek modelin hangi özellikleri ve bölgeler vurgulayarak
+öğrendiğini açıklığa kavuşturmaktadır. Görünt üzerinde işaretlenen kümeler
+ilgili bölgeleri teşhis etmek için kullanılmıştır. Bu bağlamda öğrenilen
+bölgelerin vurgulanmas modelin kararlarını ve öğrenme süreçlerini daha şeffaf bi
+şekilde anlaşılmasına yardımcı olarak önerilen çalışmanı genel etkisini
+arttırmaktadır. Bu çalışmada kullanıla Akciğer Kanseri Tespitinde Dönüşüm ve
+Evrişim Tabanlı Modeller ile Açıklanabilir Yapay Zeka Uygulaması Explainable
+Artificial Intelligence Application for Lung Cancer Detection with Transformer
+and Convolution Based Models Delal Şeker, Mustafa Said Kartal, Abdulnasır
+Yıldız, İlkay Öksüz 64/129 EMO Bilimsel Dergi 2024 Cilt:14 Sayı: 2 boyutları
+için de denenmiş olup benzer sonuçlar vermiştir. Bu bağlamda GPU ve zaman
+kısıtından ötürü çalışmada küçük boyutlu görüntüler tercih edilmiştir. Çalışmada
+önerilen 3 katmanlı ESA modelinde seçilen eğitim parametrelerinin
+belirlenmesinde hiper-parametre optimizasyonu yapılmamıştır. Ayrıca tek bir
+açıklanabilir metot kullanıldığından bu uygulamaları destekleyecek farklı
+açıklanabilir metotlarının ortaya konmaması çalışmanın eksik görülen
+noktalarından bazılarıdır. Gelecek çalışmalarda histopatolojik görüntülerdeki
+kanser teşhisini geliştirmek amacıyla farklı DÖ modellerinin geliştirilmesi ve
+birden fazla açıklana bilirlik yöntemlerinin karşılaştırmalı analizinin
+yapılması hedeflenmektedir. Seçilen verinin hücresel ve dokusal bakımdan
+uzmanlık gerektiren görüntüler olması sebebiyle ileride yapılacak histopatolojik
+görüntü analizlerinin uzman bir patolog eşliğinde sonuçları yorumlaması
+çalışmaya katkı sunacaktır. Mevcut çalışmanın yenilikçi yanları Mevcut
+Çalışmalar başlığı altında verilen literatür özeti ile kıyaslandığında şu
+şekilde ıralanabilir: Çoklu Model Karşılaştırması: ESA, ViT ve EfficientNet-B1
+mimarileri karşılaştırılarak kapsamlı bir analiz yapılmıştır. Farklı derin
+öğrenme mimarilerini aynı veri kümesi üzerinde sistematik olarak karşılaştıran
+çalışmalar sınırlıdır. Bu çalışma, farklı modellerin performansını aynı veri
+seti ve aynı metrikler kullanarak doğrudan karşılaştırmaktadır. Açıklanabilirlik
+Metodolojisi: LIME metodunu kullanarak modellerin çıktılarının açıklanabilirliği
+değerlendirilmiştir. Literatürde açıklanabilirlik metotları genellikle sınırlı
+kullanılmıştır. Bu çalışmada, LIME ile modelin karar verme üreçlerinin
+görselleştirilmesi, modelin güvenilirliğini ve klinik uygulamalardaki kullanım
+potansiyelini artırmaktadır. Yüksek Doğruluk Oranları: ViT mimarisinin %98.40
+doğruluk oranına ulaşması ve EfficientNet-B1'in %96.97 doğruluk oranı le yakın
+sonuçlar vermesine bulgular kısmında yer verilmiştir. Literatürdeki diğer
+çalışmalarla karşılaştırıldığında, önerilen yöntemlerin daha yüksek doğruluk
+oranlarına ulaşması, çalışmanın başarısını göstermektedir. Detaylı Performans
+Değerlendirmesi: Performans değerlendirmesinin sadece doğruluk oranıyla sınırlı
+kalmaması, diğer önemli metriklerin de kapsamlı bir şekilde analiz edilmesi,
+çalışmanın derinliğini ve geçerliliğini artırmaktadır. Farklı Mimari Yapıların
+Kullanımı: Literatürdeki çalışmaların çoğu ya sadece ESA ya da tek bir model
+mimarisi üzerine odaklanmıştır. Bu çalışmanın farklı mimarileri bir araya
+getirmesi ve karşılaştırması yenilikçi bir yaklaşım sunmaktadır. Açıklanabilir
+makine öğrenmesi le ayrıntılı ve şeffaf sonuçlar: Literatürde LIME metodunun
+kullanımı yaygın değildir ve bu metodun özellikle EfficientNetB1 ve ViT ile
+entegrasyonu, model çıktılarının daha iyi anlaşılmasını ve yorumlanmasını
+sağlamaktadır. 65/129
+
+Eğitim/Validasyon Doğruluk Eğitim/Validasyon Kayıp Karmaşıklık Matrisi ESA
+
+ViT
+
+EfficientNet-B1
+
+Şekil 5. ESA, ViT ve EfficientNet-B1 derin öğrenme mimarilerine ilişkin
+eğitim/validasyon kümelerine ait epoklar boyunca doğruluk-kayıp değerleri ile
+test kümesi karmaşıklık matrisleri Tablo 2. Önerilen derin öğrenme mimarileri
+sonucu elde edilen performans metrikleri Derin Öğrenme Mimarisi Sınıflar
+Kesinlik Duyarlılık f1 skor Genel Doğruluk ESA ADK 0.99 0.64 0.78
+
+SHK 0.74 1.00 0.85 0.8793
+
+ND 0.99 1.00 1.00
+
+ViT ADK 0.97 0.99 0.98
+
+SHK 0.99 0.97 0.98 0.9840
+
+ND 1.00 1.00 1.00
+
+EfficientNet-B1 ADK 1.00 0.92 0.96
+
+SHK 0.92 1.00 0.96 0.9697
+
+ND 1.00 0.99 1.00
+
+Akciğer Kanseri Tespitinde Dönüşüm ve Evrişim Tabanlı Modeller ile Açıklanabilir
+Yapay Zeka Uygulaması Explainable Artificial Intelligence Application for Lung
+Cancer Detection with Transformer and Convolution Based Models Delal Şeker,
+Mustafa Said Kartal, Abdulnasır Yıldız, İlkay Öksüz 66/129 EMO Bilimsel Dergi
+2024 Cilt:14 Sayı: 2
+
+ESA ViT EfficientNet-B1 Adenokarsinom Örnek doku görüntüleri
+
+LIME ile bilgi toplanılan sınırların belirlenmesi
+
+LIME ile bilgi toplanılan sınırlara ait alanın taranması
+
+Skuamöz Hücreli Karsinom Örnek doku görüntüleri
+
+LIME ile bilgi toplanılan sınırların belirlenmesi
+
+LIME ile bilgi toplanılan sınırlara ait alanın taranması
+
+67/129 Bening (Normal) Doku Örnek doku görüntüle
+
+LIME ile bilgi toplanılan sınırların belirlenmesi
+
+LIME ile bilgi toplanılan sınırlara ait alanın taranması
+
+Şekil 6. Adenokarsinom, skuamöz hücreli karsinom ve normal doku örnek
+görüntülerine ilişkin uygulanan derin mimariler sonucu LIME açıklanabilir yapay
+zek metoduna ait gösterimler
+
+TEŞEKKÜR Yazarlar ilgili çalışmada Dicle Üniversitesi Bilimsel Araştırma
+Projeleri Koordinatörlüğü’nün (DÜBAP), sağladıkları finansal estek için (Proje
+No: MÜHENDİSLİK.17.019) teşekkürlerini unmaktadır. Ayrıca Acıbadem Maslak
+Hastanesi Mehmet Ali Aydınlar Üniversitesinde patolog olarak görev yapan Cavit
+Kerem Kayhan’a sonuçların yorumlanmasındaki değerli katkıları için
+teşekkürlerimizi sunarız. KAYNAKLAR 1] M. B. Schabath and M. L. Cote, “Cancer
+progress and priorities: Lung cancer,” Cancer Epidemiol. Biomarkers Prev., vol.
+28, no. 10, pp. 1563–1579, 2019, doi: 10.1158/1055-9965.EPI-19-0221. 2] M. C.
+Staff, “Cancer.” Accessed: May 06, 2024. [Online]. Available:
+https://www.mayoclinic.org/diseases-conditions/cancer/symptomscauses/syc-20370588
+3] L. L. Zullig et al., “Cancer incidence among patients of the U.S. veterans
+affairs health care system: 2010 update,” Mil. Med., vol. 182, no. 7, pp.
+e1883–e1891, 2017, doi: 10.7205/MILMED-D-16-00371. 4] World Health Organization,
+“Cancer.” Accessed: May 02, 2024. [Online]. Available:
+https://www.who.int/news-room/factsheets/detail/cancer 5] W. D. Travis,
+“Pathology of Lung Cancer,” Clin. Chest Med., vol. 32, no. 4, pp. 669–692, 2011,
+doi: 10.1016/j.ccm.2011.08.005. 6] L. Succony, D. M. Rassl, A. P. Barker, F. M.
+McCaughan, and R. C. Rintoul, “Adenocarcinoma spectrum lesions of the lung:
+Detection, pathology and treatment strategies,” Cancer Treat. Rev., vol. 99, no.
+May, p. 102237, 2021, doi: 10.1016/j.ctrv.2021.102237. 7] S. Huang, J. Yang, S.
+Fong, and Q. Zhao, “Artificial intelligence in cancer diagnosis and prognosis:
+Opportunities and challenges,” Cancer Lett., vol. 471, no. December 2019, pp.
+61–71, 2020, do 10.1016/j.canlet.2019.12.007. [8] T. Aitazaz, A. Tubaishat, F.
+Al-Obeidat, B. Shah, T. Zia, and A Tariq, “Transfer learning for histopathology
+images: an empirica study,” Neural Comput. Appl., vol. 35, no. 11, pp.
+7963–7974, 2023 doi: 10.1007/s00521-022-07516-7. [9] M. Ali and R. Ali,
+“Multi-Input Dual-Stream Capsule Network fo Improved Lung and Colon Cancer
+Classification,” Diagnostics, vo 11, no. 8, 2021, doi:
+10.3390/diagnostics11081485. [10] N. Kumar, M. Sharma, V. P. Singh, C. Madan,
+and S. Mehandia, “A empirical study of handcrafted and dense feature extractio
+techniques for lung and colon cancer classification from histopathological
+images,” Biomed. Signal Process. Control, vol. 75 p. 103596, 2022, doi:
+https://doi.org/10.1016/j.bspc.2022.103596. [11] N. yahia Ibrahim and A. S.
+Talaat, “An Enhancement Technique t Diagnose Colon and Lung Cancer by using
+Double CLAHE and Dee Learning,” Int. J. Adv. Comput. Sci. Appl., vol. 13, no. 8,
+2022, do https://doi.org/10.14569/IJACSA.2022.0130833. [12] J. Fan, J. Lee, and
+Y. Lee, “A Transfer Learning Architecture Base on a Support Vector Machine for
+Histopathology Imag Classification,” Appl. Sci., vol. 11, no. 14, 2021, do
+10.3390/app11146380. [13] M. A. Talukder, M. M. Islam, M. A. Uddin, A. Akhter,
+K. F. Hasan and M. A. Moni, “Machine learning-based lung and colon cance
+detection using deep feature extraction and ensemble learning, Expert Syst.
+Appl., vol. 205, p. 117695, 2022, do https://doi.org/10.1016/j.eswa.2022.117695.
+[14] S. Mangal, A. Chaurasia, and A. Khajanchi, “Convolution Neura Networks for
+diagnosing colon and lung cancer histopathologica images.” 2020. [15] K. Adu, Y.
+Yu, J. Cai, K. Owusu-Agyemang, B. A. Twumasi, and X Wang, “DHS-CapsNet: Dual
+horizontal squash capsule networks fo lung and colon cancer classification from
+whole slid Akciğer Kanseri Tespitinde Dönüşüm ve Evrişim Tabanlı Modeller ile
+Açıklanabilir Yapay Zeka Uygulaması Explainable Artificial Intelligence
+Application for Lung Cancer Detection with Transformer and Convolution Based
+Models Delal Şeker, Mustafa Said Kartal, Abdulnasır Yıldız, İlkay Öksüz 68/129
+EMO Bilimsel Dergi 2024 Cilt:14 Sayı: 2 4, pp. 2075–2092, 2021, doi:
+https://doi.org/10.1002/ima.22569. 16] A. A. Borkowski, M. M. Bui, L. B. Thomas,
+C. P. Wilson, L. A. DeLand, and S. M. Mastorides, “Lung and Colon Cancer
+Histopathological Image Dataset (LC25000),” pp. 1–2, 2019. 17] J. M. JR
+Goldblum, LW Lamps, Rosai and Ackerman’s Surgical Pathology. 2017. 18] C.
+Ieracitano, N. Mammone, A. Bramanti, A. Hussain, and F. C. Morabito, “A
+Convolutional Neural Network approach for classification of dementia stages
+based on 2D-spectral representation of EEG recordings,” Neurocomputing, vol.
+323, pp. 96–107, 2019, doi: 10.1016/j.neucom.2018.09.071. 19] S. Han, H. Mao,
+and W. J. Dally, “Deep compression: Compressing deep neural networks with
+pruning, trained quantization and Huffman coding,” 4th Int. Conf. Learn.
+Represent. ICLR 2016 - Conf. Track Proc., pp. 1–14, 2016. 20] M. Tan and Q. V.
+Le, “EfficientNet: Rethinking model scaling for convolutional neural networks,”
+36th Int. Conf. Mach. Learn. ICML 2019, vol. 2019-June, pp. 10691–10700, 2019.
+21] A. Vaswani, N. Shazeer, and N. Parmar, “Attention is All You Need,” in 31st
+Conference on Neural Information Processing Systems [22] A. Dosovitskiy, L.
+Beyer, A. Kolesnikov, and D. Weissenborn, “An Image is Worth 16x16 Words:
+Transformers for Image Recognition at Scale,” in ICLR 2021, 2021. [23] B. H. M.
+van der Velden, H. J. Kuijf, K. G. A. Gilhuijs, and M. A Viergever, “Explainable
+artificial intelligence (XAI) in deep learning-based medical image analysis,”
+Medical Image Analysis vol. 79. Elsevier B.V., Jul. 01, 2022. doi
+10.1016/j.media.2022.102470. [24] M. T. Ribeiro, S. Singh, and C. Guestrin,
+“‘Why Should I Trust You? Explaining the Predictions of Any Classifier,”
+NAACL-HLT 2016 2016 Conf. North Am. Chapter Assoc. Comput. Linguist. Hum. Lang
+Technol. Proc. Demonstr. Sess., pp. 97–101, 2016, do 10.18653/v1/n16-3020. [25]
+G. Marques, D. Agarwal, and I. de la Torre Díez, “Automate medical diagnosis of
+COVID-19 through EfficientNet convolutiona neural network,” Appl. Soft Comput.,
+vol. 96, p. 106691, 2020, doi https://doi.org/10.1016/j.asoc.2020.106691.
+
+69/129 Delal Şeker, Diyarbakır Rekabet Kurumu Anadolu Lisesi’ nden me­ zun
+olduktan sonra (2011) lisans (2012-2016) ve yüksek lisans (20182020) eğitimini
+Dicle Üniversitesi Elektrik Elektronik Mühendisliği Bölümü’ nde tamamladı. 2021
+yılından beri doktora eğitimi aynı bö­ lümde devam etmektedir. TÜBİTAK 1001
+Projesi kapsamında ‘Kan­ titatif Sentetik Prostat Manyetik Rezonans
+Görüntülemede Makina Öğrenmesi ile Prostat Kanserinin Değerlendirilmesi’
+başlıklı projesin­ de doktora bursiyeri olarak araştırmalarını sürdürmektedir.
+Mustafa Said Kartal, 1998 yılında Afyonkarahisar’da doğdu. İlköğ­ retim ve
+ortaöğretim eğitimini Afyonkarahisar’da tamamladı. 2018 yılında Sivas Cumhuriyet
+Üniversitesi Tıp Fakültesi’ne başladı. 2021 yılında hastane yazılımları üreten
+bir şirkette Veri Bilimci olarak ça­ lışmaya başladı. Nisan 2023’ten beri tıp
+eğitimine devam ederken Hevi AI’da Makine Öğrenimi Mühendisi olarak görev
+yapmaktadır. Özgeçmişler Abdulnasır Yıldız, Lisans Eğitimini 9 Eylül
+Üniversitesi Elektrik Elekt­ ronik Mühendisliği Bölümünde tamamladıktan sonra
+(1997) yüksek lisans (2002) ve doktorasını (2011) Fırat Üniversitesinde
+bitirmiştir. Şu anda Dicle Üniversitesi Elektrik Elektronik Mühendisliği
+Bölümünde Doçent olarak görev yapmaktadır. Ana araştırma ilgi alanları işaret
+işleme ve örüntü sınıflandırmadır. İlkay Öksüz, İstanbul Alman Lisesinden mezun
+olduktan sonra lisans eğitimini İstanbul Teknik Üniversitesi Elektrik Elektronik
+Mühendisliği Bölümü’nde tamamlamıştır. Daha önce, King’s College London Biyo­
+medikal Mühendisliği Bölümü’nde araştırma görevlisi olarak çalış­ mıştır.
+Doktora eğitimini, IMT İleri Araştırmalar Okulu’nda Bilgisayar, Karar ve Sistem
+Bilimleri alanında tamamlamıştır. Ana araştırma ilgi alanları görüntü
+segmentasyonu, görüntü kaydırma ve makine öğ­ renimidir. Şu anda İstanbul Teknik
+Üniversitesi Bilgisayar Mühendis­ liği bölümünde Doçent olarak görev
+yapmaktadır.

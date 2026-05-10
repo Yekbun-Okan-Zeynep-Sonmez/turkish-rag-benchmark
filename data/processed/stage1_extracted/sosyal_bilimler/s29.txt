@@ -1,0 +1,1491 @@
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1111
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+ 
+Yard. Doç. Dr. Ferah ONAT*, Öğr. Gör. Dr. Özlem AŞMAN ALİKILIÇ** 
+ 
+ 
+ ÖZ ET 
+ 
+Reklam ve halkla ilişkiler uygulamalarında kullanılan kitle iletişim araçlarının boyutları 
+gün geçtikçe büyümektedir. Bu çalışmada Web. 2.0 ortamının en önemli bileşenlerinden biri olan 
+online sosyal ağlar, reklam ve halkla ilişkiler mecrası olarak değerlendirilmiştir. Hızla değişen 
+enformasyon teknolojileri, geleneksel iletişim mecralarını değiştirmekle kalmamış, mesajın 
+içeriğini ve mesajı gönderenle mesajın alıcılarının bulunduğu iletişim ortamlarını da 
+değiştirmiştir. Makalede sosyal ağlar öncelikle yeni bir iletişim mecrası olarak değerlendirilmiş, 
+pazarlama iletişimi açısından incelenmiş, sosyal ağ siteleri örneklendirilmiş, sınıflandırılmış, ve 
+pazarlama iletişimi karmasının en önemli iki bileşeni olan reklam ve halkla ilişkiler uygulamaları 
+açısından değerlendirilmiş; reklam ve halkla ilişkiler uygulamaları açısından avantaj ve 
+dezavantajları belirlenmiş, nasıl kullanılabileceği bir örnek olayla desteklenerek aktarılmıştır. 
+ 
+Anahtar Kelimeler: Sosyal ağlar, Sosyal ağ siteleri, Halkla İlişkiler, Reklamcılık,Web 2.0 
+ 
+ABSTRACT 
+ 
+The dimensions of the mass communication tools vary during advertising and public 
+relations practices. In this proceeding, online social networks that is one of the most important 
+component of Web 2.0 has been reviewed in the perspective of advertising   and   public  relations  
+media.  Rapid  innovations  in  information technologies has shifted not only the conventional 
+media, but also the context and as well as the communication environment where sender and 
+                                                          
+* Yaşar Üniversitesi Meslek Yüksekokulu DYO Kampüsü Sanayi Cad. No:37 Bornova / İZMİR 
+ferah.onat@yasar.edu.tr 
+** Yaşar Üniversitesi Meslek Yüksekokulu DYO Kampüsü Sanayi Cad. No:37 Bornova / İZMİR 
+ozlem.alikilic@yasar.edu.tr 
+ 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1112
+receiver has been placed. Proceeding also serves as a guidline of how an online social network 
+sites could be reviewed as a mass communication tool. Social network sites have been assessed as 
+public relations and advertising tools which are important part of integrated marketing 
+communication activities by giving eligible online examples. Also both applications and, 
+advantages-disadvantages of social network sites for the advertising and public relations practices 
+were determined. 
+ 
+Keywords: Social networks, Social network sites, Public Relations, Advertising, Web 2.0 
+ 
+GİRİŞ 
+ 
+İletişim sektöründe çalışan profesyoneller için, teknolojik gelişmeler aracılığıyla ortaya 
+çıkan yeni mecraların iletişim çözümleri (araçları) olarak kullanılması, kısa süre içinde 
+gerçekleşmemiştir. 1990’lı yılların sonlarında internetin dünya kültürüne tanıştırılması, internetin 
+bir pazarlama iletişimi aracı olarak kullanılabileceğine dair bir fikir vermekten ve yeni bilgilere 
+ulaşmak ve haberleşmeyi sağlamaktan öteye geçmemiştir. Bunun nedenlerinden biri büyük 
+olasılıkla firmaların ilk başlarda internette neler yapabileceklerinin pek farkında olmamalarıdır. 
+(Holtz, 2002:19-20). Bu süreç içinde firmalar geleneksel kitle iletişim araçlarını kullanmaya 
+devam etmişlerdir. Gerçekte her yeni teknolojik yenilik tüketiciyle tanıştırıldığında benzer bir 
+adaptasyon süreciyle karşılaşmıştır (Holtz, 2002: 20). Örneğin televizyon, radyodan sonra 
+tüketiciyle tanıştığında belli bir süre içeriğinin genişlemesi farklı televizyon gösterileri ve 
+programların oluşturulup tüketiciye sunulması süreci işlemiş ve bu süreç belirli bir olgunluğa 
+kavuştuğunda, mecra olarak radyonun yerine kullanılmaya başlanmıştır. 
+ 
+Teknolojinin toplumsal kültürle birleşmesinden sonra televizyonun yeni farkedilen 
+faydalarından pazarlama iletişimi karması içinde reklam ve halkla ilişkiler kullanılmaya 
+başlanmıştır. Bilgisayar ve internet de aynı süreçten geçmiştir. 
+ 
+İnternet teknolojisinin 1993 yılının sonlarına doğru iş ortamlarıyla ve dolayısıyla toplumla 
+tanışması, bilgisayarı internetin kullanılması için gerekli bir araç haline getirmiş ve toplum için 
+vazgeçilmez bir bilgi ve veri havuzu haline gelmesiyle önemi daha iyi artmıştır (Holtz; 2002: 21). 
+Bilgisayar ve mobil iletişim teknolojilerinin bütünleşmesiyle internet aracılığıyla erişim için 
+mekan sınırı ortadan kalkmıştır. Artık hangi araçla iletişim kuracağız sorusu yerine nasıl bir 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1113
+içerikle iletişim kuracağız sorusu ortaya çıkmıştır. 
+ 
+Joshua Meyrowitz (1994), araç (medium) teorisini içeriğin (content) de ötesinde, kitle 
+iletişim araçlarının teknolojik etkileri üzerine değerlendirmiştir. Araç teorisiyle ilgilenenler, kitle 
+iletişim araçlarını mesajları göndermeye yarayan bir kanal olmalarının çok daha ötesinde bir 
+anlamı olduğuna değinmektedirler (Croteau ve Hoynes, 2003: 307). Günümüzde iletişim 
+teknolojilerinin toplum yaşamına getirdiği köklü değişim olgusunu McLuhan’ın çeşitli 
+eserlerindeki ifadelerine değinerek açıklamakta yarar vardır. Temelde kitle iletişim araçları 
+yoluyla iletilen içeriğin temel mantığında (“Araç mesajdır – Medium is the Message” diyen 
+McLuhan’ın da söylediği gibi (McLuhan, 1964: 32)) aracın (medium) doğasında olan özellikler 
+sebebiyle, aracın sosyal etki yaratabilmek için en önemli anahtardır (Croteau ve Hoynes, 2003: 
+307). Bu perspektiften bakıldığında, kitle iletişim araçları teknolojileri, sosyal etki yaratmada 
+oldukça etkilidir. Sosyal etkiler; tüketicilerin kendi kültürel ve sosyal çevrelerini yaratmada ve 
+tüketicilerin organize olmalarında yatmaktadır. McLuhan’a göre her yeni medya sosyal anlamda 
+kişilere bir takım değerler katarak onu geliştirir ve yeni kültürel değerlere adapte olmasına ve bu 
+yeni değerlere göre kişiyi şekillendirmesine olanak sağlar (McLuhan, 1964: 32). 
+ 
+McLuhan’ın yeni kitle iletişim araçlarının oluşmasıyla, toplumun sosyal çevrelerinde 
+oluşan değişikliklerin ve tüketicilerin bu yeni değişikliğe kolaylıkla adapte olduğuna dair tasviri, 
+Web.2.0’ın geçmişinin on yıl kadar az olmasına rağmen, toplumlar tarafından ne kadar kolay, 
+zahmetsiz ve kısa sürede adapte oldukları gerçeğiyle uyuşmaktadır. Sosyal ağlar ve dolayısıyla 
+diğer Web.2.0 platformları, toplum tarafından kısa süre içinde kabul görmüş ve mesaj 
+içeriklerinin hazırlanmasından, kodlanmasına, aracın seçiminden, tüketici tarafından kodun 
+çözülmesine kadar tüm iletişim sürecinde aracın şekillenmesine yardımcı olmuştur. Artık firmalar 
+iletişim ve pazarlama amaçlı mesajlarını yeni kitle iletişim araçlarıyla bütünleştirip göndermekte, 
+geri bildirim de bir başka içerik oluşumuyla yine aynı kanallar yoluyla hedef kitleye 
+ulaştırmaktadır. McLuhan’ın söyleminin bu noktadan sonra günümüzdeki bir farklılık 
+göstermekte ve bir saptamasınin da çeliştiği söylenebilir: McLuhan aynı eserinde her yeni medya 
+teknolojisinin, sosyal yaşamı yeniden şekillendirdiğini ancak bunu yaparken de medyanın 
+toplumun sosyal hayatı kısalttığına değinmektedir (Croteau ve Hoynes, 2003: 307). Sosyal 
+ağların, yeni kişilerle tanışması, yeni dostluklar kurması için ortam yaratması gibi avantajları, bu 
+noktada yeni bir kitle iletişim aracı olmasından dolayı sosyal ağları farklı bir boyuta taşımaktadır. 
+Online sosyal ağların sosyal hayatı küçülttüğünden ziyade, etkileşim ve paylaşımı artırdığı için 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1114
+kişileri daha sosyal bir canlıya dönüştürdüğü söylenebilir. 
+ 
+McLuhan, Gutenberg Galaksisi adlı eserinde (McLuhan, 1962) farklı bir noktaya 
+odaklanmış ve toplum kültürlerinin yaşadıkları döneme dair varolan önemli buluşlardan 
+etkilenerek, bu teknolojik gelişmelerin ışığında toplumsal yapının, pazarlama faaliyetlerinin, 
+yaşam koşullarının yeniden şekillendirdiğinden bahsetmiştir. Matbaanın buluşuyla, toplumların 
+“sözel”den “yazar” toplumlara dönüştüğünü ve insan duyularının da bu noktada değişime 
+uğradığını (işitme duyusunun yerini görme duyusunun alması gibi) ifade eden McLuhan, 
+dolayısıyla kitle iletişim araçlardaki değişimin sadece kültürleri değil, insanların da büyük ölçüde 
+algılamasını ve dolayısıyla davranışlarını geliştirip değiştirdiğine değinmiştir. Bir başka 
+çalışmasında McLuhan (1964), yazılı medyadan elektronik medyaya dönüşümüne de değinmiştir. 
+Elektronik medyanın toplumla buluşması toplumların tüm duyu organlarını bir arada 
+kullanmalarına olanak tanımıştır. McLuhan’ın bir başka önemli saptaması olan “Global Köy” 
+kavramı da elektronik medyanın ileriki yıllarda toplumları getireceği boyuttur (Croteau ve 
+Hoynes, 2003: 308). Global Köy’de McLuhan’a göre, elektronik medyanın gelecekte ileri 
+teknolojiye geçmesiyle ve toplumlar arasında sınırların kalkmasıyla, dünyanın her köşesinde 
+teknolojiyi kullanan herkes, coğrafi sınırlar ve sınırlamalar olmaksızın diledikleri kişiyle iletişim 
+kurabilecek, haberleşebilecek ve paylaşımda bulunabilecektir. 
+ 
+1990’ların sonunda, yeni teknolojik gelişmeler ve internetin bulunuşu ve internete bağlı 
+yeni online teknolojilerin ve dolayısıyla da yeni dijital platformların oluşması; yeni kitle iletişim 
+tekniklerinin oluşmasına neden olmuştur. Aynı McLuhan’ın belirttiği gibi her yeni önemli buluş; 
+toplumsal yapıyı değiştirmenin de ötesinde, toplumu şekillendirir, kullandıkları araçları 
+şekillendirir, dili geliştirir, davranışları ve değerleri yeniden yapılandırır. McLuhan’ın yıllar once 
+belirlemiş olduğu toplumu değiştiren önemli buluşlara dair yaşam evreleri (çağları); 
+• 
+İnsanların konuşmayı öğrendiği – yazının bulunmasına kadar geçen oral çağ 
+• 
+Matbaanın bulunmasıyla – görsel çağ 
+• 
+Elektronik basının icadıyla – hem oral – hem işitsel – hem görsel çağdır. 
+ 
+ 
+Mc Luhan akımına en yakın isimlerden biri olan Birkerts (The Guttenberg Elegies, 1994); 
+yaşanan tüm çağların en baskın olan yazılı basın kültürünün artık sonuna gelindiğini belirtmiş 
+ancak bunun ötesinde, eski çağın yerine dijital çağın geçeceğine değinmiştir. 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1115
+ 
+Bugüne gelindiğinde, McLuhan’ın evrelerine bir ilave daha yaparak, dijital evreden 
+(çağdan) bahsetmek mümkündür. Dijital ortamıyla internet ve Web.2.0 iletişimcilerin karşısına 
+çıkmaktadır. Dijital evre ve sanal ortam, coğrafi sınırları kaldırmanın da ötesinde, işitsel, görsel 
+ve oral tüm evreleri bünyesinde barındararak toplumların birbirleriyle eş zamanlı iletişim 
+kurmalarını sağlamaktadır. Bu durum firmalar için de çok önemli faydalar sağlamıştır. Dijital 
+ortamları kendileri için bir fırsat gören firmalar; önce elektronik postalar, intranetler ve 
+ekstranetler yoluyla eş zamanlı olarak personeliyle, aracı kuruluşlarıyla, tedarikçileriyle, 
+müşterileriyle ve sosyal paydaşlarıyla iletişim kurup etkileşimde bulunurlar, reklam ve halkla 
+ilişkiler uygulamalarını bu ortamlarda hayata geçirirken, daha sonra web sitesi kurarak 
+tanıtımlarını yapmaya başlamışlardır. Web sitesi üzerinden kendilerini ve ürün / hizmetlerinin 
+tanıtımlarını yaparlarken, teknolojinin gelişmesiyle, farklı yazılımlar yükleyerek, interaktif 
+uygulamalarla, online alışveriş, web sayfası üzerinden online haberleşmeye başlamışlardır. 
+İnternetin kullanıcı içerikli bir boyuta transferiyle ortaya çıkan Web 2.0 dönüşümüyle internet 
+ortamı, hem kullanıcı sayısını artırmış hem de kullanıcıların içerikleri yani mesajları oluşturduğu 
+ve paylaştığı büyük bir güce dönüşmüştür. Bunun önemini çabuk kavrayan firmalar önce arama 
+motorlarını; Google’ı, Yahoo’yu daha sonra MSN’yi, Hotmail’i, blogları (Myspace, 
+Blogger.com, Blogcu.com gibi), Youtube’u ve son olarak Online sosyal ağ sitelerini (Facebook 
+gibi) keşfetmişlerdir. McLuhan’ın Global Köy’ünün 21. Yüzyılda tam olarak gerçekleştiği 
+söylenebilir. Aynı anda milyarlarca kişinin ırk, din, dil, hayat tarzı, eğitim, yaş, cinsiyet, statü 
+gözetmeksizin eş zamanlı paylaşımda bulunup kendi çevreleri ve başka çevrelerle ağ 
+kurabildikleri bu siteler, özellikle pazarlama iletişimi, halkla ilişkiler ve reklam perspektifinden 
+bakıldığında, önemli bir kitle iletişim aracı alternatifi olarak görülebilir. 
+ 
+1. SOSYAL AĞLAR 
+ 
+Sosyal ağların önemine, sosyoloji bilimiyle uğraşan birçok bilimadamı ve yazar 
+tarafından birçok eserde değinilmiştir. 1964 yılında George Simmel, The Web of Group 
+Affilations (Simmel, 1964:140) isimli eserinde “Grup (ağ) içinde yakınlaşan bireyler düzgün 
+ilişkiler üzerine oturan bir sistem oluştururlar, buna göre yeni grupta birey kendisini daha açık 
+olarak anlatabilir”. Simmel, davranış değişikliklerini anlamak için “Birey iletişim ağlarıyla 
+kimlere bağlanmıştır?” sorusunu sormaktadır (Simmel, 1964). Simmel dışında, Alexander (1964), 
+Fischer (1977) ve daha birçok yazar toplumsal ağların bireylerin yaşamındaki önemine 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1116
+değinmişlerdir. 
+ 
+Sosyal ağ, bireyler arasındaki kişisel veya profesyonel ilişkilerin oluşturduğu ağdır. 
+Sosyal 
+ağlar 
+insanlar 
+arasındaki 
+bağlantıları 
+ve 
+bu 
+bağlantıların 
+gücünü 
+temsil 
+etmektedir(www.parliament.vic.gov.au/SARC/E-democracy/Final_Report/Glossary.htm). Sosyal 
+ağlar, birbiriyle doğrudan veya dolaylı olarak etkileşim halinde olan kişilerin oluşturduğu ağdır. 
+Ağ, sadece aile ve arkadaşlardan değil öğretmenler, okul çalışanları, komşular, toplum içindeki 
+bağlantılardan oluşmaktadır. (http://rrtcpbs.fmhi.usf.edu/rrtcpbsweb/glossary.htm#S) 
+ 
+İletişim modelleri açısından da bakıldığında, 1970’li yıllara kadar geliştirilen iletişim 
+modellerinin birçoğunun doğrusal (linear) olduğu ve çoğunda ağlardaki bireyler arasındaki 
+ilişkileri göz ardı edildiği görülmektedir (Kincaid, 1979). Iletişim sadece doğrusal olan ve kaynak 
+ile alıcı arasında geçen bir süreçten çok kaynak ile alıcının farklı kaynaklardan etkilendiği 
+karmaşık bir süreçtir. Sosyal ağların incelenmesi mesajların geldiği kaynakların belirlenmesi, 
+hedef alınacak kişilerin gruplandırılması ve ona göre mesaj gönderilmesi yönünden halkla 
+ilişkiler ve kurumsal iletişimciler tarafından önemle değerlendirilmelidir. Günümüzde iletişim 
+teknolojilerinin yaşamın içine daha çok girmesiyle sosyal ağlar ayrı bir önem kazanmıştır. 
+ 
+Strategy Business Dergisinde yayınlanan “Network Theory’s New Math” isimli makalede 
+sosyal ağların yaşamdaki önemi şöyle ifade edilmiştir: “Bazıları bağlantılı doğar, bazıları 
+bağlantılar kurmayı başarır, diğerlerinin ise hala bağlanmış olmadıkları için kendilerine güveni 
+yoktur. Herkes sosyal ağlarla birbirine bağlanmıştır. Her bir birey başka bir kişinin sosyal ağında 
+bir düğüm ya da merkez olarak bulunmaktadır. Yaşantımızın kalitesinin büyük bir kısmı sosyal 
+ağlarımızın kalitesinden etkilenmektedir. Yaşam standardımız, sosyal ağlarımızın standartlarına 
+bağlıdır. Marshall Mc Luhan’ın Küresel Köy isimli kitabındaki dediklerini uyarlarsak “Bizler 
+sosyal ağlarımızı oluşturuyoruz ve sonra sosyal ağlarımız bizi şekillendiriyor” (Hamilton, 2003: 
+www.strategy-business.com).” 
+ 
+ 
+İnternet ortamında bağlantılarıyla iletişime geçen insanlar kendilerine ait küçük bir dünya 
+yaratmaktadırlar. Küçük – dünya (small – world) fenomeni ilk olarak sosyolog Stanley Milgram 
+tarafından 1967’de bir posta deneyiyle keşfedilmiştir. Deneyde ortaya çıkan altı dereceli 
+sınıflandırmada, bir kişi tanımadığı birisine ulaşmak için en fazla 5 kişiyi kullanarak 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1117
+ulaşabilmektedir (Patch, 2004: 4). (İnternetteki ilk sosyal ağ sitesinin adı da SixDegrees’dir). 
+Milgram’ın sözünü ettiği “altı kişi” halkla ilişkiler açısından altı ayrı düzeyde değerlendirilebilir. 
+Bunlar kişisel ağ, profesyonel alan, iç çevre, dış çevre ve üyelik bağlantılar olarak 
+yorumlanabilmektedir (Green, Andy, 2006:134). 
+ 
+Bilgi teknolojileri, sosyal ağların gerçek yaşamdakinden daha farklı bir şekilde yeniden 
+kurulmasını sağlamıştır. Bir kuruluş içerisinde kurulan yerel ağ içinde mesajlaşan çalışanlar, e-
+posta listesindeki kişiler ve e-posta grupları ilk online sosyal ağ örnekleridir. Daha sonra internet 
+üzerindeki bloglar, wikiler ve sosyal ağ siteleri gibi sosyal işbirliğini sağlayan teknolojilerin 
+gelişmesi insanların iletişim kurdukları, bilgileri paylaştıkları ve birbirleriyle sürekli 
+haberleştikleri online sanal toplulukların inanılmaz bir düzeyde artmasına neden olmuştur. Bugün 
+www denen kavram Web 2.0 ortamlarına kayarak sosyalleşmiş web kavramı haline dönüşmüştür 
+(Fu, Liu, Wang, 2007: 675). Web, 1990’lı yıllardaki haliyle karşılaştırıldığında bugünkü Web 2.0 
+evrimini yakalamasının bireysel performanslara dayandığı söylenebilir. Bireylerin aktif 
+performansları nedeniyle artan hareketlilik ve etkileşimler, bilgi, haber, olay, fikir, tavsiye, resim, 
+söz paylaşımını da beraberinde getirmiş ve oluşan online dünya içine girerek daha çok renkleri, 
+inanışları ve ülkeleri katmıştır. Web 2.0 platformu özgür düşünceler ve fikirler için ilham kaynağı 
+oluşturan bir cennettir (Fu ve diğerleri: 675). WWW’den Web 2.0’a bu kadar kısa sürede, aynı 
+anda geçen dünya daha da kısa süre içinde hiç zorluk çekmeden sosyal ağlar içinde yerini 
+almıştır. Örneğin başlangıçta Amerika Birleşik Devletleri’ndeki üniversite gençlerinin üye 
+olduğu Facebook, milyonları aşkın aktif üyesine hitap eden ve günde ortalama 150 bin aktif 
+kullanıcıyla 
+sanal 
+dünyanın 
+en 
+popular 
+sitesi 
+olmuştur 
+(www.ensonhaber.com/teknoloji/85988/Facebook-nedir-ne-degildir.html). Bu baş döndürücü 
+hızla yayılan Web2.0 çağındaki sosyal ağlar, trendlerin, fikirlerin, enformasyonun sosyal 
+topluluklar aracılığıyla ne şekilde yayıldığına dair analiz edildiğinde, firmaların pazarlama 
+iletişimi amaçlarına büyük ölçüde katkı sağlayabildikleri anlaşılmıştır. 
+ 
+Bu makalede mercek altına alınan online sosyal ağ platformları McLuhan’ın Global Köy 
+varsayımına da önemli bir destek sağlamaktadır (McLuhan, Povers, 2001: 192-314-315). 
+McLuhan’a göre, merkezler her yerdedirler, ulusal sınırlar yoktur, süper uydu çağında çok sayıda 
+insan bölgesel enformasyon tekelini düşünemez hale gelecektir. Uydular aracılığıyla insanlar 
+birbirleriyle “konuşmayı”, iletişim kurmayı başaracaklar ve toplam izleme ile toplamda düşük 
+maliyetli iletişime yol açacaktır (McLuhan, Povers, 2001: 192). Enformasyon çağında toplumun 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1118
+giderek daha çok sayıda interaktif olacağına değinen McLuhan ‘a göre bu süreç içerisinde yer 
+kürenin yüzeyinde herhangi bir insanla etkileşime girmek kolay olacak ve yine onun varsayımına 
+göre kitlesel elektronik referandumlar kıtalar arasında serbestçe dolaşacaktır (McLuhan, Povers, 
+2001:193). McLuhan’ın bu varsayımları Web 2.0 tanımı ve sosyal ağların özellikleriyle 
+örtüşmektedir. Sosyal ağların bireylere sağlamış olduğu özgürlük, özerklik içeriğini kendisini 
+yaratabilme serbestisi, McLuhan’ın geleceğe dair öngörülerinin bir resmidir. 
+ 
+İnternetteki sosyal ağların yaşamdaki sosyal ağlardan bazı farklılıkları bulunmaktadır.  
+Öncelikle  internetteki  sosyal  ağlar  gerçek  yaşamdakilerden  daha geçirgendir. Gerçek 
+yaşamda grupların içine girmek ve etkili olmak zor olurken internet ortamında kişilerin sosyal 
+ağlarına girmek daha kolay olmaktadır. Gerçek yaşamdaki sosyal ağlar sürekli görüşülen 
+kişilerden ve daha güçlü bağlantılardan oluşurken internetteki sosyal ağ sitelerinde nadir 
+görüşülen kişileri ağa kabul etmek daha kolay olmaktadır. İnternet ve web biyolojik ağlardaki 
+gibi sınıflandırılmamıştır bunun anlamı, çok sayıda kişinin bulunduğu ağların düşük bağlantılı 
+ağlarla bağlanması söz konusu olmasıdır. Sosyal ağlarda hastalıklar kolayca yayılır fakat hastalık 
+ancak ulaşabildiği kişilere kadar gider ve hastalığının aşısının da yayılması yani tedavi edilmesi 
+daha kolay olmaktadır. (Kimberly, 2004:7) 
+ 
+1.1. Online Sosyal Ağ Ortamları 
+ 
+Bilgisayar ve mobil iletişim araçlarıyla erişilen internet üzerindeki sosyal ağları birkaç 
+grupta toplamak mümkündür: 
+1. E-posta grupları (yahoogroups.com) 
+2. Bloglar (bloglara konan linkler ve blogcuların birbiriyle haberleşmesi) 
+3. Forumlar (çeşitli uzmanlık alanlarıyla ilgili forumlar) 
+4. Kurumsal intranet (kurum içi ağ) 
+5. Extranet (tedarikçi ve kurumsal müşterilerle oluşturulan ağ) 
+6. Hızlı mesaj servisleri (msn, icq) 
+7. Sosyal ağ siteleri (facebook, yonja.net gibi) 
+ 
+Sosyal ağ siteleri bireylerin halka açık ya da yarı halka açık olarak profillerini kayıtlı bir 
+sistemde oluşturmalarını, bir bağlantıyı paylaştıkları diğer kullanıcıların listesini göstermesini ve 
+sistem içerisinde bulunan kişilerin ilişki listelerini de görmeyi sağlamaktadır (Kimberly, 2004:7). 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1119
+ 
+Sosyal ağ sitelerini özgün yapan bireylere yabancılarla tanışma olanağı sunması değil, 
+kullanıcıların kendi sosyal ağlarını göstermeleridir. Sosyal ağ sitelerinde kullanıcıların amacı 
+yüzyüze olarak seyrek görüştükleri ya da uzun zamandır görüşmedikleri kişileri sosyal ağlarına 
+katmaktır (Boyd, Ellison, 2007). 
+ 
+İlk sosyal ağ sitesi 1997 yılında, SixDegrees.com adıyla kurulmuştur. Bu site, 
+kullanıcıların profil yaratma ve arkadaşlarını listeleme olanağı sunmuştur. 1998 yılında arkadaş 
+listelerinde sörf yapmaya izin vermiştir. 1997-2001 yılları arasında çeşitli etnik grupların kişisel, 
+profesyonel ve flört profillerini paylaştıkları siteler ortaya çıkmıştır. 1999 yılında Live Journal, 
+AsianAvenue, Black Planet, LunarStorm; 2000 yılında MiGente; 2001 yılnda Cyworld ve Ryze; 
+2002 yılında Fotolog ve Friendster, Skyblog; 2003 yılında Couchsurfing, LinkedIn, Tribe.net, 
+Open BC/Xing, MySpace, Last.FM, Hi5, Orkut, Dogster; 2004 yılında Flickr, Piczo, Mixi, 
+Facebook (sadece Harvard Üniversitesi’nde), Multiply, aSmallWorld, Dodgeball, Care2 (sosyal 
+ağ sitesi eklendi), Catster, Hyves; 2005 yılında Yahoo!360, Youtube, Xanga, Cyworld, Bebo, 
+Facebook (lise networkleri), AsianAvenue, BlackPlanet (yeniden sürüm), 2006 yılında QQ, 
+Facebook (kurumsal ağlara açık), Windows Live Spaces, Cyworld, Twitter, MyChurch, 
+Facebook (herkese açık) (Boyd, Ellison, 2007). Görüldüğü üzere dünyada kullanıcısı yoğun olan 
+sitelerin daha çok 2003-2006 yıllarında ortaya çıktıkları gözlenmektedir. 
+ 
+Bugün ağ sitelerine bakıldığında coğrafi dağılımının şöyle olduğu görülmektedir: Bebo; 
+İrlanda, Yeni Zellanda, Blogger; İran, İspanya, Cyworld; Güney Kore ve Çin, Facebook; 
+Kanada, Mısır, Ürdün, Lübnan, Norveç, Panama, Güney Afrika , Birleşik Arap Emirlikleri, 
+İngiltere, Fotolog; Arjantin, Şili, Uruguay, Friendster; Brunei, Endenozya, Malezya, Filipinler, 
+Singapur, hi5; Peru, Kolombiya, Kostarika, Dominik, Ekvador, El Salvador, Guetemala, 
+Honduras, Kuveyt, Morityus, Moğolistan, Nikaragua, Portekiz, Romanya, Tayland, Tunus, 
+LiveJournal; Belarus, Rusya, MySpace; Avustralya, Hırvatistan, Yunanistan, İtalya, Meksika, 
+Potoriko, ABD, Venezuela, Orkut; Brezilya, Hindistan, Pakistan, Paraguay, Skyblog; Belçika, 
+Fransa, Fransız Polinezyası, Martinik, Yeni Kaledonya, Senegal, Studiverzei Chnis; Avustrya, 
+Almanya (http://valleywag.com/tech/data-junkie/the-world-map-of-social-networks-273201.php. 
+Sosyal ağ siteleri incelendiğinde aşağıdaki gibi sınıflandırmak mümkündür: 
+1. Genel kullanıma açık, daha çok gençlerin kullandığı siteler; Facebook, Orkut, Yonja, 
+MySpaces, OpenSocial. 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1120
+2. İş ağları (business networks); LinkedIn, BNI, GBN, Cember.net, Xing.com, Ryze 
+3. Uzmanların ve ilgi alanlarının sosyal ağları; Mediapost.com, Marketing 
+Professionals network (mpn.boston.org), pazarlama amaçlı Arkamarka.com 
+4. Etnik ağlar; Cyworld (Güney Kore), AsianAvenue (Asya), BlackPlanet (siyahlar), 
+Corazons.com (İspanyol asıllılar) 
+5. Flört 
+ağları; 
+Siberalem.com, 
+Yonja.com, 
+İslami 
+evlilik 
+ve 
+flört 
+ağları; 
+islamievlilik.com, habibimol.com gibi 
+6. Etnik flört ağları; ethnicdatingnetwork.com 
+7. Kadın çalışanların ağları; wibn.co.uk, woman owned, cdbizwomen.com, viwbn.org 
+ 
+8. Belirli yaş gruplarına hitap eden ağlar; SagaZone (50’lilerin üsündekiler için Saga tatil 
+ve sigorta şirketinin kurduğu ağ) 
+9. Yerel topluluklar oluşturmak için kurulan ağlar; ResidentsHQ (İngiltere’de kurulan 
+ağın amacı büyük binalarda yaşayan insanların online iletişim ortamlarını kurmalarını 
+amaçlar) 
+10.Diğer ağlar 
+ 
+Sosyal ağ sitelerinin çeşitli uygulamalarına bakıldığında Facebook, MySpace gibi sitelerin 
+ön plana çıktığı gözlenmektedir. 
+ 
+Facebook.com: Adonomics tarafından yayınlanan Facebook değerlendirme raporuna göre, 
+Facebook’un en son tek tek kayıtlı üye kullanıcıları baz alınarak elde edilen bilgilere göre, 
+dünyada 60 milyon aktif kullanıcısı bulunmaktadır. Bunun yaklaşık reklam ve değeri de 18 
+milyar dolardır. Bu rakamın aktif kullanıcı başına düşen değeri yaklaşık olarak 300 dolar olduğu 
+tahmin edilmektedir (http://adonomics.com/ 16.01.2008). Pek çok firma için önemli bir kazanç 
+kapısı haline gelebilecek olan Facebook, sosyal ağlar arasında kısa bir süre içinde çok önemli bir 
+konuma ulaşmıştır. Facebook’u diğerlerinden ayıran ve 2006 – 2007 yılında bu kadar ilgi 
+toplamasına neden olmasını insanların yeni insanlarla tanışmak istemesi yerine offline ortamlarda 
+tanıştıkları insanları bir arada görme istekleridir (Lampe, Ellison, Steinfield, 2006). Üyesi çok 
+olan sosya ağ sitelerine çeşitli açılardan aşağıdaki gibi tanıtmak mümkündür. 
+ 
+Webkinz.com, çocukları erken yaşta sosyal ağlarla tanıştıran bir sanal ortamdır. Sanal 
+oyuncak satın alan çocuklar, oyuncak hayvanın üzerindeki etiketin içinden çıkan özel giriş 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1121
+koduyla siteye giriş yapıp kaydolmaktadır. Sosyal ağ sitesi olan “Webkinz”de çocuklar, oyuncak 
+hayvanları için özel oda hazırlayabilir, besleyebilir ve diğer webkinz üyesi arkadaşlarıyla 
+etkileşim kurabilmektedirler (http://news.zdnet.com/2422-13568_22-153961.html). 
+ 
+Famster.com, bir başka sosyal ağ sitesidir. Ailelerin birbiriyle etkileşim kurmasına olanak 
+sağlamak amacıyla kurulmuş olan bu sitede aileler; fotoğraf, video yükleyebilir, beğendikleri 
+kitapları, gittikleri tatil destinasyonlarını tartışabilir, aile ağacı oluşturabilir, yemek tariflerini 
+birbirleriyle paylaşabilir, blog yazabilir ve buna benzer pek çok bilgiyi birbirleriyle 
+paylaşabilmektedirler. “Famster.com”da tüm bunlara ilaveten, aileler, çocuklarının internet 
+güvenliğini sağlayabilmek için gerekli güvenlik donanımlarını da bu sosyal ağ sitesinde bulabilir 
+ve gerekli yüklemeleri de buradan yapabilmektedirler (http://newszdnet.com/2422-13568_22-
+154998.html) 
+ 
+Ecademy.com; iş ve sosyal ağ sitesidir. İş adamları ve iş dünyası için 1998 yılında 
+kurulan bu site, bugün 170.00’i aşan üyesiyle, artarak faaliyetlerine devam etmektedir 
+(http://www.ecademy.com/node.php?id=56532). 
+Ecademy, 
+iş 
+dünyasının 
+üyelerini, 
+online ağlarla bağlayarak birbirleriyle iş amaçlı temasa geçmelerini, diğer üye ağlar ile 
+ortak projelerde çalışmalarını, yeni iş, yeni eleman, yeni tedarikçiler, sponsorlar, yeni iş 
+olanakları bulmalarını sağlayan bir platformdur. İçinde spesifik ağ grupları (ecademy 
+klüpleri), 
+bloglar, 
+gündemde 
+gerçekleştirilecek 
+olan 
+aktiviteleri 
+(kongre, 
+toplantı, 
+seminer, v.s), meslek duyurularını barındıran ecademy, reklamverenler tarafından da 
+tercih 
+edilen 
+bir 
+sosyal 
+mecra 
+haline 
+gelmiştir 
+(http://www.ecademy.com/node.php?id=88946). 
+Başarılı sosyal ağ siteleri örnekleri incelendiğinde, “Linkedin.com”un da önemli 
+bir yeri olduğu görülebilir. “Linkedin.com” profesyonel tanışma platformlarından biridir. 
+Kullanıcıların üye olmak için bir başka site üyesi tarafından davet edilmesinin 
+gerekmediği bu sitede; kişiler eski çalışma arkadaşlarına, eski sınıf arkadaşlarına, mevcut 
+çalışma ortamındaki iş arkadaşlarına ulaşabilir, sitede yayınlanan iş ilanlarına bakarak 
+kendileri 
+için 
+yeni 
+iş 
+fırsatları 
+yaratabilir(http://www.linkedin.com/jobs?displayHome=&trk=whatis_jobs), 
+sosyal 
+ağdaki diğer üyeler arasında bulunan profesyonel yönetici ve iş kolu uzmanlarına mesleki 
+konularda  danışabilir,  tavsiyelerini  alabilir  ve  bilgi  paylaşımı yapabilmektedirler 
+http://ardakutsal.blogspot.com/2006/02/gven-paylam-yaratclk.html). 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1122
+ 
+İş hayatındaki profesyonelleri biraraya getirmek için açılan topluluk sitelerinden biri de, 
+Türkiye’de faaliyet gösteren “Cember.net”dir. İş dünyasına özel bir sosyal ağ olması için 
+amaçlanan bu site, iş dünyasıdaki profesyonelleri bir araya getirmek amacıyla kurulmuştur. Ancak 
+bu site, “Linkedin.com” gibi dileyen herkesin üye olabileceği bir sosyal ağ değildir. Çünkü üye 
+olabilmek için bir üyenin kullanıcıyı davet etmesi gerekmektedir. 
+ 
+Dünyadaki ve Türkiye’deki diğer sosyal ağ sitelerine bakıldığında da serbest üyelik ya da 
+davetiyeli üyelik durumlarıyla karşılaşılmaktadır. Örneğin, “ 80630.com” sosyal ağ sitesi 
+bunlardan biridir. Etiler'in eski posta kodunu site adı olarak seçen sitenin üyeleri arasına 
+katılabilmek 
+için 
+mutlaka 
+mevcut 
+bir 
+üyenin 
+sizi 
+davet 
+etmesi 
+gerekmektedir 
+(http://ardakutsal.blogspot.com/2006/02/gven-paylam-yaratclk.html). Ancak 80630.com sitesi, 
+sitesine giriş yapıldığında, davetiyesi olmayanları bir başka yan siteye yönlendirmektedir 
+(http://www.80630.com/). Yönlendirilen site bir başka sosyal ağ ortamıdır. “Ogzl.net” adındaki bu 
+site; (http://www.ogzl.net/_corp/?do=80630) “Öncelikli olarak 80630'a üye olmak isteyip de 
+davetiye bulmakta güçlük çeken ziyaretçilerimizi düşünerek kurduğumuz bu platforma herkes 
+davetlidir” sözleriyle kendi misyonunu ifade etmektedir. 
+ 
+Türkiye’de yakın zamanda yayına girmiş olan “Webdeki.net” özellikleri ile 
+günümüzün en popüler sosyal ağ uygulaması Facebook ile benzerlikler göstermektedir 
+(http://www.cepteki.net/hizmetler/hizmetGiris.aspx?hiz=webdeki&auth=http%3a%2f%2f 
+www.webdeki.net%2fa%2fauth%3fr%3d1 . Servise kısa bir üyelikten sonra katılımcı 
+arkadaşların davet edebiliyor ya da e-posta, okul, iş, isim-soyad gibi kriterler ile 
+arkadaşlarını bulabilmektedir. Üyelik sonrasında sisteme üye olan kullanıcılar kendi 
+sayfalarını kendilerine göre tasarlayabilmekte, “Webdeki.net”‘in sunduğu uygulamaları 
+profil sayfalarına ekleyerek, resim, video eklemek ve arkadaşları ile mesajlaşabilmek gibi 
+temel 
+sosyal 
+ağ 
+özelliklerini 
+de 
+kullanmaktadırlar 
+(http://ardakutsal.blogspot.com/2006/02/gven-paylam-yaratclk.html). 
+Bunlara 
+ek 
+olarak 
+“Webdeki.net her kullanıcısına kendi blogunu yazma hakkını vermekte ve kullanıcılar dilerlerse 
+“Masa” adı verilen tartışma sayfalarını da açıp, masalarına üyeleri dahil edebilmektedirler 
+(http://www.webdeki.net/a/masalar). Ayrıca her masanın “Ansiklopedi” adı verilen bir de 
+“Wiki”uygulaması da bulunmaktadır. 
+ 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1123
+Siberalem ise 5 Milyonluk nüfusu ile Türkiye'nin en büyük web topluluklarından biridir 
+(http://arkadasarama.tr.msn.com/SiberalemTuru1.aspx). Bu sosyal ağ sitesine 18 yaşını 
+doldurmuş herkes üye olabilmekte ve Siberalem'in imkanlarından faydalanabilmektedir. Dileyen 
+herkesin, başka bir üye tarafından davetiyeye gerek kalmadan üye olduğu bu site, arkadaşlık ve 
+çöpçatanlık sitesidir. Siberalem ağı, kişiye bilgisayarıyla sadece birkaç dakikasını harcayarak 
+milyonlarca üyeye ulaşma fırsatı sağlamaktadır. Üye olan kişi, kendisine uygun profilleri 
+listeleyerek dilediği profile / profillerle iletişim kurabilir, arkadaşlığını geliştirebilmektedir. 
+Siberalem'de üyelik yaratmak, arama yapmak, karşı tarafa onunla ilgilendiğini belli etmek 
+ücretsizdir. Ancak sınırsızca mesajlaşabilmek için üyelerin “Silver” ya da “Gold” üyeliğe geçiş 
+yapmaları 
+ve 
+ücret 
+ödemeleri 
+gerekmektedir 
+(http://arkadasarama.tr.msn.com/SiberalemTuru4.aspx). 
+ 
+Yonja.com da Türkiye’deki bir başka arkadaşlık ve çöpçatanlık sosyal ağıdır. 
+Yonja.com’un sitesindeki tanıtımda, Yonja’nın, kişileri, arkadaşları aracılığıyla yeni insanlarla 
+tanıştıran, buluşturan, ve aynı zamanda kişilerin sosyal aktivitelerini kolaylaştıran uluslararası bir 
+topluluk olduğundan sözedilmektedir (http://www.yonja.com/?locale=tr_TR). Yonja.com’a 
+katılım ücretsiz olduğu gibi, kişi kişisel bilgilerini kısa sure içinde girdikten sonra hemen üye 
+olup sosyal ağın içerisine girebilmektedir. 
+ 
+Nokia da sosyal ağlarla oluşturulan paylaşım platformlarında “MOSH” ile yerini almıştır 
+(http://mosh.nokia.com/). Nokia'nın yeni paylaşım platformu olan MOSH (MObilize and SHare), 
+Nokia kullanıcılarının kendi aralarında ağ oluşturmasına, bilgi ve Nokia deneyimlerini 
+paylaşmalarına, telefonlarıyla kaydettikleri görüntü ve videoları, sesleri bu ağ platformunda 
+yayınlamalarına, yeni program yüklemelerine, oyun içerikleri hazırlayıp paylaşmalarına ve oyun 
+oynamalarına ve Nokia merkezi ve Nokia çalışanlarıyla iletişim kurmalarına olanak 
+sağlamaktadır. 
+ 
+2.SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+ 
+Çeşitli amaçlarla kurulan sosyal ağ sitelerinin kullanıcılara ve kuruluşlara sağladığı çeşitli 
+avantajlar ve dezavantajlar gözlemlenmektedir. 
+• 
+Sosyal ağlar kişilerin sosyal hayatının iyi gitmesi için önemli bir anahtardır (Baras, 2007). 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1124
+• 
+Kişinin kendisiyle, sosyal ve iş çevresiyle, akrabaları ve arkadaşlarıyla, müşterileriyle 
+kaliteli ilişkiler kurulmasını sağlamaktadır (Baras, 2007) 
+• 
+Sosyal ağlarda kontrol kişinin elindedir. 
+• 
+Sosyal ağlar sadece kişiler için değil, kurumlar için de önemli bir anahtardır. 
+• 
+Sosyal ağlar işletmelere, hedef kitleleriyle temas kurmalarını ve doğru hedeflere 
+ulaşmalarını sağlamaktadır (Dignan, 2007). 
+• 
+Facebook’un CEO’su Mark Zuckerberg yaptığı basın açıklamasında, sosyal ağların ve 
+özellikle Facebook’un, online reklamcılık yeni bir mecra haline geldiğine değinmiştir 
+(Zuckerberg, 2007). 
+• 
+Sosyal ağ reklamlarıyla işletmeler, viral pazarlamayı daha çok uygulayarak, ağ 
+kullanıcılarının ürün ve markalarıyla ve tanıdık tavsiyesiyle daha çok tanınmasına sebep 
+olabilirler (Zuckerberg, 2007) 
+• 
+İşletmeler sosyal sorumluluk projelerini geniş kitlelere yayma imkanı bulabilirler. 
+• 
+Sosyal 
+ağlarda 
+üyeler 
+için 
+çeşitli 
+uygulamalar 
+(widgets/applications) 
+gerçekleştirilmektedir. Bu uygulamalarla firmalar, kendi ürün ve hizmetlerine yer vererek kendi 
+ağlarını oluşturarak pazarlama faaliyetlerini geliştirebilmektedirler. 
+• 
+Sosyal ağlar, işletmeler için ölçümleme yapabilme olanağı sağlarlar. 
+• 
+Sosyal ağlar işletmeler için pazar segmentasyonu yapabilme olanağı sağlamaktadır. 
+• 
+Yeni kişilerle tanışmanın en çabuk ve en zahmetsiz ve en ucuz yöntemlerinden biridir. 
+(http://openforum.com/thread.jspa?threadID=1000702) 
+• 
+Halkla ilişkiler ve reklamcılar rolodexlerindeki isimleri (halkla ilişkiler sorumlularının 
+kendi ağları) bir arada toplamak amacıyla kullanabilirler. 
+Sosyal ağların dezavantajlarını ise aşağıdaki gibi sıralamak mümkündür: 
+• 
+Sosyal ağların tek yönlü bir etkileşim ortamı olduğu söylenmektedir. Bilgi ve 
+enformasyon transferi tek yönlüdür. 
+• 
+Kapalı platformlardır. Gerçekte açık olan veriler ve enformasyon sadece sosyal ağa üye 
+olan kişi ve sosyal ağ sunucusu arasındadır. Ancak internet kullanıcılarının tamamına açık olduğu 
+söylenemez. (http://blogs.zdnet.com/social/?p=254) . 
+• 
+Pek çok sosyal ağ sitesi aslında kapalı bir içerik deposudur. İçerikler, kolaylıkla 
+paylaşılamaz ve dışarıya dağıtılamaz, üyesi bulunan sosyal ağın içinde kalmaktadır 
+(http://blogs.zdnet.com/social/?p=254). 
+• 
+Sosyal ağ siteleri içinde üyelerin kişisel bilgileri de bir başka sosyal ağa dağıtılmamakta 
+ve paylaşılmamaktadır (http://blogs.zdnet.com/social/?p=254). 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1125
+• 
+Sosyal ağ sitelerine ait üyeler, tüm şahsi bilgilerini bir başka platforma 
+yönlendirememektedir. 
+• 
+Sosyal ağ sitelerinde yeterince açıklık yoktur. Üye profillerine ulaşabilmek için, çoğu 
+sitede üyeler tarafından kabul görmek gerekmektedir. 
+• 
+Sosyal ağlara hergün yeni üyelerin katılmasıyla, sosyal ağların giderek kalabalıklaşması, 
+iletişimde gürültü unsurunu artırmakta ve firmalar açısından pazarlama ve iletişim mesajlarının 
+kaybolmasına, hedef şaşırmasına ve geri bildirimin beklentilerin altında kalmasına sebep olabilir. 
+• 
+Sosyal ağlarla kurulan ilişkiler, birebir gerçekleşmediği için; yüzyüze iletişimin, 
+konferansların, 
+fuarların 
+ve 
+hatta 
+telefonla 
+görüşmenin 
+yerini 
+tutmayacaktır 
+(http://openforum.com/thread.jspa?threadID=1000702). 
+• 
+İnternet hukuku ve internetle halkla ilişkiler ve reklamlara yönelik kanunlar ülkeden 
+ülkeye değişmektedir. Dolayısıyla kanuni sınırlamalar firmaları amaçları ulaşmak konusunda 
+zorlayabilir. 
+• 
+Sosyal ağ sitelerinde kullanılan dil de başka bir dezavantajdır. İngilizce’nin yaygın dil 
+olması sosyal ağların da İngilizce tasarlanıp oluşturulmasına neden olmuştur. Genel kullanıma 
+açık sosyal ağ sitelerine İngilizce konuşmayan kişiler genelde girmediği için bu kişilere ancak 
+yerel dilde hazırlanan sitelerin reklam aracı olarak kullanılması gerekir. 
+• 
+İnternete bağlantı hızları bölgeden bölgeye değişebilir. Bu değişim yüklü mesajların ve 
+görsellerin yüklenme süresinde farklılıklar yaratacağından yüklemesi uzun süren uygulamalardan 
+(application, widget) kişiler kaçınabilir. Bu da reklam hedeflerine ulaşmayı engelleyebilir. 
+ 
+ 
+Sosyal ağ sitelerinin üyeleri reklam ve halkla ilişkiler eylemleri için hedef kitle olarak 
+değerlendirildiğinde sitelerin yeni tüketici kuşağın yoğun olarak yer aldığını belirlenmiştir. Bu 
+açıdan sosyal ağ siteleri girişimciler için yeni bir girişim modeli olarak yükselirken, bir yandan da 
+yeni nesil tüketiciye kendini göstermek isteyen büyük firmaların ilgisini çekmektedir. Facebook 
+türevi sosyal ağların üyelerinin çoğunluğunun 15 ile 25 yaş grubu arasında olduğu araştırma 
+şirketleri tarafından ortaya çıkarılmıştır. Araştırma şirketi Forrester Research’ün araştırması, 
+ABD’deki genç kitlenin zamanlarının çoğunu sosyal ağ sitelerinde geçirdiğini ortaya 
+koymaktadır. Bu araştırmaya göre 12-17 yaş arasındaki kitlenin yüzde 51’i 17-22 yaş arası 
+kitlenin 
+yüzde 
+70’i 
+sosyal 
+ağ 
+sitelerinin 
+aktif 
+kullanıcılarıdır 
+(http://www.koniks.com/topic.asp?TOPIC_ID=5131). Bu rakamlar toplam internet reklam 
+pastasının henüz çok küçük bir kısmını oluşturmaktadır. Ancak uzmanlar gelecekte daha çok 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1126
+firmanın sosyal ağ siteleri üyelerine ulaşmak için reklam harcamaları yapacağını öngörmektedir. 
+ 
+Sosyal ağ sitelerinden 5 milyon üye sayısıyla Türkiye’de önemli bir yere sahip olan 
+gençlik portalı Yonja.com’un verilerine göre üyelerinin % 90’I 18 – 35 yaş aralığında olup % 
+85’inin eğitim düzeyi üniversitedir (MediaCat, Milyonlarca Gence Ulaşmanın En Kolay ve En 
+Hızlı Yolu, 2008: 23). Bu sosyal ağdaki aktif üyeler her gün yüzbinlerce video, resim, müzik, 
+blog eklemektedir Yine aynı istatistik ölçümlerine göre, aylık 1 milyarın üzerinde sayfa 
+görüntülenmesinin yanında, ayda 6 milyon 400 binin üzerinde tekil ziyaretçisi bulunmaktadır. 
+Pew Internet & American Life Project’in 2007 yılında yapmış olduğu araştırma, E-marketer’in 
+araştırmasını desteklemektedir (Lenhart ve diğerleri, 2007: 1-2). Bu araştırmaya göre sosyal 
+ağların en büyük kullanıcısını gençler oluşturmaktadır. Yine aynı araştırma verilerinde özellikle 
+gençlerin yoğun sosyal ağ kullanıcısı olmasının yanında “süper iletişimci” olarak 
+adlandırıldıklarını, çünkü arkadaşlarıyla iletişim kurabilmek için sadece sosyal ağlarla değil, her 
+tür iletişim ve kitle iletişim mecrasını kullandıklarını ve bu yüzden günümüzde iletişimi en yoğun 
+kullanan jenerasyon oldukları sonucuna varılmıştır (Lenhart ve diğerleri, 2007: 22). Özellikle 
+gençlerin sosyal medyaya bu kadar kısa sürede adapte olması ve yoğun olarak bundan 
+faydalanması reklam ve halkla ilişkiler açısından bakıldığında, genç hedef kitleye hitap etmek 
+isteyen firmalar için sosyal ağları oldukça önemli bir reklam ve pazarlama mecrası haline 
+getirdiği söylenebilir. E-marketer tarafından yapılan başka bir araştırmaya göre 18 yaş ve 
+üzerindeki yetişkinlerin %37’sinin en az ayda bir kere online sosyal ağları kullandıkları 
+belirlenmiştir. Araştırmada bu rakamın 2011 yılında %49’a çıkacağı öngörümlenmiştir (e-
+marketer.com, 14/12/2007). Araştırma sonuçlarına bakılarak gelecek yıllarda da gençlerin sosyal 
+ağlarda daha aktif olacakları yorumu yapılabilir. 
+ 
+2.1. Sosyal Ağ Sitelerinde Reklam ve Halkla İlişkiler Çalışmalarına Örnekler 
+ 
+NY Times, Facebook’a üye olup, kendi markasına özel uygulama yaratmıştır 
+(http://www.insidefacebook.com/2007/09/13/media-companies-dont-understand-facebook/) 
+. 
+Haber testleri hazırlatıp Facebook üyelerine “NY Times IQ’nuz Kaç” başlıklı uygulamasını 
+yüklettirip, testi uygulayarak arkadaşlarına dağıtmasını teşvik ederek pazarlama iletişimi 
+faaliyetlerine 
+Facebook’dan 
+da 
+devem 
+etmektedir 
+(http://www.facebook.com/apps/application.php?id=4996223070&ref=s). 
+ 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1127
+Ünlü Televizyon Kanalı CBS News da Facebook’u pazarlama iletişim amacıyla kullanan 
+bir başka örnek olarak verilebilir 
+(http://www.insidefacebook.com/2007/09/13/media-companies-dont-understand-facebook/). CBS 
+News’in Facebook için hazırlamış olduğu taktik ise, üyelerin ana profil sayfalarına  CBS  News  
+uygulamasını yükleyerek,  sürekli  son  dakika  haberlerini alabilmelerini    ve    başka    
+Facebook    üyelerine    göndermelerini    sağlamaktadır 
+(http://www.insidefacebook.com/2007/09/13/media-companies-dont-understand-facebook/). 
+ 
+Coca-Cola da benzer bir şekilde pek çok farklı local adreslerle yer almaktadır. Coca Cola 
+Avustralya tarafından hazırlanmış Coca Cola My Summer uygulaması da yine aynı amaç için 
+hazırlanmış ve üyelerinin Coca Cola’ya ait bu uygulamayı birbirlerine göndererek Coca Cola için 
+WOM 
+yapılması 
+ve 
+markanın 
+sürekli 
+göz 
+önünde 
+olması 
+hedeflenmiştir 
+(http://www.facebook.com/apps/application.php?id=14923635102&ref=s). 
+ 
+Facebook’ta yeralan ve yer alma amacını en başarılı bir şekilde gerçekleştiren 
+markalardan biri de “Diesel”dir. Sayfaya girer girmez aktif posterler, interaktif uygulamalar, 
+videolar, reklam çalışmaları, tartışma konuları ve grupları, kullanıcı tarafından yaratılan 
+içeriklerin 
+bolluğu 
+(UGC), 
+oyunlar 
+ve 
+süprizlerle 
+dolu 
+bir 
+ağ 
+yaratmıştır 
+(http://www.facebook.com/group.php?gid=7637800015). 
+ 
+Sony Pictures Television, Verizon, Microsoft gibi dünya devleri de bu sosyal ağda yer 
+almaktadır. Türkiye’de Facebook’u reklam ve halkla ilişkiler aracı olarak kullanan markalar da 
+bulunmaktadır. Ancak yurtdışındaki gibi uygulama yaptırtıp hedef kitlelere oyun ve benzeri 
+uygulamalarla onları, olaya entegre etmektense, Facebook’da profil şeklinde kayıtlı bir üye olarak 
+yer almaktadırlar. Bunlara örnek olarak verilebilecek olan markalar; Koç Grubu, Olips, Cola 
+Turka, Eğitim Kurumları, LC Waikiki (Kurumsal, Çalışanlar için ayrı), Bizim Lösemili Çocuklar 
+Vakfı, Lösev, Turkcell, Akbank, Akbank Sanat, Şişecam, Şişecam Kürek Klübü,Türkiye İş 
+Bankası ve pek çok seyahat acentası verilebilir. Bunun yanısıra KOBİ’ler ve küçük işletmelerin 
+de facebook’u reklam amaçlı kullandıkları görülmektedir. 
+ 
+Yonja.com’a ait yukarıda değinilen veriler, sosyal ağları reklamverenler açısından cazip 
+hale getirmektedir. Yonja.com sitesi, sosyal ağa üye olan aktif kullanıcılarının boyutunu avantaj 
+olarak doğru kullanarak firmalara reklam çözümlerini son derece profesyonel bir şekilde 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1128
+ulaştırmaktadır. Bu sosyal ağ sitesi; markalara özel reklam alanları oluşturmuş, web sayfası 
+giydirmeleri, kategorilere göre (müzik, oyun, video gibi) sayfa sponsorlukları, mevcut 
+kampanyalara 
+özel 
+interaktif 
+projeler 
+gerçekleştirmiş, 
+dönüşümlü 
+ilan 
+uygulamaları 
+gerçekleştirmiş ve belki de pazarlama iletişimcileri için demografik segmentasyonun en kolay 
+gerçekleştirilebilmesi avantajına sahip, şehre, cinsiyete, yaşa, mesleğe ve üniversiteye özel 
+reklam gösterimi yapmıştır. Yonja.com’un beyan ettiği verilere göre; GSM markalarından 
+Turkcell, Avea, Vadafone; Otomobil firmalarından Renault, Toyota, Opel, Ford, Mitsubishi, 
+Chevrolet, Mercedes-Benz, Nissan, Peugeot; Bankalardan Garanti, HSBC, Akbank; Yiyecek – 
+İçecek markalarından McDonalds, KFC, Doritos, Frito-Lay, Domino’s Pizz, Snicker’s, Algida, 
+Nestle, kent, Eti, Milka, Sprite, Kraft, Coca-Cola, Heineken, Tuborg, Beck’s, Kayra Şarapçılık, 
+Sprite, Burn, Lipton, Binboa, Efe Rakı, Tekirdağ Rakı, Miller; Cep telefonu ve  
+Telekomünikasyon markalarından Motorola, Sony Ericsson, Samsung, Nokia, Siemens, Philips, 
+Sony, Türktelekom, Digiturk, HP, Apple, Fox, Teknosa; Spor, tekstil ve moda markalarından 
+Nike, Adidas, Converse, Lacoste, Tommy Hilfiger, Sevenhill, Swatch, Levi’s gibi pek çok 
+önemli marka Yonja.com’un ilan ettiği reklamveren listesi içinde yer almaktadır. 
+Pazarlamacıların önemli bir pazar ortamı olarak geç de olsa farkettiği sosyal ağlara yönelik 
+önemli bir araştırma raporu, 7 Aralık 2007 tarihinde yayınlayan “eMarketer”’den gelmiştir. 
+(http://blogs.zdnet.com/social/?p=8). E-marketer’a göre Amerika’daki sosyal ağ reklamlarının 
+2010 yılına kadar 2 milyar doların üstüne çıkacağı tahmin edilmektedir. Raporda, bugüne kadar 
+olduğu gibi gelecekte de reklamlardan en büyük payı genel kullanıma açık ağ sitesi MySpace’in 
+alacağı 
+tahmin 
+edilmektedir 
+(http://www.marketwire.com/mw/release.do?id=804439&k=social%20network). 
+Yine 
+aynı 
+rapor; Amerikalıların sosyal ağ reklamlarına 350 milyon dolar harcarken, 2007 yılında bu 
+harcamaların 865 milyon dolara çıktığını ifade etmektedir. Facebook sosyal ağ platformu 
+2007’de ortaya çıktığı için şuanda reklam rekabetinde MySpace’in reklam pastası içinde aslan 
+payını 525 milyon dolarla aldığı da raporda belirtilmiştir. Geri kalan oranlar ise eMarketer’e göre 
+“jenerik sosyal ağ siteleri” diye tabir edilen Facebook, Bebo, Piczo, and Friendster (200 milyon 
+$), ve “portal sosyal ağlar diye tabir edilen MSN Spaces, Yahoo 360 ve AIM Pages (95 milyon $ 
+ile) ve kalan 45 milyon $ ise daha niş pazarlara yönelik harcanmıştır (Ibid.). 
+ 
+İçeriği kullanıcılar tarafından oluşturulan sosyal ağlar internet ortamında giderek 
+artan oranlarda kullanılmaya başlanmıştır. Yeni geliştirilen internet uygulamalarının ve 
+sosyal ağ servislerinin “Yonja.com” örneğinde olduğu gibi, Türk internet kullanıcıları 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1129
+tarafından hemen benimsendiği ve verimli olarak kullanıldığı gözlemlenebilmektedir. 
+İnternet kullanıcılarının dünya genelindeki verilerine de ulaşıldığında, Türk kullanıcılarla 
+benzerlikler görülmektedir. Özellikle gençler bu noktada en büyük kullanıcı kitlesini 
+oluşturmaktadır. E-marketer’ın verilerine göre gençler, sosyal ağlar içinde en hızlı 
+büyüyen grup haline gelmiştir. 2007’de en az ayda % 70 genç herhangi bir sosyal ağ 
+kullanıcısı olmaktadır, e-marketer’in tahmini, 2008 yılında da bu rakamın büyüyeceği ve 
+2011 
+yılında 
+% 
+84’ 
+çıkacağını 
+öngörmektedir 
+(http://www.emarketer.com/Article.aspx?id=1005764&src=article1_newsltr). 
+ 
+Yukarıda değinilen Diesel örneğinin, pazarlama iletişimi faaliyetleri açısından oldukça 
+başarılı olduğu söylenebilir. Diesel’in Facebook sayfası detaylı olarak incelenecek olunursa, 
+Facebook’da kendisi için sosyal ağ kurmuş pekçok markadan çok daha başarılı olduğu 
+anlaşılabilir. Buna pekçok işletmenin, markanın sosyal ağlara ne şekilde dahil olacağını ve 
+pazarlama mesajlarını, bu sosyal platforma ne şekilde yerleştireceğini ve hangi taktikleri 
+kullanacaklarını tam olarak bilmemelerinin neden olduğu söylenebilir. 
+ 
+Facebook’ta çeşitli kuruluşların uygulamaları incelendiğinde belli ilgi alanlarının daha 
+çok ilgi gördüğü gözlenmektedir. Örneğin CBS’in Facebook’taki son dakika haberler 
+uygulamasının 14 
+aktif 
+kullanıcısı ve toplam üye sayısı 
+700 
+olarak 
+görülürken 
+(http://www.facebook.com/apps/application.php?id=2419673775&ref=s, 04.01 2008), Music 
+Videos 
+uygulamasının 
+16.926 
+akitf 
+kullanıcısı 
+ve 
+846.300 
+toplam 
+üyesi 
+vardır. 
+(http://www.facebook.com/apps/application.php?id=3545631570&ref=s, 04.01.2008). Dünyanın 
+en önemli haber yayın medyasından biri olan CBS’in Facebook’taki üye sayısına ve 
+facebook’daki üyelerin bir müzik video uygulamasına üye olma oranına bakıldığında, Facebook 
+üye profilinin CBS Son Dakika Haberleri ile fazla ilgilenmediği, daha doğrusu haber içerikli 
+mesajlara fazla önem vermediği sonucuna varılabilir. Sosyal ağlara üye olan firmaların, 
+pazarlama hedeflerine ulaşabilmek için, doğru hedef kitle tespiti ve tüketici davranışlarına biraz 
+daha dikkatli ve bilinçli yaklaşmaları önerilebilir. Bu bağlamda sosyal ağlara üye olan potansiyel 
+müşterilerin, işletmeler için doğru hedef kitle olup olmadığı tartışılabilir. 
+ 
+2.2. Sosyal Ağ Sitelerinin Reklam ve Halkla İlişkiler Ortamı Olarak Kullanılması 
+ 
+Facebook gibi sosyal ağlar, işletmeler için yeni ve alışılagelmişin dışında bir mecradır. 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1130
+Bugüne kadar bilinen web uygulamalarının da dışındadır. Ancak sosyal ağları doğru çözümlemek 
+ve doğru stratejilerle, doğru reklam mesajlarını doğru paltformlarda verebilmek kararı işletmeleri 
+fark yaratarak başarıya ulaştıracaktır. Türkiye’deki ve Dünyadaki tüm internet kullanıcılarının 
+büyük merkezlerde (sosyal ağlarda) toplanmaya başlaması, işletmelerin bu mecraya 
+odaklanmasının şart olduğu anlamına gelmektedir. İşletmelerin bu ağlardaki müşteriyi 
+kendilerine çekmek için illa ki yeni bir sosyal ağ girişimi sunmak gibi bir zorunluluğu yoktur. 
+Burada bahsedilen şey, sosyal ağ girişimine girmek yerine, sosyal ağlara odaklanmanın işletmeler 
+açısından fark ve değer yaratmasıdır. 
+ 
+Firmalara önerilen, ihtiyacı olan hedef kitle bağlantılarına ulaşırken, sosyal ağları da 
+iletişim mecraları içine koymak ve medya planlaması yaparken, bu portalların önemli bir amaca 
+hizmet ettiklerinin farkında olmalarıdır. Bu bağlamda, “bağlantı” denilen şey potansiyel ve 
+mevcut müşteriler, diğer bir deyişle hedef kitledir. Sosyal ağlarla pazarlama iletişimi 
+çalışmalarının temel hedefi, bu bağlantıları kullanarak etki çemberi (circle of influence) 
+oluşturmaktır. Firmalar etki çemberini doğru bir şekilde oluşturarak halkla ilişkiler ve reklam 
+amaçlarını yürütmenin yanı sıra, kurumsal imajlarını ve itibarlarını da yapılandırmaya fırsat 
+bulabilmektedir. 
+ 
+Sosyal ağlardan sunduğu bir başka avantaj da gerçek yaşamda ortaya çıkartması güç olan 
+ağları birbirine bağlayan (node- düğüm1) kişileri belirlemek ve bu kişilerden etkiliyiciler ya da 
+kanaat önderleri olarak yararlanmadır. Sosyal ağ sitelerinde ve online sosyal ağlarda ağ haritaları 
+çıkarıp yorumlamak amaçlı çeşitli yazılımlar bulunmaktadır. Facebook’taki connection cloud 
+application bunlardan biridir. 
+ 
+Tüketiciler, sosyal ağlar üzerinde birbirleriyle müzik paylaşabilmeyi, beğendikleri fotoğraf 
+ve videoları gönderebilmeyi, beğendikleri ya da beğenmedikleri ortam ve konulara karşı oyla 
+yapabilmeyi ve arkadaşlarını oylamaya davet edebilmeyi, canları sıkıldıklarında birbirlerine sanal 
+yaratıkları fırlatarak eğlenmeyi sevmişlerdir (Tanaka, 2008). Sosyal ağlar da, kullanıcılarına bu 
+eylemleri yapabilmelerine olanak sağlayan küçük uygulamaların online ağ içinde trafik2 
+                                                          
+1 Düğüm: (node) Her bir sosyal ağ haritası düğümlerden ve bağlantılardan oluşur. Düğümler, bir ağ 
+haritasındaki noktaları (kişileri) ifade etmektedir. 
+ 
+2 İnternet trafiği: İnternet trafiği, internet üzerindeki veri akışıdır. Gönderilen ve alınan mesajların miktarı, 
+yönü, web sitesine giren ziyaretçilerin sayısı, ziyeret ettikleri sayfalar; online trafiği oluşturmaktadır. 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1131
+yaratması ve bu trafikle, sitelerine kazanç sağlamasıdır. 
+ 
+Sosyal ağlardaki uygulamalarını yüklenme veri kayıtlarını takip eden Adonomic web 
+sitesinin verilerine göre; sadece Facebook tek başına kullanıcılarına yaklaşık 14,000 küçük 
+uygulamayı 792 milyon kez yükletmiştir (http://adonomics.com/). Adonomics’e göre bu 
+uygulamaların 
+toplam 
+değerinin 
+374 
+milyon 
+dolar 
+olduğu 
+tahmin 
+edilmektedir 
+(http://www.forbes.com/technology/2007/12/31/widgets-google-facebook-tech-ebiz-
+cx_wt_0103widgets.html). Uygulamaların sosyal ağ platformlarında bu kadar sevilerek 
+uygulanması, firmalar için de yeni bir reklam ve halkla ilişkiler aracı olarak keşfine yol açmıştır. 
+Forbes’in tahminlerine göre, dünya genelinde 100,000’e çıktığı belirtilmektedir (Ibid.). 
+ 
+Pek çok önemli firmanın “Widget” denen uygulamalar yaratıp online sosyal ağ 
+platformlarında tüketicilerine kendi markaları, ürünleri hakkında oyun oynatıp, içerik yaratıp 
+birbirlerine gönderdiklerine yukarıda değinilmişti. Bu noktada biraz daha ileri giderek 
+“Widget”ların bir başka pazarlama iletişimi boyutuna taşınabileceğinden bahsedilebilir. Şöyle ki; 
+sosyal ağ sitelerinde en çok yüklenen, en çok bahsedilen başarılı bir firma uygulaması, belli bir 
+noktaya geldikten sonra kendisine ait özel bir web sitesine taşınarak, söz konusu uygulamanın 
+kullanıcılarını da beraberinde web sitesine taşıyabilir ve iletişim faaliyetlerini bu yeni platformda 
+da sürdürebilir. Bu sayede firma, sosyal ağları kullanarak oluşturduğu kazancı, web sayfasına da 
+taşıyarak daha da artırabilir. 
+ 
+Forbes dergisine göre (Tanaka, 2008) firmalar, müşteri ile online iletişim trafiği 
+yaratılması amacıyla, sosyal ağ uygulamalarının pazarlama iletişimi uygulamaları içine almaya 
+başlamışlardır. Bu perspektiften bakıldığında sosyal ağları potansiyel müşterileri bulma, mevcut 
+müşterilerle iletişim kurma amacıyla kullanmanın ötesinde, sosyal ağ sitelerine daha entegre 
+olarak ürün/marka ile ilgili uygulamalar tasarlayarak, hedef kitle arasında bağımlılar yaratıp 
+bilinirliğini artırabilir, kurumsal itibarına olumlu yönde katkıda bulunabilir. 
+ 
+ 
+ 
+Dünyada ve Türkiye’de pekçok firmanın başta Facebook olmak üzere tüm sosyal ağları 
+yasaklamaya doğru bir eğilimleri olduğuna değinilmektedir. İngiltere’de Professional Marketing 
+                                                                                                                                                                                            
+Oluşan 
+bu 
+trafik, 
+internet 
+üzerindeki 
+çeşitli 
+yazılımlarla 
+izlenebildiği 
+için, 
+pazarlama 
+iletişimi 
+faaliyetlerinde ölçümleme yaparken de firmalara katkıda bulunabilmektedir. 
+ 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1132
+Forum’da sunulan bir araştırmaya katılan firmaların %18’inin Facebook’u yasakladıkları; 
+%20’sinin ise çalışanlarının istedikleri zaman serbest olarak erişmelerine izin verdikleri ortaya 
+çıkmıştır (www.pmforum.co.uk/pmf/Q4smartSite.dll/main?w_session=pqQMeonp366COP&nav= 
+45-10k). Sosyal ağlar reklam ve halkla amaçlı kullanılmasa da, çalışanların bu ağlara girmeleri 
+yasaklansa da bu ağların sürekli izlenmesi gerekmektedir. Çünkü kurum ismi olarak ne kadar 
+Facebook gibi ortamlarda yer almak istenmese de şirketin markaları bir şekilde isim olarak yer 
+alabilmektedir. Kurumsal itibarın izlenmesi açısından internetin her alanında ne şekilde yer 
+alındığını bilmek adına Facebook ta dahil olmak üzere bu tür ağlar, kurumsal markaları, şirket 
+isimlerini hatta yöneticilerin isimlerini bile aratmak kurumsal itibarın izlenmesinde kullanılabilir. 
+Çünkü bir çok sahte kişilik bu ortamlarda kol gezmektedir. Eğer firmanın kurumsal ismi bu tür 
+ortamlarda geçmeye başladıysa, resmi olarak bu tür yerlerde yer almanın zamanının geldiği 
+söylenebilir. Başka kişilerin firmanın ismini kullanarak, firma adına var olmasına izin vermek 
+istenmiyorsa, firmanın kurumsal kimliği ve pazarlama politikasıyla uyumlu bir şekilde sosyal ağ 
+ortamına girmesi önerilmektedir. 
+ 
+İnternet ortamında biyolojik ağlardaki virüsler gibi kuruluşlarla ilgili olumsuz mesajların 
+yayılması sonucu ortaya çıkan viral etki kuruluşları saldırılara karşı savunmasız bırakmaktadır. 
+Internetteki sosyal ağlardaki viral yayılma kuruluşların krizle karşılaşma risklerini arttırırken 
+kuruluşun zararları giderme olasılığını da azaltabilir. Bu yüzden sosyal ağlar iki farklı açıdan 
+değerlendirildiğinde kurumsal iletişim açısından iki ayrı yönden önemli olduğu görülecektir: 
+ 
+1. Kurumun faaliyetlerinin ürün ve hizmetlerini duyurmak ve kamuoyu yaratmak için 
+sosyal ağ siteleri ve internetten kullanıcılarının sosyal ağları önemli mecralardır. 
+2. Kuruluş ve marka itibarına ters düşecek söylenti, dedikodu, itibar zedeleyici yayın ve 
+haberleri virus gibi çok hızlı bir şekilde yayabildiği için sosyal ağ siteleri dikkat edilmesi 
+gereken bir sosyal mecradır. 
+ 
+Reklam ve halkla ilişkiler planlaması yaparken olası krizlerin gelebileceği ve 
+yayılabileceği bir mecra olarak internetteki sosyal ağlardan yararlanmak gerekmektedir. 
+ 
+Sosyal ağlardan yararlanırken istenilen sonucun elde edilebilmesi için hemen her iletişim 
+aracından yararlanılırken göz önünde bulundurulması gereken iletişim ve etik kurallarını dikkate 
+almak gerekmektedir. Her bir sosyal ağ ortamının kendisine göre kuralları, yaptırımları ve kişiliği 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1133
+vardır. Myspace ile Facebook’un iletişim kuralları birbirine benzese de tam olarak aynı değildir. 
+Firmalar sosyal ağ sitelerinde reklam ve halkla ilişkiler amaçlı var olurken, yok olmamak için 
+iletişim ortamının kurallarını değerlendirdikten sonra içerik yaratmak ve trafik oluşturmaları 
+gerekmektedir. Myspace sosyal ağ sitesi için verilen kurallar aşağıda bulunmaktadır 
+(http://interwebhunt.com/2007/10/02/social-networking-etiquette-for-marketing/): 
+ 
+1. Arkadaş listesine binlerce kişiyi eklememek. Firmanın sunduğu ürün ve hizmetlerle 
+ilgilenecek arkadaşları eklemek için kişileri değerlendirmek. 
+2. Profile 
+sesli 
+dosya 
+yüklememek. 
+(İnsanlar 
+müzik 
+dinlemek 
+istiyorlarsa 
+zaten 
+bilgisayarlarından dinliyorlardır. Eğer müzik grubu gibi bir yerin tanıtımı amaçlı profil 
+oluşturulduysa da tıklayarak ulaşılmasını sağlamak gerekmektedir.) 
+3. Bir kişinin profiline resim eklemek, etiketler koymak veya yorum yapmak istenirse bunu 
+tadında yapmak gerekir. 
+4. Kullanıcıların dikkatini çekmek için sosyal ağ sitesindeki kurumsal profile bannerler ve etiket 
+düğmeleri koyulmalıdır. Eğer ürünleri ve firmayı başkalarına tanıtmak, anlatmak isteyen olursa 
+tanıtım ve promosyon malzemelerine ulaşmaları için kolaylık sağlanmalıdır. 
+5. İnsanlar eğlenceyi, interaktif araçları severler ancak bir sayfa üzerinde onlarcasının birlikte 
+durmasından hoşlanmayacaklardır. Eğer eğlenceli ve ilginç birşeyler konacaksa bunu sınırlı 
+sayıda bırakmakta yarar vardır. 
+ 
+Sosyal medyadan sosyal ağları reklam ve halkla ilişkiler aracı olarak kullanırken 
+Womma, ağızdan ağıza pazarlama birliğinin etik kodlarından yararlanılabilir. Etik kodlar 
+arasında tüm sosyal medyada dikkat edilecek kodlar arasında aşağıdaki öneriler dikkate 
+alınmalıdır (www.womma.org/ethics/code): 
+ 
+1. Tüketiciye saygı ve tüketiciyi korumak 
+2. İlişki dürüstlüğü (kime hitap ediliyorsa onunla konuşulması), görüş dürüstlüğü (neye 
+inanılıyorsa, onun söylenmesi), kimlik dürüstlüğü (kimliğin asla gizlenmemesi) ilkelerini 
+göz önünde bulundurmak. 
+3. İletişim kurulan mecranın kurallarına saygı göstermek. 
+4. Azınlıklarla sorumluluk taşıyarak iletişim kurmak 
+5. Mahremiyeti korumak ve izin almak. 
+ 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1134
+Örneğin sosyal ağlarda ağlar arasında bulunan bağlayıcı konumundaki (düğümlerdeki) 
+önemli kişilerin çıkar karşılığı ürün veya hizmetler hakkında haber yaymalarını sağlamak belki 
+ilk bakışta kısa sürede etki yaratacak, rakipleri yıpratacak bir teknik olarak görülebilir. Ancak bu 
+çıkar ilişkisi anlaşılması sonucu kurumun ya da markanın itibarının nasıl bir zarar göreceğini de 
+hesaba katmak gerekmektedir. Sosyal ağ sitelerinden elde edilen müşteri bilgileri ürün ve 
+hizmetlerin pazarlanmasında son derece yararlı olacaktır ancak bu bilgilerin ilgisiz kişilerle 
+paylaşılması müşterilerin mahremiyet haklarına tecavüzle eşdeğerdir. İletişim ve etik kurallar 
+benimsendiğinde ve uygulandığında sosyal ağ sitelerinin dezavantajları da bertaraf edilmiş 
+olacaktır. Özetle gerçek yaşamdaki sosyal ağımızda bulunan kişilerle iletişim kurarken kullanılan 
+kurallar ve etik değerler sanal ortamda daha fazla önemsenmelidir. 
+ 
+Kurumsal iletişim planları içine medya planlama yaparken Web 2.0 ortamlarını da dikkate 
+almak gerekmektedir. Öncelikle web 2.0 ortamlarının etkinliği hem kurumsal itibar hem de 
+halkla ilişkiler ve reklam ortamları olarak değerlendirilmelidir.Web 2.0 ortamlarında iletişim 
+kurmak amacıyla artık kuruluşların belirli politikalar belirleyip 
+ 
+Hedef kitlenin bir arada bulunduğu ve hedef kitleyle ilgili birçok verinin sayısal olarak 
+alınabildiği sosyal ağ sitelerinde halkla ilişkiler ve reklamla ilgili birçok uygulamayı da 
+gerçekleştirmek mümkündür. Sosyal ağ siteleri ve online sosyal ağlarla ilgili birçok bilgi ve 
+yorum değerlendirildikten sonra reklam ve halkla ilişkiler ortamı olarak sosyal ağ sitelerinin nasıl 
+kullanılabileceğine ilişkin aşağıdaki maddeleri sıralamak mümkündür. Sosyal ağ sitelerinin halkla 
+ilişkiler aracı olarak nasıl kullanılabileceği aşağıda sıralanmıştır: 
+ 
+1. Kurumsal itibarın izlenmesinde sosyal ağ sitelerinde kurum adı, marka adı, kurumsal 
+networkü oluşturan firmaların isimleri, üst düzey yönetici ve çalışanların isimleri 
+izlenmelidir. Kurumsal iletişimden sorumlu görevlilerin sıkça arama kısmına isimleri 
+yazarak ne şekilde, hangi profil içeriğiyle isimlerin geçtiğini gözlemeleri mümkündür. 
+2. Sosyal ağ sitelerinde rakip ve ilgili kuruluşların halkla ilişkiler kapsamındaki 
+eylemlerini inceleyip medya planlama yaparken bu ortamları değerlendirilmelidir. 
+3. Halkla ilişkiler birimleri veya halkla ilişkiler ajansları sosyal ağ sitelerindeki 
+kullanıcıları hedef kitle olarak görmelidir. Hedef kitleyi sosyal ağ sitelerinde gruplar, 
+networkler halinde görüp farklı içerikte mesaj tasarlayıp, gönderebilirler. 
+4. Kuruluşlar, sponsorluk yaptıkları spor, kültür, sanat etkinliklerini hedef kitlelere 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1135
+duyurabilirler. (Facebooktaki event application gibi) 
+5. Yarışma, workshop, eğitim gibi kurum dışına taşabilen etkinlikleri duyurmada 
+kullanılabilir. 
+6. Sosyal sorumluluk projelerini ilgili gruplara tanıtma ve destek bulmada 
+kullanabilirler. 
+7. Kriz yönetimi kapsamında kriz öncesinde izleme ve kriz döneminde kurumsal 
+mesajları yayınlamada sosyal ağ siteleri kullanılabilir. 
+8. Sosyal ağlarda farklı grupları birbirine bağlayan kişileri (structure hole) belirleyip bu 
+kişileri etkileyip dürüst, sağlıklı iletişim kurarak kurumsal mesajları yayabilirler. 
+9. Bir etkinliğin, bir kampanyanın veya kuruluşla ilgili mesajların yayılmasında 
+çalışanlar kullanılabilir. Çalışanların profilleri üzerinden mesajlar yayılabilir. Özellikle 
+eğitim ve pazarlama gibi birimlerdeki çalışanların hem gerçek yaşamdaki hem de sosyal 
+ağ sitelerindeki sosyal ağları geniş olduğu için halkla ilişkiler bağlantılı mesajlar çok 
+geniş kitlelere yayılabilecektir (Aşağıdaki örnek olayda ispatlanmıştır.) 
+10.Kuruluşlar genel kullanıma açık veya iş sosyal ağ sitelerinde profil yaratabilirler. Eğer 
+profil yaratmazlarsa çalışanlar, eski çalışanlar ya da tüketiciler onlar için yaratacaktır. Bir 
+kuruluşun sosyal ağ sitelerinde yer alması için şu koşulların en az ikisinin geçerli olması 
+gereklidir: 
+- 
+Kuruluş en az 20 yıllık bir geçmişi varsa, 
+- 
+Çok sayıda çalışanı varsa, 
+- 
+Çalışanlarının bir kısmı emekli olduysa veya terfi ederek başka kuruluşlara 
+geçmişlerse, 
+- 
+Çok sayıda müşterisi varsa, 
+- 
+Marka tescilli ürünleri varsa ve TV, gazette reklamlarını kullanıyorsa, 
+- 
+Marka imajına yönelik çalışmaları varsa, 
+- 
+Sosyal sorumluluk, sponsorluk gibi halkla ilişkiler faaliyetleri varsa, 
+- 
+Ürünlerin genel hedef kitlesi gençlerse, 
+- 
+Kuruluşun blog, forum, podcast gibi internet üzerinde beta destekli uygulamaları 
+zaten varsa genel kullanıma açık sosyal ağ sitelerinde profil oluşturmasının zamanı gelmiş 
+demektir. 
+ 
+Reklamcılıkta ise hedef kitle halkla ilişkilerdeki gibi belirli ortak yarar ve ilgileri olan 
+insanlar grubu değildir. Reklamcılıkta hedef kitle iletişim süreci açısından ele alındığında verilen 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1136
+mesajların etkilenip ürün ya da hizmeti satın alması beklenen mevcut ya da potansiyel 
+tüketicilerdir (Wells ve diğerleri, 2006: 127). İnternet kullanıcılarının çoğunluğunun gençler ve 
+erkekler olduğu ifade edilmektedir (Wells ve diğerleri: 278). İnternetin reklam amaçlı 
+kullanılabilecek yeni bir kitle iletişim aracı olarak sunulması; özellikle genç hedef kitle tarafından 
+tarafından izlenmesi nedeniyle reklamcılar için önemli bir mecra haline gelmiştir. Yahoo’nun bir 
+araştırmasına göre yaşları 13-24 arasındaki gençlerin haftada interneti kullanma oranı (e-
+postalara bakma hariç) 16.7 saattir, bu bilgiden yola çıkarak Procter &Gamble firması “Always” 
+isimli hijyenik ped ürününün reklamını yahoo’nun gençlere yönelik sitelerinde vermektedir. Bu 
+reklamlar Procter &Gamble’ın ayrıca kurduğu BeingGirl.com web sitesine de trafik yaratmış, 
+internet kullanıcısı genç kızları bu siteye çekmiştir. Sitede blog, podcast ve genç kızların iletişim 
+ağı yaratabilecekleri sosyal ağ ortamı bulunmaktadır. Reklamcılar sosyal ağ sitelerini aşağıdaki 
+gibi değerlendirebilirler: 
+1. Kuruluşlar ürün ve markalarıyla ilgili ilgi çekici uygulamaları (application, 
+widget) tasarlayıp hedef gruplara yollayabilirler. 
+2. Sosyal ağ sitelerinde kuruluşlar reklamlarını yaparak kendi web sitelerine trafik 
+yaratabilirler. 
+3. Yeni ürün ve hizmet lansmanları sosyal ağ sitelerinde yapılabilir. 
+4. Veri tabanı pazarlaması uygulaması sayesinde sosyal ağ sitelerinde mesajların 
+kişiselleştirilmesi mümkündür. Örneğin Classmates.com isimli web sitesi A.B.D.’de tüm 
+lise mezunlarının buluştuğu bir sosyal ağdır. Bu sosyal ağda reklam verirken veri tabanına 
+göre tüketicilerin belirli demografik ve davranışsal değişkenleri göz önüne alınarak hangi 
+reklamların söz konusu tüketici tarafından beğenilip beğenilmeyeceğini önceden karar 
+verilir. Böylece reklam mesajları kişiselleştirilerek değişik yaş gruplarına ve kitlelere 
+farklı çeşitlerde gönderilmektedir. 1960 yılında liseden mezun olan biri, şifresiyle kendi 
+sayfasına girdiğinde erken emeklilik ile ilgili bir reklamı görebilirken 2000 yılı mezunu 
+bir başkası kendi sayfasında kariyer reklamları görebilmektedir. (Wells Moriarty, Burnett, 
+2006: 280) 
+5. Küçük ve orta ölçekli firmalar için daha büyük organizasyonlar karşısında rekabet 
+edebilmeleri için önemli bir alan yaratır. 
+6. Yeni ürünlerin ve hizmetlerin pazarlanmasında dikkat çekmek amacıyla sosyal 
+ağlarda reklamlar kullanılabilir. 
+7. İnternet ortamında web sayfalarındaki reklamlarda çok çeşitli reklamlar birarada 
+bulunurken veri tabanı pazarlaması uygulaması sayesinde kişiler hedef kitlelerine göre 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1137
+ayrılabildiğinden mesaj yığılmasından uzaklaşılmaktadır. Gürültü unsuru da ortadan 
+kalkmış olduğu için reklam mesajlarının algılanma oranının yüksek olacağı iddia 
+edilebilir. 
+8. Sosyal ağların popülerliği ve giderek artan sosyal ağ sitesi üyeleri sayesinde 
+reklamcıların özellikle genç hedef kitleye ulaşabilme olasılığı artacaktır. 
+ 
+3. ÖRNEK OLAY 
+ 
+Sosyal ağ sitelerinin ve online sosyal ağ ortamlarının mesajları yaymada ne kadar etkili 
+olabileceğini sayısal olarak göstermek amacıyla bir örnek olayı ele almakta yarar vardır. Ağın 
+içerisinde bireylerin ortak tanıdıkları az ise çarpma mantığı gereği mesajın ulaşacağı kişileri üstlü 
+sayılarla hesaplayarak tanımlamak gerekir. Örneğin bir kişinin ağında 10 kişi var ise o yolladığı 
+kişilerin sayısı da 10x10=100 kişi olacaktır- (çakışan kişilerin hiç olmadığı var sayılırsa), 100 kişi 
+varsa 100x100=10.000 olacaktır. Örnek olayda da bu durum bir bakıma ispatlanmıştır. Örnek 
+olayda 2007 yılında ön plana çıkmış genel kullanıma açık ağ sitelerinden Facebook ele alınmıştır. 
+ 
+Aynı kurumda çalışan iki kişiyi ele alalım. Kurumsal iletişim amaçlı bir kültürel etkinliğin 
+sosyal ağ sitelerinde duyurulması için bu 2 kişi kullanıldığında toplam kişiye mesaj 
+ulaştırılabilir? Bu sorunun cevabı ilk aşamada her iki kişinin arkadaş listesindeki kişilerin sayısı 
+gibi gözükmektedir. Oysa rakam bunun çok üzerinde olacaktır. Özellikle etkili ve ses getirecek 
+bir çalışma yapılıyorsa, afiş, video ve etkili bir metinle destekleniyorsa rakam çok farklı 
+çıkacaktır. Örneğin Facebook’ta Ö.A.’nın 138, F.O.’nun 123 arkadaşı bulunuyor. Kuruluşun 
+sponsor olduğu bir kültürel etkinlik var ve bu kültürel etkinliğin afişini ve ayrıntılarını mesaj 
+olarak bu iki kişi facebook aracılığıyla arkadaşlarına yolluyorlar. Kültürel etkinliğin ilgi çekici ve 
+birkaç ilde tekrarlanan bir konser, vs. olduğunu düşünelim. Bu iki kişinin arkadaşlarının sayısı 
+(4/1/2008 itibariyle). Arkadaşlarının hepsi tüm arkadaşlarına bu mesajı yollarsa, mesaj en yüksek 
+olasılıkla toplam (F.O.=9938+Ö.A.=17037=26975) Hesaplama yapılırken ortak arkadaşlar 
+toplamdan çıkartılmıştır ancak arkadaşların da ortak arkadaşlıkları da varsayılırsa ve 
+gönderilecek mesajların %50’sinin okunmayacağını ya da başkalarına iletilmeyeceğini 
+varsayılırsa afiş yaklaşık 10.000 kişiye ulaşacaktır. Çalışan sayısının çok olduğu ve çalışanların 
+geniş çevreye sahip olduğu bir işletme düşünülürse bu rakam katlanarak artacaktır. Bir de bu 
+çalışanların önemli rol oynadığı ya da sahne aldığı bir etkinlik ise etkinin büyümesi 
+kaçınılmazdır. 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1138
+ 
+Facebook yanında kişisel sosyal ağda bulunan MSN messengerdaki kişi sayıları da 
+eklenirse, onların toplamı F.O.=91, Ö.A.= 98; 91+98=199’dur. Ağlardaki kişilerin ağlarında kaç 
+kişi olduğu ve bunların bir büyük kısmının aynı zamanda Facebook’ta olduğu da varsayılırsa bu 
+sayı oldukça düşecektir. Ancak Facebook ve benzeri genel kullanıma açık sosyal ağ sitelerinin 
+popülerliğini yitirmesiyle tekrar kişisel online ağların kullanılacağı varsayılırsa kişilerin en sık 
+kullandığı iletişim kanalındaki ağlar her zaman kalıcı olacağı öne sürülebilir. 
+ 
+SONUÇ 
+ 
+Halkla ilişkilerin planlanması ve yürütülmesi hedef kitlelerin anlaşılmasına bağlıdır 
+(Tench, Yeomans, 2006: 235) Hedef kitlelerin tanımlanması ve anlaşılması, tüketici 
+davranışlarının belirlenmesi reklam stratejilerinin geliştirilmesi sürecinde de geçerlidir. Halkla 
+ilişkilerle ilgili yapılan tanımlarda halkla ilişkilerin iki yönlü bir akım olduğundan, akımın bir 
+ucunda hedef kitleyle ilişki kurma çabasındaki kişi ya da kurum (kaynak) diğer uçta ise akımın 
+hedefi olan kitle yer almaktadır. Asna, halkla ilişkilerde tek bir hedefin olmadığından, halkla 
+ilişkiler çalışmalarının gerçekleştirecek olan kişi ya da kurumların önce hedef kitlelerini 
+belirlemek ve onları tanımak zorunda olduğundan söz etmektedir (Asna, 1997: 233). Halkla 
+ilişkilerin tanımlaması yapılırken hedef kitle kitle kavramı açıldığında ilişki kurulacak gruplardan 
+bahsedilmektedir. Bu gruplar, küçük ya da büyük; ulusal ya da uluslararası; ya da sadece belli bir 
+zümre olabilir. Pekçok kişiye göre halkla ilişkilerin iki önemli görevi vardır: basınla ilgilenmek 
+ve basın bülteni çıkartmak (Seitel, 2004: 211). Seitel, bu tanımlamada bir sorun olduğunda 
+değinmektedir. Çünkü 21. yüzyılda basının şekli, sunum şekli değişmiştir. Gazeteciliğin bile 
+internet ortamına taşınması hedef kitle online ortamlarda var olmaya başladığının bir 
+göstergesidir. 
+ 
+Hedef kitle artık televizyon, gazete veya radyodan kurumların mesaj yolladığı homojen 
+insan topluluğu olmak yerine aldığı mesajları seçen hatta içerik üreten, kendi kanallarında istediği 
+bireylere ulaştıran-yayınlayan, farklı ilgi alanları olan ve farklı gruplara dahil hetorojen insan 
+topluluklarından oluşmaktadır. Halkla ilişkiler ve reklam eylemlerinde de hedef kişilere 
+ulaşılabilecek her türlü kanalların etkinliği değerlendirilmelidir. Sosyal ağlar da ister online olsun 
+ister offline olsun halkla ilişkiler mesajlarının ve reklam uygulamalarının etkin bir şekilde 
+yayılabileceği iletişim kanalları olarak değerlendirilmelidir. Örnek olayda da özellikle halkla 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1139
+ilişkiler amaçlı planlanmış bir mesajın geniş kitlelere yayılmasında çalışanların ağları 
+kullanıldığında çok sayıda kişiye ulaşılacağı ortaya çıkmıştır. 
+ 
+Facebook, Youtube, Twitter gibi sosyal ağlarda milyonlarca insane, içerik yaratmaktadır. 
+Bugün yaşanılan dünyada hızlı ve taşınabilir mikro içerikler hakimdir. Bunun ötesinde hedef kitle 
+yani müşteriler firmalardan kendileriyle gerçek zamanlı iletişim kurmalarını talep etmektedir. 
+Halkla ilişkiler ajanslarından firmaların kurumsal iletişim departmanlarına kadar iletişim sektörü 
+çalışanları, müşterilerine daha iyi hizmet vermek amacıyla daha iyi iletişim kurabilmenin baskısı 
+altındadır. Firmalar daha iyi iletişim kurmak adına müşterilerine klavuzluk etmek, onları 
+yönlendirmeye çalışmaktadır. Firmaların müşteriyle gerçek zamanlı iletişim kurabilmeleri ve 
+online kültürlerini oluşturalimeleri için online sosyal ağlara ihtiyaçları vardır. Online kültürler, 
+kurum kültürünün bir parçasıdır ve bütünleşik pazarlama iletişiminin diğer bileşenlerinden ayrı 
+düşünülemezler. Online kültürü oluşturmak ve hedef kitleye tutarlı kurumsal mesajları 
+iletebilmek 
+amacıyla 
+sosyal 
+ağlar 
+önemli 
+bir 
+mecradır 
+(Huyse, 
+www.newcommforum.com/2008/?p=20). 
+ 
+Kuruluşların etkili iletişim kurabilmeleri için reklam ve halkla ilişkiler uygulamaları adına 
+birçok iletişim kanalını değerlendirmeleri, web 2.0 ortamları için ayrı stratejiler geliştirmeleri 
+günümüzde kaçınılmaz hale gelmiştir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1140
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KAYNAKÇA 
+ALEXANDER, C. N. (1964), “Concensus and Mutual Attraction in Natural Cliques: A 
+Study of Adolescent Drinkers”, American Journal of Sociology, 69, pp. 395-403. 
+ASNA, A., (1997), Halkla İlişkiler, Public Relations, PR, İstanbul: Sabah Kitapları. 
+BIRKERT, S. (1994), The Gutenberg Elegies, Boston: Faber & Faber. 
+BOYD, D. M., ELLISON N. B. (2007), Social Network Sites: Definition, History, and 
+Scholarship, 13 (1), USA: Journal of Computer Mediated Communication. 
+CROTEAU, D., HOYNES, W. (2003), Media Society: Industry, Images and Audiences, 
+3rd edit, USA: Pine Forge Press. Sage Publications. 
+FISCHER, C. S., (1977), The Contexts of Personal Relations: An Exploratory Network 
+Analysis, Working Paper, Berkeley: University of California, Institute of Urban and 
+Regional Development. 
+FU F., LIU L., WANG L., 2007, Empirical Analysis of Online Social Networks in the 
+Age of Web 2.0, Physica A: Statistical Mechanics and its Applications, Volume 387, 
+Issues 2-3, 15 January 2008, pp. 675-684. 
+GREEN, A. (2006), Effective Communication Skills for Public Relations, London, GBR: 
+Kogan Page Limited. 
+KINCAID, D. Lawrence, (1972), “The Convergence Model of Communication”, 
+Honolulu, East-West Communication Institute, Paper 18. 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1141
+LAMPE, C., ELLISON, N., STEINFIELD, C. (2007). A Familiar Face(book): Profile 
+Elements as Signals in an Online Social Network. Proceedings of Conference on Human 
+Factors in Computing Systems, pp. 435-444, New York: ACM Press. 
+LENHART, A., MADDEN M., MACGILL, A.R., SMITH, A. (2007), Teens and Social 
+Media, Washington: Pew Internet & American Life Project. 
+MCLUHAN, M. (1962), The Gutenberg Galaxy, Toronto: University of Toronto Press. 
+MCLUHAN, M. (1964), Understanding Media: The Extensions of Man, NY, USA: New 
+American Library. 
+MCLUHAN, M., POVERS, B. R., (2001). Global Köy, İstanbul: Scala Yayıncılık. 
+MEYROWITZ, J. (1994), Medium Theory, Communication Theory Today, pp.50-77, 
+USA: Stanford University Press. 
+Milyonlarca Gence Ulaşmanın En Kolay ve En Hızlı Yolu (2008), MediaCat, 2007 Özel 
+Sayısı, Sayı.156, Ocak, İstanbul: Kapital. 
+PATCH, K. (2004). Internet Structure: The Global Nervous System, Boston, MA, USA: 
+Technology Research News. 
+SEITEL, F. P. (2004), The Practice of Public Relations, 9th Ed., USA: Pearson Prentice 
+Hall. 
+SIMMEL, G. (1964), The Web of Group Affiliations, New York: Free Press. 
+TENCH R., YEOMANS L. (2006), Exploring Public Relations, USA: Prentice Hall. 
+WELLMAN B. (1996), An Electronic Group is Virtually a Social Network, Sara Kiesler, 
+ed.,Culture of the Internet, Chapter 9, NJ: Lawrence Erbaum, pp. 179-205. 
+WELLS, W., MORIARTY, S., BURNETT, J. (2006), Advertising Principles and 
+Practice, 7th Ed., USA: Pearson. 
+BARAS,     G.     (2007),     Networking,     (http://www.evancarmichael.com/Business-
+Coach/648/Networking.html, 02.01.2008). 
+BROWN,      D.      (2007),      Using      Social      Networking      for      Business, 
+(http://openforum.com/thread.jspa?threadID=1000702, 01.01.2008). 
+DIGNAN, L.  (2007), Facebook Launches its Ad Platform; Coca Cola as Friend? 
+(http://blogs.zdnet.com/BTL/?p=6910). 
+Facebbok Facts, http://adonomics.com/ (16.01.2008). 
+HAMILTON, B. A.. Network Theory’s New Math, Strategy Business, (www.strategy- 
+business.com, 1 Ocak 2003). 
+HUYSE, K. W. (2008), Livingston “Building Your Brand with Conversational Media: 
+SOSYAL AĞ SİTELERİNİN REKLAM VE HALKLA İLİŞKİLER ORTAMLARI 
+OLARAK DEĞERLENDİRİLMESİ 
+  
+Onat, Alikılıç, 2008  
+ 
+1142
+APR&Geoff (www.newcommforum.com/2008/?p=20). 
+MADDEN, M. (2007), Digital Footprints: Online Identity Management and Search in the 
+Age     of     Transparency,      (http://www.pewinternet.org/PPF/r/229/report_display.asp, 
+09.01.2008). 
+O HEIR, S. (2006), Social Network Ad Spending in the US Could Top $2 Billion by 
+2010, ZD Net, (http://blogs.zdnet.com/social/?p=8 , 02.01.2008). 
+O HEIR, S. (2007), Keeping Tabs on Social Software and Media: Poll: Is Facebook 
+Platform    Good   for   the   Web?,   ZD   Net,    (http://blogs.zdnet.com/social/?p=254, 
+02.01.2008). 
+O HEIR, S. (2007), Social Network Traffic up 11.5 Percent; MySpace Still Dominates, 
+ZD Net, (http://blogs.zdnet.com/social/?p=114 01.01.2008). 
+Social        Network        Ad        Spending        to        Grow        70%        Next        Year, 
+(http://www.marketwire.com/mw/release.do?id=804439&k=social%20network, 
+02.01.2008). 
+TANAKA, W.  (2008), Widget Wave: Bubbling Widget Growth, Forbes Magazine, 
+Jan.02, USA: Forbes Magazine, http://www.forbes.com/technology/2007/12/31/widgets- 
+google-facebook-tech-ebiz-cx_wt_0103widgets.html, 16.01.2008). 
+Teens       Prime       for       Mobile       Social       networks       (2008),       E-Marketer, 
+http://arkadasarama.tr.msn.com/SiberalemTuru1.aspx (04.01.2008). 
+ZUCKERBERGER,   M.   (2007),   Facebook   Social   Advertising:   Facebook  Unveils 
+Facebook 
+Ads, 
+Press 
+Releases, 
+Press 
+Room. 
+http://www.facebook.com/press/releases.php?p=9176, 31.12.2007). 
+http://www.arkamarka.com/index.php?mode=people_card&p_id=312 (04.01.2008). 
+http://blogs.zdnet.com/social/?p=114 
+http://www.emarketer.com/Article.aspx?id=1005764&src=article1_newsltr , 03.01.2008). 
+http://www.facebook.com/apps/application.php?id=14923635102&ref=s ,(04.01.2008). 
+http://www.facebook.com/apps/application.php?id=4996223070&ref=s (04.01.2008). 
+http://www.facebook.com/apps/application.php?id=3545631570&ref=s , (04.01.2008). 
+www.hitwise.com 
+http://www.parliament.vic.gov.au/SARC/E-Democracy/Final_Report/Glossary.htm 
+www.pmforum.co.uk/pmf/Q4smartSite.dll/main?w_session=pqQMeonp366COP&nav=4 5-10k 
+http://valleywag.com/tech/data-junkie/the-world-map-of-social-networks-273201.php 
+http://womma.org/ethics/code 
+   
+ 
+ 
+Journal of Yasar University, 
+3(9), 1111-1143 
+1143
+http://www.insidefacebook.com/2007/09/13/media-companies-dont-understand-facebook/ 
+(04.01.2008). 
+http://interwebhunt.com/2007/10/02/social-networking-etiquette-for-marketing/ 
+http://arkadasarama.tr.msn.com/SiberalemTuru4.aspx (04.01.2008). 
+http://www.arkamarka.com/etkilet/ (04.01.2008). 
+http://www.facebook.com/group.php?gid=7637800015) (04.01.2008 ,(04.01.2008). 
+http://www.yonja.com/?locale=tr_TR (04.01.2008). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

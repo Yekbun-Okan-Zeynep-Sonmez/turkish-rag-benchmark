@@ -1,0 +1,738 @@
+Flora 1999;4(4):245-252
+245
+Toplumda Edinilmiş Pnömoni:
+Etyoloji, Prognoz ve Tedavi
+Neşe SALTOĞLU*, Yeşim TAŞOVA*, Gürkan YILMAZ*, Dürdane MIDIKLI*,
+Fatih KÖKSAL**, Hasan S. AKSU*, İsmail H. DÜNDAR*
+* Çukurova Üniversitesi Tıp Fakültesi, Klinik Bakteriyoloji ve İnfeksiyon Hastalıkları Anabilim Dalı,
+** Çukurova Üniversitesi Tıp Fakültesi, Mikrobiyoloji ve Klinik Mikrobiyoloji Anabilim Dalı, ADANA
+ÖZET
+Bu çal›ﬂmada, Ocak 1996-ﬁubat 1999 tarihleri aras›nda toplumda edinilmiﬂ pnömoni tan›s› konulan 130
+hasta prospektif olarak incelenmiﬂtir. Bu olgularda etkenlerin, prognozu etkileyen faktörlerin belirlenmesi,
+bunlar›n ›ﬂ›¤›nda baﬂlang›ç tedavisinin seçilmesi planlanm›ﬂt›r. Hasta grubunun 78 (%60)’i erkek, 52 (%40)’si
+kad›n; yaﬂ ortalamas› 40.5 ± 13.6 (14-75 yaﬂlar aras›)’d›r. Olgular›n 45 (%35)‘inde altta yatan patoloji tan›m-
+lanm›ﬂ, en s›k nedenler KOAH (%16) ve diabetes mellitus (%10) olarak belirlenmiﬂtir. Pnömoni etkeni, olgu-
+lar›n 57 (%44)’sinde belirlenebilmiﬂtir. En s›k izole edilen patojen Streptococcus pneumoniae (%17) iken, di-
+¤erleri; gram negatif basiller %8, Mycoplasma pneumoniae %7, Chlamydia pneumoniae %5, Staphylococcus
+aureus %4, Legionella pneumophila %3 oranlar›nda saptanm›ﬂt›r. Ortalama ölüm oran› %3 olarak belirlenmiﬂ-
+tir. Olgular›n 52 (%40)’si hastanede yat›r›larak izlenmiﬂtir. 
+Tedavi etkene yönelik ve Amerikan Toraks Cemiyeti ile Türk Toraks Derne¤i’nin önerileri do¤rultusun-
+da planlanm›ﬂt›r. Toplumda edinilmiﬂ pnömoni önemli bir sa¤l›k problemi olmay› sürdürmektedir. Ülkeye öz-
+gü rehberlerin geliﬂtirilmesi ve standart tedavi rejimlerinin oluﬂturulmas› idealdir. Bununla birlikte tüm reh-
+berler uygun prospektif çal›ﬂmalarla desteklenmelidir. Dahas›, hastane d›ﬂ›nda izlenecek hastalar için verilerin
+bildirildi¤i çal›ﬂmalara ihtiyaç vard›r. 
+Anahtar Kelimeler: Toplumda edinilmiﬂ pnömoni, Etyoloji, Prognoz, Tedavi 
+SUMMARY
+Community-acquired Pneumonia: Etiology, Prognosis and Therapy
+In this study, 130 patients with community-acquired pneumonia were prospectively investigated betwe-
+en January 1996 and February 1999. The aim of this study was to determine the initial treatment according
+to the causative agents and prognostic factors. The study group included 78 (60%) men, 52 (40%) women
+with a mean age of 40.5 ± 13.6 years (range 14-75 years). Underlying diseases were found in 45 (35%) ca-
+ses. The major underlying diseases were chronic obstructive lung disease (16%) and diabetes mellitus (10%).
+The cause of pneumonia was diagnosed in 57 (44%) cases, and the most common pathogen was Streptococ-
+cus pneumoniae (17%), followed by gram negative enteric rods (8%), Mycoplasma pneumoniae (7%), Chlamy-
+dia pneumoniae (5%), Staphylococcus aureus (4%) and Legionella pneumophila (3%). The overall death rate
+was 3%. Fifthy two (40%) patients were hospitalized. In patients with community-acquired pneumonia, anti-
+biotic chemotherapy was carried out according to the etiologic agents and the guidelines of the American
+Thoracic Society and the Turkish Thoracic Society.
+Toplumda edinilmiş infeksiyonlar arasında pnö-
+moni değişen epidemiyolojik, klinik özellikleri ve
+bunlarla ilişkili olarak mortalite oranındaki farklılık-
+larla önemli bir sağlık sorunu olma özelliğini sürdür-
+mektedir[1,2]. Pnömonide uygunsuz tedavinin ciddi
+klinik seyire, sonuçta hastanın prognozunda olum-
+suzluğa yol açabileceği bildirilmiştir[3]. 
+Bu nedenle tüm infeksiyon hastalıklarında oldu-
+ğu gibi pnömonide de klinik, laboratuvar, radyolojik
+bulguların eşliğinde hızlı ve doğru tanının konularak
+tedaviye erken başlanması çok önemlidir. Bununla
+birlikte, halen pnömonilerin tanısındaki güçlükler
+nedeniyle çoğu olgunun tedavisine ampirik olarak
+başlanmaktadır[4]. Tanı yöntemlerindeki gelişmelere
+karşın yapılan çalışmalarda etken, olguların ancak
+%50 kadarında saptanabilmiştir[5,6]. Bunun yanısıra,
+Chlamydia pneumoniae gibi yeni patojenlerin top-
+lum kaynaklı pnömonilerde etken olabilmesi, penisi-
+line ve diğer antibiyotiklere dirençli pnömokok suş-
+larının varlığı ise ampirik tedavi seçimini güçleştir-
+mektedir[7]. 
+Pnömonide çeşitli çalışmalarla mortalite evde iz-
+lenen hafif derecede pnömoni tanısı almış hastalar-
+da < %1 iken, hastanede yatan orta derecede şiddet-
+li veya ciddi pnömonili hastalarda %2-30 arasında
+değişmekte[7-10]; yoğun bakım ünitesinde izlenen
+hastalarda ise %37 gibi oranlara çıkmaktadır[11]. Fa-
+taliteye etki eden faktörler 45 ve üzeri yaş, altta ya-
+tan eşlik eden hastalık, mekanik ventilasyon gerekti-
+recek akut solunum yetmezliği ve septik şok olarak
+bildirilmiştir[2,10]. Ciddi seyirli pnömonide mortalite-
+nin yüksekliği hekimin pnömonisi olan hastalarda
+tedavinin evde veya hastanede yapılması arasında
+dikkatli bir seçim yapmasının önemini ortaya koy-
+maktadır[11].
+Bu çalışmada, toplumda edinilmiş pnömoni
+(TEP) tanısı ile izlenen hastalarda etyolojiyi, progno-
+zu etkileyen faktörleri belirlemek ve bunların ışığında
+tedaviyi planlamak amaçlanmıştır.
+HASTALAR ve METOD
+Bu çalışmada Ocak 1996-Şubat 1999 tarihinde
+anabilim dalımız polikliniği ile acil polikliniğe başvu-
+ran ve toplumda edinilmiş pnömoni tanısı konulan
+130 hasta prospektif olarak incelenmiştir. 
+Tüm hastalarda demografik faktörlerden yaş,
+cins, sosyal durum, öyküde; önceki pnömoni, halen
+antibiyotik kullanımı, öksürük, balgam, ateş, dispne,
+baş ağrısı, kas ağrısı, ishal gibi şikayetler, fizik mu-
+ayenede; ateş, nabız, kan basıncı, mental değişiklik-
+ler, solunum sayısı, solunum sistemi muayenesinde;
+ral, tuber sufl ve diğer sistemlere ait pozitif bulgular
+ve eşlik eden durumlar arasında sigara alışkanlığı, al-
+kol öyküsü, obstrüktif akciğer hastalığı, koroner ar-
+ter hastalığı, immünsüpresyon, son bir yıl içinde has-
+taneye yatış gibi durumlar sorgulandı. Altta yatan
+malignitesi ve immünsüpresyonu olanlar ile son bir
+yıl içerisinde hastanede yatış öyküsü olanlar çalışma-
+ya dahil edilmedi.
+Laboratuvar Yöntemleri
+Tüm hastalarda tam kan sayımı, periferik yayma,
+eritrosit sedimentasyon hızı, akciğer grafi bulguları,
+balgam çıkaran hastalarda balgamın Gram ve Giem-
+sa ile inceleme bulguları, balgam kültürü (Bactec
+yöntemi), hastanede yatarak izlenen orta derecede
+(moderate) pnömoni[12] olarak kabul edilen hastalar-
+da ayrıca kan kültürleri alındı, kan gazları sonuçları
+değerlendirildi. 
+Mycoplasma pneumoniae tanısı için soğuk ag-
+lütinasyon testi, ELISA ile IgM ve IgG antikorları
+araştırılması, C. pneumoniae için mikroimmünflore-
+san (MIF) test ile serumda IgM (> 1/16) ve IgG (>
+1/512) antikorların gösterilmesi, Legionella pne-
+umophila tanısında serum örneğinde IFA testi uygu-
+landı.
+Hastanın hastaneye yatırılmasında (Tablo 1) ve
+TEP nedeniyle izlenen tüm hastalara uygulanan te-
+davide kriter olarak Amerikan Toraks Cemiyeti ve
+Türk Toraks Derneği’nin kriterleri esas olarak alın-
+dı[6,13]. 
+BULGULAR
+Toplumda edinilmiş pnömoni tanısı ile izlenen
+130 hastanın 52 (%40)’si kadın, 78 (%60)’i erkek,
+yaş ortalaması 40.5 ± 13.6 (14-75) olarak bulun-
+muştur.
+Hastaların %12’si 65 yaş üzerindedir. Tüm has-
+taların 45 (%34.6)’inde altta yatan KOAH, diabetes
+mellitus, kronik kalp yetmezliği, hipertansiyon gibi
+Flora 1999;4(4):245-252
+246
+Saltoğlu N, Taşova Y, Yılmaz G, 
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+Community-acquired pneumonia remains a major health-care issue. The development of country-speci-
+fic guidelines is an attemp to standardize initial management. But ideally, all such guidelines should be valida-
+ted by appropriate prospective studies. Further studies are also required to provide data on community-ac-
+quired pneumoniae in patients who do not require admission to hospital.
+Key Words: Community-acquired pneumonia, Etiology, Prognosis, Therapy
+Flora 1999;4(4):245-252
+247
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+Saltoğlu N, Taşova Y, Yılmaz G,
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+kronik bir hastalık; ayrıca hastaların %1’inde seya-
+hat öyküsü, %1’inde hayvan teması öyküsü alınmış-
+tır.
+Pnömonili hastaların 75 (%58)’i hızlı klinik seyir
+gösterirken, 55 (%42)’i yavaş ilerleme göstermiştir.
+Hastaların 52 (%40)’si yatarak tedavi görmüştür.
+Klinik bulgular; 98 (%75) hastada 37.8°C’nin
+üzerinde ateş, 97 (%75)’sinde öksürük, 61 (%50)’in-
+de balgam, 28 (%21)’inde plöretik göğüs ağrısı, 13
+(%10)’ünde dispne, 23 (%15)’ünde baş ağrısı, 12
+(%9)’sinde ishal, 16 (%12)’sında titreme, 13
+(%10)’ünde konfüzyon olarak belirlenmiştir.
+Fizik muayenede hastaların 54 (%41.5)’ünde ral,
+26 (%20)’sında ronküs alınırken 50 (%38.5)’sinde
+akciğer seslerinde minimal değişiklikler saptanmış ya
+da normal olarak değerlendirilmiştir.
+Lökosit sayısı 70 (%54)’inde (> 10 000/mm3)
+yüksek, eritrosit sedimentasyon hızı ise (> 25
+mm/saat) 91 (%70)’inde yüksek olarak belirlenmiştir.
+Akciğer grafisinde 56 (%43)’sında lober, 74
+(%57)’ünde bilateral infiltrasyon saptanmıştır (Tablo 2).
+Hastaların 57 (%44)’sinde pnömoni etkeni belir-
+lenebilmiştir. Uygun olarak alınan balgam örneği
+kültüründen 22 (%17)’sinde (bunların ikisinde bal-
+gam + kan kültüründen) Streptococcus pneumoni-
+ae, 10 (%8) hastada gram negatif basiller, 5 (%4)
+hastada Staphylococcus aureus, 9 (%7)’unda M.
+pneumoniae, 7 (%5)’sinde C. pneumoniae, 4
+(%3)’ünde L. pneumophila tespit edilirken, 73
+(%56)’ünde etyolojik ajan belirlenememiştir (Tablo 3
+ve 4). Olguların 6 (%5)’sında ise Gram yaymada bol
+polimorf nüveli lökosit (PNL) ve gram pozitif diplo-
+koklar görülmüş, ancak etken izole edilememiştir.
+Kan kültürü ve balgam kültürü pozitifliği ile stafilo-
+kok pnömonisi tanısı konulan 5 hastanın 2’sinde ge-
+çirilmiş influenza infeksiyonu sonucu pnömoni,
+2’sinde diabet öyküsü, 1’inde travma sonucu geliş-
+miş septik artrit stafilokok infeksiyonu için predispo-
+zan faktörler olarak saptanmıştır.
+Tedavi; etkeni belirlenen olgularda etyolojiye yö-
+nelik olarak uygulanmıştır. Penisiline duyarlı S. pne-
+umoniae’da prokain penisilin 2 x 800 000 U IM,
+hastanede yatan hastalarda 20 milyon  U penisilin
+kristalize 10 gün uygulanmıştır. Penisilin ve sefalos-
+porin direnci nedeniyle 1 olguda vankomisin 2
+g/gün/IV 10 gün süreyle kullanılmıştır.
+M. pneumoniae’da 2x500 mg/gün klaritromi-
+sin veya 4 x 500 mg/gün tetrasiklin 14 gün süre ile
+uygulanmıştır. C. pneumoniae’da makrolidler veya
+tetrasiklin 14 gün süre ile oral yol ile kullanılmıştır.
+L. pneumophila’da 2 x 200 mg/gün IV siproflok-
+sasin + 600 mg/gün oral rifampisin veya 2 x 500
+mg/gün IV klaritromisin + oral rifampisin kullanıl-
+mıştır.
+Orta dereceli pnömoni olarak kabul edilen, has-
+tanede yatırılarak izlenen 65 yaş üzeri ve/veya altta
+yatan hastalığı olanlarda 2. veya 3. kuşak sefalospo-
+rin ya da beta-laktam/beta-laktamaz inhibitörü teda-
+vileri uygulanmıştır. Bu hastalarda ampirik tedavide
+IV yol ile ampisilin/sulbaktam ya da amoksisilin/kla-
+Tablo 1. Toplumda edinilmiş pnömonili hastalarda hastaneye yatırma kriterleri[13]
+Risk faktörleri
+Fizik muayene
+Laboratuvar
+Sosyal endikasyon
+60 yaş ve üzeri hasta
+Solunum sayısı > 30/dakika
+BK < 4000/mm3
+Bakım eksikliği, 
+KOAH
+Sistolik KB < 90 mmHg
+BK > 30 000/mm3
+evsiz veya yalnız 
+Bronşiektazi
+Diastolik KB < 60 mmHg
+Nötrofil < 1000/mm3
+yaşayanlar, mental ve
+Kistik fibrozis
+Ateş > 38.5°C(aksiller)
+Pa02 < 60 mmHg
+fizik özürlüler
+Diabetes mellitus
+Ekstrapulmoner hastalık
+PaCO2 > 50 mmHg
+Kr. böbrek yet.
+Konfüzyon
+Serum kreatinin > 1.2 mg/dL
+Konj. kalp yet.
+BUN > 20 mg/dL (7 mmol/L)
+Kr. karaciğer hast.
+AC grafisinde multilober tutulum,
+Bir yıl içinde pnömoni öyküsü
+kavite, plevral efüzyon, 
+Aspirasyon şüphesi
+hızlı progresyon
+Postsplenektomi
+Hct < %30 veya Hb < 9 g/dL
+Alkolizm
+vulanat veya seftriakson klinik, laboratuvar, radyolo-
+jik bulgular ve olası etkene göre 10-14 gün süre ile
+uygulanmıştır. Gereğinde tedaviye makrolid ilavesi
+yapılmıştır. Hastanın ateşi düştüğünde, klinik bulgu-
+larda düzelme saptandığında uygulanan antibiyotik-
+lerin oral formlarına geçilmiştir (Tablo 5). 
+Ayaktan izlenen ancak etkenin tespit edilemedi-
+ği hastalar haftada iki kez kontrole çağrılarak 14 gün
+süre ile oral 2 x 500 mg/gün makrolid tedavisine
+alınmıştır.
+Klinik izlemde, TEP sadece 65 yaş üzerinde olan
+ciddi pnömonili 4 (%3) hastada ölümle sonuçlanmış-
+tır. Bu olguların 2’sinden stafilokok, 1’inden gram
+negatif basil, 1’inden de pnömokok izole edilmiştir. 
+Flora 1999;4(4):245-252
+248
+Saltoğlu N, Taşova Y, Yılmaz G, 
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+Tablo 2. Toplumda edinilmiş pnömoni tanısı ile izlenen hastalarda bulgular
+• Hasta sayısı
+130 (%100)
+• Hastanın cinsiyeti
+Kadın 52 (%40), erkek 78 (%60)
+• Hastaların yaş ortalaması
+40.5 ± 13.6 (14-75)
+• Altmışbeş yaş üzerindeki hastalar
+16 (%12)
+• Altta yatan hastalıklar:
+KOAH
+9 (%7)
+Diabetes mellitus
+13 (%10)
+Kronik kalp yetmezliği
+5 (%4)
+Hipertansiyon
+18 (%14)
+• Klinik seyir:
+Hızlı
+75 (%58)
+Yavaş progresyon
+5 (%42)
+• Klinik bulgular:
+Ateş (> 37.8˚C)
+98 (%75)
+Öksürük
+97 (%75)
+Balgam
+61 (%50)
+Plöretik göğüs ağrısı
+28 (%21)
+Dispne
+13 (%10)
+Baş ağrısı
+23 (%15)
+İshal
+12 (%9)
+Titreme
+16 (%12)
+Konfüzyon
+13 (%10)
+• Laboratuvar bulguları:
+Lökositoz (> 10 000/mm3)
+70 (%54)
+Sedimentasyon (> 25 mm/saat)
+91 (%70)
+PA AC grafisi
+56 (%43) lober infiltrasyon
+74 (%57) bilateral infiltrasyon
+Tablo 3. Toplumda edinilmiş pnömonili hasta-
+larda etyoloji 
+Etken
+Sayı
+%
+Streptococcus pneumoniae
+22
+17
+Gram negatif basiller
+10
+8
+Staphylococcus aureus
+5
+4
+Mycoplasma pneumoniae
+9
+7
+Chlamydia pneumoniae
+7
+5
+Legionella pneumophila
+4
+3
+Etkeni belirlenemeyen
+73
+56
+Toplam
+130
+100
+TARTIŞMA
+Pnömonide uygun olmayan tedavi hem mortali-
+teyi hem de komplikasyonları arttırmaktadır. Bu ne-
+denle etyolojik tanı prognoz ve tedavi yaklaşımı açı-
+sından önemlidir[14]. Yapılan çalışmalarda TEP’li
+hastalarda ülkelere, bölgeye, hastaların özelliklerine
+göre epidemiyolojik görünümler farklılıklar göster-
+miştir[1]. Bununla birlikte, S. pneumoniae diğer ça-
+lışmalarda olduğu gibi bu çalışmada da TEP’lerde en
+sık saptanan etkendir. Bu çalışmada %17 olarak
+saptanan pnömokokların oranı, Pachon ve arkadaş-
+larının %10, Farr ve arkadaşlarının %18, Mal ve ar-
+kadaşlarının %20 olarak bildirilen oranlarına ben-
+zer[10,15,16], buna karşılık diğer çalışmalardaki %33
+ile %80 oranlarından[1,2,8,15] düşük olarak belirlen-
+miştir. Ülkemizde yapılan bir başka çalışmada S.
+pneumoniae %52 oranında bildirilmiştir[17]. Moine
+ve arkadaşları pnömokoksik pnömonili hastalarda
+başvurudan önce antibiyotik alanlar ile almayanlar
+arasında mikrobiyolojik tanı açısından anlamlı fark
+bulduklarını bildirmişlerdir[16]. Aynı araştırmacılar S.
+pneumoniae’ya karşı etkili bir tedavinin etkenin
+canlılığını ve kültürde üremesini azaltabildiğini sa-
+vunmuşlardır[16]. Bu çalışmada da olguların bir kıs-
+mında bize başvurmadan önce aldıkları tedavinin
+kültür sonuçlarını etkilediği düşünülmüştür. Kültür
+pozitifliği dışında, pnömokoksik pnömoni tanısı ko-
+nulan olguların %5’inde Gram yaymanın pozitifliği
+yanında klinik, radyografik bulgulardan yararlanıl-
+mıştır. Çoğu çalışmada S. pneumoniae’da balgam
+örneğinin uygun alınması koşulu ile Gram inceleme-
+sinin duyarlılığının %50-60, özgüllüğünün > %80 ol-
+duğu belirtilmiştir[18-20].
+TEP’de L. pneumophila, M. pneumoniae, C.
+psittaci gibi etkenler %11-30 oranlarında bildirilmiş-
+tir[21,22]. L. pneumophila, Woodhead ve arkadaşla-
+rının %3 oranındaki çalışmalarına benzer olarak bu
+çalışmada da düşük oranlarda saptanmış olup TEP
+nedenleri arasında sık rastlanmadığını desteklemek-
+tedir[23]. Mikoplazma pnömonisi atipik pnömonili
+hastalar içinde en sık oranda saptanmakla birlikte bi-
+zim oranımız diğer çalışmalardan düşüktür. Bu IgG
+pozitifliği saptanan hastalarda kantitatif ölçümün ya-
+pılamaması gibi tanı yöntemi ile de ilişkili olabilir. C.
+pneumoniae diğer çalışmalarda %6-34 oranların-
+da[24,25] bildirilmekte olup, bu çalışmadaki düşük
+oran (%5); yaş grubu, hospitalizasyon vb. gibi seçi-
+len hasta popülasyonun farklılıkları ile de ilişkili ola-
+bilir. 
+TEP etkeni olarak gram negatif basiller %9-20
+oranlarında bildirilmiş olup en sık etken Klebsiella
+pneumoniae’dır ve genellikle altta yatan patoloji ile
+Flora 1999;4(4):245-252
+249
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+Saltoğlu N, Taşova Y, Yılmaz G,
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+Tablo 4. Toplumda edinilmiş pnömonili has-
+talardan saptanan etkenlerin dağılımı
+Etken
+Sayı
+Oran %
+S. pneumoniae
+22
+39
+Gram negatif basiller
+10
+17
+S. aureus
+5
+9
+M. pneumoniae
+9
+16
+C. pneumoniae
+7
+12
+L. pneumophila
+4
+7
+Toplam
+57
+100
+Tablo 5. Toplumda edinilmiş pnömonili hastalarımızda uygulanan tedavi
+Uygulanan tedavi
+Tedavi süresi
+• Hastane dışında ayaktan tedavi edilen hastalar
+S. pneumoniae
+Penisilin IM
+7-10 gün
+Atipik mikroorganizmalar
+Makrolid veya tetrasiklin oral
+10-14 gün
+Ampirik tedavi
+Makrolid oral
+14 gün
+• Hastanede yatarak tedavi edilen hastalar
+S. pneumoniae
+Penisilin ve türevleri IV
+7-10 gün
+Atipik mikroorganizmalar
+Makrolid IV
+14 gün
+Ampirik tedavi
+2. veya 3. kuşak sefalosporin IV veya
+14 gün
+beta-laktam + beta-laktamaz kombinasyonu
+± makrolid
+ilişkilidir[10]. Bu çalışmada da %8 oranında gram ne-
+gatif pnömoni saptanan hastalarda > 55 yaş ve/ve-
+ya diabetes mellitus, kronik alkol öyküsü gibi predis-
+pozan faktörler saptanmış, hastalar hastanede yatı-
+rılarak izlenmiştir. Bir başka çalışmada benzer risk
+gruplarında gram negatif etkenler %9.6 oranında
+Pseudomonas ve diğer gram negatifler olarak bildi-
+rilmiştir[16].
+Farr ve arkadaşları TEP’li hastalarda stafilokok-
+sik pnömoni oranını %9 oranında bildirmişlerdir.
+Özellikle risk gruplarında influenza infeksiyonu son-
+rası bu etkene rastlanmaktadır[15]. Bu çalışmada da
+benzer risk faktörüne sahip olgularda oran %4 ola-
+rak saptanmış, aynı etken kan kültürlerinden de izo-
+le edilebilmiştir. Prognozun kötü olduğu bu olgularda
+uygun tedavi seçimi ile hastanın yakın takibi önemli-
+dir. Ayrıca risk gruplarında profilaktik amaçlı influen-
+za ve pnömokok aşılarının uygulanmasının infeksi-
+yonları önlemede yararlı olacağı kanısındayız. 
+Bu çalışmada Haemophilus influenzae’ya ait
+üreme bildirilmemiştir. Altta yatan akciğer hastalığı
+veya kardiyak problemi olan, 65 yaş üzeri hastalar-
+da beklenen bu patojenin izole edilmesi için özel be-
+siyeri ve koşullar gerektirmesi gerçek oranların sap-
+tanmasını engellemektedir. Bu nedenle predispozan
+faktöre sahip olgularda ampirik tedavide H. influen-
+zae’ya da etkili ajanların seçilmesine dikkat edilmeli-
+dir. 
+Fransa’da yapılan çok merkezli bir çalışmada
+hastaneye yatmadan önce antibiyotik almamış olan
+89 hastadan %79’una, antibiyotik almış olan 46
+hastanın ise %59’una mikrobiyolojik tanı konulabil-
+miştir[26]. Woodhead ve arkadaşlarının[23] çalışmala-
+rına benzer şekilde bizim çalışmamızda da hastaların
+%56’sında mikrobiyolojik tanı konulamamıştır. Bu
+çalışmada da olguların %20’sinde bize başvurmadan
+önce antibiyotik kullanım öyküsü mevcuttu. Ülke-
+mizde KOAH’ın akut alevlenmelerinde yapılan bir
+çalışmada hastaların ancak %38’inde etken belirle-
+nebilmiş, bunların %35’ini H. influenzae, %20’sini
+ise S. pneumoniae oluşturmuştur[27]. 
+Pnömoni izleminde sigara içme, akciğer hastalı-
+ğı, konjestif kalp yetmezliği önemli morbidite ve
+mortalite nedeni olarak bildirilmiştir. Mortalitenin
+yaş, diabetes mellitus, neoplastik hastalık, nörolojik
+hastalık, konjestif kalp yetmezliği gibi altta yatan
+hastalıklar, bakteremi ve radyografik bulguların yay-
+gınlığı ile artış gösterdiği bildirilmektedir[7,20]. Bu ça-
+lışmada da bu faktörlerin prognoza etkisi araştırıl-
+mış, mortalitenin 65 yaş üzeri ve/veya eşlik eden
+hastalığı olanlarda daha yüksek olduğu gözlenmiş,
+ancak ölüm oranının yüksek olmayışı nedeniyle ista-
+tistik olarak anlamlı sonuç elde edilememiştir. Şüp-
+hesiz ülkemizdeki verileri sunabilmek için de olgu sa-
+yısının fazla olduğu çok merkezli çalışmalara ihtiyaç
+vardır.
+Pnömoni tedavisinde farklı ülkelerde farklı uygu-
+lamalar yapılmakla birlikte en sık kullanılan antibiyo-
+tikler penisilin ve türevleri ile makrolidlerdir. Çok
+merkezli çalışmalarda amoksisilin/klavulanik asit ve
+makrolidlerle tedavide benzer klinik sonuçlar bildiril-
+miştir[7]. 
+Pnömokoksik pnömonide etken izole edildiğinde
+halen en seçkin antibiyotik penisilin G’dir[7,26,28].
+Son yıllarda pnömoni tedavisinde önemli bir sorun,
+bu çalışmadaki bir olguda izlendiği gibi penisiline ve
+sefalosporinlere yüksek dirençli pnömokokların et-
+ken olduğu infeksiyonlardır. Bu olguda yüksek peni-
+silin direnci nedeniyle vankomisin tedavisi uygulan-
+mıştır. Yurt dışında yapılan çalışmalarda %25-41 gi-
+bi farklı oranlarda penisilin direnci bildirilmekte-
+dir[30]. Ülkemizde ise bu oran %13-38.5 olarak bil-
+dirilmiştir[31]. Penisiline dirençli S. pneumoniae ile
+(MİK > 2 µg/mL) oluşan infeksiyonların tedavisinde
+sefalosporinlerin kullanılabileceği bilinmekle birlikte
+pnömokoklardaki sefalosporin direncinin de %9’lara
+kadar çıkması seçimde dikkatli olmayı gerektirir. Bu
+suşlarda vankomisin kullanımı önerilmiştir[7,32].
+TEP’lerin yaklaşık yarısında etkenin izole edile-
+meyişi başlangıç tedavisinde etkin, kurallara uygun
+bir ampirik tedavi yaklaşımını zorunlu kılmaktadır.
+TEP’de tedavide ikinci kategoride yer alan[33]; hasta-
+ne dışında izlenen hastalarda etken izole edilemedi-
+ğinde ampirik tedavide penisilin yerine makrolidlerin
+kullanılabileceği, bunun S. pneumoniae’da penisili-
+ne iyi bir alternatif olabileceği bildirilmiştir[7]. Ayrıca
+yeni makrolidler atipik pnömoni etkenlerine ve H.
+influenzae’ya da etkilidirler. Bu nedenle yeni mak-
+rolidlerin ayaktan tedavi edilen hastalarda seçilmesi-
+nin monoterapiye olanak sağlayacağı bildirilmiş-
+tir[29].
+Hastanede yatarak tedavi edilen, eşlik eden bir
+hastalığı olan ve/veya 65 yaş üzeri kişilerdeki ampi-
+rik tedavide, bu çalışmada da olduğu gibi beta-lak-
+tam/beta-laktamaz inhibitörleri ya da ikinci/üçüncü
+kuşak sefalosporinler seçilmelidir[4,7,13,29,33]. Atipik
+etkenleri kapsayacak şekilde makrolidlerle kombine
+tedavi ampirik yaklaşımda önerilmiştir[2,7,13,33]. Te-
+davide seçilen ajanların pek çoğunun ardışık tedavi-
+ye uygun olması hastaların bu çalışmada da olduğu
+gibi parenteral tedaviyi takiben klinik iyileşme ile bir-
+likte oral tedaviye geçişe ve taburcu edilerek evde iz-
+Flora 1999;4(4):245-252
+250
+Saltoğlu N, Taşova Y, Yılmaz G, 
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+lenmelerine olanak vermektedir[4]. Hastane dışında
+tedavi ettiğimiz olgularda da tedavide sorunla karşı-
+laşılmamıştır. Bunda hastanın tanısının uygun şekil-
+de konularak tedavinin yönlendirilmesi elbette
+önemlidir. Bununla birlikte hastaların düzenli bir bi-
+çimde kontrollere gelmesinin, tedavilerinin düzenli
+uygulanmasının kısacası hasta uyumunun rolü inkar
+edilemez. Bu sonuçlar, en kısa sürede konulan uy-
+gun tanı, uygun tedavi ve dikkatli izlemle pnömonili
+hastalarda risk grupları dışında tedavinin hastane dı-
+şında da uygulanabileceğini ortaya koymuştur. Kuş-
+kusuz, bunun diğer bir yönü de olgular hastane dışın-
+da izlendiği için hasta bakımı maliyetlerinin ve nozo-
+komiyal infeksiyon riskinin de azalmasıdır. 
+Hastanede yatırılması gereken TEP’li hastalarda
+mortalite hızı %5-22 arasında değişmektedir. Bu ça-
+lışmada mortalite oranı %3 gibi düşük saptanmıştır.
+Bu oranın düşüklüğü; çoğunluğu orta derecede pnö-
+monili hastaların oluşturmasının yanısıra, sosyo-kül-
+türel seviyede düşüklük, evde bakacak kimsenin ol-
+mayışı gibi sosyal endikasyonlarla yatırılan olguların
+%25 gibi küçümsenmeyecek bir oranda olmasıyla da
+ilişkili olabilir. 
+Sonuç olarak; TEP ciddi bir hastalıktır, önemli öl-
+çüde morbiditeye ve özellikle ciddi pnömoni önemli
+oranda mortaliteye de neden olabilmektedir[4]. An-
+cak yurdumuzda çoğu TEP birinci basamak sağlık
+hizmetlerinin verildiği sağlık birimlerinde tedavi edil-
+diğinden ve bu merkezlerde gerek balgam inceleme-
+leri gerekse diğer serolojik tetkiklerin yapılması, hat-
+ta çoğu kez grafi çekilmesi olanağı olmadığından; bu
+olguların ampirik tedavisinin S. pneumoniae ve M.
+pneumoniae’yı kapsayacak şekilde seçilmesi, teda-
+viye en kısa sürede başlanılması; ayrıca hastanın 48-
+72 saat içinde mutlaka yeniden değerlendirilmesi,
+tedavinin olumsuz seyrinde ise olanakları daha iyi bir
+merkeze sevki hastalığın prognozunda önemli gö-
+rünmektedir. Ülkeye özgü geliştirilen kılavuz, başlan-
+gıç tedavisinin standart hale getirilmesine yönelik-
+tir[13]. Bununla birlikte bu kılavuzların geçerliliğini
+sürdürecek uygun prospektif çalışmaların yapılması-
+na da ihtiyaç vardır.
+KAYNAKLAR
+1.
+Gomez J, Banos V, Gomez JR, et al. Prospective study
+of epidemiology and prognostic factors in community-ac-
+quired pneumonia. Eur J Clin Microbiol Infect Dis 1996;
+15:556-60.
+2.
+Rello J, Quintana E, Ausina V, Net A, Prats G. A three-
+year study of severe community-acquired pneumonia
+with emphasis on outcome. Chest 1993;103:232-5.
+3.
+Venkesaten P, MacFarlane JT. Epidemiology and patho-
+genesis of prevention of pneumonia. Curr Opin Infect
+Dis 1991;4:145-9.
+4.
+Mandell LA. Community-acquired pneumonia: Etiology,
+epidemiology, and treatment. Chest 1995;108:35-42.
+5.
+Karalus NC, Cursons RT, Leng RA, et al. Community ac-
+quired pneumonia: Aetiology and prognostic index eva-
+luation. Thorax 1991;46:413-8.
+6.
+American Thoracic Society. Guidelines for the initial ma-
+nagement of adults with community-acquired pneumo-
+nia: Diagnosis, assesment of severity, and initial antimic-
+robial therapy. Am Rev Respir Dis 1993;148:1418-26.
+7.
+Bartlett JG, Breiman RF, Lionet AM, File TM. Commu-
+nity-acquired pneumonia in adults: Guidelines for mana-
+gement. Clin Infect Dis 1998;26:811-36. 
+8.
+Fine MJ, Smith MA, Carson CA, et al. Prognosis and
+outcomes of patients with community-acquired pneumo-
+nia. JAMA 1996;275:134-41.
+9.
+Fine MJ, Auble TE, Yealy DM, et al. A predilection rule
+to identify low-risk patients with community-acquired
+pneumonia. N Engl J Med 1997;336:243-50.
+10. Pachon J, Prados MD, Capote F, Cuello JA, Garnacho
+J, Verano A. Severe community-acquired pneumonia:
+Etiology, prognosis, and treatment. Am Rev Respir Dis
+1990;142:369-73.
+11. Fine MJ. Hospitalization decision in patients with com-
+munity-acquired pneumonia: A prospective cohort study.
+Am J Med 1990;89:713-21.
+12. Brancati FL, Chow JW, Wagener MM, Vacarello SJ, Yu
+VL. Is pneumonia really the old man’s friend? Two-year
+prognosis after community-acquired pneumonia. Lancet
+1993;342:30-3.
+13. Toraks Derneği Solunum Sistemi İnfeksiyonları Çalışma
+Grubu. Toplum Kökenli pnömoni tanı ve tedavisi. Türk
+Uzlaşı Raporu Taslağı. Pnömoni sempozyumunda,
+7.2.1998, Adana. 
+14. Torres A, Serra-Batlles J, Ferrer A, et al. Severe commu-
+nity-acquired pneumonia: Epidemiology and prognostic
+factors. Am Rev Respir Dis 1991;144:312-8.
+15. Farr BM, Sloman AJ, Fisch MJ. Predicting death in pa-
+tients hospitalized for community-acquired pneumonia.
+Ann Intern Med 1991;115:428-36.
+16. Moine P, Vercken JB, Chevret S, Chastang C, Gajdos P.
+Severe community-acquired pneumonia: Etiology, epide-
+miology, and prognosis factors. Chest 1994;105:1487-
+95.
+17. Konya T, Kırdar S, Yüce A, Uçan ES, Çımrın A. Hasta-
+ne ve toplum kökenli pnömonilerde direnç sorunu. İnfek-
+siyon Derg 1994;(3-4):107-9.
+18. Bohte R, Hermans J, van den Brock PJ. Early recogniti-
+on of Streptococcus pneumoniae in patients with com-
+munity-acquired pneumonia. Eur J Clin Microbiol Infect
+Dis 1996;15:201-5.
+19. Boerner DF, Zwadky P. The value of the sputum gram’s
+stain in community-acquired pneumonia. JAMA 1982;
+247:642-5.
+20. Bartlett JG, Mundy L. Community-acquired pneumonia
+1995;333:1618-24.
+21. MMWR. Outbreaks of Mycoplasma pneumoniae respi-
+ratory infection-Ohio, Texas, and New York, 1993. JA-
+MA 1994;271(5):338-9.
+22. Lieberman D, Shvartzman P, Lieberman D, et al. Eti-
+ology of respiratory tract infection in adults in a general
+Flora 1999;4(4):245-252
+251
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+Saltoğlu N, Taşova Y, Yılmaz G,
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+Flora 1999;4(4):245-252
+252
+Saltoğlu N, Taşova Y, Yılmaz G, 
+Mıdıklı D, Köksal F, Aksu HS, Dündar İH.
+Toplumda Edinilmiş Pnömoni: Etyoloji, Prognoz ve Tedavi
+practice setting. Eur J Clin Microbiol Infect Dis 1998;
+17:685-9. 
+23. Woodhead MA, MacFarlane JT. Prospective study of ae-
+tiology and outcome of pneumonia in the community.
+Lancet 1987;21:671-4.
+24. Blasi F, Cosentini R, Legnani D, Denti F, Allegra R. Inci-
+dence of community-acquired pneumonia caused by
+Chlamydia pneumoniae in Italian patients. Eur J Clin
+Microbiol Infect Dis 1993;12:696-9.
+25. Herrmann B, Mam S, Yousif BE , Abdelwahab O, Mardh
+PA. Chlamydial etiology of acute lower respiratory tract
+infections in children in the Sudan. Acta Paediatr 1994;
+83:169-72.
+26. Moine P, Vercken JB, Chevret S, Gajdos P and French
+study group of community-acquired pneumonia in ICU.
+Severe community-acquired pneumococcal pneumonia.
+Scan J Infect Dis 1995;27:201-6.
+27. Özkan F, Saydam C, Büke Ç, Tokbaş A, Sayıner A. Kro-
+nik obstrüktif akciğer hastalığı alevlenmelerinde etken
+mikroorganizmalar ve in vitro antibiyotik duyarlılıkları. İn-
+feksiyon Derg 1996;10(2):163-5.
+28. Eraksoy H. Toplumda edinilmiş pnömonilerde empirik
+tedavi yaklaşımı. Galenos 1997;7:40-1.
+29. Eraksoy H. Toplum kökenli pnömonilerde empirik teda-
+vi yaklaşımı. Uçan ES (ed). Pnömoniler; Bir Devin Uya-
+nışı kitabında. İzmir: Saray Tıp Kitabevleri, 1995:23-40.
+30. Hofmann J, Cetron M, Farley MM, et al. The prevalen-
+ce of drug-resistant Streptococcus pneumoniae in At-
+lanta. N Engl J Med 1995;333:481-6.
+31. Taşova Y, Saltoğlu N, Dündar İH. Çok ilaca dirençli pnö-
+mokokal menenjit: Bir olgu sunumu. Flora 1998;3(2):
+134-9.
+32. Pallares R, Linares J, Vadillo M, Cabellos C. Resistance
+to penicillin and cephalosporin and mortality from seve-
+re pneumococcal pneumoniae in Barcelona, Spain. N
+Eng J Med 1995;333:474-80.
+33. Marrie TJ. Community-acquired pneumonia. Clin Infect
+Dis 1994;18:501-15.
+Yazışma Adresi: 
+Doç. Dr. Neşe SALTOĞLU
+Çukurova Üniversitesi Tıp Fakültesi
+Klinik Bakteriyoloji ve İnfeksiyon 
+Hastalıkları Anabilim Dalı
+01330 ADANA
+Makalenin Geliş Tarihi: 18.03.1999
+Kabul Tarihi: 10.06.1999
+f l o r a
+f l o r a
+İNFEKSİYON HASTALIKLARI ve KLİNİK MİKROBİYOLOJİ 
+DERGİSİ’ne MAKALE GÖNDERECEK OLAN YAZARLARA 
+DUYURU
+LÜTFEN DERGİMİZE MAKALE GÖNDERMEDEN ÖNCE 
+DERGİNİN YAZARLARA BİLGİ BÖLÜMÜNDE BELİRTİLEN
+YAZIM KURALLARININ TÜMÜNE UYGUN OLUP
+OLMADIĞINI GÖZDEN GEÇİRİNİZ
+TEŞEKKÜRLER

@@ -1,0 +1,677 @@
+Özet: Toplumu bir sistem olarak ele alıp açıklamaya çalışmak, toplumsal örgütlenme-
+yi, işleyişi ve değişimi bilimsel bir sistem teorisi içinde açıklamanın mümkün olduğunu 
+kabul etmektir. Her toplum oldukça kompleks olan ve çok sayıda bileşeni bulunan bir sis-
+temdir. Sistem, içinde yer alan yapı unsurlarının her birinin diğerleriyle bağıntılı olduğu 
+bir bütünlüğü ve organize olmuşluğu ifade eder. Gerek sistemi oluşturan yapı unsurla-
+rının oluşması, gerekse bunlar arasında organize bir bütünlüğün gerçekleşmesi, unsur-
+lardan her birinin kendi işlevini yerine getirmesine bağlıdır. Toplumsal sistemi oluşturan 
+unsurların her biri, sistemin oluşması ve varlığını sürdürmesi ile ilgili özel işlevleri ye-
+rine getirmesi ölçüsünde vazgeçilmez bir önem taşımaktadır. Dinamik bir dengesi olan 
+sistem, sürekli hareket halinde olan, değişen ama buna rağmen dengesini koruyabilen bir 
+özelliğe sahiptir. Temel başlangıç noktası eylem olan toplumsal sistem analizinde, en alt 
+birim olma özelliği gösteren birey, başkalarıyla etkileşimi çerçevesinde ele alınır. Bu et-
+kileşim, bireyin sahip olduğu toplumsal statüye bağlı olarak rol beklentisine göre hareket 
+etmesine bağlıdır. Bundan dolayı toplumsal sistem analizinde, öncelikli olarak toplumsal 
+statü ve rol kavramını ele almak daha yerinde olacaktır.
+Anahtar Kelimeler: Sistem, toplumsal sistem, toplumsal statü, toplumsal rol.
+Social Status and Role in the Analysis of Social System
+Abstract: Considering and trying to examine society as a system means accepting 
+the fact that social organization, social functioning and change could be explained 
+through a scientific theory of system. Each society is a complex system with a number of 
+components. A system refers to a unity in which each of the structural elements within 
+it is connected with each other and to organization. Both the formation of structural 
+elements that constitute the system and the realization of an organized unity depend on 
+the proper functioning of each of these elements. Each one of the elements of social 
+system is indispensable to the extent that they carry out their specific functions in the 
+formation and existence of the system. A system with a dynamic balance is mobile and has 
+a changing characteristic; however, it manages to maintain this balance despite change. 
+In social system analysis, in which basic starting point is action, the individual, who is the 
+smallest unit, is evaluated in terms of his interaction with others. This interaction depends 
+on the individual’s act in accordance with his expected role. Therefore, it will be useful to 
+discuss the concepts of social status and role first in social system analysis. 
+Key Words: System, social system, social status, social role. 
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+*) Yard. Doç. Dr., Atatürk Üniversitesi, Kazım Karabekir Eğitim Fakültesi. 
+ 
+(e-posta: t.ceylan@atauni.edu.tr)
+Tuncay CEYLAN (*)
+Atatürk Üniversitesi Sosyal Bilimler Enstitüsü Dergisi 2011 15 (1): 89-104
+90 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+1. Toplumsal Sistem
+Sosyolojide toplumlara ve toplumların oluşturdukları bütünlüklere verilen isim ol-
+makla beraber, sistem, sadece sosyal bilimlere özgü bir kavram değil, aynı zamanda bü-
+tün doğa bilimlerinde de yer almaktadır.
+Sistem kavramı tekil faaliyetler ve parçalar yerine; makineleri, organizmaları, top-
+lumsal ve psikolojik bütünlüğü içerir. Sistemler, unsurların ve ilişkilerin bileşimleridir, 
+kendilerinden her zaman daha karmaşık olan çevrelerinden de sınırlarla ayrılırlar. Sistem 
+ve yerleşik olduğu çevre arasındaki karmaşıklık farkı, sistem teorisinin temel sorunudur 
+ve herhangi bir işlevsel analizde referans alınacak nihai noktadır (Outhwaite, 2008:665).
+Toplumsal sistemler, etkileşimler ve örgütlenmelerin oluşturduğu bir bütünlüğü dile 
+getirir ve faaliyetleri koordine ederler. Ancak bunlar, yaşam dünyaları ya da yaşamın sos-
+yo-kültürel biçimleri değildirler, aktörlerin amaçlarını koordine etmeleriyle nitelenirler. 
+Bu niteleme, aktörlerin kendi bakış açılarından yorumlanabilir ve anlamlı bir bağda be-
+lirginleşir. Hal böyle olunca, toplumsal sistemlerin anlaşılabilir ya da yanlış anlaşılabilir 
+olması veya daha önceki bir uzlaşmanın ifadesi ya da bilinçli bir uzlaşmanın uygulaması 
+olması söz konusu değildir. Toplumsal sistemler, bir gözlemcinin ya da gözlemci bir sis-
+temin bakış açısına göre nesnel bakımdan işlevsel bir bütünü ortaya koyarlar.
+1.1. Toplumsal Sistemin Öngereklilikleri 
+Her toplum bir bütündür, yani birbiriyle ilintili unsurların oluşturduğu bir sistemdir. 
+Sistemi oluşturan unsurlardan her biri kendi işlevini yerine getirerek, sistemin bütün-
+lüğüne ve uyumuna katkıda bulunur. Toplumsal sistemi oluşturan unsurlardan her biri, 
+sistemin ihtiyaçları ile ilgili özel işlevleri yerine getirme ölçüsünde vazgeçilmez bir önem 
+taşımaktadır. Sistemin korunması açısından zorunlu olan, genelleşmiş koşulları göste-
+ren işlevsel öngereklilikler bulunur. Bu işlevsel öngereklilikler arasında bireyin çevresi 
+ile ilişki kurması koşulu, rol farklılaşması ve rol dağıtımı, ortak bilişsel yönelimler ile 
+ifade edilmiş hedefler, araçların normatif bir düzene sokulması, duygusal tavırların dü-
+zenlenmesi, toplumsallaşma ve sapkın davranışların toplumsal denetimi gibi unsurlar yer 
+alır (Parsons,1964:26-28). İşlevsel öngerekliliklerin çoğu her toplum anlayışında örtük 
+biçimde bulunan özelliklerdir. Parsons öngereklilikleri daha sonra gruplandırarak dört 
+başlık altında toplamıştır: Adaptasyon, hedefe ulaşma, bütünleşme ve gizilgüç. Adaptas-
+yon, değişen sistemin kendi ihtiyaçları doğrultusunda denetlenmesi ve adapte edilmesi-
+ne; hedefe ulaşma, özgül hedeflere ulaşmayı sağlayacak kaynakların harekete geçirilip 
+metodolojik bakımdan bu tür hedeflerin peşinden koşturulmasına; bütünleşme, sistem içi 
+dayanışmaya, onun birlik isteyen bir bütün şeklinde ayakta kalmasına; gizilgüç ise, moti-
+vasyon biçimini alan enerjinin biriktirilip dağıtılmasına işaret eder. Dördüncü değişkene 
+modelin korunması ve gerilimin yönetimi adı da verilmektedir (Swingewood,1998:274).
+1.2. Toplumsal Sistemin Özellikleri
+Hangi özelliklere sahip olursa olsun her toplum bir sistemdir ya da bir sisteme sa-
+hiptir. Sistem olma özelliğine sahip her toplumda bir düzen vardır. Bu düzen, toplumu 
+oluşturan bireylerin kendi aralarında gruplaşmasından, örgütlenmesinden ve ilişkilerinin 
+91
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+düzenlenmiş olmasından kaynaklanmaktadır. Grupları oluşturan, örgütlenmeyi gerçek-
+leştiren bireylerin benzer ve ortak özellikleri bulunmakta ve belirli kurallar çerçevesinde 
+birbirleriyle ilişkiye girmektedirler. Toplumsal ilişkiler, ilişkide bulunan unsurlarla bir-
+likte bir sistem oluşturmakta ve aynı zamanda bir sisteme göre işlemektedir. Dolayısıyla 
+toplumsal sistem, kendisini oluşturan unsurlardan ve onlar arasındaki ilişki ağından başka 
+bir şey değildir ve her bir unsur belli normlara göre hareket etmekte, belli işlevleri yerine 
+getirmektedir. 
+Yapısal-fonksiyonel modelin temsilcisi ve toplumsal sistem teorisinin mimarı di-
+yebileceğimiz Parsons’un işlevselciliği, sosyolojide sistemler kuramını en eksiksiz bi-
+çimde kullanan modeldir. Toplumu bir sistem olarak gören anlayış en ayrıntılı biçimde 
+Parsons’çu işlevselcilikte geliştirilmiştir. İlk dönem Amerikan sosyolojisinin atomistik, 
+bireyci teorik yaklaşımını reddeden Parsons, tutarlı bir biçimde bir toplum teorisinin ol-
+gulardan kurulamayacağını ileri sürüyordu. Bir olgu, daima kavramsal bir şemaya göre 
+söze dökülen bir deneyimin açıklanmasıdır. Parsons toplumsal sistemde deneyimin ro-
+lünü yok saymamakla birlikte onu sadece olgulara ve deneye indirgemez (Swingewo-
+od,1998:275).
+Toplumu organizmaya benzeten organizmacı yaklaşımdan oldukça fazla izler taşıyan 
+Parsons’çu yaklaşıma göre toplum bir sistemdir. Toplum, birbirine bağımlı olan ve her 
+biri meydana getirdiği bütünün en üst düzeyde uyumunu sağlamak için belli işlevleri ye-
+rine getiren unsurlardan oluşan bir sistemdir. Bu unsurların sistemi oluşturması, işlevsel 
+bir bütünleşme içinde olmalarına bağlıdır (Kongar,1979:52-53).
+Belli unsurlardan oluşan ve sistem olma özelliği gösteren toplum, kendi bünyesinde 
+alt sistemleri de bulundurur. Bireyler arası ilişkilerin ürünü olan alt sistemlerin yapısal 
+ve işlevsel bütünlüğü ise sistemi oluşturur. Bir sistemin alt sistem ya da sistem olarak 
+nitelendirilmesi, yapı ve işlev açısından bulunduğu konuma bağlıdır. Ekonomik sistem 
+toplumsal sistemin içinde yer alır, toplumsal sisteme göre bağımsızlık derecesi daha dü-
+şüktür. Çünkü toplumsal sistemin bünyesinde bulunan diğer alt sistemlere bir şekilde 
+bağlıdır. Mesela ekonomik sistem hukuk sisteminden ve politik sistemden bağımsız ola-
+maz. Bundan dolayı her bir sistemin hareket alanı ve genişliği aynı değildir, çünkü siste-
+min sınırları kendi doğası tarafından belirlenir.
+Toplumsal sistem kendi kendine yeten ve kendi kendisini düzenleyen bir bütündür. 
+Dinamik bir özelliğe sahip olmakla beraber bir istikrarı ifade eder. Dinamik özellikte olan 
+toplumsal sistem, belli sınırlar içinde değişebilen, kendini yenileyebilen ve aynı zamanda 
+istikrarını koruyarak varlığını sürdürebilen bir bütündür. Dinamik bir dengesi olan top-
+lumsal sistem, sürekli hareket halinde olan, değişen ama buma rağmen dengesini koruya-
+bilen bir özelliğe sahiptir (Dönmezer,1998:138). Sistem, belki zihinlerde statik kavramını 
+çağrıştırmaktadır, ama gerçek olan şu ki, kendini koruması ve varlığını sürdürmesi onun 
+dinamik olmasına bağlıdır. Toplumsal sistemin kalıplaşmış bir düzeni ve yapıyı koruya-
+rak varlığını sürdürmesi olası değildir, ancak kendini yenileyerek, geliştirerek var olabilir. 
+Dinamizmini kaybeden toplumların çağa ayak uydurması, varlığını sürdürmesi düşünü-
+lemez. Toplumsal sistem bir yönüyle statik bir yönüyle de dinamiktir ki, bunu Comte 
+92 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+sosyal statik ve sosyal dinamik şeklinde ifade etmiştir. Toplumsal sistem temelde üyele-
+rinin kalıplaşmış davranış biçimlerinden oluşmakla birlikte, üyelerinin mevcut davranış 
+kalıplarının dışına çıkmasını engelleyemez ve üyelerinden mutlak anlamda bir bağımlılık 
+bekleyemez. Toplumsal sistem teorisine göre kalıpların dışına çıkılması; toplumsal dina-
+mizmin işlevsel olması, sistemin kendini yenilemesi ve evrimleşmesi demektir.
+Toplumsal sistemdeki bütünleşmede, sistemin bütün unsurlarının ve alt sistemlerin 
+kusursuz bir şekilde bütünleşmesi mümkün değildir. Toplumsal sistemlerin genel eğilimi, 
+bütünleşmenin ve uyumun sağlanması ve sürekli kılınması olmakla beraber bunun tam 
+anlamıyla gerçekleşmesi ütopyadan başka bir şey değildir, çünkü toplumun doğasına ay-
+kırıdır. Nitekim toplumsal sistemdeki uyum ve bütünleşme sorunlarına karşı işlevsel olan 
+toplumsal denetim mekanizmalarının önemi buradan kaynaklanmaktadır. Diğer taraftan 
+sistemin ihtiyaçlarının giderilmesi, yenilenmesi, durum ve şartlara göre uyarlanması için 
+değişim şarttır. Şurası da bir gerçek ki, değişimle birlikte ortaya çıkan farklılaşma, top-
+lumsal denetim mekanizmaları tarafından denetlenme yoluyla yeni bütünleşme biçimleri 
+oluşturmaktadır. Değişme, bir tür sistemin kendini yenilemesi, daha iyi bir bütünlük bi-
+çiminin oluşturulmasıdır. Dolayısıyla toplumsal değişim, adaptasyona uygun ve evrimci 
+bir karaktere sahiptir. Toplumun evrimleşmesi esnasında sistemin genel uyum ve ahengi 
+bozulmamakta, aksine değişim daha güçlü bir şekilde bütünleşmeye yol açmaktadır. Top-
+lumsal sistem teorisi denildiğinde ilk akla gelen Parsons’un evrim kavramını Darwin’in 
+evrim kuramından farklı kılan ve Durkheim’e yaklaştıran husus, uyumdaki başarısızlığın 
+sistemin yok olmasını gerektirmeyişidir (Erkilet, 2007:109).
+Toplumsal sistem, Parsons tarafından toplumsal eylemin örgütlendiği üç yoldan biri 
+olarak görülmektedir. Birbiriyle bağlantılı olan diğer iki eylem sistemi; paylaşılan değer 
+ve sembollerden oluşan kültürel sistem ve bireylerin oluşturduğu kişilik sistemidir (Polo-
+ma,1993:150). Toplumsal sistemin temel başlangıç noktası eylemdir, belli şartlar altında 
+bireysel aktörler arasındaki etkileşimdir (Parsons,1964:3). Bir işleve yönelik eylem ol-
+madan grup, kurum, değer, norm, statü, rol gibi yapı unsurları oluşmaz. Toplumsal yapı 
+unsurlarının oluşması işleve bağlı olmakla beraber, işlevlerin kendilerini yerine getirebi-
+leceği alan da toplumsal yapı unsurlarıdır. Çok sayıda bileşeni bulunan toplumsal siste-
+min, bir yapı bir de işlevsel boyutunun olduğunu ve bu iki eksende analiz edilebileceğini 
+söyleyebiliriz. 
+Toplumsal sistemin başlangıç noktası olan eylem, karşılıklı olup bir etkileşim du-
+rumudur. Bu etkileşimde toplumun üyesi olan her bir birey kendi rolünü yerine getirir. 
+Sistem içerisinde aktör olan birey de kendi rolü çerçevesinde, yani başkalarıyla ilişkisi 
+içinde ele alınır. Temellerini Linton’un attığı rol kavramı, toplumsal sistem analizinde 
+önemli bir yer işgal eder. Her toplumda bireyler ve onların oluşturduğu toplumsal gruplar 
+karşılıklı davranış kalıplarına sahiptir. Bu davranış kalıplarını belirleyen ise toplumsal 
+statülerdir. Toplumsal statü, bireyden farklı olarak hak ve ödevler toplamı olup, bireyin 
+toplum içindeki yerini belirler. Statünün dinamik tarafı olan rol ise, bireyin kendisine 
+atfedilen haklarını kullanması ödevlerini yerine getirmesidir (Linton,1936:113-115).
+93
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+2. Toplumsal Statü ve Rol
+2.1. Toplumsal Statü
+Toplumsal sistemin kurucu bir unsuru olan statü, kelime olarak makam, mevki, ko-
+num, pozisyon anlamına gelir. Bireyin ya da grubun toplumdaki yerini, konumunu, mev-
+kiini belirtmek için kullanılan kavramdır. Toplumsal statü bireyin toplumsal yapıda işgal 
+ettiği yerdir. Bu yeri belirleyen ise toplumun bizzat kendisidir (Tezcan,1995:51). Sta-
+tü, bir anlamda toplumun kendi üyelerini konumlandırması, onlara bir anlam ve değer 
+yüklemesidir. Dolayısıyla statü, toplumun kendi üyesi olan birey ya da grubu algılayış 
+ve anlamlandırışıdır. Statü, statü sahibinin kendi hakkındaki düşüncelerini değil, içinde 
+yaşadığı toplumun onun hakkındaki düşüncelerini dile getirir, bireyin kendisi hakkındaki 
+öznel görüşü değildir. Toplumsal statü bireye bütün toplumla ilişkili bir pozisyon sunar. 
+Statü, belli bir birey ya da gruba, toplumun öteki üyeleri tarafından yüklenen toplumsal 
+onur ya da saygınlıktır (Giddens, 2000: 620). Bireyin bütün toplumla ilişkili pozisyonunu 
+temsil eder (Linton, 1936: 113).
+Toplumsal statü denilince doğal olarak ilk akla gelen toplumbilimci Ralph Linton’dur. 
+Statü kavramını sosyolojiye özgü olarak açıklayan ilk sosyolog Linton’dur. Statü, onu 
+işgal eden bireyden ayrı olarak sadece hak ve ödevlerin bir toplamıdır. Bu hak ve ödevler 
+sadece bireyler arası ilişkilerde ifade edilebildiği için, statüler ile statülerin oluşturduğu 
+hak ve ödevleri yaşayan bireyler arasındaki ayrımı devam ettirmek oldukça zordur. Her-
+hangi bir bireyle onun statüsü arasındaki ilişki, bir bakıma, bir otomobilin sürücüsü ile 
+sürücünün makinedeki yeri arasındaki ilişkiye benzer. Yani sürücünün otomobili kullan-
+madaki kontrol durumu olası iyi ya da kötü sonuçlara yol açabilir (Linton, 1936: 113). 
+2.1.1. Statü Birey İlişkisi
+Toplumsal statüler arasında hiyerarşik bir yapı olduğundan her statü aynı değerde değil-
+dir ve bireye aynı oranda prestij sağlamaz. Aslında yüksek statü biçimsel olarak bir prestij 
+(saygınlık) ölçütü ve güç kaynağı olarak kabul edilmekle birlikte, biçimsel gerekliliklere 
+uyulmadığı takdirde bireyin statünün prestijinden tam anlamıyla yararlanması düşünüle-
+mez. Bu durum statü ile statünün doldurulması için gerekli performansın paralel gitmeleri 
+gereğini ortaya koyar. Bundan dolayı statünün istediği rol ve performansı gerçekleştireme-
+yen insanların sırf statüye bağlı bir prestije yönelmeleri halinde hayal kırıklığına uğrama-
+ları ve bekledikleri saygınlığa ulaşamamaları kaçınılmaz olur. Öğretmenlik bir statü olarak 
+bir saygınlığa sahiptir, fakat bu statüyü işgal eden her öğretmen aynı derecede saygın 
+değildir. Burada statü ile birey arasındaki farklılık kendini göstermektedir, yani statü ile 
+statüyü işgal eden birey birebir örtüştürülemez. Hal böyle olduğunda statü ile kişiliği bir-
+biririnden ayrı düşünmek gerekir. Tabii ki insan bazı grupların üyesi ve bazı statüleri işgal 
+etmekte, bir aidiyet duygusu taşımaktadır. Ama mensubu olduğu grup ya da kategori veya 
+işgal ettiği statü ile ilgili yapılan olumsuz ya da olumlu değerlendirmeleri kendi kişiliğine 
+yapılmış değerlendirmeler olarak düşünme yanılgısına düşmemelidir. Aidiyet duygusu bi-
+reyin bireyselliğini ortadan kaldırdığında, statü ile onu işgal eden birey arasındaki ayırım 
+da yok sayılmış, dolayısıyla aynı statüde ya da kategoride yer alanların aynı prestije sahip 
+94 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+oldukları kabul edilmiş olur ki, bu doğru değildir. Statü ile birey arasındaki ayrımı, onlar 
+arasında bir bağlantının olmadığı şeklinde düşünmek de doğru değildir.
+Kuşkusuz, statüleri işgal eden, birey ya da gruptur. Statü, kendini işgal edeni niteleyen 
+ve belirleyen bir özelliğe sahiptir. Aynı şekilde statüyü işgal edenler kişilik ve perfor-
+mansları çerçevesinde statüye yeni boyutlar ve katkılar sağlayabilir. Statüden uzak olmak 
+statünün toplumsal değerine ve düzeyine göre bireye prestij kazandırıyor ya da kaybet-
+tiriyorsa, belirleyiciliğin daha çok statüden kaynaklandığı düşünülebilir. Burada bireyin 
+kendi statüsü üzerinde yapabileceği bir şey yoktur. Soy, cinsiyet, yaş gibi statüler bu tür-
+den olup, kişinin kontrolü dışındadır. Aynı şekilde herhangi bir statünün değeri, o statüyü 
+işgal edenlerin kişilik özellikleriyle ilişkilidir. Mesela öğretmenlik statüsü, öğretmenlerin 
+sahip oldukları kişilik özellikleri ve performanslarına bağlı olarak değerli ya da değersiz 
+olabilir. Nasıl ki statü birey ya da bireylere bir değer yüklüyorsa, birey ya da bireyler de 
+aynı şekilde statüye bir katkı sağlar. İyi ve mesleğinde başarılı bir hekim, çalışmalarıyla 
+sadece kendi toplumsal prestijine katkıda bulunmakla kalmaz, aynı zamanda hekimlik 
+mesleğine de onur ve saygınlık kazandırır. Statüyü işgal edenlerin kişilik özelliklerindeki 
+değişim statünün de değerini değiştirecektir. Şöyle ki, toplumsal saygınlığı olan kraliyet 
+kurumunun başında bulunan kralın zaman içinde insani değerleri dikkate almadan hare-
+ket etmesi, kraliyet statüsünün toplumsal değerini düşürecektir.
+Bireyin toplumsal gücü, yani toplumda başkaları üzerindeki etkisi, zaman zaman bi-
+reyin sahip olduğu statünün bir ölçütü olduğu söylenirse de, aslında bu etki toplumsal 
+statünün belirleyicisi olmaktan çok, sonucudur. Birey gücünü ve nüfuzunu sahip oldu-
+ğu statüden alır, değilse sahip olduğu güç sayesinde statü elde etmez. Gerçekte bireyin 
+statüden almadığı bir toplumsal gücü, nüfuzu ve saygınlığı yoktur. Dolayısıyla yüksek 
+toplumsal statüye sahip olanların aşağı toplumsal statüye sahip olanlardan daha etkili 
+olduğu açıktır. Bu durum, bireyin neden sürekli olarak toplumsal statüsünü geliştirmeye 
+çabaladığının sebebini ortaya koymaktadır. Toplumsal statünün geliştirilmesi, kişiye hem 
+bireysel olarak tatmin duygusu, hem de başkaları ile mücadelelerinde başarı sağlar.
+Şurası açıkça belirtilmelidir ki, birey ne sadece tümüyle toplumun yargılarının merha-
+metine bırakılmıştır, ne de tümüyle kendi toplumsal statülerinin belirleyicisidir. Yani ne 
+tümüyle pasif, ne de tümüyle aktiftir (Fıchter, 1994: 31). Statü kavramı, burada görüldüğü 
+gibi kültürle benzerlik gösterir, yani onun gibi iki anlamlı bir kullanıma sahiptir (Linton, 
+1936: 113). 
+2.1.2. Statü Takımı
+Toplumsal sistem içinde herkesin birden fazla statüsü vardır, daha doğrusu her insan 
+toplumsal sistemde birden fazla statü işgal eder. Bir insan, okulda öğretmen, evde baba, 
+sendikada temsilci olabilir. Diğer taraftan herhangi bir statü bir diğeriyle bağlantılı olarak 
+anlam kazanır. Kişi öğrencisinin öğretmenidir, dolayısıyla öğretmenlik statüsü öğrencilik 
+statüsüyle bağlantılıdır ve onunla bir anlam kazanır. Hiçbir statü yoktur ki, bir diğeriyle 
+bir şekilde bağlantılı olmasın (Kızılçelik, Erjem, 1994: 398).
+95
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+Bir kimsenin işgal ettiği statülerin tümü onun statü takımını oluşturur. Kişinin statü 
+takımı içinde yer alan statüler birbiriyle bağdaşır nitelikte olmalıdır. Statü takımı içinde 
+bir statünün diğeriyle uyumlu olmaması statü çelişkisi ya da statü çatışması olarak ifade 
+edilir (Dönmezer, 1994: 148). Mesela bir kimsenin hem müslüman olması hem de terörist 
+olması bir çelişkidir. Bunun nedeni ise aynı ya da benzer değerleri taşımayan statülerin 
+aynı statü takımı içinde yer almasıdır. Çünkü İslam dininin değerleri terörizmi meneder. 
+Toplumsal sistem açısından statü çatışması olarak ifade edilen bu durum, birey açısından 
+ise bilişsel tutarsızlıktır.
+Toplumsal statünün çeşitliliği ve değeri toplumsal sisteme göre farklılık arzeder. Ge-
+leneksel toplumlarda statü çeşitliliği modern toplumlarda olduğu kadar fazla değildir. 
+Statü çeşitliliği toplumun gelişmişlik düzeyi ile yakından ilgilidir. Gelişmiş toplumlarda-
+ki statü çeşitliliği, az gelişmiş ya da gelişmekte olan toplumlara göre daha fazladır. Aynı 
+şekilde, aynı statü farklı toplumsal sistemlerde farklı değerlere sahip olabilmektedir. Ka-
+palı ve kast sisteminin olduğu toplumlarda soy temel belirleyici olmasına rağmen, açık ve 
+demokratik toplumlarda bireysel yetenekler ve performans daha etkili olmaktadır. Feodal 
+toplumda bir senyörün çocuğu olarak dünyaya gelmek senyör olmak, yani üst bir statüye 
+sahip olmak için yeterlidir, ama demokratik toplumlarda değildir ve esas olan bireyin 
+kendi yetenekleri ve çabalarıdır. 
+Bireyin toplumsal sistemin içinde oluşturduğu statü takımı zamanla değişebilir. Za-
+man içerisinde birey toplumsal konumunda değişiklik yapabilir. Statü değiştirme temelde 
+bireyin kendi bilincinin ve iradesinin ürünü olmakla birlikte, bekar olan birinin evlenmesi 
+gibi bazı değişimler toplumsal bir töreni gerektirir. Çünkü bu tür statü değişikliği sadece 
+bireyin kendisini ilgilendirmekle kalmaz, aynı zamanda toplumsal ilişki örüntüsünde de 
+değişikliğe yol açar. Statü değiştirmenin toplumsal ilişkilerin örgütlenmesi bakımından 
+ortaya, bazı meseleler çıkardığını söylemeye lüzum bile yoktur.
+Yüksek veya düşük statünün belirleyicileri veya faktörleri, kendiliklerinden statü ver-
+mezler. Çünkü statü zihinsel bir inşadır. Toplumun bir birey için yaptığı değerlendirme 
+derecesidir. Mesela, soy ve servet aslında statü veren faktörler değildir. Soyluluğun türü 
+veya servetin miktarı, kişinin statüsünün nesnel olarak belirlenmesine yardım eder, oysa 
+aslolan toplumun sözkonusu faktörlere yüklediği anlamdır. Statü simgelerinin önem ve 
+belirleyiciliğine ilişkin değerlendirmeler, toplumdan topluma büyük bir farklılık gösterir. 
+Toplumsal statü, toplumsal tanımlama olmasına rağmen onaylama veya onaylamamanın, 
+saygı veya saygısızlığın belirli evrensel ölçütleri yine de vardır. En genel terimlerle bun-
+lar toplumsal değerler içinde yer alırlar. Yani belirleyici kriter toplumsal değerlerdir.
+2.1.3. Statünün Belirleyicileri
+Toplumsal statüyü belirleyen tek faktör ekonomi değildir. Statünün bir çok belirleyici-
+si vardır. Bunlardan hiçbiri tek başına yeterli olmayıp, statünün değerlendirilmesinde bir-
+likte ele alınmalıdır. Bunların en önemlileri soy, servet, işlevsellik, eğitim, din, biyolojik 
+durum vs.dir (Fıchter, 1994: 32-33).
+Açık ya da kapalı, demokratik ya da totaliter her toplumda aynı oranda olmasa bile 
+soy bağı, kişiye ayrıcalıklı bir pozisyon verir. Kişinin ailesinin soyu veya şöhreti, zen-
+96 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+ci veya beyaz olması onun toplumsal konumunun belirlenmesinde rol oynar. Doğumun 
+meşruluğu ve gayri meşruluğu da önemlidir. 	
+Statünün adeta evrensel bir ölçütü de servettir. Sahip olunan maddi değerler statü 
+için nesnel bir ölçüttür. Sayılabilir ve derecelendirilebilir olmasının yanısıra bir güçtür. 
+Burada servetin kaynağı da önemlidir, yani kazanılan ve yasa dışı yoldan elde edilen ser-
+vetin prestiji ile soydan elde edilen ve toplumsal olarak onaylanan bir yoldan elde edilen 
+servetin prestiji arasında fark vardır. 
+Bireyin toplumsal statüsünün işlevselliği, yani sağladığı toplumsal fayda da statünün 
+önemli ölçütlerindendir. Birey toplumda ne yaptığına göre derecelendirilir. Bu da yine 
+başkalarının neyin yapılmasının iyi olduğuna ilişkin düşüncesine dayanır. Belirli işlevsel 
+kategorilerin diğerlerinden daha yüksekte derecelendirildiği açıktır. Mesela hekimlik öğ-
+retmenlikten daha yüksek bir dereceye sahiptir.
+Alınan eğitimin düzeyi ve çeşidi de toplumsal statünün evrensel belirleyicilerindendir. 
+Eğitim düzeyi yükseldikçe toplumsal statü de yükselmektedir. Yüksek prestije sahip bir 
+üniversiteden ve yüksek derece ile mezun olmak da toplumsal statüyü yükselten önemli 
+bir faktördür.
+Bireyin dini de toplumsal statüsünün belirleyicilerindendir. Her toplumun genel de-
+ğerleri arasında doğa üstüne ilişkin inanç ve tutumlar da yer alır. Bireyin toplumdaki 
+yaygın inanç sistemi içindeki pozisyonu ve dinsel bütünlükle ilişkisi toplumsal statüsü 
+açısından oldukça önemlidir. 
+Biyolojik durum da toplumun bireyi aşağı veya yukarı statüye yerleştirmesinde etkili-
+dir. Cinsiyet evrensel bir ölçüt olarak toplumların çoğunda kullanılır, erkeklere kadınlar-
+dan daha yüksek bir yer verilir. Yaş da bir toplumsal statü ölçütüdür, en azından yetişkin-
+lik çocukluktan çok daha değerlidir. Bu ölçüt toplumdan topluma değişebilir, bazılarında 
+yaşlılar değerli görülürken bazılarında gençlere özel bir önem verilir. Cinsiyet ve yaşın 
+yanısıra fiziksel görünüm, yani güzellik standartları da değerlendirmede yer alır. 
+Statünün temel belirleyicilerini dikkate alarak toplumsal statüleri sınıflandırmak 
+mümkündür. Statü sınıflaması yapmak, yukarıda ifade edilen benzer özellikleri aynı grup 
+içinde ele almaktır.
+2.1.4. Statü Sınıflandırması
+Statünün belirleyicilerinden bazıları üzerinde bireyin bir rolü olmadığı halde diğerle-
+rinde birey etkindir. Bundan dolayı toplumsal statüleri en genel şekliyle, verilmiş (bah-
+şedilmiş) ve kazanılmış (elde edilmiş) statüler olarak ikiye ayırabiliriz. Linton konuya 
+ilişkin olarak, toplumlar verilmiş (ascribed) ve kazanılmış (achieved) olmak üzere iki 
+statü tipi geliştirerek bir ikilemle karşılaşır demektedir. Verilmiş statüler, bireylere, on-
+ların doğuştan farklılıkları ve kabiliyetleri dikkate alınmaksızın verilmiş olan statülerdir. 
+Kazanılmış statüler ise bireye doğuştan verilmemiş olup bireysel yetenekleri ve çabayı 
+gerektiren, başkaları ile yarış sonucu elde edilen statülerdir. Bütün toplumsal sistemlerde 
+statülerin çoğu, verilmiş tipten statülerdir ve gündelik hayatın meşguliyetleri neredeyse 
+bu tip statülerden kaynaklanır (Linton, 1936: 115). 
+97
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+Verilmiş statüler, bireysel bilincin ve iradenin ürünü değildir. Bu tür statüler bireye at-
+fedilmiş yani yüklenilmiş olan statülerdir ve bırakılması da bireyin iradesine bağlı değil-
+dir. Bireyin cinsiyeti, yaşı, ailesi, soyu, rengi, akrabalık ilişkileri vs. kendi elinde değildir. 
+Ne yüklenilmesi ve ne de terkedilmesi bireyin iradesine ve tercihine bağlıdır . Bunlar aynı 
+zamanda temel statüler olarak da nitelendirilirler.
+Bütün toplumlarda verilmiş statülerin belirlenmesinde belli şeyler referans noktası 
+olarak seçilir. Referans noktalarının tespitinde göz önünde bulundurulan şey, insanın do-
+ğuştan getirdiği doğasıdır. En yalın ve en yaygın kullanılan referans cinsiyettir. Cinsiyet 
+ilişkileriyle statüleri ayırmak ve belirlemek bütün sosyal sistemlerde temel olarak görülür. 
+Bütün toplumlar kadın ve erkekten farklı eylemler ve tutumlar bekler. Yaş da eşit ağırlıkta 
+olan bir referans olma özelliği gösterir. Zaman içinde insan çocukluk, gençlik ve yaşlılık 
+statüsüne ulaşır. Bu süreci değiştirmek mümkün değildir. En yalın ve açık olan referans 
+noktalarından biri de aile ilişkileridir. Anne-çocuk ilişkisi bütün toplumlarda toplumsal 
+statülerin referans noktası olarak görülür. Son olarak da insanın dünyaya geldiği sosyal 
+grup ya da sınıf genel bir referans noktası olarak ifade edilebilir. Referans tiplerinin bu 
+kullanımı yaygın olmakla beraber evrensel değildir (Linton, 1936: 116). Verilmiş statüler 
+ister biyolojik ister sosyal faktörler tarafından belirlenmiş olsun, toplumsal sistemlerin 
+hepsinde büyük çoğunluğu teşkil eder (Linton, 1936: 128). Şunu özellikle belirtmek gere-
+kir ki, toplumsal sistemde büyük payı olan verilmiş statüler, bütün toplumsal sistemlerde 
+aynı paya ve role sahip değildir. Verilmiş statülerin daha etkin olduğu toplumlar gelenek-
+sel toplumlardır. Modern toplumlarda hem bireyselliğin ön plana çıkması hem de yeni 
+mesleklerin ve uzmanlık alanlarının oluşması, verilmiş statülerin toplumsal sistemdeki 
+payını azaltmış, rolünü zayıflatmıştır. Eskiden kölelik ve efendilik verilmiş bir sosyal 
+statü olarak toplumsal sistemde oldukça etkin bir rol oynamakta idi. Oysa bugün bireysel 
+hak ve özgürlüklerin temel değer olduğu dünya düzeninde, bireyin performansı, toplum-
+sal statülerin belirlenmesinde öncesine göre daha etkindir.
+Kazanılmış statüler, doğuştan bireye bahşedilen statüler olmayıp, bireyin bilincinin 
+ve iradesinin ürünüdür. Bu tür statülerin elde dilmesi hem tercihi hem de çabayı gerekti-
+rir. Mesela, üniversite öğrenciliği, öğretmenlik, hekimlik, arkadaşlık vs. kazanılmış olan 
+sosyal statülerdendir. Burada aklın ve iradenin etkin olduğu, statünün elde edilmesinin bir 
+çabayı gerektirdiği gün gibi açıktır. 
+Toplumsal statülerin sınıflandırılmasında kullanılan bir diğer metod ya da kriter, statü-
+lerin içinde geliştirildikleri toplumsal alanlardır. Her bir statü, içinde yer aldığı toplumsal 
+alanın adı altında yer almakta ve bu şekliyle toplumsal statüler hısımlığa ilişkin (etnik), 
+ekonomik, siyasal, törensel (dini) ve eğlenceye ilişkin olmak üzere beşe ayrılmaktadır 
+(Dönmezer, 1994: 145). Anne, çocuk, kardeş, kuzen hısımlığa ilişkin; alıcı, satıcı, üreti-
+ci, tüketici ekonomik; yöneten, yönetilen, seçmen siyasal; imam, cemaat, mürşid, mürid 
+dini; arkadaş, dost, sanatçı, futbolcu, taraftar eğlenceye ilişkin statülerdir.
+Toplumsal statüler bir de temel statüler, genel statüler ve özgür statüler olarak kısım-
+lara ayrılabilirler (Dönmezer, 1994: 145). Temel statüler cinsiyet ve yaşla ilgili, genel 
+statüler meslekle ilgili, özgür statüler de uğraşla ilgili statülerdir. Birincisi doğuştandır, 
+diğerleri sonradan kazanılmıştır.
+98 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+Temel statüler, toplumsal sistemlerin hemen hepsinde cinsiyet ve yaşla ilgilidir, do-
+ğuştan elde edilir. Bir bireyin cinsiyeti ve yaşı, diğer insanların ona olan tepkilerini ve 
+toplumun ondan beklentilerini belirleyici niteliktedir. Hiçbir toplumda kadına, erkeğe, 
+çocuğa, erişkine ve yaşlıya aynı şekilde davranılmaz, onlardan aynı davranış biçimleri 
+beklenilmez. Bununla beraber cinsiyet ve yaşla ilgili statüler toplumlara göre de değişir. 
+Türk ve Çin toplumunda yaşlılık saygıyı davet ettiği halde Amerika toplumunda kişinin 
+bir kenara atıldığı dönemi ve konumu belirler. Cinsiyet ve yaşa ilişkin statüler herkese 
+açık olan statüler değildir. Mesela kadınlık ya da evli kadınlık sadece dişiye özgüdür. 
+Annelik dişiye özgü olduğu gibi babalık da erkeğe özgüdür. 
+Genel statüler, temel statülere göre daha çeşitli olmasının yanısıra, bireyler arası iliş-
+kilerde kendilerini işgal eden kimselere açık olan diğer statüler bakımından değişik so-
+nuçlar ortaya koyarlar. Öğretmenlik, polislik, hekimlik, hakimlik, parlamento üyeliği gibi 
+statüler, uğraş (özgür) statülerin çoğuna göre daha geniş anlam taşır ve bir çok durum-
+larda prestij ve nüfuz sağlamakla beraber aynı zamanda bir takım sınırlamalar da getirir. 
+Genel statülerde çoklukla kişilerin nitelikleri ve performansları belirleyicidir.
+Özgür statüler, diğer iki tür statü kadar önemli değildir. Sanayi toplumlarındaki eğ-
+lendirici ve meşguliyet statülerinin çoğu böyledir. Bu statüler daha ziyade kişisel yetene-
+ğe göre elde edilir. Diğer statüler gibi sınırlama getirmez, kişiye prestij kazandırmaz.
+Bu üç tür statü arasındaki farkı, garsonluk özgür statüsünü, evli kadının temel statü-
+sünü ve polisin genel statüsünü karşılaştırarak ortaya koyabiliriz. Garsonluk ancak gü-
+nün belirli zamanlarında yüklenilen statü ve oynanan roldür. İşini bitiren garson diğer 
+insanlardan farklı hareket etmek durumunda değildir. Oysa evli kadın ve polisin hiçbir 
+zaman bir kenara bırakamayacakları ve her zaman dikkat etmeleri gereken yükümlülük-
+leri vardır. Polislik ve garsonluk kadına ve erkeğe özgü statüler olmayıp, cinsiyetle ilişkili 
+değildir. Diğer taraftan garsonluk bir çok toplumda kolayca yüklenilen ve istendiğinde bir 
+kenara bırakılabilen statüdür. Oysa polisliğin yüklenilmesi yaş, eğitim, fizik, yetenek gibi 
+belli şartlara bağlıdır ve kolayca bırakılacak türden de değildir. Kadınlığı yüklenmek ve 
+bırakmak ise bütünüyle kişinin iradesinin dışındadır. Polis olmak insanın hayat görüşünü 
+etkilediği halde garson olmak böyle bir etki yapmaz. Zaman açısından değerlendirildiğin-
+de de kadınlık, polislik ve garsonluk statüleri arasında farklılığın olduğu görülür. Kadınlık 
+hayatın bütününü, polislik büyük bir bölümünü, garsonluk ise kısa bir kesitini kapsar. 
+2.1.5. Anahtar Statü
+Statü takımı içinde bulunan statülerin hepsi aynı değerde ve önemde değildir. Bun-
+ların içinde bir tanesi vardır ki, işlevselliği açısından diğerlerinden farklı olduğundan 
+anahtar statü ya da kilit statü olarak isimlendirilir. Anahtar statü bireyin başarılı olduğu 
+statü olarak nitelendirilemez, yani birey hangi statüde etkin ve başarılı ise o onun anahtar 
+statüsüdür denemez. Anahtar statünün belirlenmesinde toplumsal değerler önemli bir rol 
+oynar. 
+Ekonomik değerlerin ve kurumların yüksek prestij taşıdığı bir toplumda kişinin mes-
+leği genellikle onun anahtar statüsünü belirtir. Doğaldır ki, çocuğu olan bir kadının anah-
+tar statüsü anneliktir, fakat bu kadın aynı zamanda başarılı bir iş kadını ise bu kez anahtar 
+99
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+statüsü mesleği olacaktır. Ekonomik değerlerin daha ön planda bulunduğu toplum, o ka-
+dını ekonomik statüsüyle daha yüksekte değerlendirecek, iş kadınlığı onun anahtar sta-
+tüsü olacaktır. Anahtar statü, toplumsal kişiliğin analizinde yararlı bir sosyolojik araçtır 
+(Fıchter, 1994: 36). Anahtar statü, bireyin kendi hakkında dünyaya açtığı en geniş pence-
+redir. Toplum bireyi daha ziyade o pencereden görür ve bireyin diğer statülerini anahtar 
+statüsüne göre yorumlar.
+Anahtar statü, bireyin daha etkin ve işlevsel olduğu, yaşamının büyük bir kısmını 
+oluşturan, toplumsal değerler açısından daha saygın olan statüdür. Bireyin anahtar statüsü 
+toplumun en önemli gördüğü role bağlıdır. Bireyin hangi statüsünün anahtar statüsü ol-
+duğu kararını toplum verir. Bireyin sahip olduğu sosyal statülerin toplamı, sosyal bir bü-
+tünlük olan kişiyi gösterir ve kişinin yaşamdaki duruşu olarak değerlendirilir. Yaşamdaki 
+duruş kişinin toplumsal statülerinin bileşimidir ve yaşam duruşu öncelikli olarak anahtar 
+statünün etkisi altındadır, fakat onunla özdeş değildir. 
+2.2. Toplumsal Rol
+Rol, sosyolojide anahtar bir kavram olma özelliği gösterir ve temel bir araç olmayı 
+sürdürür. Rol, belirli statü ya da toplumsal konumlara atfedilen toplumsal beklentileri or-
+taya koyar ve bu tür beklentilerin gerçekleşip gerçekleşmeme sürecini analiz eder (Mars-
+hall, 1999: 624).
+Rol, statünün dinamik yönünü temsil eder. Bireyin rolünü yerine getirmesi, statünün 
+verdiği hakları kullanması, ödevlerini yapmasıdır. Rol ve statü birbirinden ayrılamaz, on-
+ların arasındaki fark akademik bir merakın ürünüdür. Statü olmaksızın rol, rol olmaksızın 
+statü yoktur. Rol kavramı da statü gibi çift anlamlıdır. Bireyin sahip olduğu roller, sade-
+ce onun kendisinin ortaya koyduğu davranışlar olmayıp aynı zamanda toplumun ondan 
+beklentileridir (Linton, 1936: 114). Başkaları ile ilişkilerinde kendi tavır ve tutumlarını 
+sergileyen birey bunu yaparken kendisinden beklenenlere göre hareket etmektedir. Her 
+ilişki bir tür rol oynamaktır. Rol ise, toplumda belli bir pozisyonu işgal eden bireyden, 
+toplumun genelinin beklentisi olan uygun davranıştan başka bir şey değildir (Gıttler, 
+1957: 93). Toplumun bireyden beklentileri onun davranışlarını sınırlandırmakta, hatta 
+belirlemektedir. Fakat bu belirleme sürecinde bireyin kendisi edilgin değildir. Bundan 
+dolayı, farklı bireylerin rol beklentilerine karşı gösterdiği tepkilerde benzerlikler olması-
+na rağmen, farklılıkların olduğu da bir gerçektir.
+Toplumsal statünün aktif, dinamik ve canlı kısmı olan toplumsal rol, bir tür toplumsal 
+tavır demektir. Toplumsal statü ve rol, sanki aynı şeyin farklı iki yüzü gibidirler. Toplum-
+sal statü statik olmasına karşılık toplumsal rol dinamiktir. Toplumsal statüler kişiyi be-
+lirli toplumsal kurallara uymaya zorlar. İşte bu kurallara uymak, yani toplumsal statünün 
+normlarına göre davranmak, toplumsal rolü yerine getirmektir. Her statü belirli rolleri 
+gerektirir. Nasıl ki statü toplumun bireye yüklediği toplumsal onur ve saygınlıksa, rol de 
+toplumun bireyden beklediği davranışlardır. Statü bireyin kendisi hakkındaki öznel gö-
+rüşü olmadığı gibi, rol de bireyin kendi isteğine göre hareket etmesi değildir. Toplumsal 
+beklenti olan rol, toplumun bireyden beklediği davranış biçimleridir. Rol, bireyin belli 
+şartlar altında muhtemel davranışı, yani hangi durum ve şartlarda nasıl davranacağıdır. 
+100 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+Davranışta tahmini bir ölçü olmaksızın, yani kültür tarafından verilmiş rol bulunmaksızın 
+ilişkileri yorumlamak imkansız olacaktır (Bensman, Rosenberg, 1976: 36). 
+Toplumsal rol, toplumsal statünün gerektirdiği yükümlülükleri yerine getirme ve onun 
+verdiği haklardan, yani ayrıcalıklardan yararlanma biçimidir. Statünün davranış boyutu 
+olan rol oynanır, ona statü gibi sahip olunmaz (Doğan, 2002:103). Statü, tavır ve hareket 
+hususunda ideal örneği belirleyen kavram olduğu halde, rol bu ideal örneğe göre ortaya 
+konulan fiili tavırdır. Rol, aynı zamanda bireyin davranışını düzenleyen, ona bir takım 
+sınırlamalar getiren toplumsal beklentilerdir (Linton, 1936: 114). Babalık statüsünü işgal 
+eden bir bireyin statüsüne uygun olan, yani kendisinden beklenen davranışı sergilemesi 
+rolünü yerine getirmesi anlamına gelir. Toplumsal rol, karşılıklılık esasına dayalı olup 
+belli beklentileri içerir. Kocanın rolü kadının rolüne karşılıklı olarak bağlıdır ve taraf-
+lardan her birinin diğerinden beklentileri onların rolünü belirleyici bir özelliğe sahiptir 
+(Poloma,1993:151).
+Nasıl ki statü teriminin kültürel boyutu varsa rol teriminin de kültürel boyutu vardır. 
+Aynı toplumsal statü farklı toplumlarda farklı rollerin icrasını gerektirir. Toplumsal sta-
+tünün değer boyutunu belirleyen temel unsur kültürdür. Babalık statüsünün gerektirdiği 
+roller, onun toplumsal değer boyutuna bağlı olarak toplumdan topluma ve aynı toplumda 
+zamana göre farklılık arz eder. Dolayısıyla rol kavramı belirli bir statüye ilişkin kültür 
+örneklerinin tümünü açıklamak için kullanılır. 
+Roller arasındaki ilişkiye baktığımızda, onların genelde birbirine bağlı ve simetrik 
+olduğunu görürüz (Sanay,1991:193). Mesela öğretmen-öğrenci ilişkisine baktığımızda; 
+öğrenciler öğretmenden kendilerini eğitmesini ve sınavda da canlarını fazla sıkmamasını 
+beklemektedir, öğretmen ise öğrencilerden anlattıklarını kavramaları için bir miktar çaba 
+sarfetmelerini ve yıl sonunda sınavlarda üstün başarı göstererek kendisinin iyi bir eğiti-
+ci olduğunu göstermelerini beklemektedir. Karı-koca rolleri de bu anlamda simetriktir. 
+Daha doğrusu birbiriyle bağlantılı bütün roller bir uyum ve düzen içindedirler.
+Rolün ideal tasavvuru ile bilfiil yaşanan roller arasında da daima farklar bulunacaktır. 
+Aksi takdirde olan ile olması gereken arasındaki fark ortadan kalkacak ve daha iyisine 
+doğru bir yöneliş ya da gidiş olmayacaktır. Bundan dolayı rolün ideal tasavvuru, fiili 
+olarak yaşananın ötesinde olacaktır. Bir babanın babalık rolünü yerine getirdiğini fakat 
+buna rağmen iyi bir baba olmadığını ifade etmek ya da bir öğretmenin öğretmenlik rolünü 
+yerine getirmekle beraber daha iyi öğretmen olunabileceğini dile getirmek işte bu farkın 
+ifadesidir.
+Toplumsal roller normatif niteliktedir (Dönmezer, 1994: 144). Roller, otorite olma 
+özelliği gösteren, yaptırım gücü bulunan standartlara, yani toplumsal normlara göre ye-
+rine getirilirler. Aslında rol, toplumsal normlara uygun davranmaktan başka bir şey de-
+ğildir. Toplumsal norm, toplumsal rolün ideal tasavvurunu değil, fiili yönünü belirler. 
+Toplumsal rolün ideal tasavvuru çoğu zaman toplumsal norm olabilme özelliğine sahip 
+değildir. Babalık rolü ne kadar iyi oynanırsa oynansın mutlaka daha iyisi vardır ki, işte o 
+daha iyisi, yani ulaşılamayanı, rolün ideal tasavvurunu dile getirir. Dolayısıyla ideal baba 
+ile normun sınırlarını belirlediği baba genelde birbirinden farklıdır.
+101
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+Statüden ayrı ele alınması mümkün olmayan rol için de, statü için yaptığımız ayrımı 
+yaparak verilmiş rol ve kazanılmış rol şeklinde bir sınıflandırma yapabiliriz. Verilmiş rol 
+doğuştan olan, biyolojik özelliklerden kaynaklanan, herhangi bir ilgi ve yeteneği gerek-
+tirmeyen rollerdir. Kazanılmış roller ise onlara sahip olmadan önce seçim ve yeteneği 
+gerektiren rollerdir (Denisoff, Wahrman, 1979: 155). Bütün toplumlarda toplumsal pozis-
+yonlar tarafından belirlenen rolün belli göstergeleri vardır. Verilmiş rol göstergeleri; akra-
+balık, cinsiyet, yaş, ölüm ve sosyal göstergeler (sosyal sınıf) dir. Bu göstergeler üzerinde 
+kişinin herhangi bir etkisi yoktur. Kazanılmış rol göstergesi ise başarıdır. Burada kişi 
+etkindir, kişinin performansı ve başarısı belirleyicidir (Lundberg, 1963: 149-158).
+2.2.1. Rol Çelişkisi (Çatışması)
+Toplumlar geliştikçe ve bireyin yaşı ilerledikçe işgal edilen statü ve oynanan rol türü 
+ve sayısı artmaktadır. Çeşitliliğin artması, yapının gittikçe karmaşıklaşması ve paralel 
+olarak bir takım problemlerin ortaya çıkmasına da neden olmaktadır. Problemin kayna-
+ğında bireyin kendisi ya da içinde yer aldığı toplumsal sistem bulunur. Bireyin kendisinin 
+neden olduğu problem ya da problemler, temelde onun algılayışından kaynaklanır. Top-
+lumsal sistemde her şeyin açık ve net bir şekilde belirlenmemiş olması, tanımlama ve 
+değerlendirmelerde belli kriterlerin bulunmaması, kısacası sistemi oluşturan unsurlar ve 
+fonksiyonlarının belirgin bir şekilde ilişiklendirilmemiş olması da problemlere yol açar 
+ki, bu tür problemlerin nedeni birey değil toplumsal sistemdir. Toplumsal statü ve rol 
+açısından ortaya çıkacak en temel problem ise, çelişki veya çatışma olarak ifade edilir. 
+Kişinin sahip olduğu statüler arasındaki uyumsuzluk ve bağdaşmazlık statü çatışmasına 
+neden olduğu gibi, onun davranış örüntüsündeki uyumsuzluk ve bağdaşmazlık da rol 
+çatısmasını doğurur. 
+Merton’un da belirttiği gibi herhangi bir statüye bağlı olan rollerin bütününe rol takı-
+mı denilir. Merton bunu açıklamak için bir tıp öğrencisini örnek verir. Tıp öğrencisinin 
+rolü sadece hocasına nispetle değildir. Onun bulunduğu konum, yani statüsü, diğer öğ-
+rencilere, hemşirelere, doktorlara, tıp teknisyenlerine, sosyal çalışma uzmanlarına karşı 
+farklı roller oynamasını ve tutumlar almasını gerektirmektedir. Aynı şekilde bir öğretmen 
+de statüsü gereği öğrencilerine, meslektaşlarına, okulun müdürüne, hizmetlisine karşı bir 
+takım rolleri yerine getirmek zorundadır. İşte kişinin herhangi bir statü gereği yerine ge-
+tirmesi gereken rollerin bütününe rol takımı adı verilir. Bu rol takımının gereği gibi yerine 
+getirilmesinde ise çelişkiler meydana gelebilir (Dönmezer, 1994: 147).
+Tıp öğrencisi hocasına karşı segilediği davranışı hasta bakıcıya sergilerse doğal ola-
+rak bir rol çelişkisi yaşar. Yine, statüsü gereği öğrencisine ders anlatma yükümlülüğü 
+olan öğretmenin hizmetliye ders anlatma girişimi, rol çelişkisinden başka bir şey değildir. 
+Burada toplumsal sistem bireyin kime karşı nasıl davranacağını belirlemiş olmasına rağ-
+men birey rol çelişkisi yaşamaktadır ki, burada bireyden kaynaklanan bir sorun vardır. 
+Bireyden kaynaklanan rol çekişmesi aynı rol takımı içerisinde olabileceği gibi farklı rol 
+takımları arasında da olabilir. Çocuğunun öğretmeni olan biri çocuğuna evde öğretmen 
+okulda baba gibi davranırsa doğal olarak rol çelişkisine düşer. Çocuğa evdeki statüsünün 
+gereği olarak baba gibi, okuldaki statüsünün gereği olarak da öğretmen gibi davranma-
+102 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+lıdır. Çünkü çocuk onun evde evladı okulda öğrencisidir. Evde ona öğrenci muamelesi 
+yapması roller arasındaki simetrinin kaybolması, dolayısıyla çelişkinin ortaya çıkması 
+demektir. 
+Rol çelişkisinin nedeni bireyin kendisi olabildiği gibi, toplumsal sistem de olabilir. 
+Toplumsal normların kurumsallaşmamış olması ve toplumsal değerler arasında tutarsızlı-
+ğın bulunması durumunda da rol çelişkisi kaçınılmazdır. Bu durumda birey nerede, kime, 
+nasıl davranacağını kestirmekte zorlanabilir ve sistemden kaynaklanan bir rol çelişki-
+si yaşayabilir. Mesela sigara yasağına uygun hareket etmeyen kişinin durumu böyle bir 
+çelişkinin göstergesidir. Vatandaşlık statüsünün gereği kapalı yerlerde sigara içmemesi 
+gereken biri, toplumun üyesi olma statüsünün gereği kapalı alanda sigara içmektedir. 
+Toplum onu kapalı alanda sigara içtiği için övgüye değer bulmakta, cesaretinden dolayı 
+kutlamaktadır. Burada birey, değerlerin çelişmesinden ve normun kurumsallaşmamış ol-
+masından dolayı bu güçlüğü yaşamaktadır. Yine aynı şekilde roller arasındaki hiyerarşik 
+yapının çok belirgin olmaması da rol çelişkisine neden olabilir. Çocuğu hasta olan bir öğ-
+retmenin işine gitmemesi babalık rolünün, işine gitmesi ise mesleki rolün üstün olduğunu 
+gösterir. Eğer roller arasındaki üstünlük toplumsal sistemde belirtilmemiş ve tanımlan-
+mamışsa bu ikilem, bu çelişki kaçınılmazdır. Fakat şurası da açıktır ki, roller arasındaki 
+altlık üstlük farkını belirlemek çok da kolay değildir. Ayrıca altlık üstlük, durum ve şart-
+lara göre de değişkenlik gösterir. Eğer çocuğun acil müdahaleyi gerektirecek bir hastalığı 
+sözkonusu ise babalık rolü, çok hafif bir soğuk algınlığı sözkonusu ise öğretmenlik rolu 
+üstün olabilir ve birey ona göre davranabilir. Aksi şekilde hareket etmesi rol çelişkisidir. 
+Rol çelişkisi en açık ifadesiyle bireyin nerede, kime, nasıl davranacağını bilmedeki sosyal 
+beceriden yoksun olması ya da sistemden dolayı bunun bilinemez olmasıdır. 
+Rol çelişkisi, bireyin rolleri arasında gerek kendisinden gerekse toplumsal sistem-
+den kaynaklanan uyumsuzluktan kaynaklandığı gibi, rolleri arasında bulunan işlevlerin 
+aynı anda gerçekleştirilemez olmasından da kaynaklanabilir. Mesela çocuğu hastaneye 
+gitmeyi gerektirecek kadar hasta olan bir öğretmenin aynı anda sınavının olması böyle 
+bir çelişkiye neden olur. Burada her iki durum da aynı değerdedir, aralarında bir altlık ve 
+üstlük yoktur ve her ikisinin aynı anda yerine getirilmesi mümkün değildir. Dolayısıyla 
+rol çelişkisi kaçınılmazdır.
+2.2.2. Anahtar Rol 
+Toplumsal rollerin hepsi aynı değerde değildir. Her ne kadar her zaman ve her durum-
+da roller arasındaki hiyerarşiyi açık bir şekilde belirlemek mümkün olmasa da aralarında 
+bir derece farkı, bir altlık üstlük sıralaması vardır. Bu sıralamanın belirlenmesinde asıl be-
+lirleyici olan da statüdür. Anahtar rol, anahtar statüye ait olan roldür. Anahtar statüye özgü 
+olan rollerin hepsi aynı derecede önemli ve aynı değerde değildir. Bunların içinde bir ta-
+nesi diğerlerine göre toplumun bireyi değerlendirmesinde daha etkin rol oynamaktadır ki, 
+işte bu rol bireyin anahtar rolüdür. Başka bir ifadeyle, toplumun bireyden beklentilerinin 
+hepsi aynı derecede önemli olmayıp, toplumun öncelikli beklentisi bireyin anahtar rolünü 
+belirler. Kültürel boyutu olan rol, içinde gerçekleştiği toplumun ve kültürün gereklilik-
+103
+Toplumsal Sistem Analizinde Toplumsal Statü ve Rol
+lerine göre oynanır. Bu durumda anahtar rol, toplumun bireyden öncelikli beklentisi ve 
+bireyi tanımlamada temel argüman olarak kullandığı davranış türüdür.
+Bireyin anahtar rolününün belirlenmesinde kültür merkezi bir faktör olarak işlev gö-
+rür. Mesela, aile kurumunun çok önemli olduğu bir toplumda bir kadının anahtar rolü an-
+nelik statüsünün gereklilikleridir. Ekonominin ön planda olduğu bir toplumda ise anahtar 
+rolü belirleyen onun annelik statüsü değil iş kadınlığıdır. İşbölümünün yaygın olduğu, 
+mesleğin önemsendiği toplumda da kişinin anahtar rolünü onun mesleği belirler. Baba, 
+kulüp üyesi ve öğretmen olan birinin anahtar rolünü onun mesleği olan öğretmenlik statü-
+sü belirler. Öğretmenlik statüsünün gerektirdiği bir çok rol vardır. Öğretmenin, öğretmen-
+lik statüsü çerçevesinde öğrencisine, meslektaşlarına, okul müdürüne, hizmetliye, veliye 
+karşı oynaması gereken rolleri bulunur. Bunların içinde anahtar rol olma özelliği gösteren 
+öğrencisine karşı oynadığı roldür. Çünkü toplum öğretmenden öncelikli olarak öğrencisi-
+ni iyi yetiştirmesini bekler. Diğerleri sıralamada daha sonra gelir ve öncelikli olan rolünü 
+iyi oynaması, onun iyi bir öğretmen olarak nitelendirilmesi için zorunludur. Eğer iyi bir 
+eğitimci değil, kişilikli ve donanımlı öğrenci yetiştiremiyorsa, meslektaşlarına ve okul 
+idaresine karşı rolünü çok iyi oynaması çok da anlamlı olmayacaktır. Öğrencisine karşı 
+rolünü iyi oynamasının yanısıra, öğretmenlik statüsüne bağlı olarak diğer rollerini de iyi 
+oynaması öğretmene daha fazla bir prestij ve saygınlık kazandırır. Öğretmenin saygınlı-
+ğının ana nedeni, onun anahtar rolü olan öğrencisine karşı oynadığı roldür.
+Sonuç
+Sistem, kendi kendine yeten ve kendini düzenleyen bir bütün olma özelliği gösterir. 
+Dinamik bir özelliği olmasının yanısıra istikrarı ifade eden toplumsal sistem, kendini ye-
+nileyebilen ve aynı zamanda istikrarını koruyarak varlığını sürdürebilen bir bütündür. Bir 
+bütün olan toplumsal sistemi anlamak ve açıklamak, kendini oluşturan unsurları analiz 
+etmekle mümkün olacaktır. Bütünü anlamanın yolu, onu bileşenlerine ayırmaktan geçer. 
+Kendini oluşturan unsurların toplamından ibaret olmayan ve bir bütün olma özelliği gös-
+teren toplumsal sistemi anlamak, unsurların bütün içindeki eklem yerlerinden ayrılmasına 
+ve her birinin ayrı ayrı ele alınmasına bağlıdır. 
+Toplumsal sistemin temel yapı taşı birey, başlangıç noktası ise eylemdir. Eylem, belli 
+şartlar altında bireysel aktörler arasındaki etkileşimdir. Etkileşim sürecinde bireysel ak-
+törlerin birbirleriyle nasıl ve ne tür bir ilişki içinde olacaklarını, birbirlerine karşı nasıl 
+davranacaklarını belirleyen ise, her birinin toplumsal sistem içindeki konumu ve rolüdür. 
+Buradan da anlaşılacağı gibi, bireyin toplumsal sistem içindeki yerini ve rolünü bilme-
+den toplumsal ilişkileri, yani toplumsal sistemin başlangıç noktasını anlamak mümkün 
+olmayacaktır. Dolayısıyla toplumsal sistem analizinde toplumsal statü ve rolün öncelikli 
+olarak ele alınması gerekliliği bulunmaktadır. Bu çalışmada olduğu gibi başka unsurlar 
+ele alınarak toplumsal sistem analizine katkı sağlanabilir. Toplumsal sistem analizinde, 
+bütünü parçalara ayırma yönteminin dışında bir başka yöntem daha kullanılabilir. Çok 
+sayıda bileşeni olmakla birlikte, toplumsal sistemin bir yapı bir de işlevsel boyutunun 
+olduğunu ve bu iki eksende analiz edilebileceğini söyleyebiliriz.
+104 / Tuncay CEYLAN
+Atatürk Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi 2011 15 (1): 89-104
+Kaynakça
+Bensman, Joseph, Rosenberg, Bernard (1976). An Introduction to Sociology. New York: 
+Praeger Publishers.
+Denisoff, R. Serge, Wahrman, Ralph (1979). An Introduction Sociology. New York: Mac-
+millan Publishing Co., Inc. 
+Doğan, İsmail (2002). Sosyoloji. Ankara: Pegem A Yayıncılık.
+Dönmezer, Sulhi (1994). Toplumbilim. İstanbul: Beta Basım Yayım Dağıtım.
+Edit. Outhwaite, William (2008). Modern Toplumsal Düşünce Sözlüğü. Çev. Melih Pek-
+demir, İstanbul: İletişim Yayınları.
+Bert Kaplan (1957). “Personality and Social Structure”. (Edit. Gittler, Joseph B.). Review 
+of Sociology, New York: John Wiley&Sons Inc.
+Erkilet, Alev (2007). Toplumsal Yapı ve Değişme Kuramları. Ankara: Hece Yayınları.
+Fıchter, Joseph (1994). Sosyoloji Nedir. Çev. Nilgün Çelebi, Ankara: Attila Kitabevi.
+Giddens, Anthony (2000). Sosyoloji. Haz.: Hüseyin Özel, Cemal Güzel. Ankara: Ayraç 
+Yayınevi.
+Kızılçelik, Sezgin, Erjem, Yaşar (1994). Sosyoloji Terimler Sözlüğü. Ankara: Atilla Kİ-
+tabevi. 
+Kongar, Emre, (1979). Toplumsal Değişme Kuramları ve Türkiye Gerçeği. İstanbul: Bilgi 
+Yayınevi.
+Linton, Ralph (1936). The Study of Man. New York: Appleton Century Company, Inc. 
+Lundberg, George A., ve Diğerleri (1963). Sociology. New York: University of Washin-
+gton. 
+Marshall, Gordon (1999). Soyoloji Sözlüğü. Çev. Osman Akınbay, Derya Kömürcü. An-
+kara: Bilim ve Sanat Yayınları. 
+Merton, Robert K. (1968). Social Theory and Social Structure. New York: The Free Press 
+of Glencoe.
+Poloma, M. Margaret (1993). Çağdaş Sosyoloji Kuramaları. Çev. Hayriye Erbaş. Ankara: 
+Gündoğan Yayınları.
+Parsons, Talcott (1964). The Social System. Toronto: Collier-Macmillan.
+Sanay, Eyyüp (1991). Genel Sosyoloji Dersleri. Ankara: Gazi Üniversitesi Basın Yayın 
+Yüksekokulu Yayını.
+Swingewood, Alan (1998). Sosyolojik Düşüncenin Kısa Tarihi. Çev. Osman Akınbay, 
+Ankara: Bilim ve Sanat Yayınları.
+Tezcan, Mahmut (1995). Sosyolojiye Giriş. Ankara: Feryal Matbaası.

@@ -1,0 +1,747 @@
+173
+Öz
+Bu çalışma, sembolik etkileşimci yaklaşımın gündelik yaşam sosyolojisine yapmış 
+olduğu katkıyı tartışmayı amaçlamaktadır. Sembolik etkileşimci yaklaşım nesnelerin ev-
+rensel ve nesnel bir anlamın olamayacağını gündelik etkileşim biçimlerinin anlamı ortaya 
+çıkardığını vurgulamaktadır. Bu bakımdan anlamı evrensel zamandan ve mekândan ba-
+ğımsız bir olgu olarak ele almak onun dinamik değişen boyutunu göz ardı etmek anlamına 
+gelecektir. Çalışma sembolik etkileşimci yaklaşımın anlamın ortaya çıkışındaki gündelik 
+etkileşim biçimlerinin önemini göstermeyi amaçlamaktadır. Bu bakımdan çalışma sem-
+bolik etkileşimci yaklaşımın düşünsel kökenlerini ve temel kabullerini ortaya koyduktan 
+sonra sembolik etkileşimci bakış açısının gündelik yaşamdaki yansımalarını inceleyecektir. 
+Sembolik etkileşimci yaklaşım anlamın dinamik ve değişen yapısına odaklanırken gündelik 
+yaşamdaki mikro etkileşim biçimlerinin bu anlamın ortaya çıkışında ve değişim geçirme-
+sinde son derece etkili olduğunun altını çizmektedir. Gündelik yaşam bir anlamda nesnelere 
+yüklenen anlamın ortaya çıktığı sayısız etkileşim biçimini barındırdığı için sosyologların 
+inceleme nesnesinin temelini oluşturmaktadır. Sembolik etkileşimci yaklaşım bireylerin 
+diğer bireylerle ve nesnelerle kurmuş olduğu etkileşimi kendi çıkarları ve girmiş oldu-
+ğu etkileşim biçimleri sonucunda şekillendiğini vurgulamaktadır. Bu anlamda bireylerin 
+nesnelere yüklemiş olduğu anlamları araştırırken gündelik hayatın bilgisini ve bireylerin 
+gündelik yaşamdaki konumlarını bilmek sosyolojik analiz yapabilmek için hayati öne-
+me sahiptir. Çalışma bireylerin gündelik yaşamda karşılaştıkları olayların, bu olaylara 
+yükledikleri anlamların mikro ilişkiler ve etkileşimler üzerinden anlaşılması gerektiğinin 
+altını çizmektedir. Bununla birlikte gündelik yaşamda her etkileşim bizim için aynı ölçüde 
+değerli değildir. Önem verdiğimiz ve değerli gördüğümüz bireylerle girilen etkileşimin 
+bireyler üzerinde anlamın inşası noktasında daha fazla etki yarattığı söylenebilir.
+Anahtar Kelimeler: Sembolik Etkileşim, Gündelik Yaşam, Faydacılık, Genelleştiril-
+miş Öteki, George Mead.
+*) Doç. Dr., Çanakkale Onsekiz Mart Üniversitesi, Fen Edebiyat Fakültesi, Sosyoloji Bölümü 
+(e-posta: gokulugokhan@gmail.com)  ORCID ID: https://orcid.org/0000-0003-0374-7487
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN
+GÜNDELİK YAŞAM SOSYOLOJİSİNE KATKILARI
+Gökhan GÖKULU (*)
+EKEV AKADEMİ DERGİSİ • Yıl: 23 Sayı: 80 (Güz 2019)
+Makalenin geliş tarihi: 2.11.2019
+1. Hakem rapor tarihi: 28.11.2019
+2. Hakem rapor tarihi: 11.12.2019
+Kabul tarihi: 13.12.2019
+174 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+Contribution of Theory of Symbolic Interactionism to Sociology of Everyday Life
+Abstract
+This study aims to discuss the contribution of symbolic interactionist approach to 
+sociology of everyday life. The symbolic interactionist approach emphasizes that objects 
+cannot have a universal and objective meaning, whereas everyday interaction forms 
+reveal meaning. In this respect, to consider the meaning as a phenomenon independent 
+of time and space would mean to ignore its dynamic changing dimension. The study aims 
+to show the importance of everyday interaction forms in the emergence of meaning from 
+the perspective of symbolic interactionism. In this respect, the study will examine the 
+reflections of the symbolic interactionist perspective in everyday life after revealing the 
+intellectual origins and basic assumptions of the symbolic interactionist approach. While 
+the symbolic interactionist approach focuses on the dynamic and changing structure 
+of meaning, it underlines that micro interaction forms in daily life are highly effective 
+in the emergence and transformation of this meaning. Everyday life forms the basis of 
+sociologists' object of inquiry, as it embodies numerous forms of interaction in which the 
+meaning imposed on objects emerges. The symbolic interactionist approach emphasizes 
+that individuals' interaction with other individuals and objects is shaped as a result of 
+their own interests and forms of interaction. In this sense, it is vital for sociological 
+analysis to be aware of the knowledge of everyday life and the position of individuals in 
+everyday life when investigating the meanings imposed on individuals by objects. The 
+study underlines that the events that individuals face in daily life and the meanings they 
+impose on these events should be understood through micro relations and interactions. 
+However, not every interaction in everyday life is equally valuable to us. It can be said 
+that the interaction with the individuals we care about and deem valuable has more effect 
+on the construction of meaning.
+Keywords: Symbolic Interaction, Everyday Life, Utilitarianism, Generalized Other, 
+George Mead.
+Giriş
+Sembolik Etkileşimci Yaklaşım Amerikan sosyoloji geleneğinin bir yansıması ve 
+mikro sosyolojik bir akım olarak 19. yüzyılın sonlarında ortaya çıkmıştır. Temel olarak 
+sosyal psikoloji alanındaki çalışmaların etkisinde olan sembolik etkileşimci yaklaşım, 
+özellikle George Herbert Mead (1863-1931) ve Herbert Blumer’in (1900- 1987) çalışma-
+ları doğrultusunda şekillenmiştir.
+Sembolik etkileşimci yaklaşım gündelik yaşamdaki ilişki biçimlerinin sosyolojik ana-
+liz açısından son derece verimli ve zengin bir içeriği içinde barındırdığını vurgulamak-
+tadır. Sembolik etkileşimcilere gore bireylerin mikro ilişki ağları ve bu ağlar içerisindeki 
+etkileşim biçimleri dünyaya yönelik algılarının oluşmasında temel öneme sahiptir. Bu 
+bakımdan toplumsal ilşkileri anlamaya yönelik bir girişim bu mikro etkileşim bağlamla-
+rında ortaya çıkan anlamları incelemek zorundadır. 
+175
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+Sembolik etkileşimci yaklaşım sadece anlamların bu etkileşimsel bağlam içerisinde 
+ortaya çıktığını öne sürmezler. Bireyin kim olduğunu belirleyen benlik algısı da sembo-
+lik etkileşimcilere gore diğerleriyle kurmuş olduğumuz etkileşimler sonucunda şekillen-
+mektedir. Bu anlamda birey kendi kimliğini bebeklikten itibaren diğerlerinin kendisine 
+yönelik geri bildirimleri üzerinden şekillendirmekte ve benlik algısını oluşturmaktadır. 
+Sembolik etkileşimci yaklaşıma göre başkalarının bizim hakkımızdaki düşünceleri kim 
+olduğumuzu doğrudan etkileyen bir süreci ifade etmektedir.
+Sembolik Etkileşimcilik terimi ilk olarak Blumer’in çalışmalarında kullanılan bir 
+kavram olarak göze çarpmaktadır. Blumer çalışmalarında anlama ait öznel değerlendir-
+melerin, gündelik yaşam içerisinde nasıl şekillendiği üzerinde durmaktadır. Bu bakımdan 
+anlam, toplumsal etkileşim sonucunda gerçekleşen bir üründür. Sembolik Etkileşimciliğe 
+göre, bireylerin nesnelere atfettiği anlam, diğer bireylerle yaşadığı toplumsal etkileşim 
+sonucunda şekillenmektedir (Wallace ve Wolf, 2012, s.292).
+Sembolik etkileşimcilik açisindan gündelik yaşam anlamı ortaya çıkaran ortak sem-
+bollerin ve dilin kullanılma alanı olarak incelenmesi gereken en önemli toplumsal unsur-
+lardan birini oluşturmaktadır. Farklı etkileşim biçimleri, selamlaşma ve tanışma ritüelleri 
+anlamların ortaya çıkmasında son derece önemli etkileşim unsurlarını da içerisinde ba-
+rındırmaktadır. Sosyolojik bir analiz için zengin nüveler içeren bu tür etkileşim biçimleri 
+sadece ortak sembolleri ve anlamları ortaya çıkarmaz aynı zamanda farklı toplumsal ya-
+pılardaki etkileşim biçimlerini de incelememize olanak tanır.
+1. Sembolik Etkileşimci Yaklaşım’ın Düşünsel Kökenleri
+Sembolik Etkileşimcilik terimi ilk olarak Blumer’in çalışmalarında kullanılan bir 
+kavram olarak göze çarpmaktadır. Blumer çalışmalarında anlama ait öznel değerlendir-
+melerin, gündelik yaşam içerisinde nasıl şekillendiği üzerinde durmaktadır. Bu bakımdan 
+anlam, toplumsal etkileşim sonucunda gerçekleşen bir üründür. Sembolik Etkileşimciliğe 
+göre, bireylerin nesnelere atfettiği anlam, diğer bireylerle yaşadığı toplumsal etkileşim 
+sonucunda şekillenmektedir (Wallace ve Wolf, 2012, s. 292).
+Sembolik Etkileşimcilik, insanların gündelik yaşamındaki ilişkilerin, eylemlerin ve 
+etkileşim biçimlerinin, anlamın inşa edilmesinde -ortaya çıkmasında- önemli bir rolü 
+bulunduğunu vurgularken, bu konudaki iki temel yaklaşımı indirgemeci olarak değerlen-
+dirmektedir; psikolojik indirgemecilik olarak davranışçılık ve sosyolojik indirgemecilik 
+olarak yapısal işlevselcilik.
+Anlama ait farklılaşmaların; bağlam içerisindeki eylemlerin, etkileşim biçimlerinin 
+ve değerlerin incelenmesi yoluyla anlaşılabileceğinin önemini vurgulayan sembolik 
+etkileşimcilere göre, psikolojik davranışçı yaklaşımlar ve sosyolojik yapısal işlevselci 
+görüşler, insan davranışlarının açıklanmasındaki iki farklı indirgemeci yaklaşım’ı tem-
+sil etmektedirler. “Blumer’e göre davranışçılık ve yapısal işlevselcilik, insan davranışına 
+neden olan etmenler (örneğin dışarıdan gelen uyarıcı ve normlar) üzerinde odaklanma 
+eğilimindeydi” (Ritzer, 2013, s. 354).
+176 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+Birey davranışlarını uyaranlar ve koşullandırma üzerinden açıklama eğiliminde olan 
+Psikolojik Davranışçılık Yaklaşımı, bilişsel süreçlerin insan davranışının açıklanmasın-
+da ve anlaşılmasında hiçbir etkisinin bulunmadığını, buna karşın davranışın anlaşılması 
+açısından objektif olarak gözlemlenebilen ve ölçülebilen uyarıcı ve tepki arasındaki 
+süreçlere odaklanılması gerektiğinin altını çizmektedir (Erdem, 2010, s. 180). 
+“Klasik davranışçı kuram; 17. yüzyıl J. Locke felsefesinin empirizminden ve po-
+zitivizminden kaynak alarak dayanan, pragmatist niteliği ağır basan felsefi bir temele 
+dayanıyordu. Temelde bir öğrenme kuramı olarak, çevresel koşulların belirleyiciliğini, 
+determinizmi ve kültürel etmenlerin önemine vurgu yapıyorlardı. Süreçten çok, “ürün” 
+ya da “yarar” kavramlarını öne çıkarıyorlardı. İstenmeyen davranışları söndürmek, ye-
+rine istenilir davranışları oluşturmak ana hedefleri arasındaydı. Hiç bir belirsizlik bırak-
+mamacasına, davranışların gözlemlenebilen ve ölçülebilen niteliklerini, dahası doğrudan 
+öğrenilir olma özelliklerini bilimsel olmanın koşulları olarak kabul ediyorlardı”(Topses, 
+2012, s. 68).
+Sembolik Etkileşimcilik Teorisi’nin önde gelen isimlerinden olan George Herbert 
+Mead, görüşlerini radikal Davranışçılıktan ayırmakta ve bu görüşleri eleştirmektedir. 
+Buna göre, bireyin davranışlarının koşullu uyarma sonucu gerçekleşmesi ve bilişsel sü-
+reçlerin ve zihnin bu süreçte dikkate alınmaması bir anlamda psikolojik indirgemecilik 
+olarak nitelendirilmiştir. Mead açısından insanları hayvanlardan ayıran dolayısıyla dav-
+ranışın koşullu tepki verme düzeyine indirgenemeyecek en önemli noktalarından birisi 
+de dil olgusudur (Ritzer, 2012, s . 353). 
+Sembolik Etkileşimci Yaklaşım’ın bir diğer önemli temsilcisi Blumer’da, gözlem-
+lenebilen davranışın açıklanması sürecinde bireylerin etkileşim içerisinde olduğu bağ-
+lamın, yaşadıkları öznel deneyimlerin ve gizli davranışların da dikkate alınması gerek-
+mektedir (Wallace ve Wolf, 2012, s. 288).
+Sembolik etkileşimciliğin indirgemeci olarak nitelediği bir diğer yaklaşım ise yapısal 
+işlevselci bakış açısıdır. Yapısal İşlevselcilik her şeyden önce, yapının belirli bir işlevi 
+gerçekleştirmek için ortaya çıktığını, bu yapının belirli görevleri üstlenerek toplumsal bü-
+tünleşme ve uyum açısından öncelikli olduğunu vurgulamaktadır. Yapısal işlevselciliğe 
+göre toplumsal yapı ve kurumlar toplumsal ilişkilerin düzenli bir biçimde gerçekleş-
+mesi, bu düzen içerisinde bir geleneğin oluşması ve bu geleneği genç kuşaklara aktarma 
+açısından temel özelliklere sahiptir. Aile, ekonomi, din, okul gibi kurumlar belirli davranış 
+kalıplarının gerçekleştirilmesi açısından kritik bir öneme sahiptir (Gönç Şavran, 2011, 
+s. 6). Yapısal İşlevselci bakış açısı, bireylerin toplum içerisindeki görev ve yetkilerinin 
+ve toplumsal eylem biçimlerinin, yapının belirlediği bir işlev doğrultusunda belirlendi-
+ğini, bu süreçte bu davranış kalıplarının, değer ve düşünce biçimlerinin, birey tarafından 
+içselleştirildiğini ifade eder. Bireyin toplumsal bir aktör olarak değerleri, rol ve görevleri 
+belirlemede bir rolünün bulunmadığı vurgusu, Sembolik Etkileşimci Yaklaşım açısından 
+indirgemeci bir bakış olarak görülmektedir.
+Sembolik Etkileşimci Yaklaşım’a göre, toplumsal aktörler olarak bireyler, davranış-
+larını içerisinde bulundukları mikro toplumsal süreçlerde şekillendirirler. Toplumsal 
+177
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+etkileşim sürecinde ortaya çıkan anlam ve semboller, bireyler tarafından yorumlanmakta 
+ve bu yorum doğrultusunda eylem ortaya çıkmaktadır. Bu bakımdan bireyler yapının 
+gerekliliklerini yerine getiren pasif birimler olmaktan ziyade, mevcut yapıyı belirleyen, 
+kimi zaman beklenilen rol ve davranışlara direnen, kimi zaman da bu rol ve davranışları 
+değiştirmede aktif rol üstlenen özneler konumuna yükselmektedirler.
+Sembolik Etkileşimci Yaklaşımın etkilendiği felsefi akımlarından birisi de pragmatist 
+anlayıştır. Pragmatist felsefe anlayışı, bireylerin çevresiyle kurduğu ilişkileri, nesnelere 
+yüklediği anlamları ve dünyayı tanımlama biçimlerini, bu ilişkilerden elde ettikleri fay-
+da üzerinden tanımladıklarını ileri sürmektedir. 19. yüzyılın sonlarında Charles Pierce, 
+William James ve John Dewey gibi isimlerin geliştirdiği bu yaklaşım, Sembolik Et-
+kileşimcilerin bireyin çevre ve benlik algısı ile ilgili görüşlerini etkilemiştir (Sandstrom 
+ve diğerleri, 2001, s. 217).
+Pragmatizm, gerçeklik ve anlam gibi kavramların, bireylerin ilişki içerisinde olduğu 
+nesnelerin onlara ne kazandırdığı ya da onlar üzerinde ne gibi etkiler yarattığı ile ilgili 
+olduğunu ileri sürmektedir. Böyle bir yaklaşım, gerçeklik ve anlamın bağlama göre deği-
+şebileceğini, anlamın ve dolayısıyla gerçeklik olarak nitelendirilen kavramların dinamik 
+olgular olduğunu, dolayısıyla anlamı ve gerçekliği incelemenin yolunun, bağlamı analiz 
+etmekten geçeceğini vurgulamaktadır. Pragmatist felsefenin, felsefi realizm ve nomina-
+list pragmatizm anlayışı olmak üzere iki temel yaklaşımı bulunmaktadır.
+Felsefi realizm anlayışı, toplumun bireylerin zihinsel süreçlerini ve davranışlarını 
+nasıl denetlediği üzerine odaklanmaktadır. Lewis ve Smith’e göre Sembolik Etkile-
+şimcilerin görüşlerinden etkilendiği Nominalist Yaklaşım; bireyleri, gündelik yaşam 
+içerisindeki çıkarlarını ve ilişki biçimlerinin toplumsala ait belirlenimini pasif bir biçim-
+de kabul etmeyen, bizzat o toplumsalı değiştiren, dönüştüren, kimi zaman ona direnç 
+gösteren özneler olarak ele almaktadır (Ritzer, 2012, s. 210).
+Nominalist pragmatizm “bireyleri topluluğun normları, rolleri, inançları ve ben-
+zerini kendilerine ait kişisel çıkarlar ve anlık planlarına göre kabul eden, reddeden, 
+değiştiren, olmazsa ‘tanımlayan’ varoluşsal açıdan özgür failler olarak kavrar” (Lewis 
+ve Smith, 1980’den aktaran Ritzer, 2012, s.210).
+Pragmatist felsefenin Sembolik Etkileşimcilik açısından bir diğer etkisi, bireyle-
+rin davranış ve tepkilerinin içgüdüsel bir biçimde gerçekleşmediğini aksine toplumsal 
+hafızaya ve toplumsal olarak öğrenilen davranışlara bağlı bir biçimde gerçekleştiğini 
+ortaya koymasıdır. Söz konusu tartışmada bu akımın temsilcilerinden olan William 
+James, insanların bir ayıdan içgüdüsel olarak korktukları için kaçmaktan ziyade, bir 
+ayıdan kaçtıkları için korktuklarını öne sürmektedir (Pascale, 2011, s. 79). Bunun anla-
+mı, insan davranışlarının doğuştan itibaren belirlenen bir yönü olmaktan ziyade, toplum-
+sal etkileşim sonucu şekillenen bir boyutunun olmasıdır. Bu yaklaşıma göre ayıdan ve 
+diğer vahşi hayvanlardan korkmayı toplumsal etkileşim süreci içerisinde deneyimlerimiz 
+aracılığıyla öğreniriz. Küçük bir çocuğun korkusuzca yanan bir cisme elini uzatması, 
+kendisine zarar verebilecek hayvanların yanına yaklaşabilmesi gibi örnekler bu görüşü 
+destekler niteliktedir.
+178 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+Bireylerin davranışlarının, düşüncelerinin ve toplumsal rollerinin bu etkileşim sonu-
+cunda gerçekleşmesinin daha önemli bir sonucu ise benlik kavramına yönelik olarak 
+doğuştan bir algıdan ziyade, benliğin sosyalizasyon ve etkileşim içerisinde gerçekleşen 
+bir süreç olarak görülmeye başlamasıdır. Benlik bu algı içerisinde ilahi ya da biyolojik 
+belirlenimli bir kavram olmaktan çıkıp, toplumsala ve etkileşime ait bir olgu olarak gö-
+rülmektedir.
+Benliğin algılanmasıyla ilgili önemli dönüşümlerden bir diğeri ise, benliğin sabit 
+ve durağan bir biçimde algılanmasından ziyade, insan davranışlarının ve toplumsal rol-
+lerinin sonucunda şekillenen çoklu benlik algısının ortaya konmasıdır. Bireyler etkile-
+şimde bulunduğu toplumsalın ve ondan beklenen rollerin niteliğine göre farklı rollere 
+bürünmekte okulda öğrenci, aile içerisinde çocuk, stadyumda taraftar vb. olabilmektedir 
+(Pascale, 2011, s. 79). Cooley, Mead, Blumer gibi sembolik etkileşimci yaklaşımın önde 
+gelen isimlerini etkileyen pragmatizmin, Kartezyen düalizmden ontolojik olarak ayrıldığı 
+noktalar yer almaktadır.
+Tablo 1: Kartezyen ve Pragmatist Ontolojiler
+Kartezyen Düalizm
+Pragmatizm
+Ontolojik gerçeklik
+Değişen Ontolojik Gerçeklik
+Özne = Birey
+Özne = Birey
+Özne/Nesne İkiliği
+Özneler arasılık
+Objektif Gerçeklik
+Etkileşim içerisinde ortaya çıkan gerçeklik
+Öznelerin deneyimleri vardır.
+Özneler deneyimleri yorumlar.
+Dil nesnel ve tarafsızdır.
+Dil sembolik bir etkileşim aracıdır.
+(Pascale, 2011, s. 80)
+Sembolik etkileşim açısından bir diğer önemli yaklaşım, Weber sosyolojisi ve onun 
+bireysel anlama atfettiği önemdir. Weber’in Yorumlayıcı Yöntemi, bireylerin davranış-
+larının öznel anlamları olabileceği ve bu anlamları ortaya çıkarmadan toplumsal eylemi 
+anlamanın (verstehen) mümkün olmadığı görüşü üzerinde durmaktadır. Weber metnin 
+anlaşılmasında ve yorumlanmasında yazarın düşüncelerinin ve niyetinin araştırılması 
+gerektiğini düşündüğü hermeneutik geleneğin, sosyoloji bilimine de uygulanmasını 
+gerektiğini vurgulamaktadır (Ritzer, 2013, s. 117). Toplumsal eylemin anlaşılmasındaki 
+amaç, onu meydana getiren bireylerin taşıdıkları niyetleri ortaya çıkarmak, dolayısıyla 
+ona yönelik toplumsal bağlamı ortaya koymaktır.
+“Davranışın anlaşılması, onun ardında yatan belli bir anlam dünyasının varlığına; 
+yorumlayarak anlaşılması, bu anlam dünyasının bir çırpıda tüketilecek bir tanım içerisine 
+179
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+sıkıştırılamayacağına; davranışın oluşumunun ve yarattığı tesirin sebeplerinin açıklan-
+ması, anlam dünyası içerisinde de belli düzenlilikler ve nedensel ilişkilerin bulunabilece-
+ğine işaret etmektedir.” (Öztürk, 2013, s. 221)
+Weber bireysel eylemin toplumsal bağlamdan yalıtık bir biçimde incelenemeyeceğini, 
+her bireyin belirli bir davranışta bulunurken diğerlerinin tepkilerini hesaba katarak hare-
+ket ettiğini vurgulamaktadır. Bu açıdan anlama olgusu bize, toplumsal bir davranış olan 
+bireysel eylemlerin anlaşılması açısından önemli bir kavrayış sunmaktadır.
+Weber ve Sembolik Etkileşimci yaklaşım arasında, bireylerin eylemlerinin anla-
+şılması gerektiğine yönelik bir ortak bakış açısı bulunuyor gibi gözükse de bazı ayrışan 
+noktalar bulunmaktadır. Weber’in anlama (verstehen) kavramı, bireysel eyleyicilerin 
+yani toplumsal aktörlerin öznel durumlarıyla ilgili bir kavrayıştan ziyade, anlamanın 
+kültür, gelenek gibi daha makro ölçekteki düzeylerde incelenmesi için bir araç olarak 
+kullanılması üzerine yoğunlaşmaktadır (Ritzer, 2013, s. 117). Sembolik Etkileşimci Yak-
+laşım, sembollerin bireyler için ne anlam ifade ettiğini ortaya koyma sürecinde, anlamın 
+makro ölçekli yapılar üzerinden değil daha mikro düzeydeki öznel farklılıklar üzerinden 
+gerçekleşmesi gerektiğine işaret etmektedir.
+Sembolik Etkileşimcilik açısından önemli figürlerden bir diğerini, George Simmel 
+ve onun sosyolojisi oluşturmaktadır. Toplumsal yapı içerisindeki gündelik etkileşimleri, 
+insanların farklı ilişki formları durumunda üstlendikleri tutum ve davranışları sosyolo-
+jinin inceleme nesnesi olarak belirleyen Simmel sosyolojisi, sembolik etkileşimciliğin 
+gündelik hayatta sergilenen davranış biçimlerinin öznel anlamını ön plana çıkaran bakış 
+açısının şekillenmesinde etkili olmuştur. Simmel, toplumsalı oluşturan sayısız ilişki 
+biçimlerinin ayrıntılı bir çözümlemesini gerçekleştirirken; sır verme, mektuplaşma, göz 
+göze gelme gibi gündelik yaşama ve toplumsal etkileşime ilişkin olguları incelemektedir.
+“İnsanlar birbirlerine bakarlar. Birbirlerini kıskanırlar; aralarında mektuplaşırlar veya 
+birlikte yemek yerler; bütün elle tutulur çıkarlarına rağmen birbirlerinden hoşlanırlar 
+veya hoşlanmazlar; özgeci (alturistic) hareketler onları birbirine bağlar; bir adam bir 
+başkasına bir sokağı sorar ve insanlar birbirleri için süslenirler” (Wallace ve Wolf, 2012, 
+s. 271).
+Modern toplumun, özellikle metropol yaşamı içerisinde sayısız ilişki biçimini içinde 
+barındırdığını ifade eden Simmel, bu ilişki biçimlerinin ve rollerin anlaşılmasında top-
+lumsal etkileşimin öneminin altını çizmiştir. Simmel’in mikro düzeyde ilişki biçimlerini 
+incelediği sosyolojisi, Robert Park ve George Herbert Mead gibi Sembolik Etkileşimcili-
+ğin gelişmesinde önemli rolü bulunan figürleri etkilemiştir (Farganis, 2000, s. 148).
+2. Sembolik Etkileşimci Yaklaşım’ın Temel Kabulleri
+Sembolik Etkileşimci Yaklaşım, insan davranışlarının ve toplumsal eylemlerin anla-
+şılması açısından, bireylerin olaylara ve nesnelere yüklediği anlam ve sembollerin araş-
+tırılması gerektiğini öngörmektedir. Bireylerin nesnelerle kurduğu ilişkinin nesnel ve 
+180 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+evrensel anlamlar ifade edemeyeceğini öngören bu yaklaşıma göre, bireyler nesnelerle 
+kurduğu ilişkiler bağlamında nesnelere anlamlar yüklemektedirler. Nesneler ve diğer 
+bireylerle kurulan bu tür bir ilişki, gündelik yaşamdaki ihtiyaç ya da arzu gibi duygu-
+lardan kaynaklanabilir. Benzer bir biçimde bireyler, endişe ve zarar göreceği duygusuyla 
+bazı nesnelere ve olgulara olumsuz anlamlar yükleyebilirler. Bireylerin gündelik ya-
+şamla ilgili faydacı bir anlayışla nesnelere yüklediği anlamlar, onların bir semboller ve 
+anlamlar dünyası içerisinde yaşadıklarının göstergesidir.
+Sembolik Etkileşimci Yaklaşım, bireyler ve nesnelerle kurulan ilişkinin insanların 
+onlara yüklediği anlamlar üzerinden gerçekleştiğini vurgularken; anlamın evrensel olma-
+dığını, bireylerin gündelik ilişkiler bağlamında sembolleri yorumladığını ve bu yorum-
+lama sürecinin dinamik bir biçimde gerçekleştiğini vurgular. Bireyler, gündelik ilişkiler 
+içerisinde karşılaşmış olduğu diğer bireylerin vermiş oldukları mesajları yorumlayarak 
+toplumsal etkileşimde bulunmaktadırlar.
+Gündelik ilişkiler içerisinde etkileşimde bulunan bireyler, karşılaştıkları durum ve 
+olayları kendi perspektifleri doğrultusunda yorumlama ve davranma eğilimindedirler. 
+William Isaac Thomas’ın durumun tanımlanması (definition of situation) olarak ifade 
+ettiği bu kavram, bireylerin gündelik hayat içerisinde karşılaşmış oldukları durumların ve 
+ilişki biçimlerinin öznel olarak değerlendirmesi yoluyla, davranışa karar verildiği bir anı 
+ifade etmektedir. Bu yaklaşım bireylerin aynı durumlara, karşılaştıkları benzer olaylara 
+ve kurduğu iletişim biçimlerine farklı anlamlar yükleyebileceğini ele almaktadır.
+Durumun Tanımı Yaklaşımı, toplumsal bir olguyu anlamada bireylerin karşılaşmış 
+olduğu durumların bizzat o toplumsal aktörler tarafından ne anlam ifade ettiği incelen-
+medikçe, sağlıklı bir toplumsal analizin mümkün olmadığını ileri sürmektedir. “Araş-
+tırmacılar bu öznel anlamlara, durumun tanımlarına dikkat etmedikleri sürece, kendi 
+toplumlarının üyesi olan insanları anlayamadıkları kadar diğer kültürleri de anlama yete-
+neğinden yoksun olacaklardır.” (Coser, 2011, s. 450).
+Sembolik Etkileşimci Yaklaşım yapıyı ön plana alarak, bireyi bu yapı içerisinde şekil-
+lenen pasif birimler olarak algılayan klasik sosyolojik teorilere eleştirel bakarak, bireyin 
+toplumsal gerçekliği oluşturmada ve bu gerçekliği yorumlamada önemli bir rolünün bu-
+lunduğunu ortaya koymaktadır. 
+3. Charles Horton Cooley ve Gündelik Yaşam Sosyolojisi
+Sembolik Etkileşimciliğin ilk dönem temsilcilerinden biri olarak değerlendirilen 
+Charles Horton Cooley’in yapmış olduğu en önemli katkılardan biri, ayna benlik kavra-
+mıdır. Cooley toplumla benliği birbirini bütünleyen bir yapı hatta aynı paranın iki farklı 
+yüzü olarak görmektedir. Ona göre toplum dediğimiz şey, benliğin oluşum sürecinde 
+bireyin diğerleriyle ilgili fikirleri sonucu oluşan bir algıdır (Delamater, 2003 s. 9).
+Bireyin çocukluktan itibaren benliğinin şekillenmesi, iki temel faktör sonucunda ger-
+çekleşmektedir. İlk olarak çocuk kendi potansiyelinin farkına varır. Bu süreç içerisinde, 
+181
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+toplumsal bir aktör olarak, kendi potansiyelinin ne olduğunu ve neleri başarabileceğini 
+duyumsamaya başlar. İkinci önemli aşama ise bireylerin, başkalarının kendileri hakkın-
+da ne düşündüğünü tahayyül ederek bu izlenim, görünüm üzerinden davranışlarına şekil 
+vermeleridir. Çocuğun kendisi hakkındaki düşünceleri ve kendi benliği ile ilgili gelişimi, 
+diğerlerinin kendisi hakkında ne düşündüğüyle ilişkilidir. Cooley, bu gelişim sürecinde 
+toplumun bireyin davranışlarını kısıtladığı görüşüne katılmaz; aksine toplum bireyin 
+benliğinin gelişimine olanak tanıyacak etkileşim alanlarına imkân tanımaktadır (Pascale, 
+2011, s. 80).
+Cooley, ayna benlik kavramıyla, başkalarının bizim hakkımızda düşündüğü şey-
+lerin, bireyin kendi düşüncelerini ve davranışlarını etkilediğini ortaya koymaktadır. 
+Etkileşim süreci sonucunda ortaya çıkan bu durum bireyin davranışlarını karşısındakine 
+göre ayarlamasına olanak tanımaktadır. Cooley, ayna benlik sürecindeki aşamaları şu 
+şekilde sıralar:
+Birinci aşama, kendi görüntümüz hakkındaki düşüncemizdir. Yani biz başkalarının 
+gözünde nasıl görünüyoruz. Özellikle bizim için önemli olan kimseler; annemiz, ba-
+bamız, arkadaşlarımız bizi nasıl görüyor? Bu insanların fikirleri bizim açımızdan çok 
+önem taşır.
+İkinci aşama başkalarının bu reaksiyonları değerlendirmeleri ve açıklamalarıdır. 
+Yani onlar bizi, bizim kendimizi gördüğümüz biçimde mi görüyor yoksa farklı mı?
+Üçüncü aşama ise benlik kavramının gelişimidir. Yani başkalarının bizi neden bu şe-
+kilde gördüğünü değerlendirir ve buna uygun bir benlik geliştirmeye başlarız. Eğer ayna 
+benlik olumlu ise, bu olumlu davranışları devam ettiririz (Özkalp, 2004, s. 82).
+Cooley, “ayna benlik” kavramıyla benliğin gelişiminin iletişim kurduğumuz birey-
+lerden dolayısıyla toplumsal etkileşimden ayrı düşünülemeyeceğini ortaya koymuştur. 
+Bu anlamda benliğin toplumsal bağlamdan ve etkileşimden yalıtık bir töz olmadığı, 
+onun somut gündelik ilişkilerle ve bu ilişkiler sonucunda bizim kimliğimizle ilgili geri 
+dönüşler neticesinde şekillenmekte olduğu ön plana çıkmaktadır. Cooley, “İnsan Doğası 
+ve Toplum” isimli çalışmasında bireyin toplumsal ilişkilerden ve içerisinde bulunduğu 
+toplumsal bağlamdan bağımsız bir varlığının bulunmadığını öne sürerken (Cooley, 1992, 
+s. 3) benliği rasyonel bir töz olarak yorumlayan, benliğin toplumsalla ilişkisini ikincil 
+plana atmış gözüken Descartes’çı geleneğe karşı çıkmaktadır. Benzer bir biçimde benliği 
+sadece biyolojik bir belirlenimci anlayışla ele alan görüşleri de etkileşim ve sosyalizas-
+yonun rolünü göz ardı ettiği için eleştirmektedir.
+Gündelik ilişkiler ağı çerçevesinde çocuk, ilk başta aile, akraba gibi birincil gruplar-
+la etkileşim içerisine girerek başkalarının kendisi hakkındaki görüşüne göre davranışla-
+rını şekillendirmektedir. Etkileşim içerisine girdiğimiz diğer insanların bize karşı davranış 
+ve tutumları kendi benliğimizi anlatan bir ayna vazifesi görmektedir. Bu ayna sayesinde 
+güzel, çirkin, saygılı ya da saygısız, hoşgörülü ya da hoşgörüsüz olduğumuzun çıkarımını 
+yaparak kişiliğimize yönelik değerlendirmelerde bulunuruz (Özkalp, 2004, s. 82).
+182 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+Cooley, bir bireyin kimliğini, gündelik ilişkiler ve gündelik yaşam biçimleri içeri-
+sinde kazandığını; arzularını, mesleki yönelimlerini, korkularını ve zevklerini oluşturan 
+faktörün, bireyin benliğinin gelişimiyle ilişkili olduğunu ortaya koymaktadır. Gündelik 
+yaşamla ilgili en önemli belirleyici faktörlerden birisini birincil gruplar oluşturmaktadır. 
+Cooley’in birincil grup olarak nitelendirdiği ve benliğin gelişimi açısından önemli bir 
+etkileşim alanı olarak gördüğü birincil grupların özellikleri şu şekilde özetlenebilir;
+Yüz-yüze ilişki biçimleri, Belirsiz, resmi olmayan etkileşim, Görece istikrarlı, süre-
+giden ilişki biçimi, az sayıda bireyin dâhil olduğu yapı, Etkileşim içerisindeki bireylerin 
+samimiyeti (Martindale, 1970 s. 345)
+Birincil gruplar, sosyalizasyon süreci içerisinde bireyin hem en fazla önem verdiği 
+hem de en sık bir biçimde gerçekleştirdiği etkileşim biçimlerini içermektedir. Bu anlamda 
+bireyin ailesi, çocuğun benlik gelişimi açısından kritik öneme sahiptir. Birincil grupla-
+rın, bireyin kimliğini kazanmasında önemli bir rolü bulunmasının nedeni gündelik yaşam 
+içerisinde en fazla iletişim içerisine girdiğimiz ve çocukluktan itibaren davranışlarımız ve 
+sonuçları hakkında geri bildirim aldığımız yerin aile olmasından kaynaklanmaktadır.
+4. George Herbert Mead ve Gündelik Yaşam Sosyolojisi
+Sembolik Etkileşimci Yaklaşımın en önemli isimleri arasında gösterilen George 
+Herbert Mead, benlik, benliğin gelişimi, genelleştirilmiş öteki gibi Sembolik Etkileşim 
+açısından kritik öneme sahip kavramları geliştirmiş ve Sembolik Etkileşimciliğin Ameri-
+kan ve dünya sosyolojisinde bir ekol hâline gelmesine önemli katkılar sağlamıştır.
+Mead, tıpkı Cooley gibi benliğin ve bireyin toplumdan bağımsız ve etkileşim sürecin-
+den ayrı olarak düşünülemeyeceğini vurgulamaktadır. Birey olmanın ya da bir benliğe 
+sahip olmanın yolu, anlamlı semboller aracılığıyla kurulan etkileşime bağlıdır. Bu nok-
+tada Mead, içgüdüsel jestler ve anlamlı jestler arasında bir ayrım yapar. Mead insanın 
+hayvanlardan farklı olarak semboller ve anlamlar aracılığıyla iletişim kurabildiğini, bu 
+yolla da bireyin kendi davranışlarını topluma adapte edebildiğini göstermektedir.
+Mead, jest kavramını ayrıntılı bir biçimde işleyerek, insan etkileşiminin benliğin ve 
+zihnin ortaya çıkması açısından son derece önem taşıdığını vurgulamıştır. Ona göre, 
+içgüdüsel davranışın ve tepkilerin önüne geçen dolayısıyla bizi hayvanlardan ayıran şey 
+anlamlı semboller aracılığıyla iletişim kurma yeteneğimizdir. Mead anlamlı jestler ve iç-
+güdüsel jestler arasında bir ayırım yaparak, anlamlı jestlerin etkileşimi sağladığını ortaya 
+koymaktadır. Buna göre bir köpeğin diğer köpekle kavga etmesi sırasında saldırması ve 
+geri çekilmesi hayvansal jestlere örnek oluştururken bireyin karşılıklı etkileşim içerisin-
+de gösterdiği sözel ifadeler anlamlı jestleri kapsamaktadır (Coser, 2011, s. 296).
+Mead’in anlamlı jest ayrımı insanların, diğer canlılardan farklı bir etkileşim içerisine 
+girdiğini ifade etmektedir. Anlamlı sembolleri sadece insanların gerçekleştirebileceği 
+bir jest türü olarak gören bu yaklaşım, dil olgusuna bu süreçte kritik önem atfetmektedir. 
+Dil, insanlar arasındaki ortak duygu ve anlam dünyalarını içermektedir. Bireyler, dilin 
+183
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+varlığı aracılığıyla bir zihne ve düşünce dünyasına sahip olmaktadırlar. Düşünce Mead’e 
+göre, bu anlamda bireyin anlamlı jestler aracılığıyla kendisiyle konuşması olarak tanım-
+lanmaktadır (Ritzer, 2012, s. 219-220).
+Dil, bireyin diğer insanlarla ortak bir anlam dünyası yaratmasına olanak tanımaktadır. 
+Kedi veya köpek kelimesini ifade eden birisi, karşısındakiyle ortak bir zihinsel imge 
+yaratmaktadır. Daha açık bir ifade ile dilin bir diğer önemli işlevi, bilincin oluşması-
+na imkân tanıyarak, insanların bir olayla ilgili tepkilerini yönlendirmek ya da onların 
+davranışlarını dil aracılığıyla hesaba katarak, kendi davranışlarımızı değiştirmektir. 
+Örneğin bir konudaki hoşnutsuzluğu genelde bilinçsiz bir biçimde ifade edilen beden 
+diliyle ortaya koyan bir birey, bunu sözlü olarak ifade eden birine göre daha az anlaşılır-
+dır (Ritzer, 2012, s. 219).
+Benzer biçimde derste bir öğretmenin gürültü yapan sınıfa karşı gergin bir biçimde 
+oturmasıyla, o sınıfa yüksek sesle sessiz olması gerektiğini söylemesi arasında fark bu-
+lunmaktadır. İlk durumda öğrencilerin bu ifadeyi yorumlama olasılığı çok daha az iken, 
+hoşnutsuzluğun sözel olarak ifade edilmesi sonucunda öğrencilerin reaksiyon gösterme-
+si çok daha olası bir durumdur. Bu bakımdan dil, ortak anlamlar alanı üreterek gündelik 
+hayattaki etkileşimimizi belirleyen en önemli ögelerden birisidir.
+Mead, benlik kavramını Cooley gibi toplumsal etkileşim sürecinde ortaya çıkan 
+bir kavram olarak değerlendirmiştir. Bireylerin toplumsal etkileşim süreci içerisinde 
+başkalarının ve kendinin bilincine varması benliğin oluşumu açısından önem kazanmak-
+tadır. Benliğin doğuştan itibaren ortaya çıkan bir olgu olmadığını ve çocuğun büyüme aşa-
+masında sosyalleşmesi ile ortaya çıkan bir yapı olduğunu belirten Mead, benliğin olu-
+şum aşamalarını; taklit etme, oyun ve grupla oyun aşamaları olarak ifade etmektedir.
+Taklit aşaması, 2-3 yaşlarında ortaya çıkan ve oyun aşamasına hazırlık olarak de-
+ğerlendirilen bir aşamadır. Çocuk bu yaşlarda büyüklerin mimik ve davranışlarını taklit 
+etmeyi öğrenmektedir. Bu aşamada rol davranışının nasıl olduğu konusunda henüz bir 
+bilgi bulunmazken; çatal, kaşık tutma gibi davranışlar ebeveynleri taklit etme yoluyla 
+öğrenilmektedir. Oyun aşamasında (Play Stage) ise çocuk, belirli bir kişinin rolünü üst-
+lenmektedir. Burada üstlendiği kişinin sorumlulukları ve görevlerinin neler olduğunu 
+anlamaya çalışan çocuk; anne, baba ya da öğretmen gibi rolleri üstlenmeye çalışır. 3-6 
+yaş aralığında gerçekleşen bu aşamada çocuk, henüz tam anlamıyla rolün gereklerinin 
+ne olduğunu ve bunların ne şekilde kazanıldığını vs. bilemez. Grupla oyun aşaması 
+(Game Stage) ise çocuğun arkadaşlarıyla oynadığı, birkaç rol üstlendiği ve böylece ileride 
+alacağı rollerin sorumluluklarını kavradığı bir aşamadır. Bu aşamada çocuk, kuralları ve 
+bu kurallara uyulmazsa başarısız olunacağını öğrenmektedir (Özkalp, 2004, s. 83-84).
+Benliğin gelişimi açısından önemli kavramlardan bir diğerini “genelleşmiş başkala-
+rı” kavramı oluşturur. Benliğin gelişim süreci içerisinde bireyler tek tek bireylerin ne 
+düşündüğü ve beklentilerinin ne olduğuna bakarken bile zihninde genelleştirilmiş bir 
+öteki anlayışı bulunmakta ve buna paralel olarak başkalarının onlara yönelik isteklerini 
+kavramsallaştırmaktadır. Genelleştirilmiş öteki kavramı, bireylerin kendilerini başka-
+184 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+larının gözünde nesnel bir biçimde değerlendirmesini ve genelleme yaparak soyutlama 
+yapabilme olanağını sağlarken aynı zamanda etkileşim içerisine girdiği bir grubun kendi-
+lerinden beklentilerini karşılayabilmesine olanak tanımaktadır (Ritzer, 2012, s. 223).
+Benlik, diğer insanların benim hakkımda ne düşündüklerini içeren, dolayısıyla bireyin 
+kendisine bir nesne olarak bakabilmesine olanak tanıyan “beni” ve benliğin daha aktif, 
+diğer bireylerin kendisi hakkında düşündüklerine reaksiyon gösteren “ben” ayrımından 
+oluşmaktadır. Ben (I) benliğin özgün boyutunu temsil ederken, beni (me) bireyin dışsal 
+ve içsel denetimini sağlayan diğerlerinin ne yapılması gerektiğine dair kanaatlerini oluş-
+turmaktadır.
+Ben (I), genelleştirilmiş ötekinin -dolayısıyla toplumun- taleplerini pasif bir biçimde 
+kabul etmeyen her bireydeki özgün yapıyı ifade eder. Bununla birlikte ‘ben’ tam olarak bü-
+tünüyle farkında olduğumuz bir alanı ifade etmez. Ben sadece eylemlerimizi gerçekleştir-
+dikten sonra farkına vardığımız, kişiliğimizin oluşması açısından önemli bir özgün alanı 
+ifade eder. Mead, ‘ben’ olmasaydı bütünüyle içsel ve dışsal denetimlerin esiri olacağı-
+mızı ve ilkel insanlarda ve kolektif değerlerin güçlü olduğu toplumlarda ben’in daha 
+güçsüz olduğunu vurgulamaktadır (Ritzer, 2012, s. 224). “Beni” bireyin kendisi hak-
+kında diğerlerinin ne düşündüğünü içeren dolayısıyla kendisine nesne olarak bakabilme 
+imkânı veren kısmını oluşturur. Ben ve beni bir bütün olarak benliği oluşturmaktadır. 
+“Ben organizmanın ötekilerin tavrına karşı yanıtıdır; ‘beni’ ise üstlenilen, ötekilerin bir 
+dizi örgütlü tavırlarıdır. Ötekilerin tavırları örgütlü ‘beni’ kurar ve sonra ona karşı bir ben 
+olarak davranılır” (Mead 1934’den aktaran Coser, 2011, s. 299).
+Mead, benlik kavramını ve onun gelişim aşamalarını ortaya koyarak, bireylerin 
+gündelik yaşam içerisindeki sembolik etkileşim aracı olan dil sayesinde ve kendi yöne-
+limlerini de göz önüne alarak, anlamı inşa ettiklerini belirtmektedir. Bununla birlikte 
+benliğe nesne olarak bakabilme yeteneği, bireyin kendini başkalarının gözüyle değerlen-
+dirme imkânı sağlamaktadır. Bu sayede birey, gündelik yaşamdaki farklı beklentilerin 
+ve üstlenmiş olduğu rollerin gerekliliklerinin tam olarak bilincine varır ve bunları yerine 
+getirir. Birey, gündelik yaşamdaki farklı rol biçimlerinin neler gerektirdiğine dair algıyı 
+‘genelleştirilmiş başkaları’ kavramı aracılığıyla içselleştirmektedir. Bu anlamda ‘genel-
+leştirilmiş başkaları’ gündelik yaşam içerisindeki rollerin ve davranış kalıplarının neler 
+olması gerektiğine yönelik kalıp düşünceleri içermektedir.
+5. Herbert Blumer ve Gündelik Yaşam Sosyolojisi
+Herbert Blumer, hocası Mead ile birlikte Sembolik Etkileşimci Yaklaşımın önde 
+gelen isimleri arasında bulunmaktadır. Chicago Üniversitesi’nde Mead ile birlikte yap-
+mış olduğu çalışmalar ve Chicago Okulu’nun sahaya önem veren ampirik çalışma gelene-
+ği, Blumer’in sosyolojik yaklaşımının şekillenmesindeki önemli faktörlerden olmuştur 
+(Koçak Turhanoğlu, 2011, s. 103).
+Sembolik Etkileşimciliğin sosyolojinin farklı çalışma alanlarına uygulanabilmesin-
+deki temel yöntembilim ilkelerin kavramsallaştırmasında, Blumer’in önemli bir katkısı 
+bulunmaktadır. Blumer, sosyolojinin konusu içerisine girerken inceleme nesnesiyle ilgi-
+185
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+li ön kabullere dayalı tümden gelimci sosyoloji geleneğini eleştirerek farklı tipolojilerin, 
+teorilerin ve açıklamaların öncelikle sahaya inilerek mikro düzlemde araştırılmasını daha 
+sonra incelenen olguyla ilgili açıklamalar kavramlar geliştirilmesi gerektiğini vurgula-
+maktadır (Blumer 1975’den aktaran Wallace ve Wolf, 2012, s. 304).
+Blumer, eylemin temelinde yatan itici gücün nedenlerini sorgularken, nesnelerin 
+kendi içkin anlamlarından ziyade bireylerin kendi ilgileri doğrultusunda nesnelere yük-
+ledikleri anlamlar üzerinden harekete geçtiklerini vurgulamaktadır. Anlamın nesneden 
+değil de bireyin ilgisi doğrultusunda ortaya çıkmasının çeşitli sonuçları bulunmaktadır. 
+Öncelikle anlamlar, durağan ve her birey için aynı gösterene sahip olan sabit kavram-
+sallaştırmalar değildirler. Anlam, bireyin diğer bireylerle geçtiği iletişim ve toplumsal 
+etkileşim sonucunda oluşmaktadır. Dolayısıyla toplumsal bir gerçeklik diğer bireylerin 
+tepkileri, karşılıklı uzlaşmaları gibi süreçler sonucunda meydana gelen dinamik bir yapı-
+yı ifade eder. Bu bakımdan toplumsal bir eylemin açıklanmasında davranışsal psikolojik 
+etkenler kadar yapıyla ilgili deterministik kavramsallaştırmalar da anlamlı bir sonuç 
+vermez (Coser, 2011, s. 495).
+Blumer’in tümdengelimci yaklaşımları eleştirmesinde Davranışçı Psikolojik Yak-
+laşımların bireyin rolünü tamamen göz ardı eden bakış açısı kadar, yapı kavramını ön 
+plana alan ve insan davranışlarını ve toplumsal eylemin nedenlerini bireyden ziyade 
+toplumsal kurumlara bağlayan geleneğin de payı bulunmaktadır. Coser (2011, s. 495), 
+Blumer ve sonrasındaki Sembolik Etkileşimci sosyolojik geleneğin, toplumsal olguları, 
+bireyler arasındaki etkileşim sonucunda ortaya çıkan ve yorumlayıcı sürecin önemli bir 
+etkisinin bulunduğu bir süreç olarak görme eğiliminde olduklarının altını çizmektedir. 
+Buna göre toplumsal bir olguyu inceleyen sosyolog, var olan etkileşim biçimlerini an-
+lamaya çalışıp, kendisini eyleyicilerin yerine koymalıdır. Bununla birlikte toplumsal bir 
+olguyu inceleyen araştırmacı, incelediği toplumsal bağlamı ve etkileşimleri betimleme-
+ye çalışmalı ve her türlü soyut toplumsal kanunlar ve genellemelerden kaçınmalıdır. 
+Sembolik Etkileşimci Yaklaşıma göre, gündelik hayattaki pek çok farklı ilişki biçimi 
+ancak bu tür bir betimleme ve araştırmacının kendisini eyleyenin yerine koyma çaba-
+sıyla anlaşılabilir kılınır.
+“Bu nedenle, yalnızca tam anlamıyla tümevarımcı olan yöntemler onların davra-
+nışlarını anlamaya yardımcı olabilirler. Örneğin ilk defa flört eden iki genç insanın 
+davranışını ele alalım. Hiç şüphesiz ki, genelde Amerikan kültürü ve özelde statü grup-
+ları, bu tür karşılaşmaları yöneten belirli temel ve genel normlara sahiptirler, ancak bu 
+iki genç insanın fiilî davranışları bu normlar temelinde asla öngörülemezler.” (Coser, 
+2011, s. 495).
+Blumer’in, pozitivist bir bakış açısıyla makro boyuttaki yapıların birey üzerindeki 
+etkilerini inceleyerek bu yolla genelleme yapmayı amaçlayan yaklaşımları eleştirme-
+sinin temel nedeni, bireyin toplumsal olaylardaki rolünün bu teoriler tarafından göz ardı 
+edilmesidir. Bu noktada Blumer, makro boyuttaki toplumsal kurumların ve geleneğe 
+dayalı olarak tarihsel süreçte ortaya çıkan normların toplumsal etkisini kabul etmekle 
+186 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+beraber, bireyin toplumsal eylemi dönüştürme ve yorumlama kapasitesini önemsemeyen 
+ve farklı toplumsal bağlamlarda aynı eylemin farklı toplumsal sonuçlar doğuracağını 
+göz ardı eden genelleyici makro toplumsal açıklamaları reddeder.
+Blumer, büyük ölçekli yapı ve kurumların davranışı belirlemediğini, bu davranışın 
+meydana geldiği toplumsal bağlama çerçeve oluşturduğunu ifade eder. Bu anlamda bi-
+reyler, büyük kurumsal yapılardan ziyade içerisinde bulundukları mikro durumların 
+(situation) bağlamına göre davranışlarını yönlendirmektedir. Büyük ölçekli yapı ve ku-
+rumlar, bireylerin eylemde bulunduğu mikro ölçekli toplumsal durumların şekillendiril-
+mesine olanak tanıyan ortak sembolleri sağlamaktadır (Ritzer, 2013, s. 384). Bununla 
+birlikte genel anlam evrenini oluşturan ortak sembollerin üretilmesine olanak tanıyan 
+bu yapılar, bireyin davranışlarına mutlak anlamda yön veremez.
+Blumer, toplumsal bağlamın ve mikro anlamda eyleme olanak tanıyan durumların 
+incelenmesinin sosyoloji açısından oldukça önemli olduğunu düşünmektedir. Ortak top-
+lumsal eylemin gerçekleşmesini mümkün kılan mikro boyuttaki bu durumların araş-
+tırılması hem eylemin öznel yönünü açıklayabilmek hem de tarihsel açıdan toplumsal 
+eylemdeki değişimlerin ayırdına varabilmek açısından önem kazanmaktadır. Sosyolog, 
+eylem ve etkileşime dair mikro bağlamsal özellikleri; gündelik yaşam içerisinde gerçek-
+leşen eylemlerin meydana geldiği durumları tanımlayarak ve eyleyicilerin niyetlerinin 
+ne olduğunu bizzat kendini o toplumsal eylemde bulunan bireylerin yerine koyarak an-
+lamaya çalışmalıdır.
+Blumer etkileşimin; bireylerin kendilerini başkalarının gözünden değerlendirebilme 
+ve davranışlarını başkalarının gösterdiği tepkiler üzerinden şekillendirme yetenekleri 
+aracılığıyla mümkün olduğunu vurgulamaktadır. Bireyin kendisini başkasının gözünden 
+değerlendirebilme olgusu, mutlak anlamda kendi isteklerinden bütünüyle vazgeçmesi 
+ve eylemlerini başkalarının istekleri doğrultusunda şekillendirmesi anlamı taşımamakta-
+dır. Birey içerisinde bulunduğu toplumsal bağlama göre çıkarlarını başkalarının vereceği 
+tepkiyi de hesaba katarak gözetme eğilimindedir.
+6. Sembolik Etkileşimcilik ve Gündelik Yaşam: Genel Değerlendirme
+Sembolik Etkileşimci Yaklaşım, pragmatist felsefe geleneğinden hareketle, top-
+lumsal gerçekliğin dışarıda nesnel bir olgu olarak var olduğunu, gerçekliği incelemenin 
+yolunun ona ait kuralların ve yapıların ortaya çıkarılması aracılığıyla mümkün oldu-
+ğunu iddia eden pozitivist ve deterministik yaklaşımlara karşı çıkmaktadır. Sembolik 
+Etkileşimciliğe göre toplumsal gerçeklik denilen olgu, bireylerin nesnelere yükledikleri 
+öznel anlamlara koşut olarak, özneler arası ilişkiler bağlamında gerçekleşmektedir. Bu 
+açıdan değerlendirildiğinde herhangi bir nesnenin kendine içkin, kendinde bir anlamının 
+olmayışı, o nesnelere yönelik anlamın etkileşim süreci içerisinde ortaya çıkmakta oldu-
+ğuna işaret etmektedir.
+Sembolik Etkileşimci Yaklaşım, toplumsal gerçekliği gündelik hayatın merkezine 
+ve mikro toplumsal ilişkiler bağlamına oturtmaktadır. Bu yaklaşımın iki önemli sonucu 
+187
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+bulunmaktadır. İlk olarak gerçeklik dışsal bir varlık değildir; o, inşa edilen bir olgu ola-
+rak, gündelik ilişkiler yoluyla öznelerin kendileri ve başkaları hakkındaki yargıları ne-
+ticesinde şekillenen bir yapıya haizdir. Gerçekliğin bireylerin gündelik yaşamdaki algıları 
+ve kurduğu ilişkiler üzerinden şekillenmesi, onun durağan ve dışarıda değil, değişken ve 
+bağlamsal bir boyutu olduğunu ortaya koymaktadır.
+Gerçekliğin mikro bağlamlar ve toplumsal etkileşim üzerinden şekillenen dinamik 
+bir boyutu bulunmasının ikinci önemli sonucu, aktörlerin toplumsal gerçekliği şe-
+killendirmedeki rolleridir. Sembolik Etkileşimciliğe göre, toplumsal eyleyiciler olarak 
+bireyler, gerçekliğin doğası karşısında onu değiştirme ve dönüştürmekten aciz, pasif var-
+lıklar değildir. Bireyler toplumsal gerçekliği, gündelik yaşam içerisinde girdikleri sayısız 
+etkileşim ve bağlamlar üzerinden yorumlama ve onu dönüştürme olanağına sahiptirler. 
+Toplumsal eyleyici rolündeki bireyler, mikro toplumsal bağlamların kendileri açısından 
+önemi ve kendilerine sağlayacağı yararlar üzerinden toplumsal gerçekliği yorumlama eği-
+limindedirler.
+Toplumsal gerçekliğin değişken ve öznenin konumuna göre dönüşebilen bir yapıya 
+sahip olması; ilişki bağlamıyla, bireylerin kimlerle etkileşim içerisinde olduğu ile ve bi-
+reyin etkileşim kurduğu kişilerin onun hakkında ne gibi kanaat ve değerlere sahip olduğu 
+ile yakından ilişkili bir kavramdır. Bu anlamda Sembolik Etkileşimciler toplumsal ger-
+çekliği açıklayabilmek için; aktörün niyetlerini, toplumsal etkileşim sonucunda bireyin 
+ne gibi kazanımlar elde edebileceğini, eylemi gerçekleştiren bireye yönelik olarak 
+etkileşim kurduğu diğer bireylerin görüşlerinin neler olduğunun bilinmesi gerektiğini vur-
+gulamaktadırlar.
+Sembolik Etkileşimciler davranışı belirleyen pek çok faktörün anlaşılması için top-
+lumsal bağlamın ve bu bağlam içerisindeki bireylerin niyetlerinin anlaşılması gerekti-
+ğini vurgularken, bireylerin deterministik bir biçimde neyi nasıl yapacaklarına önceden 
+karar vermediklerini, onların her olay için ayrı ayrı değerlendirmede bulunarak kendi 
+çıkarları doğrultusunda eylemde bulunduklarını vurgulamaktadır. “Durumun tanımlan-
+ması” olarak ifade edilen bu bakış açısına göre, bireyler kendi perspektifleri üzerinden 
+gündelik yaşamda karşılaştıkları durumları tanımlayarak davranma eğilimi içerisindedir-
+ler.
+Sembolik Etkileşimciliğe göre insanlar, tecrübeleri ve kendi öznel perspektifleri üze-
+rinden aynı toplumsal gerçekliği ve olayları farklı yorumlayabilirler. Bu bakış açısı farklı 
+sosyo-kültürel ya da sosyo ekonomik düzeydeki bireylerin, gündelik yaşam içerisindeki 
+aynı olayı neden farklı yorumlayıp, onlara farklı anlamlar atfedebildiğini açıklamaktadır. 
+Bu bakımdan beysbol sopası Türkiye’deki bir dolmuş şoförü için kavga anında kulla-
+nabileceği bir alet olarak görülebilirken, bu sporu seven Amerikalı bir çocuk açısından 
+sevdiği oyunu oynayabilmek için gerekli bir oyun aleti olarak tanımlanabilir.
+Gündelik yaşam açısından durumun tanımı yaklaşımının bir diğer önemli sonu-
+cunu, bireylerin nesneye yönelik algısını tecrübeleri ve nesnelerle kurduğu ilişkiler 
+doğrultusunda oluşturmasıdır. Bu noktada bireyler sadece durumun objektif bir tanımı 
+üzerinden hareket etmezler; mevcut koşulların kendileri için ne anlama geldiği değerlen-
+188 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+direrek eylemlerini bu doğrultuda gerçekleştirirler. Daha açık bir şekilde ifade edilecek 
+olursa bireyler, diğer insanları önceki tecrübelerden ya da ön yargılardan hareketle etiket-
+leyebilir ve günlük hayatta diğer bireylerle olan etkileşimini, bu düşünceler üzerinden 
+gerçekleştirebilir. Örneğin gündelik yaşamda göçmenlerle, siyahlarla ve diğer azınlık 
+gruplarıyla kurduğu ilişkiler, bu etiketlemeler doğrultusunda şekillenebilir. Durumun ta-
+nımı, her zaman diğer bireylere yönelik ön yargıyı beraberinde getirmez; bazı durumlar-
+da diğer bireylere yönelik düşüncelerin, pozitif ayrımcılıkla şekillendiğini gözlemlemek 
+de mümkündür. Bununla birlikte bireylerin, durumun tanımını yaparak diğer bireylere 
+yönelik düşünce kalıpları geliştirmesinin temel nedeni, yaşamış oldukları tecrübeleri dü-
+zenlemek ve etkili bir iletişim sağlamaktır (“Symbolic interactionism as defined by Her-
+bert Blumer”, 2019).	
+Sembolik Etkileşimcilik, bireylerin kendi benliği hakkındaki algısını, başkalarının 
+bireye yönelik düşünceleri ve tepkileri ile diğerlerinin bizim hakkımızda ne düşündükleri 
+yönündeki genel kanaatlerimizin oluşturduğunu ifade etmektedir. Bu tür bir benlik algısı, 
+benliğin dinamik ve etkileşime açık bir boyutu olduğunu ön plana çıkarır. Bireyler gün 
+içerisinde kendi benliğiyle ilgili pek çok farklı geri bildirimler alarak, benliğini ve dola-
+yısıyla davranışlarını bu geri bildirimler üzerinden yeniden ayarlamaktadır.
+Etkileşimin en önemli boyutunu, yakınımızda bulunan, bizim için önem taşıyan 
+insanlarla gerçekleştirdiğimiz ilişkiler oluşturmaktadır. Gündelik hayat içerisinde en 
+fazla iletişim içerisine girdiğimiz, yüz yüze ilişkiler içerisinde bulunduğumuz bireyle-
+rin, benliğimiz hakkındaki düşüncelerini daha fazla önemseriz. Birincil gruplar olarak 
+nitelendirilebilecek anne baba, eş vb. pozisyonlardaki bireylerin bizim hakkımızdaki 
+düşüncelerini daha fazla önemseriz. Birincil gruplar gündelik yaşamda sıklıkla yüz yüze 
+geldiğimiz, resmî olmayan ve içerisinde istikrarlı olarak iletişim kurduğumuz bir yapıyı 
+oluşturmaktadır.
+Sembolik Etkileşim açısından bireyler arasındaki iletişimi sağlayan en önemli öge dil-
+dir. Bu anlayış içerisinde dil, objektif olarak dışsal gerçekliği tanımlayan bir yapıyı içer-
+mekten ziyade, bizim nesnelere yüklediğimiz anlam tarafından şekillenen bir araç olarak 
+görülmektedir. Dilin bu yapısı, iletişimin semboller üzerinden gerçekleştirildiğini vur-
+gulamaktadır. Bireyler gün içerisinde girdiği sayısız ilişki biçimi içerisinde vermek iste-
+dikleri mesajı; jest, mimikler ve dil aracılığıyla yansıtır. Kızgın bir ses tonu ile isteğinin 
+yerine getirilmesini bekleyen bir müdür, yumuşak bir dille çocuğunun bakkala gitmesini 
+isteyen bir anne ya da tüm gücüyle takımını destekleyen bir taraftar, dil ve mimiklerin 
+sembolik anlamları aracılığıyla diğer bireylerle etkileşim içerisinde bulunur.
+Sembolik Etkileşimcilere göre, gündelik hayat başkalarına iletmek istediğimiz sayısız 
+mesaj örnekleri içermektedir. Kamyon arkasındaki yazılardan, attığımız twitlere, seçtiği-
+miz kıyafetlerden, saçımızın şekline ya da sanal alemdeki profil fotoğraflarımıza kadar 
+kişisel olarak nitelendirebileceğimiz pek çok davranış ve tercih biçimi, diğerlerine 
+yönelik mesajları içermektedir. Bu anlamda Sembolik Etkileşimci Yaklaşım açısından 
+gündelik yaşamdaki eylemlerimiz, tüketim biçimlerimiz ve benliğimizin sunumu, diğer 
+bireylere verilmek istenilen mesajlar olarak okunabilir.
+189
+SEMBOLİK ETKİLEŞİMCİ TEORİNİN GÜNDELİK YAŞAM SOSYOLOJİSİNE 
+KATKILARI
+Sembolik Etkileşimcilik bireylerin diğer bireylerin kendisi hakkındaki olası tepki-
+lerini göz önüne alarak ve kendi benliğini diğerlerine pozitif bir biçimde sunma isteğiyle 
+eylemlerini gerçekleştirdiğini öne sürmektedir. Bireyler gündelik yaşam içerisinde tek 
+tek bireylerin ne düşüneceğini ve ondan ne beklediğini bilemeyebilir. Bu nedenle birey 
+tecrübelerinden hareketle diğerlerinin kendisinden ne beklediği yolunda genel soyutla-
+malara ve kavramsallaştırmalara gitmektedir.
+Genelleştirilmiş öteki olarak nitelendirilen bu kavrama göre, gündelik yaşam içerisin-
+de diğer bireylerin beklentilerinin ne olduğunu, tecrübelerimiz üzerinden yaptığımız 
+genellemeler yoluyla ortaya koymaya çalışırız. Bununla birlikte başkalarının bizden ne 
+beklediğine yönelik algı, içerisinde bulunduğumuz rolün biçimine ve toplumsal bağla-
+ma göre farklılık gösterebilmektedir. Örneğin bir annenin aile içerisinde diğer fertlerin 
+kendisinden ne beklediği algısıyla, öğretmen olarak çalıştığı iş yerinde öğrencilerin ya 
+da diğer öğretmenlerin kendisinden ne beklediğine yönelik bilgisi farklılaşabilmektedir.
+Başkalarının bizden beklentilerini soyutlama ve genellemeye imkân tanıyan bu kav-
+ramsallaştırma, gündelik yaşam içerisinde bazen olumlu olarak harekete geçmemize 
+imkân tanırken bazen de davranışlarımızı kısıtlamaktadır. Örneğin sigara tiryakisi bir 
+kadın, bir kadının sokakta sigara içmesine ne şekilde bakıldığına yönelik algısı nedeniy-
+le sokakta sigara içmekten çekinebilir. Benzer bir biçimde araba süren bir erkek şoför, 
+kaybolduğunu düşünse bile arabayı durdurup çevreden yol yardımı almak istemeyebilir. 
+Bunun nedeni erkeğin yardım almadan kendi başına işlerinin üstesinden gelebilen bir 
+genelleştirilmiş cinsiyet algısına sahip olmasıdır (Macionis ve Gerber, 1999, s. 127). Bu-
+nunla birlikte, başkalarının ne düşündüğü ile ilgili kavramsallaştırmalarımız, Sembolik 
+Etkileşimciliğe göre dönüştürülemez mutlak gerçeklikler olarak algılanmamalıdır. Gün-
+delik yaşam içerisinde farklı mesajlar ve sinyaller alan biri bu konudaki düşüncelerini 
+esnekleştirebilir ya da değiştirebilir.
+Kaynakça
+Blumer, H. (1975). Comments on ‘parsons as a symbolic interactionist. Sociological 
+Inquiry, 45, 59-62.
+Cooley, C. H. (1992). Human nature and the social order. Transaction Publishers. New 
+Brunswick, N.J. 
+Coser, Levis A. (2011). Sosyolojik düşüncenin ustaları. (Çev. H. Hülür, S.Toker- 
+İ.Mazman) Ankara: De Ki Basım Yayım Ltd.
+DeLamater, J. D. (2003). Handbook of social psychology. NY: Springer.
+Erdem, H. S. (2010) İnsan şahsiyetinin gelişimine holistik bakış: felsefi perspektiften 
+davranışçı ve bilişselci ekolün eleştirisi. İ.Ü. İlahiyat Fakültesi Dergisi, Bahar 
+1(1) 179-194
+Farganis, J. (2000). Readings in social theory: the classic tradition to post- modernism, 
+(3d Ed.) New York: McGraw Hill
+190 / Doç. Dr. Gökhan GÖKULU
+EKEV AKADEMİ DERGİSİ
+Gönç-Şavran, T. (2011). İşlevselcilik-I: talcott parsons. Serap Suğur (der) Modern 
+Sosyoloji Tarihi. Anadolu Üniversitesi Yayını Yayın No: 2304, s.2-30.
+Koçak Turhanoğlu, F. A. (2010) Sembolik etkileşimcilik. S. Suğur (Ed.), Sosyoloji Tarihi, 
+Anadolu Üniversitesi Açık Öğretim Fakültesi Yayını.
+Lewis, J. D. Smith, D. (1980). American sociology and pragmatism. Chicago, IL: The 
+University of Chicago Press
+Macionis, J. J., & Gerber, L. M. (1999). Sociology. (Third Canadian Edition).Scarborough, 
+ON: Prentice-Hall Canada Inc.
+Martindale, D. (1970). The nature and types of sociological theory. Great Britain: 
+Routledge & Kegan Paul Ltd.
+Mead, G. H. (1934). Mind, self, and society: from the standpoint of a social behaviorist. 
+Chicago: University of Chicago Press.
+Özkalp, E. (2004). Toplumsallaşma. Özkalp, E (Ed) Davranış Bilimlerine Giriş, 
+Eskişehir: A.Ü. Açık Öğretim Fakültesi Yayınları.
+Öztürk, E. (2013). Sosyolojide nesnellik sorunu bağlamında max weber’in pozitivizm-
+hermeneutik ikiliğini aşma girişimi. Ankara Üniversitesi Sosyal Bilimler 
+Enstitüsü Dergisi, cilt 4, sayı 1 s196-244
+Pascale, C. M. (2011). Cartographies of knowledge: exploring qualitative epistemologies. 
+Sage pub.
+Ritzer, G. (2012). Modern Sosyoloji Kuramları, Çev: H. Hülür, Ankara: De ki Basım 
+Yayım Ltd. Şti
+Ritzer, G. (2013). Sosyoloji kuramları, Çev: H. Hülür, Ankara: De ki Basım Yayım Ltd.
+Şti.
+Sandstrom, K. L., Martin, D. D., Fine, G. A. (2001). Symbolic interactionism at the end 
+of the century. In G. Ritzer & B. Smart (Eds.), Handbook of Social Theory 
+(pp. 217–231). London: Sage.
+Symbolic interactionism as defined by Herbert Blumer (2019, 10 Ekim). Erişim adresi: 
+http://www.d.umn.edu/cla/faculty/jhamlin/4111/Blumer/House%20Atreides%20
+%20Social%20Interactionism%20as%20Defined%20by%20Herber.htm
+Topses, G. (2012). Davranışçı ve varoluşçu–hümanistik psikolojik danışma kuramlarının 
+ayırtedici ve örtüşen nitelikleri. International Journal of New Trends in Arts, 
+Sports & Science Education (IJTASE), 1(3), 67-75.
+Wallace, R.A. Wolf, A. (2012). Çağdaş sosyoloji kuramları: klasik geleneğin 
+geliştirilmesi, (Çev.: Mehmet Rami Ayas, Leyla Elburuz). Doğu Batı Yayınları, 
+Ankara.

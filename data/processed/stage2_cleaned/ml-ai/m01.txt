@@ -1,0 +1,273 @@
+##TITLE## Gerçek Veri Setlerinde Klasik Makine Öğrenmesi Yöntemlerinin Performans Analizi
+
+
+##SECTION## Özet : Bu çalışmada, Biyomedikal veri setleri üzerinde Klasik Makine Öğrenmesi
+(KMÖ) yöntemlerinin sınıflandırma performansları analiz edilmiştir. Yapılan
+çalışmada UCI biyomedikal veri seti üzerinden 6 farklı veri seti edinilmiş ve
+WEKA programı içerisinde bulunan 6 farklı makine öğrenmesi ile sistem çalıştırılmıştır.
+Çapraz doğrulama yöntemi k=10 olacak şekilde kullanılmıştır.
+Yapılan çalışmalar sonucunda Klasik Makine Öğrenmesi yöntemleri içinde
+Sequential Minimal Optimization (Sıralı Minimal Optimizasyon-SMO) sınıflandırma
+doğruluğu için diğer beş yönteme göre daha yüksek performans göstermiştir.
+Yapılan çalışma ile literatüre yeni bir yöntem önerilmemiştir. Gerçekleştirilen
+çalışma ile bir araştırmanın sonuçları aktarılmıştır. Her ne kadar bu çalışma
+sonunda yeni bir yöntem önerisi getirilmese de bu çalışmalardan elde edilen
+veriler ışında üzerinde çalışılan yeni bir makine öğrenmesi yöntemi için temel
+karşılaştırma parametrelerini vermektedir.
+
+Anahtar Sözcükler: Makine Öğrenmesi, Biyomedikal Veri, Weka
+
+##SECTION## 1.Giriş
+
+Makine Öğrenmesi (MÖ), önceki gözlemlere dayanarak doğru tahminler yapabilmeyi
+öğrenebilmek amacıyla otomatik tekniklerin geliştirilmesidir. Ayodele’ye
+göre ise MÖ, otomatik olarak öğrenme işlemini deneyimlerden yola çıkarak
+geliştiren ve gerçekleştiren bilgisayar sistemlerinin geliştirilmesidir.
+
+MÖ üzerine yapılan araştırmaların artmasıyla birlikte hesaplamalı öğrenme
+teorisi, yapay sinir ağları, istatistik ve örüntü tanıma gibi araştırma alanları
+arasında bağlantı kurulmuş ve bu alanlar birlikte çalışılabilmiştir. Böylece MÖ
+teknikleri daha geleneksel problemlerin (örneğin yüz tanıma) yanı sıra
+veritabanlarında bilgi keşfi, dil işleme ve robot kontrolü gibi yeni problemlere
+uygulanmaya başlamıştır.
+
+MÖ’de veri çok önemli bir rol oynamakta ve öğrenme algoritmaları veriye ait
+bilgi ve özelliklerin keşfedilmesinde kullanılır. Kullanılan veri ise
+etiketli ve etiketsiz olmak üzere iki ayrı türden oluşmaktadır. Etiketli veri
+seti bir algoritmayı eğitmek, etiketsiz veri ise eğitilmiş algoritmayı (model
+veya sistemi) test etmek için kullanılmaktadır. Bu nedenle bu veri tipleri
+eğitim ve test seti olarak da adlandırılmaktadır. MÖ kullanılarak oluşturulan
+sistemler genelde iki farklı öğrenme modeli kullanmaktadır. Bu iki model
+denetimli (supervised) ve denetimsiz (unsupervised) öğrenme modeli olarak
+adlandırılmaktadır.
+
+Bunun yanı sıra her iki modelin birlikte kullanıldığı öğrenme sistemleri
+(örneğin semisupervised learning) de bulunmaktadır. Denetimli öğrenme Denetimli
+Makine Öğrenmesi (SML: Supervised Machine Learning) sistemin etiketli veriler
+kullanılarak eğitilmesi ile öğrenmenin sağlanmasıdır. Sistem eğitilirken veri
+setinde bulunan her bir örneğe ait giriş ve çıkışlar verilir. Metin
+Sınıflandırma çalışmalarında giriş metnin içeriğini, çıkış ise kategorisini
+temsil eder. Test veri seti ise sistemin doğrulanması amacıyla kullanılır.
+Sistemin doğrulanması aşamasında öğrenme algoritması kategorisi bilinmeyen bir
+test verisine, eğitim verisinde bulunan çıkışlardan herhangi birini atar.
+Denetimli öğrenme modeli süreci Şekil 1’de verildiği gibi gerçekleşmektedir.
+
+Denetimli öğrenme modelinde problem, sınıflandırma problemi olarak ele alınır
+ve eğitilmiş sistem test setine yönelik tahmin ve tanıma amacıyla kullanılır. 
+Destek Vektör Makinesi, Yapay Sinir Ağları, Lojistik Regresyon, Basit Bayes,
+Multinom Basit Bayes, k-En Yakın Komşu, Rastgele Orman ve Karar Ağaçları
+algoritmaları denetimli öğrenme modeli oluşturulurken yaygın olarak kullanılan yöntemlerdendir.
+
+Sınıflandırma problemlerinde kullanılan yöntemler de uygulanan problem veya
+sonuç beklentisindeki farklılığa göre değişiklik gösterebilmektedir. Bu nedenle
+sınıflandırma sonuçlarının tek etiketli veya çok etiketli olarak üretilmesi
+gerekebilmektedir. Tek etiketli sınıflandırmada (single-label) test örneğine
+mevcut etiket kümesinden sadece bir etiket atanırken, çok etiketli
+sınıflandırmada (multilabel) birden fazla etiket atanmaktadır. Ayrıca tek
+etiketli sınıflandırmanın özel bir durumu olan ikili sınıflandırmada (binary
+classification) ise mevcut iki kategori arasından tek bir etiket atanarak
+sınıflandırma yapılmaktadır.
+
+Denetimsiz öğrenme Denetimsiz Makine Öğrenmesi (UML: Unsupervised Machine
+Learning) modelinde sistem eğitilirken etiketsiz veri kullanılarak öğrenmesi
+sağlanır. Denetimsiz öğrenmede amaç veri setindeki örneklerin çıkışları
+bilinmediği için tanıma veya sınıflandırma değildir. Genellikle kümeleme,
+olasılık yoğunluk tahmini, öznitelikler arasındaki ilişkilerin bulunması ve
+boyut indirgeme gibi amaçlarla kullanılmaktadır. Ayrıca denetimsiz öğrenme
+algoritması ile elde edilen sonuçlar denetimli öğrenme için de
+kullanılabilmektedir. Parçalayıcı ve hiyerarşik kümeleme algoritmaları ise
+genellikle denetimsiz öğrenme modeli oluşturulurken kullanılan algoritmalardır.
+
+2.Yapılandırma
+
+##SECTION## 2.1. WEKA
+
+WEKA, bilgisayar bilimlerinin önemli konularından birisi olan MÖ konusunda
+kullanılan paketlerden birisinin ismidir. Waikato üniversitesinde açık kaynak
+kodlu olarak JAVA dili üzerinde geliştirilmiştir ve GPL lisansı ile
+dağıtılmaktadır. İsmi de buradan gelir ve Waikato Environment for Knowledge
+Analysis kelimelerinin baş harflerinden oluşur. WEKA verileri basit bir dosyadan
+okur ve veriler üzerindeki skolastik değişkenlerin sayısal veya nominal değerler
+olduğunu kabul eder. Aynı zamanda veri tabanı (database) üzerinden de veri
+çekebilir ancak bu durumda verilerin bir dosya verisi şeklinde olması beklenir.
+WEKA üzerinde makine öğrenmesi ve istatistik ile ilgili pek çok kütüphane hazır
+olarak gelmektedir. Örneğin veri ön işlemesi (data preprocessing), ilkelleme
+(regression), sınıflandırma (classification), gruplandırma (clustering), özellik
+seçimi veya özellik çıkarımı (feature extraction) bunlardan bazılarıdır. Ayrıca
+bu işlemler sonucunda çıkan neticelerinde görsel olarak gösterilmesini sağlayan
+görüntüleme (visualization) araçları bulunmaktadır. 
+
+
+##SECTION## 2.2. Arff Dosya Formatı
+
+İngilizce, Attribute Relationship File Format kelimelerinin baş harflerinden
+oluşmuştur. ARFF dosya yapısı, Weka'ya özel olarak geliştirilmiştir ve dosya,
+metin yapısında tutulmaktadır. Dosyanın ilk satırında, dosyadaki ilişki tipi
+(relation) tutulmakta olup ikinci satırdan itibaren veri kümesindeki özellikler
+(attributes) yazılmaktadır. Özelliklerin hemen ardından veri kümesi yer alır ve
+veri kümesindeki her satır bir örneğe (instance) işaret etmektedir. Ayrıca veri
+kümesindeki her örneğin her özelliği arasında da virgül ayıracı kullanılmaktadır.
+Arff formatında yazılmış örnek kod Şekil 2’de görülmektedir.
+Şekil 2’de verilen örnek dosyada, hava tahmini için
+kullanılan nem, sıcaklık ve basınç değerleri bir dosya içerisinde 4 örnek
+içerecek şekilde gösterilmiştir. Bu değerler tip olarak sayısal değerler
+olduğundan "numeric" olarak ifade edilmiştir. Ancak bu değerler aşağıdaki
+tiplerde olabilir: NOMINAL: [Küme Değerleri] Tahmin değeridir ve bir tanım
+kümesi alır. Örneğin tahmin {güneşli,yağmurlu,sisli} şeklinde tanımlanan bir
+kümede, bu özellik kümedeki tanımlı değerlerden birisini alabilir. REAL: [Reel
+Sayılar] kümesinden bir değer verileceğinde kullanılır. Örneğin sıcaklık değeri
+22.8 şeklinde ondalıklı değerleri de ifade edecek şekilde verilmek istenirse tip
+olarak numeric yerine reel kullanabiliriz. STRING: Veri kümesinin bu özelliğinin
+serbest yazı şeklinde olabileceğini ifade eder. Özellikle metin madenciliği
+çalışmaları için sıkça kullanılan bir tiptir. DATE: Veri kümesinin bu
+özelliğinin tarih olduğunu ifade eder. Örneğin veri kümesindeki kişilerin doğum
+tarihi veya örneklerin toplanma tarihi gibi özelliklerin tutulmasında kullanılabilir.
+
+
+##SECTION## 2.3.Veri Kümesi
+
+Bu çalışmada UCI veri kümesinden elde edilen 6 farklı veri kümesine ait bilgiler
+Çizelge 1’de verilmiştir. 
+
+Pima: Hastanın hamilelik sayısı, yaşı, öz sıvıdaki insülin miktarı, glükoz
+yoğunluğu, derideki kıvrım kalınlığı ve vücut kitle indeksi gibi değerleri
+özellik olarak kullanan bir veri kümesidir. Breast Cancer: Hastalık bölgesindeki
+tümörlü alanın özellikleri sınıflandırmada nitelik olarak kullanılmaktadır.
+Örneğin: tümörlü bölgenin kalınlığı, tümörlü hücrelerin şekil ve büyüklük olarak
+birbirine benzemesi oranı, tümörün vücuda yapışma oranı gibi özellikler. Bu
+özelliklerin kullanılması ile tümörün iyi huylu veya kötü huylu olması sonucu
+elde edilir.
+
+Spect Heart, ek foton yayan radyonüklid’le işaretlenmiş doğal biyokimyasal madde
+(glükoz vb.) enjeksiyonunu takiben, incelenen organdaki gama ışınları
+dağılımının, hasta çevresinde dairesel dönüş gösteren dedektörlerle belirlenerek
+ilgili organın normal yada anormal olduğunun tespitidir.
+
+Ecoli, Genelde E. coli kısaltması ile veya koli basili olarak bilinen
+Escherichia coli, memeli hayvanların kalın bağırsağında yaşayan bakteri
+türlerinden biridir.
+
+Dermatology, Ciltte oluşan kızarıklık, sertleşme, kaşıntı, yumuşama, kepeklenme,
+çatlama; kafa derisi, diz ve el dirseklerinde hastalığın görülme düzeyi gibi
+medikal özellikler kullanılarak hastanın hastalık sınıfı tahmin edilmektedir.
+Hastalık sınıfları: Sedef Hastalığı, Seboreik Egzama, Liken Planus, Pitriyazis
+Rozea, Kronik Deri İltihabı, Pitriyazis Rubra Pilar.
+
+Yeast, Mantar enfeksiyonları bir veya birkaç mantar türüyle dokuların istilasını
+temsil eder. Yüzeyel, yerel doku hastalıkları ile daha derin, ciddi akciğer, kan
+(septisemi ) veya sistemik hastalıkları içeren çok sayıda mantar enfeksiyonu
+vardır. Bazı mantarlar fırsatçı iken diğerleri hastalık etkeni (patojenik) olup
+bağışıklık sistemi sağlıklı olsun olmasın hastalığa neden olurlar.
+
+##SECTION## 3. Deney
+
+Gerçekleştirilen çalışmada 6 farklı veri kümesine ait veriler 10 parça çapraz
+doğrulama (Cross Validation) yöntemi ile eğitilip ardından test edilmiştir.
+Çapraz doğrulamada veri kümesi öncelikle belirlenen alt küme sayısına bölünür.
+Alt küme sayısı bu çalışmada 10 seçilmiştir. Ardından her parça 1 kez test
+kümesi olacak şekilde sistem eğitilir ve ardından test kümesi ile test edilir.
+Çıkan test sonuçlarının ortalaması alınarak sistemin başarısı ölçülür.
+
+Makine öğrenmesi yöntemleri olarak Naive Bayes (NB), Random Forest (Rastgele
+Orman-RF), Sequential Minimal Optimization (Sıralı Minimal Optimizasyon-SMO),
+IBk (K-en yakın komşu, knearest neigbour), Decision Table (Karar TablolarıDT), J48 kullanılmıştır.
+
+##SECTION## 3.1. Kullanılan Makine Öğrenmesi Yöntemleri
+NB, Naive Bayes Sınıflandırıcısı Bayes teoremine dayanan basit bir olasılıksal sınıflandırma yöntemidir. 
+Mevcut sınıflanmış durumdaki örnek verileri kullanarak yeni bir verinin mevcut
+sınıflardan herhangi birine ait olma olasılığını hesaplayan bir yaklaşımdır. Bu
+sınıflandırıcıda nitelikler birbirinden bağımsız olarak kabul edilir.
+RF, Breiman tek bir karar ağacı üretmek yerine çok sayıda ve çok değişkenli
+ağaçların her birinin farklı eğitim kümeleriyle eğitilmesi sonucu ortaya çıkan
+kararların birleştirilmesini önerir. Bir sınıflandırıcı yerine birden çok
+sınıflandırıcı üreten ve sonrasında onların tahminlerinden alınan oylar ile yeni
+veriyi sınıflandıran öğrenme algoritmasıdır. Büyük veri tabanlarında eşsiz
+olarak çalışır ve dengesiz veri kümesi sınıfında hata dengeleme yöntemlerine
+sahiptir. Kaybolan verilerin büyük olasılığında doğruluk korunur ve kaybolan
+verilerin tahmin edilmesinde etkili bir metottur SMO, herhangi bir
+ekstra matris depolama olmadan ve tüm sayısal QP (Quatratic Programming)
+optimizasyon adımları kullanmadan SVM QP sorununu hızlı bir şekilde çözer.
+Bu uygulama global olarak bütün kayıp değerleri yenisiyle değiştirir ve nominal
+öznitelikleri ikili olanlara dönüştürür. Ayrıca bütün öznitelikleri (attributes)
+önceden tanımlanmış değerlerle (default) normalize eder. IBk, algoritması
+öznitelik uzayındaki en yakın eğitim örneklerine dayanarak nesneleri
+sınıflandıran, en basit örüntü tanıma yöntemlerinden birisidir. Bu algoritma
+verilen k değeri kadar en yakın komşunun sınıfına göre sınıflandırma işlemi
+yapmaktadır. IBk algoritmasında bir vektörün sınıflandırılması, sınıfı bilinen
+vektörler kullanılarak yapılmaktadır. DT, algoritma sınıflandırma için bir karar
+tablosu oluşturur. Eğitim verilerinin öz niteliklerine göre ortaya çıkan bu
+karar tablosundan faydalanarak sınıflandırma yapar. J48, J. Ross Quinlan
+tarafından geliştirilen çok popüler C4.5 algoritması temeline dayanan bir karar
+ağacı algoritmasıdır. Karar ağaçları bir makine öğrenmesi algoritmasından bilgi
+temsil etmede klasik bir yoldur ve veri yapılarını ifade etmekte güçlü ve hızlı
+bir yol sunar. Bu algoritma verileri özyinelemeli olarak sınıflandırır. Bu işlem
+eğitim verilerinin maksimum doğruluğunu sağlar ama verilerin sadece belirli
+davranış özelliklerini tanımlayan aşırı kurallar oluşturabilir. 
+
+3.2.Kullanılan Metrikler
+
+##SECTION## 3.2.1. Doğruluk–Hata Oranı (Accuracy-Error Rate)
+
+Model başarımının ölçülmesinde kullanılan en popüler ve basit yöntem, modele ait
+doğruluk oranıdır. Doğru sınıflandırılmış örnek sayısının (TP +TN), toplam örnek
+sayısına (TP+TN+FP+FN) oranıdır. Hata oranı ise bu değerin 1’e tamlayanıdır.
+Diğer bir ifadeyle yanlış sınıflandırılmış örnek sayısının (FP+FN), toplam örnek
+sayısına (TP+TN+FP+FN) oranıdır.
+
+##SECTION## 3.2.2. Kesinlik (Precision)
+
+Kesinlik, sınıfı 1 olarak tahmin edilmiş True Pozitif (TP) örnek sayısının,
+sınıfı 1 olarak tahmin edilmiş tüm örnek sayısına (TP+FP) oranıdır.
+
+##SECTION## 3.2.3. Duyarlılık (Recall)
+
+Doğru sınıflandırılmış pozitif örnek (TP) sayısının, toplam pozitif örnek
+sayısına (TP+FN) oranıdır.
+
+##SECTION## 3.2.4. F-Ölçütü (F-Measure)
+
+Kesinlik ve duyarlılık ölçütleri tek başına anlamlı bir karşılaştırma sonucu
+çıkarmamıza yeterli değildir. Her iki ölçütü beraber değerlendirmek daha doğru
+sonuçlar verir. Bunun için f-ölçütü (F) tanımlanmıştır. F-ölçütü, kesinlik (K)
+ve duyarlılığın (D) harmonik ortalamasıdır.
+
+##SECTION## 3.2.5. Kappa İstatistiği
+
+Gözlemciler arası varyasyon, iki veya daha fazla bağımsız gözlemciler tarafından
+aynı şeyi değerlendiriyor olduğu her durumda ölçülebilir. Kappa katsayısı -1
+ile +1 arasında değişir. Tam uyum söz konusu olduğunda K=1 olur. Gözlenen uyumun
+şansa bağlı uyuma eşit ya da ondan büyük olması durumunda K≥0 iken, gözlenen
+uyumun şansa bağlı uyumundan küçük olması durumunda K<0 olur. Kappa katsayısının
+yorumlanabilir aralığı 0 ile +1 arasında olup, negatif (K<0) değerlerinin
+güvenilirlik açısından bir anlamı yoktur. 0.4 üzerindeki bir kappa skoru makul
+bir anlaşmayı ifade eder. Kappa değeri şu şekilde hesaplanır.
+
+(Po kabul edilen oran, Pc kabul edilmesi beklenen oran)
+
+##SECTION## 4. Sonuçlar
+
+UCI veri kümesi üzerinden elde edilen 6 farklı biyomedikal veriler ile WEKA
+programı üzerinde makine öğrenmesi algoritmaları çalıştırılmıştır.
+Gerçekleştirilen 10k çapraz geçerleme sonucunda Çizelge 2’ deki sonuçlara
+ulaşılmıştır.
+
+Dermatology veri seti için Doğruluk dışındaki metriklerin değerleri Çizelge 4’te
+gösterilmektedir.
+
+
+##SECTION## 5. Tartışma
+Yapılan çalışma sonucunda Biyomedikal veriler üzerinde Makine Öğrenmesi yöntemleri test edilmiştir.
+Gerçekleştirilen deneyde çapraz doğrulama ile sistemin eğitim ve test performansı ölçülmüştür. 
+Çapraz geçerleme için k=10 olarak alınmıştır. Gerçekleştirilen çalışmada SMO algoritması diğer makine
+öğrenmesi algoritmalardan daha yüksek bir doğruluk ile sınıflandırmayı
+gerçekleştirmiştir. Özellik sayısı, Sınıf sayısı ve örnek sayısında ki
+değişimler SMO’nun performansını diğer makine öğrenmesi yöntemlerine göre
+etkilememiştir. SMO tüm bu bileşenlerdeki değişime rağmen en yüksek başarı
+oranını göstermiştir. Bu çalışmada yeni bir yöntem önerilmemiş, gerçek bir veri
+seti üzerindeki makine öğrenmesi yöntemlerinin performansı ölçülmüştür.
+Gerçekleştirilen çalışma, bir deneyimin aktarılmasıdır. Gerçekleştirilen çalışma
+sonucunda yeni bir yöntem önerisi getirilmemiş olsa da bundan sonraki benzer
+çalışmalara bir temel oluşturmuş ve üzerinde çalışılan makine öğrenmesi
+algoritması için karşılaştırma yapabilmemizi sağlayacak veriler sunmaktadır.
+Gerçekleştirilen çalışma sonuncunda SMO algoritmasının yüksek başarısı, bundan
+sonra ki çalışmalarda bizim temel noktamızı oluşturacaktır.

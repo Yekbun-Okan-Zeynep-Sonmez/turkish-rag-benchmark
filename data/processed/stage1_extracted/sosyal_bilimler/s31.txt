@@ -1,0 +1,666 @@
+89
+DEPREMİN TOPLUMSAL BOYUTU  
+Prof. Dr. Veysel BOZKURT*
+ÖZET
+Bu araştırmanın amacı, 06 Şubat 2023 günü Kahramanmaraş merke-
+zli yıkıcı depremlerin toplumsal etkilerini incelemektir. Araştırmada 
+depremzedelerin deprem anındaki deneyimleri, yaşanan hasar ve kayıplar, 
+kurtarma ve yardım faaliyetleri ile deprem sonrasında yaşadıkları psiko-so-
+syal sorunların boyutları, onların perspektifinden anlaşılmaya çalışılmıştır. 
+Ayrıca depremzedelerin yaşadıkları afete atfettikleri anlam da ortaya 
+konulmaya çalışılmıştır.
+Araştırma, yıkıcı depremlerden üç hafta sonra, katılımcı gözlem ve 
+esnek nitel görüşme yöntemi kullanılarak gerçekleştirilmiştir. Depremzede-
+lerin hassasiyetleri dikkate alınarak, görüşmeler doğal akışı içinde yapılmış 
+ve depremzedelerin sözlerini kesmemeye özen gösterilmiştir.
+Deprem sonrasında bölgede güçlü bir pro-sosyal davranışın 
+(toplumsal dayanışmanın) geliştiği gözlenmiştir. İlk günlerde az da olsa 
+anti-sosyal davranışlar (yağma ve suç) örnekleri görülmüş, ancak kısa süre-
+de kontrol altına alınmıştır. Görüşme yapılan depremzedelerin büyük bir 
+bölümünde uykusuzluk, kaygı, korku, sinirlilik, konsantrasyon sorunları, 
+unutkanlık, anlamsızlık ve gelecek kaygısı gibi psikolojik belirtiler gözlen-
+Makale Geliş Teslim Tarihi: 26.05.2023
+Makale Kabul Tarihi: 15.06.2023
+* İstanbul Üniversitesi, İktisat Fakültesi, İstanbul, TÜRKİYE, 
+vbozkurt@istanbul.edu.tr
+https://orcid.org/0000-0001-7623-3132
+Makale Künye Bilgisi: Bozkurt, V. (2023). Depremin Toplumsal Boyutu. Avrasya Dosyası Dergisi Cilt 14 (Sayı 1): 89- 111 
+İstanbul.
+90
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+miştir. Kadınlar, çocuklar ve yoksullar diğer gruplara kıyasla depremden 
+daha olumsuz etkilenmişlerdir.
+Ayrıca yaşanan depreme atfedilen anlam, kişinin eğitim, gelir ve dini 
+bağlılık düzeyine göre değişmektedir. Görüşme yapılan katılımcıların bir 
+bölümü depremin yıkıcı etkilerini tabiat kuralları, denetimsizlik, çürük 
+binalar gibi nedenlerle açıklarken, daha büyük bir bölümü de depremi 
+günahkârlıkların bir sonucu veya Tanrının bir cezası olduğunu düşün-
+müşlerdir.
+Deprem bölgesinde, depremin neden olduğu stres ve kaynakların 
+sınırlı olması ve aynı deprem çadırı alanlarının paylaşılmasının etkisiyle, 
+göçmen karşıtlığı yoğun bir şekilde gözlemlenmiştir.
+Anahtar Kelimeler: Kahramanmaraş depremleri, psiko-sosyal 
+sorunlar, pro-sosyal davranış, anti-sosyal davranış ve anlam atfetme.
+91
+AVRASYA DOSYASI
+THE SOCIAL DIMENSION OF EARTHQUAKE
+ABSTRACT
+The aim of this study was to investigate the social impact of the dev-
+astated earthquakes in Kahramanmaras on 06 Feb 2023. The experiences 
+of earthquake survivors during the earthquake, the extent of damage and 
+losses, the rescue and relief efforts, and the dimensions of psychosocial 
+problems faced in the aftermath were investigated from the perspective 
+of the survivors. In addition, the study aimed to uncover the meaning that 
+survivors attributed to the disaster they had experienced.
+The research was conducted three weeks after the destructive main 
+earthquakes using participant observation and flexible qualitative inter-
+views. Sensitivity to survivors was taken into account and interviews were 
+conducted in a natural flow, ensuring that their voices were not interrupted.
+Strong pro-social behaviour (social solidarity) was observed in the 
+region after the earthquake. Although there were a few instances of anti-so-
+cial behaviour (looting and crime) in the first few days, these were quickly 
+brought under control.
+A significant proportion of the earthquake survivors interviewed 
+showed psychological symptoms such as sleeplessness, anxiety, fear, irri-
+tability, concentration problems, forgetfulness, feelings of lack of meaning 
+in life, and concerns about the future. Women, children and the poor were 
+more negatively affected by the earthquake than other groups.
+The meaning attributed to the earthquake varied according to peo-
+ple’s level of education, income and religious affiliation. While some par-
+ticipants explained the destructive effects of the earthquake in terms of 
+92
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+natural laws, lack of regulation or poorly constructed buildings, a larger 
+proportion believed that the earthquake was a consequence of sins or a 
+punishment from God.
+In the earthquake-stricken area, intensified anti-immigrant sentiment 
+was observed due to the stress caused by the earthquake, limited resources, 
+and the sharing of the same earthquake tent areas.
+Keywords: Kahramanmaras earthquakes, psychosocial problems, 
+pro-social behavior, anti-social behavior, meaning attribution.
+AVRASYA DOSYASI
+93
+GİRİŞ
+Büyük depremler sadece yeryüzünü sarsmakla kalmaz, aynı za-
+manda toplumsal yapıyı, kurumları ve insanları da derinden etkiler. Bun-
+lar büyük çaplı can ve mal kaybına neden olmanın yanı sıra altyapıya da 
+zarar verirler. İş yerlerini ve evlerini kaybeden insanlar genellikle başka 
+yerlere göç etmek zorunda kalır. Çoğu zaman, beklenmedik bir anda gelir 
+ve insanların alışkın olduğu kuralları işlemez hale getirir, sistemleri krize 
+sürükler. Deprem sonrası, risk, belirsizlik ve toplumsal hoşnutsuzluk ar-
+tar; korku, kaygı ve tükenmişlik yaşamın bir parçası haline gelir. Kaygı ve 
+depresyon belirtileri yaygınlaşır; geniş bir kitle Travma Sonrası Stres Bo-
+zukluğu (TSSB) ile karşı karşıya kalır (Tang, Deng, Glik, Dong ve Zhang, 
+2017)
+6 Şubat 2023 tarihinde Kahramanmaraş merkezli olarak meydana 
+gelen çifte deprem, Türkiye’de 80 yılı aşkın sürenin en şiddetli depremi ol-
+muştur ve yol açtığı hasar da bu ölçüde büyük olmuştur. Resmi rakamlara 
+göre 50 binden fazla insan hayatını kaybetmiş ve milyonlarca insan başka 
+şehirlere göç etmek durumunda kalmıştır. Türkiye’de en çok etkilenen şe-
+hirler, fay hattı üzerinde veya yakınında bulunan Kahramanmaraş, Malat-
+ya, Adıyaman ve Antakya olmuştur. Bölgenin nispeten düşük gelir düzeyi 
+ve düşük gelirli insanların ucuz ve kalitesiz inşaat malzemeleri kullanması, 
+hasarın boyutlarını büyüten faktörler arasında yer almıştır (Dal Zilio ve 
+Ampuero, 2023; Hussain, Kalaycıoğlu, Milliner, vb. 2023).
+94
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+Bu çalışma, 6 Şubat Depremleri’nin toplumsal etkilerini katılımcı gö-
+zlem ve görüşmeler yoluyla anlamayı amaçlamaktadır. Araştırma, deprem 
+anından itibaren geçen üç haftalık süre içinde bölgedeki depremzedelerin 
+deneyimlerini, bir alan araştırması perspektifinden incelemeyi hedefleme-
+ktedir. Bu bağlamda, çalışma depremin toplumsal boyutlarını ve psiko-so-
+syal etkilerini ele alarak, Türkiye’deki politika yapıcılara ve deprem liter-
+atürüne daha geniş bir bakış açısı sunmayı hedeflemektedir.
+YÖNTEM VE ARAŞTIRMA SÜRECİ
+Depremin üçüncü haftasında Nurdağı, İslâhiye, Hatay, Kahraman-
+maraş ve Elbistan’da büyük etki yaratan depremin psiko-sosyal etkilerini 
+araştırmak üzere bölgedeki görüşmelere başladık. Bu görüşmeler, bölgede 
+görev yapan yöneticiler, Sivil Toplum Kuruluşları (STK) ve çadırlarda ya 
+da konteynerlerde yaşayan depremzedelerle yapıldı. Katılımcıların çoğun-
+luğunu oluşturan çadırlarda yaşayan depremzedeler ile yapılan görüşmel-
+er, çadırların önünde ya da yanında gerçekleşti. Bunlar, Nurdağı, İslâhiye, 
+Hatay, Kahramanmaraş ve Elbistan’daki yerleşim birimlerini içeriyordu. 
+İstisnai olarak, İslâhiye’deki görüşmeler Konteyner Kent’te gerçekleştiril-
+di. Ayrıca, depremzedelerden izin alarak, çadırlar ve konteynerler de 
+araştırmacılar tarafından ziyaret edildi ve yaşam alanları yerinde gözlem-
+lendi. 
+İlk görüşme depremin en çok zarar verdiği yerlerden olan Nur-
+dağı’nda yapılmıştır. Bir akşam vakti çadırları önünde ateş yapmış 10-12 
+kişilik grubun yanına gidilmiş, selam verilmiş ve araştırmacılar kendilerini 
+tanıtmışlardır. Taziye dileği sonrasında yaşadıklarını, duygu ve düşünce-
+lerini bizimle paylaşmaları istenmiştir. İnsanlar zaman zaman gözyaşları 
+içinde bizimle duygu ve düşüncelerini paylaşmışlardır. 
+Bölgeye gitmeden önce yarı yapılandırılmış bir görüşme formu hazır-
+lanmış ve Travma Sonrası Stres Bozukluğu (TSSB) yaşayan depremzedel-
+erle nasıl iletişim kurulacağı konusunda deneyimli bir ruh hekiminden 
+95
+AVRASYA DOSYASI
+görüş alınmıştır. Dolayısıyla görüşmeler esnasında asla hiçbir depremzede 
+konuşmaya zorlanmamış veya görüşme esnasında sözleri kesilmemiştir. 
+Standart görüşme formlarındaki yaş, cinsiyet, eğitim vb. demografik soru-
+lar rahatsız etmemek için sorulmamıştır.  
+Görüşmeler bazen bir çadırın önünde bir depremzede ile bazen 
+de grup olarak yapılmıştır. Depremzedelerle yapılan bütün görüşme-
+ler standart nitel görüşme formatının çok dışında duygusal bir atmosfer 
+içinde gerçekleştirilmiştir. Görüşülen depremzedeler, büyük bir içtenlikle 
+konuşmuş, araştırmacılar da duygusal bir atmosfer içinde onların sözler-
+ini kesmeksizin notlarını almışlardır. Bu arada rahatsız etmemek için ses 
+kaydı yapılmamıştır. Ayrıca depremzedelere dair hiçbir kimlik bilgisi topl-
+anmamış, sadece özet notlar alınmıştır. Bir diğer ifade ile konunun hassas-
+iyetinden dolayı görüşme ve katılımcı gözlem teknikleri oldukça esnek bir 
+formda kullanılmıştır. 
+DEPREM ANINDA DURUM
+6 Şubat tarihli ilk deprem saat 04.17’de olmuştur. Dolayısıyla insan-
+ları uykuda yakalamıştır.  Görüşmelerimize katılanlar beklenildiği şekilde 
+evlerinde uykuda olduklarını ve büyük bir şaşkınlık ve korku yaşadıklarını 
+ifade etmişlerdir. Birçok kişi sadece gece kıyafetleriyle kendilerini dışarı 
+attıklarını ifade etmişlerdir.  Çok sayıda depremzede sarsıntının etkisiyle 
+kapılarının sıkıştığını, dolayısıyla dışarı çıkmakta zorlandığını dile get-
+irmiştir. Kendilerini dışarıya atanları ise sıfırın altında buz gibi soğuk bir 
+hava ve yağmur karşılamıştır.  Hatay’ın dağ yamacında yer alan görece 
+zemini sağlam bir bölgesinde yaşayanlar ise, deprem sonrası yuvarla-
+nan kayalardan dolayı zarar görmüşlerdir. Nitekim yola düşen bir otobüs 
+büyüklüğüne yakın kayalardan birisi depremin 21. gününde halen yol şer-
+itlerinden birini kapatmış halde duruyordu. 
+Bütün büyük depremlerde görüldüğü gibi, burada da insanların 
+depreme karşı verdikleri ilk tepki panik olmuştur. Birçok depremzede o 
+96
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+anı “can pazarı”, “mahşer anı” olarak tasvir etmiştir. O geceki yağmurlu 
+havayı da bir depremzede “Gökler ağladı halimize” diyerek anlatmıştır. 
+Deprem sonrası tekbir getirdik. Allahu Ekber dedik. Ne yapacağımı bile-
+medim, şoka girdiğim için beni dışarı eşim çıkardı diyenler de olmuştur. 
+Bazı yerlerde doğalgaz patlaması ve yangın nedeniyle yaşanan panik de 
+insanların korku dolu anlar yaşamalarına neden olmuştur.  
+Akademik literatür deprem sonrasında hayatta kalanların ilk desteği 
+yakınlarından aldığı ve komşuluk dayanışmasının güçlendiğini ortaya ko-
+yar (Bonanno, Brewin, Kaniasty, ve Greca, 2010). Nitekim alanda yapılan 
+görüşmelerde depremzedeler, afetten sonra ilk müdahalenin komşuları 
+tarafından yapıldığını ifade etmişlerdir. Görüşme yapılanların çok büyük 
+bir bölümü komşuluk dayanışmasının ne kadar kıymetli olduğunu vurgu-
+lamış, deprem anında kapılarının sıkıştığını ve komşularının kapıyı kırar-
+ak kendilerini dışarı çıkardığını ifade etmiştir. Bir depremzede “Eskiden 
+komşumuzun ismini bilmiyordum.  Oysa evden bizi komşumuz çıkardı” 
+cevabını vermiştir.
+NE HİSSETTİLER?
+Geçmiş araştırmalar, şiddetli afetlerden sonra yaşanan can kaybı ve 
+yaralanmaların yarattığı ilk anda gelen panik ve travmaya vurgu yapıyorlar 
+(Norris, et. all. 2002). Nitekim görüşme yapılan yaklaşık 40 yaşlarında bir 
+depremzede nasıl korkunç bir şey olduğunu anlamak için yaşamak lazım; 
+televizyondan dinlendiği gibi değil diyor ve şöyle devam ediyor: 
+“İlk geceyi hatırlamak istemiyorum.  Yerde yatıyordum.  Şoka uğradım.  
+Aklımız durmuş gibiydi. Can derdine düştük. Yaşamayanların anlaması 
+mümkün değil.  Panik halinde ölüm korkusu ile karşı karşıyaydık.  Çocuk-
+lar ölecek diye korktum.  Teyzemler öldü. Mahallenin yarısı öldü. Çıldırdı 
+mahalleli”.  
+Bir başka depremzede de “Gözünün önünde preslenen çocuğun” 
+kendinde yarattığı dehşeti unutamadığını ifade etmiştir.
+97
+AVRASYA DOSYASI
+Diğer taraftan depremi yaşayan herkes aynı tepkiyi vermemiştir. 
+Örneğin bir görüşmeci deprem sonrasında “Hislerim kayboldu.” cevabını 
+vermiştir. Aynı depremzede “Deprem gecesini hatırlamıyorum. Yeni yat-
+mıştım eşim çığlık atıyordu. Bu arada kapı sıkıştı. Yerdeydim. Çocukların 
+yanına koştum. Depremin farkında değilim. Şok halinde. Hanımın peşin-
+den gittim. Sadece can derdine düştüm. Çocuklar üşümesin diye kapatma-
+ya çalışıyordum. Bütün duvar üstüme çöktü. Binaların arası ayrıldı. Gece 
+kıyafetleri ile dışarı çıktık.  Tekrar binaya girmişim.”
+Yukarıda da ifade edildiği gibi, insanlar deprem sonrasında yaşadıkları 
+kaos ve acıyı “can pazarı” ve “mahşer yeri” gibi ifadelerle tanımlamıştır. 
+Hatay’da yapılan görüşmelerde deprem sonrası yardımların gecikmesine 
+yönelik sitemler dile getirilmiştir. Bazı insanlar ise deprem anında hiçbir 
+şey düşünemediklerini belirtmişlerdir. Ancak Allah’ın kendilerini unut-
+mayacağına inandıklarını ifade etmişlerdir.
+DEPREM SONRASINDA HASAR VE KAYIP
+Depremin yıkıcı etkisiyle, birçok ev ve işyeri hasar gördü ve birçoğu 
+da tamamen yıkıldı. Bazı bölgelerde binaların hemen hemen tamamının 
+yıkıldığı veya hasar gördüğü ifade edildi. Ayrıca, yıkılan evlerin ve dükkân-
+ların sigortası olmadığı da belirtildi. Örneğin, bir depremzede hem evinin 
+hem de dükkânının yıkıldığını ve ikisinin de sigortasının olmadığını ifade 
+etmiştir. Bazı depremzedeler, cep telefonlarından çektikleri fotoğraflarla 
+mezarlıkların bile büyük ölçüde yıkıldığı gösterdiler. Benzer şekilde, bir 
+vatandaş, kardeşinin aldığı evin borçlu olduğunu ve çocukların psikolojil-
+erinin bozulduğunu ifade etti. Hasar tespitinde evlerin alt katlarının çürük, 
+üst katlarının ise sağlam olduğu şeklinde kayıtlara geçtiğini belirtti. 
+Ziyaret ettiğimiz deprem bölgeleri en çok can kaybının olduğu ye-
+rlerdi. On binlerce can kaybının yaşadığı bölgelerde, çok sayıda asker, 
+polis ya da öğretmen gibi devlet memurları da bulunduğu dile getirildi. 
+Can kayıplarının yanında ciddi oranda kayıp vakası da kayıtlara geçerk-
+98
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+en depremzedeler halen daha ulaşılamayan insanlar olduğu dile getirdiler. 
+Bazı depremzedeler de ilk anlarda sadece can kurtarmaya odaklandıklarını, 
+yaşadıkları şokun etkisiyle çıplak ayakla dolaştıklarını, bir süre sonra akra-
+balarının geldiğini ve durumun farkına varabildiklerini ifade ettiler.  
+KAYIPLARIN ETKİLERİ
+Büyük depremler ağır kayıpları da beraberinde getiriyor. Örneğin bir 
+araştırma (Goenjian, et. all. 2011) deprem sonrasındaki korkunç yaralan-
+maya, göçük altında kalmaya ve ölümlere tanıklık etmenin yarattığı korku 
+ve dehşete vurgu yapıyor.  Bu durum bütün depremzedeleri etkilemekle 
+birlikte kadınlar ve çocuklarda daha fazla depresyon ve travma sonra stres 
+bozukluğuna yol açmaktadır (Derivois, et. all.  2017; Kar, 2009; Ginige, 
+Amaratunga ve Haigh, 2009; Fothergill, 1996). Nitekim bu araştırmada da 
+depremin etkisi çok yoğun olarak gözlenmiştir.
+İnsanlar, hem ekonomik hem de duygusal olarak zor bir dönem-
+den geçmektedir. Bazı depremzedeler yürek burkan olaylara işaret ettiler. 
+Yanında kocası ve 12 yaşındaki kızı ile içini döken bir depremzede kadın, 
+kardeşinin çocuklarının ölüm haberini almış ve yıkılmış durumdaydı.  Sık 
+sık ağlayarak anlattı yaşadıklarını. Bu arada kardeşinin borçla aldığı evinin 
+yıkıldığını söyledi.
+Daha önce mezarlığa gitmekten korktuğunu söyleyen bir başka 
+depremzede ceset taşıdığını belirtti. Öte yandan enkaz altında kalan iş yeri, 
+hırsızlar tarafından soyulan bir depremzede de borçlarını nasıl ödeyeceği 
+kaygısını taşıdığını ifade etti. Bir başka depremzede, hasar tespit çalışma-
+larında yaşanan sıkıntıya vurgu yapmış ve özellikle bölgeyi bilmeyen bazı 
+görevlilerin hatalı kayıt tuttuğuna dikkat çekmiştir. 
+AFET YÖNETİMİ
+Gölcük merkezli 1999 depreminin arkasından yapılan bir araştırma 
+deprem sonrasında Kızılay’a ve bugünün AFAD’ı ile benzer fonksiyonlara 
+99
+AVRASYA DOSYASI
+sahip Sivil Savunma Teşkilatına yönelik büyük bir güven kaybı yaşandığını 
+ortaya koymuştur (Bozkurt, 1999). 2023 depremi sonrasında Kızılay ve 
+AFAD eleştirilen kurumların başında gelmiştir. Nitekim gelen eleştirilerin 
+etkisiyle Kızılay başkanı istifa etmek zorunda kalmıştır. 
+Bir araştırma (Alexander, 2010)  İtalya’da L’Aquila depreminin 
+sonuçlarını ve İtalyan hükümetinin afet yönetimi politikalarını incele-
+miş ve İtalyan hükümet politikasının yetersizliğini ve artan kırılganlıkta-
+ki rolünü ortaya koymuştur.  Özellikle kamu görevlileri ile gönüllü/sivil 
+toplum örgütlerinin koordine çalışamamasından kaynaklanan yönetişim 
+sorunları kritik saatlerde etkili müdahaleyi zorlaştırmakta ve hasarın boyu-
+tunu büyütmektedir (Tierney, 2012).
+Deprem bölgesinde görüşülen AFAD yetkilisine göre, ilk günlerde 
+özellikle Antakya’da yıkılan evlerin molozları yolları kapattığı için, bölge 
+halkı için bir başka sorun haline gelmiştir.  Ayrıca deniz kumu, düz demir, 
+kolon kesme ve zemin özelliklerinin yıkımı artırdığını ifade etmiştir.
+Deprem sonrası koordinasyon sorunu en çok dile getirilen konu 
+olmuştur. Koordinasyon sadece vatandaşın değil, aynı zamanda bölgede 
+görev yapan kamu görevlilerinin de ilk dile getirdiği sorundur. Bir AFAD 
+yetkilisi ise bu konuda “sorumluluk bizde yetki mülki idare amirlerinde” 
+cevabını vermiştir.  Örneğin boşta duran bir kepçeyi benim kullanabilmem 
+oradaki mülki idare amirinin iznine bağlıdır; bazen izin almak uzun zaman 
+alabiliyor cevabını vermiştir.
+Arama kurtarma gibi zamanla yarışılan bir işte en küçük gecikme 
+ölümle sonuçlanabilmektedir. Görüşülen bazı AFAD yetkilileri, sınırlı 
+sayıdaki çalışanlarının bu büyük felakete yetişemediğini dile getirmiş ve 
+AFAD’ın Cumhurbaşkanlığına bağlanmasını önermiştir. 
+Diğer taraftan Elbistan’da bir gönüllü ayağına toz değmeyen ve 
+deprem bölgesinde takım elbiseyle gezen AFAD yöneticilerinden şikâyet 
+etmiştir. Özellikle bazı AFAD yöneticilerinin yönetim becerilerindeki 
+100
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+yetersizlikler, etkin müdahale edememeleri şikâyet konularının başında 
+gelmiştir. 
+Yine bazı depremzedelerin yardım faaliyetlerini istismar ettiğini, 
+diğer depremzedeler dile getirmiştir. Şöyle ki, çocuğu olmayan kimi 
+depremzedelerin çocuk bezi alarak stoklamalarından rahatsız olmuşlardır. 
+TOKİ’nin bölgede yaptığı evlerin yıkılmamış olması umut veri-
+cidir. Binalar mühendislik hesaplarına uygun yapıldığı takdirde, depremin 
+hasarının gelecekte azaltılması mümkündür.
+YAĞMACILAR
+Afetlerden sonra ortaya çıkan anti-sosyal davranışlar (yağmacılık ve 
+suç) akademik literatürde sıkça araştırılan konulardan birisi olmuştur. Afet 
+dönemlerinde hiç görülmedik ölçüde pro-sosyal davranışın (toplumsal 
+dayanışmanın) artmasının yanında az da olsa yağmalamanın ortaya çıktığı 
+gözlenmiştir (Barsky, Trainor ve Torres, 2006; Frailing, ve Harper, 2017). 
+Bazı araştırmacılar (Quarantelli, 1994) böyle dönemlerde ortaya çıkan 
+yağmalama ve anti-sosyal davranışları «afet mitleri» olarak adlandırmak-
+tadır.
+Nitekim ilk iki günde ortaya çıkan yağmacılar hakkında medyada 
+çok fazla haber yapılmıştır. Bileziklerini almak için depremzede kadınların 
+kollarını kesme hikâyeleri bazı görüşmeciler tarafından da anlatılmıştır. 
+Suriyeli bir genç “Biz enkazdan adam çıkardık. Bizi hırsız sandılar ve 
+dövdüler” diye şikâyetini dile getirmiştir. Yine bazı Suriyeli kadınlar 
+“Depremden sonra hırsızlık yapanlar oldu. Biz yapmadık. Çünkü günah. 
+Allah cezanı veriyor” demişlerdir. 
+KURTARMA/YARDIM FAALİYETLERİ
+Nurdağı ve Hatay’da arama kurtarma ekiplerinin ikinci günün 
+sonunda geldiği ve yolların kapalı olduğu ifade edilmiştir. Bu arada yakın 
+şehirlerden gelenler olmuştur.  Bir depremzede ilk günlerde her taraftan 
+101
+AVRASYA DOSYASI
+ambulans ve siren sesleri çınlıyordu diyerek o günleri tasvir etmiştir. Giye-
+cek ve diğer yardım malzemelerinin ilk günlerde genellikle yardımseverler 
+tarafından sağlandığı ifade edilmiş; her yerin enkaz olduğu ve kepçelerin 
+bunlara yetişemediği de dile getirilmiştir.
+İlk gün müdahale yapılmadığı için insanlar bazı yakınlarını kendileri 
+çıkarmışlardır.  Antakya’da AFAD’ın iki gün sonra geldiği ve ihmaller-
+in çok olduğu ve bazı AFAD yetkililerinin yeterince özenli olmadığı dile 
+getirilmiştir. Ayrıca, üç gün boyunca bir çocuğun molozda yattığı ve vinç 
+gelmediği için kurtarılamadığına dikkat çekilmiştir. İlk günlerde kepçe ve 
+benzeri araçların yetersiz kaldığı ve çadırların ikinci gün akşamı geldiği; 
+komşuların hızla eksiklikleri tamamladığı ve birbirlerine yardımcı olduk-
+ları ifade edilmiştir. 
+Birçok insan, T.C. kimlik numaralarıyla yardım aldıklarını belirti-
+yor. Deprem sonrasında bazı belediyelerin yardımlarını şükranla anıyor-
+lar. Özellikle bir ilçe belediye başkanının ceketini çıkartıp Nurdağı’nda 
+elektrik tesisatını kendi çekmesi insanları etkilemiş.  Ancak depremin 
+büyüklüğü ve ilk günlerdeki arama kurtarma ekiplerinin yetersizliği en çok 
+şikâyet edilen konuların başında geliyor. Bazı yerlerde birden fazla aile 
+aynı çadırı paylaşmaktadır. Bazı depremzedeler de bir an önce konteyner 
+kente çıkmayı arzu ettiklerini dile getirmişlerdir. 
+Ayrıca çok sayıda insanın evi ile birlikte işyerinin yıkılması, onları 
+ekonomik olarak da zora sokmuştur. Depremden önce iş olanakları daha 
+fazlaydı ancak şimdi işsizlik oranı yükseldi diyorlar. İşsizlik oranının art-
+ması ve ekonomik sıkıntılar, insanların bu yardımlaşma kültürüne daha 
+da bağımlı hale gelmelerine neden oldu. Hasar tespiti sürecinde insanlar, 
+evrak işleriyle uğraşmak zorunda kaldık ve taşıma ücretleri çok arttı diyor-
+lar. Devletin yıkılan evlerin arsalarına el koyabileceği söylentisi de endişe 
+yaratmıştır.
+102
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+ÖNCESİ VE SONRASI FARKLAR
+Deprem sonrasında insanların hayatları dramatik biçimde değişmiştir. 
+Deprem öncesinde rahat ve huzurlu bir yaşam sürdüğünü belirten insanlar, 
+deprem sonrasında her şeyin değiştiğini dile getirmişler, evsiz kalmış ve 
+temel ihtiyaçlarını bile yardımlarla karşılayabilir hale gelmişlerdir.
+Birçok insan, deprem sonrası yaşadığı travmalar nedeniyle duy-
+gusal olarak da çok zor zamanlar geçirmiştir. İlk günlerde herkes çok 
+ağladığını ancak bazıları zamanla duygusuzlaşmaya başladığını ifade et-
+tiler. Yaşadıkları kayıplar ve zorluklar nedeniyle eskisi gibi olamadıklarını 
+dile getirmişlerdir.
+Yaşanan büyük felaketin insanları yakınlaştırması en sık tekrar 
+edilen konu olmuştur.  Küs olan komşular barışmış ve birbirlerine kardeş 
+gibi davranmaya başlamışlardır. Afetlere maruz kalan insanlar arasında or-
+taya çıkan “biz” duygusu bazı araştırmacılar tarafından bir tür “toplumsal 
+kimlik” olarak değerlendirilmiştir (Drury, Cocking, ve Reicher, 2009; Dru-
+ry, J., Brown, R., González, R., ve Miranda, D. (2016). 
+Deprem sonrasında çocuklar da zor zamanlar geçirmiştir. Okullar 
+kapanmıştır. Maraş’ta bir baba gönüllülerin çocukları mutlu etmek için 
+getirdiği oyuncakların çocuklarını “dilenciliğe alıştırdığı”ndan şikâyet et-
+mişlerdir. Çadır Kent’e oyuncak dağıtanlar geldiğinde kendi çocuğunun da 
+oyuncak almak için koşmasından mutlu olmadığını ifade etmiştir.  Ancak, 
+çocukların hayırsever insanlar tarafından dağıtılan oyuncaklardan oldukça 
+hoşnut olduğu gözlenmiştir. 
+Diğer taraftan deprem sonrasında insanların “varoluşsal güvenlik 
+duygusu” derinden sarsılmıştır. Aralarındaki sosyal bağları güçlendirerek 
+yaralarını sarma çabası içinde oldukları gözlenmiştir.
+Depremzedeler sık sık kaybettikleri yakınlarını/arkadaşları ve evler-
+ini düşündüklerini, şimdi ne olacak, biz ne yapacağız, nasıl yaşayacağız, 
+nasıl evlerimizi yeniden kuracağız sorularını sorduklarını ifade etmişlerdir. 
+Yine betonarme evlere girmekten korktuklarını belirtmişlerdir. 
+103
+AVRASYA DOSYASI
+PSİKOLOJİK ETKİLER
+Geçmişte depremzedeler arasında yapılan bir araştırma kadınların 
+%55,2’sinin ve erkeklerin %33,4’ünün TSSB ile mücadele ettiğini bulmuş-
+tur. Naeem ve diğerleri (2011) tarafından yapılan bir meta-analiz, depremler 
+sonrası TSSB gelişimi için risk faktörlerini araştırmıştır. Afetlerin psikolo-
+jik etkileri konusunda yapılan farklı araştırmalar (Tang, Deng, Glik, Dong 
+ve Zhang, 2017; Xu ve Song, 2011; Ginige, Amaratunga ve Haigh, 2009; 
+Ticehurst et. all. 1996) depremzedeler arasında TSSB’nin boyutlarını in-
+celemiştir. Bu araştırmaların bulgularına göre kadınlar, çocuklar, yaşlılar, 
+eğitim ve gelir düzeyi düşük olanlar daha fazla riskle karşı karşıyadır.
+Kahramanmaraş merkezli depremler de, insanların hayatların-
+da köklü değişikliklere yol açarak psikolojik sıkıntılara neden olmuştur. 
+Depremden önce düzgün bir hayatları olan insanlar, deprem sonrasında 
+yaşadıkları kayıplar nedeniyle stres, korku ve depresyon şikâyetleri dile 
+getirmişlerdir. Bazı insanlar, kaybettiklerini geri getirmenin imkânsız old-
+uğunu ve hayatlarının anlamını yitirdiğini düşünmekteler.
+Deprem sonrasında uykusuzluk, kaygı, korku, sinirlilik, saldırgan 
+davranışlar, ilgi isteme, konsantrasyon sorunları, unutkanlık, anlamsızlık 
+ve boşluk duygusu gibi psikolojik belirtiler görüşmelerde sıklıkla ifade 
+edilmiştir. 
+Ayrıca, deprem sonrasında görülen kayıpların etkisiyle bağırsak so-
+runları gibi fiziksel sağlık sorunlarını arttığının söyleyenler de olmuştur. 
+Depremden kurtulan insanlar, yıkılan evlerine bakarak geçmişteki 
+hayatlarına özlem duymaktadırlar. Ancak, deprem sonrasında kiminle veya 
+neyle mücadele edeceklerine dair belirsizlik hissi nedeniyle psikolojik olar-
+ak zorlanmaktadırlar. Ayrıca, kaybettikleri yakınları ve dostları nedeniyle 
+acı çeken insanlar da çoktur.
+Deprem sonrasında psikolojik destek almayan insanlar, yaşamlarına 
+devam etmekte güçlük çekmektedirler. Bu nedenle, psikolojik destek hiz-
+104
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+metleri deprem sonrası dönemde büyük önem taşımaktadır.
+Görüştüğümüz depremzedeler profesyonel anlamda psikolojik 
+destek almadıklarını ifade etmişlerdir. Bu dönemde depremzedelerin en 
+büyük desteği kendi aralarında güçlenen bağları olmuştur. 
+Diğer taraftan akrabalarının yanına taşınan bir aile gittikleri yerde 
+akrabalarından iyi muamele görmedikleri için akrabalık kurumuna güven 
+duygusunu kaybettiğini ifade etmiştir.  Ancak, birçok insan deprem son-
+rasında güven sorunu yaşadığını dile getirmiştir.
+DEPREMİ NASIL YORUMLUYORLAR?
+Deprem sonrasında öğrenilenler arasında yapı denetiminin önemi ve 
+imar barışı konusundan şikâyet dile getirilmiştir. Yapılan hataların binal-
+arın yıkılmasına neden olduğu belirtilirken, mühendislerin yaptığı binal-
+arın sağlam kaldığı ancak yetkin olmayan müteahhitlerin yaptığı binaların 
+çöktüğü ifade edilmiştir. Az sayıdaki depremzede bilim insanlarının uy-
+arılarını dikkate almamanın ve denetimsiz yapıların ciddi sonuçları ola-
+bileceğini gösterdiğini ifade etmiştir. Bu nedenle, yapı denetiminin önemi 
+vurgulanırken, sorumluların yapı denetimini düzgün yapmayanlar ve ruh-
+sat verenler olduğu ifade edilmiştir.
+Diğer taraftan bazı araştırmalar (Furedi, 2007)  Orta Çağ’da depremler 
+ve volkanik patlamaların insanların günahlarına karşı ilahi öfkenin işaret-
+leri olarak yorumlandıklarına vurgu yapar.  2011 Van depremi sonrasında 
+yapılan bir araştırma (Doğulu, Karanci, ve Ikizer, 2016), dini bağlılığın 
+çaresizlik duygusunu ile kayıpların acısını azaltabileceğini dile getirir. 
+Nitekim bu araştırmanın bulguları da depremin insanların dini bağlılığı ile 
+yakından ilişkili olduğunu göstermektedir. Görüşmeler esnasında birçok 
+kişi Allah’tan korkmak gerektiğine vurgu yapmıştır. 
+Diğer taraftan bu soruya “Dünya boş, her şey anlamsız” cevabını 
+verenler de var. Bir diğer ifade ile depreme atfedilen anlam kişinin eğitim, 
+105
+AVRASYA DOSYASI
+gelir ve dini bağlılığına göre değişmektedir. Bir diğer ifadeyle depremzede-
+lerin depremi yorumlama şekillerinde bir homojenlik gözlenmemiştir. 
+Diğer ülkelerde de eğitim düzeyleri arttıkça depremi tabiat kuralları ile 
+açıklama eğilimi artarken, eğitim gerilediğinde depremi tanrının bir cezası 
+olarak görenlerin oranları artmaktadır. 
+Bölgeden eğitimlilerin ve varlıklıların önemli bir kısmının ayrılmış 
+olması çadırlarda kalanların çoğunluğunun görece daha düşük eğitim ve 
+gelir düzeyinden gelmeleri, depremi kendileri için Allah’ın bir cezası olar-
+ak görenlerin oranını yükseltmiş olabilir. Nitekim görüşme yapılanların 
+çoğunluğu “Biz azdık, dünya malına çok düştük,  Allah da cezamızı verdi” 
+şeklinde depremi yorumlamıştır. 
+Göçmenler arasında ise, namaz kılmayan insanlar veya günah işley-
+enlerin depremin sebebi olduğunu düşünenler çoğunluktadır. Bazı insanlar 
+da depremin sadece bir takdir-i ilahi olduğunu kabul ediyor ve bu bizim im-
+tihanımız diyorlar. Elbette görece eğitim düzeyi daha yüksek depremzedel-
+er ise depremin işini düzgün yapmayan yöneticilerin, müteahhitlerin hatası 
+olduğunu ifade etmişlerdir.
+Depremzedelerin bazıları, depremin kendilerine dinlerine yeniden 
+bağlanma fırsatı verdiğini ifade ediyorlar. Müteahhitlerin, mühendislerin, 
+gerekli denetimleri yapmayanların sorumluluklarını kabul etmekle birlikte 
+çoğunluk “Bu deprem bir kader. . Allah’tan geldi. Kabul ettik” diyorlar. 
+Devlet tarafından yapılan maddi yardımın yetersiz olduğunu ifade eden-
+lerin yanında Kahramanmaraş’ta Sütçü İmam Üniversitesi’nin bahçesinde 
+Azerbaycan amblemli çadırda kalan bir depremzede şu cevabı vermiştir: 
+“Allah devletin yokluğunu vermesin. Bize iyi bakıyorlar. Bizim insanımız 
+süper.  Dünyadan destek geldi. Devlet baba sağ olsun. Bizim devletimiz 
+dünyaya yardım etti. Onlar da şimdi bize yardım ediyor. Küçük esnafım. 
+Dini unuttuk. Deprem bize dinimizi hatırlattı. Malım gitti. Üzüntü yok. 
+Moral bozukluğu yok. Yalan dünya. Biz azdık. Kudurduk. Cezamızı çeki-
+yoruz”.
+106
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+Aynı zamanda bir teselli de içeren bu ifadelerin yanında görüşme 
+yapılan depremzedelerin çok büyük bir bölümünde derin bir keder, gelecek 
+kaygısı ve çöküntünün işaretleri beden dillerinde gözlenmiştir.
+DEPREM SONRASINDA GÖÇ VE AYRIMCILIK
+Bölgeden çok sayıda insan göç etmiştir. Yerli halk öncelikle akraba 
+ve yakınlarının olduğu diğer şehirlere giderken, Suriyelilerin bir bölümü 
+de ülkelerine dönmüşlerdir.  Ancak göç edenleri tanıyan hem yerli halk, 
+hem de Suriyeli göçmenler, gidenlerin çoğunun geri geleceklerini ifade 
+etmişlerdir. Görüşme yapılan bir depremzede Manisa’ya gittiğini ama geri 
+dönmek zorunda kaldığını ifade etmiştir. Bu durumu  “Bülbülü altın kafese 
+koymuşlar yine vatan demiş” diyerek açıklamıştır. 
+Bazı gönüllülerle yapılan görüşmelerde, deprem sonrası “göçmen 
+düşmanlığının” artışına dikkat çekilmiştir. Bu bağlamda, Suriyeliler hak-
+kında çeşitli söylentilerin yayıldığı ve ölen depremzedelerin altın bilezikler-
+inin çalındığına dair iddiaların ortaya atıldığı belirtilmiştir.
+Diğer taraftan deprem sonrasında bazı göçmenlerin de arama/kurtar-
+ma çalışmalarına katıldığı dile getirilmiştir. Büyük krizler ve afetlerden son-
+ra dünyada genelde ayrımcılık eğilimleri artar. Deprem sonrasında görüşme 
+yapılan Antakya, İslâhiye, Nurdağı, Kahramanmaraş ve Elbistan gibi bölge-
+lerde yerli halkta göçmenlere yönelik büyük bir öfke gözlenmiştir. Örneğin 
+bazı yerli depremzedeler “Suriyeliler bizden iyi yaşıyor. Suriyelilere ev ver-
+mişler. Suriyelilere destek verildi.  Konteyner verildi” gibi iddiaları dile ge-
+tirmişlerdir. Hatta aynı çadır bölgesinde kalanlar Hatay’da Suriyelilere ver-
+ilen bazı çadırları zorla ellerinden aldıklarını, onların da güvenlik güçlerini 
+çağırmak zorunda kaldıklarını biraz da övünerek anlatmışlardır.
+Kahramanmaraş’ta görüşme yapılan bazı depremzede göçmen 
+kadınlar ayakkabı yardımı almak için gittiklerini, kendilerine vermedikler-
+ini/azarlandıklarını dile getirmiştir. Bu arada bunları söyleyen kadınların 
+ayaklarında gerçekten ayakkabı olmadığı da gözlenmiştir. 
+107
+AVRASYA DOSYASI
+ÇOCUKLAR VE EĞİTİM
+Akademik araştırmalar (Peek, 2008) afetlerin olumsuz etkileri 
+açısından en fazla risk altındaki grupların başında çocukların geldiğini if-
+ade etmektedir. Çünkü çocuklar fiziksel ve psikolojik olarak yetişkinlere 
+göre daha savunmasızdırlar ve özel ihtiyaçları vardır.  
+Alanda görüşme yapılan ebeveynler bir taraftan kendi yaralarını 
+sarmaya çalışırken diğer taraftan çocuklarının eğitimlerinin aksaması-
+na üzüldüklerini ve çocuklarının masraflarını nasıl karşılayacaklarını 
+bilmediklerini ifade etmişlerdir. Görüşmelerde, depremin çocuklar üze-
+rindeki etkisini anlatmak için deprem gününden itibaren (3 haftadır) 
+çadırdan çıkamayan 13 yaşında bir kız çocuğunu örnek gösterdiler.  Aile-
+lerinin yanında konuştuğumuz çocuklardan bazıları ise depremde hayatını 
+kaybeden öğretmenlerini ve arkadaşlarını gözyaşları içinde anmışlar ve 
+depremin hala rüyalarına girdiğini ifade etmişlerdir.
+Bazı ebeveynler çocuklarının davranışlarının değiştiğine ve psikolo-
+jilerinin bozulduğuna dikkat çektiler. Örneğin sakinken öfkeli hale gelen ya 
+da annelerinin yanından ayrılamayan sürekli anne beni yalnız bırakma diye 
+bağıran çocukların olduğunu belirttiler. Bir başka ebeveyn ise gece çadırda 
+yatarken korkudan çocuklarının montlarını çıkarmadıklarını ifade etmiştir. 
+Tıpkı kadınlar gibi kız çocukları da erkek çocuklarına göre deprem-
+den daha fazla etkilenmiş görünmektedir. İslâhiye’de “Gerçek hayatta 
+mıyız?” diye soran 12 yaşındaki Esra’nın sorusu çocukların yaşanan trav-
+maya anlam verme arayışını ifade etmektedir.
+GELECEK KAYGISI
+Benight ve Bandura’nın (2004) algılanan sosyal bilişsel teorisi, al-
+gılanan öz-yeterliliği travma sonrası iyileşme sürecinde odak noktasına 
+koyar. Bireylerin kendilerine ya da geleceğe ilişkin algıları deprem sonrası 
+süreçte ortaya çıkan sorunlarla başa çıkmada hayati bir rol oynar.
+108
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+Görüştüğümüz depremzedelerin en büyük sıkıntıları arasında “ge-
+lecek kaygısı”nın öne çıktığını gözlemledik. Çünkü birçoğunun hem evi 
+hem de iş yeri yıkılmış, iş yerlerindeki mallar zarar görmüş ya da bazı 
+durumlarda ilk günlerde yağmalanmıştır. Ruh hali oldukça bozulan birçok 
+depremzede, “Geceleyin uyuyamıyoruz, evimizi özledik, sabahın gelm-
+esini dört gözle bekliyoruz, hatta çadırda bile sarsıntılardan korkuyoruz” 
+şeklinde ifade ediyorlar.
+Böyle dönemlerde devletin koruyucu eline insanlar hiç olmadığı 
+ölçüde muhtaçtırlar. Gerektiğinde ülkenin geri kalanının fedakârlık yaparak 
+eldeki kaynakların depremzedelerin yaralarının sarılmasına aktarılması, bu 
+insanların acılarını hafifletecek ve ülkelerine bağlılığını güçlendirecektir.
+SONUÇ VE DEĞERLENDİRME
+Yaşanan 6 Şubat depremleri büyük bir şok ve korku yaratmış, bölge 
+insanını derinden etkilemiştir. Depremzedeler, evlerini ve sevdiklerini 
+kaybetmenin üzüntüsünü yaşarken, aynı zamanda yaşam koşullarının 
+da zorluğuyla mücadele etmektedirler. Deprem sonrasında hem depremi 
+yaşayanlar arasında hem de Türkiye genelinde büyük bir dayanışma or-
+taya çıkmıştır. Ancak özellikle ilk birkaç gün küçük de olsa anti-sosyal 
+davranışlar da gözlenmiş ve kısa sürede kontrol altına alınmıştır. 
+Afet sonrasında koordinasyon sorunu en çok dile getirilen konu 
+olmuştur. Depremzedelere yönelik hizmetlerin hızlı ve etkili bir şekilde 
+yürütülmesi, insanların hayatlarını yeniden inşa etmelerine ve geleceğe 
+umutlu bakmalarına yardımcı olacaktır. Alanda çalışan görevliler ile sivil 
+toplum örgütleri arasında etkili iletişimin geliştirilmesi önem taşımaktadır. 
+Zaman ilerledikçe, gönüllü kuruluşların depremzedelere yönelik ilg-
+ilerinin azalacağı ve kendi işlerine geri dönecekleri beklenmektedir. Ancak 
+depremzedelerin normal hayatlarına dönmeleri çok daha uzun bir zam-
+an alabilir. Kamu, depremzedelere sağlayacağı hizmetlerin planlamasını 
+bu durumu göz önünde bulundurarak yapmalı ve depremzedeler normal 
+hayatlarına dönene kadar ihtiyaçları, imkânlar ölçüsünde karşılanmalıdır
+109
+AVRASYA DOSYASI
+Ayrıca depremzedelerin ruh halinin bilinmesi ve buna uygun bir 
+iletişim dili, açılan yaraların kapanmasını hızlandıracaktır. Depremin 
+travmasını yaşayan kitle homojen değildir. Ancak depremzedelerin çoğun-
+luğu acılı, endişeli, öfkeli ve çökmüş durumdadır. Görüşme yapılanların 
+çok büyük bir bölümü (göçmenler dâhil) Tanrının gücünün sonsuzluğuna 
+sığınmış mütedeyyin insanlardan oluşmaktadır. Aynı zamanda devletin ko-
+ruyucu eline en çok ihtiyaç duydukları dönemdedirler. 
+Toplumsal dayanıklılığın artırılmasında güçlü sosyal bağlar son 
+derece önemlidir (Norris et. al., 2008; Bozkurt et.al., 2022).  Bu amaçla 
+psikolojik ve toplumsal destek güçlendirilmelidir; depremzedelere yönelik 
+profesyonel terapistler tarafından psikolojik destek verilmesi, yaşadıkları 
+deneyim hakkında bilgilendirilmeleri, stresle başa çıkma becerileri ka-
+zandırılması yaşadıkların travmanın etkisinden çıkmalarına katkı sağlay-
+abilir. 
+Ayrıca toplumsal destek gruplarının oluşturulması da teşvik edilebil-
+ir. Sahada farklı cemaat/ derneklerden çok sayıda gönüllü vardır. Bunların 
+iyi niyetli olmaları yeterli olmayabilir. Travma yaşamış insanlarla nasıl 
+konuşulacağını bilmeleri verdikleri hizmetin kalitesini iyileştirecektir. 
+Hem profesyonel destekler hem de depremzedelerin hayatlarını ekonomik 
+açıdan idame ettirebilmeleri için gerekli ekonomik destekler normalleşme 
+sürecinde önem taşımaktadır. Planlama olabildiğinde uzun vadeli ve 
+sürdürülebilir olmalıdır. 
+İnsanlar değiştirmeyeceklerini düşündükleri sorunlar karşısında ruh 
+sağlıklarını korumak için inkâr (sorunu yok saymak) yoluna gitmektedirl-
+er; dolayısıyla mevcut riskleri kısa sürede unutmaktadırlar. Oysa Türkiye 
+deprem bölgesidir. Gelecekte depremlerin hasarının azaltılması bir afet 
+kültürünün oluşturulması teşvik edilmelidir. Elbette hepsinden önemlisi 
+yaşanılan konutların bilim insanlarının görüş ve önerileri doğrultusunda 
+dönüştürülmesi gelecekteki kayıplarımızı minimize edecektir. 
+110
+Prof. Dr. Veysel BOZKURT, Depremin Toplumsal Boyutu
+Kaynakça
+Alexander, D. (2010). The L’Aquila Earthquake of 6 April 2009 and Italian Government Policy on 
+Disaster Response. Journal of Natural Resources Policy Research, 2(4), 325-342.
+Barsky, L. E., Trainor, J., & Torres, M. R. (2006). Disaster realities in the aftermath of Hurricane 
+Katrina: Revisiting the looting myth. Natural Hazards Review, 7(4), 127-140.
+Benight, C. C., & Bandura, A. (2004). Social cognitive theory of posttraumatic recovery: The role 
+of perceived self-efficacy. Behaviour research and therapy, 42(10), 1129-1148.
+Bonanno, G. A., Brewin, C. R., Kaniasty, K., & Greca, A. M. (2010). Weighing the costs of disaster: 
+Consequences, risks, and resilience in individuals, families, and communities. Psychologi-
+cal Science in the Public Interest, 11(1), 1-49.
+Bozkurt, V., Kaya, H., Göka, E., & Öngen Bilir, K. B. (2022). The Mental Health of a Society in 
+Crisis: Complaints of Depression and Anxiety. İstanbul University Journal of Sociology, 42, 
+153-170. https://dergipark.org.tr/tr/pub/iusosyoloji/issue/75911/1253691
+Bozkurt, V. (1999). Deprem ve Toplum. İstanbul: Alfa Yayınları.
+Dal Zilio, L., & Ampuero, J.-P. (2023). Earthquake doublet in Turkey and Syria. Communications 
+Earth & Environment, 4, 71.
+Derivois, D., Cénat, J. M., Joseph, N. E., Karray, A., & Chahraoui, K. (2017). Long-term outcomes 
+among child and adolescent survivors of the 2010 Haitian earthquake. Depression and Anx-
+iety, 34(11), 964-971.
+Doğulu, C., Karanci, A. N., & Ikizer, G. (2016). How do survivors perceive community resilience? 
+The case of the 2011 earthquakes in Van, Turkey. International Journal of Disaster Risk 
+Reduction, 16, 108-114.
+Drury, J., Brown, R., González, R., & Miranda, D. (2016). Emergent social identity and observing 
+social support predict social support provided by survivors in a disaster: solidarity in the 
+2010 Chile earthquake. European Journal of Social Psychology, 46(2), 209-223.
+Drury, J., Cocking, C., & Reicher, S. (2009). Everyone for themselves? A comparative study of 
+crowd solidarity among emergency survivors. British Journal of Social Psychology, 48, 
+487–506.
+Fothergill, A. (1996). Gender, Risk, and Disaster. International Journal of Mass Emergencies and 
+Disasters, 14(1), 33-56.
+Frailing, K., & Harper, D. W. (2017). Crime and Hurricanes in New Orleans. In The Oxford Hand-
+book of Offender Decision Making (pp. 539-562).
+Furedi, F. (2007). The changing meaning of disaster: Policy and politics for ‘natural’ disasters in the 
+UK. Area, 39(4), 482-489.
+111
+AVRASYA DOSYASI
+Ginige, K., Amaratunga, D., & Haigh, R. (2009). Mainstreaming gender in disaster reduction: why 
+and how? Disaster Prevention and Management: An International Journal, 18(1), 23-34.
+Goenjian, A. K., Roussos, A., Steinberg, A. M., Sotiropoulou, C., Walling, D., Kakaki, M., & Kara-
+gianni, S. (2011). Longitudinal study of PTSD, depression, and quality of life among ad-
+olescents after the Parnitha earthquake. Journal of Affective Disorders, 133(3), 509-515.
+Hussain, E., Kalaycıoğlu, S., Milliner, C. W. D., et al. (2023). Preconditioning the 2023 Kahram-
+anmaraş (Türkiye) earthquake disaster. Nature Reviews Earth & Environment, 4, 287–289.
+Kar, N. (2009). Psychological impact of disasters on children: review of assessment and interven-
+tions. World Journal of Pediatrics, 5(1), 5-11.
+Naeem, F., Ayub, M., Masood, K., Gul, H., Khalid, M., Farrukh, A., ... & Hughes, J. (2011). Preva-
+lence and psychosocial risk factors of PTSD: 18 months after Kashmir earthquake in Paki-
+stan. Journal of Affective Disorders, 130(1-2), 268-274.
+Norris, F. H., Friedman, M. J., Watson, P. J., Byrne, C. M., Diaz, E., & Kaniasty, K. (2002). 60,000 
+disaster victims speak: Part I. An empirical review of the empirical literature, 1981–2001. 
+Psychiatry, 65(3), 207-239.
+Norris, F. H., Stevens, S. P., Pfefferbaum, B., et al. (2008). Community Resilience as a Metaphor, 
+Theory, Set of Capacities, and Strategy for Disaster Readiness. American Journal of Com-
+munity Psychology, 41(1-2), 127-150.
+Peek, L. (2008). Children and Disasters: Understanding Vulnerability, Developing Capacities, and 
+Promoting Resilience—An Introduction. Children, Youth and Environments, 18(1), 1-29.
+Quarantelli, E. L. (1994). Looting and antisocial behavior in disasters. Preliminary Paper, 205, 1-12.
+Tang, B., Deng, Q., Glik, D., Dong, J., & Zhang, L. (2017). A meta-analysis of risk factors for 
+post-traumatic stress disorder (PTSD) in adults and children after earthquakes. International 
+Journal of Environmental Research and Public Health, 14(12), 1537.
+Ticehurst, S., Webster, R. A., Carr, V. J., & others. (1996). The psychosocial impact of an earthquake 
+on the elderly. International Journal of Geriatric Psychiatry, 11, 943–951.
+Tierney, K. (2012). Disaster governance: Social, political, and economic dimensions. Annual Re-
+view of Environment and Resources, 37, 341-363.
+Xu, J., & Song, X. (2011). Posttraumatic stress disorder among survivors of the Wenchuan earth-
+quake 1 year after: prevalence and risk factors. Comprehensive Psychiatry, 52(4), 431-437.
