@@ -1,0 +1,1813 @@
+[
+  {
+    "question": "Bu çalışmada Biyomedikal veri setleri üzerinde hangi makine öğrenmesi yöntemlerinin sınıflandırma performansları analiz edilmiştir?",
+    "ground_truth": "Bu çalışmada, Biyomedikal veri setleri üzerinde Klasik Makine Öğrenmesi (KMÖ) yöntemlerinin sınıflandırma performansları analiz edilmiştir.",
+    "source_file": "m01.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "Araştırmada kullanılan Klasik Makine Öğrenmesi yöntemleri arasında sınıflandırma doğruluğu açısından en yüksek performansı hangi algoritma göstermiştir?",
+    "ground_truth": "Yapılan çalışmalar sonucunda Klasik Makine Öğrenmesi yöntemleri içinde Sequential Minimal Optimization (Sıralı Minimal Optimizasyon-SMO) sınıflandırma doğruluğu için diğer beş yönteme göre daha yüksek performans göstermiştir.",
+    "source_file": "m01.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "Makine Öğrenmesi (MÖ) kullanılarak oluşturulan sistemlerde yaygın olarak kullanılan iki farklı öğrenme modeli nelerdir?",
+    "ground_truth": "MÖ kullanılarak oluşturulan sistemler genelde iki farklı öğrenme modeli kullanmaktadır. Bu iki model denetimli (supervised) ve denetimsiz (unsupervised) öğrenme modeli olarak adlandırılmaktadır.",
+    "source_file": "m01.md",
+    "source_section": "1.Giriş"
+  },
+  {
+    "question": "ARFF dosya formatında veri kümesinin özelliklerinin (attributes) serbest yazı şeklinde olabileceğini ifade eden veri tipi hangisidir?",
+    "ground_truth": "STRING: Veri kümesinin bu özelliğinin serbest yazı şeklinde olabileceğini ifade eder. Özellikle metin madenciliği çalışmaları için sıkça kullanılan bir tiptir.",
+    "source_file": "m01.md",
+    "source_section": "2.2. Arff Dosya Formatı"
+  },
+  {
+    "question": "Çalışmada model başarımını ölçmek için çapraz doğrulama (Cross Validation) yönteminde alt küme sayısı (k) kaç olarak belirlenmiştir?",
+    "ground_truth": "Çapraz doğrulamada veri kümesi öncelikle belirlenen alt küme sayısına bölünür. Alt küme sayısı bu çalışmada 10 seçilmiştir.",
+    "source_file": "m01.md",
+    "source_section": "3. Deney"
+  },
+  {
+    "question": "Makine öğrenmesinde model başarımının ölçülmesinde kullanılan Doğruluk (Accuracy) oranı nasıl hesaplanır?",
+    "ground_truth": "Doğru sınıflandırılmış örnek sayısının (TP +TN), toplam örnek sayısına (TP+TN+FP+FN) oranıdır.",
+    "source_file": "m01.md",
+    "source_section": "3.2.1. Doğruluk-Hata Oranı (Accuracy-Error Rate)"
+  },
+  {
+    "question": "Biyomedikal veri kümeleri üzerinde 6 farklı makine öğrenmesi algoritmasının performansının test edildiği bu çalışmada hangi algoritma sınıflandırma başarımı açısından en iyi sonucu vermiştir?",
+    "ground_truth": "Yapay Sinir Ağları algoritması sınıflandırma başarımı açısından daha başarılı olmuştur.",
+    "source_file": "m02.md",
+    "source_section": "ÖZET"
+  },
+  {
+    "question": "Bu çalışmada sınıflandırma algoritmalarından k-EYK'nın (K-En Yakın Komşu) hangi açıdan avantajlı olduğu belirtilmiştir?",
+    "ground_truth": "k-EYK algoritması çalışma zamanı (hız) açısından daha başarılı bulunmuştur.",
+    "source_file": "m02.md",
+    "source_section": "3. DENEY SONUÇLARI"
+  },
+  {
+    "question": "Rastgele Orman (RO) algoritmasında dallanma kriterlerinin belirlenmesinde hangi yöntem kullanılmaktadır?",
+    "ground_truth": "Dallanma kriterlerinin belirlenmesinde Gini Katsayısı yöntemi kullanılmaktadır.",
+    "source_file": "m02.md",
+    "source_section": "2.2.5. Rastgele Orman Algoritması"
+  },
+  {
+    "question": "Parkinson veri kümesinde hastanın parkinson hastası olma veya sağlıklı bir insan olma tahminini gerçekleştirmek için hangi nitelikler (özellikler) kullanılmaktadır?",
+    "ground_truth": "Hastanın konuşma durumunda sesinde oluşan dalgalanmalar, duyarlı olduğu maksimum, minimum, ortalama ses frekansları gibi değerler nitelik olarak kullanılmaktadır.",
+    "source_file": "m02.md",
+    "source_section": "2.1.Materyal"
+  },
+  {
+    "question": "İstatistiksel karşılaştırma sonucuna göre kutu grafiği boyu daha kısa olan ve diğer algoritmalara göre daha kararlı sonuçlar veren makine öğrenmesi algoritması hangisidir?",
+    "ground_truth": "Yapay Sinir Ağları (YSA) algoritması değişik özellikte olan veri kümelerine için diğer algoritmalara göre daha kararlı sonuçlar vermiştir.",
+    "source_file": "m02.md",
+    "source_section": "4. DENEY SONUÇLARININ İSTATİSTİKSEL OLARAK KARŞILAŞTIRILMASI"
+  },
+  {
+    "question": "K-En Yakın Komşu (k-EYK) algoritmasında, test edilecek örnek ile eğitim kümesindeki örnekler arasındaki uzaklıklar hangi formül/yöntem ile bulunmaktadır?",
+    "ground_truth": "Örnekler arası uzaklıklar Öklid (Euclidean) uzaklığı ile bulunur.",
+    "source_file": "m02.md",
+    "source_section": "2.2.1. K-En Yakın Komşu Algoritması"
+  },
+  {
+    "question": "Doğal Dil İşleme (DDİ) alanında çalışan bilişimcilerin dilleri bilgisayar yardımıyla işleyebilmek için üzerinde ağırlık verdikleri dört ana konu (dilbilimi konuları) nelerdir?",
+    "ground_truth": "Ses bilimi, biçim bilimi, söz dizimi ve anlam bilimidir.",
+    "source_file": "m03.md",
+    "source_section": "1. Giriş"
+  },
+  {
+    "question": "Türkçe gibi bitişken dillerde yazılı bir metin içindeki yazım yanlışlarını bulmak için hangi özellikler kullanılabilir?",
+    "ground_truth": "Ses uyum kuralları, hece yapısı ve eklerin uyumu özellikleri kullanılabilir.",
+    "source_file": "m03.md",
+    "source_section": "2.1 Yazım Yanlışlarının Düzeltilmesi"
+  },
+  {
+    "question": "Bir metni seslendirmede kullanılan iki temel yöntem nedir?",
+    "ground_truth": "Doğal sesleri ekleme yöntemi ve Yapay ses üretme yöntemidir.",
+    "source_file": "m03.md",
+    "source_section": "2.8 Metni Seslendirme"
+  },
+  {
+    "question": "Dillerin iletişim ortamlarında anlaşılırlığını (Anlaşılırlık derecesini) ölçmek için kullanılan AD formülündeki YS ve M değerleri neyi ifade etmektedir?",
+    "ground_truth": "YS: Yanlış sayısı (dinleyenin yanlış yazdığı sözcük sayısı), M: Okunan metindeki toplam sözcük sayısıdır.",
+    "source_file": "m03.md",
+    "source_section": "4.1 Anlaşılırlık"
+  },
+  {
+    "question": "Diller arası çeviri (Bilgisayarlı çeviri) amacıyla kullanılan yöntemler genel olarak hangi iki kümeye ayrılır?",
+    "ground_truth": "Kural temelli çeviri yöntemleri ve istatistiksel temelli çeviri yöntemleri olmak üzere iki genel kümeye ayrılır.",
+    "source_file": "m03.md",
+    "source_section": "2.11 Çeviri"
+  },
+  {
+    "question": "Yazılı metinlerde aynı dilde yazılışları aynı ancak anlamları farklı olan ve diller arası bilgisayarlı çeviride anlam belirsizliklerine neden olan sözcüklere ne ad verilir?",
+    "ground_truth": "Sesteş sözcükler adı verilir.",
+    "source_file": "m03.md",
+    "source_section": "3.6 Anlam Belirsizliği"
+  },
+  {
+    "question": "Türkçede ad durum eklerinin (ismin halleri) kazandırdığı anlamın kesinliği Hint-Avrupa dillerine kıyasla nasıldır?",
+    "ground_truth": "Türkçede ad durum eklerinin kazandırdığı anlam çok kesindir ve bu kesinlik Hint-Avrupa dillerinde aynı düzeyde değildir.",
+    "source_file": "m03.md",
+    "source_section": "4.6 Kurallı Olmak"
+  },
+  {
+    "question": "Bilgisayarlı çeviri dizgelerinden beklentiler açısından bir dizgenin 'İnsan desteksiz' olması ne anlama gelmektedir?",
+    "ground_truth": "Çeviri dizgesinin insan katkı ve desteği olmadan çalışabilmesi anlamına gelmektedir.",
+    "source_file": "m03.md",
+    "source_section": "2.11 Çeviri"
+  },
+  {
+    "question": "Türkçe için yapılan WordNet oluşturma hakkındaki doğal dil işleme çalışmaları bilgisayar terimleri için neden yetersiz bulunmuştur?",
+    "ground_truth": "Bu çalışmaların bilgisayar terimleri için otomatikleştirme adına yetersiz olduğu belirtilmiştir.",
+    "source_file": "m04.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "Bu çalışmada ağ terimlerini içeren WordNet ontolojisi oluşturulurken, terimlerin adlandırılmasında kullanılan en etkili yöntem hangisidir?",
+    "ground_truth": "Terimlerin adlandırılması için en etkili yol olarak Doğal Dil İşleme (DDİ) yöntemi kullanılmıştır.",
+    "source_file": "m04.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "WordNet projesi ilk olarak ne zaman ve nerede başlatılmış bir ontolojik sözlük projesidir?",
+    "ground_truth": "WordNet projesi, 1985 yılında Princeton Üniversitesi Bilişsel Bilimler Laboratuarı'nda Miller tarafından başlatılmıştır.",
+    "source_file": "m04.md",
+    "source_section": "2.2. WordNet"
+  },
+  {
+    "question": "Araştırmada doğal dil işleme ön işlemleri (biçimbilimsel analiz) ve kelimelerin köklerine ayrıştırılması için hangi kütüphane/çatı kullanılmıştır?",
+    "ground_truth": "Zemberek çatısı kullanılmıştır.",
+    "source_file": "m04.md",
+    "source_section": "2.4. Zemberek"
+  },
+  {
+    "question": "Algoritmada, tespit edilen hatalı kelimelerin düzeltilmesi amacıyla hangi yöntem kullanılmıştır?",
+    "ground_truth": "Tespit edilen hatalı kelimelerin düzeltilmesi için n-gram yöntemi kullanılmıştır.",
+    "source_file": "m04.md",
+    "source_section": "4.2. Algoritmanın Oluşturulması"
+  },
+  {
+    "question": "Geliştirilen yazılımda WordNet sözlüğünde bulunan her bir kelime için ayrılan 5 bölüm (etiket) nelerdir?",
+    "ground_truth": "Kelime, Kelimenin Eş Anlamı, Kelimenin Yakın Anlamı, Kelimenin Zıt Anlamı ve Tanımı olmak üzere 5 bölüme ayrılmıştır.",
+    "source_file": "m04.md",
+    "source_section": "4.2. Algoritmanın Oluşturulması"
+  },
+  {
+    "question": "Makine Öğrenmesi ve Derin Öğrenme uygulamaları için bir standart haline gelmiş popüler görüntü veri setinin adı nedir?",
+    "ground_truth": "MNIST veri setidir.",
+    "source_file": "m05.md",
+    "source_section": "Özetçe"
+  },
+  {
+    "question": "Yapay Sinir Ağlarında, girdi ve çıktı katmanları arasında birden fazla gizli katman bulunduğunda bu ağ türüne ne ad verilir?",
+    "ground_truth": "Çok Katmanlı Yapay Sinir Ağlarında girdi ve çıktı katmanları arasında birden fazla gizli katman varsa Derin Sinir Ağları olarak adlandırılır.",
+    "source_file": "m05.md",
+    "source_section": "1.Giriş"
+  },
+  {
+    "question": "Geleneksel Konvolüsyonel Sinir Ağları (CNN) mimarisini oluşturan beş esas katman nelerdir?",
+    "ground_truth": "Girdi Katmanı, Konvolüsyon Katmanı, Havuzlama Katmanı, Tam Bağlantılı Katman ve Çıktı Katmanıdır.",
+    "source_file": "m05.md",
+    "source_section": "2. Materyal ve Metot"
+  },
+  {
+    "question": "CNN modellerinin konvolüsyon işleminden sonra negatif giriş verileri için 0 değerini, pozitif giriş verileri için x değerini alan ve resimlerin boyutunu değiştirmeyen aktivasyon fonksiyonu hangisidir?",
+    "ground_truth": "ReLU aktivasyon fonksiyonudur.",
+    "source_file": "m05.md",
+    "source_section": "3. Oluşturulan Model ve Bulgular"
+  },
+  {
+    "question": "CNN çıkış katmanında kullanılan ve verilen her bir giriş verisinin bir sınıfa ait olma olasılığını 0 ve 1 arası çıktılar üreterek gösteren aktivasyon fonksiyonu hangisidir?",
+    "ground_truth": "Softmax aktivasyon fonksiyonudur.",
+    "source_file": "m05.md",
+    "source_section": "3. Oluşturulan Model ve Bulgular"
+  },
+  {
+    "question": "El yazısıyla yazılmış Çince sayı görüntüleri kullanılarak Konvolüsyonel Sinir Ağı (CNN) modeliyle yapılan sınıflandırma sonucunda hangi eğitim ve doğrulama doğruluğu oranlarına ulaşılmıştır?",
+    "ground_truth": "Eğitim doğruluğu %96,5 ve doğrulama doğruluğu %97 olarak bulunmuştur.",
+    "source_file": "m05.md",
+    "source_section": "3. Oluşturulan Model ve Bulgular"
+  },
+  {
+    "question": "Sinyalize kavşakların performans ölçümünde kullanılan Webster, HCM ve Avustralya (Akçelik) gibi analitik gecikme modelleri hangi sinyal sistemlerinde daha tatmin edici sonuçlar vermektedir?",
+    "ground_truth": "Bu analitik modeller Ön Zamanlı Sinyal Sistemleri (ÖSS) için genelde tatmin edici sonuçlar üretmeyi başarmaktadır.",
+    "source_file": "m06.md",
+    "source_section": "1. Giriş"
+  },
+  {
+    "question": "Adaptif Sinyal Yönetim Sistemleri (ASYS) ile yönetilen sinyalize kavşaklarda derin öğrenme yaklaşımı ile geliştirilen Gecikme Tahmin Modeli'nin (DÖM) YSA ve analitik modellerle karşılaştırıldığında hata yüzdesi nasıldır?",
+    "ground_truth": "DÖM modelinin gerçek değerleri YSA modelinden yaklaşık 2 kat, analitik modellerden ise yaklaşık 5 kat daha düşük hata yüzdeleri ile tahmin ettiği tespit edilmiştir.",
+    "source_file": "m06.md",
+    "source_section": "Öz"
+  },
+  {
+    "question": "Çalışmada yapay zeka tabanlı modellerin (YSA ve DÖM) eğitilmesinde ve test edilmesinde kullanılan GD-1 veri kümesinde hangi sinyal ve trafik mekanizmaları girdi değişkeni olarak yer almıştır?",
+    "ground_truth": "Kırmızı ve sarı süre, yeşil süre, devre süresi, yeşil sürenin devre süresine oranı, toplam taşıt sayısı, ağır ticari taşıt sayısı ve ağır ticari taşıt sayısının toplam taşıt sayısına oranı girdi değişkenleri olarak yer almıştır.",
+    "source_file": "m06.md",
+    "source_section": "1. Giriş"
+  },
+  {
+    "question": "Modellerde çok değişkenli aykırı değerleri (outliers) veri setinden tespit edip çıkartmak amacıyla hangi istatistiksel uzaklık yöntemi kullanılmıştır?",
+    "ground_truth": "Mahalanobis mesafeleri (uzaklığı) yöntemi kullanılmıştır.",
+    "source_file": "m06.md",
+    "source_section": "4.1. Uygulama kavşağı ve verilerin toplanması"
+  },
+  {
+    "question": "Çalışmada geliştirilen Derin Öğrenme Modeli'nde (DÖM) veri dizileri ile zaman arasındaki uzun vadeli bağımlılıkları öğrenmek amacıyla hangi sinir ağı katmanı kullanılmıştır ve bu katmanda kaç adet nöron tercih edilmiştir?",
+    "ground_truth": "Uzun Kısa Dönem Hafıza (LSTM) katmanı kullanılmış ve bu katmanda 250 adet nöron tercih edilmiştir.",
+    "source_file": "m06.md",
+    "source_section": "4.3. Derin öğrenme ile model geliştirilmesi"
+  },
+  {
+    "question": "Derin sinir ağlarını eğitmek amacıyla DÖM modelinde tercih edilen adaptif öğrenme oranı optimizasyon algoritması hangisidir?",
+    "ground_truth": "Adam optimizasyon algoritması tercih edilmiştir.",
+    "source_file": "m06.md",
+    "source_section": "4.3. Derin öğrenme ile model geliştirilmesi"
+  },
+  {
+    "question": "Türkçe duygu sınıflandırması amacıyla gerçekleştirilen bu çalışmada, 150000 kullanıcı ürün yorumundan oluşan hangi veri kümesi kullanılmıştır?",
+    "ground_truth": "TRSAv1 veri kümesi kullanılmıştır.",
+    "source_file": "m07.md",
+    "source_section": "3.1 Veri Seti"
+  },
+  {
+    "question": "TRSAv1 veri kümesinde yer alan kullanıcı yorumları hangi 3 duygusal sınıfa ayrılmıştır ve bu sınıfların sayısal etiket değerleri nedir?",
+    "ground_truth": "Pozitif, nötr ve negatif olmak üzere 3 sınıfa ayrılmıştır; 0 'nötr'ü, 1 'negatif'i, 2 ise 'pozitif'i temsil etmektedir.",
+    "source_file": "m07.md",
+    "source_section": "3.1 Veri Seti"
+  },
+  {
+    "question": "E-ticaret kullanıcı yorumları üzerindeki duygu sınıflandırma performansını ölçmek amacıyla hangi iki temel metrik değerlendirme ölçütü olarak kullanılmıştır?",
+    "ground_truth": "Doğruluk (Accuracy) ve F1 Skor metrikleri kullanılmıştır.",
+    "source_file": "m07.md",
+    "source_section": "Özetçe"
+  },
+  {
+    "question": "Metinlerde sıklıkla kullanılan ve tek başlarına bir anlam ifade etmeyen 'bir', 've', 'veya', 'gibi', 'için', 'ile' gibi kelimelere doğal dil işlemede ne ad verilir?",
+    "ground_truth": "Durak kelimeler (Stopwords) adı verilir.",
+    "source_file": "m07.md",
+    "source_section": "3.2.1 Veri Ön İşleme"
+  },
+  {
+    "question": "Çalışma kapsamında ele alınan Transformers tabanlı modellerden en yüksek başarım oranını (ön işlemesiz ve ön işlemeli yöntemlerde) hangi model varyasyonu elde etmiştir?",
+    "ground_truth": "ConvBERTurk mC4 (uncased) modeli elde etmiştir.",
+    "source_file": "m07.md",
+    "source_section": "4.Bulgular ve Tartışma"
+  },
+  {
+    "question": "Deney sonuçlarına göre kullanıcı yorumlarından 'çok', 'güzel', 'beğenmedim', 'iyi' gibi etkili-yoğun kelimelerin (strong words) kaldırılması yönteminin duygu sınıflandırma başarımı üzerindeki etkisi nasıl olmuştur?",
+    "ground_truth": "Etkili-yoğun kelimelerin kaldırılması yönteminin duygu sınıflandırma performansı üzerinde negatif (olumsuz) bir etkiye sahip olduğu görülmüştür.",
+    "source_file": "m07.md",
+    "source_section": "4.Bulgular ve Tartışma"
+  },
+  {
+    "question": "Büyük veri kümelerinden veri görselleştirme ve veri madenciliği yöntemlerinin entegrasyonu kullanılarak örtük ve faydalı bilgilerin keşfedilmesine ne ad verilir?",
+    "ground_truth": "Görsel veri madenciliği adı verilir.",
+    "source_file": "m08.md",
+    "source_section": "Giriş"
+  },
+  {
+    "question": "Çok boyutlu ölçekleme (MDS) çözümünün orijinal uzaklıklar ile gösterim uzaklıkları arasındaki uyum iyiliğini (uygunluğunu) değerlendirmek için yaygın olarak kullanılan ölçü hangisidir?",
+    "ground_truth": "Kruskal stress ölçüsüdür.",
+    "source_file": "m08.md",
+    "source_section": "1.2. Çok Boyutlu Ölçekleme"
+  },
+  {
+    "question": "Çalışmada, Türkiye'deki illerin 2020 yılı aktif sigortalı sayılarına ait verileri analiz etmek için kullanılan ve kümeleme hatasını en aza indirmeye dayanan popüler hiyerarşik olmayan kümeleme yöntemi hangisidir?",
+    "ground_truth": "K-Ortalamalar (K-Means) kümeleme yöntemidir.",
+    "source_file": "m08.md",
+    "source_section": "1.3. KOrtalamalar (K -Means) Kümeleme Yöntemi"
+  },
+  {
+    "question": "Nesneler arasındaki benzerlikler ile nesne kümeleri arasındaki uzaklık veya farklılıkların grafiksel (görsel) bir temsilini elde etmek amacıyla kullanılan çok değişkenli veri analizi tekniği hangisidir?",
+    "ground_truth": "Çok boyutlu ölçekleme (Multidimensional Scaling - MDS) yöntemidir.",
+    "source_file": "m08.md",
+    "source_section": "Giriş"
+  },
+  {
+    "question": "Sosyal güvenlik sisteminde, 5510 sayılı Kanun kapsamında hizmet akdi ile bir veya birden fazla işveren tarafından çalıştırılan (en fazla çalışana sahip olan) sigortalılar hangi grup altında tanımlanmaktadır?",
+    "ground_truth": "4/1-a kapsamındaki aktif sigortalılar altında tanımlanmaktadır.",
+    "source_file": "m08.md",
+    "source_section": "Giriş"
+  },
+  {
+    "question": "4/1-c kapsamındaki aktif sigortalıların illere göre oransal dağılımının neredeyse tek bir kümede gruplanması ülke genelinde neyi göstermektedir?",
+    "ground_truth": "Bu kapsamdaki (kamu çalışanı/memur) sigortalıların oransal olarak ülke genelinde benzer (aynı) düzeylerde dağıldığını göstermektedir.",
+    "source_file": "m08.md",
+    "source_section": "3. Sonuç"
+  },
+  {
+    "question": "Eğitim alanında yapılan, çevrim içi kayıtlardan ve sınav sonuçlarından büyük veri analizi yöntemleriyle faydalı kalıplar keşfetmeyi amaçlayan veri madenciliği disiplinine ne ad verilir?",
+    "ground_truth": "Eğitsel Veri Madenciliği (EVM) adı verilir.",
+    "source_file": "m09.md",
+    "source_section": "Eğitsel Veri Madenciliği Neden Önemlidir?"
+  },
+  {
+    "question": "Eğitsel Veri Madenciliği (EVM) araştırmacıları ile Öğrenme Analitiği (ÖA) araştırmacıları arasındaki bakış açısı farkı, veri analizi ve öğretmen/öğrenci yönlendirmesi açısından nasıldır?",
+    "ground_truth": "ÖA araştırmacıları daha çok insan öncülüğündeki keşif yöntemlerine ve öğretmen/öğrenciyi süreçte bilgilendirmeye odaklanırken; EVM araştırmacıları öğrencinin kişisel öğrenme verilerini kullanarak öğrenme biçimlerini sınıflandırmaya ve otomatik tahminler yapmaya odaklanırlar.",
+    "source_file": "m09.md",
+    "source_section": "Öğrenme Analitiği ve Eğitsel Veri Madenciliği"
+  },
+  {
+    "question": "Araştırma kurumlarının, çok büyük miktarda veri içeren ve eğitsel davranış analizi çalışmaları için araştırmacılara açık hale getirdiği çevrim içi veri platformlarına ne ad verilir?",
+    "ground_truth": "Veri Dükkanları (Data Shop) adı verilir.",
+    "source_file": "m09.md",
+    "source_section": "Eğitsel Veri Madenciliğinin Amaçları ve Paydaşları"
+  },
+  {
+    "question": "Baker ve Yacef (2009) tarafından Eğitsel Veri Madenciliği (EVM) çalışmalarının özetlendiği dört ana hedef nedir?",
+    "ground_truth": "Öğrencilere dair modeller geliştirerek davranışlarını tahmin etmek, bilgi alanı yapı modellerini keşfetmek/geliştirmek, öğrenciye en etkili pedagojik desteği incelemek, ve daha iyi öğretim sistemlerinin tasarlanması için ampirik kanıtlar oluşturmaktır.",
+    "source_file": "m09.md",
+    "source_section": "Eğitsel Veri Madenciliğinin Amaçları ve Paydaşları"
+  },
+  {
+    "question": "Romero ve Ventura (2010) tarafından EVM çalışmalarının paydaşları olarak sınıflandırılan dört ana paydaş grubu hangileridir?",
+    "ground_truth": "Eğitimciler, Öğrenenler, Araştırmacılar/Geliştiriciler ve Organizasyonlardır.",
+    "source_file": "m09.md",
+    "source_section": "Eğitsel Veri Madenciliğinin Amaçları ve Paydaşları"
+  },
+  {
+    "question": "Eğitsel Veri Madenciliği (EVM) çalışmalarında alanyazında karşılaşılan, benzer paket program ve kütüphanelerin kullanılmasıyla güvenirlik konusunu riske sokan en önemli metodolojik sorunlardan biri nedir?",
+    "ground_truth": "Yapılan çalışmaların boylamsal (longitudinal) olmaması ve çoğunlukla sonuçları bilinen durağan veri setleri üzerinde benzer kütüphanelerle yürütülmesidir.",
+    "source_file": "m09.md",
+    "source_section": "Sonuç"
+  },
+  {
+    "question": "Gartner ve Krašna (2023) tarafından yapılan değerlendirmeye göre yapay zekanın etik olarak kullanılması ile etik dışı kullanılması arasındaki temel fark nedir?",
+    "ground_truth": "Yapay zekâ, etik olarak kullanıldığında kişiye mutlak anlamda yardım, etik dışı kullanıldığında ise bir cehennem olur.",
+    "source_file": "m10.md",
+    "source_section": "Giriş"
+  },
+  {
+    "question": "Geleneksel yapay zekânın aksine, mevcut verileri analiz etmek veya sınıflandırmak yerine mevcut verilerden metin, görüntü veya ses gibi özgün/yeni içerikler üretmek üzere tasarlanan derin öğrenme teknikli sistemlere ne ad verilir?",
+    "ground_truth": "Üretken yapay zekâ adı verilir.",
+    "source_file": "m10.md",
+    "source_section": "1.Yapay Zekânın Tanımı"
+  },
+  {
+    "question": "Bireysel haklara, gizliliğe, ayrımcılık ve manipülasyon yapmama gibi temel değerlerle ilgili iyi tanımlanmış etik yönergelere uyan yapay zekâ kavramına ne ad verilir?",
+    "ground_truth": "Etik yapay zekâ adı verilir.",
+    "source_file": "m10.md",
+    "source_section": "3. Eğitimde Yapay Zekâ İle İlgili Etik Sorunlar"
+  },
+  {
+    "question": "Bu (2022) çalışmasına göre eğitimde yapay zekânın kullanımı sonucu ortaya çıkan üç temel etik risk nedir?",
+    "ground_truth": "Eğitim verisi güvenliği riski, öğretmen-öğrenci rol yapısının ve eğitim eşitsizliğinin artması riski, ve eğitim hedeflerinden uzaklaşma riskidir.",
+    "source_file": "m10.md",
+    "source_section": "3. Eğitimde Yapay Zekâ İle İlgili Etik Sorunlar"
+  },
+  {
+    "question": "Sanni (2025) tarafından önerilen, eğitimde kullanılan yapay zekâ sistemlerinde paydaşların yapay zekâ odaklı kararların arkasındaki mantığı anlamalarını ve güvenebilmelerini kapsayan temel ilke hangisidir?",
+    "ground_truth": "Şeffaflık ve Açıklanabilirlik ilkesidir.",
+    "source_file": "m10.md",
+    "source_section": "3. Eğitimde Yapay Zekâ İle İlgili Etik Sorunlar"
+  },
+  {
+    "question": "Yükseköğretim Kurulu (YÖK, 2024) tarafından yayınlanan üretken yapay zekâ etik rehberine göre, üretken yapay zekânın kullanım amacı ve kapsamı bilimsel araştırma sürecinde hangi üst düzey aşamaları içermemelidir?",
+    "ground_truth": "Hipotez geliştirme, tartışma, yorumlama ve uygulama gibi üst düzey beceri, deneyim ve uzmanlık gerektiren aşamaları içermemelidir.",
+    "source_file": "m10.md",
+    "source_section": "3. Eğitimde Yapay Zekâ İle İlgili Etik Sorunlar"
+  },
+  {
+    "question": "Bu çalışma kapsamında, nicemleme temelli verimlilik-doğruluk ödünleşimini değerlendirmek amacıyla incelenen üç farklı Türkçe büyük dil modeli (LLM) hangileridir?",
+    "ground_truth": "Trendyol-LLM-7B, Turkish-LLaMA-8B-Instruct ve TurkcellLLM-7B.",
+    "source_file": "m11.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "Türkçe büyük dil modellerinin nicemleme deneylerinde, dilbilgisel kabul edilebilirlik görevini ölçmek amacıyla Matthews Correlation Coefficient (MCC) metriğiyle birlikte hangi veri seti kullanılmıştır?",
+    "ground_truth": "TrCOLA (The Corpus of Linguistic Acceptability -Türkçe Versiyon) veri seti kullanılmıştır.",
+    "source_file": "m11.md",
+    "source_section": "2.3 Değerlendirme veri setleri"
+  },
+  {
+    "question": "Çalışmada sınıflandırma görevlerinden soru-cevap ilişkisini (QNLI) değerlendirmek amacıyla google/xquad veri setinin hangi alt kümesi kullanılmıştır?",
+    "ground_truth": "Türkçe yapılandırması (xquad.tr) kullanılmıştır.",
+    "source_file": "m11.md",
+    "source_section": "2.3 Değerlendirme veri setleri"
+  },
+  {
+    "question": "Çalışmada anlık nicemleme işlemlerinde model ağırlıklarını GPU belleğinde INT8 veya INT4 formatında saklayıp matris çarpımı esnasında geçici de-kuantizasyon sağlayan kütüphane hangisidir?",
+    "ground_truth": "bitsandbytes kütüphanesidir.",
+    "source_file": "m11.md",
+    "source_section": "2.4 Kuantizasyon yöntemi"
+  },
+  {
+    "question": "BFLOAT16 baseline yapılandırmasına kıyasla INT8 nicemleme modeli yaklaşık %30.2-%32.9 VRAM tasarrufu sağlarken, INT4 nicemleme modeli ne kadarlık bir VRAM tasarrufu oranı sağlamıştır?",
+    "ground_truth": "%61.6 - %64.4 aralığında VRAM tasarrufu sağlamıştır.",
+    "source_file": "m11.md",
+    "source_section": "3.2 Sistem düzeyi karşılaştırma"
+  },
+  {
+    "question": "Deneysel bulgulara göre, INT8 nicemleme yapılandırmalarının tüm modellerde belirgin biçimde çıkarım hızı (tokens/s) düşüşü sergilemesinin temel sebebi nedir?",
+    "ground_truth": "INT8 nicemlemede uygulanan anlık de-kuantizasyon işlemleri ve veri türü dönüşümlerinin GPU hesaplama hattında ek gecikmelere yol açmasından kaynaklanmaktadır.",
+    "source_file": "m11.md",
+    "source_section": "3.2 Sistem düzeyi karşılaştırma"
+  },
+  {
+    "question": "Bu çalışmada terzi-dikim konu modelleme algoritması oluşturulmasında siyaset bilimi ve uluslararası ilişkiler alanındaki metinleri analiz etmek için hangi kurumun web sitesinden dinamik web kazıma yöntemiyle veri toplanmıştır?",
+    "ground_truth": "Türkiye Cumhuriyeti Dışişleri Bakanlığı web sitesi üzerinden (mfa.gov.tr) kamuoyuna açık biçimde paylaşılan veriler kullanılmıştır.",
+    "source_file": "m12.md",
+    "source_section": "II. YÖNTEM"
+  },
+  {
+    "question": "Çalışmada metin analiz birimi olarak cümle veya tüm metin yerine paragraf bütünlüğünün tercih edilmesinin temel nedeni nedir?",
+    "ground_truth": "Paragraf bütünlüğünün orijinal bağlamı koruduğu ve cümlelerin diplomatik dilin doğasından kaynaklanan zincirleme anlatıyı inşa sürecini içermediği gözlemine dayanmaktadır.",
+    "source_file": "m12.md",
+    "source_section": "II. YÖNTEM"
+  },
+  {
+    "question": "Soru-Cevap (SC) modeli olarak kullanılan ve 'bu belgede bahsedilen ana konu nedir' sorusunu yanıtlayarak araştırmacının konuları manuel incelemesine temel oluşturan HuggingFace modeli hangisidir?",
+    "ground_truth": "deepset/roberta-base-squad2 modeli kullanılmıştır.",
+    "source_file": "m12.md",
+    "source_section": "II. YÖNTEM"
+  },
+  {
+    "question": "Belgelere konu etiketleri atamak için kelime vektörlerini (embeddings) sentence-transformers/all-mpnet-base-v2 modeli aracılığıyla çıkartan ve tam eşleşme puanlamasıyla kosinüs benzerliğini birleştiren algoritmada normalleştirilmiş puanlar için uygulanan kabul eşik değeri kaçtır?",
+    "ground_truth": "0,5'lik bir eşik uygulanmıştır.",
+    "source_file": "m12.md",
+    "source_section": "II. YÖNTEM"
+  },
+  {
+    "question": "Çalışmada geliştirilen konu etiketleme ve sınıflandırma algoritmasında, kelime benzerlikleri için verilen ağırlık ile tam eşleşme ağırlığı hangi sembollerle gösterilmektedir?",
+    "ground_truth": "Kelime benzerlikleri için verilen ağırlık α ve tam eşleşme ağırlığı da β ile gösterilmektedir.",
+    "source_file": "m12.md",
+    "source_section": "II. YÖNTEM"
+  },
+  {
+    "question": "Önerilen hibrit konu modelleme yaklaşımında, bir belgenin birden fazla konu etiketine sahip olabilmesine olanak tanıyan veya hiçbir konuya ait olmamasını da kapsayan çıktı yapısına ne ad verilir?",
+    "ground_truth": "Karma-üyelik (mixed-membership) çıktılarına ulaştık.",
+    "source_file": "m12.md",
+    "source_section": "II. YÖNTEM"
+  },
+  {
+    "question": "Son yıllarda giderek daha fazla gereksinim duyulan, yapay zeka kararlarının ve sonuçlarının insanlar tarafından yorumlanmasını ve anlaşılmasını sağlayan teknik ve yöntemler bütününe ne ad verilir?",
+    "ground_truth": "Açıklanabilir yapay zekâ (explainable artificial intelligence) kavramı veya XAI adı verilir.",
+    "source_file": "m13.md",
+    "source_section": "1. Giriş"
+  },
+  {
+    "question": "Guidotti ve arkadaşlarının (2018) terminolojisine göre, açıklanabilir yapay zeka (XAI) teknikleri hangi iki ana grupta toplanmaktadır?",
+    "ground_truth": "Tersine mühendislik (reverse engineering) ve şeffaf model tasarımı (transparent model design).",
+    "source_file": "m13.md",
+    "source_section": "Açıklanabilir Yapay Zeka Teknikleri"
+  },
+  {
+    "question": "Herhangi bir makine öğrenme algoritmasına uygulanabilen, 'her karmaşık model yerel ölçekte doğrusaldır' varsayımına dayanan ve değişkenlerin tahmin üzerindeki etkisini görselleştiren yerel açıklayıcı teknik hangisidir?",
+    "ground_truth": "LIME (Local Interpretable Model-agnostic Explanations) tekniğidir.",
+    "source_file": "m13.md",
+    "source_section": "2.1. LIME (Local Interpretable Model-agnostic Explanations)"
+  },
+  {
+    "question": "Çalışmada önerilen açıklanabilir yapay zeka hibrit model tasarımının temel çalışma prensibi nedir?",
+    "ground_truth": "Toplam bilginin mümkün olabildiği kadar açıklanabilir yapay zekâ teknikleri olarak belirtilen şeffaf algoritmalarla, geri kalan açıklanamayan bilginin ise performansı yüksek kara kutu algoritmalarla açıklanmasıdır.",
+    "source_file": "m13.md",
+    "source_section": "2.2. Açıklanabilir Yapay Zeka Tasarımı (Hibrit Tasarım)"
+  },
+  {
+    "question": "Önerilen hibrit yapay zeka algoritmasının sınanması amacıyla, herkesin erişimine açık hangi veri tabanından alınan veri setleri kullanılmıştır?",
+    "ground_truth": "UCI veri deposundan elde edilen veri setleri kullanılarak sınanmıştır.",
+    "source_file": "m13.md",
+    "source_section": "3. Uygulama"
+  },
+  {
+    "question": "Çalışmada önerilen hibrit algoritmanın (Algoritma 1) şeffaf model aşamasında karar ağaçları modeliyle üretilen ve hibrit modelde ek bir girdi değişkeni olarak kullanılan özniteliğe ne ad verilmiştir?",
+    "ground_truth": "Decision Rule değişkeni olarak adlandırılmıştır.",
+    "source_file": "m13.md",
+    "source_section": "3. Uygulama"
+  },
+  {
+    "question": "Otomatik anahtar sözcük tahmininde aday anahtar sözcüklerin metinde geçip geçmemesine bağlı olarak kullanılan iki farklı yaklaşım hangileridir?",
+    "ground_truth": "Metinde geçen en önemli sözcüklerin tahmin edildiği çıkarımsal (extractive) ve metinde açıkça yer almayan ama içeriği özetleyen yeni kavramlar üreten yorumlayıcı/üretken (abstractive) yaklaşımlardır.",
+    "source_file": "m14.md",
+    "source_section": "1. Giriş"
+  },
+  {
+    "question": "Bu çalışmada anahtar sözcük tahmini yapmak amacıyla TR Dizin veri tabanındaki makalelerden yararlanarak oluşturulan Türkçe ve İngilizce veri kümelerinde yer alan makale özet sayısı ne kadardır?",
+    "ground_truth": "Her iki veri kümesinde de 95.000'in üzerinde özet metin bulunmaktadır.",
+    "source_file": "m14.md",
+    "source_section": "3.1 Veri Kümesi Oluşturma"
+  },
+  {
+    "question": "TR Dizin veri tabanından veri toplanırken, İngilizce makale özetlerinin Türkçe özetlere göre daha yüksek ortalama sözcük sayısına sahip olmasının temel sebebi nedir?",
+    "ground_truth": "Türkçenin eklemeli bir dil yapısına sahip olmasıdır; Türkçede eklerin ayrı bir sözcük olarak sayılmamasına karşın İngilizcede eklerin bağımsız sözcükler olarak değerlendirilmesidir.",
+    "source_file": "m14.md",
+    "source_section": "3.1 Veri Kümesi Oluşturma"
+  },
+  {
+    "question": "Çalışmada büyük dil modellerinin (T5 ve FlanT5) girdi ve çıktı sınırlamalarında maksimum girdi uzunluğu ve maksimum hedef (etiket) uzunluğu kaç lokma (token) olarak belirlenmiştir?",
+    "ground_truth": "Maksimum girdi uzunluğu 512 lokma, maksimum etiket (hedef) uzunluğu ise 64 lokma olarak belirlenmiştir.",
+    "source_file": "m14.md",
+    "source_section": "4. Deney Sonuçları"
+  },
+  {
+    "question": "T5 ve FlanT5 modellerine ince ayar yapılması sürecinde en uygun hiper-parametrelerin optimize edilmesi için hangi edinim fonksiyonu (acquisition function) ve kaç çağrı sayısı (n_calls) ile Bayesian optimizasyon yöntemi uygulanmıştır?",
+    "ground_truth": "Beklenen İyileşme (Expected Improvement - EI) edinim fonksiyonu ve 10 çağrı sayısı (n_calls = 10) ile Bayesian optimizasyon yöntemi uygulanmıştır.",
+    "source_file": "m14.md",
+    "source_section": "4. Deney Sonuçları"
+  },
+  {
+    "question": "ROUGE gibi yüzeysel n-gram eşleşmesine dayalı metriklerin büyük dil modellerinin anlamsal başarısını ölçmedeki yetersizliğini aşmak amacıyla cosine similarity hesaplamalarında kullanılan Türkçe gömme (embedding) modelleri hangileridir?",
+    "ground_truth": "'dbmdz/bert-base-turkish-cased', 'savasy/bert-base-turkish-sentiment-cased' ve 'BAAI/bge-m3' modelleridir.",
+    "source_file": "m14.md",
+    "source_section": "4. Deney Sonuçları"
+  },
+  {
+    "question": "İnsan ve bilgisayar etkileşimi kavramı tarihte ilk kez hangi makale ve bu makaledeki hangi hayali makine fikriyle ortaya atılmıştır?",
+    "ground_truth": "Vannevar Bush'un 1945 yılında yazdığı 'As We May Think' adlı makalesiyle ve bu makalede bahsedilen 'Memex' isimli hayali makine fikriyle ortaya atılmıştır.",
+    "source_file": "m15.md",
+    "source_section": "I. GİRİŞ"
+  },
+  {
+    "question": "Hayvanların görme merkezinden esinlenerek tasarlanan ve görüntü işlemede en iyi sonuçları veren evrişimli sinir ağlarında (CNN) hata oranını minimize etmek için kullanılan geri yayılım algoritmasının temel prensibi nedir?",
+    "ground_truth": "İleri yayılım algoritmasından elde edilen sonucun hata değerinin çıktı katmanından girdi katmanına doğru çeşitli türev işlemlerine tabi tutularak geriye yayılmasıdır.",
+    "source_file": "m15.md",
+    "source_section": "A. Evrişimli Sinir Ağları (Convolutional Neural Network CNN)"
+  },
+  {
+    "question": "Makine öğrenmesinde eğitim verisi üzerinde maliyet hesabı yaparak bu maliyetin en aza indirilmesini (minimize edilmesini) sağlayan ve veri tabanının yapay sinir ağına öğretilmesinde popüler olan algoritma hangisidir?",
+    "ground_truth": "Gradyan iniş (Gradient Descent) metodudur.",
+    "source_file": "m15.md",
+    "source_section": "A. Evrişimli Sinir Ağları (Convolutional Neural Network CNN)"
+  },
+  {
+    "question": "Seo ve Shin tarafından önerilen Hiyerarşik Evrişimli Sinir Ağında (H-CNN) fazla bilgiyi anlamını kaybetmeden boyutsal olarak küçültmek amacıyla kullanılan ve en yüksek değeri alan yöntem hangisidir?",
+    "ground_truth": "Maksimum ortaklama (Max-pooling) yöntemidir.",
+    "source_file": "m15.md",
+    "source_section": "A. Evrişimli Sinir Ağları (Convolutional Neural Network CNN)"
+  },
+  {
+    "question": "Önceden eğitilmiş bir yapay sinir ağı modelinin benzer ikincil bir görev için yeniden eğitilmesi işlemine ne ad verilir?",
+    "ground_truth": "İnce ayar (Fine-tuning) yöntemi adı verilir.",
+    "source_file": "m15.md",
+    "source_section": "A. Evrişimli Sinir Ağları (Convolutional Neural Network CNN)"
+  },
+  {
+    "question": "Santos ve arkadaşları tarafından önerilen, düşük maliyetli bilgisayarlarda çalışabilen ve GPU tabanlı modellere göre daha hızlı gerçekleşen, sabit bir filtre bankasına dayanan iki aşamalı CNN mimarisi nedir?",
+    "ground_truth": "CELM (Convolutional Extreme Learning Machine) mimarisidir.",
+    "source_file": "m15.md",
+    "source_section": "A. Evrişimli Sinir Ağları (Convolutional Neural Network CNN)"
+  },
+  {
+    "question": "ISIC 2018 Cilt Görüntü Analizi Yarışması veri setinde yer alan 7 cilt hastalığı kategorisinden hangileri iyi huylu, hangileri kötü huylu olarak gruplanarak ikili sınıflandırma veri topluluğu oluşturulmuştur?",
+    "ground_truth": "Melanom ve bazal hücreli karsinom kötü huylu (malignant); dermatofibroma ve iyi huylu keratoz ise iyi huylu (benign) kategoriye dahil edilmiştir.",
+    "source_file": "m16.md",
+    "source_section": "2.1. Veri Kümesi"
+  },
+  {
+    "question": "Çalışmada birinci ön işleme yöntem dizisinde görüntünün karo adı verilen küçük bölgeleri üzerinde çalışarak kontrastın aşırı yükselmesini engelleyen uyarlanabilir histogram eşitleme çeşidi hangisidir?",
+    "ground_truth": "CLAHE (Kontrast Sınırlı Adaptif Histogram Eşitleme) dönüşümüdür.",
+    "source_file": "m16.md",
+    "source_section": "2.2. Ön İşleme"
+  },
+  {
+    "question": "İkili bir görüntüde bulunan şeklin boyutunu seçilen yapısal elemente bağlı olarak küçülten aşındırma ile nesnenin alanını artıran genişletme işlemlerinden türetilen filtreleme yaklaşımı hangisidir?",
+    "ground_truth": "Morfolojik filtreleme yöntemidir.",
+    "source_file": "m16.md",
+    "source_section": "2.2. Ön İşleme"
+  },
+  {
+    "question": "Cilt kanseri sınıflandırma deneylerinde transfer öğrenme için tüm katmanlarında ince ayar yapılarak softmax katmanıyla yeniden eğitilen ve baseline olarak seçilen 50 katmanlı derin ESA modeli hangisidir?",
+    "ground_truth": "ResNet50 mimarisidir.",
+    "source_file": "m16.md",
+    "source_section": "2.3. Sınıflandırma Yöntemi"
+  },
+  {
+    "question": "Cilt kanseri tespiti gibi medikal problemlerde, kanserin geç teşhis edilmesinin getireceği ciddi zararlardan dolayı yanlış negatifliği (FN) en aza indirmeyi hedefleyen ve gerçek pozitiflerin oranını gösteren performans metriği hangisidir?",
+    "ground_truth": "Geri çağırma (Recall / Duyarlılık) metriğidir.",
+    "source_file": "m16.md",
+    "source_section": "3. Testler ve Performans Analizi"
+  },
+  {
+    "question": "ISIC 2018 veri setinde yapılan test senaryolarında, görüntülere morfolojik filtreleme, renk normalizasyonu ve dolgu işlemlerinin (C senaryosu) uygulanmasının hangi iki metrikte en yüksek performansı sağladığı gözlemlenmiştir?",
+    "ground_truth": "F1 Puanı ve ROC-AUC (aynı zamanda AUPRC) metriklerinde en yüksek iyileştirmeyi sağladığı gözlemlenmiştir.",
+    "source_file": "m16.md",
+    "source_section": "3. Testler ve Performans Analizi"
+  },
+  {
+    "question": "Bu çalışmada görüntülerdeki tuz-biber, gauss ve benek gürültü türlerinin saptanması amacıyla VGG-16 mimarisi temel alınarak önerilen ESA modeli hangi eniyileme algoritmasıyla en yüksek doğruluk oranına ulaşmıştır?",
+    "ground_truth": "RMSProp eniyileme algoritması ile %98,75 doğruluk oranına ulaşmıştır.",
+    "source_file": "m17.md",
+    "source_section": "Öz"
+  },
+  {
+    "question": "Sıcaklığın yüksek olması, aydınlatmanın yetersizliği veya aktarımdan kaynaklanan ve gerçek benek değerlerinin rastgele gürültü değerleriyle toplanmasıyla oluşan gürültü türü hangisidir?",
+    "ground_truth": "Gauss gürültüsüdür.",
+    "source_file": "m17.md",
+    "source_section": "3.1 Veri kümesi"
+  },
+  {
+    "question": "Önerilen model mimarisi oluşturulurken, VGG16 mimarisinin son bloğunda yer alan hangi katmanlar dondurulmayıp hariç tutulmuştur ve bunun yerine kaç blok eklenmiştir?",
+    "ground_truth": "Son bloğunda yer alan dört katman hariç tutulmuş ve dondurulmuş katmanlardan sonra iki blok eklenmiştir.",
+    "source_file": "m17.md",
+    "source_section": "3.4 Önerilen Model Mimarisi"
+  },
+  {
+    "question": "Önerilen ESA modelinin tam bağlı katmanlarında, belirli bir değerin altında kalan düğümlerde seyreltilmeye gidilerek ezberlemeyi (aşırı öğrenmeyi) önlemek amacıyla kullanılan katman ve oranı nedir?",
+    "ground_truth": "0,3 oranında dropout (seyreltme) katmanı kullanılmıştır.",
+    "source_file": "m17.md",
+    "source_section": "3.4 Önerilen Model Mimarisi"
+  },
+  {
+    "question": "Adagrad ve RMSProp eniyileme algoritmalarının en iyi özelliklerini birleştiren, bellek gereksinimi küçük olan ve gürültülü veya seyrek eğilimli problemlere uygun olan eniyileme algoritması hangisidir?",
+    "ground_truth": "Adam eniyileme algoritmasıdır.",
+    "source_file": "m17.md",
+    "source_section": "3.5.5 Adam"
+  },
+  {
+    "question": "Önerilen modelin genelleme kabiliyetini ve başarısını ölçmek amacıyla, model tekrardan eğitilmeden hangi üç farklı popüler dış veri kümesi üzerinde testler gerçekleştirilmiştir?",
+    "ground_truth": "BSDS300, BSDS500 ve ImageNet sınama veri kümeleri üzerinde test edilmiştir.",
+    "source_file": "m17.md",
+    "source_section": "5.3 Önerilen Modelin Literatürdeki Çalışmalar ile Karşılaştırılması"
+  },
+  {
+    "question": "CIFAR-10 sınıflandırma görevinde CNN modelinde en yüksek eğitim doğruluğunu (%86.36 veya %86.35) veren ancak doğrulama doğruluğunda (%69.31) kararsız/dengesiz performans sergileyerek aşırı öğrenme (overfitting) ihtimalini ortaya çıkaran aktivasyon fonksiyonu hangisidir?",
+    "ground_truth": "Leaky ReLU (LReLU) aktivasyon fonksiyonudur.",
+    "source_file": "m18.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "Swin Dönüştürücü (Swin Transformer) mimarisini geleneksel Vision Transformer (ViT) mimarisine göre daha verimli özellik çıkarımı yapan hiyerarşik bir yapıya kavuşturan temel yaklaşım nedir?",
+    "ground_truth": "'shifted window' (kaydırılmış pencere) yaklaşımıdır.",
+    "source_file": "m18.md",
+    "source_section": "II. GİRİŞ"
+  },
+  {
+    "question": "Bu çalışmada kullanılan CIFAR-10 veri setinin genel yapısı (renkli görüntü sayısı, çözünürlüğü, sınıf sayısı ve eğitim/test ayrımı miktarı) nasıldır?",
+    "ground_truth": "Her biri 32x32 boyutunda olan 60.000 renkli görüntüden oluşur, 10 sınıf içerir, eğitim için 50.000, test için ise 10.000 adet görüntü kullanılmaktadır.",
+    "source_file": "m18.md",
+    "source_section": "II. MATERYAL VE YÖNTEM"
+  },
+  {
+    "question": "ViT modelinde ELU aktivasyon fonksiyonunun sergilediği en yüksek doğrulama doğruluğu yüzdesi nedir?",
+    "ground_truth": "%63.45 doğrulama doğruluğu yüzdesidir (makalede %63.45 olarak verilmiştir).",
+    "source_file": "m18.md",
+    "source_section": "Özet"
+  },
+  {
+    "question": "CNN modelinde ReLU aktivasyon fonksiyonu kullanıldığında kaçıncı epok sonrasında belirgin bir doğrulama ilerlemesi kaydedilmemiş ve aşırı öğrenme eğilimi başlamıştır?",
+    "ground_truth": "22. epok sonrasında.",
+    "source_file": "m18.md",
+    "source_section": "III. DENEYSEL ÇALIŞMALAR"
+  },
+  {
+    "question": "Mish aktivasyon fonksiyonunun matematiksel formülasyonunda kullanılan softplus fonksiyonu denklem olarak nasıldır?",
+    "ground_truth": "softplus(x) = ln(1 + e^x) şeklindedir (Mish = x * tanh(softplus(x))).",
+    "source_file": "m18.md",
+    "source_section": "II. MATERYAL VE YÖNTEM"
+  },
+  {
+    "question": "Bu çalışmada insan sürüşünden otonom sürüşü öğrenmesi tasarlanan yer aracında direksiyon dönüşü sırasında içteki tekerleğin dıştaki tekerleğe göre daha keskin dönmesini sağlayan direksiyon sistemi hangisidir?",
+    "ground_truth": "Ackermann direksiyon sistemidir.",
+    "source_file": "m19.md",
+    "source_section": "2.1.1. Araç platformu"
+  },
+  {
+    "question": "Çalışmada kullanılan radyo kontrollü Traxxas Slash 4x4 Platinum yer aracında, hızı düşürerek sürüş kontrolünü artırmak amacıyla orijinal EHK yerine takılan STM32 ARM Cortex işlemcili açık kaynaklı donanım nedir?",
+    "ground_truth": "Vedder EHK (VEHK) kartıdır.",
+    "source_file": "m19.md",
+    "source_section": "2.1.1. Araç platformu"
+  },
+  {
+    "question": "İnsan gösterimlerinden el ile sürüş yapılarak toplanan eğitim verilerinde, direksiyon açısı histogramının [-1, 1] aralığında dengeli dağılmasını sağlamak ve veri kümesindeki dengesizliği önlemek amacıyla ne tür bir işlem yapılmıştır?",
+    "ground_truth": "Veri çoğaltma işlemi uygulanmış; sayısı az olan açı değerleri veri kümesine yeni bir veri olarak tekrar eklenmiştir.",
+    "source_file": "m19.md",
+    "source_section": "2.5. Uygulama"
+  },
+  {
+    "question": "Çalışmada önerilen evrişim katmanından sonra UKVHA katmanı içeren ağın toplam parametre sayısı ile karşılaştırılan NVIDIA ESA ağının parametre sayıları sırasıyla nedir?",
+    "ground_truth": "Önerilen ağın toplam parametre sayısı 350.875 iken NVIDIA'nın ESA ağının toplam parametre sayısı 6.050.619'dur.",
+    "source_file": "m19.md",
+    "source_section": "2.5. Uygulama"
+  },
+  {
+    "question": "Otonom araç modellerinin geriye yayılım algoritması kullanılarak eğitilmesi aşamasında amaç ölçütü olarak hangi kayıp fonksiyonu kullanılmıştır?",
+    "ground_truth": "Ortalama Karesel Hata (OKH - MSE) kullanılmıştır.",
+    "source_file": "m19.md",
+    "source_section": "2.5. Uygulama"
+  },
+  {
+    "question": "Jetson TX2 donanımının Merkezi İşlem Birimi (MİB - CPU) yapısında hangi mimarilere sahip işlemciler yer almaktadır?",
+    "ground_truth": "HMP Dual Denver 2/2 MB L2 ve Quad ARM® A57/2 MB L2 işlemcileri yer almaktadır.",
+    "source_file": "m19.md",
+    "source_section": "2.1.2. NVIDIA Jetson TX2"
+  },
+  {
+    "question": "Alan Turing'in 1950 yılında sorduğu 'Makineler düşünebilir mi?' sorusundan yola çıkarak bilgisayar sistemlerinin zekasını ölçmek için oluşturduğu oyunun adı nedir?",
+    "ground_truth": "Taklit Oyunu (Turing Testi) adı verilir.",
+    "source_file": "m20.md",
+    "source_section": "Giriş"
+  },
+  {
+    "question": "Tekil görevleri (yüz tanıma, konuşma tanıma, otonom sürüş) yerine getirmek üzere kısıtlı parametrelerle eğitilen ve günümüzde gerçek hayatta uygulaması bulunan tek YZ seviyesi hangisidir?",
+    "ground_truth": "Dar Yapay Zeka (Zayıf YZ) seviyesidir.",
+    "source_file": "m20.md",
+    "source_section": "i) Dar Yapay Zeka"
+  },
+  {
+    "question": "Herbert Simon'ın makine öğrenmesi tanımından yola çıkılarak geliştirilen üç temel makine öğrenmesi kategorisi hangileridir?",
+    "ground_truth": "Denetimli öğrenme, denetimsiz öğrenme ve pekiştirmeli öğrenme kategorileridir.",
+    "source_file": "m20.md",
+    "source_section": "Makine Öğrenmesi"
+  },
+  {
+    "question": "Cathy O'Neil'in hangi isimli kitabında hatalı veya yanlış temsil edilen veri girdilerinin adaletsiz karar vermeye yol açtığı ve algoritmaların verilere gömülü gizli davranışları optimize ettiği anlatılmaktadır?",
+    "ground_truth": "'Weapons of Math Destruction' adlı kitabında.",
+    "source_file": "m20.md",
+    "source_section": "Makine Öğrenmesi"
+  },
+  {
+    "question": "YZ sistemlerinin tahmin doğruluğunu korurken insanların akıllı sistemlerin kararlarını anlamalarına, uygun şekilde güvenmelerine ve yönetmelerine izin veren şeffaf model geliştirme yaklaşımı nedir?",
+    "ground_truth": "Açıklanabilir Yapay Zeka (Explainable AI) yaklaşımıdır.",
+    "source_file": "m20.md",
+    "source_section": "Açıklanabilir ve Etik Yapay Zeka"
+  },
+  {
+    "question": "Ülkemizde YZ alanındaki ulusal çalışmaları koordine etmek üzere hazırlanan ve 2021-2025 yıllarını kapsayan yol haritasının adı nedir?",
+    "ground_truth": "Ulusal Yapay Zekâ Stratejisi belgesidir.",
+    "source_file": "m20.md",
+    "source_section": "Yükselen Değerler: Veri ve Yapay Zeka"
+  },
+  {
+    "question": "Demiryolu veri setlerinde ray piksellerinin arka plana oranla son derece küçük bir alanı kaplaması (~170:1 sınıf dengesizliği) sebebiyle genel doğruluk metriğinin manipüle olmasına ve modellerin gerçek performansını gizlemesine ne ad verilir?",
+    "ground_truth": "Doğruluk Paradoksu (Accuracy Paradox) adı verilir.",
+    "source_file": "m21.md",
+    "source_section": "Öz"
+  },
+  {
+    "question": "Çalışmada kullanılan Industrial-5i veri setinin demiryolu alt kümesinden kusurlu/kusursuz piksel etiketli maskeye sahip kaç adet görüntü ve maske çifti izole edilerek kullanılmıştır?",
+    "ground_truth": "Toplam 199 adet görüntü ve bunlara ait yer gerçeği maskesi.",
+    "source_file": "m21.md",
+    "source_section": "2.1. Veri seti ve ön işleme"
+  },
+  {
+    "question": "Demiryolu segmentasyonu deneylerinde, modellerin hedef nesneyi tamamen kaçırdığı durumlarda otonom navigasyondaki raydan çıkma riskini temsil eden ampirik ceza puanı (maksimum güvenlik ihlali eşiği) kaç piksel olarak atanmıştır?",
+    "ground_truth": "50,0 piksel ceza puanı atanmıştır.",
+    "source_file": "m21.md",
+    "source_section": "2.5. Değerlendirme metrikleri ve istatistiksel analiz"
+  },
+  {
+    "question": "Bu araştırmada U-Net (ResNet34) modeli 36,70 mIoU skoruyla en yüksek performansı verirken, Segformer ailesinin en hafif varyantı olan Segformer-B0 ile en ağır varyantı Segformer-B5 arasındaki mIoU performans farkı ne kadar çıkmıştır?",
+    "ground_truth": "Yalnızca %0,13 seviyesinde (Segformer-B0 35,61 mIoU, Segformer-B5 35,74 mIoU) çıkmıştır.",
+    "source_file": "m21.md",
+    "source_section": "3.2. Genel performans ve çoklu metrik analizi"
+  },
+  {
+    "question": "U-Net (R34) ile Segformer varyantlarının test seti segmentasyon başarı farklarının tesadüfi olmadığını kanıtlamak için hangi parametrik olmayan istatistiksel test kullanılmıştır?",
+    "ground_truth": "Wilcoxon İşaretli Sıralar Testi (Wilcoxon Signed-Rank Test) kullanılmıştır.",
+    "source_file": "m21.md",
+    "source_section": "2.5. Değerlendirme metrikleri ve istatistiksel analiz"
+  },
+  {
+    "question": "Segformer varyantlarının yama tabanlı (patch-based) yapısı sebebiyle kavisli ray lekesi etrafında yoğun FP ve FN hatalarından oluşan sınır belirsizliği ve taşkınlık üretmesine literatürde ne ad verilmektedir?",
+    "ground_truth": "Hale etkisi (halo effect) adı verilmektedir.",
+    "source_file": "m21.md",
+    "source_section": "3.9. Kalitatif görsel tahmin analizi"
+  },
+  {
+    "question": "Bu çalışmada önerilen Türkçe şüpheli haber teyit sisteminde, haber metinlerini anlamsal düzeyde kıyaslamak için kullanılan derin öğrenme tabanlı cümle temsil modeli hangisidir?",
+    "ground_truth": "SBERT (SentenceBERT) modelidir.",
+    "source_file": "m22.md",
+    "source_section": "## Materyal ve Metot"
+  },
+  {
+    "question": "Haber teyit sisteminde, incelenecek haber içeriklerinden eğitim veri setine gerek duymadan dil ve alandan bağımsız olarak otomatik anahtar kelime çıkarımı yapmak amacıyla kullanılan denetimsiz algoritma nedir?",
+    "ground_truth": "YAKE (Yet Another Keyword Extractor) algoritmasıdır.",
+    "source_file": "m22.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Bu haber teyit sisteminde, metinler arasındaki kelime bazlı (yüzeysel) benzerlikleri ölçmek amacıyla tercih edilen istatistiksel dil modelleme yöntemi hangisidir?",
+    "ground_truth": "N-gram yöntemi (Ngram tabanlı benzerlik) tercih edilmiştir.",
+    "source_file": "m22.md",
+    "source_section": "## Benzerlik Değerlendirme Yöntemleri Kelime ve Karakter Düzeyinde Benzerlik Yöntemleri"
+  },
+  {
+    "question": "Önerilen şüpheli haber tespit modelinin ilk aşamasında, haber içeriklerini anlık olarak toplamak amacıyla Selenium ve BeautifulSoup araçları kullanılarak hangi iki veri toplama tekniği veya protokolü uygulanmaktadır?",
+    "ground_truth": "RSS protokolü ve web scraping (web kazıma) teknikleri uygulanmaktadır.",
+    "source_file": "m22.md",
+    "source_section": "## Veri Seti Kullanımı ve Veri Toplama Süreci"
+  },
+  {
+    "question": "Çalışmada Türkçe haberlerin özetlenmesi amacıyla kullanılan ve denenen diğer istatistiksel, graf tabanlı ya da semantik yöntemlere kıyasla ROUGE metriklerinde en yüksek performansı gösteren BERT tabanlı çıkarımsal özetleme modeli hangisidir?",
+    "ground_truth": "BERTSum modelidir.",
+    "source_file": "m22.md",
+    "source_section": "## Metin Özetleme Yöntemleri"
+  },
+  {
+    "question": "Çalışmada önerilen 'Ortak Skor' formülasyonunda, haber türlerinde anlamsal bağlamın daha kritik olduğu göz önünde bulundurularak Anlamsal Ağırlık (A.A.) ve Kelime Ağırlığı (K.A.) için belirlenen katsayılar sırasıyla nelerdir?",
+    "ground_truth": "Anlamsal Ağırlık için 0.7, Kelime Ağırlığı için ise 0.3 katsayıları kullanılmıştır.",
+    "source_file": "m22.md",
+    "source_section": "## Bulgular ve Tartışma"
+  },
+  {
+    "question": "Bu makalede ele alınan ve nöral makine çevirisinde girdileri çıktıya dönüştürmek amacıyla kaynak metni işleyerek matematiksel temsilini çıkaran ağ ile bu temsil üzerinden erek dilde çıktı üreten ağın oluşturduğu genel mimari çerçeveye ne ad verilir?",
+    "ground_truth": "Kodlayıcı - Kod çözücü çerçevesi (encoder-decoder framework) adı verilir.",
+    "source_file": "m23.md",
+    "source_section": "## Doğal dil işleme ne yapar?"
+  },
+  {
+    "question": "Dil modellerinin karar verme mekanizmalarının tıp ve hukuk gibi alanlarda izlenebilir, şeffaf ve anlaşılır kılınması amacıyla önerilen yapay zeka yaklaşımının İngilizce kısaltması ve adı nedir?",
+    "ground_truth": "XAI (Explainable Artificial Intelligence - Açıklanabilir Yapay Zeka) yaklaşımıdır.",
+    "source_file": "m23.md",
+    "source_section": "## Katmanlar arasında neler oluyor? Kara kutu mu?"
+  },
+  {
+    "question": "James S. Holmes'ün 'The Name and Nature of Translation Studies' (1972) adlı çalışmasında, çevirmenin zihinsel süreçlerinin doğrudan gözlemlenememesinden dolayı 'kara kutu' olarak adlandırdığı ve süreç odaklı betimleyici çalışmaların önemini vurguladığı alt alan hangisidir?",
+    "ground_truth": "Süreç odaklı betimleyici çalışmalar (çeviri psikolojisi veya psiko-çeviri) alt alanıdır.",
+    "source_file": "m23.md",
+    "source_section": "## Çeviribilimsel perspektiften yapay zekâ ve çevirmen"
+  },
+  {
+    "question": "Metin ön işleme aşamasında, Almanca 'höher' sıfatının 'hoch', 'besser' sıfatının ise 'gut' şekline; Türkçe 'koşuyorum' kelimesinin ise 'koşmak' biçimine getirilmesi gibi, kelimelerin bağlam dikkate alınarak sözlükteki temel hallerine indirgenmesi işlemine ne ad verilir?",
+    "ground_truth": "Lemmatization (indirgeme / lemma bulma) adı verilir.",
+    "source_file": "m23.md",
+    "source_section": "## Metin işleme süreçleri"
+  },
+  {
+    "question": "Transformer mimarisinin en yenilikçi bileşenlerinden biri olan ve bir cümledeki her bir sözcüğün diğer tüm sözcüklerle olan ilişkisini/bağlantısallığını değerlendirerek bir dikkat skoru hesaplayan mekanizmanın adı nedir?",
+    "ground_truth": "Self-attention (öz dikkat) mekanizmasıdır.",
+    "source_file": "m23.md",
+    "source_section": "## Dil modelleri, dil mimarileri ve güncel çalışmalar"
+  },
+  {
+    "question": "Hans J. Vermeer ve Katharina Reiß tarafından geliştirilen, çevirinin erek dildeki amacını ve işlevini esas alarak çevirmeni bu süreçte karar verici bir uzman konumuna getiren işlevsel çeviri kuramı hangisidir?",
+    "ground_truth": "Skopos kuramıdır.",
+    "source_file": "m23.md",
+    "source_section": "## Çeviribilimsel perspektiften yapay zekâ ve çevirmen"
+  },
+  {
+    "question": "Türkçe NLP alanında son dönemde geliştirilen ve sadece Türkçe verilerle eğitilmiş monolingual (tek dilli) bir dil modeli olarak çok dilli modellere (mBERT, XLM-R) göre anlama ve üretim görevlerinde daha yüksek başarıya ulaşan milli model hangisidir?",
+    "ground_truth": "TURNA modelidir.",
+    "source_file": "m24.md",
+    "source_section": "## 3.1. Transformer Tabanlı Modellerin Türkçe NLP Uygulamaları"
+  },
+  {
+    "question": "Türkçe doğal dil işleme çalışmalarında, tıbbi belgeler, klinik raporlar ve biyomedikal araştırmalar gibi özel alan metinlerinin anlamlandırılması amacıyla geliştirilmiş ve optimize edilmiş Türkçe transformer modeli hangisidir?",
+    "ground_truth": "BioBERTurk modelidir.",
+    "source_file": "m24.md",
+    "source_section": "## 3.1. Transformer Tabanlı Modellerin Türkçe NLP Uygulamaları"
+  },
+  {
+    "question": "Türkçe NLP'de veri yetersizliği ve etiketlenmiş içerik eksikliğini gidermek amacıyla, bir Türkçe metnin önce başka bir dile (örneğin İngilizceye) çevrilmesi ve ardından tekrar Türkçeye çevrilmesi yoluyla yeni veri üretilmesini sağlayan veri artırma yöntemi hangisidir?",
+    "ground_truth": "Geri çeviri (back-translation) yöntemidir.",
+    "source_file": "m24.md",
+    "source_section": "## 3.6. Düşük Kaynaklı Diller için Model Geliştirme ve Veri Artırma Teknikleri"
+  },
+  {
+    "question": "Türkçe gibi eklemeli dillerde kelime köklerine gelen eklerin çokluğu nedeniyle eğitimde karşılaşılmayan ve bu sebeple modelce tanınmayan kelimeler (OOV - out-of-vocabulary) sorununu aşmak için alt birim (subword) düzeyinde uygulanan kelime segmentasyonu algoritmaları hangileridir?",
+    "ground_truth": "Byte Pair Encoding (BPE) ve WordPiece algoritmalarıdır.",
+    "source_file": "m24.md",
+    "source_section": "## 3.7. Türkçe İçin Morfolojik Analiz ve Eklemeli Dillerin Zorlukları"
+  },
+  {
+    "question": "Türkçe doğal dil işleme çalışmalarında cümle bölme, metin normalizasyonu, duygu analizi ve NER gibi temel görevleri gerçekleştirmek için geliştirilen ve VNLP ile birlikte anılan bir diğer kapsamlı sinirsel NLP araç kitinin adı nedir?",
+    "ground_truth": "TurkishDelightNLP araç kitidir.",
+    "source_file": "m24.md",
+    "source_section": "## 3.9. Açık Kaynak Platformlar ve Veri Setlerinin Türkçe NLP'ye Katkısı"
+  },
+  {
+    "question": "Türkçe metin sınıflandırması ve duygu tahmini üzerine yapılan çalışmalarda, kelimeleri bir bütün olarak ele almak yerine kelime parçacıklarını kullanarak nadir kelimelerin bile anlamını doğru temsil edebilen ve BOW yöntemlerinin ötesine geçen kelime gömme (word embedding) tekniği hangisidir?",
+    "ground_truth": "fastText tekniğidir.",
+    "source_file": "m24.md",
+    "source_section": "## 3.2. Türkçe Metin Sınıflandırma"
+  },
+  {
+    "question": "Sıtma teşhisi ve parazit tespitinde bilgisayar destekli teşhis amacıyla geliştirilen ve standart olarak doğal dil işleme (NLP) alanındaki transformer yapısının doğrudan görüntülere (yamalar halinde) uygulanmasıyla elde edilen derin öğrenme modeli hangisidir?",
+    "ground_truth": "Vision Transformer (ViT) modelidir.",
+    "source_file": "m25.md",
+    "source_section": "## Materyal ve Metod"
+  },
+  {
+    "question": "Vision Transformer (ViT) modelinin sıtma teşhisi üzerine deneysel performansını analiz etmek amacıyla kullanılan ve Giemsa ile boyanmış sağlıklı ve enfekte kırmızı kan hücresi görüntülerini içeren veri setinin kaynağı olan enstitü/kurum hangisidir?",
+    "ground_truth": "Lister Hill Ulusal Biyomedikal İletişim Merkezi (LHNCBC) Ulusal Tıp Kütüphanesi'dir.",
+    "source_file": "m25.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Vision Transformer (ViT) modelinde, görüntünün 2D yapısındaki piksel koordinatları ile yamaların konum bilgilerini korumak amacıyla transformatör kodlayıcıya yama yerleştirmeleri ile birlikte aktarılan ve öğrenilebilir konumsal tabloyu oluşturan veri nedir?",
+    "ground_truth": "Konumsal gömme (positional embedding) vektörleridir.",
+    "source_file": "m25.md",
+    "source_section": "## Vision Transformer (ViT) Modeli"
+  },
+  {
+    "question": "Bu çalışmada 128x128 boyutlarındaki girdi kan hücresi görüntüsü, Vision Transformer modeline girdi olarak verilmek üzere kaç piksel boyutlarında küçük yama/kesit (patch) parçalarına bölünmüştür?",
+    "ground_truth": "16x16 boyutlarında yama (kesit) parçalarına bölünmüştür.",
+    "source_file": "m25.md",
+    "source_section": "## Önerilen Transformer Based Yöntem ile elde edilen sonuçlar"
+  },
+  {
+    "question": "Standart Vision Transformer modelinin sıtma veri seti üzerindeki eğitiminde kullanılan Çok Katmanlı Algılayıcı (MLP) bloğunda, arada yer alan hangi doğrusal olmayan aktivasyon fonksiyonu kullanılmıştır?",
+    "ground_truth": "GeLU (Gaussian Error Linear Unit) aktivasyon fonksiyonu kullanılmıştır.",
+    "source_file": "m25.md",
+    "source_section": "## Vision Transformer (ViT) Modeli"
+  },
+  {
+    "question": "Vision Transformer modelinde çok başlı öz dikkat (MSA) mekanizmasının çıktıları bir sonraki katmana iletilmeden önce hangi blok tarafından paralel işlemler birleştirilerek işlenir?",
+    "ground_truth": "İleri besleme ağı (feed-forward network) veya Çok Katmanlı Algılayıcı (MLP) bloğu tarafından işlenir.",
+    "source_file": "m25.md",
+    "source_section": "## Vision Transformer (ViT) Modeli"
+  },
+  {
+    "question": "Ceza muhakemesinde, yapay zekanın eylemlerinin arkasındaki nedenlerin tersine mühendislik (ex post) ile dahi analiz edilemediği ve girdi ile çıktı arasındaki ilişkilerin insanlar için tamamen anlaşılmaz olduğu sistem tiplerine ne ad verilir?",
+    "ground_truth": "Güçlü kara kutular (strong black boxes) adı verilir.",
+    "source_file": "m26.md",
+    "source_section": "## I. Yapay Zekâda Kara Kutu Problemi"
+  },
+  {
+    "question": "Bu makalede, sanığın kendisini 'yüksek tekrarlama riski' olarak sınıflandıran COMPAS adlı algoritmanın ceza belirlemede kullanılmasının adil yargılanma hakkını ihlal ettiğini iddia ettiği ve Wisconsin Yüksek Mahkemesi'nde görülen meşhur dava hangisidir?",
+    "ground_truth": "State v. Loomis davasıdır.",
+    "source_file": "m26.md",
+    "source_section": "## II. Yapay Zekâ Düşünce Zinciri ve Açıklanabilir Yapay Zekâ"
+  },
+  {
+    "question": "Anglo-Amerikan hukuk sisteminde, Federal Delil Kuralları'nın 702. maddesinde somutlaşan ve bilimsel/teknik delillerin mahkemeye kabul edilebilmesi için teorinin test edilebilirliği, hata oranı ve hakemli yayınlarda yer alması gibi kriterleri şart koşan standart hangisidir?",
+    "ground_truth": "Daubert standardıdır (Daubert v. Merrell Dow Pharmaceuticals, Inc. davasıyla şekillenen standart).",
+    "source_file": "m26.md",
+    "source_section": "## III. Düşünce Zincirinin Delil Niteliği"
+  },
+  {
+    "question": "Michigan'da işsizlik yardımı alan on binlerce kişiyi hatalı bir şekilde dolandırıcılıkla suçlayan ve adil yargılanma ile gerekçelendirme ilkelerini ihlal eden kitlesel hak ihlallerine yol açan otomatik sistemin adı nedir?",
+    "ground_truth": "MiDAS (Michigan Integrated Data Automated System) sistemidir.",
+    "source_file": "m26.md",
+    "source_section": "## A. İçeriğin Doğruluğu"
+  },
+  {
+    "question": "Büyük dil modellerinin amaçlanmayan ve yasa dışı eylemleri gerçekleştirmesini sağlamak amacıyla filtreleri atlatarak veya modeli manipüle ederek meşrulaştırıcı sahte bir CoT üretilmesine yol açan teknik müdahale yöntemine ne ad verilir?",
+    "ground_truth": "Prompt injection (istem enjeksiyonu) adı verilir.",
+    "source_file": "m26.md",
+    "source_section": "## D. Manipülasyona Açıklık"
+  },
+  {
+    "question": "Bir yapay zeka veya otonom sistemin karar verme süreçlerini anlamak amacıyla sistemin içsel durumlarını, yani düşünce akışını ölçme ve kaydetme tekniğine ne ad verilmektedir?",
+    "ground_truth": "Bilişsel enstrümantasyon denilmektedir.",
+    "source_file": "m26.md",
+    "source_section": "## III. Düşünce Zincirinin Delil Niteliği"
+  },
+  {
+    "question": "Metin madenciliğinde, yığın halindeki yapılandırılmamış metin verileri içerisinden kişi adları, yer adları, zaman ve olay gibi özel ifadelerin kalıp eşleştirme ve anahtar terim süzme gibi yöntemlerle ayıklanması işlemine ne ad verilir?",
+    "ground_truth": "Bilgi ekstrasyonu (information extraction) adı verilir.",
+    "source_file": "m27.md",
+    "source_section": "## 3.1. Bilgi Ekstrasyonu"
+  },
+  {
+    "question": "Bu makalede haber metinlerinden veya diğer içeriklerden özel adları, fiilleri ve jeopolitik varlıkları milisaniyeler içerisinde otomatik olarak çıkarıp etiketlemek için Python kod örneğinde kullanılan ve birçok dili destekleyen açık kaynaklı kütüphane hangisidir?",
+    "ground_truth": "Spacy kütüphanesidir.",
+    "source_file": "m27.md",
+    "source_section": "## 3.1. Bilgi Ekstrasyonu"
+  },
+  {
+    "question": "Haber sınıflandırması ve konu modelleme görevlerinde, veri setinde önceden belirlenmiş ekonomi, sağlık veya politika gibi etiketlerin bulunmadığı durumlarda olası konu ayrımlarını saptamak için sıkça kullanılan gözlemsiz (unsupervised) algoritma hangisidir?",
+    "ground_truth": "LDA (Latent Dirichlet Allocation / Latent Drillecht Algorithm) algoritmasıdır.",
+    "source_file": "m27.md",
+    "source_section": "## 3.2. Konu Tanıma ve Sınıflandırma"
+  },
+  {
+    "question": "Bir metin setinde tek bir yazıda aşırı derecede tekrar eden bir kelimenin tüm metin seti genelindeki en yüksek frekanslı kelime gibi görünerek analizin sağlığını bozmasını engellemek amacıyla kelimelerin heterojen dağılımını ölçen ve kelimenin önemini hesaplayan ortak metrik nedir?",
+    "ground_truth": "TF-IDF (TF.IDF - Term Frequency-Inverse Document Frequency) ölçütüdür.",
+    "source_file": "m27.md",
+    "source_section": "## 5.7.5. TF.IDF Ölçütü: Kelimelerin Heterojen Dağılımı Durumu"
+  },
+  {
+    "question": "Metin madenciliğinde dilbilgisi kurallarından ötürü 'başarmak', 'başardı', 'başarıyor' gibi farklı formlarda görülen kelimelerin aynı sayılarak analiz sonuçlarında karışıklığa yol açmasını engellemek için kelimelerin köklerine inilmesi işlemine ne ad verilir?",
+    "ground_truth": "Kelime köklerine inme (stemming) adı verilir.",
+    "source_file": "m27.md",
+    "source_section": "## 5.6. Kelime Köklerine İnme"
+  },
+  {
+    "question": "Metin madenciliği analizi sonrasında elde edilen sonuçları anlaşılır kılmak amacıyla, en sık geçen kelimelerin sıklıklarına göre farklı punto büyüklükleriyle rastgele bir alanda dağıtılmasıyla oluşturulan görsel diyagrama ne ad verilir?",
+    "ground_truth": "Kelime bulutu (wordcloud) adı verilir.",
+    "source_file": "m27.md",
+    "source_section": "## 5.7.1. Kelime Bulutu"
+  },
+  {
+    "question": "Bu çalışmada, kelimelerin cümle içerisindeki pozisyonlarına göre şartlı olasılık prensibiyle çalışarak kelimeler arasındaki anlamsal yakınlığı kosinüs benzerliğiyle koruyan ve sinir ağı temelinde kelimeleri vektörleştirmek için kullanılan yöntem hangisidir?",
+    "ground_truth": "Word2Vec yöntemidir.",
+    "source_file": "m28.md",
+    "source_section": "## 2) Word2Vec"
+  },
+  {
+    "question": "Geleneksel kelime temsil yöntemlerinden olan, her cümlenin kelime torbasında yer alan kelimelerin varlığına göre 1 veya 0 ile temsil edilmesine dayanan ve sözlük boyutu büyüdükçe çoğunluğu sıfırlardan oluşan yüksek boyutlu seyrek vektörler üreten basit metot hangisidir?",
+    "ground_truth": "Bag of Words (BoW / Kelime çantası modeli) yöntemidir.",
+    "source_file": "m28.md",
+    "source_section": "## 1) Bag of Words (BoW )"
+  },
+  {
+    "question": "Mikolov ve arkadaşları tarafından geliştirilen Word2Vec modelinin iki alt mimarisi bulunmaktadır. Bu çalışmada kelime vektörlerini eğitmek amacıyla tercih edilen alt model hangisidir?",
+    "ground_truth": "CBOW (Continuous Bag of Words) modelidir.",
+    "source_file": "m28.md",
+    "source_section": "## 2) Word2Vec"
+  },
+  {
+    "question": "Bu araştırmada, kelime vektörlerinin eğitilmesi amacıyla Wikipedia ortamında yazılmış etiketsiz Türkçe makalelerden oluşturulan büyük derleme (corpus) çalışmada hangi isim verilmiştir?",
+    "ground_truth": "Dataset1 adı verilmiştir.",
+    "source_file": "m28.md",
+    "source_section": "## A. Dataset1"
+  },
+  {
+    "question": "Sınıflandırma amacıyla internet ortamından 4 farklı kategoride haber metni çekilerek oluşturulan Dataset2'de, tokenlara ayrılan kelimelerin Türkçe morfolojik analizle köklerine ayrılması için kullanılan kütüphane veya ortam hangisidir?",
+    "ground_truth": "Zemberek ortamıdır.",
+    "source_file": "m28.md",
+    "source_section": "## B. Dataset2"
+  },
+  {
+    "question": "Bu çalışmada, Naive Bayes ve Destek Vektör Makinesi (DVM) sınıflandırıcıları kullanılarak yapılan sınıflandırma deneyleri sonucunda, transfer öğrenme (Word2Vec + Transfer Learning) desteğiyle en yüksek doğruluk oranı ve performansı gösteren makine öğrenmesi modeli hangisidir?",
+    "ground_truth": "Destek Vektör Makinesi (DVM) modelidir.",
+    "source_file": "## V. SONUÇ"
+  },
+  {
+    "question": "Türkçe haber metinlerinin sınıflandırılması ve ilişkisel analizi amacıyla TRT Haber'in resmi dijital platformlarından 06.04.2023 ile 13.11.2023 tarihleri arasında derlenerek bu çalışmada literatüre sunulan açık kaynaklı veri kümesinin adı nedir?",
+    "ground_truth": "'newsTRT2023' veri kümesidir.",
+    "source_file": "m29.md",
+    "source_section": "## 3.1. Veri Kümesi"
+  },
+  {
+    "question": "newsTRT2023 veri kümesinde yer alan 4027 adet Türkçe haber metninin yüksek boyutlu semantik vektör gösterimlerini (özellik matrisi X) elde etmek için kullanılan gelişmiş doğal dil işleme modeli hangisidir?",
+    "ground_truth": "BERT (BertTurk) modelidir.",
+    "source_file": "m29.md",
+    "source_section": "## 3.2. Vektör ve Graf Temsili (Vector And Graph Representatıon)"
+  },
+  {
+    "question": "newsTRT2023 veri kümesinde, 'Dünya' kategorisi 1567 haberle en geniş kapsamlı segmenti oluştururken, en fazla habere sahip ikinci ve üçüncü kategoriler sırasıyla hangileridir?",
+    "ground_truth": "'Türkiye' (1442 haber) ve 'Ekonomi' (438 haber) kategorileridir.",
+    "source_file": "m29.md",
+    "source_section": "## 3.1. Veri Kümesi"
+  },
+  {
+    "question": "Bu çalışmada haber metinleri arasındaki ilişkilerin sayısal olarak vektör formunda ifade edilmesi, topolojik yapının kodlanması ve bağlantı sıklığının gösterilmesi amacıyla kullanılan matris hangisidir?",
+    "ground_truth": "Kenar komşuluk matrisidir (A matrisi).",
+    "source_file": "m29.md",
+    "source_section": "## Kenar Komşuluk Matrisi:"
+  },
+  {
+    "question": "newsTRT2023 veri kümesindeki sınıflar arasında yer alan ve diğer sınıflara kıyasla daha az örnek içerdiği için modelin tahmin performansını etkileyebileceği tartışılarak dengelenmesi hedeflenen üç az temsil edilen kategori hangileridir?",
+    "ground_truth": "Sağlık, Kültür-Sanat ve Savunma kategorileridir.",
+    "source_file": "m29.md",
+    "source_section": "## 5. TARTIŞMA"
+  },
+  {
+    "question": "newsTRT2023 veri kümesi üzerinde yapılan deneysel çalışmalarda, önerilen Graf Sinir Ağı (GNN) tabanlı ilişkisel sınıflandırma modelinin ulaştığı ve diğer klasik derin öğrenme (DNN) ve makine öğrenimi modellerini geride bırakan doğruluk oranı nedir?",
+    "ground_truth": "%97.93'tür.",
+    "source_file": "m29.md",
+    "source_section": "## 6. SONUÇ"
+  },
+  {
+    "question": "Bu çalışmada, Research Gate üzerinden özetleri toplanan ve KNN algoritmasıyla %96,67 doğruluk oranı ile tasnif edilen akademik makaleler hangi iki kategori altında toplanmıştır?",
+    "ground_truth": "'Materials Science & Engineering' ve 'Social Sciences & Humanities' kategorileridir.",
+    "source_file": "m30.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Bu araştırmada, KNN algoritmasının doğruluk oranını kıyaslamak ve performansını değerlendirmek amacıyla karşılaştırma için kullanılan diğer iki popüler denetimli makine öğrenmesi algoritması hangileridir?",
+    "ground_truth": "Naive Bayes (NB) ve J48 (karar ağacı) algoritmalarıdır.",
+    "source_file": "m30.md",
+    "source_section": "## 4.3. Deneysel Sonuçlar"
+  },
+  {
+    "question": "Çalışmada R dilinde TM kütüphane paketi kullanılarak yapılan veri ön işleme aşamasında, noktalama işaretlerini ve boşluk karakterlerini kaldırmak için kullanılan fonksiyon hangisidir?",
+    "ground_truth": "removePunctuation fonksiyonudur.",
+    "source_file": "m30.md",
+    "source_section": "## 4.2. Deneysel Çalışma"
+  },
+  {
+    "question": "Akademik yayın özetlerinin toplanması ve sınıflandırılması amacıyla oluşturulan Doküman Terim Matrisinin (DTM) boyutu kaç satır ve sütundan oluşmaktadır?",
+    "ground_truth": "2000 satır ve 38147 sütundan oluşmaktadır.",
+    "source_file": "m30.md",
+    "source_section": "## 4.2. Deneysel Çalışma"
+  },
+  {
+    "question": "KNN algoritmasıyla yapılan sınıflandırmada, veri setinin ne kadarlık kısmı sırasıyla eğitim ve test kümesi olarak bölünmüştür?",
+    "ground_truth": "%70'lik kısmı eğitim, %30'luk kısmı ise test için kullanılmıştır.",
+    "source_file": "m30.md",
+    "source_section": "## 4.2. Deneysel Çalışma"
+  },
+  {
+    "question": "Sınıflandırma algoritmalarının başarımını değerlendirmek amacıyla oluşturulan ve Doğru Pozitif, Yanlış Pozitif, Yanlış Negatif ile Doğru Negatif değerlerini içeren karşılaştırma tablosuna ne ad verilir?",
+    "ground_truth": "Hata Matrisi (Confusion Matrix) adı verilir.",
+    "source_file": "m30.md",
+    "source_section": "## 3.3. Değerlendirme Kriterleri"
+  },
+  {
+    "question": "Web sayfalarının sınıflandırılması çalışmasında, Amazon'un bir hizmeti olan hangi platformdan 63 farklı sınıfa ait 45.543 adet Web sayfası toplanmıştır?",
+    "ground_truth": "Alexa Top Sites platformundan toplanmıştır.",
+    "source_file": "m31.md",
+    "source_section": "## Veri Tanımı ve Toplanması"
+  },
+  {
+    "question": "Web sitelerinden toplanan İngilizce metinlerin temizlenmesi ve ön işleme sürecinde duraklama kelimelerinin (stop words) çıkartılması amacıyla yaygın olarak kullanılan Python tabanlı doğal dil işleme kütüphanesi hangisidir?",
+    "ground_truth": "NLTK (Natural Language Toolkit) kütüphanesidir.",
+    "source_file": "m31.md",
+    "source_section": "## Veri Temizleme"
+  },
+  {
+    "question": "Çok Sınıflı Sınıflandırma yaklaşımında kullanılan dokuz alternatif kombinasyon arasında yapılan testler sonucunda, en yüksek başarım oranını veren sınıflandırıcı model ve kelime vektörleştirme yöntemi ikilisi hangisidir?",
+    "ground_truth": "SVM (Destek Vektör Makineleri) sınıflandırıcısı ve TF-IDF kelime vektörleştirme yöntemidir.",
+    "source_file": "m31.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "İkili Sınıflandırma yaklaşımında, özellikleri temsil eden kelime vektörleri üzerinden modelleri eğitmek ve performansı karşılaştırmak için sırasıyla hangi üç makine ve derin öğrenme algoritması kullanılmıştır?",
+    "ground_truth": "Bernoulli Naive Bayes, Lojistik Regresyon (Logistic Regression) ve Tam Bağlantılı Yapay Sinir Ağları (Fully Connected Neural Network, FCNN) algoritmalarıdır.",
+    "source_file": "m31.md",
+    "source_section": "## Sınıflandırma Sürecinde Kullanılan Algoritmalar"
+  },
+  {
+    "question": "Sınıflandırıcı performanslarını değerlendirmek için kullanılan metriklerden biri olan ve pozitif tahmin edilen Web sitelerinin kaçının gerçekte de doğru tahmin edildiğini gösteren, özellikle yanlış pozitif (FP) maliyetinin yüksek olduğu durumlarda önerilen ölçüm hangisidir?",
+    "ground_truth": "Kesinlik (Precision) ölçümüdür.",
+    "source_file": "m31.md",
+    "source_section": "## Sınıflandırıcı Performans Ölçme Yöntemleri"
+  },
+  {
+    "question": "İkili Sınıflandırma algoritmaları eğitilirken karşılaşılan, bazı sınıfların veri setinde diğerlerine göre daha az Web sitesi ve kelimeye sahip olması sebebiyle ortaya çıkan ve modellerin performansını olumsuz etkileyen problem nedir?",
+    "ground_truth": "Dengesiz veri seti (veri dengesizliği / class imbalance) problemidir.",
+    "source_file": "m31.md",
+    "source_section": "## TARTIŞMA ve ÖNERİLER"
+  },
+  {
+    "question": "BIST-50 endeksinin değişim yönünü etkileyen faktörlerin sınıflandırıldığı bu çalışmada, Weka 3.8 programı kullanılarak yapılan analizler sonucunda %92.71 doğruluk oranı ile en iyi performansı gösteren sınıflandırma algoritması hangisidir?",
+    "ground_truth": "C4.5 karar ağacı sınıflandırma algoritmasıdır.",
+    "source_file": "m32.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "BIST-50 endeksinin değişim yönünü etkileyen makroekonomik ve finansal değişkenlerin önem sırasını belirlemek için kullanılan One R, Gain Information ve Korelasyon tabanlı öznitelik seçim algoritmalarına göre birinci sırada yer alan en önemli değişken hangisidir?",
+    "ground_truth": "BISTMALI (Borsa İstanbul Mali Endeksi) değişkenidir.",
+    "source_file": "m32.md",
+    "source_section": "## 3. Uygulama"
+  },
+  {
+    "question": "Bu araştırmada, BIST-50 endeksi ve onu etkileyen faktörlerin analizi için hangi tarih aralığını kapsayan toplam 2591 işlem gününün verileri kullanılmıştır?",
+    "ground_truth": "03.01.2006 ile 01.12.2016 tarihleri arasındaki işlem günlerinin verileri kullanılmıştır.",
+    "source_file": "m32.md",
+    "source_section": "## 3. Uygulama"
+  },
+  {
+    "question": "Çalışmada modellerin eğitimi ve testi için k-katlı çapraz doğrulama yöntemi tercih edilmiştir. Karşılaştırmalı analizlerde k değeri olarak sırasıyla hangi üç farklı değer test edilmiştir?",
+    "ground_truth": "k = 10, k = 5 ve k = 2 değerleridir.",
+    "source_file": "m32.md",
+    "source_section": "## 3. Uygulama"
+  },
+  {
+    "question": "Bu çalışmada BIST-50 endeksinin değişim yönünü tahmin etmek amacıyla otonom çalışabilen, belirsiz, gürültülü ve eksik verileri işleme yeteneğine sahip olan ve Çok Katmanlı Algılayıcı (ÇKA) mimarisiyle kullanılan yapay zekâ tekniği hangisidir?",
+    "ground_truth": "Yapay Sinir Ağları (YSA) tekniğidir.",
+    "source_file": "m32.md",
+    "source_section": "## 2.4 Yapay Sinir Ağları (YSA)"
+  },
+  {
+    "question": "BIST-50 endeksinin değişimini etkileyen dış borsalar olarak çalışmaya dahil edilen gelişmiş ülke borsa endeksleri hangileridir?",
+    "ground_truth": "S&P 500 (Amerika), DAX (Almanya) ve FTSE (İngiltere) borsa endeksleridir.",
+    "source_file": "m32.md",
+    "source_section": "## 3. Uygulama"
+  },
+  {
+    "question": "Büyük dil modellerinin (BDM) Karar Destek Sistemlerine (KDS) entegrasyonu, Herbert Simon'un karar verme sürecini açıklayan hangi üç aşamalı modeli bağlamında yeni imkânlar sunmaktadır?",
+    "ground_truth": "İstihbarat (Intelligence), Tasarım (Design) ve Seçim (Choice) aşamalarından oluşan modeli bağlamında sunmaktadır.",
+    "source_file": "m33.md",
+    "source_section": "## 2. KARAR DESTEK SİSTEMLERİ VE BÜYÜK DİL MODELLERİ İLİŞKİSİ"
+  },
+  {
+    "question": "Büyük dil modellerinin eğitim verilerindeki demografik dengesizlikler veya toplumsal yargılar nedeniyle dezavantajlı gruplar (ırk, cinsiyet vb.) aleyhine hatalı veya taraflı öneriler üretmesi, KDS'de hangi etik ve teknik soruna yol açmaktadır?",
+    "ground_truth": "Önyargı ve adalet (bias and fairness) sorununa yol açmaktadır.",
+    "source_file": "m33.md",
+    "source_section": "## 4. BDM TABANLI KARAR DESTEK SİSTEMLERİNDE ZORLUKLAR VE ETİK SORUNLAR"
+  },
+  {
+    "question": "BDM'lerin karar verme süreçlerinde veri gizliliğini korumak amacıyla, verinin kurumlar arasında doğrudan paylaşılmasına gerek kalmadan modellerin eğitimine katkı sunmasını sağlayan mahremiyet dostu yöntem hangisidir?",
+    "ground_truth": "Federatif öğrenme (federated learning) yöntemidir.",
+    "source_file": "m33.md",
+    "source_section": "## 4. BDM TABANLI KARAR DESTEK SİSTEMLERİNDE ZORLUKLAR VE ETİK SORUNLAR"
+  },
+  {
+    "question": "Büyük Dil Modellerinin eğitildiği istatistiksel kalıplara dayanarak bazen gerçekte var olmayan, tamamen uydurma veya alakasız bilgileri doğruymuş gibi sunması olayına literatürde ne ad verilmektedir?",
+    "ground_truth": "Halüsinasyon (hallucination) adı verilmektedir.",
+    "source_file": "m33.md",
+    "source_section": "## 4. BDM TABANLI KARAR DESTEK SİSTEMLERİNDE ZORLUKLAR VE ETİK SORUNLAR"
+  },
+  {
+    "question": "Sprague ve Carlson'un klasik tanımına göre; yöneticiler ve karar vericilerin yarı-yapılandırılmış veya yapılandırılmamış problemlerle başa çıkabilmeleri için geliştirilen bilgisayar destekli bilgi sistemleri sınıfına ne ad verilir?",
+    "ground_truth": "Karar Destek Sistemleri (KDS) adı verilir.",
+    "source_file": "m33.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Büyük dil modellerinin milyarlarca parametre içermesi ve karmaşık iç hesaplama adımları nedeniyle karar vericilerin 'neden bu karar verildi?' sorusuna net yanıt verememesi problemi, hangi yapay zekâ yaklaşımının benimsenmesini zorunlu kılmaktadır?",
+    "ground_truth": "Açıklanabilir yapay zekâ (explainable AI / XAI) yaklaşımının benimsenmesini zorunlu kılmaktadır.",
+    "source_file": "m33.md",
+    "source_section": "## 4. BDM TABANLI KARAR DESTEK SİSTEMLERİNDE ZORLUKLAR VE ETİK SORUNLAR"
+  },
+  {
+    "question": "İnsan beyninde sözel bilginin işlenmesinden, bilginin parça parça ve sırayla analiz edilmesinden, ayrıca dikkatin odaklanması ve sürdürülmesinden sorumlu olan beyin bölgesi hangisidir?",
+    "ground_truth": "Sol yarı-küredir (sol hemisfer).",
+    "source_file": "m34.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "İnsan beyninde sağ ve sol yarı-küreleri birbirine bağlayan ve aralarındaki iletişimi sağlayan, yaklaşık 250 milyon sinir lifinden oluşan yapıye ne ad verilir?",
+    "ground_truth": "Corpus callosum adı verilir.",
+    "source_file": "m34.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Biyolojik bir nöronun temel bileşenleri olan dendritler, hücre gövdesi ve aksonlar yapay nöron modellerinde sırasıyla hangi matematiksel elemanlara karşılık gelmektedir?",
+    "ground_truth": "Girdilere (veya ağırlıklara), toplam fonksiyonuna (hücre gövdesi) ve çıktıya (aktivasyon fonksiyonu ve akson) karşılık gelmektedir.",
+    "source_file": "m34.md",
+    "source_section": "## Yapay Sinir Ağları"
+  },
+  {
+    "question": "Yapay Sinir Ağlarının en ayırt edici özelliklerinden biri olan, eksik veya tam seçilemeyen bir giriş uygulandığında bile belleğindeki en yakın çıktıyı seçerek mantıklı bir çıkış üretebilmesi yeteneğine ne ad verilir?",
+    "ground_truth": "Genelleme (generalization) adı verilir.",
+    "source_file": "m34.md",
+    "source_section": "## Yapay Sinir Ağlarında Bilginin Saklanması"
+  },
+  {
+    "question": "Caine ve Caine tarafından geliştirilen ve beynin doğal öğrenme kurallarına dayanan, öğrencinin tehditten uzak, zenginleştirilmiş ve sosyal etkileşimli bir ortamda anlamlı öğrenmesini savundan kuram hangisidir?",
+    "ground_truth": "Beyin Temelli Öğrenme (brain-based learning) kuramıdır.",
+    "source_file": "m34.md",
+    "source_section": "## Beyin Temelli Öğrenme"
+  },
+  {
+    "question": "Beyin temelli öğrenme ilkelerine göre, beynin strese ve korkuya en duyarlı bölümü olan ve stres altındayken performansı düşüren limbik sistem bileşeni hangisidir?",
+    "ground_truth": "Hipokampustur (hippocampus).",
+    "source_file": "m34.md",
+    "source_section": "## Beyin Temelli Öğrenme İlkeleri"
+  },
+  {
+    "question": "Bu çalışmada BIST endeksi tahmini amacıyla, girdi olarak bir gün öncesine ait BIST endeksi (BÖE), Amerikan dolar değeri (Ö$), gecelik faiz oranı (ÖFO) ve haftanın günlerini belirten 5 adet kukla değişkeni alan en başarılı YSA modelinin adı hangisidir?",
+    "ground_truth": "Model 2 (M2) modelidir.",
+    "source_file": "m35.md",
+    "source_section": "## 2.1. Borsa Endeks Değeri Tahmini Sistem Modelleri"
+  },
+  {
+    "question": "Araştırmada kullanılan veriler, BIST ve NIKKEI, BOVESPA, FTSE, CAC ve DAX gibi dış borsaların internet sitelerinden hangi tarih aralığını kapsayan 1998 işgününden elde edilmiştir?",
+    "ground_truth": "03.01.2005 ile 31.12.2012 tarihleri arasındaki işgünlerinden elde edilmiştir.",
+    "source_file": "m35.md",
+    "source_section": "## 2.2. Veri Kümesi"
+  },
+  {
+    "question": "Literatürde Lewis (2002) tarafından yapılan gruplandırmaya göre, bir tahmin modelinin MAPE (Mutlak Hata Oranları Ortalaması) değeri yüzde kaçın altında olduğunda o model 'çok iyi' olarak sınıflandırılır?",
+    "ground_truth": "%10'un altında gerçekleştiğinde 'çok iyi' olarak sınıflandırılır.",
+    "source_file": "m35.md",
+    "source_section": "## 3. MODELLERİN SONUÇLARI"
+  },
+  {
+    "question": "BIST endeksinin tahminlenmesinde kullanılan YSA modellerinin DVM modellerine kıyasla ortalama performans üstünlüğü yüzde kaç olarak tespit edilmiştir?",
+    "ground_truth": "Ortalama %1,36 daha iyi performans gösterdiği tespit edilmiştir.",
+    "source_file": "m35.md",
+    "source_section": "## 4. SONUÇ"
+  },
+  {
+    "question": "Çalışmada YSA ve DVM modellerinden elde edilen öngörü sonuçlarının gerçek verileri istatistiksel açıdan temsil edip etmediğini test etmek amacıyla %95 güven aralığında kullanılan Z kritik değeri kaçtır?",
+    "ground_truth": "1,96'dır.",
+    "source_file": "m35.md",
+    "source_section": "## 3.1. İstatistiksel Analizi"
+  },
+  {
+    "question": "Destek Vektör Makineleri modellerinde, verilerin doğrusal olarak ayrılamadığı durumlarda orijinal giriş uzayından doğrusal olarak sınıflandırma yapılabilecek yüksek boyutlu bir nitelik uzayına dönüşüm sağlayan matematiksel fonksiyonlara ne ad verilir?",
+    "ground_truth": "Çekirdek (kernel) fonksiyonları adı verilir.",
+    "source_file": "m35.md",
+    "source_section": "## 1.2. Destek Vektör Makineleri"
+  },
+  {
+    "question": "Adana ili için hava sıcaklığı tahmininin yapıldığı bu çalışmada, kullanılan beş farklı normalizasyon yöntemi arasından en yüksek tahmin doğruluğunu ve en düşük hata oranını (MAPE ve MSE) veren en başarılı yöntem hangisi olmuştur?",
+    "ground_truth": "'D_Min_Max Normalizasyonu' yöntemi olmuştur.",
+    "source_file": "m36.md",
+    "source_section": "## SONUÇ"
+  },
+  {
+    "question": "Bu çalışmada, YSA modellerinin Adana ili hava sıcaklığı tahmini için girdi parametresi olarak kullandığı meteorolojik değişkenlerden 5 tanesini belirtiniz.",
+    "ground_truth": "Maksimum sıcaklık, minimum sıcaklık, rüzgâr, nem, güneşlenme süresi, açık yüzey buharlaşması, güneş radyasyonu ve basınçtır.",
+    "source_file": "m36.md",
+    "source_section": "## II. UYGULAMA"
+  },
+  {
+    "question": "Araştırmada YSA'nın eğitimi ve testi amacıyla Meteoroloji Genel Müdürlüğü'nden alınan günlük veriler hangi yıllar arasını kapsamaktadır?",
+    "ground_truth": "1990 ile 2011 yılları arasındaki verileri kapsamaktadır.",
+    "source_file": "m36.md",
+    "source_section": "## II. UYGULAMA"
+  },
+  {
+    "question": "Yapay Sinir Hücresinde girdi ve çıktı birimleri arasındaki doğrusal olmayan eğrisel eşleşmeyi sağlayan, doğru seçilmesi durumunda ağın performansını doğrudan etkileyen ve en sık kullanılanları sigmoid ile logsig olan bileşen hangisidir?",
+    "ground_truth": "Aktivasyon (transfer) fonksiyonudur.",
+    "source_file": "m36.md",
+    "source_section": "## A. YAPAY SİNİR HÜCRESİ"
+  },
+  {
+    "question": "Çalışmada hava sıcaklık tahmini modellerinin eğitilmesi ve test edilmesi için 'Matlab 7.10' bilgisayar programında yer alan hangi özel modül (toolbox) kullanılmıştır?",
+    "ground_truth": "Neural Network Toolbox modülü kullanılmıştır.",
+    "source_file": "m36.md",
+    "source_section": "## II. UYGULAMA"
+  },
+  {
+    "question": "Eğitim setindeki parametrelerin tahmin işlemine eşit ölçüde katkıda bulunmasını sağlamak amacıyla, her değişkene ait sütunun aritmetik ortalaması ve standart sapması kullanılarak yapılan, verilerdeki uç noktaları azaltan normalizasyon tekniği hangisidir?",
+    "ground_truth": "Z-Score (İstatistiksel) Normalizasyonudur.",
+    "source_file": "m36.md",
+    "source_section": "## 1. İstatiksel veya Z-Score Normalizasyonu"
+  },
+  {
+    "question": "Türkçe haber metinlerinin sınıflandırıldığı bu çalışmada; SVC, Rastgele Orman ve Naive Bayes algoritmaları arasında %91 F1 skoru ile en başarılı performansı gösteren makine öğrenmesi algoritması hangisidir?",
+    "ground_truth": "Naive Bayes sınıflandırıcısıdır.",
+    "source_file": "m37.md",
+    "source_section": "## Özet:"
+  },
+  {
+    "question": "Çalışmada kullanılan hazır veri setinde; spor, dünya, ekonomi, kültür, teknoloji, siyaset ve sağlık olmak üzere toplam kaç adet haber kategorisi yer almaktadır ve veri setinin toplam satır sayısı kaçtır?",
+    "ground_truth": "7 kategori yer almaktadır ve veri seti 4900 satırdan oluşmaktadır.",
+    "source_file": "m37.md",
+    "source_section": "## Veri Seti"
+  },
+  {
+    "question": "Sınıflandırma analizlerinde veri setindeki metinleri kelime sıklığına göre öznitelik matrislerine çevirmek amacıyla Python programlama dilinde kullanılan nesne/sınıf hangisidir?",
+    "ground_truth": "CountVectorizer sınıfıdır.",
+    "source_file": "m37.md",
+    "source_section": "## Veri Seti"
+  },
+  {
+    "question": "Türkçe haber metinlerinin otomatik olarak sınıflandırılması amacıyla kullanılan yazılım, hangi programlama diliyle yazılmıştır ve GPU'lara açık erişim sunan hangi bulut tabanlı platformda çalıştırılmıştır?",
+    "ground_truth": "Python programlama diliyle yazılmış ve Google Colaboratory (Colab) platformunda çalıştırılmıştır.",
+    "source_file": "m37.md",
+    "source_section": "## Veri Seti"
+  },
+  {
+    "question": "Çalışmada analiz edilen verilerin Türkçe olması sebebiyle durdurma kelimelerini (stopwords) metinlerden ayıklamak amacıyla faydalanılan Python doğal dil işleme kütüphanesi paketi hangisidir?",
+    "ground_truth": "NLTK (Natural Language Toolkit) kütüphanesidir.",
+    "source_file": "m37.md",
+    "source_section": "## Veri Seti"
+  },
+  {
+    "question": "Metin sınıflandırmasında modelin uç durumları göz ardı etmesini engellemek amacıyla Kesinlik (Precision) ve Duyarlılık (Recall) değerlerinin harmonik ortalaması alınarak hesaplanan başarım metriğine ne ad verilir?",
+    "ground_truth": "F1-skoru (F1-score) adı verilir.",
+    "source_file": "m37.md",
+    "source_section": "## 3. BULGULAR"
+  },
+  {
+    "question": "Makine çizelgeleme problemlerinde, pekiştirmeli öğrenme (PÖ) algoritmalarının üretim sürecindeki ani değişikliklere (makine arızası, işlerin rassal gelişi, sipariş iptali vb.) kolayca tepki vererek dinamik bir yaklaşım sunabilmesinin temel nedeni nedir?",
+    "ground_truth": "Dinamik çevreden, önceden gelen bilgileri kullanarak öğrenme gerçekleştirmeleri ve çizelgelemeye sıfırdan başlamamalarıdır.",
+    "source_file": "m38.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "Literatürde çizelgeleme problemleri 'α / β / γ' şeklinde ifade edilen üçlü bir notasyonla tanımlanmaktadır. Bu notasyonda yer alan α, β ve γ harfleri sırasıyla hangi problem özelliklerini temsil etmektedir?",
+    "ground_truth": "α makine çevresini (akış tipi, atölye tipi, paralel makine vb.), β işlem özelliklerini (sıra bağımlı, beklemesiz, hazırlık süreli vb.), γ ise performans kriterini (Cmax, maksimum gecikme vb.) ifade eder.",
+    "source_file": "m38.md",
+    "source_section": "## 3. İŞ ÇİZELGELEME PROBLEMİ"
+  },
+  {
+    "question": "Q-Öğrenme algoritmasında yer alan indirim faktörü (Gamma - γ) hangi aralıkta değer almaktadır ve bu parametrenin öğrenme sürecindeki temel işlevi nedir?",
+    "ground_truth": "[0,1] arasında değer alır; daha önce alınan ödüllere daha sonra alınanlardan daha yüksek bir ağırlık vererek 'iyi bir başlangıcın' değerini yansıtmasını sağlar.",
+    "source_file": "m38.md",
+    "source_section": "## 2.1.1 Q-Öğrenme"
+  },
+  {
+    "question": "Yarı Markov karar süreci problemlerinde, geçiş sürelerinin sabit birim yerine genel dağılımlı rassal değişkenler olması durumunda yaklaşık optimal çözümü Markov sürecine dönüştürmeden bulabilen ödüllü öğrenme algoritması hangisidir?",
+    "ground_truth": "SMART algoritmasıdır.",
+    "source_file": "m38.md",
+    "source_section": "## 2.1.4 SMART"
+  },
+  {
+    "question": "Derin Q Ağı (DQA) modelinde, mini-toplu deneyimlerin tekrar oynatma arabelleğinden (replay buffer) eşit şekilde çekilmesinin öğrenme sürecine sağladığı temel avantaj nedir?",
+    "ground_truth": "MKS yörüngesindeki deneyimlerin birbirine olan yüksek bağımlılığını kırarak mini deneyim grubunu bağımsız ve aynı şekilde dağıtılmış (i.i.d.) hale getirmesi ve böylece öğrenme sürecinin istikrarını artırmasıdır.",
+    "source_file": "m38.md",
+    "source_section": "## 2.1.5 Derin Q ağı"
+  },
+  {
+    "question": "Aktör-Kritik yönteminde Şekil 2'de gösterildiği gibi öğrenen ajan ikiye bölünmüştür. Bu yapılardan 'Aktör' ve 'Eleştirmen (Kritik)' bileşenlerinin temel görevleri sırasıyla nelerdir?",
+    "ground_truth": "Aktör, geçerli durum verildiğinde kontrol girişini (politika/aksiyon) oluşturmaktan sorumludur; Eleştirmen (Kritik) ise değer fonksiyonu tahminini uyarlayarak mevcut politikanın kalitesini (ödülleri işleyerek) değerlendirmekten sorumludur.",
+    "source_file": "m38.md",
+    "source_section": "## 2.1.8 Aktör-Kritik"
+  },
+  {
+    "question": "Mobil robotların otonom navigasyonunda kullanılan bilgisiz (sezgisel olmayan) çevrimdışı arama algoritmaları ile bilgili (sezgisel) çevrimdışı arama algoritmalarına literatürde verilen en bilinen klasik örnekler sırasıyla hangileridir?",
+    "ground_truth": "Bilgisiz (sezgisel olmayan) arama için Dijkstra algoritması, bilgili (sezgisel) arama için ise A* algoritmasıdır.",
+    "source_file": "m39.md",
+    "source_section": "## I. GİRİŞ"
+  },
+  {
+    "question": "Büyük dinamik çevrelerde ufak bir çevresel değişim olduğunda tüm yolu yeniden planlamak yerine, önceki aramalardan elde edilen bilgileri kısmi olarak kullanan sürekli ve artımsal planlama tekniklerine 3 adet örnek veriniz.",
+    "ground_truth": "D*, Focused D* ve D* Lite algoritmalarıdır.",
+    "source_file": "m39.md",
+    "source_section": "## I. GİRİŞ"
+  },
+  {
+    "question": "Mobil robot navigasyon probleminin sensör ve kontrol sürecine dayalı sınıflandırmasında Nurmaini ve Tutuko tarafından önerilen dört ana navigasyon yaklaşımı dalı hangileridir?",
+    "ground_truth": "Harita tabanlı, iletişim tabanlı, davranış tabanlı ve öğrenme tabanlı navigasyondur.",
+    "source_file": "m39.md",
+    "source_section": "## II. MOBİL ROBOTLARDA NAVİGASYON"
+  },
+  {
+    "question": "Google DeepMind grubu tarafından geliştirilen, Q-öğrenme ile Policy Gradient metotlarını birleştiren ve eşzamanlı olarak kendi ortam kopyasıyla etkileşime giren paralel ajan yapısıyla deneyim tekrarını önleyen algoritma hangisidir?",
+    "ground_truth": "A3C (Asynchronous Advantage Actor-Critic) algoritmasıdır.",
+    "source_file": "m39.md",
+    "source_section": "## III. NAVİGASYON PROBLEMİ İÇİN PEKİŞTİRMELİ ÖĞRENME"
+  },
+  {
+    "question": "Pekiştirmeli öğrenme tabanlı navigasyon çalışmalarının çoğunda, gerçek robot üzerinde eğitim yapılmadan önce simülasyon ortamlarının tercih edilmesinin ve OpenAI Gym gibi kütüphanelerden yararlanılmasının en temel teknik sebebi nedir?",
+    "ground_truth": "Eğitim işleminin çok uzun sürmesi, fiziksel ekipmanların yıpranma riski ve OpenAI Gym'in zamandan tasarruf sağlayan açma/kapama sahneleme (rendering) ile bekleme sürelerini kısaltmasıdır.",
+    "source_file": "m39.md",
+    "source_section": "## III. NAVİGASYON PROBLEMİ İÇİN PEKİŞTİRMELİ ÖĞRENME"
+  },
+  {
+    "question": "Q-öğrenme algoritmasının navigasyon problemindeki en büyük dezavantajı olan ve Jaradat ile Pradipta K Das'ın çalışmalarında ele alınan yüksek depolama ve yüksek işlem süreleri probleminin temel kaynağı nedir?",
+    "ground_truth": "Çalışma alanındaki engel sayısı arttıkça depolanması gereken Q-değerlerinin miktarının (Q-matrisinin boyutunun) aşırı derecede artmasıdır.",
+    "source_file": "m39.md",
+    "source_section": "## III. NAVİGASYON PROBLEMİ İÇİN PEKİŞTİRMELİ ÖĞRENME"
+  },
+  {
+    "question": "Optik Karakter Tanıma (OCR) sisteminin temel tanımı nedir ve bu sistemlerin temel amacı elektronik görüntüler üzerindeki karakterleri hangi koda dönüştürmektir?",
+    "ground_truth": "Elektronik görüntüler üzerindeki karakterlerin okunarak ASCII koda dönüştürülmesi işlemidir.",
+    "source_file": "m40.md",
+    "source_section": "## 1. GİRİŞ"
+  },
+  {
+    "question": "Bir örüntü tanıma sistemi olan Karakter Tanıma Sistemlerinde, Şekil 1'de de gösterilen ve transducer ile başlayan ardışık 4 temel işlem aşaması sırasıyla hangileridir?",
+    "ground_truth": "Transducer (Görüntünün sayısallaştırılması), Ön İşleme (Processing), Öznitelik Çıkarma (Feature Extraction) ve Sınıflandırma (Classification) aşamalarıdır.",
+    "source_file": "m40.md",
+    "source_section": "## 2. METARYAL VE YÖNTEM"
+  },
+  {
+    "question": "Bu çalışmada 0-255 arasındaki siyah-beyaz giriş örüntülerinde piksel değeri 127'den düşük olanların 1, eşit ve yüksek olanların ise 0 olarak etiketlenerek ikili resimler elde edilmesini sağlayan ön işlem algoritması hangisidir?",
+    "ground_truth": "Otomatik eşikleme (thresholding) algoritmasıdır.",
+    "source_file": "m40.md",
+    "source_section": "## Öznitelik Çıkarma"
+  },
+  {
+    "question": "Otomatik eşikleme sonrasında, örüntünün orijini referans alınarak saat yönünde 45'er derecelik açılarla dıştan içe 1 karakterinin aranmasıyla koordinat değerlerini uzaklığa dönüştüren algoritmanın adı ve formülü hangisidir?",
+    "ground_truth": "Mesafe Hesaplama Algoritmasıdır (MHA) ve formülü: d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} şeklindedir.",
+    "source_file": "m40.md",
+    "source_section": "## Öznitelik Çıkarma"
+  },
+  {
+    "question": "Karakter sınıflandırma başarımını değerlendirmek amacıyla kullanılan N Kümeli Çapraz Doğrulama metodunda, bu çalışmadaki 3600 örnekli veri seti için N değeri kaç olarak seçilmiştir ve her bir test kümesi kaç örnek barındırmaktadır?",
+    "ground_truth": "N değeri 10 olarak seçilmiştir; her bir test kümesi 360 örnek içermektedir (3240 örnek ise eğitim amaçlıdır).",
+    "source_file": "m40.md",
+    "source_section": "## Sınıflandırma"
+  },
+  {
+    "question": "Çalışmadaki sınıflandırma sonuçları karşılaştırıldığında; en düşük hesaplama süresiyle birlikte en düşük doğruluk oranını veren algoritma ile model ihtiyacı duymadan en yüksek doğruluk ve Kappa değerini veren algoritma sırasıyla hangileridir?",
+    "ground_truth": "En düşük doğruluğu veren Naive Bayes, en yüksek doğruluğu veren ise k-NN (k-En Yakın Komşuluk) algoritmasıdır.",
+    "source_file": "m40.md",
+    "source_section": "## 4.TARTIŞMA, SONUÇ VE ÖNERİLER"
+  },
+  {
+    "question": "Rüzgâr türbinleri gibi kısmi gözlemlenebilir çok bileşenli sistemlerin genel durumunu özetleyen 3 seviyeli sinyal renkleri (yeşil, sarı, kırmızı) sırasıyla hangi sistem koşullarını temsil etmektedir?",
+    "ground_truth": "Yeşil sinyal sistemin sorunsuz çalıştığını, sarı sinyal bileşenlerde kısmi bozulmaların başladığını fakat sistemin çalıştığını, kırmızı sinyal ise sistemin tamamen arızalanıp işlevsiz hale geldiğini gösterir.",
+    "source_file": "m41.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Kısmi gözlemlenebilir Markov karar süreçlerinde (POMDP), sistemin içinde bulunduğu mevcut durumun tam olarak izlenememesi nedeniyle, sistemin olabileceği muhtemel durumlar ve bu durumlarda bulunma olasılıklarının oluşturduğu durum uzayına ne ad verilir?",
+    "ground_truth": "'Düşünülmüş durumlar' (belief states) adı verilir.",
+    "source_file": "m41.md",
+    "source_section": "## 3.2.4 Düşünülen durumlar"
+  },
+  {
+    "question": "Kısmi gözlemlenebilir çok bileşenli bu sistem için servis sağlayıcının bakım öncesi, sırası ve sonrasında vermesi gereken entegre üç temel karar sırasıyla hangileridir?",
+    "ground_truth": "Ne zaman bakım yapılacağı (bakım planlama), bakım noktasına hangi yedek parçaların sevk edileceği (yedek parça sevkiyatı) ve sistem yerinde incelendikten sonra hangi bileşenlerin değiştirileceğidir (bileşen değiştirme).",
+    "source_file": "m41.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Çalışmada ORP (optimal pekiştirmeli öğrenme politikası) sonuçları ile karşılaştırılan sezgisel politikalardan SP-1'in (Sezgisel Politika-1) temel ayırt edici özelliği nedir?",
+    "ground_truth": "Bakım/onarım ve yedek parça seçim kararlarının optimize edildiği, ancak bileşen değişim kararının optimize edilmeyip, ortaya çıkan bozulmuş/arızalı tüm bileşenlerin istisnasız değiştirildiğinin varsayılmasıdır.",
+    "source_file": "m41.md",
+    "source_section": "## 4.1 Sezgisel bakım/onarım politikaları ve performans ölçütleri"
+  },
+  {
+    "question": "Nümeric analiz sonuçlarına göre, düzeltici bakım maliyetinin (Cc) artması (örneğin 200'den 600'e çıkması) ORP politikasının sezgisel politikalara kıyasla sağladığı mali faydayı nasıl etkilemektedir?",
+    "ground_truth": "ORP politikasının sağladığı mali faydayı (maliyetlerdeki düşüş oranını) %4.5'ten %10.4'e yükselterek avantajını artırmaktadır.",
+    "source_file": "m41.md",
+    "source_section": "## 4.4.1 Düzeltici bakım maliyetinin etkileri"
+  },
+  {
+    "question": "Sisteme eklenecek ek sensörlerin konuşlandırılması üzerine yapılan analizlerde; ek sensörün düşük güvenilirlikli bileşene takılmasının yüksek güvenilirlikli bileşene takılmasına kıyasla mali fayda (%RD) yönünden üstünlüğü nasıldır?",
+    "ground_truth": "Düşük güvenilirlikli bileşene takıldığında sağladığı fayda (%7.8), yüksek güvenilirlikli bileşene takıldığındaki faydadan (%5.1) daha yüksektir.",
+    "source_file": "m41.md",
+    "source_section": "## 4.4.4 Ek sensörler"
+  },
+  {
+    "question": "Örgütlerde öğrenen bir yapının oluşması ve sürdülebilmesi için Argyris ve Schön (1978) ile Senge (1997) tarafından ortaya konan kuramsal yaklaşımların temel farkı nedir?",
+    "ground_truth": "Argyris ve Schön örgütsel öğrenmenin çalışanların örgütsel aksaklıkları fark edip bireysel önlemler almasıyla gerçekleşeceğini savunurken; Senge, örgütlerin değişime uyum sağlaması için kişisel ustalık, zihinsel modeller, paylaşılan vizyon, takım halinde öğrenme ve sistem düşüncesi olmak üzere beş disiplinde yetkinleşmesini vurgular.",
+    "source_file": "m42.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Raisch ve Krakowski (2021) tarafından yönetim uygulamalarında tanımlanan ve YZ sistemlerinin otomasyon ile insan karar süreçleri arasındaki ilişkisini açıklayan 'otomasyon-artırma paradoksu' (automation-augmentation paradox) neyi ifade etmektedir?",
+    "ground_truth": "Örgütsel bir süreç otomatikleştikçe bazı görevler kolaylaşsa da, sorumlulukların ve karar alma yükünün artarak iş yükünü ve karmaşıklığı yükseltmesi durumunu ifade eder.",
+    "source_file": "m42.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Bir kavramsal derleme çalışması olan bu araştırmada, Moher vd. (2009) tarafından geliştirilen ve sistematik incelemelerin açık, eksiksiz ve güvenilir şekilde raporlanmasını sağlayan hangi rehber yönergeden yararlanılmıştır?",
+    "ground_truth": "PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) yönergesidir.",
+    "source_file": "m42.md",
+    "source_section": "## Araştırmanın Modeli"
+  },
+  {
+    "question": "Argyris ve Schön'ün (1978) modelinde yer alan Tek Döngülü (SLL) öğrenme ile Çift Döngülü (DLL) öğrenme yöntemlerinin hedefleri yönünden temel farkı nedir?",
+    "ground_truth": "Tek döngülü öğrenme kontrole dayalı olup mevcut hataları ortaya çıkarıp düzeltmeyi hedeflerken; çift döngülü öğrenme gelişime dayalı olup hatalara sebep olan yöntem, politika ve rutinlerin yeniden düzenlenmesini ve varsayımların test edilmesini hedefler.",
+    "source_file": "m42.md",
+    "source_section": "## Öğrenen örgütlerin kavramsal gelişimi"
+  },
+  {
+    "question": "Çalışmada açıklanan basit bir yapay sinir hücresinde (nöron), girdi değerleri (X) ile bunların önem değerleri (W) çarpılıp bias (b) değeri de eklenerek elde edilen toplama fonksiyonunun matematiksel formülü nasıl ifade edilmiştir?",
+    "ground_truth": "W_k1*X_1 + W_k2*X_2 + ... + W_kn*X_n + b_k şeklinde ifade edilmiştir.",
+    "source_file": "m42.md",
+    "source_section": "## YSA'nın yapısı"
+  },
+  {
+    "question": "DÖ teknolojileri kullanılarak örgütsel sorunların çözüm sürecine dair döngüde yer alan 'Değerlendirme aşaması'nda, seçilen modelin başarılı kabul edilerek dağıtım/üretim aşamasına geçebilmesi için başarı oranının en az yüzde kaç olması gerektiği belirtilmiştir?",
+    "ground_truth": "Başarı oranının %90 üzerinde olması gerektiği kabul edilmektedir.",
+    "source_file": "m42.md",
+    "source_section": "## Öğrenen Örgüt ile DÖ Arasındaki İlişki"
+  },
+  {
+    "question": "Yükseköğretim Öğrencileri Performans Değerlendirme veri seti üzerinde yapılan çalışmada; K-en yakın komşu, Naive Bayes, Rastgele Orman, Destek Vektör Makineleri, Karar Ağaçları ve Boosting algoritmaları ile kurulan iki sınıf etiketli matematiksel modellerde en yüksek başarıyı elde eden algoritma hangisidir ve elde ettiği başarı oranı kaçtır?",
+    "ground_truth": "Rastgele Orman (Random Forest) algoritmasıdır ve başarı oranı 0,96'dır.",
+    "source_file": "m43.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "M. Yıldız ve C. Börekçi tarafından 9. sınıf öğrencilerinin sınav sonuçlarının denetimli Neural Network algoritmasıyla %98,6 başarı oranıyla tahmin edildiği çalışmada, sınıflandırmayı doğrudan etkilediği tespit edilen temel değişkenler nelerdir?",
+    "ground_truth": "Öğrencilerin derslere yönelik tutum ve yargıları ile çalışma düzenleridir.",
+    "source_file": "m43.md",
+    "source_section": "## 1. GİRİŞ"
+  },
+  {
+    "question": "Thomas Bayes'in teoremi üzerine temellenmiş Naive Bayes sınıflandırma algoritmasının, bağımlı olayların olasılıklarının hesaplanmasında kullandığı koşullu olasılık denklemi (P(X|Y)) nasıl formüle edilir?",
+    "ground_truth": "P(X|Y) = P(Y|X).P(X) / P(Y) şeklinde formüle edilir.",
+    "source_file": "m43.md",
+    "source_section": "## 2.2.2. Naive Bayes algoritması"
+  },
+  {
+    "question": "Bu çalışmada kullanılan 'Yükseköğretim Öğrencileri Performans Değerlendirme' veri seti hangi veri tabanından alınmıştır, kaç sınıftan ve kaç kategorik öznitelikten oluşmaktadır?",
+    "ground_truth": "UCI veri tabanından alınmıştır; 8 sınıflı ve 33 kategorik özniteliklidir (çalışmada 31'i kullanılmıştır).",
+    "source_file": "m43.md",
+    "source_section": "## 3.1. Veri Seti"
+  },
+  {
+    "question": "Çalışmada 31 kategorik özniteliğin ikili olarak temsil edilip 116 alt özniteliğe dönüştürülmesi sonrasında, Rastgele Orman algoritması kullanılarak belirlenen ilk 5 'akademik' öznitelik sırasıyla hangileridir?",
+    "ground_truth": "Sırasıyla: course-id, son yarıyıl genel not ortalaması, mezuniyette beklenen genel not ortalaması, bursluluk türü ve dersi dinlemedir.",
+    "source_file": "m43.md",
+    "source_section": "## 4.6. Boyut Azaltma ve Öznitelik Önem Sıralaması"
+  },
+  {
+    "question": "Izgara taraması (grid-search) sonucunda en uygun parametreleri k=5 ve p=1 (Manhattan) olarak belirlenen K-en yakın komşu modelinde, 2 sınıf etiketli veri setinde elde edilen en yüksek başarı oranı kaçtır?",
+    "ground_truth": "0,62'dir.",
+    "source_file": "m43.md",
+    "source_section": "## 4.1. K-En Yakın Komşu Algoritması"
+  },
+  {
+    "question": "Yapay zeka tarihsel gelişimi ele alındığında, 1950 yılında 'Makineler düşünebilir mi?' sorusunu sorarak literatürde 'Taklit Oyunu' olarak adlandırılan testi ilk kez kurgulayan ve bu konuya dikkatlerin yoğunlaşmasını sağlayan bilim insanı kimdir?",
+    "ground_truth": "Alan Turing'dir.",
+    "source_file": "m44.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Herbert Simon'a göre makine öğrenmesinin tanımı nasıldır ve bu tanım çerçevesinde makine öğrenmesinin temel amacı nedir?",
+    "ground_truth": "Herbert Simon'a göre 'öğrenme bir sistemin deneyime dayalı olarak başarımını artırdığı bir süreçtir'; makine öğrenmesinin temel amacı ise tanımlanan bir görevde dışarıdan müdahaleye gerek kalmadan başarımını deneyime dayalı olarak artıran algoritmalar geliştirmektir.",
+    "source_file": "m44.md",
+    "source_section": "## Makine Öğrenmesi"
+  },
+  {
+    "question": "Cathy O'Neil'in 'Weapons of Math Destruction' adlı eserinde de vurguladığı üzere, yapay zeka modellerindeki hatalı, aldatıcı veya adaletsiz karar verme süreçlerinin temel kaynağı nedir?",
+    "ground_truth": "Algoritmanın kendisinden ziyade, hatalı, yanlı veya yanlış temsil edilen veri girdilerinin (veri setlerinin) kullanılmasıdır.",
+    "source_file": "m44.md",
+    "source_section": "## Makine Öğrenmesi"
+  },
+  {
+    "question": "Sağlık ve tıp gibi kritik alanlarda, YZ modellerinin ürettiği kararların güvenilirliğini, hesap verebilirliğini ve hekimler tarafından kabul edilebilirliğini artırmayı amaçlayan 'Açıklanabilir Yapay Zeka' (Explainable AI) kavramı ne tür bir şeffaflık önerir?",
+    "ground_truth": "Kapalı bir çerçeve olsa dahi, sistemin yalnızca bir sonuç üretmesi değil, aynı zamanda bu sonuçlara neden ulaştığına dair yeterince makul, şeffaf bir açıklama ve izlenebilirlik sunmasını önerir.",
+    "source_file": "m44.md",
+    "source_section": "## Açıklanabilir ve Etik Yapay Zeka"
+  },
+  {
+    "question": "Türkiye Cumhuriyeti'nde yapay zekanın veri analitiği, ekonomik ve beşeri alanlardaki katma değerini artırmak amacıyla 2021-2025 yıllarını kapsayan dönem için hazırlanan strateji belgesinin adı nedir?",
+    "ground_truth": "'Ulusal Yapay Zekâ Stratejisi' belgesidir.",
+    "source_file": "m44.md",
+    "source_section": "## Yükselen Değerler: Veri ve Yapay Zeka"
+  },
+  {
+    "question": "Tıp eğitiminde kanıta dayalı tıp uygulamalarının altın standart olduğu düşünüldüğünde, YZ'nin doktorların klinik bilgilerinin güncel kalmasına ve klinik değerlendirmelerine sağladığı en büyük katkı nedir?",
+    "ground_truth": "Yayınlanmış çok sayıda tıbbi araştırmaya ve elektronik tıbbi kayıtlara otomatik olarak çok kısa sürede erişip analiz ederek hekime ayırıcı tanı ve klinik değerlendirme aşamalarında katkı sağlamasıdır.",
+    "source_file": "m44.md",
+    "source_section": "## Tıpta Yapay Zeka"
+  },
+  {
+    "question": "IBM tarafından desteklenen ve dünya satranç şampiyonu Garry Kasparov'u yenmeyi başaran ilk yapay zeka programı hangisidir ve başarısının arkasındaki temel teknik yaklaşım nedir?",
+    "ground_truth": "Deep Blue yapay zekasıdır; başarısının arkasındaki yaklaşım, eski oyun bilgilerinden oluşan bir veritabanı üzerinde bilgisayar bilimcilerinin geliştirdiği arama algoritmalarını birleştirerek aramalar gerçekleştirmesidir.",
+    "source_file": "m45.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "2048 oyununda, oyun tahtası üzerinde oluşabilecek tüm olası durumların sayısı teorik olarak kaçtır ve oyundaki stokastik yapı ile birlikte bu oyunun zorluğunun temel kaynağı nedir?",
+    "ground_truth": "Oyun tahtasında oluşabilecek durumların sayısı 12^16'dır; aksiyon sayısının az olmasına rağmen çok fazla durumun bulunması ve stokastik yapı zorluğun temel kaynağıdır.",
+    "source_file": "m45.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "2048 oyununun skor değerini hesaplayan 'Algoritma 1'de, bir satır ve sütundaki hücrelerin değerine göre derece parametresi hangi matematiksel fonksiyonla hesaplanır ve toplam skora nasıl eklenir?",
+    "ground_truth": "Derece, log2(deger) şeklinde hesaplanır; toplam skora ise deger * (derece - 1) eklenir.",
+    "source_file": "m45.md",
+    "source_section": "## MATERYAL VE METOT"
+  },
+  {
+    "question": "Monte Carlo Ağaç Arama (MCTS) algoritmasının 4 temel yinelemeli aşaması sırasıyla hangileridir?",
+    "ground_truth": "Seçim (Selection), Genişletme (Expansion), Simülasyon (Simulation) ve Geri yayılım (Backpropagation) aşamalarıdır.",
+    "source_file": "m45.md",
+    "source_section": "## Monte Carlo Ağaç Arama (Monte Carlo Tree Search)"
+  },
+  {
+    "question": "2048 oyununun stokastik yapısını minimize etmek amacıyla MCTS ile birlikte kullanılan, genetik ve evrimsel algoritmalarda seçim karmaşıklığını O(N)'den O(1)'e indiren olasılık tabanlı seçim yönteminin adı nedir?",
+    "ground_truth": "Rulet tekerleği (Roulette wheel) yöntemidir.",
+    "source_file": "m45.md",
+    "source_section": "## Monte Carlo Ağaç Arama (Monte Carlo Tree Search) Algoritmasının Uygulanması"
+  },
+  {
+    "question": "2048 oyununda Q-öğrenme algoritmasının 2x10^5 iterasyon boyunca eğitilmesine rağmen kayda değer bir öğrenme gerçekleştirememesinin ve yetersiz kalmasının temel sebebi nedir?",
+    "ground_truth": "Oyun tahtası üzerinde keşfedilecek çok fazla durum (12^16) bulunması ve oynatılan oyunlarda bu durumların sadece çok küçük bir bölümünün (16x10^6) tespit edilebilmiş olmasıdır.",
+    "source_file": "m45.md",
+    "source_section": "## BULGULAR VE TARTIŞMA"
+  },
+  {
+    "question": "Türkiye'de 1975 yılından itibaren göç eden nüfus yerleşim yerlerine göre sınıflandırıldığında, kentten kente ve köyden kente göç edenlerin toplam göçmenler içerisindeki payı yaklaşık yüzde kaçtır?",
+    "ground_truth": "%75'inden daha fazlasını oluşturmaktadır.",
+    "source_file": "m46.md",
+    "source_section": "## 1.1. Türkiye'de Göç ve İşsizlik"
+  },
+  {
+    "question": "Yamak ve Yamak (1999) tarafından yapılan çalışmaya göre, net göç alan illere gelen her 100 kişiden kaçı ekonomik gerekçelerle daimi ikametgâhını değiştirmiştir?",
+    "ground_truth": "70'i ekonomik nedenlerle değiştirmiştir.",
+    "source_file": "m46.md",
+    "source_section": "## 1.1. Türkiye'de Göç ve İşsizlik"
+  },
+  {
+    "question": "Makine öğrenmesinde öğrenme stratejileri arasından danışmanlı, danışmansız ve pekiştirmeli öğrenme yöntemleri dikkate alındığında; sınıflandırma, regresyon, kümeleme ve Markov karar işlevleri sırasıyla hangi strateji kapsamında yer alır?",
+    "ground_truth": "Sınıflandırma ve regresyon danışmanlı öğrenme; kümeleme danışmansız öğrenme; Markov karar işlevleri ise pekiştirmeli öğrenme kapsamında yer alır.",
+    "source_file": "m46.md",
+    "source_section": "## 1.2. KOrtalamalar Algoritması"
+  },
+  {
+    "question": "R programlama diliyle RStudio ortamında gerçekleştirilen bu çalışmada, illerin benzerlik/farklılık analizlerinde TÜİK'e ait hangi yıllar arasındaki net göç, net göç oranı ve işsizlik oranı verilerinden yararlanılmıştır?",
+    "ground_truth": "2008-2013 yılları arasındaki verilerden yararlanılmıştır.",
+    "source_file": "m46.md",
+    "source_section": "## 2. VERİ VE BULGULAR"
+  },
+  {
+    "question": "K-Ortalamalar modelinin performans değerlendirmesinde küme içi uzaklık kareleri toplamı w, kümeler arası uzaklık kareleri toplamı b olmak üzere, modelin optimum sonuç vermesi için w/b oranının nasıl bir eğilim sergilemesi beklenir?",
+    "ground_truth": "Bu oranın sıfıra yaklaşması beklenir.",
+    "source_file": "m46.md",
+    "source_section": "## 2.2. Kümeleme Sonuçları ve Model Performansı"
+  },
+  {
+    "question": "Yapılan K-Ortalamalar kümeleme analizi neticesinde, net göç veri seti ve işsizlik veri seti için sırasıyla hangi k (küme sayısı) değerlerinde optimum performansa ulaşılmıştır?",
+    "ground_truth": "Net göç veri seti için k=12, işsizlik veri seti için k=11 değerlerinde optimum performansa ulaşılmıştır.",
+    "source_file": "m46.md",
+    "source_section": "## 2.2. Kümeleme Sonuçları ve Model Performansı"
+  },
+  {
+    "question": "Çoklu ajan mimarileri üzerine kurulu LangChain, LangGraph ve CrewAI gibi orkestrasyon mekanizmalarının ekosistemdeki temel işlevi nedir?",
+    "ground_truth": "Ajanlar arasındaki etkileşimi, görev akışını ve durum yönetimini koordine eden üst katmanlar olarak işlev görmektir.",
+    "source_file": "m47.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Russell ve Norvig (2016) perspektifinde otonom bir yazılım veya donanım varlığı olan 'yapay zekâ ajanı'nın temel işleyiş tanımı nasıldır?",
+    "ground_truth": "İçinde bulunduğu çevreden algılayıcılar aracılığıyla veri toplayan, bu verileri içsel temsil ve akıl yürütme mekanizmalarıyla işleyerek belirli hedeflere yönelik eylemler üreten otonom bir varlıktır.",
+    "source_file": "m47.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Piccialli vd. (2025) tarafından modern yapay zekâ ajanları için tanımlanan döngüsel mimarideki dört temel akış sırasıyla hangileridir?",
+    "ground_truth": "Kullanıcı-ajan etkileşimi, algılama, akıl yürütme ve eylem üretimidir.",
+    "source_file": "m47.md",
+    "source_section": "## Yapay Zeka Ajanların Temel Bileşenleri"
+  },
+  {
+    "question": "Modern agentic yapıların düşünme ve planlama aşamasında mantıksal ve daha yapılandırılmış bir plan oluşturmak için kullandığı gelişmiş akıl yürütme yöntemleri nelerdir?",
+    "ground_truth": "ReAct, Tree-of-Thought, Reflection veya Graph-of-Thought yöntemleridir.",
+    "source_file": "m47.md",
+    "source_section": "## Düşünme ve Planlama"
+  },
+  {
+    "question": "Şekil 5'te tasvir edilen 'Orkestra Mimarisi' kapsamında görev paylaşımı yapan ve dağıtık çalışan sistemin 3 ana bileşeni hangileridir?",
+    "ground_truth": "Orkestratör, LLM Ajanları ve Sentezleyicidir.",
+    "source_file": "m47.md",
+    "source_section": "## YAPAY ZEKÂ AJAN EKOSİSTEMİ: MİMARİLER , AKIL YÜRÜTME YAKLAŞIMLARI, ORKESTRASYON MEKANİZMALARI, ÇOKLU AJAN MİMARİLERİ VE İŞ AKIŞI ENTEGRASYONLARI"
+  },
+  {
+    "question": "İş akış otomasyon yazılımlarından self-hosted çalışan n8n ile no-code bulut tabanlı bir otomasyon platformu olan Make (Integromat) arasındaki temel fark nedir?",
+    "ground_truth": "n8n kendi sunucularında veya veri merkezlerinde çalıştırılarak (self-hosted) donanım, güvenlik ve veri gizliliği üzerinde tam kontrol sağlarken; Make, sürükle-bırak görsel arayüzüne sahip bulut tabanlı bir otomasyon platformudur.",
+    "source_file": "m47.md",
+    "source_section": "## n8n"
+  },
+  {
+    "question": "Karakter tabanlı LSTM modeli kullanılarak yürütülen bu deneysel araştırmada, hiperparametrelerin etkisini incelemek üzere hangi veri seti ve kaç satırlık bir sürüm tercih edilmiştir?",
+    "ground_truth": "140873 satırlık İngilizce-Türkçe çeviri (sözlük) veri seti tercih edilmiştir.",
+    "source_file": "m48.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "LSTM tabanlı doğal dil işleme modelinin performans optimizasyonunda kullanılan 5 temel hiperparametre hangileridir?",
+    "ground_truth": "Gizli boyut (latent dimension), öğrenme hızı (learning rate), devir sayısı (epoch), yığın boyutu (batch size) ve düşürme oranıdır (dropout rate).",
+    "source_file": "m48.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Yapılan analizlere göre, LSTM modelinin doğruluk oranı ve kayıp değerleri üzerinde tek başına en belirgin ve en önemli etkiye sahip olan hiperparametre hangisidir?",
+    "ground_truth": "Öğrenme hızıdır (learning rate / öğrenme oranı).",
+    "source_file": "m48.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Hiperparametrelerin doğruluk ve kayıp üzerindeki tekli etkileri incelendiğinde; yığın boyutu (batch size) ve düşürme oranının (dropout rate) artırılması model performansını nasıl etkilemiştir?",
+    "ground_truth": "Model performansını ve model doğruluğunu olumsuz/negatif yönde etkilemiştir.",
+    "source_file": "m48.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Çalışmada veri setindeki örnek sayısı 1000 iken hiperparametreler arasında anlamlı bir etkileşim gözlenmezken, örnek boyutu 10000'e yükseltildiğinde nasıl bir değişim saptanmıştır?",
+    "ground_truth": "Hiperparametreler arasında önemli derecede etkileşim olduğu gözlenmiştir; bu da veri seti boyutunun değişmesinin hiperparametre davranışlarını önemli derecede değiştirdiğini göstermektedir.",
+    "source_file": "m48.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Örnek sayısının 10000 olduğu durumda; öğrenme oranı 0.01'de tutulurken düşürme oranının 0.2'den 0.4'e yükseltilmesinin doğruluk değerini çok önemli derecede düşürmesi, bu iki hiperparametrenin nasıl bir etkiye sahip olduğunu gösterir?",
+    "ground_truth": "Bu iki hiperparametrenin doğruluk değeri üzerinde antisinerjik bir etkiye sahip olduğunu gösterir.",
+    "source_file": "m48.md",
+    "source_section": "## 2.2. Deneysel Sonuçlar"
+  },
+  {
+    "question": "Uysal (31) tarafından yapılan tanıma göre, veri tabanı ile basit bir veriler yığını arasındaki en temel fark nedir?",
+    "ground_truth": "Veri tabanının sadece veriler yığınını değil, bunlar arasındaki ilişkileri de saklamasıdır.",
+    "source_file": "m49.md",
+    "source_section": "## Veri Tabanı ve Veri Tabanı Yönetim Sistemi"
+  },
+  {
+    "question": "Şirket içi operasyonel verilerle dışarıdan elde edilen envanter, müşteri memnuniyeti gibi farklı verilerin bütünleştirilerek stratejik seviyede karar destek sistemleri için tek bir ana kaynakta birleştirildiği ortama ne ad verilir?",
+    "ground_truth": "Veri ambarı (data warehouse) adı verilir.",
+    "source_file": "m49.md",
+    "source_section": "## Veri Ambarı"
+  },
+  {
+    "question": "Kağıt üzerindeki dokümanlar, e-postalar, web sayfaları, sesler, fotoğraflar veya video kayıtları gibi belirli bir veri tabanı tablosunda satır ve sütunlar halinde depolanmayan veri türlerine ne ad verilir?",
+    "ground_truth": "Yapılandırılmamış veri adı verilir.",
+    "source_file": "m49.md",
+    "source_section": "## Veri Ambarı"
+  },
+  {
+    "question": "Francis X. Diebold'a göre, literatürde 'büyük veri' (big data) kavramını ilk kez 1998 yılında 'Big Data and the Next Wave of InfraStress' isimli sunumunda kullanan Silicon Graphics (SGI) uzmanı kimdir?",
+    "ground_truth": "John Mashey'dir.",
+    "source_file": "m49.md",
+    "source_section": "## Büyük Veri Kavramı"
+  },
+  {
+    "question": "Büyük veri altyapılarında kullanılan ETL sürecinin açılımı ve bu sürecin üç temel aşaması Türkçe anlamlarıyla birlikte nelerdir?",
+    "ground_truth": "Extraction, transforming ve load (ETL) olup; verilerin dış kaynaklardan alınması (extraction), temizlenip belli bir formata dönüştürülmesi (transforming) ve veri tabanına yüklenmesi (load) işlemleridir.",
+    "source_file": "m49.md",
+    "source_section": "## Nesnelerin İnterneti"
+  },
+  {
+    "question": "Almanya Futbol Federasyonu (DFB) ile SAP'nin 2014 Dünya Kupası'nda oyuncu performans analizlerini gerçekleştirmek üzere birlikte geliştirdiği ve büyük veriyi akıllı kararlara dönüştüren sistem hangi platform üzerinde çalışmaktadır?",
+    "ground_truth": "SAP HANA platformu üzerinde çalışmaktadır.",
+    "source_file": "m49.md",
+    "source_section": "## Dünya Kupası 2014 Brezilya (World Cup 2014 Brazil)"
+  },
+  {
+    "question": "Bu araştırmada makinelerin kendi dili için kelime türetmesini sağlayan yaklaşım geliştirilirken, Kaggle açık veri deposunda yer alan hangi ses veri seti kullanılmıştır?",
+    "ground_truth": "'Audio Cats and Dogs' (kedi ve köpek sesleri) veri seti kullanılmıştır.",
+    "source_file": "m50.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "Doğal dil işleme (NLP) çalışmalarının tarihsel başlangıcı olarak kabul edilen 'Makineler düşünebilir mi?' savını 'Makine ve Zeka' makalesinde ortaya koyan bilim insanı kimdir?",
+    "ground_truth": "Alan Turing'dir.",
+    "source_file": "m50.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Çalışmada makinenin kendi alfabesini tercih etmesi için yürütülen bin iterasyonlu deneysel süreçte; Latin, Kiril, Arap, İbrani gibi alfabeler arasından 0.17 ağırlık değeriyle makine tarafından hangi alfabe tercih edilmiştir?",
+    "ground_truth": "Latin alfabesi tercih edilmiştir.",
+    "source_file": "m50.md",
+    "source_section": "## Deneysel Çalışmalar"
+  },
+  {
+    "question": "Görüntü işlemede kullanılan CNN mimarisi ile ses işlemede kullanılan LSTM algoritmalarının birlikte kullanıldığı bu modelde; ses dosyası görüntüsü (Spektrogram/MFCC) üzerindeki x ekseni, y ekseni ve piksel değerleri sırasıyla hangi değişkenleri temsil etmektedir?",
+    "ground_truth": "X ekseni zamanı, y ekseni frekansı, piksel değerleri ise genliği temsil etmektedir.",
+    "source_file": "m50.md",
+    "source_section": "## Deneysel Çalışmalar"
+  },
+  {
+    "question": "Çalışmada elde edilen bulgular doğrultusunda, önerilen CNN ve RNN-LSTM destekli model ile Kaggle Cats and Dogs veri setinde elde edilen en yüksek doğruluk oranı ve kayıp değeri sırasıyla kaçtır?",
+    "ground_truth": "Doğruluk oranı 0.9151 (veya %91) ve kayıp oranı 0.2358'dir.",
+    "source_file": "m50.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Makinenin kelime türetme deneylerinde; kedi sesine en yakın üretilen ses 'QTKP' karakterleriyle elde edilirken, köpek sesine en fazla benzerliği olan ses hangi karakterler ile üretilmiştir?",
+    "ground_truth": "'XOXO' karakterleri ile üretilmiştir.",
+    "source_file": "m50.md",
+    "source_section": "## Tartışma ve Sonuç"
+  }
+]
