@@ -1,9 +1,5 @@
 ## YEREL YÖNETİŞİM, KATILIM VE KENT KONSEYLERİ
 
-## LOCAL GOVERNANCE, PARTICIPATION AND CITY ASSEMBLIES
-
-M. Akif ÇUKURÇAYIR * H. Tuğba EROĞLU ** Hayriye SAĞIR ***
-
 ## Özet
 
 Çağdaş demokrasiler, temsili demokrasilerin yetmezlik sorununu katılımcı mekanizmalar üreterek çözmek için büyük çaba harcamaktadırlar. Çağdaş demokratik rejimlerde  başta  yurttaş  girişimleri,  yarı  doğrudan  demokrasi,  planlama  kurumları, yurttaş  forumları,  toplumsal  örgütlenmeler,  elektronik  oylama  ve  katılım  ortamları, çağrı merkezleri, şikayet büroları ve kamuoyu  yoklamaları olmak üzere birçok mekanizmadan yararlanılmaktadır.
@@ -15,28 +11,6 @@ Bu mekanizmaların kullanılmasının üç önemli amacı olduğu belirtilebilir
 3. Meşru,  açık,  hakça  ve  daha  da  önemlisi  hesap  verebilir/denetlenebilir,  bir yönetim sisteminin başarılması, dolayısıyla yerel kamu hizmetlerinde etkinlik ve verimlilik artışının sağlanması.
 
 Son  reformlar  sonucunda  5393  sayılı  Belediye  Yasası  ile  belediyeler  yeni birtakım görevler ve yetkilerle donatılmıştır. Bu yetkilerden birisi de kent konseylerinin oluşturulması konusunda verilen yetkidir. Kent konseyi, kent yaşamında; kent vizyonunun ve hemşehrilik bilincinin geliştirilmesi, kentin hak ve hukukunun korunması, sürdürülebilir kalkınma, çevreye duyarlılık, sosyal yardımlaşma ve dayanışma, saydamlık, hesap sorma ve hesap verme, katılım ve yerinden yönetim ilkelerini hayata geçirmeye  çalışır.  Bu  bağlamda  bu  sürecin  nasıl  oluşturulduğu  ve  sürdürüldüğü; belediyelerin  bu  süreci  tamamlayıp  tamamlamadığı;  'Kent  Konseyi'  mekanizmasının beklentileri  karşılayıp  karşılamadığı  ve  son  olarak,  etkin  bir  model  ve  uygulama  için nelerin  revize  edilmesi  ve  eklenmesi  gerektiğinin  alan  araştırmalarıyla  belirlenmesi  ve analiz edilmesi gerekmektedir. Anahtar Kelimeler: Kent Konseyleri, Katılım, Yerel Demokrasi, Yönetişim, Etkinlik
-
-♦Bu makale TÜBİTAK-SOBAG 109K441 nolu 'Yerel Demokrasi Mekanizması Olarak Kent Konseyleri: Kuruluş, Etkinlik ve İşlevsellik Sorunlarının Analizi ve Bir Model Önerisi' başlıklı proje temel alınarak hazırlanmıştır.
-
-* Prof. Dr., Selçuk Üniversitesi İktisadi ve İdari Bilimler Fakültesi Kamu Yönetimi Bölümü, akifcukurcayir@gmail.com, acukurcayir@selcuk.edu.tr
-
-** Yrd. Doç. Dr., Selçuk Üniversitesi İktisadi ve İdari Bilimler Fakültesi Kamu Yönetimi Bölümü, hteroglu@gmail.com, hteroglu@selcuk.edu.tr
-
-*** Arş. Gör., Selçuk Üniversitesi İktisadi ve İdari Bilimler Fakültesi Kamu Yönetimi Bölümü, hayriyesamur@hotmail.com, hayriyesamur@selcuk.edu.tr
-
-## Abstract
-
-Modern democracies are striving for to solve the insufficency problem of the representative  democracies  by  composing  participant  mechanisms.  To  solve  this problem which is identified as 'legitimation crisis'  in democracies, participation seems to be the way through this complexity. Modern democratic regimes; too many different mechanism  such  as  citizen  initiatives,  semi-direct  democracy,  planning  institutions, citizen forums, comunity  organizing, e-voting and  e-participation platforms, call centers, complaints office and public opinion polls are used. It  can  be  denoted  that  the  using  of  those  mechanisms  have  three  important aims:
-
-1. To achive learning and perpetuating of the democratic culture
-2.  To  sustain  the  local  development  with  an  interactive  method  via  the 'contributions  of  politics,  administration,  private  sector,  non-governmental organizations  and  citizens;  thus,  to  compose  a  stronger  local  development mechanism.
-3.  To  achieve  a  licit,  open,  just    and  especially  accountable  administration system; thus, to increase efficiency and effectiveness in local public services.
-
-By  reason  of  the  latest  reforms,  with  the  Municipal  Code  no.  5393,  the municipalities have endowed with certain authorities and duties. One of them  is the authority to constitute city assemblies. The city assembly aims to develop urban vision and citizentry conscious, to protect urban benefit, to realize sustainable development, sensibility  to  environment,  solidarity,  transparency,  accountability,  participation  and local government principles. In this context, it is a must to clarify how the process was designed  and  sustained,  whether  it  has  completed  by  the  municipalities  or  not, whether  'the  city  assembly'  mechanism  meets  the  needs    or  not  and  finally  for  an efficient model and application what has to be revised and added are the points that need to be analysed by the field surveys
-
-## Keywords:
-
-City Assemblies, Participation, Local Democracy, Governance, Efficiency
 
 ## Giriş
 
@@ -306,9 +280,3 @@ Kent konseyleri müzakereci/diyalojik/katılımcı demokrasinin yerel düzeyde h
 - -Kent konseyleri kenti koruyan ve geliştiren mekanizmalar olarak görülmelidir. Bu nedenle  yerel medya olanaklarıyla bu içeriğin kamuoyuna aktarılması gerekmektedir.
 
 Kent  Konseyi  mekanizmasının  Türkiye'nin  sosyo-ekonomik,  sosyo-kültürel  ve siyasal  koşullarında  ne  ölçüde  gerçekçi  olduğunun;  atıl  bir  kurumsallaşma  mı  yoksa işlevsel demokratik bir mekanizma mı olduğunun belirlenmesi' amacıyla yürütülen bu araştırma  sonuçlarına  göre;  kent  konseylerinin  gerekliliği;  kent  konseylerinin  yasal statüsünün  yetersizliği;  belirli  bir  bütçe  ayrılması  gerektiği;  kentin  tamamının  temsil edilmesi;  kent  konseyleri  ile  ilgili  bilgi  karmaşası  ve  belirsizliğinin  çok  yüksek  olduğu; merkezi,  yerel  ve  akademik  kurum  ve  kuruluşlardan  yeterince  destek  alınmadığı; kurumsallaşmanın çok fazla zaman aldığı konusunda önemli bir uzlaşı ortaya çıkmıştır.
-
-## Kaynakça
-
-Acar,  M.  (2003),  'Yerel  Yönetimler  ve  Sivil  Toplum  Kuruluşları:  İlişkiler  ve  Etkileşimler', Yerel  ve Kentsel Politikalar , ( Ed. M. A. Çukurçayır ve A. Tekel), Çizgi Kitabevi, Konya. Bernotat, I. (1982), 'Planungsbeteiligung als Instrument politischer Sozialisation', in: Bürgerbeteiligung, Von der Theorie zur Handlungsorientirung, Detlef Garbe(Hrsg.), Verlag Peter Lang, Frankfurt am Main. Budaes, D.,  Grüning G. (1997), Kommunitarismus- eine Reformperspektive?, Opladen. Çukurçayır, M. A., Eroğlu, H. T. (2008), 'Kamu Yönetiminde Demokratik Açılım Olarak Kent Konseyleri', 1. Ulusal Yerel Yönetimler Sempozyumu Bildiriler Kitabı , Sakarya, ss. 197-219. Gabriel  W.  O.  (1983),  'Gesellschaftliche  Modernisierung,  Politische  Beteiligung  und  Kommunale Demokratie,  Strukturen,  Bedingungen  und  Folgen  bürgerschaftlicher  Beteligung  an  der  Kommunalen  und Nationalen  Politik',  in:  Oscar  W.  Gabriel  (Hrsg.), Bürgerbeteiligung  und  Kommunale  Demokratie ,  Minerva Publikation, München. Goss, S. (2001), Making Local Governance Work, Networks, Relationships and the Management of Change, Palgrave Macmillan, Newyork. Göymen, K. (2010), Türkiye'de Yerel Yönetişim ve Yerel Kalkınma , Boyut Yayınları, İstanbul. Gündoğan, E. (2010), 'Yönetişim: Kavram, Kuram  ve Boyutları', Yönetişim-Kuram, Boyutlar, Uygulama , Ed. M. A. Çukurçayır vd., Çizgi Kitabevi, Konya. Hill, H. (1996), 'Vergess die Bürger nicht!, in: Ulrich Schückhaus' (Hrsg.), Kommunen in Not- Wege aus der Krise , Schaeffer-Poeschel Verlag, Stuttgart. Keleş,  R.  (1994),  'Yerel  Yönetimlerde  Yeniden  Yapılanma:  Avrupa  ve  Türkiye', Yerel  Yönetimlerde Yeniden Yapılanma Uluslararası Konferansı , Türk Belediyecilik Derneği Yayını, Ankara. Kösecik, M. (2010), 'Türk Yerel Yönetim Sistemi Açısından Avrupalılaşma ve Çok Düzlemli Yönetişim', Yönetişim-Kuram, Boyutlar, Uygulama , Ed. M. A. Çukurçayır vd., Çizgi Kitabevi, Konya. Lijphart, A. (1986), Çağdaş Demokrasiler , Çev. E. Özbudun ve E. Onulduran, TDV ve SİD Ortak Yayını, Ankara. Magnaghi,  A.  (2005), The  Urban  Village,  A  Charter  for  Democracy  and  Local  Self-Sustainable Development , Zed Books, London, Newyork. Mutlu, A. (2010), Kentli Hakları ve Türkiye, Çizgi Kitabevi, Konya. Palabıyık,  H.  (2003),  'Yönetimden  Yönetişime:  Yönetişim,  Kentsel  Yönetişim  ve  Uygulamaları  ile Yönetişimde Ölçülebilirlik Üzerine Açıklamalar', Yerel ve Kentsel Politikalar , Ed. M. A. Çukurçayır ve A. Tekel, Çizgi Kitabevi, Konya. Pektaş,  E.  K./Koçak,  H.  (2007),  'Bir  Yerel  Katılım  Aracı  Olarak  Kent  Konseyleri  ve  Afyonkarahisar Belediyesi Kent Konseyi Örneği', Küresel Esintiler Yerel Etkiler Sarmalında Türk Kamu Yönetimi, Ed. Abdullah Yılmaz, Yavuz Bozkurt, Gazi Kitabevi, Ankara. Plamper, H. (2000), Bürgerkommune, Hansböckler Stiftung, Düsseldorf. Ray,  B.  (1999),  'Good  Governance,  Administrative  Reform  and  Socio-Economic  Realities-  A  South Pacific Perspective', International Journal of Social Economics, Vol. 26, No: 1/2/3. Shehrin, P. K. (2010), 'Kent Yönetimi ve Planlamada Yönetişim', Yönetişim, Ed. Çukurçayır, M. A. vd., Çizgi Kitabevi, Konya. Steinberg, C. (1996), Reengineering Kommunaler Unternehmen, Schaefer Poeschel Verlag, Stuttgart. Tekeli, İ. (2006), Katılımcı Demokrasi ve Sivil Toplum Kuruluşları , 2. Baskı, Sosyal Demokrasi Derneği Yayınları-1, Ankara. Turgut, K. (2010), 'Belediyelerde İyi Yönetişime İlişkin Düzenlemeler ve Uygulamalar', Yönetişim , Ed. Çukurçayır, M. A. vd., Çizgi Kitabevi, Konya. Sektors',
-
-Von Lucke, J.,  Geiger,  C.  P.  (2010)  'Open  Government  Data  Frei  verfügbare  Daten  des  öffentlichen http://www.zeppelin-university.de/deutsch/lehrstuehle/ticc/TICC-101203-OpenGovernmentDataV1.pdf., (24.03.2011)

@@ -1,22 +1,10 @@
 ## YEREL YÖNETİMLERDE KAMU HİZMETLERİNİN SUNUMUNDA KATILIMCI YÖNETİŞİMİN ROLÜ
 
-## Mahmut DOĞAN 1 Ali YEŞİLDAL 2
-
 ## ÖZ
 
 Son yıllarda vatandaşların kent yönetimine katılımını artırmaya dönük çeşitli çalışmalar söz konusudur. Çünkü kent  yönetimine  katılım  kamu  bilincinin  artırılması  ve  yerel  yönetimlere  olan  güvenin  sağlanmasında  çok önemlidir. Katılım, insanların beceri ve ilişkilerindeki eksikliklerini gidererek kendilerini daha iyi bir şekilde yönetmelerini sağlar. Katılımın niceliği ve niteliği arttıkça vatandaşların güveni ve yaşam kalitesi de gelişiyor. Yerel  kararlara  katılım  veya  karar  verme  olarak  bilinen  katılımcı  yönetişim,  sorunların  analizi,  stratejilerin geliştirilmesi ve çözümlerin uygulanmasında paydaşların bir organizasyonun tüm düzeylerine katılımını teşvik eder. Yerel yönetimlerde katılımcı yönetişimin başarısı dikkatli planlamaya ve aşamalı bir yaklaşıma bağlıdır. Kamu  hizmetlerinin  sunumunda  yönetişimin  rolü  bağlamında  yerel  yönetimlerin  etkisini  artırma,  kamu hizmetleri  sağlama,  planlama  ve  yönetme  yetkisi  ile  yerel  ekonomik  kalkınma  temel  hususlar  olarak görülmektedir.  Bunlar,  yerel yönetimlerin  katılımcı yönetişim  ve  yenilikçi  sürdürülebilir  uygulamalar geliştirmesi için stratejik unsurlardır. İnsanların katılımı, yerel yönetimin başarısına ve refahına katkıda bulunan önemli  bir  faktör  olarak  kabul  edilir.  İnsanların  yerel  yönetime  katılımı  iyi  sonuçlar  üretmekle  kalmayıp katılımcı  yönetişimi  daha  cazip  hâle  getirmektedir.  Bu  çalışmada,  yerel  yönetimlerin,  katılımcı  yönetişim yaklaşımı çerçevesinde; yerel halkın ve sivil toplum işbirliğini teşvik eden, katılımcı bir yönetim anlayışı ile kamu hizmeti sunumundaki rolünün ortaya çıkarılması, geliştirilmesi ve yerleşmesi yönünde adımlar atılması amaçlanmaktadır.
 
 Anahtar Kelimeler : Yerel Yönetimler, Katılım, Yönetişim, Katılımcı Yönetişim
-
-## THE ROLE OF PARTICIPANT GOVERNANCE IN SERVICE DELIVERY OF PUBLIC SERVICES IN LOCAL GOVERNMENTS
-
-## ABSTRACT
-
-In recent years, there are various studies aimed at increasing participation of citizens in the city administration. Because participation in city administration is very important in raising public awareness and providing trust to local governments. Participation helps people manage themselves better by eliminating their inadequacies in skills and relationships. As the quantity and quality of participation increases, so does the trust and quality of life  of  citizens.  Participant  governance,  known  as  participation  or  decision-making  in  local  decisions, encourages stakeholder participation at all levels of an organization in the analysis of problems, the development of strategies and the implementation of solutions. The success of participant governance in local governments depends on careful planning and a phased approach. In the context of the role of governance in the delivery of public  services,  the  authority  to  increase  the  influence  of  local  governments,  provision  of  public  services, planning and management and local economic development are seen as the main issues. These are strategic elements  for  local  governments  to  develop  participatory  governance  and  innovative  sustainable  practices. Citizens' participation is  considered an important factor contributing to the success and prosperity of local government. Participation of local residents in local government not only produces good results but also makes participant governance more attractive. In this study, within the framework of participant governance approach of local governments; the aim of this study is to find out, develop and settle the role of public service delivery with a participant management approach that encourages cooperation of local people and civil society. Key Words: Local Governments, Participation, Governance, Participant Governance
-
-1 Doç.  Dr.,  Marmara  Üniversitesi,  Siyasal  Bilgiler  Fakültesi,  Siyaset  Bilimi  ve  Kamu  Yönetimi  Bölümü, mahmutdogan@marmara.edu.tr, ORCID: 0000-0002-1432-3682.
-
-2 Dr., Kocaeli Büyükşehir Belediyesi, ayesildal41@gmail.com, ORCID: 0000-0003-0927-7498. Received/Geliş: 31/12/2019 Accepted/Kabul: 06/08/2020, Conceptual Article/Kavramsal Makale Cite as/Alıntı: Doğan, M., Yeşildal, A. (2020), 'Yerel Yönetimlerde Kamu Hizmetlerinin Sunumunda Katılımcı Yönetişimin Rolü', Çukurova Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, cilt 29, sayı 3, s.137-148.
 
 ## Giriş
 
@@ -145,31 +133,3 @@ Yerel yönetim, yerel ekonomik kalkınmaya daha fazla vatandaş katılımını t
 Yerel yönetimler, ilgili sivil toplum ile vatandaşların katılımcı yönetişime ilişkin sorun  ve  ihtiyaçlarının  ve  meşru  taleplerinin  geliştirilmesi  ve  dönüştürülmesi,  ilgi düzeylerinin, şeffaflığın, sürekli iletişimin varlığı ve uyumunu kurmaları gerekmektedir. Ayrıca, onların endişelerini giderme ve etkileşimde bulunmak da önem arz etmektedir. Bu  çerçevede  görevlilerin  farkında  olmaları,  faydalı  bilgi  ve  stratejiler  ile  katılımı kolaylaştırıcı  tasarım  düzenlemeleri  ve  uygulamaları  ile  vatandaş  ve  sivil  toplumdan gelen eleştirileri dikkate almaları önemlidir.
 
 Tüm yöntemlerin güçlü ve zayıf yönleri vardır. Her zaman en revaçta olan yöntemi uygulamak değil, belli bir durum için doğru ve hak olan yöntemi seçmek çok büyük önem arz edecektir. Yeni mevzuat ve düzenlemelerde katılımcı yönetişimi artırmaya yönelik hususlarda toplumun yapısı ve kültürü ile geleneği ihmal edilmeden ve çok taraflı olarak hazırlanmalıdır.
-
-## Kaynaklar
-
-Bayındırlık  Bakanlığı.  (2009). Yerel  Yönetimler,  Katılımcılık  ve  Kentsel  Yönetim, Kentleşme Şurası 2009 , Ankara.
-
-Brett, E.A. (2003). 'Participation and Accountability in Development Management', Journal of Development Studies , 40.
-
-- Gunn,  H.  D. (1995). 'Local  Government's  Role  in  Retaining  Capital  for  Community Economic Development'. Community Development Reports 3(3). CaRDI, Cornell University, Ithaca, N.Y.
-- Kani, A., Ari, N. and Mohammadi, Z. (2015). 'Examine the Role of Urban Management in  the  Development  of  Small  Towns  (Case  Study:  Bandare  Torkeman  City)', Current World Environment , ISSN: 0973-4929, Vol: 10, Issue: Special-Issue1.
-- Kocaoğlu, M. ve Fural, M. (2018). 'Yerel Yönetimlerde Yönetişim Uygulamaları: Serik Belediyesi Örneği', Asia Minor Studies- International Journal of Social Sciences , Cilt: 6, Sayı: Agp özel sayısı, Ekim, Volume: 6, Issue: Agp special issue, October.
-- Korkut, H. (2011). 'Belediyelerde Yönetime Katılma ve Açıklık Algısı: Ümraniye ve Şişli Belediyeleri Örneği' Öneri , C.9.S.36. Temmuz.
-- Lowndes V,  Pratchett  L,  Stoker  G.  (2001).  'Trends  in  Public  Participation:  Part  2Citizens' Perspectives. Public Adm. Rev. 79 (2).
-- Mahmudi, A. M. and Saremi, H. R. (2015). 'The Role of Citizen Participant in Urban Management (Case Study: Aligudarz City)', American Journal of Engineering Research (AJER) e-ISSN: 2320-0847 p-ISSN: 2320-0936 Volume-4, Issue-1.
-- Mohammed,  A.  (2008).  'Governance  in  Practice: Decentralization and People's Participation in the Local Development of Bangladesh', Planning Practice&amp;Research , 28 (5).
-- Mohammadi, S. H., Norazizan, S. and Nikkhah, H. A. (2018). 'Conflicting Perceptions on  Participation  between  Citizens  and  Members  of  Local  Government' Qual Quant , 52 (4).
-- McMillan , A. (t.y.) Participative Management. https://www.referenceforbusiness.com/management/Or-Pr/Participative Management.html Erişim Tarihi: 12.12.2019.
-- Poyraz, E.(2017). 'Yerel Yönetimlerde Siyasal Katılım ve Temsiliyet Sorunsalı Üzerine Bir  Değerlendirme:  Belediye  Meclislerinin  Etkinliği,' Al-Farabi  Uluslararası Sosyal Bilimler Dergisi , Vol.1/1.
-- Rosario, A. H., Martín, A.S. and  Caba-Pérez, M. C.. (2018). 'Using Social Media to Enhance Citizen Engagement with Local Government: Twitter or Facebook?' New Media &amp;Society , Vol. 20, Issue 1 .
-- Schmidt  V.  (2006). Democracy  in  Europe,  the  EU  and  National  Politics ,  Oxford University Press, Oxford.
-- Toprak, Z. (2006). Yerel Yönetimler , Nobel, Ankara.
-
-Ç.Ü. Sosyal Bilimler Enstitüsü Dergisi, Cilt 29, Sayı 3, 2020, Sayfa 137-148
-
-- Tortop, N. Aykaç B, Yayman H, Özer M.A. (1999). 'Batıda Yerel Yönetimlerin Ortaya Çıkışı ve Gelişim Süreci, Türk İdare Dergisi , Yıl: 71.
-- United  Nations  Development  Program  [UNDP]. (2006). Governance  for  the  Future: Democracy and Development in the Least Developed Countries . Dhaka: UNDP.
-- Waheduzzaman,  W.  and  Sharif,  A.  S.  (2015)  'Community  Participation  and  Local Governance in Bangladesh, Australian Journal of Political Science , Volume 50, Issue 1.
-- Williamson, W. and Parolin, B. (2013). 'Web 2.0 and Social Media Growth in Planning Practice: A Longitudinal Study' Planning Practice and Research , 28 (5), 544-562.
-- World Bank. (2007). Bangladesh and India: Strengthening Accountable Local Governance, Washington, DC: World Bank.

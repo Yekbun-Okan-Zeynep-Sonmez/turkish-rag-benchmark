@@ -1,36 +1,10 @@
 ## YENİ BİR SINIFLANDIRMA ÇALIŞMASI OLARAK SOSYAL MEDYA FENOMENLERİNİN PAYLAŞIMDA BULUNDUKLARI İÇERİK TÜRLERİNE GÖRE SINIFLANDIRILMASI: YOUTUBE ÖRNEĞİ
 
-Prof. Dr. Nilüfer SEZER İstanbul Üniversitesi nsezer@istanbul.edu.tr https://orcid.org/0000-0002-2489-1210
-
-Arş. Gör. Zeynep ÖZCAN İstanbul Gelişim Üniversitesi zozcan@gelisim.edu.tr https://orcid.org/0000-0002-5490-4721
-
-Geliş tarihi / Received:
-
-18.11.2020
-
-Kabul tarihi / Accepted:
-
-30.12.2020
-
-DOI:
-
-10.17932/IAU.ICD.2015.006/icd\_v07i1005
-
 ## ÖZ
 
 Web 2.0 ile birlikte ortaya çıkan ve yıllar geçtikçe günümüzdeki halini alan sosyal  medyada  kendilerine  belirlemiş  oldukları  içerik  konseptleri  doğrultusunda paylaşımlarda bulunan sosyal medya fenomenleri, söz konusu paylaşımlarının yer aldığı mecralardaki takipçileri/aboneleri tarafından bilinen, tanınan 'mikroünlü'lerdir. Bu bağlamda, sosyal medya kullanıcıları sosyal medya fenomenlerini, mecranın özelliğine göre takip etmekte ya da kanallarına abone olmaktadır. Sosyal medya fenomenleri, paylaşımda bulundukları mecraya göre, kendilerini takip eden ya da kanallarına abone olan sosyal medya kullanıcılarının sayılarına göre çeşitli sınıflandırmalara tabii tutulmuşlardır. Ancak sosyal medya fenomenlerinin  alanyazında  paylaşımda  bulundukları  içerik  türlerine  göre  herhangi  bir sınıflandırma  bulunmamaktadır.  Bu  araştırmada  sosyal  medya  fenomenlerinin kendilerine  belirlemiş  oldukları  içerik  konseptlerine  göre  paylaşımlarını  nasıl şekillendirdikleri  ve  bu  doğrultuda  paylaşımlarını  nasıl  devam  ettirdikleri  göz önünde bulundurularak en çok kullanılan sosyal medya platformu olan YouTube ve YouTube'daki sosyal medya fenomenleri incelenmiştir. Youtube Türkiye'de en çok takipçiye sahip ilk 20 YouTuber örneklem olarak ele alınmış, belirlenen tarih aralığında paylaşımda bulundukları içerik türleri irdelenmiş ve sosyal medya fenomenlerinin paylaşımda bulundukları içerik türlerine göre bir sınıflandırma gerçekleştirilmiştir.
 
 Anahtar Kelimeler: Sosyal Medya, YouTube, Sosyal Medya Fenomenleri, Sınıf -landırma, Kategorisel Analiz.
-
-Atıf Sezer N. ve Özcan Z. (2021) YENİ BİR SINIFLANDIRMA ÇALIŞMASI OLARAK SOSYAL MEDYA FENOMENLERİNİN PAYLAŞIMDA BULUNDUKLARI İÇERİK TÜRLERİNE GÖRE SINIFLANDIRILMASI: YOUTUBE ÖRNEĞİ. İletişim Çalışma ları Dergisi , 7 (1),109-136
-
-## CLASSIFICATION OF SOCIAL MEDIA INFLUENCERS BY THE TYPES OF CONTENT THEY SHARE AS A NEW CLASSIFICATION: THE YOUTUBE EXAMPLE
-
-## ABSTRACT
-
-Social media phenomenons that emerged with Web 2.0 and shared their current status over the years in various networks in social media, in line with the content concepts they have determined; they are 'micro-celebrities' known and recognized by their followers / subscribers in the channels where their posts take place. Social media users in these channels follow social media phenomenons, follow or subscribe according to the characteristics of the media. Social media phenomena have been classified according to the networks they share, the number of social media users who follow or subscribe to. However, there is no classification in the literature according to the types of content they share. For this reason, in this study, social media phenomenons shape their posts according to the content concepts they have determined and continue to share in this direction. In this study, the top 20 YouTubers with the most followers for YouTube and the social media phenomena in YouTube, which are the most used social media channels, are taken as a sample. It was examined within the scope of the content types they shared within the specified date range. Accordingly, a classification was made of social media phenomenons according to the types of content they shared.
-
-Keywords: Social Media, YouTube, Social Media Influencers, Classification, Ca -tegorical Analysis.
 
 ## GİRİŞ
 
@@ -324,85 +298,3 @@ Araştırmada içerik türleri dahilinde sınıflandırma yapılmıştır. Bu s�
 İçerikleri incelenmek üzere ele alınan YouTube, Türkiye'de en çok takipçiye sahip ilk 20 YouTuber'ın genel olarak içerik türü açısından karma nitelikte (birden fazla  içerik  türünde)  paylaşımlarda  bulunduğu gözlemlenmektedir. 'Oyun Delisi' adlı YouTuber haricinde ele alınan diğer YouTuber'ların bütününde birden fazla içerik türünde paylaşım söz konusudur. Bu paylaşımlardan hareketle de içerik türüne sınıflandırma kapsamında birden fazla sınıfta yer almaktadırlar. Ancak ağırlıklı olarak paylaşımda bulundukları içerik türleri de gözlemlenmektedir.
 
 Çalışmada yer alan tablolar tarafımızdan oluşturulmuştur ve günümüzde oldukça popüler  bir  olgu  haline  gelen  sosyal  medya  fenomenlerine  yönelik  olarak paylaşımda bulunulan içerik türü kapsamında akademik bağlamda herhangi bir sınıflandırma var olmadığı için söz konusu araştırma özgünlük kazanmaktadır ve dolayısıyla çalışmanın alanyazına katkıda bulunması hedeflenmektedir.
-
-## KAYNAKÇA
-
-Alişarlı, Ö. &amp; Eken, İ. (2018). Yeni Medyada Ürün Yerleştirme: Youtube'da Paylaşım Yapan Fenomenler Üzerinden Kampanya Süreci, Uluslararası İletişimde Yeni Yönelimler Konferansı: Eğlence ve Ürün Yerleştirme .
-
-Aslan, A. &amp; Ünlü, D., G. (2016). Instagram Fenomenleri ve Reklam İlişkisi: Instagram Fenomenlerinin Gözünden Bir Değerlendirme, Maltepe Üniversitesi İle -tişim Fakültesi Dergisi , 3(2): 41-65.
-
-Bilgin, N. (2014). Sosyal Bilimlerde İçerik Analizi: Teknikler ve Örnek Çalışma -lar , Ankara: Siyasal Kitabevi.
-
-Binark, M. &amp; Karataş, Ş. (2016). Yeni Medyada Yaratıcı Kültür: Troller ve Ürünleri 'Caps' ler, TRT Akademi, 1(2): 426-448.
-
-Bor, H., M. &amp; Erten, A. (2019). 'Dijital Çağın Mesleği Nasıl Influencer Olunur?. İstanbul: Hürriyet Kitap.
-
-Boyd, D. (2015). Social Media: A Phenomenon to Be Analyzed. Social Media+ Society , 1(1).
-
-Castells,  M.  (2010).  The  Rise  of  the  Network  Society.  United  Kingtom:  Wiley-Blackwell.
-
-Constantinides, E., &amp; Fountain, S. J. (2008). Web 2.0: Conceptual Foundations and Marketing Issues. Journal of Direct, Data and Digital Marketing Practice , 9(3): 231-244.
-
-Dijk, J., V . (2018). Ağ Toplumu . İstanbul: Epsilon Yayınevi.
-
-Freberg, K. &amp; Graham, K. &amp; McGaughey, K. &amp; Freberg, L., A. (2011). Who Are The Social Media İnfluencers? A Study of Public Perceptions of Personality. Public Relations Review, 37(1): 90-92.
-
-Güçdemir, Y. (2017). Sosyal Medya: Halkla İlişkiler, Reklam ve Pazarlama . İstanbul: Derin Yayınları.
-
-Güngör, N. (2016). İletişim: Kuramlar, Yaklaşımlar. Ankara: Siyasal Kitabevi.
-
-Jenkins, H., &amp; Deuze, M. (2008). Convergence Culture, Convergence: The Inter -national Journal of Research into New Media Technologie. , London, Los Angeles, New Delhi and Singapore, 14 (1): 5-12.
-
-Kaplan, A., M. &amp; Haenlein, M. (2010). Users of the World, Unite! The Challenges and Opportunities of Social Media, Business Horizons , 53(1): 59-68.
-
-Kim, W. &amp; Jeong, O., K. &amp; Lee, S., W. (2010). On Social Web Sites, Information Systems , 35(2): 215-236.
-
-Mangold, W., G. &amp; Faulds, D., J. (2009). Social Media: The New Hybrid Element of The Promotion Mix, Business Horizons, 52(4): 357-365.
-
-Marwick, A. &amp; Boyd, D. (2011). To See and Be Seen: Celebrity Practice on Twitter, Convergence, 17(2): 139-158.
-
-Mayfield, A. (2008). 'What is Social Media?'.
-
-Miller, D. &amp; Costa, E. &amp; Haynes, N. &amp; McDonald, T. &amp; Nicolescu, R. &amp; Sinanan, J. &amp; Spyer, J. &amp; Venkatraman, S. &amp; Wang, X. (2016). How The World Changed Social Media. UCL Press , 1.
-
-Nizam, F. &amp; Öztürk, N. S. (2018). Yeni Medyada Tek Tıkla Şöhret Üretimi: İnternet Videolarıyla Gelen Şöhret, Uluslararası İletişimde Yeni Eğilimler Konferansı Eğlence ve Ürün Yerleştirme.
-
-Page, R. (2012). The Linguistics of Self-Branding and MicroCelebrity in Twitter: The Role of Hashtags, Discourse &amp; Communication , 6(2): 181-201.
-
-Pugh, J., L. (2010). A Qualitative Study of The Facebook Social Network: The Desire to Influence, Associate, and Construct A Representative and İdeal Identity, College of Business Administration Honors Program at California State University, Long Beach.
-
-Sabuncuoğlu, A. &amp; Gülay, G. (2014). Sosyal Medyadaki Yeni Kanaat Önderlerinin Birer Reklam Aracı Olarak Kullanımı: Twitter Fenomenleri Üzerine Bir Araştırma, İletişim Kuram ve Araştırma Dergisi, (38).
-
-Safko, L. (2010). The Social Media Bible: Tactics, Tools, and Strategies for Business Success, John Wiley &amp; Sons.
-
-Senft, T., M. (2008). Camgirls: Celebrity and Community in The Age of Social Networks. Peter Lang , 4.
-
-Sezgin, A., A. (2016). Türkiye'de Instagram Fenomenleri: Sosyal Paylaşım Ağlarında İnşa Edilen Yaşamların Kültürel Analizi, Journal of International Social Research ,  9(43).
-
-Solmaz, B. &amp; Tekin, G. &amp; Herzem, Z. &amp; Demir, M. (2013). İnternet ve Sosyal Medya Kullanımı Üzerine Bir Uygulama. Selçuk İletişim , 7 (4).
-
-Tham, D. (2009). Generative Audiences and Social Media. Edith Cowan University Research Online.
-
-Türkmen, N. (2018). Viral Pazarlama ve Türkiye. rıntı Dergisi , 6(62).
-
-Weinberg,  T.  (2009).  The  New  Community  Rules:  Marketing  On  The  Social Web' O'Reilly Media, Inc.
-
-Yaman, E., S. (2018). Ürün Yerleştirmede Yeni Bir Alan: Influencer Marketing Sosyal  Medyada Influencer Annelerin Takipçileri Tarafından  Değerlendirilmesine Yönelik Bir Araştırma. Uluslararası İletişimde Yeni Yönelimler Konferansı Eğlence ve Ürün Yerleştirme.
-
-Yanık, A. (2016). Yeni Medya Nedir Ne Değildir? Journal of International Social Research , 9 (45).
-
-## ELEKTRONİK KAYNAKLAR
-
-URL-1 http://sozluk.gov.tr/ (Erişim Tarihi: 07.2019).
-
-URL-2 https://www.sabah.com.tr/fenomen-ne-demek (Erişim Tarihi: 07.2019).
-
-URL-3  https://www.brandingturkiye.com/twitter-tarihi-twitter-nedir-nasilkullanilir-ne-ise-yarar/ (Erişim Tarihi: 07.2019).
-
-URL-4 https://www.brandingturkiye.com/youtube-nedir-youtube-nasil-kullaniliryoutubeun-ozellikleri-nelerdir/ (Erişim Tarihi: 07.2019).
-
-URL-5 https://www.youtube.com/watch?v=1hHPWd0-npk (Erişim Tarihi: 07.2019).
-
-URL-6 https://www.slideshare.net/DataReportal/digital-2019-turkey-january-2019-v01 (Erişim Tarihi: 07.2019).
-
-- URL-7  https://socialblade.com/youtube/top/country/tr/mostsubscribed (Erişim Tarihi: 01.09.2019).

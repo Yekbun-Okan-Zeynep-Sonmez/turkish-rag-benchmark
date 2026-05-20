@@ -1,42 +1,6 @@
-[www.dergipark.org.tr/tr/pub/kritik](http://www.dergipark.org.tr/tr/pub/kritik)
-
-Acar, N. (2024). Bir kavram analizi: sosyal medya mı, sosyal ağ mı?, Kritik İletişim Çalışmaları Dergisi , 6(1), 241-262.
-
-## BİR KAVRAM ANALİZİ: SOSYAL MEDYA MI, SOSYAL AĞ MI?
-
-A Concept Analysis: Social Media Or Social Networking?
-
-## Nihal ACAR a
-
-Doi: 10.53281/kritik.1483296
-
-a Dr. Öğr. Üyesi, Sivas Cumhuriyet Üniversitesi,Yeni Medya ve İletişim Bölümü, 0000-0003-1552-5654
-
-## MAKALE BİLGİLERİ
-
-## Makale:
-
-Gönderim Tarihi : 13.05.2024
-
-Ön Değerlendirme : 15.05.2024
-
-Kabul Tarihi : 10.06.2024
-
-## Anahtar Kelimeler:
-
-Sosyal Medya, Sosyal Ağ, Kavram Analizi.
-
-## Key Words:
-
-Social Media, Social Network, Concept Analysis.
-
 ## ÖZET
 
 Bilgisayar  ve  internet  teknolojisinin  gelişmesi,  kişilerin  iletişim  kurduğu  araçlarda değişimler  başlatmıştır.  Kişiler,  internet  erişimi  olan  tüm  cihazlardan  etkileşim kurabilmektedir. Sosyal medya, web teknolojisi üzerine kurulmuş bir iletişim aracıdır. Çok farklı kullanım amaçları bulunan sosyal medyanın birden çok türü bulunmaktadır. Sosyal medyanın türlere ayrılmasında web teknolojisinin gelişimi belirleyici olmuştur. Sosyal ağ, sosyal medyanın bilgi paylaşım siteleri, bloglar, mikroboglar, fotoğraf-video paylaşım  siteleri  gibi  alt  türleri  içinde  yer  almaktadır.  web  2.0  üzerine  kurulan  ve karşılıklı etkileşim ile sosyalleşme imkanı sağlayan sosyal ağ, sosyal medyanın en çok kullanılan  türüdür.  Kullanım  oranının  yüksek  olması,  nüfus  yapısının  özellikleri, etkileşim, sosyalleşme, anlık mesajlaşma, paylaşım, gizlilik ile kontrolün kullanıcının denetiminde olması sosyal ağ oluşumlarını hızlandırmıştır. Araştırmacı, alanyazında yer  alan  çalışmalarda  kavramların  tanımına  yönelik  bir  karışıklık  olduğunu  fark etmiştir.  Ayrıca  araştırmacı,  katılım  sağladığı  kongrelerde  de  kavramların  yanlış kullanıldığını gözlemlemiştir. Bu araştırma alanyazında bulunan bu kavram karmaşasını gidermek üzere yapılandırılmıştır. Çalışma, nitel araştırma yöntemlerinden  kavram  analizi  tekniği  ile  inşa  edilmiştir.  Araştırmanın  sonunda kavramların birbirinden farklı olduğu belirlenmiştir. Araştırmacı, gelecekte yapılabilecek çalışmalarda bu konuya özgü incelemelerin yapılmasını önermiştir.
-
-## ABSTRACT
-
-The development of computer and internet  technology  has  initiated  changes  in  the means by which people communicate. People can interact from all devices with internet access.  Social  media  is  a  communication  tool  built  on  web  technology.  There  are multiple  types  of  social  media  with  many  different  uses.  The  development  of  web technology has been decisive in dividing social media into types. Social networking is among the subtypes of social media such as information sharing sites, blogs, microbogs, photo-video sharing sites. Social network, built on web 2.0 and providing the opportunity to socialize through mutual interaction, is the most used type of social media.  The  high  usage  rate,  characteristics  of  the  population  structure,  interaction, socialization,  instant  messaging,  sharing,  privacy  and  control  by  the  user  have accelerated the formation of social networks. The researcher noticed that there was confusion  regarding  the  definition  of  concepts  in  the  studies  in  the  literature.  In addition,  the  researcher  observed  that  the  concepts  were  used  incorrectly  in  the congresses  he  attended.  This  research  was  structured  to  eliminate  this  conceptual confusion  in  the  literature.  The  study  was  constructed  with  the  concept  analysis technique, one of the qualitative research methods. At the end of the research, it was determined that the concepts were different from each other. The researcher suggested that specific studies on this subject should be carried out in future studies. © 2021- e-ISSN 2667-6850
 
 ## GİRİŞ
 
@@ -199,54 +163,3 @@ Araştırmanın bir başka bulgusunda ise sosyal ağın tanımlanmasında gereke
 tanımlamasının etkileşim özelliğine değinilerek açıklandığı belirlenmiştir. Çünkü sosyal ağ, web 2.0 teknolojisinde  ortaya  çıkmıştır.  web  2.0  teknolojisi  de  karşılıklı  iletişimin  gerçekleştirilmesi  için üretilmiştir. Araştırmacının sosyal medya kavramını tanımlarken web 1.0'ın kullanımını tavsiye etmesi de  buradan  kaynaklanmaktadır.  Çünkü  sosyal  medyada  bir  ağ  fikri  bulunmamaktadır.  Sosyal  ağ  ise klasik  ağın,  sanal  ortamdaki  etkileşimli  kısmını  oluşturmaktadır.  Burada  tartışılması  gereken  hangi uygulamaların sosyal ağ olup olmadığıdır. Eğer bir uygulama beğenme, yorum yapma, paylaşma, üretme ve tüketme gibi tüm aktivitelerin yapılmasına imkân tanıyor ve anlık etkileşim, kalıcılık, paylaşımları herkesin  görebilmesini  sağlıyor,  tüm  akış  kolektif  bir  şekilde  oluşturuluyor  ise  buna  sosyal  ağ denilmektedir. Örneğin; X'i bir sosyal ağ olarak tanımlamak zor görünmektedir. Çünkü X'in doğasında etkileşimden  çok  sadece  siyasal  gündeme  ait  bilgilerin  takipçilere  sunulması  amaçlanmaktadır.  Bu platformda yapılan paylaşımlarda karşılıklı bir etkileşimden ziyade bilgi akışının tek bir kullanıcının elinde olması X'i sosyal ağ olmaktan uzak kılmaktadır. Bunun yanında bazı sosyal ağlar Facebook gibi telefon numarası ya da Google hesabı ile üye olmaya izin vermektedir. Sosyal ağlarda gizlilik ayarları da kullanıcının kendisi tarafından yapılmaktadır. Sosyal ağ, araştırma boyunca vurgulanan tüm yönleri ile  sosyal  medyanın  en  özgür  ve  demokratik  uygulamasıdır.  Böylece  Dawley'in  (2009)  sosyal  ağ tanımında yer alan 'kişisellik' özelliğinin bu araştırma sonunda da elde edildiği görülmektedir.
 
 Son olarak araştırmacı yukarıda elde edilen bu sonuçlardan hareketle Boyd ve Ellison (2008), Kane ve diğerleri (2014) ile Lama'nın (2018) önerilerini yinelemekte ve gelecekte yapılabilecek başka araştırmalarda sosyal medya ile sosyal ağ kavramlarının farklı olduğuna yönelik çalışmaların sayısının artırılmasını önermektedir.
-
-## K AYNAKÇA
-
-- Acar,  N.  (2018). Siyasi  eylemlerde  sosyal  medya  örgütlenmesi:  15  Temmuz  darbe  girişimi  ve  demokrasi  nöbetleri [Yayınlanmamış yüksek lisans tezi]. Selçuk Üniversitesi.
-- Acar,  N.  (2024).  Yeni  medya  araştırmalarında  sosyal  ağ  analizi:  "kavramlar,  ölçütler,  yaklaşımlar". İletişim  Bilimi Araştırmaları Dergisi, 4 (2), 167-179.
-- Aghaei, S., Nematbakhsh, M.A. and Farsani, H.K. (2012) Evolution of the World Wide Web: From WEB 1.0 to WEB 4.0. International Journal of Web &amp; Semantic Technology, 3, 1-10.
-- Aichner, T., Grünfelder, M., Maurer, O., &amp; Jegeni, D. (2021). Twenty-five years of social media: A review of social media applications and definitions from 1994 to 2019. Cyberpsychology, Behavior, and Social Networking, 24 (4), 215-222.
-- Ajayi A. A.  &amp; Adeyemo A. B. (2021).  Classification of Social Media Users by Interests and Sentiments using Text Mining Techniques. University of Ibadan Journal of Science and Logics in ICT Research (UIJSLICTR), 6 (1), 79-89.
-- Aka,  Barçın,  L.  (2021). Sosyal  medya  kullanım  davranışları  ile  yalnızlık  olgusu  arasındaki  ilişki  üzerine  bir  araştırma [ Yayınlanmamış doktora tezi ]. Ege Üniversitesi.
-
-- Alkan, G. &amp; Kocabaş, C. (2020). ASEAN ülkeleri ihracatına ait sosyal ağ analizi. Pamukkale Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 41 , 138-149.
-- Aydoğan, E. (2022). Yaşlı bireylerin sosyal medya kullanımı, yaşam doyumu, yalnızlık ve algılanan sosyal destek düzeyleri arasındaki ilişkinin incelenmesi [Yayınlanmamış yüksek lisans tezi]. Karabük Üniversitesi.
-- Boyd, D. M., &amp; Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of  ComputerMediated Communication, 13( 1), 210-230
-- Bell, M. W. (2008). Towards a definition of ''virtual worlds''. Journal of Virtual Worlds Research, 1 (1), 1-5.
-- Calender, N. (2021). When and how to use social media in research. San José State University Writing Center , Spring, 1-5.
-- Davis, J. L. (2016). Social media. The International Encyclopedia of Political Communication , 1-8.
-- Dawley, L. (2009). Social network knowledge construction: Emerging virtual world pedagogy. On the Horizon, 17 (2), 109121.
-- Edosomwan, S. (2011). The history of social media and it's impact on business. The Journal of Applied Management and Entrepreneurship, 16 (3), 79- 91.
-- Gökçearslan, Ş. (2011). Semantik web (web 3.0) ve eğitim amaçlı kullanımı. Eğitim Teknolojileri Araştırmaları Dergisi , 2(4), 1- 15.
-- Güzel, C. (2020). Sosyal medyanın neliği, gelişimi ve kullanım alanları üzerine kuramsal bir inceleme. Sosyolojik Düşün, 5 (2), 93-112.
-- Hu, H. &amp; Lin, D. (2013). Feature analysis of the social media. International Workshop on Computer Science in Sports (IWCSS). Atlantis Press.
-- Sánchez Jiménez, M. Á., Gómez Carmona, D., &amp; Moral Moral, M. (2024). Evolution of the impact of social media in hospitality: a bibliometric analysis. Journal of Destination Marketing &amp; Management , 31(Complete).
-- Jensen, K. B. &amp; Helles R (2011) The Internet as a cultural forum: implications for research. New Media Soc, 13 , 517-533.
-- Kane, G. C., Alavi, M., Labianca, G. J. &amp; Borgatti, S. P. (2014). What's different about social media networks? a framework and research agenda. MIS Quarterly, 38 (1), 275-304.
-- Kemp, S. (2024). Digital 2024: global overvıew report . https://datareportal.com/reports/digital-2024-global-overviewreport
-- Kietzmann, J. H., Hermkens, K., McCarthy, I. P. &amp; Silvestre, B. S. (2011). Social media? get serious! understanding the functional building blocks of social media, Business Horizons, 54 , 241-251.
-- Kim, S., Ma, I. &amp; Son, J. (2024). How does stress experienced on ınstagram differ from threads? comparing social media fatigue based on platform types. Computers in Human Behavior, 157 ,1-11.
-- Korenich, L., Lascu, D. N., Manrai, L., &amp; Manrai, A. K. (2014). Social media: Past, present, and future . In The Routledge Companion to the Future of Marketing.
-- Lama, U. T. (2018). Understanding social media: Functionality and differen-tiating social media and social networking sites. International Journalfor Research in Engineering Application &amp; Management,4 ,1-6.
-- Lincoln, R. C. (2009). Mastering web 2.0 transform your business using key website and social media tools. Koan Page.
-- Madakam, S. &amp; Tripathi. S. (2021). Social media/networking: applications, technologies, theories. Journal of Information Systems and Technology Management, 18 , 1-19.
-- Mayfıeld, A. (2008). What's social media?, iCrossing, e-book, (http://www.icrossing.co.uk/fileadmin/uploads/eBooks/What\_is\_Social \_Media\_iCrossing\_ebook.pdf.)
-- Miller, D., Costa, E.,  Haynes, N., Mcdonald, T., Nicolescu, R., Sinanan, J., Spyer, J.,  Venkatraman, S. &amp; Wang, X. (2016). How the world changed social media. UCL Press.
-- Mirrlees, T. (2020). In reimagining communication: Mediation. M Filimowicz ve V Tzankova (Eds.), Social media (1st ed. pp. 177-192). Routledge.
-
-- Kâhya, N. A. (2021). 'Wikipedia'daki Verilere Metin Madenciliği Yöntemlerinin Uygulanması ', ESTUDAM Bilişim, 2 (1), 2-14.
-- Onwuchekwa, E. (2015). The role of social media and social networking in ınformation service provision: a practical view . IGI Global.
-- Özseven,  G.  (2023). Sosyal  medya  bağımlılığı  ile  uyku  kalitesi  arasındaki  ilişkinin  araştırılması [Yayınlanmamış  tıpta uzmanlık tezi]. Sağlık Bilimleri Üniversitesi.
-- Öztürk, M. F. &amp; Talas, M. (2015). Sosyal medya ve eğitim etkileşimi. Zeitschrift Für Die Welt Der Türken/Journal Of World Of Turks , 7 (1), 101-120.
-- Öztürk, S. (2014). Kullanımlar ve doyumlar yaklaşımı kapsamında sosyal medya (Facebook örneği), [Yayınlanmamış yüksek lisans tezi]. Gazi Üniversitesi.
-- Peters, K., Chen, Y., Kaplan, A. M., Ognibeni, B. &amp; Pauwels, K. (2013). Social media metrics-a framework and guidelines for managing social media. J Interact Mark , 27, 281-298
-- Sánchez Jiménez, M. Á., Gómez Carmona, D. &amp; Moral Moral, M. (2024). Evolution of the impact of social media in hospitality: A bibliometric analysis. Journal of Destination Marketing &amp; Management , 31, 1-13.
-- Siddiqui,  S.  &amp;  Singh,  T.  (2016).  Social  media  its  impact  with  positive  and  negative  aspects. International  Journal  Of Computer Applications Technology And Research , 5 (2), 71-75.
-- Sindhu, R. A. &amp; Chezian, M. R. (2016). The movement of web from web 0.0 to web 5.0: a comparative study. International Journal of Multidisciplinary Research and Development, 3 (3), 176-179
-- Taprial, V. &amp; Kanwar, P. (2012) Understanding social media . Bookboon.
-- Üngüren,  E.  (2019).  Yeni  medya  iletişim  kanalı  olarak  katılımcı  sözlük  sitelerine  yönelik  bir  değerlendirme. OPUS International Journal of Society Researches, 11 (18), 2878-2907.
-- Yücel, K. (2022). Ülkemizde İngilizce tıp eğitiminde kullanılan nöroanatomi kitaplarının ve Wikipedia'daki nöroanatomi sayfalarının okunabilirliği. Izmir Democracy University Health Sciences Journal, 5 (1), 138-153.
-
-## E XTENDED ABSTRACT
-
-With  the  rapid  advancement  of  web  technology,  social  media  applications  are  divided  into different  types.  In  general,  blogs,  miroblogs,  social  networks,  geolocation  sites,  video-audio-photo sharing areas are all included under the umbrella of social media. Social media is a general term that covers all of these applications. Ellison and Body (2008), who conducted the first research to show that social  media  and  social  network  are  not  the  same  concepts,  report  that  they  cannot  be  used interchangeably in terms of profile, access and protection of digital content, associated links and features for  viewing content. Although social media is a new concept, it constantly varies in its explanation because it is based on technological developments (Kane et al., 2014, p. 278). This makes it difficult to define  the  concept  of  social  media.  What  becomes  clear  when  the  literature  is  examined  is  that  the phenomenon considered as social media is actually a social network. Although social networking is the largest part of social media, it does not meet the same phenomenon. Lama (2018, p. 1) also emphasizes that  the  concept  of  social  media  is  used  incorrectly  and  incorrectly  in  the  literature,  supporting  the researcher's observations. Onwuchekwa'a (2014, p. 126) states that there is no definitive definition of social media. Some researchers (Siddiqui &amp; Singh, 2016, p. 71) offer opinions that investigating the effects of the concept before defining it will clarify the phenomenon. In the relevant literature, it has been seen that those who work on social media actually work on social networks, and those who examine social  networks  actually  work  on  social  media.  In  some  studies,  although  both  social  media  and platforms that are examples of social networks are examined, they are presented in the literature as new media. When the Turkish literature is examined, it is seen that there is no research specific to this subject. In  order  to  eliminate  this  deficiency,  the  researcher  tried  to  eliminate  this  confusion  with  concept analysis,  one  of  the  qualitative  research  techniques.  Consistent  with  the  results  of  Lama's  (2018) research, this research found that new media is generally used incorrectly as social media. Although social media is a part of new media, it differs in terms of sharing, production and consumption. Another finding obtained from the social media part of the research is the transformation of the concept over time. Consistent with the research results of Kane et al. (2014, p. 278), it was determined in this study that  there  is  a  constant  change  in  the  definition  of  social  media  as  it  is  based  on  technological developments. In the research, it was determined that the concept was explained in the early studies by building on the developments in the field of communication and technology. In more recent studies, it has been understood that an explanation is made according to the socio-social opportunities it provides to people. As Walker and Avant (2019, p. 61-74) emphasize, one of the findings obtained at the end of this research was that the concepts are open to change even though they are developed scientifically. The research revealed that although social media and social network are fed from different parts of the same technology, they do not converge on the same phenomenon. Other results obtained in the research also  included  the  determination  that  social  media  has  recently  moved  away  from  technological developments and started to be defined according to people's needs and purposes of use. Aicher et al. (2021, p. 216) and Mirless (2020, p. 180) suggest that in defining the concept, it should be conceptualized according  to  the  opportunities  it  provides  to  users,  rather  than  explaining  it  based  on  technological developments. In another finding of the research, information was obtained about the elements required to define a social network. As a result of the concept analysis, it was determined that each social network definition was explained by referring to its interaction feature. Because social networking emerged in web 2.0 technology. Web 2.0 technology was also produced for mutual communication. This is why the researcher recommends the use of web 1.0 when defining the concept of social media. Because there is no idea of a network in social media. Social network constitutes the interactive part of the classical network in the virtual environment. Based on these results obtained above, the researcher recommends that the number of studies on the differences between social media and social network concepts should be increased in future research.

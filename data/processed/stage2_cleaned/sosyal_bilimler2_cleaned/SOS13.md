@@ -1,30 +1,8 @@
-Makale Türü/Article Type: Araştırma Makalesi/Research Article
-
-## GÖÇMENLERİN SOSYO-KÜLTÜREL UYUMU VE YEREL HALKIN GÖÇMENLERE YÖNELİK TUTUMU
-
-Ümmühan Güliz ORHAN 1      Özlem ALBAYRAKOĞLU 2      Abdullah ADIGÜZEL 3
-
 Öz
 
 Dünya Göç Raporuna göre dünya nüfusunun yaklaşık %3,5'i göçmenlerden oluşmaktadır. İşsizlik, yoksulluk, savaşlar, doğal afetler ve rejim değişikliklerinin yol açtığı bu hareketlilik göç alan ülkeleri sosyal, siyasal ve ekonomik anlamda etkilenmekte ve yeni politikalar geliştirmeye mecbur bırakmaktadır. Göçmenlerin ve göç ettikleri toplumların barış  içinde  yaşayabilmesi  için  sosyokültürel  uyumları  önemlidir.  Bu  araştırmada,  göçmenlerin  sosyokültürel  uyum düzeyi, yerel halkın göçmenlere yönelik tutum düzeyi ve bunlar arasındaki ilişkiyi belirlemek amaçlanmıştır. Araştırma, Düzce ilinde ulaşılabilir örnekleme yöntemiyle yürütülmüş bir ilişkisel tarama çalışmasıdır. Araştırma sonuçlarına göre, göçmenlerin  sosyokültürel  uyumları  iyi  düzeyde  ve  cinsiyete,  yaşa,  ikamet  sürelerine  ve  uyruklarına  göre  farklılık göstermemektedir. Yerel halkın göçmenlere yönelik tutumları orta düzeydedir ve cinsiyete, yaşa, göçmenlik deneyimi, medeni  durum,  eğitim  seviyesi  ve  mesleklere  göre  farklılaşmamaktadır.  Göçmenlerin  sosyokültürel  uyumu  ile  yerel halkın  tutumu  arasında  anlamlı  bir  ilişki  bulunmamaktadır.  Ancak,  sosyokültürel  uyum  alt  boyutu  olan  kişisel  ilgi alanları  ve  toplumsal  katılım ile  yerel  halkın  tutumu  ve  tehdit  alt  boyutu  arasında  düşük  pozitif  ilişki  görülmektedir. Sonuç  olarak,  yerel halkın göçmenleri  bir tehdit olarak algılamaması  için onları tanımasının  önemli  olduğu görülmektedir.  Ayrıca,  göçmen  yoğunluğunun  yüksek  olduğu  illerde/bölgelerde  yoğunluğun  azaltılması,  kaynakların adil dağılımını teşvik eden politikaların uygulanması ve sosyal entegrasyon programlarının teşvik edilmesi göçmenlerin varlığının bir tehdit olarak algılanmasını değiştirebilir.
 
 Anahtar Kelimeler: Göç, Göçmen, Göç Politikası, Sosyokültürel Uyum, Yerel Halkın Tutumu
-
-## SOCIOCULTURAL ADAPTATION OF IMMIGRANTS AND ATTITUDES OF LOCAL PEOPLE TOWARDS IMMİGRANTS
-
-## Abstract
-
-According  to  the  World  Migration  Report,  migrants  constitute  approximately  3.5  percent  of  the  world population.  This  mobility  caused  by  unemployment, poverty,  wars, natural  disasters,  and  regime  changes  affects  the receiving  countries  socially,  politically,  and  economically  and  forces  them  to  develop  new  policies.  Sociocultural harmonization is essential for migrants and the societies they migrate to live in peace. This study aims to determine the sociocultural adaptation level of immigrants, local people's attitudes towards immigrants, and the relationship between them.  The  research  is  a  relational  survey  study  conducted  with  a  convenience  sampling  method  in  Düzce  province. According to the research results, the sociocultural adaptation of immigrants is reasonable and does not differ according to gender, age, length of residence, and nationality. Local people's attitudes towards migrants are moderate and do not differ  according  to  gender,  age,  migration  experience,  marital  status,  education  level,  and  occupation.  There  is  no significant  relationship  between  the  sociocultural  adaptation  of  migrants  and  the  attitudes  of  local  people.  However,
-
-1  Doktora Öğr.Düzce Üniversitesi Eğitim Fakültesi, ummuhanguliz@gmail.com, Orcid: 0000-0002-3857-0434
-
-2  Öğretmen, ozlemalbayrakoglu@gmail.com, Orcid: 0000-0002-6234-5309
-
-3  Prof.Dr., Düzce Üniversitesi Eğitim Fakültesi, abdullahadiguzel@duzce.edu.tr, Orcid: 0000-0001-7184-3644
-
-there is a low positive relationship between the sub-dimensions of sociocultural adaptation, namely personal interests and social participation, and the attitudes of the local people and the threat sub-dimension. As a result, it is seen that it is essential for local people to recognize immigrants so that they do not perceive them as a threat. In addition, reducing the density  in  provinces/regions  with  high  immigrant  density,  implementing  policies  that  promote  fair  distribution  of resources, and promoting social cohesion programs can change the perception of the presence of immigrants as a threat.
-
-Key Words: Attitude of Local People, Immigrants, Migration, Migration Policies, Sociocultural Adaptation
 
 ## Giriş
 
@@ -303,52 +281,3 @@ Bu çalışma sonuçlarına göre, yerel halk göçmenleri düşük düzeyde teh
 (SODEV), Ateş ve Ovalı, 2018). İlgili çalışmalarda, yabancıların ülke ekonomisine zarar verdikleri, faturaların  onların  sebebiyle  yüksek  olduğu,  iş  imkânlarının  azaldığı,  konut  fiyatlarının  arttığı, çalışma ücretlerinin düştüğü, okulların kalabalıklaştığı, bulaşıcı hastalıkların ve suç sayısını arttığı gibi  endişeler  vurgulanmaktadır.  Buna  göre  oluşan  ekonomik  ve  sosyolojik  tehdit  algısı,  yerel halkın bilinçlendirilmesi ile azaltılabilecektir.  Ayrıca  uyumun  desteklenmesi  için  ülkemizde yaşayan göçmenlere  hangi hizmetlerin sunulduğunun,  yasal olarak sahip oldukları hak ve sorumlulukların anlatılması önerilmektedir.
 
 Yerel halkın tutumları cinsiyete, yaşa, göçmenlik deneyimi yaşamış olup olmamaya, medeni durumuna, eğitim durumuna ve mesleklerine göre farklılık göstermemektedir. Ancak bu çalışmada göçmen yoğunluğunun az, orta ya da çok olması yerel halkın tutumuna etki eden bir faktör olarak görülmektedir.  Bu  sonuç,  göçmen  sayısının  artmasının  endişe  uyandırdığı  ve  daha  olumsuz  bir tutuma sebep olabileceği şeklinde yorumlanabilir. Erdoğan (2019)'ın yaptığı çalışmada göçmenlerle iş  kurma,  aynı  işyerinde  çalışma,  çocuklarını  aynı  okula  gönderme,  aynı  mahallede  oturma, arkadaşlık kurma ve evlenme gibi sosyal ortamlarını birleştirmeyi kabul etmeme oranları %45 ile %77  oranında  bulunmuştur.  Bu  durum  yerel  halkın  göçmenlerle  arasına  belirgin  mesafeler koyduğunu göstermektedir.  Benzer  şekilde,  Sağıroğlu  ve  Yılmaz  (2021)'ın  yaptığı  'Yabancılarla Birlikte Yaşamak' adlı çalışmada, katılımcıların %75,9'unun yabancıların yoğun olduğu şehirlerde yaşamaktan  rahatsız  olduklarını  göstermektedir.  Ateş  ve  Ovalı  (2018)'nın  Düzce  ilinde  yaptığı çalışma ise yerel halkın %64'ünün göçmenlerden rahatsızlık duyduğunu göstermektedir. Buna göre, yerel  halkın  göçmenleri  bir  tehdit  olarak  algılamaması  için  onları  tanımasının  önemli  olduğu görülmektedir. Bu bağlamda, göçmenlerin topluma katkılarını sergileyen, birlik duygusunu ve ortak değerleri teşvik eden çalıştaylar, kültürel festivaller ve değişim etkinlikleri, eğitim kampanyaları ve işbirlikçi girişimler düzenlenebilir. Ayrıca, göçmen yoğunluğunun yüksek olduğu illerde/bölgelerde yoğunluğun azaltılması, kaynakların adil dağılımını teşvik eden politikaların uygulanması ve sosyal entegrasyon programlarının teşvik edilmesi göçmenlerin varlığının bir tehdit olarak algılanmasını değiştirebilir.
-
-## Kaynakça
-
-Abadan Unat, N. (2017). Bitmeyen Göç (3. baskı). İstanbul: Bilgi Üniversitesi Yayınları.
-
-- Aktağ,  L.  (2020).  Geçici  koruma  kanunu  ile  Türkiye'ye  gelen  suriyelilerin  uyum  süreci  ve karşılaştıkları problemler: Batman örneği, Yayımlanmamış Yüksek Lisans Tezi, Abant İzzet Baysal Üniversitesi, Sosyal Bilimler Enstitüsü, Bolu.
-- Apak, H. (2014). Suriyeli göçmenlerin uyumu ve gelecek beklentileri: Mardin örneği. Yayımlanmamış  Yüksek  Lisans Tezi, Mardin Artuklu Üniversitesi, Sosyal Bilimler Enstitüsü, Mardin.
-- Arı, K. (2014). Büyük Mübadele: Türkiye'ye Zorunlu Göç (1923-1925) (4. Baskı). İstanbul: Tarih Vakfı Yurt Yayınları.
-- Ateş, H. &amp; Ovalı, T. (2018). Göçmenler, Yerel Halk ve Paydaşların Gözüyle Göç Yönetimi Düzce Örneği. Ankara: Nobel Yayınları.
-- Bilgi,  L.  (2006). Türk  romanında  savaş  sonrası  Anadolu'ya  zorunlu  göçler.  Yayımlanmamış Doktora Tezi, Marmara Üniversitesi, Türkiyat Araştırmaları Enstitüsü, İstanbul.
-
-- Birleşmiş Milletler Mülteci Örgütü [UNHCR] (2021). https://www.unhcr.org/tr/ (E.T.: 12.08.2022).
-- Castles, S. &amp; Miller, J.M. (2008). Göçler Çağı Modern Dünyada Uluslararası Göç Hareketleri (1. Baskı) (çev. Bülent Uğur Bal ve İbrahim Akbulut). İstanbul: Bilgi Üniversitesi Yayınları.
-- Chambers,  I.  (2014). Göç  Kültür  Kimlik (2.  baskı)  (çev.  İ.  Türkmen  ve  M.  Beşikçi).  İstanbul: Ayrıntı Yayınları.
-- Can, A. (2014). SPSS ile Bilimsel Araştırma Sürecinde Nicel Veri Analizi . Ankara: Pegem Akademi Yayınları.
-- Celep, A. (2019). Cumhuriyet sonrası türkiye'ye göç eden boşnakların yeni kimlik inşası. Yayımlanmamış Yüksek Lisans Tezi, Marmara Üniversitesi, Sosyal Bilimler Enstitüsü, İstanbul.
-- Çakıcı, A.B. &amp; Çoban, A.G.R. (2017). Türkiye'nin Sınır Ötesi Göç ve Kamu Politikaları: Suriye Krizi  Üzerine  Bir  Değerlendirme . 15.  Ulusal  Türk  Dünyası  Sosyal  Bilimler  Kongresi Tebliğler Kitabı,304-322. Türk Dünyası Araştırmaları Vakfı, İstanbul.
-- Dünya Göç Raporu (2020). Göç ve Göçmenler: Küresel Bakış (İkinci bölüm). https://publications.iom.int/ (E.T.: 12.08.2022).
-- Ekici, S. &amp;Tuncel, G. (2015). Göç ve İnsan. Birey ve Toplum Sosyal Bilimler Dergisi , 5 (1), 9-22.
-- Erdoğan,  M.M.  (2019). Suriyeliler  Barometresi  Suriyelilerle  Uyum  İçinde  Yaşamın  Çerçevesi. İstanbul: İstanbul Bilgi Üniversitesi Yayınları. https://www.unhcr.org/tr/wpcontent/uploads/sites/14/2020/09/SB2019-TR-04092020.pdf. (E.T.: 09.01.2022)
-- George, D. &amp; Mallery, M. (2010). SPSS For Windows Step By Step: A Simple Guide and Reference, 17.0 Update (10th edition). Boston: Pearson.
-- Göç  İdaresi  Başkanlığı  [GİB]  (2022a).  Başkanlık.  https://www.goc.gov.tr/baskanligin-gorevleri. (E.T.: 10.01.2022.)
-- Göç  İdaresi  Başkanlığı  [GİB]  (2022b).  Projeler.  https://www.goc.gov.tr/goc-projeleri56.  (E.T.: 09.01.2022).
-- Göç İdaresi Başkanlığı [GİB] (2022c). Uyum Strateji Belgesi. https://www.goc.gov.tr/kurumlar/goc.gov.tr/Yayinlar/UYUM-STRATEJI/Uyum-StratejiBelgesi-ve-Ulusal-Eylem-Plani.pdf. (E.T.: 09.01.2022)
-- Güleç, E. (2013). Devletten sivil topluma oryantalizmin üretimi ve asimilasyon politikaları: baba beni okula gönder kampanyası örneği, Yayımlanmamış Yüksek Lisans Tezi, Yıldız Teknik Üniversitesi, Sosyal Bilimler Enstitüsü, İstanbul.
-- Güler,  A.  (2021).  Göç  olgusunun  çok  boyutlu  etkileri  ve  Türkiye'ye  yansımaları. Kırklareli Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 10 (2), 218-239.
-
-- Haydar,  E.  (2018).  Osmanlı  İmparatorluğu  ve  Türkiye'de  Yaşanan  Göçler  ve  Etkileri. Sosyal Bilimler Metinleri , 2018 (1), 16-27.
-- Kanlı,  İ.  B.  &amp;  Başköy,  D.  (2018).  Küreselleşme  ve  çevre  sorunları  bağlamında  göç:  iklim mültecileri. Siyaset, Ekonomi ve Yönetim Araştırmaları Dergisi , 6 (3).39-57.
-- Kızılelmas,  F.,  (2020).  Sivil  toplum  kuruluşlarının  insani  yardım  ulaştırmada  sığınmacılarla  ve kurumlarla  ilişki  biçimi:  Düzce  Örneği. Düzce  Üniversitesi  Sosyal  Bilimler  Enstitüsü Dergisi, 10 (2), 267-283.
-- Ohliger,  R.,  Schweiger,  R.,  und  Veyhl,  L.  (2017).  Auf  Dem  Weg  Zur  Flüchtlingsintegration  in Ländlichen Räumen: Ergebnisse Einer Bedarfsanalyse in Sieben Landkreisen. Stuttgart: Robert-Bosch Stiftung
-- Özçetin, S. (2013). Yükseköğrenim gören yabancı uyruklu öğrencilerin sosyal uyumlarını etkileyen etmenler,  Yayımlanmamış  yüksek  lisans  tezi,  Hacettepe  Üniversitesi,  Sosyal  Bilimler Enstitüsü, Ankara.
-- Özdemir,  M.  (2007).  I.  Dünya  Savaşı  Sırasında  Osmanlı  Ülkesinde  Yaşanan  Göç  Hareketleri, Yayımlanmamış Doktora Tezi, Dokuz Eylül Üniversitesi, Sosyal Bilimler Enstitüsü, İzmir.
-- Özüdoğru, H. Y., Kan, A., Yaman, E., &amp; Uslu, L. (2018). Yerel halkın Suriyelilere yönelik tutum ölçeği geliştirme çalışması. Sosyal Politika Çalışmaları Dergisi , 18 , 115-140.
-- Sağıroğlu,  A.  Z.,  &amp;  Yılmaz,  İ.  H.  (2021). Yabancılarla  Birlikte  Yaşamak:  Mamak  Örneği:  Göç Çalışmalarında Bir Karma Yöntem Araştırması. Ankara: Nobel Yayınevi.
-- Şeker, B. D., Sirkeci, I. &amp; Yüceşahin, M.M. (Eds.). (2015). Göç ve Uyum .  London: Transnational Press.
-- Sosyal  Demokrasi  Vakfı  [SODEV]  (2021).  Suriye  Göçünün  10.  Yılında  Türkiye'de  Suriyeli Göçmenler  Araştırması.  file:///C:/Users/THINK%20PAD/Downloads/SODEV-SuriyelilereBakis-Arastirmasi-Raporu-1.pdf. (E.T 04.09.2022)
-- Tümtaş, M.S. &amp; Ergun, C. (2016). Göçün Toplumsal ve Mekânsal Yapı Üzerindeki Etkileri. Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi , 21 (4), 1347-1359.
-- Türk Dil Kurumu [TDK] (2023), Türkçe Sözlük, https://sozluk.gov.tr/ (E.T.: 08.10.2023)
-- Türkiye  İstatistik  Kurumu  [TUİK]  (2020).  31  Aralık  2020  Tarihli  Adrese  Dayalı  Nüfus  Kayıt Sistemi (Adnks) Sonuçları İllere Göre İl/İlçe Belde/Köy Sonuçları. https://www.tuik.gov.tr/indir/duyuru/favori\_raporlar.xlsx (E.T. 15.08.2022)
-- Uluslararası  Göç  Örgütü  (International  Organization  for  Migration,  [IOM]),  (2009).  Uluslararası Göç Hukuku Göç Terimleri. https://publications.iom.int/system/files/pdf/iml31\_turkish\_2ndedition.pdf (E.T.:15.08.2022)
-
-- Wilson, J. K., Ward, C. &amp; Fischer, R. (2013). Beyond culture learning theory: what can personality tell us about cultural competence? Journal Of Cross-Cultural Psychology, 44, 900-927.
-- Yabancılar ve Uluslararası Koruma Kanunu [YUKK]. T. C. 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu. Ankara: Resmî Gazete (28615 sayılı) .
-- Yalçın, Ö. (2018). Sosyokültürel Uyum Ölçeği (Scas-R)'nin Gaziantep/Türkiye'de yaşayan suriyeli göçmenler örneğinde arapça'ya uyarlama, güvenirlik ve geçerlik çalışması. Yayımlanmamış Yüksek Lisans Tezi, Hasan Kalyoncu Üniversitesi, Sosyal Bilimler Enstitüsü, Gaziantep.
-- Yıldırım,  C.A.  &amp;Yürür,  Y.  Y.  Ö.  (2019).  Uluslararası  göçmenlerin  Türkiye'ye  uyumu  yasal düzenlemeler ne derece uyumu/entegrasyonu hedefliyor?. International Journal of Political Science and Urban Studies , 7 (1), 19-41.
-- Yıldırım,  S.  (2016).  Cumhuriyet  dönemi  nüfus  politikaları  çerçevesinde  göç  ve  göç  politikaları (1921-1960). Hacettepe Üniversitesi Türkiyat Araştırmaları Dergisi , (24), 273-302.
-- Yıldırımalp, S., İslamoğlu, E. &amp; İyem, C. (2017). Suriyeli sığınmacıların toplumsal kabul ve uyum sürecine ilişkin bir araştırma. Bilgi Sosyal Bilimler Dergisi , (2), 107-126.
-- Yılmaz,  A.  (2019).  Seçilmiş  Yerel  yöneticilerin  (muhtarların)  bakış  açısıyla  türkiye'deki  suriyeli göçmenlerin kente sosyo-ekonomik etkileri: Elâzığ örneği, Yayımlanmamış Yüksek Lisans Tezi , Fırat Üniversitesi, Sosyal Bilimler Enstitüsü, Elâzığ.

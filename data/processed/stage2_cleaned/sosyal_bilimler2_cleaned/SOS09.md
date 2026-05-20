@@ -1,19 +1,5 @@
-Araştırma Makalesi Original Research
 
 ## Özel Öğrenme Güçlüğü Tanılı Çocuğu Olan Anne-Babaların Algılanan Sosyal Destek ve Depresyon Düzeyleri *
-
-## The Perceived Social Support and Depression Degree of Parents Who Have Children with Specific Learning Disability
-
-Zeynep KURTBEYOĞLU 1  , Vesile YILDIZ DEMİRTAŞ 2
-
-1
-
-Sorumlu Yazar, Psikolojik Danışman, Milli Eğitim Bakanlığı, Türkiye, kurtbeyogluzeynep@gmail.com ( https://orcid.org/0000-0002-7095-5289 ) 2 Prof.  Dr.,  Özel  Eğitim  Bölümü,  Buca  Eğitim  Fakültesi,  Dokuz  Eylül  Üniversitesi,  Türkiye, vesile.yildiz@deu.edu.tr ( https://orcid.org/0000-0002-4202-7733 )
-
-Geliş Tarihi:
-
-05.10.2020
-
 ÖZ
 
 Bu araştırmanın amacı; özel öğrenme güçlüğü tanılı çocuğu olan anne-babaların algılanan sosyal destek ve depresyon  düzeylerini  bazı  demografik  değişkenler  açısından  incelemek  ve  sosyal  destek  algısının depresyon düzeyini yordayıp yordamadığını tespit etmektir. Araştırmada yöntem olarak İlişkisel Tarama Modeli, veri toplama araçları olarak da Çok Boyutlu Algılanan Sosyal Destek Ölçeği, Beck Depresyon Ölçeği  ve  uygulayıcı  tarafından  oluşturulan  Tanıtıcı  Bilgi  Formu  kullanılmıştır.  Araştırmanın  evrenini İzmir  Büyükşehir  Belediyesi  sınırları  içerisinde  yaşayan  özel  öğrenme  güçlüğü  tanısı  alan  6-18  yaş arasındaki çocukların anne-babaları, araştırmanın grubunu özel öğrenme güçlüğü tanısı olan çocuğa sahip 175 gönüllü anne-babalar oluşturmuştur. Çalışma bulgularına göre; anne-babaların cinsiyet, eğitim durumu, gelir düzeyi ve sahip oldukları çocuk sayısına göre algılanan sosyal destek düzeyleri arasında; gelir düzeyi ve  eğitim  durumuna  göre  depresyon  düzeyleri  arasında  anlamlı  farklılık  bulunmuştur.  Anne-babaların algılanan sosyal destek ve depresyon düzeyleri arasında negatif ve anlamlı bir ilişki olduğu, sosyal destek düzeylerinin depresyon düzeylerini %11 oranında yordadığı görülmüştür.
@@ -21,20 +7,6 @@ Bu araştırmanın amacı; özel öğrenme güçlüğü tanılı çocuğu olan a
 Anahtar Kelimeler:
 
 Özel öğrenme güçlüğü, algılanan sosyal destek, depresyon.
-
-## ABSTRACT
-
-The purpose of this research; to examine the perceived social support and depression levels of parents with children with special learning disabilities in terms of some demographic variables and to determine whether the perception of social support predicts the level of depression. In the research, Relational Screening Model was  used  as  a  method,  Multidimensional  Perceived  Social  Support  Scale,  Beck  Depression  Scale  and Introductory  Information  Form  created  by  the  practitioner  were  used  as  data  collection  tools.  The population of the study was composed of parents of children between the ages of 6-18 who were diagnosed with special learning difficulties living within the boundaries of Izmir Metropolitan Municipality, and 175 volunteer parents with children with a diagnosis of special learning difficulties. According to the findings of the study; Among the perceived social support levels of parents according to their gender, educational background,  income  level  and  the  number  of  children  they  have;  A  significant  difference  was  found between depression levels according to income level and education level. It has been observed that there is a negative and significant relationship between parents' perceived social support and depression levels, and social support levels predict depression levels by 11%.
-
-Keywords: Specific learning disability, perceived social support, depression.
-
-* Bu  çalışma,  Dokuz  Eylül  Üniversitesi  Eğitim  Bilimleri  Enstitüsü  Özel  Eğitim  Anabilim  Dalında  2018  yılında tamamlanan Özel Öğrenme  Güçlüğü Tanılı  Çocuğu Olan Anne-Babaların Algılanan  Sosyal  Destek  ve  Depresyon Düzeyleri Arasındaki İlişkilerin İncelenmesi başlıklı yüksek lisans tezinden üretilmiştir.
-
-Kabul Tarihi:
-
-29.12.2020
-
-<!-- image -->
 
 ## GİRİŞ
 
@@ -292,62 +264,3 @@ için  alternatif  yollar  geliştirmesine,  farklı  destek  kaynaklarının  f
 3. Yapılan araştırmada sosyal destek algısının depresyon düzeyini yordama  oranına bakılmıştır. Depresyon düzeyini yordayan başka değişkenler de araştırılabilir.
 
 Çalışma  sadece  anne  ve  babalar  ile  yapılmıştır.  Yapılacak  çalışmalara  özel  öğrenme güçlüğü tanılı çocuklarda dahil edilerek; anne ve babaların sosyal destek algıları ve depresyon düzeyleri ile özel öğrenme güçlüğü tanılı çocuklarının depresyon düzeyleri ve sosyal destek algıları karşılaştırabilir .
-
-## KAYNAKÇA
-
-- Abidinoğlu, Ü., Gümüşçü, Ş. ve Darıca, N. (2005). Otizm ve otistik çocuklar , (4. Bas.), Özgür Yayınları, İstanbul .
-- Akmaniş, B. (2010). Otistik çocuğu olan annelerin algıladıkları sosyal desteğe göre umutsuzluk düzeylerinin  incelenmesi .  (Yayımlanmamış  Yüksek  Lisans  Tezi),  Maltepe  Üniversitesi Sosyal Bilimler Enstitüsü Psikoloji Anabilim Dalı.
-- Arıcıoğlu, A. ve Gültekin, F. (2017). zihinsel engelli çocuk annelerinin sosyal destek ve gelecek algıları: psikolojik danışmanların rolleri. Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Dergisi , 42, 1-26.
-- Aydemir,  Ö.  ve  Köroğlu.  E.  (2006). Psikiyatride  kullanılan  klinik  ölçekler .  Hekimler  Yayın Birliği, Ankara.
-- Aydemir,  S.E.  (2015). Otizmli  çocukların  ebeveynlerinin  evlilik  uyumlarının,  başa  çıkma stratejilerinin ve sosyal destek algılarının incelenmesi .  (Yayımlanmamış Yüksek Lisans Tezi), Dokuz Eylül Üniversitesi Eğitim Bilimleri Enstitüsü, Aile Eğitimi Ve Danışmanlığı Anabilim Dalı.
-- Azeem, M.W., Dogar, I. A., Shah, S., Cheema, M.A., Asmat, A., Akbar, M., Kousar, S. veHaider, I.I. (2013). Anxiety and depression among parents of childrenwith ıntellectual disability in Pakistan. Journal Can Acad Child Adolesc Psychiatry, 22(4).
-- Bilgin, Ş. (2012). Ağır ve orta düzeyde zihinsel yetersizliği olan çocukların anne -babalarının algıladıkları sosyal destek kaygı ve depresyon düzeylerinin incelenmesi. (Yayımlanmamış
-
-- Yüksek Lisans Tezi), Uludağ Üniversitesi Sağlık Bilimleri Enstitüsü Tıp-Psikiyatri (Klinik Psikoloji-Erişkin) Anabilim Dalı.
-- Bromley, J., Hare, D. J., Davison, K. ve Emerson, E. (2004). Mothers supporting children with autistic spectrum disorders.
-- Büyüköztürk, Ş., Çakmak, E., Akgün, Ö., Karadeniz, Ş. ve Demirel, F. (2014). Bilimsel Araştırma yöntemleri . Ankara: Pegem Yayınları.
-- Coşkun, Y. ve Akkaş, G. (2009). Engelli çocuğu olan annelerin sürekli kaygı düzeyleri ile sosyal destek algıları arasındaki ilişki. Ahi Evran Üniversitesi Kırşehir Eğitim Fakültesi Dergisi , 10 (1), 213-227.
-- Çakır, Y. ve Palabıyıkoğlu, R. (1997). Gençlerde Sosyal Destek-Çok Boyutlu Algılanan Sosyal Destek Ölçeğinin güvenirlik ve geçerlik Çalışması. Ankara Üniversitesi Kriz Dergisi, 5 (1), 15-24.
-- Çürük, N. (2008). Ankara il merkezindeki iş okullarında 1. ve 4. sınıfa devam eden zihinsel engelli çocukların annelerinin kaygı ve sosyal destek düzeylerinin karşılaştıkları problemlere göre incelenmesi, (Yayımlanmamış  Yüksel  Lisans  Tezi),  Gazi  Üniversitesi  Eğitim  Bilimleri Enstitüsü Çocuk Gelişimi Ve Eğitimi Anabilim Dalı.
-- Dereli,  F.  ve  Okur,  S.  (2008).  Engelli  çocuğa  sahip  olan  ailelerin  depresyon  durumunun belirlenmesi . Yeni Tıp Dergisi, 25, 164-168.
-- Eker, D., Arkar, H. ve Yaldız, H. (2001). Çok Boyutlu Algılanan Sosyal Destek Ölçeğinin gözden geçirilmiş  formunun  faktör  yapısı,  geçerlik  ve  güvenirliği. Türk  Psikiyatri  Dergisi, 12 (1),17-25.
-- Fırat, S. (2000). Otistik ve zihinsel özürlü çocukların annelerinde kaygı, depresyon, aleksitimi ve genel psikolojik değerlendirme . (Yayınlanmamış Yüksek Lisans Tezi), Çukurova Üniversitesi Sosyal Bilimler Enstitüsü Eğitim Bilimleri Anabilim Dalı.
-- Flanagan, D.P., Ortiz, S.O. ve Alfonso, V.C. (2013). Essentials of cross-battery assessment . John Wiley &amp; Sons.
-- Gönen, A. (2014). Otizm spektrum bozukluğu ile otizm spektrum bozukluğu tanısı olan bireylerin ebeveynlerinin  depresyon  düzeyleri  arasındaki  ilişki. (Yayımlanmamış  Yüksek  Lisans Tezi), Abant İzzet Baysal Üniversitesi Eğitim Bilimleri Enstitüsü Özel Eğitim Anabilim Dalı.
-- Görgü, E. (2005). 3-7 yaş arası otistik çocuğa sahip olan annelerin algıladıkları sosyal destek düzeyleri ile depresyon düzeyleri arasındaki ilişki . (Yayımlanmamış Yüksek Lisans Tezi), Marmara Üniversitesi Eğitim Bilimler Enstitüsü İlköğretim Ana Bilim Dalı Okul Öncesi Öğretmenliği Bilim Dalı.
-- Havens,  C.  A.  (2005).  Becoming  a  resilient  family:  Child  disability  and  the  family  system. National Center On Accessibility.
-- Hisli, N. (1989). Beck Depresyon Envanteri'nin üniversite öğrencileri için geçerliliği, güvenirliği. Psikoloji Dergisi , 7 (23), 3-13.
-- Kaner, S. (2004). Engelli çocukları olan ana babaların algıladıkları stres, sosyal destek ve yaşam doyumları , (Yayınlanmamış Araştırma Raporu), Ankara Üniversitesi Bilimsel Araştırma Projeleri, Ankara.
-- Kavak, S. (2007). Algılanan aile yakınları destek ölçeğinin geliştirilmesi ve 0-8 yaş arası engelli çocuğu olan annelerin yakınlarından aldığı desteği algılamaları . (Yayınlanmamış Yüksek Lisans Tezi), Marmara Üniversitesi Eğitim Bilimleri Enstitüsü.
-- Kavale, K.A. ve Forness, S.R. (2000). What definitions of learning disability say and don't say a critical analysis. Journal Of Learning Disabilities , 33 (3), 239-256.
-
-- Köksal,  G.,  Kabasakal,  Z.  (2012).  Zihinsel  engelli  çocukları  olan  ebeveynlerin  yaşamlarında algıladıkları stresi yordayan faktörlerin incelenmesi. Buca Eğitim Fakültesi Dergisi, 32, 71-91.
-- Kumbasar, A. (2016). İşitme engelli ve engelli olmayan çocuklara sahip ailelerde sosyal destek algısı, yılmazlık ve tükenmişlik düzeylerinin incelenmesi . (Yayımlanmamış Yüksek Lisans Tezi), Hacettepe Üniversitesi Sağlık Bilimleri Enstitüsü. Özel Eğitim Programı.
-- Mbugua, M.N., Kuria, M.W. ve Ndetei, D.M. (2011). The prevalence of depression among family caregivers  of  children  with  ıntellectual  disability  in  a  rural  setting  in  Kenya. Hindawi Publishing Corporation International Journal Of Family.
-- Olçay Gül, S., Olgunsoylu, B., Ünal, Y. (2015). Yetersizliği olan ve normal gelişim gösteren çocuğa sahip ailelerin travma sonrası stres belirti ve sosyal destek düzeylerinin incelenmesi. Mustafa Kemal Üniversitesi Sosyal Bilimler Enstitüsü Dergisi. 12 (32), 221245.
-- Olsson,  M.B.  ve  Hwang,  C.P.  (2001).  Depressin  in  mothers  and  fathers  of  children  with intellectual disability. Journal Of Intellectual Disability Research, 45 (6), 535- 543.
-- Özkan, S. (2002). Zihinsel engelli ve normal çocuğa sahip annelerin algıladıkları sosyal destek ve  depresyon  düzeylerinin  incelenmesi. (Yayınlanmamış  Yüksek  Lisans  Tezi.)  Ankara Üniversitesi Eğitim Bilimleri Enstitüsü Özel Eğitim Anabilim Dalı.
-- Resch,  J.A.,  Elliott,  T.R.  ve  Benz,  M.R.  (2012).  Depression  among  parents  of  children  with disabilities: Texas A  &amp;  M  University. Families, Systems, &amp;  Health, American Psychological Association, 30 (4), 291-301.
-- Sipal, R.F., Sayın, U. (2013). Impact of perceived social support and depression on the parental attitudes of mothers of children who are deaf .  Journal of Child Fam Stud . 22 (8), 11031111.
-- Şenel, H.G. (1995). Özel öğrenme güçlüğü terimi yerine alternatif arayışlar. Ankara Üniversitesi Eğitim Bilimleri Fakültesi Özel Eğitim Dergisi , 2 (01).
-- Şentürk,  M.  VarolSaraçoğlu,  G.  (2013).  Eğitilebilir  zihinsel,  bedensel  engelli  çocuğu  olan annelerle sağlıklı çocuğa sahip annelerin aileden algıladıkları sosyal destek ve depresyon düzeylerinin karşılaştırılması. IJBCM  International  Journal  of Basic an dClinical Medicine. Uluslararası Temel ve Klinik Tıp Dergisi. 1 (1), 40-49
-- Uruncu  Emirdağı,  E.  (2018). Özgül  öğrenme  güçlüğü  olan  çocuklara  sahip  anne  babaların çocuklarını kabul-red düzeyleri ile sosyal destek algılarının incelenmesi . (Yayımlanmamış Yüksek  Lisans  Tezi),  Ankara  Üniversitesi  Sağlık  Bilimleri  Enstitüsü  Çocuk  Gelişimi Anabilim Dalı.
-- Uskun,  E.,  Gündoğar,  D.  (2010).  TheLevels  Of  Stres,  DepressionAndAnxiety  Of  Parents  Of DisabledChildren İn Turkey. DisabilityAndRehabilitation , 32 (23), 1917-1927.
-- Varol, N. (2005). Aile eğitimi. Ankara: Kök Yayıncılık.
-- Zimet  G.D.,  Dahlem  N.W.,  Zimet  S.G.,  Farley  G.K.  (1988).  The  Multidimensional  Scale  of Perceived Social Support. Journal of Pers Assess , 52, 30-41.
-
-## EXTENDED ABSTRACT
-
-With the birth of a baby, a new era begins in the life of the mother and father. Whenever parents wish to have children, they dream about their children to be 'perfect'. With the birth of a child with a disability or the child's getting disabled in later years, the dreams of parents about their children are destroyed. The pain felt when encountering such a situation is similar to the pain felt in the face of the loss of a loved one. Depression usually occurs after the painful process. Generally, it is seen that the responsibilities that parents undertake are too many and that parents are depressed with the belief that they cannot afford everything with these responsibilities. The family  with  children  with  special  needs  suffers  psychologically,  and  they  have  difficulties  to overcome  the  problems  caused  by  the  inadequacy.  Social  support  is  of  great  importance  for families experiencing these problems and can reduce the problems caused by families having children with special needs.
-
-One of the special  needs groups is  special  learning difficulties.  Learning  disability  are disorders that occur in one or more of the basic psychosocial processes in understanding or using the language spoken or written and that significantly affect the ability to listen, think, speak, read, write, spell or perform mathematical calculations.
-
-Recent studies in the field of special education have highlighted the idea of determining the needs of individuals in the family as a priority along with the services offered to the child with special needs and providing services to the family according to these needs. For this reason, the aim of this study is to reveal the perceived social support and depression levels of the parents who have children with special learning disabilities, and to find out whether the perception of social support predicts the level of depression.
-
-This research is a descriptive study in relational survey model type. This model is often used to determine the interaction between two or more variables. The research Izmir Metropolitan Municipality consists of volunteer parents living in Karabağlar, Konak, Çiğli, Karşıyaka and Buca districts, who have children between the ages of 6 and 18 who have no diagnosis other than a special learning disability. The study group consists of a total of 175 parents with children with special learning difficulties who receive special education services. As a data collection tool in the  research,  Introductory  Information  Form,  Beck  Depression  Scale  and  Multidimensional Perceived Social Support Scale were used.
-
-In the study, a significant difference was found between the perceived social support levels of the parents with a child with a special learning disability in terms of their mother or father status. It was observed that mothers have more perception of social support than fathers. In the study,  a  significant  difference  was  found  between  the  perceived  social  support  levels  of  the parents who have children with special learning difficulties in terms of  their educational status. Primary school graduates' perception of social support was lower than that of high school and higher education graduates. Anxiety levels are expected to be lower than a lower education level, since they will be more successful in developing solutions to the problems they encounter with their children with the increase in their education levels. In the study, a significant difference was found between  perceived  social  support  levels  in  terms  of  the  income  levels  of  parents  with children with special learning disabilities. It was observed that as the income level of the family increased, their perceptions of social support also increased. It is thought that families with higher income can keep their social networks wider because they move more comfortably and thus social support can be stronger. In the study, a significant difference was found between the perceived social support levels of the parents who have children with special learning difficulties in terms of  the  number  of  children  they  have.  It  was  observed  that  the  perception  of  social  support decreased as the number of children of the family increased.
-
-In  the  study,  no  significant  difference  was  found  between  the  depression  levels  of  the mothers and fathers with children with special learning difficulties in terms of their mother or father status. In the study, a significant difference was found between the depression levels of the parents who have children with special learning difficulties in terms of their educational status. It was observed that as  the  education level  increased,  the  depression  levels  of  the  mothers  and fathers  decreased.  Parents  with  a  high  level  of  education  can  act  more  easily  and  faster  in accessing the right resources and educational services, they can be more creative in transferring special education services given to their children to different environments, and have experience in adapting the use of technology to their daily lives. Therefore, it can be said that anxiety and depression levels of parents with higher education level are lower. In the study, a significant difference was found between the depression levels in terms of the income levels of the parents who  have  children  with  special  learning  difficulties.  It  was  observed  that  depression  levels decreased as the family income level increased. The fact that depression scores are low in families with high monthly income can be interpreted as the fact that the ability to move more comfortably provides comfort in meeting the financial burden required for the child's care and affects their depression scores. In the study, no significant difference was found between the depression levels in  terms  of  the  number  of  children  with  parents  who  have  children  with  special  learning difficulties.
-
-In the study, a significant relationship was found between parents' perceptions of special learning  disabilities  and  their  social  support  perceptions  and  their  depression  levels.  It  was observed that depression levels decreased as the family's perception of social support increased. In the study, it was found that perceived social support levels of parents with children with special learning  difficulties  predicted  depression  levels  by  11%.  Accordingly,  89  percent  of  the depression level variance is determined by other variables.

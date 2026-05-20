@@ -1,11 +1,4 @@
 ## Avrasya Sosyal ve Ekonomi Araştırmaları Dergisi (ASEAD)
-
-Eurasian Journal of Researches in Social and Economics (EJRSE) ISSN:2148-9963 www.asead.com
-
-## SOSYAL BİR SORUN OLARAK KENTSEL YOKSULLUK VE SOSYAL DIŞLANMA ÜZERİNE BİR DEĞERLENDİRME 1
-
-Öğr. Gör. Bahriye ESELER 2 Arş. Gör. Berfin GÖKSOY SEVİNÇLİ 3 Öğr. Gör. Fatma NALBANT 4
-
 ## ÖZET
 
 Kentler insanların toplu olarak yaşama gereği ile ortaya çıkan en önemli yerleşim yerlerinden birini temsil etmektedir. Aynı zamanda diğer yerleşim yerlerine göre tarihsel açıdan oldukça genç olmalarına rağmen sürekli değişen ve gelişen, cazibeli bir yaşam alanı sunmalarından dolayı yoğun göç alarak her geçen  gün  kalabalıklaşmaktadır.  Bu  durum  ile  birlikte  siyasal  ve  sosyal  alanda  yaşanan  değişimlerin, ekonomik  krizlerin  ve  kalkınmanın  ortaya  çıkardığı  istihdam  sorunlarının  kente  yansıması  ' kentsel yoksulluk ' olarak karşımıza çıkmaktadır.
@@ -15,26 +8,6 @@ Kentsel yoksulluğun en önemli tetikleyicilerinden birisi de hızlı kentleşme
 Literatür  taraması  yöntemi  ile  desenlenmiş  olan  çalışmanın  önemi,  kentleşme,  göç  ve  dışlanma kavramları  üzerinden  kentsel  yoksulluğun  incelenerek  aslında  kenti  geliştiren  olguların  beraberinde getirdiği bir sorun olan kentsel yoksulluk sorununa, bu olgular bağlamında geliştireceği çözüm önerilerinde saklıdır. Çünkü günümüz literatüründe ve dünya gündeminde özellikle COVID-19 pandemisiyle de birlikte yoksulluk sorunu hala çözülemeyen ve çözülmesi gereken bir sorun alanı olarak görülmektedir.
 
 Anahtar Kelimler: Yoksulluk, Kentsel Yoksunluk, Sosyal Dışlanma, Göç, Gecekondulaşma.
-
-1 Bu  makale  10-12  Nisan  2021  tarihleri  arasında  Antalya'da  düzenlenen  ASEAD  7.  Uluslararası  Sosyal  Bilimler Sempozyumu'nda tebliğ olarak sunulmuştur.
-
-2 Üsküdar Üniversitesi Sağlık Hizmetleri MYO, ORCID: 0000-0001-7728-4433, bahriye.eseler@uskudar.edu.tr
-
-3 Bitlis Eren Üniversitesi İİBF,ORCID: 0000-0001-9686-509X, bgoksoy@beu.edu.tr
-
-4 Artvin Çoruh Üniversitesi Yusufeli MYO,ORCID: 0000-0003-2588-1804, fatmanalbant@artvin.edu.tr Araştırma Makalesi/Research Article, Geliş Tarihi/Received:17/05/2021-Kabul Tarihi/Accepted: 04/07/2021
-
-## AN ASSESSMENT ON URBAN POVERTY AND SOCIAL EXCLUSION AS A SOCIAL PROBLEM
-
-## ABSTRACT
-
-Cities represent one of the most important settlements that emerged as a result of the need to live collectively. At the same time, although they are historically quite young compared to other settlements,  they  are  getting  crowded  day  by  day  due  to  the  fact  that  they  offer  a  constantly changing and developing and attractive living space. Along with this situation, the reflection of the changes in the political and social fields, economic crises and the employment problems caused by development to the city appears as ' urban poverty '.
-
-One  of  the  most  important  triggers  of  urban  poverty  is  rapid  urbanization  and  urban population  movements  that  develop  accordingly,  namely  the  concept  of  migration.  With  the acceleration of migration from rural to urban, economic problems emerged in the cities at first, and then housing problems, employment problems and working in atypical jobs such as street vendors, in other words, unregistered employment gradually increased and brought social problems along with it.Considering all this framework, the study will start with the explanation of the concepts of poverty and the city, taking into account the effects of the COVID-19 pandemic at issue, and shed light on the concepts of urban poverty in the light of migration, squattering, atypical sectors and absolute  and  relative  poverty.  After  this  conceptual  /  theoretical  analysis,  the  problems  of urbanization in Turkey and what the migration concept causes in terms of urban poverty will be discussed. Finally, the social problems behind the economic infrastructure of urban poverty will be examined and the important concept of social exclusion will be discussed.
-
-The importance of the study, which is designed with the literature review method, is hidden in the solution proposals to be developed in the context of these phenomena to the problem of urban poverty, which is actually a problem brought about by the facts that develop the city by examining urban poverty through the concepts of urbanization, migration and exclusion. Because, in today's literature and world agenda, especially with the COVID-19 pandemic, poverty is still seen as a problem area that cannot be solved and needs to be solved.
-
-Key Words: Poverty, Urban Poverty, Social Exclusion, Migration, Squattering
 
 ## GİRİŞ YERİNE: YOKSULLUK KAVRAMI VE COVİD-19 PANDEMİSİ ÜZERİNE
 
@@ -189,64 +162,3 @@ Yoksulluk,  dünyanın  önemli  ve  karmaşık  bir  sorunudur.  Yoksulluğun  
 Yoksulluk  sorununun  önüne  geçilmesi  için  atılması  gereken  ilk  adım,  yoksulluğun görüldüğü  yerlerde  yoksulluğu  çeşit  olarak  tanımlamaktır.  Çünkü  her  yoksulluk  çeşidiyle  aynı şekilde  mücadele  etmek  imkansızdır.  Yoksulluğu  tanımlayabilmek  için,  bölgeden  bölgeye kültürden kültüre  yoksulluk ölçütlerini de belirlemek gerekmektedir. Bu bağlamda  yukarıda da ifade edilmeye çalışıldığı üzere, yoksulluk görüldüğü yere göre değişkenlik göstermektedir. Yerde yemek yeme kültürü olan bir yerde, yemek masasının olmaması yoksulluk göstergesi olarak kabul edilmeyecektir. Bu sebeple yoksul alanların her birinde soyut ve somut göstergeler belirleyerek bu göstergeler  üzerinden mücadele politikasının ortaya koyulması,  yoksulluk sorunuyla daha aktif olarak mücadele edilmesini sağlayacaktır.
 
 Yoksulluğun  günümüz  koşullarına  göre tekrardan tanımlanması ve farklı ve yeni görünümlerinin nedenlerinin belirlenmesi sorunun aşımında önem arz etmektedir. Yoksulluğun yalnızca yeterli gelir seviyesine ulaşamama hali olarak tanımlanmasının ötesinde; sağlık, ulaşım, eğitim, teknoloji, sosyal, kültürel vb. çeşitli unsurların göz önünde bulundurularak tekrardan ele alınması gerekmektedir. Hatta, salgın ve afet dönemlerinde ortaya çıkan yoksulluk görünümüne dair,  literatüre  yeni  bir  yoksulluk  kavramı  kazandırmak  sorunun  çözümünde  büyük  bir  adım olacaktır.
-
-## KAYNAKÇA
-
-- Akdağ, E. (2003). What is işporta, Aksiyon, 388, 26-28.
-- Arlı,  A.  (2005).  Cumhuriyet  döneminde  Türkiye'de  şehirleşme  ve  gecekondu  araştırmaları. Türkiye Araştırmaları Literatür Dergisi, 3 (6), 283-352.
-- Arpacıoğlu,  Ö.  ve  Yıldırım,  M.  (2011).  Dünyada  ve  Türkiye'de  yoksulluğun  analizi.  Niğde Üniversitesi İİBF Dergisi, 4 (2), 60- 76.
-- Aytaç, Ö. (2009). Kent, yoksulluk ve sosyal şiddet. Uluslararası Yoksulluk Sempozyumu. İstanbul.
-- Balcı,  M.  (2018).  Çok  partili  dönemde  Türkiye'de  kentleşme  olgusu.  Econder  International Academic Journal, 2 (1), 8-15.
-- Batal,  S.  (2016).  Yoksulluk  kavramının  yerelleşmesi:  kentsel  yoksulluk  ve  yerel  yönetimlerin konuya yaklaşımı. The Journal of Academic Social Science Studies, 301- 316.
-- Batmaz  N.  ve  Erdem  Ç.  (2016).  Türkiye'de  1950-1960  döneminde  kentleşme  sürecini  siyasi iktidarın yapısı ve uygulamaları açısından yorumlamak. Muhafazakâr Düşünce Dergisi, 12 (47), 201-213.
-- Batmaz, N. Y. (2016). Kentsel yoksullukla mücadelede belediyelerin rolü: Keçiören belediyesi örneği. Aksaray Üniversitesi İİBF Dergisi, 1.
-- Bayındırlık ve İskan Bakanlığı, (2009). Kentsel yoksulluk, göç ve sosyal politikalar. Ankara.
-- Buğra, A. ve Çağlar K. (2003). New poverty and the changing welfare regime of Turkey.Ankara: UNDP.
-- Çelik, K., Vural, İ. Y. ve Tuncer, Y. (2017). Dünya'da ve Türkiye'de yoksulluğun genel görünümü: 2002  sonrası  döneme  ilişkin  bir  inceleme.  Recep  Tayyip  Erdoğan  Üniversitesi  Sosyal Bilimler Dergisi, 3 (5), 41- 79.
-- Dedeoğlu, S. (2011). Türkiye'de göçmenlerin sosyal dışlanması: istanbul hazır-giyim sanayinde çalışan Azerbaycanlı göçmen kadınlar örneği. Ankara Üniversitesi SBF Dergisi, 66, 27-48.
-- Dixon, J. ve Macarow, D. (1998), Poverty: a persistent global reality. London: Routledge.
-- Drewnowski, J. (1977), Poverty: It's meaning and measurement, Development and Change. Vol. 8(2), 183-208.
-- Dündar, Ö. Z. (2011). Türkiye'de kentsel yoksulluk sorunu açısından sosyal belediyeciliği önemi. Mediterranean Journal of Humanities, 117-126.
-- Erdem, T. (2006). Yoksulluk, T. Erdem (Ed.), Feodaliteden Küreselleşmeye Temel Kavramlar ve Süreçlerin içinde (s. 321- 365), Ankara: Lotus Yayınevi.
-- Erman, T. (2004). Gecekondu Çalışmalarında 'Öteki' Olarak Gecekondulu Kurguları, European Journal of Turkish Studies, Thematic Issue (1), http://www.ejts.org/document85.html.
-
-- Es M. ve Ateş H. (2004). Kent yönetimi, kentlileşme ve göç: sorunlar ve çözüm önerileri. Sosyal Siyaset Konferansları Dergisi, 0, 48, 205-248.
-- Es, M.ve Güloğlu, T. (2007). Bilgi toplumuna geçişte kentlileşme ve kentsel yoksulluk:  kocaeli örneği. 6. Uluslararası Bilgi, Ekonomi ve Yönetim Kongresi. İstanbul.
-- Eseler B., Dural D. B. vd. (2019). Kayıt dışı istihdama genel bir bakış: evde iş yapan kadınlar örneği. ICESS Uluslarası Kongresi Tam Bildiri Kitabı, Bandırma.
-- Gafar, J. (1998). Growth, ınequality and poverty in selected caribbean and latin american countries, with emphasis on guyana. Journal of Latin American Studies, 30, 591-617.
-- Genç Y. ve Çat G. (2013). Engellilerin istihdamı ve sosyal içerme ilişkisi, Akademik İncelemeler Dergisi, 8 (1), 363-394.
-- Güner, B. (2017). Türkiye'de kent- kent göçü üzerine değerlendirmeler. Mediterrannean Journal of Hümanities, 7 (1), 205-212.
-- Işık, O. ve Pınarcıoğlu, M. (2003). Nöbetleşe yoksulluk, İstanbul: İletişim Yayınları.
-- Keleş, R. (2011). Yerinden yönetim ve siyaset, İzmir: Cem Yayınevi.
-- Keleş, R. (2015). 100 soruda Türkiye'de kentleşme, konut ve gecekondulaşma. İstanbul.
-- Kılıç, T. ve Hardal, S. (2014) Kentsel dönüşümün sosyal ve mekansal yansımalarına bir örnek: Sarıgöl Mahallesi (Gaziosmanpaşa-İstanbul). Türk Coğrafya Dergisi, 1-7 (62).
-- Kılınç  Z.  A.  ve  Çelik  A.  (2009).  Kentsel  dönüşüm  ve  kültürel  dönüşüm.  Sosyal  Ekonomik Araştırmalar Dergisi, (9) 18, 145-164.
-- Kızılçelik, S. (2000). Sosyoloji yazıları. 2. Ankara: Anı Yayınları.
-- Kongar,  E.  (1982).  Kentleşen  gecekondular  ya  da  gecekondulaşan  kentler  sorunu,  kentsel bütünleşme, Ankara: Türk Sosyal Bilimler Derneği Türkiye Gelişme Araştırmaları Vakfı Yayını.
-- Ofluoğlu, G. ve Balcı, A. İ. (2016). Küreselleşme, bilgi toplumu ve çalışan yoksullar. Emek ve Toplum Dergisi. 5 (11), 56-75.
-- Öktem, B. (2011). İstanbul'da neoliberal kentleşme modelinin sosyo- mekansal izdüşümleri, İÜ Siyasal Bilgiler Fakültesi Dergisi, (0) 44, 23-40.
-- Philipp, B. (1999). Poverty reduction projectpoverty -world bank and undp concepts, Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, 1-8.
-- Polat  A.Y.  (2015).  Türkiye'de  kentsel  dönüşüme  bütünsel  bir  bakış:  Elazığ  örneği.  Fırat Üniversitesi Sosyal Bilimler Dergisi, 25 (1), 185-201.
-- Room, G. (1999). Social  exclusion,  solidarity  and  the  challenge  of  globalisation.  International Journal of Social Welfare, Vol. 8.
-- Sağlam, S. (2006). 1923-1950 yılları arasında Türkiye'de kent ve kentleşme olgusu.  Sosyoloji Konferansları Dergisi, 53, 257-274.
-- Sevinç,  İ.  ve  Göksoy,  B.  (2018).  Türkiye'de  kentsel  yoksulluğa  yerel  müdahalede  sosyal belediyeciliğin önemi ve sorunları, M. Mecek, B. Parlak, E. Atasoy (Ed.), Kent yönetiminde yeni yaklaşimlar ve etkin belediyecilik  uygulamaları,  (ss.435-447),  Ankara:  Nobel Akademik Yayıncılık.
-- Sönmez  N.  Ö.  (2006).  Düzensiz  konut  alanlarında  kentsel  dönüşüm  modelleri  üzerine  bir değerlendirme. Planlama Dergisi, 2, 121-127.
-- Taş, H.Y. ve Özcan, S. (2013). Türkiye'de iç göçün yoksulluğa ve istihdama etkileri, SESSION 1B: Büyüme ve Gelişme Dergisi, 289-298.
-
-- Tekeli, İ. (2001). Kent planlaması ve kent araştırmaları, cumhuriyet döneminde Türkiye'de bilim: sosyal bilimler-II, Ankara: Türkiye Bilimler Akademisi Yayınları, 97-159.
-- Tekeli, İ. (2008). Göç ve ötesi, İstanbul: Tarih Vakfı Yurt Yayınları.
-- Todaro, M. P. (2000). Economic development, Seventh Edition, Addison Wesley, Massachusetts.
-- Tunçay,  H.  E.  ve  Eşbah,  H.  O.  (2020).  Sağlıklı  kentler  ve  pandemi:  COVID-19  pandemisinin düşündürdükleri. Peyzaj Eğitim, Bilim, Kültür ve Sanat Dergisi, 2/2, 57- 64.
-- Uzun A. M. (2003). Yoksulluk olgusu ve dünya bankası, Cumhuriyet Üniversitesi İktisadi İdari Bilimler Dergisi, Cilt 4, Sayı 2.
-- World Bank Development Report (2000). World bank development report 2000/2001 attacking poverty, World Bank Oxford University Press.
-- World Bank, (1991). Poverty reduction handbook, Washington.
-- Yüceyılmaz  A.  A.  ve  Yüceyılmaz  H.  (2018).  Bir  politik-  ekonomik  evrimin  kentsel  kayıtları: Türkiye'nin tarihsel dönüşümünde kentleşme politikaları. Akdeniz İİBF Dergisi, 18, 2018 Özel sayısı, 98-114.
-
-İnternet Kaynakları
-
-- Adrese  dayalı  nüfus  kayıt  sistemi sonuçları, https://data.tuik.gov.tr/Bulten/Index?p=AdreseDayali-Nufus-Kayit-Sistemi-Sonuclari-2020-37210 , Erişim Tarihi: 28.12.2020.
-- BBC (11.04.2021). Aşılama zengin ülkelerde yoksul ülkelere göre '25 kat' hizli. https://www.bbc.com/turkce/haberler-dunya-56690185, Erişim Tarihi: 26.04.2021.
-- De Hann, Arjan, Maxwell, Simon, Poverty and social exclusion north and south,
-- https://opendocs.ids.ac.uk/opendocs/bitstream/handle/123456789/1322248.1A\_10.190881968 2017.141.pdf?sequence=1&amp;isAllowed=y, Erişim Tarihi: 07.05.2019.
-- NTV  (28.10.2020).  Corona  virüs  pandemisi  zengin  ve  yoksul  çocuklar  arasındaki  "uçurumu" derinleştiriyor,  https://www.ntv.com.tr/saglik/corona-  virus-pandemisi-zengin-ve-yoksulcocuklar-arasindaki-ucurumu derinlestiriyor,\_CwA\_gVF40aWqh6a4i3e2A, Erişim Tarihi: 01.01.2020.
-- Türk Dil Kurumu (TDK), Güncel Sözlük, https://sozluk.gov.tr/, Erişim Tarihi: 08.04.2021. World Bank, Poverty and shared prosperity 2020 report, https://www.worldbank.org/en/publication/poverty-and-shared-prosperity, Erişim tarihi: 07.04.2021.

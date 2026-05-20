@@ -1,32 +1,9 @@
-## Göç, Toplumsal Uyum ve Aidiyet
-
-## Mehmet Akif Sözer *
-
-Makale Geliş Tarihi: 07.11.2019
-
-Makale Kabul Tarihi: 28.12.2019
-
-DOI:
-
-10.35675/befdergi.643948
 
 ## Öz
 
 Bireylerin birbirlerine olan ihtiyaçlarından kaynaklanan birlikte yaşama güdüsü; psikoloji, sosyal psikoloji ve sosyoloji alanlarında gerçekleştirilen araştırmalarda ele alınan önemli  konulardan  birisidir.  Özelikle  son  yıllarda  yaşanan  yoğun  göç  ve  buna  bağlı gerçekleşen sosyal değişim ve dönüşümler; uyum ve aidiyet kavramlarının yeniden yorumlanmasına neden olmuş ve bu kavramların pek çok boyutunu tartışmaya açmıştır. Bu bağlamda, aidiyet temel bir insan güdüsü olarak tanımlanmakta, bireyler arası ilişkilerin inşa edilmesinde, geliştirilmesinde ve sürdürülebilir bir hale gelmesinde aidiyetin işlevsel bir istek olduğu vurgulanmaktadır. Göç edenlerin ev sahibi ülkede yaşadıkları en önemli sorunlar: ev sahibi ülke dilini iyi ya da hiç bilmemeleri, istihdam, dilden ve ev sahibi toplumunun verdiği tepkiden  kaynaklı  sorunlar  yaşamaları,  barınma  sorunu,  ev  sahibi  toplumla  farklı  bir  dine sahipse  dini  ritüellerini  gerçekleştirememe  sorunu,  yabancılara  karşı  olumsuz  tutumların şiddeti,  yeni  çevreye  uyum  süreci,  ekonomik  zorluklar  ve  kültürel  farklılıklar  şeklinde sıralanabilir.  Bu  sorunların  çözümü  için,    göçmenlerin  kültürleri,  dinleri,    sosyoekonomik yapıları  ve  ev  sahibi  kültüre  olası  katkıları  konusunda  öncelikle  detaylı  bilgilere  sahip olunması  ile  mümkündür.  Göçmenlerin  detaylı  bilgileriyle  tanınmalarının  ardından  onlara yönelik ekonomik, sosyal ve kültürel politikalar belirlenebilir. Böylece, ev sahibi topluma da katkı yapmaları sağlanabilir.
 
 Anahtar Kelimeler: Aidiyet, göç, kimlik, toplumsal uyum
-
-## Migration, Social Adaptation and Belonging
-
-## Abstract
-
-The motivation to live together because of the need of the individuals to each other is one of the most important issues that become a topic of research in psychology, social psychology and sociology. In particular, the intensive immigration experienced in recent years and the social  changes  and  transformations  that  take  place  in  relation  to  this  have  led  to  reinterpretation  of  concepts  of  cohesion  and  belonging,  and  opened  up  many  of  their dimensions  to  discussion.  Belonging  is  defined  as  a  fundamental  human  urge  and  is functional desire to build, develop and sustain inter-individual relations. The most important problems that migrants live in host countries are: they do not know the language of the host country  well;  reactionary  problems  of  host  society,  language  problems  and  legal  status problems in accessing employment; payability and the problem of housing in terms of the host society;  the  problem  of  failing  to  fulfill  religious  rituals  when  migrants  are  in  different religion;  the  proportion  of  foreigners  in  comparison  to  the  national  population  in  the migrated country and the violence of attitudes towards foreigners, the process of adjustment to the new environment, economic difficulties and cultural differences. Related persons and institutions  with  the  issue  should  have  detailed  information  on  the  cultures,  religions  and socioeconomic structures of the migrants living in the region, and their possible contribution to the host countries' cultural heritage. After getting informed about the immigrants in detail, economic,  social  and  cultural  initiative fields can  be  identified for  them.  Therefore, immigrants may support the host country in such areas as special field services etc.
-
-* Gazi  Üniversitesi,  Gazi  Eğitim  Fakültesi,  Temel  eğitim  Bölümü,  Ankara,  Türkiye,  akif@gazi.edu.tr, ORCID ID: 0000-0002-1291-4067
-
-<!-- image -->
-
-Keywords: Belonging, migration, ıdentity, social adaptation
 
 ## Giriş
 
@@ -99,68 +76,3 @@ Göç ile gelen çocuklara eğitim verilirken, göçmen çocuklar ile beraber e�
 Göç sonrası yeni yaşanmaya başlanılan alanda, okulda ayrımcılık ya da sosyal dışlanmaya maruz kalma göçmen çocuğun ruh sağlığını ve zihinsel süreçlerini etkileyen etmenlerden biri olarak  değerlendirilmektedir  (Kirmayer  vd,  2011).  Öğretmenlerin  derslerde  grupla  öğretim yöntemlerine  ağırlık  vermesi,  kuralların  tüm  öğrencilerle  birlikte  oluşturulması  göçmen çocukların sosyal ilişkilerini geliştirmesine katkı sağlayacaktır. Bu amaçla derste ve ders dışı etkinliklerde gruplar oluştururken, heterojen yapıda olmasına özen gösterilmelidir.
 
 Öğretmenler  göç  ve  göçmenler  ile  ilgili  bilgi  sahibi  olmalıdır.  Öğretmenin  tutumu  ile göçmen  çocuk  okula  daha  da  yakınlaşabilmekte  ya  da  uzaklaşabilmektedir.  Başat  faktör olarak  öne  çıkan  öğretmen,  göçmen  çocukların  yabancı  bir  ülkeye  ve  yabancı  bir  kültüre uyum sağlamaya çalıştığını unutmamalı buna yönelik davranmalıdır.
-
-## Kaynakça
-
-- Akdoğan,  A.  A.,  &amp;  Köksal,  O.  (2014).  Aidiyet  algısının  örgütsel  vatandaşlık  davranışı üzerindeki etkisinde yöneticiye güvenin aracılık rolü. Atatürk Üniversitesi Sosyal Bilimler Enstitüsü Dergisi , 18 (1), 25-43.
-- Akıncı, B., Nergiz, A., &amp; Gedik, E. (2015). Uyum süreci üzerine bir değerlendirme: Göç ve toplumsal kabul. Göç Araştırmaları Dergisi , 1 (2), 58-83.
-- Alptekin,  D.  (2011). Toplumsal  aidiyet  ve  gençlik:  Üniversite  gençliğinin  aidiyeti  üzerine sosyolojik bir araştırma (Doktora Tezi). Selçuk Üniversitesi Sosyal Bilimler Enstitüsü.
-- Aşkın,  M.  (2007).  Kimlik  ve  giydirilmiş  kimlikler. Atatürk  Üniversitesi  Sosyal  Bilimler Enstitüsü Dergisi , 10 (2), 213-220.
-- Avcı, M. (2006). Ergenlikte toplumsal uyum sorunları. Atatürk Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 7(1), 39-63.
-- Baumeister,  R.  F.,  &amp;  Leary,  M.  R.  (1995).  The  need  to  belong:  desire  for  interpersonal attachments as a fundamental human motivation. Psychological bulletin , 117 (3), 497.
-- Bezirgan, M., &amp; Koç, F. (2014). Yerel mutfakların destinasyona yönelik aidiyet oluşumuna etkisi: Cunda Adası örneği. Journal of International Social Research , 7 (34), 917-928.
-- Bilgin, N. (2007). Kimlik inşası. İzmir: Aşina Kitaplar
-- Bozkurt, T. (2006). Poşalar örneğinde etnisite ve toplumsal cinsiyet ilişkisi. Ç. Cehhan Suvari (Ed.), Artakalanlar,  Anadolu'dan  Etnik  Manzaralar içinde  (s.  283-355).  İstanbul:  E Yayınları.
-- Brocato, E. D. (2006). Place attachment: an ınvestigation of environments and outcomes ın service context (Unpublished Doctoral Thesis) . The University of Texas at Arlington.Texas.
-- Çağırkan, B. (2016). Göç,  hibrit  kimlik ve  aidiyet: yeni  toplumlar, Yeni  Kimlikler.İnsan  ve Toplum Bilimleri Araştırmaları Dergisi, 5(8),2613-2623.
-- Çakırer-Özservet,  Y.  (2014). 1990'lardan  bu  yana  çocuk  dostu  bir  şehir:  Fano .  Marmara Belediyeler: Marmara Bölgesi Yerel Belediyeler
-- Çakırer Özservet, Y. (2016). Uluslararası göç, yerel yönetimler ve toplumsal uyum. TBB İller ve Belediyeler Dergisi , 813 , 48-55.
-- Dalbay,  R.  S.  (2018).  'Kimlik'  ve  'Toplumsal  Kimlik'  kavramı. Süleyman  Demirel Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 31, 161-176.
-- Deringöz, T. (2017). Kentsel dönüşümün kentsel aidiyet duygusu üzerindeki etkisi: Kırşehir ili örneği (Yüksek Lisans Tezi). Aksaray Üniversitesi, Sosyal Bilimler Enstitüsü.
-
-- Erdem, C.(2017). Sınıfında mülteci öğrenci bulunan sınıf öğretmenlerinin yaşadıkları öğretimsel  sorunlar  ve  çözüme  dair  önerileri. Medeniyet  Eğitim  Araştırmaları  Dergisi . 1 (1), 26-42.
-- Erdoğan,  M.  M.  (2014). Türkiye'deki  Suriyeliler:  Toplumsal  kabul  ve  uyum  araştırması, Hacettepe Üniversitesi, göç ve siyaset araştırmaları merkezi . HUGO Yayınları.
-- Ergün, D. (2000), Kimlikler kıskacında ulusal kişilik . Ankara: İmge Kitabevi Yayınları.
-- Gencer,  T.  E.  (2017).  Göç  ve  eğitim  ilişkisi  üzerine  bir  değerlendirme:  Suriyeli  çocukların eğitim gereksinimi ve okullaşma süreçlerinde karşılaştıkları güçlükler. Journal of International Social Research, 10 (54), 838-851.
-- Gençöz, F. (1998). Uyum psikolojisi. Kriz Dergisi , 6(2), 1-7.
-- Hazan, C. &amp; Shaver, P. (1994). Attachment as an organizational framework for research on close relationships. Psychological Inquiry , 5, 1-22.
-- Kadıoğlu, Z. K. (2013).  Kitle iletişim araçlarının şekillendirdiği sosyal kimlikler ve aidiyet duygusu ekseninde tüketici davranışları. İstanbul Üniversitesi İletişim Fakültesi Dergisi| Istanbul University Faculty of Communication Journal , (45), 101-114.
-- Kaştan, Y. (2015). Türkiye'de göç yaşamış çocukların eğitim sürecinde karşılaşılan problemler. Uluslararası Sosyal ve Eğitim Bilimleri Dergisi, 2 (4), 216-229.
-- Kılıçoğlu,  G.  (2014). İngiltere'deki  öğretmenlerin  çokkültürlü  öğretim  yeterlikleri  ile  türk öğrencilerin  kültürleşme  tercihlerinin  okula  aidiyet  duygusu  ve  akademik  başarıyla ilgisi ..http://openaccess.ogu.edu.tr:8080/ adresinden 18.06.2018 tarihinde erişilmiştir.
-- Kirmayer, L. J.,Narasiah, L., Munoz, M., Rashid, M., Ryder, A. &amp; diğerleri. (2011). Common mental  health  problems  in  immigrants  and  refugees:  general  approach  in  primary  care. Canadian  Guidelines  for  Immigrant  Health.  http://psychiatry.utoronto.ca/  adresinden 21.06.2018 tarihinde erişilmiştir.
-- Köse, D. &amp; Özsoy, D. (2019). Göçmenlere Dil Öğretimi Almanya Türkiye Örneği. Uluslararası Yabancı Dil Olarak Türkçe Öğretimi Dergisi , 2 (1), 112-125.
-- Murphy-Lejeune,  E.  (2001). Student  mobility  &amp;  narrative  in  Europe:  The  New  Strangers , Routledge, Florence, USA.
-- Özbek,  Ç.,  &amp;  Şahan,  İ.  E.  (2016).  Yabancı  yerleşimcilerin  toplumsal  aidiyetlerinin  yerelde kurulma  pratikleri:  The  post  gazetesi  örneği. Fen  Edebiyat  Fakültesi  Sosyal  Bilimler Dergisi, 38, 159-182.
-- Özdil,  M.  (2017).  Kolektif  ve  bireysel  kimlikler  bağlamında  sosyal  bütünleşme. Süleyman Demirel Üniversitesi Sosyal Bilimler Enstisüsü Dergisi, 28, 383-400.
-- Özdil,  M.  (2017).  Kolektif  ve  bireysel  kimlikler  bağlamında  sosyal  bütünleşme. Journal  of Suleyman Demirel University Institute of Social Sciences , 28 (3).
-
-- Sarıtaş,  E.,  Şahin,  Ü.,  &amp;  Çatalbaş,  G.  (2016).  İlkokullarda  yabancı  uyruklu  öğrencilerle karşılaşılan sorunlar. Pamukkale Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, (Ek1),s. 208-229.
-- SETA &amp; Theirworld (2017). Engelleri  aşmak:  Türkiye'de Suriyeli  çocukları okullaştırmak. https://setav.org/ adresinden 21.06.2018 tarihinde erişilmiştir.
-- Snyder, L. D. (2006). The new 'ıntegration' tests and materials in the netherlands, germany, baden-wurttemberg,  and  the  united  kingdom:  the  muslim  other  and  the  change  from multiculturalism to assimilation , (Master Thesis), Bosphorus University.
-- Şeker,  B.  D.  (2015).  Göç  ve  uyum  süreci:  Sosyal  psikolojik  bir  değerlendirme. Göç  ve Uyum içinde (s. 9-21). Transnational Press London.
-- Şirin, A. N. (2012). 1989 göçü ve sonrası ile ilgili Türkiye'de yapılan sosyolojik araştırmalarla ilgili bir değerlendirme. 89 göçü: Bulgaristan'da 1984 89 azınlık politikaları  ve  Türkiye'ye  zorunlu  göç içinde  (s.  397-422).  İstanbul:  Yıldız  Teknik Üniversitesi.
-- TBMM İnsan Haklarını İnceleme Komisyonu Mülteci Hakları Alt Komisyonu Göç ve Uyum Raporu (2018). https://www.tbmm.gov.tr/ adresinden 18.06.2018 tarihinde erişilmiştir.
-- Tellefsen, T. &amp; Thomas, G. P. (2005), The antecedents and consequences of organizational and personal commitment in business service relationships, Industrial Marketing Management, 34, 23-37.
-- Uzun,  E.M.  &amp;  Bütün,  E.  (2016).  Okul  öncesi  eğitim  kurumlarındaki  Suriyeli  sığınmacı çocukların karşılaştıkları sorunlar hakkında öğretmen  görüşleri. Uluslararası Erken Çocukluk Eğitimi Çalışmaları Dergisi, 1(1), s.72-83.
-- Weiss, R. S. (1988). Loss and Recovery. Journal of Social Issues, 44 , 37-52.
-- Yıldız, S. (2007). Kimlik ve ulusal kimlik kavramlarının toplumsal niteliği. Milli Folklor, 74, 9-16.
-
-## Extended Abstract
-
-Motivation to live together resulting from the needs of individuals to each other is one of the  important  issues  addressed  in  research  conducted  in  the  field  of  psychology,  social psychology  and  sociology  (Alptekin,  2011:  60).  In  particular,  the  intense  migration  and thereby social changes and transformations in recent years have led to the reinterpretation of the  concepts  of  harmony  and  belonging  and  opened  many  aspects  of  these  concepts  to discussion.    In  this  context,  belonging  is  defined  as  a  basic  human  motivation  and  it  is emphasized  that  belonging  is  a  functional  desire  in  the  construction,  development  and sustainability of interpersonal relations.
-
-The concept of belonging defines where, what and how the individual has commitment in the emotional and spatial dimension and at the same time it is influenced by emotions, beliefs, political  orientations  and  character  of  individual.  The  birth  of  the  individual  starts  his belonging to a family, a community, a social order and thus the concept of belonging begins to take root and it becomes both an obligation and a choice in the following processes. When it  is  evaluated  on  an  individual  basis,  since  the  elements  such  as  experience,  culture, readiness,  belief,  point  of  view,  space,  object  constitute  the  skeleton  of  the  concept  of belonging,  a  common  definition  or  generalization  regarding  this  concept  does  not  seem possible. Recently, it is seen that the concepts of identity-belonging-harmony are discussed in terms of migration from the sociological perspective.
-
-When it is dealt with especially in terms of immigrants, it can be seen that the identity dimension  of  the  concept  of  belonging  comes  to  the  forefront  and  identity  formation  is critical. 'Identity involves both a differentiation between the individual and the other, and it is built  on  the  basis  of  identification  between  himself  and  others'  (Bilgin,  2007:  95).  While migrants  adapt  themselves  to  the  society  to  a  certain  extent  over  time,  they  have  certain difficulties  in  defining  their  belonging  and  identity  because  the  concepts  of  identity  and belonging are not only nourished by absolute and unchanging elements from the past, but also built together with the cultural interaction in the future with a number of goals.
-
-Harmony is the process of a balanced relationship with the self and the environment by carrying  the  individual  characteristics  of  the  individual  (Avcı,  2006).  With  the  concept  of harmony, it is often meant to mean transition from one situation to another. There is a general consensus  on  Philip's  definition  of  the  concept  of  harmony.  According  to  this  definition, adaptation  is  the  change  of  an  individual's  behavior  in  order  to  adapt  to  local  customs  and traditions.
-
-In many studies and researches, harmony and belonging are mostly considered together with  the  concepts  of  'social  integration'  and  'integration.'  As  it  is  pointed  out  in  Turkey Grand National Assembly Investigation Commission on Human Rights Refugee Rights SubCommission on Migration and Integration Report (2018), multiculturalism conceptual basis in this  context  such  as  empathy,  tolerance,  cohesion,  participation,  coexistence,  assimilation, acceptance,  absorption,  integration  ,  integration,  adaptation  are  discussed 1 .In  this  process, migrants  can  have  the  opportunity  to  build  a  unique  identity  along  with  the  hybridization process,  unlike  the  assimilation  process.  As  a  result  of  this  situation,  as  Çağırkan  (2016) states,'American  Chinese,  Turkish  origin  German  Footballer,  Punkist,  Arsenal  Fan,  etc.' identity  definitions  can  be  made.  The  process  of  establishing  a  hybrid  identity  is  also important  in  terms  of  self-identification  'step,  which  is  one  of  the  most  troublesome  and painful processes for the immigrants who have completed the adaptation process because it creates an opportunity for individuals to create their own free zones in terms of identity.
-
-It  is  seen  that  as  a  result  of  the  rapid  changes  and  transformations  in  the  international arena in the recent period, the concepts of harmony and belonging are discussed together with 'migration' concept in the sociological context. However, in the last century, the concept of migration can be evaluated in the light of new conceptual categories. As Özbek and Şahan (2016:  160)  stated:  'Climatic  migrations,  health  migrations,  elderly  migrations,  retirement migrations and life-style migrations that cover all of these categories make  sense'.
-
-Considering both the conceptual categorization of migration and the general classification of internal and  external migration; the subject of compliance  and  belonging  covers  all individuals  regardless  of  the  reasons  for  migration,  the  integrated  effects  of  migration  in different areas, the behavior and attitudes of migrants, the responses of the settled people in the region to migrants.
-
-Since 2011, the Syrian civil war and hardship have led immigration flows to a degree that has  never  been  experienced  before.  With  the  open-door  border  policy,  this  drama  in  the border  /  neighboring  country  has  shown  an  urgent  and  humanitarian  attitude.  These people were placed to temporary camps in the border region but the the capacity of the camping area was  insufficient  and  conflicts  in  Syria  continued  and  this  resulted  in  migration  flows  into Turkey.  A great many of the migrants had to settle up in different cities in Turkey (Çakırer; Özservet,  2014).  According  to  the  report  of  Interior  Ministry  Immigration  Administration General Directorate on March 22, 2018, compared to the previous month, the Syrians in the number of refugees who registered their biometric data in Turkey increased by 21 thousand 59  people  stated  that  a  total  of  3  million  561  thousand  707  people.  Of  this  1  million  931 thousand people 717's than men, and 1 million 629 thousand 990 are women (https://www.umhd.org.tr/ 2018/ 04/ turkiyedeki -suriyeli-multeci-sayisi-20-bin-artti/). Almost no country has encountered so many asylum seekers / immigrants in such a short time throughout history.
-
-The most important problems that migrants experience in the host country are as follows: lack  of  knowledge  of  the  host  country  language,  employment,  problems  resulted  from language  or  host  community,  housing  problems,  the  problem  of  not  performing  religious rituals  if  they  have  a  different  religion  with  the  host  society,  severity  of  negative  attitudes, adaptation  process  to  the  new  environment,  economic  difficulties  and  cultural  differences (Çakırer Özservet, 2016: 54). In order to solve these problems, it is possible to have detailed information about the immigrants' cultures, religions, socio-economic structures and possible contributions to the host culture. Once the migrants are known for their detailed knowledge, economic, social and cultural policies can be determined. Thus, they can also contribute to the host community.

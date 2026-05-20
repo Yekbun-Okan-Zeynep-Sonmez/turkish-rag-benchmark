@@ -1,30 +1,3 @@
-<!-- image -->
-
-Cilt Volume:16
-
-Ekim October 2020
-
-Makalenin Geliş Tarihi Received Date: 25/03/2020
-
-Makalenin Kabul Tarihi Accepted Date: 21/10/2020
-
-## Sosyal Politika, Yoksulluk ve Kent Yoksulluğu
-
-DOI: 10.26466/opus. 708198
-
-*
-
-## Eylem Beyazıt*
-
-* Dr. Öğretim Üyesi, Hatay Mustafa Kemal Üniversitesi, Antakya M.Y.O, Yerel Yönetimler Programı/Hatay/Türkiye
-
-E-Posta :
-
-eylmbyzt@gmail.com
-
-ORCID:
-
-0000-0002-3432-5722
 
 ## Öz
 
@@ -33,28 +6,6 @@ Sosyal politikanın en tartışmalı alanlarından biri yoksulluktur. Yoksulluğ
 Anahtar Kelimeler:
 
 Sosyal politika, yoksulluk, kent yoksulluğu
-
-<!-- image -->
-
-## Abstract
-
-One of the most polemical areas of social policy is poverty. Poverty studies in the social policy domain and academic results show that poverty will remain for a long time a significant problem area. While debates continue between theories of the social state, of the welfare state and the new approaches of liberalism, it is known that dimension and property of poverty have changed with globalization. Urban poverty and the shifting urban poverty states, considering population that is increasingly gathered in cities, lead governments to produce and implement new public policies in terms of access effectively to public services. The main purpose of this study is to discuss poverty and urban poverty within the framework  of  social  policy  meaning.  Moreover,  it  is  essential  to  understand  and  examine  the  new poverty processes that will be produced in the future through urban poverty. Nowadays, the concentration of the population in urban rather than rural areas causes the urban poverty to deepen. Trying to  re-understand the urban of the future through deepening urban poverty will create a reasonable basis for the establishment of inclusive social policies. The discussions on social policy and the shift of urban poverty demonstrate that urban poverty will be the main determinant of the urban of the future and urban management as a common problem area that transcends the ideological disagreement.
-
-Keywords:
-
-Social policy, poverty, urban poverty
-
-Cilt Volume:16
-
-Ekim October 2020
-
-Makalenin Geliş Tarihi Received Date: 25/03/2020
-
-Makalenin Kabul Tarihi Accepted Date: 21/10/2020
-
-## Social Policy, Poverty and Urban Poverty
-
-*
 
 ## Giriş
 
@@ -239,88 +190,3 @@ Yoksulluğun görünürleşmesi beraberinde yoksulluk süreç ve dinamiklerinin 
 Gittikçe daha görünür hale gelen ve derinleşen kentsel yoksulluk, çoğunlukla kırdan kente göç etmek durumunda kalan mülksüz insanların, kentteki işgücü  piyasasının  olumsuz  şartlarından  dolayı  enformel  sektörlerde  istihdam edilmelerine ya da uzun süreli işsiz kalmalarına yol açmaktadır. Bu bağlamda kent yoksullarını; iş imkânlarına ve kaynaklara erişememeleri, karar verme mekanizmalarından uzak kalmaları, kentin olanaklarından ve kamusal hizmetlerden yeterince yararlanamamaları, politik ve kültürel süreçlere sağlıkl  bir  şekilde  katılamamaları  gibi  nedenlerden  dolayı  oldukça  geniş  bir perspektiften  ele  almak  gerekmektedir.  Bu  nedenlerden  kaynaklı  bir  sosyal dışlanmışlığın aşılması için merkezi yönetimler ile yerel yönetimler ve sivil toplum  kuruluşları  politikalar  geliştirmelidir.  Yoksulların  yaşamlarının  enformellikten kurtarılabilmesi için ulusal ve uluslararası duyarlılık da sürece dinamizm katacaktır.
 
 Yakın gelecekte, kıt kaynaklar üzerindeki nüfus baskısının son aşamaya gelip ekonomik eşitsizliği derinleştireceği ve sosyal patlamalara neden olacağı açıktır.  Buna  kentleşme ve çevre  sorunlarını, göç ve  savaş tehditlerini, aynı zamanda son dönemlerde etkisini şiddetli bir şekilde hissettiren salgın hastalıkları  da  eklemek mümkündür. Ve görünen o ki bu tablodan ilk etkilenen kesim  yoksullar  olacaktır.  Çözüm  devletin  sosyal  devlet  anlayışı  içerisinde hareket ederek yoksul odaklı politikalara öncelik vermesidir. Ancak kararlı ve çerçevesi doğru çizilmiş yoksulluğu önleyici politikalarla gerek kırsal gerekse kentsel yoksullukla mücadele mümkün olacaktır.
-
-## EXTENDED ABSTRACT
-
-## Social Policy, Poverty and Urban Poverty
-
-*
-
-Eylem Beyazıt Hatay Mustafa Kemal University
-
-One of the most polemical areas of social policy is poverty. Poverty studies in  the  social  policy  domain  and  academic  results  show  that  poverty  will remain for a long time a significant problem area. While debates continue between theories of the social state, of the welfare state and the new approaches  of  liberalism,  it  is  known  that  dimension  and  property  of  poverty have  changed  with  globalization.  Urban  poverty  and  the  shifting  urban poverty states, considering population that is increasingly gathered in cities, lead governments to produce and implement new public policies in terms of access effectively to public services.
-
-Poverty is increasing in the world due to the increasing income inequalities, unemployment and economic crises. This phenomenon is reflected in the spaces of the cities with different dimensions. The poor are confined to the urban periphery and that is why they are excluded from the city. Interregional inequalities cause a flow of immigration to cities that stand out in industry,  in  commerce  and  in  tourism,  because  of  this  situation  the  new urban poor who emerge as a result of these migrations seek solutions informally.
-
-The main purpose of this study is to discuss poverty and urban poverty within the framework of social policy meaning. Moreover, it is essential to understand and examine the new poverty processes that will be produced in  the  future  through  urban  poverty.  Nowadays,  the  concentration  of  the population  in  urban  rather  than  rural  areas  causes  the  urban  poverty  to deepen. Trying to re-understand the urban of the future through deepening urban poverty will create a reasonable basis for the establishment of inclusive  social  policies.  The  discussions  on  social  policy  and  the  shift  of  urban poverty demonstrate that urban poverty will be the main determinant of the urban of the future and urban management as a common problem area that transcends the ideological disagreement.
-
-In the global process, capitalism is presented as a magical order that will be the 'hero' of all humanity in the future as it is current. The magic of capitalism is here: 'I create the problem, but just I will solve it. And while solving,  I  add  'value'  to  humanity,  and  this  value  is  a  progress.'  Capitalist system has this point of view also in struggling with poverty. This determinacy of capitalism is not new to the habit of looking at the problem from its own perspective. What is important here is whether capitalism can reconsider itself through poverty, and how it will happen.
-
-Urban poverty, which has become more visible and deepened, leads to the employment of property less people, who have to migrate mostly from rural to urban, in informal sectors or leads to prolonged unemployment for a long time due to the adverse conditions of the labour market in the city. In this context, it should be considered the urban poor from a very broad perspective; due to the reasons such as not having access to job opportunities and resources, staying away from decision-making mechanisms, not being able to benefit adequately from the public services, and not being able to participate in political and cultural processes. To overcome a social exclusion  caused  by  these  reasons,  central  administrations,  local  governments and non-governmental organizations should develop social policies together.
-
-Undoubtedly in a short time, the population pressure on scarce resources will deepen economic inequality and cause social explosions. It is possible to add urbanization and environmental problems, migration and war threats, as well as pandemic diseases that have had a severe effect recently. It seems that the first segment affected by this picture will be the poor. The solution is to give priority to poor-oriented policies by acting within the perceptive of the social state. In such a way, it will be possible to fight both rural and urban poverty with determined and well-defined policies to prevent poverty. The evident visibility of poverty makes it necessary to determine the processes and dynamics of poverty and to develop social policies within this framework. In order to respond the essential needs of the poor, it is necessary for the solution of the problems that to give importance to the demands for the development of human resources rather than to the distribution of temporary aid. In the context of Giddens approach (2001), which suggests 'investing in human capital whenever possible', social policies aimed at imp- roving human capital are very important in terms of reducing poverty and deprivation.
-
-## Kaynakça / References
-
-- Adaman,  F.  ve  Keyder,  Ç.  (2005).  Türkiye'de  büyük  kentlerin  gecekondu  ve çöküntü mahallelerinde yaşanan yoksulluk ve sosyal dışlanma. Avrupa Komisyonu Çalışma, Sosyal İşler ve Fırsat Eşitliği Dairesi Sosyal İçerme Belgesi Raporu , 12.09.2019 tarihinde https://ec.europa.eu/employment\_social/social\_inclusion/docs/2006/stu dy\_turkey\_tr.pdf adresinden erişildi.
-- Aktan, C. C. (2002). Yoksullukla mücadele stratejileri . Ankara: Hak-İş Yayınları.
-- Aldemir, Ş.  ve  Özpınar,  Ö.  (2004).  Kapitalizm,  yoksulluk  ve  sosyal  dışlanma, Amme İdaresi Dergisi , 37 (2), 1-11.
-- Aybar, M. A. (2002). Marksizm ve sosyalizm üzerine düşünceler .  İstanbul: İletişim Yayınları.
-- Bauman, Z. (1999). Çalışma, tüketicilik ve yeni yoksullar . Ü. Öktem (Çev.), İstanbul: Sarmal Yayınevi.
-- Beyazıt, E. (2019). Hatay kent kimliği . Ankara: Detay Yayıncılık.
-- Beyazıt, E. ve Güneş, M. (2016). Yeni yerel yönetim yasalarının sosyal politikaya katkıları, International Journal of Academic Value Studies , 2 (4), 78-89.
-- Bıçkı,  D.  (2005).  Kentsel  yoksulluğun  yapısal  faktörlerle  analizi:  ekonomik  ve politik yapının yeniden örgütlenmesi; karşılaştırmalı bir analiz, İş  Güç Elektronik Endüstri İlişkileri ve İnsan Kaynakları Dergisi , 7 (1), 104-138.
-- Bilsel,  S.G.,  Polat,  E.,  Çalışır,  S.  ve  Hovardaoğlu,  O.  (2002).  Kentsel  yoksulluk/yoksulluğun değişik tanımları ve boyutları üzerine. Yoksulluk, Kent Yoksulluğu  ve  Planlama,  8  Kasım  Dünya  Şehircilik  Günü  26.  Kolokyumu , Ankara: TMMOB Şehir Plancıları Odası, 193-197.
-- Bostanoğlu, Ö. (2002). Küresel kent yoksulluğu ve avrupa'daki türkler. Yoksulluk, Kent Yoksulluğu ve Planlama, 8 Kasım Dünya Şehircilik Günü 26. Kolokyumu, Ankara: TMMOB Şehir Plancıları Odası, 333-359.
-- Buğra, A. (2008). Kapitalizm,  yoksulluk  ve  Türkiye'de  sosyal  politika .  İstanbul:  İletişim Yayınları.
-- Buğra, A. ve Keyder, Ç. (2003). Yeni yoksulluk ve Türkiye'nin refah rejimi . Birleşmiş Milletler Kalkınma Programı İçin Hazırlanan Proje Raporu, 12.09.2019 tarihinde
-- https://www.tr.undp.org/content/dam/turkey/docs/povreddoc/UNDPTR-new\_poverty.pdf  adresinden erişildi.
-
-- Buğra, A. ve Keyder, Ç. (2008). Sosyal politika yazıları . İstanbul: İletişim Yayınları.
-- Castells, M. (1997), Kent, sınıf, iktidar . A. Erendil (Çev.), Ankara: Bilim ve Sanat Yayınları.
-- Chossudovsky, M. (1999). Yoksulluğun küreselleşmesi .  N.  Domaniç (Çev.), İstanbul: Çivi Yazıları.
-- Çolak,  A. (2019). Sosyal  politikanın uluslararası taraflarından uluslararası çalışma  örgütü  ve  küreselleşme, Balkan  ve  Yakın  Doğu  Sosyal  Bilimler Dergisi , 5 (1), 73-84.
-- Çolakoğlu,  E.  (2003).  Kentsel  yoksulluk. Yerel  ve  Kentsel  Politikalar ,  M.  A.  Çukurçayır-A. Tekel (Ed.), Konya: Çizgi Kitabevi.
-- Devlet Planlama Teşkilatı. (2001). Sosyal hizmetler ve yardımlar özel ihtisas komisyonu raporu . Ankara: DPT Yayınları.
-- DiNitto, D. M. (1991). Social welfare: Politics and public policy .  Englewood Cliffs, New Jersey: Prentice Hall.
-- Duman, F. (2017). Durumsal muhafazakârlık anlayışı üzerine teorik &amp; eleştirel bir  değerlendirme, Hitit  Üniversitesi  Sosyal  Bilimler  Enstitüsü  De rgisi , 10 (2), 797-818.
-- Erdem, T. (2003). Yoksulluk üzerine sosyolojik bir çalışma 'Ankara kent yoksulları' , Yayınlanmamış  Doktora  Tezi,  Hacettepe  Üniversitesi  Sosyal  Bilimler Enstitüsü Sosyoloji Anabilim Dalı, Ankara.
-- Erder, S. (2002). Kentsel gerilim . Ankara: Um:ag Vakfı Yayınları.
-- Erdoğan  N.  (2007). Yoksulluk  halleriTürkiye'de  kent  yoksulluğunun  toplumsal görünümleri . İstanbul: İletişim Yayınları.
-- Erdoğan, M. (1998), Liberal toplum liberal siyaset . Ankara: Siyasal Kitabevi.
-- Ergun, C.-Gül, H. ve Sallan Gül, S. (2013). Neoliberal küreselleşme ve küresel kent. C. Ergun-M. Güneş-A. D. Ergun (Ed.), Kent Üzerine Özgür Yazılar , içinde İstanbul: Bağlam Yayınları.
-- Esin, P. (1982). İş bölümü, yabancılaşma ve sosyal politika. Ankara: Ankara Üniversitesi Siyasal Bilgiler Fakültesi Yayını.
-- Giddens, A. (2001). Üçüncü yol ve eleştirileri . Ankara: Phoenix Yayınevi.
-- Gül, H. ve Sallan Gül, S. (2004). Ekonomik krizler karşısında ankaralı yoksulların yaşam stratejileri, Dünya Şehircilik Günü 28. Kolokyumu: Değişen -Dönüşen Kent ve Bölge , ODTÜ, Ankara.
-- Gül, H. ve Sallan Gül, S. (2007). Sosyal devletten çalışma refahına geçişte sosyal haklar ve yoksullar, Amme İdaresi Dergisi , 40( 3), 1-30.
-- Gül, H. ve Sallan Gül, S. (2008). Yoksulluk ve yoksulluk kültürü tartışmaları. N. Oktik (Ed.), Türkiye'de Yoksulluk Çalışmaları , İzmir: Yakın Kitabevi.
-
-- Güven, S. (1996). Toplum politikası yazıları . Bursa: Ezgi Kitabevi Yayınları.
-- Güven,  S.  (2001). Sosyal politikanın temelleri .  (3.  bs.),  Bursa:  Ezgi  Kitabevi Yayınları.
-- Heywood, A. (2013). Siyasi ideolojiler . A. K. Bayram, Ö. Tüfekçi, H. İnaç, Ş. Akın, B. Kalkan (Çev), (5. bs.) Ankara: Liberte Yayıncılık.
-- Işık, O. ve Pınarcıoğlu, M. M. (2018). Nöbetleşe yoksulluk:Sultanbeyli ö rneği .İstanbul: İletişim Yayınları.
-- Jargowsky, P. ve Bone, M.J. (1990). Ghetto poverty: basic questions. L. E. Lynn M. G.H. McGeary (Ed.) Inner- City Poverty in The United States , Washington D.C: National Academy Press, 16-55.
-- Kaygalak, S. (2001). Yeni kentsel yoksulluk, göç ve yoksulluğun mekânsal yoğunlaşması: mersin/demirtaş mahallesi örneği, Praksis , 2, 124-172.
-- Koray, M. ve Topçuoğlu, A. (1995). Sosyal politika . Bursa: Ezgi Kitabevi Yayınları. Lewis, O. (1971). Sanchez'in çocukları . L. Ragıp (Çev.), İstanbul: e Yayınları.
-- Malthus, T. (1998). An Essay on the Principle of Population an Essay on the Principle of Population , London: Electronic Scholarly Publishing Project.
-- Özbek Sönmez, İ. (2002a). Türkiye metropollerinde gettolaşma eğilimleri, Yoksulluk, Kent Yoksulluğu ve Pla nlama , 8 Kasım Dünya Şehircilik Günü 26. Kolokyumu, Ankara: TMMOB Şehir Plancıları Odası, 459-466.
-- Özbek Sönmez, İ. (2002b). Yoksulluğu sürekli kılan faktörler üzerine gözlemler izmir kent merkezi tarihi konut alanı örneği, Kentleşme, Göç ve Yoksulluk , 7. Ulusal Sosyal Bilimler Kongresi, Ankara: İmaj Yayınevi, 247-268.
-- Özbudun, S. (2002). Küresel bir yoksulluk kültürü mü? Y. Özdek (Ed.), Yoksulluk, Şiddet ve İnsan Hakları , TODAİE İnsan Hakları Araştırma ve Derleme Merkezi, Yayın No: 311, Ankara: TODAİE Yayınları.
-- Özdek, Y. (Ed) (2002). Yoksulluk, şiddet ve insan hakları .Ankara, TODAİE Yayınları,  Yayın No: 311.
-- Rawls, J. (1985). A theory of justice , England: Oxford University Press.
-- Recife Declaration. (1996). United Nations centre for human settlements (Habitat) the recife declaration. Urban Poverty: A World Challenge, Recife International Meeting on Urban Poverty , 17-21 March 1996, Recife: Brazil.
-- Sallan Gül, S., Gül, H. ve Ergun, C. (2003). Türkiye'de yoksulluk kültürü tezlerine  bakış:  ankara  örneği. Yoksulluk  ve  Sosyal  Hizmetler,  Sosyal  Hizmet Sempozyumu , 9-11 Ekim 2003, Antalya.
-
-- Sallan Gül, S. (2002). Türkiye'de yoksulluk ve yoksullukla mücadelenin sosyolojik  boyutları: göreliden mutlak yoksulluğa.  Y. Özdek (Ed.), Yoksulluk, Şiddet  ve  İnsan  Hakları ,  TODAİE İnsan Hakları Araştırma  ve  Derleme Merkezi, Yayın No: 311, Ankara: TODAİE Yayınları.
-- Sallan Gül, S. (2006). Sosyal devlet bitti yaşasın piyasa ! , Ankara: Ebabil Yayınları.
-- Sen, A. (2000). Social exclusion: concept, application and scrutiny, Asian Development Bank , Social Development Papers No: 1, Manila- Philippines.
-- Şenses, F. (2006). Küreselleşmenin öteki yüzü yoksull uk . İstanbul: İletişim Yayınları. Spencer,  H.  (2016). Devlete karşı  insan .  Y.  S.  Altındal  (Çev.),  İstanbul:  Litera Yayınları.
-- Talas, C. (1992). Türkiye'nin açıklamalı sosyal politika tarihi . Ankara: Bilgi Yayınevi.
-- Tekeli, İ. (2000). Kent yoksulluğu ve modernite'nin bu soruya yaklaşım seçenekleri üzerine. A. H. Akder - M. Güvenç (Der.), Devlet Reformu, Yoksulluk, Bölgesel Gelişme ve Kırsal Yoksulluk -Kent Yoksulluğu (s. 139-160)., İstanbul: TESEV Yayınları,
-- Türk Sanayicileri ve İş Adamları Derneği. (2000). Türkiye'de bireysel gelir dağılımı ve yoksullukAvrupa Birliği ile karşılaştırma . TÜSİAD Yayınları Yayın No: TÜSİAD-T/2000-12/295), İstanbul: Lebib Yalkın Yayımları.
-- Ünsal, F. (2002). Toplumsal barışın korunması bağlamında kent yoksulluğunun çağdaş  kentsel  dinamikler  çerçevesinde  değerlendirilmesi. Yoksulluk, Kent Yoksulluğu ve Planlama , 8 Kasım Dünya Şehircilik Günü 26. Kolokyumu , Ankara: TMMOB Şehir Plancıları Odası, 55-72.
-- World Development Report-2000/2001. (2001). Attacking poverty .  World  Development Report, New York: Oxford University Press.
-
-## Kaynakça Bilgisi / Citation Information
-
-Beyazıt, E. (2020). Sosyal politika, yoksulluk ve kent yoksulluğu. OPUS -Uluslararası  Toplum Araştırmaları Dergisi ,  16 (30),  2966-2993.  DOI: 10.26466/opus.708198

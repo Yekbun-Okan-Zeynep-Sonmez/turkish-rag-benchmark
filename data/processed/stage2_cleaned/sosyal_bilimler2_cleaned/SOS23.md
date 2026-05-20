@@ -1,46 +1,8 @@
 ## Öz
 
-Bu çalışma, medya ve sınır arasındaki ilişkileri anlamayı amaçlamaktadır.  Bu  amaçla,  çalışmada  düzensiz  göç,  kaçakçılık, terörizm ve sınır güvenliği bağlamında sınırları anlamada medyanın  rolüne  odaklanılmıştır.  Medyadaki  sınır  haberlerinin mercek altına alındığı bu çalışma, Türkiye'nin farklı dijital medya haber metinlerinde sınırların ele alınış biçimini içermektedir. Bu amaçla,  çalışmada  nitel  araştırma  yöntemi  kapsamında  dijital medya haberlerinin analizinde  nitel  içerik  analizi  tekniklerinden ilişki analizi kullanılmış ve sınırlarla ilişkisi incelenmiştir. 1 Ocak 2020 -31 Aralık 2022 tarihleri arasında sınırlarla ilgili anaakım medyayı temsil eden dijital platformdaki haber metinleri incelenmiş, örnek haber metinleri üzerinden çeşitli temalar ekseninde elde edilen veriler kodlanmış ve bu kodlamalar
-
-1 Bu çalışma, 29 Eylül -2Ekim 2022 tarihleri arasında gerçekleştirilen Uluslararası  Karadeniz  Modern  Bilimsel  Araştı rmalar  Kongresinde  sunulan 'Sınırlara Medyadan  Bakış: Düzensiz Göç, Kaçakçılık ve Sınır Güvenliği Ekseninde  Medyada  Sınır  Algısı'  başlıklı  bildirinin  genişletilmiş  ve  gözden geçirilmiş halidir.
-
-2
-
-ORCİD: orcid.org/ 0000-0001-8824-359X
-
-asobid
-
-<!-- image -->
-
-## ISSN: 2548-0480 (Print)/(Online) 2602-2567
-
-Sayı/Issue 13 ● Haziran/June 2023 Sayfa/Page: 199-227
-
-G eliş Tarihi / Received: 06.03.2023
-
-Kabul Tarihi / Accepted: 10.04.2023
-
-).  'Sınırları  Anlamada  Medyanın  Rolü:  Dijital  Medya niversitesi  Sosyal  Bilimler
-
-Özbey ,  Kerem  (2023 Haberlerinde  Sınırların  İlişkisel  Analizi' . Amasya  Ü Dergisi (ASOBİD) . S. 13, s. 199-227.
-
-## SINIRLARI ANLAMADA MEDYANIN ROLÜ: DİJİTAL MEDYA
-
-## HABERLERİNDE SINIRLARIN İLİŞKİSEL ANALİZİ
-
-## THE ROLE OF MEDIA IN UNDERSTANDING BORDERS: A RELATIONAL ANALYSIS OF BOUNDARIES IN DIGITAL MEDIA NEWS 1
-
-Doç. Dr. Kerem ÖZBEY 2 Artvin Çoruh Üniversitesi
-
-ozbey-kerem@hotmail.com aracılığıyla  sınırların  medyaya  yansıma  biçimleri  ilişki  analizi aracılığıyla anlaşılmaya  çalışılmıştır. Ayrıca çalışmada,  devlet, sınır  ve  medya  ilişkisini  anlamayı  sağlayacak  en  elverişli  medya kuramlarından  toplumsal  sorumluluk  kuramı  ile  otoriter  medya kuramına  başvurulmuştur.  Küreselleşmeci  perspektiften  sınırlar göçlerin önündeki bir engel olarak görülürken, ulus -devlet merkezli sınırların medyada düzensiz göçle, kaçakçılıkla ve terörle mücadelenin  temel  araçlarından  biri  olduğu  görülmüştür.  Bu açıdan  sınırları  anlamanın  temel  yollarından  biri  olan  medyanın sınırlarla  ilgili  toplumun  bakış  açısının  şekillenmesinde etkili  bir işleve sahip olduğu gözlenmiştir. Medyadaki haberlerden hareketle,  düzensiz  göç,  kaçakçılık  ve  terörle  mücadelenin  yanı sıra sınır anlaşmazlıkları, sınır hattındaki  gerilimler ve sınır çatışmaları sebebiyle devletlerin sınırları güvenlikleştirmeye çalıştıkları anlaşılmıştır. Medyadan sınırlara bakıldığında, medyanın siyasi otoritenin  sınırlarla  ilgili  yaklaşımına  uygun  bir şekilde  bir  dil,  anlam  ve  söylem  geliştirdiği,  sınırların  da  siyasi otoritenin politikalarının bir parçası olduğu sonucuna ulaşılmıştır.
+Bu çalışma, medya ve sınır arasındaki ilişkileri anlamayı amaçlamaktadır.  Bu  amaçla,  çalışmada  düzensiz  göç,  kaçakçılık, terörizm ve sınır güvenliği bağlamında sınırları anlamada medyanın  rolüne  odaklanılmıştır.  Medyadaki  sınır  haberlerinin mercek altına alındığı bu çalışma, Türkiye'nin farklı dijital medya haber metinlerinde sınırların ele alınış biçimini içermektedir. Bu amaçla,  çalışmada  nitel  araştırma  yöntemi  kapsamında  dijital medya haberlerinin analizinde  nitel  içerik  analizi  tekniklerinden ilişki analizi kullanılmış ve sınırlarla ilişkisi incelenmiştir. 1 Ocak 2020 -31 Aralık 2022 tarihleri arasında sınırlarla ilgili anaakım medyayı temsil eden dijital platformdaki haber metinleri incelenmiş, örnek haber metinleri üzerinden çeşitli temalar ekseninde elde edilen veriler kodlanmış ve bu kodlamalar ozbey-kerem@hotmail.com aracılığıyla  sınırların  medyaya  yansıma  biçimleri  ilişki  analizi aracılığıyla anlaşılmaya  çalışılmıştır. Ayrıca çalışmada,  devlet, sınır  ve  medya  ilişkisini  anlamayı  sağlayacak  en  elverişli  medya kuramlarından  toplumsal  sorumluluk  kuramı  ile  otoriter  medya kuramına  başvurulmuştur.  Küreselleşmeci  perspektiften  sınırlar göçlerin önündeki bir engel olarak görülürken, ulus -devlet merkezli sınırların medyada düzensiz göçle, kaçakçılıkla ve terörle mücadelenin  temel  araçlarından  biri  olduğu  görülmüştür.  Bu açıdan  sınırları  anlamanın  temel  yollarından  biri  olan  medyanın sınırlarla  ilgili  toplumun  bakış  açısının  şekillenmesinde etkili  bir işleve sahip olduğu gözlenmiştir. Medyadaki haberlerden hareketle,  düzensiz  göç,  kaçakçılık  ve  terörle  mücadelenin  yanı sıra sınır anlaşmazlıkları, sınır hattındaki  gerilimler ve sınır çatışmaları sebebiyle devletlerin sınırları güvenlikleştirmeye çalıştıkları anlaşılmıştır. Medyadan sınırlara bakıldığında, medyanın siyasi otoritenin  sınırlarla  ilgili  yaklaşımına  uygun  bir şekilde  bir  dil,  anlam  ve  söylem  geliştirdiği,  sınırların  da  siyasi otoritenin politikalarının bir parçası olduğu sonucuna ulaşılmıştır.
 
 Anahtar  Kelimeler :  Düzensiz  Göç,  Kaçakçılık,  Terörizm,  Sınır Güvenliği, Dijital Medya.
-
-## Abstract
-
-This  study  aims  to  understand  the  relationship  between  media and borders. For this purpose, the study focuses on the role of the media  in  understanding  borders  in  the  context of irregular migration, smuggling, terrorism, and border security. This study, which  investigates  border  news  in  the  media,  includes  the  way borders  are  handled  in  different  digital  media  news  texts  in Turkey.  To  that  end,  relational  analysis,  one  of  the  qualitative content  analysis  techniques,  was  used  to  analyze  digital  media news within the scope of the qualitative research method in the study, and its  relationship  with  borders was examined. Between January  1,  2020,  and  December  31,  2022,  news  texts  about borders on digital platforms representing the mainstream media were analyzed. The data obtained through sample news texts on the axes of various themes were coded. Through these codes, the ways in which borders are reflected in the media were tried to be understood  through  relationship  analysis. In addition, social responsibility  theory  and  authoritarian  media  theory,  which  are among  the  most  favorable  media  theories  to  understand  the relationship between the state, borders, and media, were used in the study. While borders are seen as an obstacle to migration from a  globalist  perspective,  it  has  been  observed  that  nation-statecentered  borders  are one  of the main  tools for  combating irregular migration, smuggling, and terrorism in the media. In this respect, it has been observed that the media, which is one of the main ways of understanding borders, has an effective function in shaping  society's  perspective  on  borders.  Based  on  the  news  in the  media,  it  is  understood  that  states  try  to  securitize  borders due to border disputes, border tensions, and border conflicts, as well  as  irregular  migration,  smuggling,  and  the  fight  against terrorism.  Looking  at  borders  through  the  media,  it  has  been concluded  that  the  media  develops  a  language,  meaning,  and discourse in line with the political authority's approach to borders and  that  borders  are  a  part  of  the  policies of the  political authority.
-
-Keywords: Irregular  Migration,  Smuggling,  Terrorism,  Border Security, Digital Media
 
 ## Giriş
 
@@ -144,50 +106,3 @@ Medyanın sınırlara ilişkin yaklaşımını anlamada hem toplumsal sorumluluk
 Sınırları anlamada farklı medya haberleri incelenebilir, dolayısıyla  farklı  medya  kuramları  da  ele  alınabilir.  Bu  çalışma ağırlıklı  olarak  devlet,  medya  ve  sınır  ilişkisine  odaklandığından, çalışmada,  sözü  edilen  kuramlar  kullanılmıştır.  Ancak  bundan sonraki  süreçte  konuyla  ilgili  olarak  anaakım  medyanın  dışında kalan  mu halif  medya  organlarının  sınırlara  yönelik  haberleri  ve bu  haberlerde  sınırlarla  ilgili  geliştirdikleri  söylemler,  sınırları anlamak  açısından  önemli  hale  gelebilir.  Bu  da  farklı  medya kuramlarına başvurmayı olanaklı kılabilir.
 
 Neticede, sınırları anlamada medya, daha özelde dijital medya haberleri  önemli  veriler  sunmaktadır.  Sınırların  düzensiz  göçle, kaçakçılıkla, terörizmle ilişkisinin, sınırlarda meydana gelen anlaşmazlıkların, sınır hattındaki gerilimlerin, sınır çatışmalarının ve sınırların kontrol, denetim ve güvenlikleştirilmesine dair dijital medya haberleri,  sınırları  anlamada  medyanın  çok  önemli  roller üstlendiğini göstermiştir.
-
-## Kaynakça
-
-- Alkaya,  Tuğçe.  (2015). Sınır  ve  Eşik  Olarak  Duvar .  Yüksek  Lisans Tezi.  İstanbul:  İstanbul  Teknik  Üniversitesi Fen  Bilimleri Enstitüsü.
-- Ayhan,  B.,  Baloğlu,  E.  ve  Demir,  Y.  (2018).  'Medya  ve  Kimlik'. Bünyamin Ayhan (Ed.) , İletişim Sosyolojisi . İstanbul: Literatürk Academia Yayınları. 109 -132.
-- Bartram, D., Poros, M. V. ve Monforte, P. (2017), Göç Meselesinde Temel Kavramlar . I. Ağabeyoğlu Tuncay (Çev.), Ankara: Hece Yayınları.
-- Bilgin,  N.  (2014). Sosyal Bilimlerde İçerik Analizi .  Ankara:  Siyasal Kitabevi Yayınları.
-- Işık,  M.  ve  Kurt,  S.  Ü.  (2018).  'Siyasal  Sistem,  Liberal  Medya Kuramı  ve  Halkla  İlişkiler'. Bünyamin  Ayhan  (Ed.) , İletişim Sosyolojisi . İstanbul: Literatürk Academia Yayınları, 39 -56.
-- İrvan, S. (1994). Normatif Medya Kuramları. Gazi İletişim Fakültesi Dergisi . (1-2), s. 211-230.
-
-- Kartal,  A.  B.  (2018).  Uluslararası  Terörizmin  Değişen  Yapısı  ve Terör  Örgütlerinin  Sosyal  Medyayı  Kullanması:  Suriye'de DAEŞ ve YPG Örneği. Güvenlik Stratejileri Dergisi .  14(27),  s. 39-77.
-- KOM (Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı). (2022). Kaçakçılık Nedir ve İşleniş Yöntemleri? https://www.egm.gov.tr/kom/kacakcilikla-mucadele, (01.10.2022).
-- McQuail, D. (1983). Mass Communication Theory . London: Sage.
-- Orhan, O. (2022). Fırat Kalkanı: Hedefler, Fırsatlar, Riskler . https://www.orsam.org.tr/tr/firat-kalkani-hedeflerfirsatlar-ve-riskler (02.10.2022).
-- Öz,  E.  ve  Erim,  A.  (2016).  Tüm  Yönleri  ile  Gümrük  Kaçakçılığı Suçlarında Iştirak. Gümrük&amp;Ticaret Dergisi . (8), s. 62-75.
-- Özçelik,  N.  ve  Acun,  C.  (2018). Terörle  Mücadelede  Yeni  Safha: Zeytin Dalı Harekâtı . Ankara: SETA Yayınları.
-- 224 224 Öztürk, B. ve Bulut, İ. (2017). 'Küreselleşen Dünyada Devletlerin Sınır Güvenliği: Uludere Sınırı Örneği'. Tolga Sekman, (Der.) , Devlet Doğasının Değişimi: Güvenliğin Sınırları . İstanbul: Tasam Yayınları, 189 -209.
-- Polat,  D.  Ş.  (2020).  Türkiye'nin  Suriye'nin  Kuzeyindeki  Askerî Harekâtının Amaçları ve Sonuçları. Güvenlik Strateji leri Dergisi . 16(33), s. 53-96.
-- Thompson,  J.  B.  (2008). Medya  ve  Modernite .  S.  Öztürk  (Çev.), İstanbul: Kırmızı Yayınları.
-- URL1. 'Yasa dışı yollarla yurda girmeye çalışan 21 kişi yakalandı', https://www.trthaber.com/haber/turkiye/yasa-disiyollarla-yurda-girmeye-calisan-21-kisi-yakalandi535355.html (Erişim Tarihi: 24.09.2022).
-- URL2.  'Yasa  dışı yollardan  yurt  dışına  çıkmak  isteyen  21  kişiye 91 bin 350 lira ceza', https://www.cnnturk.com/yerelhaberler/kirklareli/kofcaz/yasa-disi-yollardan-yurt-disina-
-
-- cikmak-isteyen-21-kisiye-91-bin-350-lira-ceza-1595732 (Erişim Tarihi: 24.09.2022).
-- URL3.  'Suriye'den  yasa  dışı  yollarla  Türkiye'ye  girmeye  çalışan 11 kişi yakalandı', https://www.aa.com.tr/tr/turkiye/suriyeden-yasa-disiyollarla-turkiyeye-girmeye-calisan-11-kisiyakalandi/2169546 (Erişim Tarihi: 24.09.2022).
-- URL4. 'Türkiye'ye yasa dışı yollardan giren Afganlar: İran askerleri bizi döverek Türkiye sınırına bıraktı', https://www.aa.com.tr/tr/-haberici/turkiyeye-yasa-disiyollardan-giren-afganlar-iran-askerleri-bizi-doverekturkiye-sinirina-birakti/2316466 (Erişim Tarihi: 24.09.2022).
-- URL5.  'Yasa  dışı  yollarla  Türkiye'ye  giren  228  kişi  yakalandı', https://www.trthaber.com/haber/turkiye/yasa-disiyollarla-turkiyeye-giren-228-kisi-yakalandi-629416.html (Erişim Tarihi: 24.09.2022).
-- URL6.  'Türkiye'ye yasa dışı yollarla giren 506 göçmen sınır dışı edildi', https://www.star.com.tr/guncel/turkiyeye-yasadisi-yollarla-giren-506-gocmen-sinir-disi-edildi-haber1714085/ (Erişim Tarihi: 24.09.2022).
-- URL7.  'Türkiye'ye  yasa  dışı  yollarla  giren  236  düzensiz  göçmen sınır dışı edildi', https://www.sabah.com.tr/gundem/2022/05/31/turkiyeye -yasa-disi-yollarla-giren-236-duzensiz-gocmen-sinir-disiedildi (Erişim Tarihi: 24.09.2022).
-- URL8. 'Sınırda uyuşturucu operasyonu', https://www.star.com.tr/guncel/sinirda-uyusturucuoperasyonu-haber-1704438/ (Erişim Tarihi: 25.09.2022).
-- URL9. 'Şırnak'taki asayiş  ve  kaçakçılık  operasyonlarında  81 gözaltı',
-- https://www.trthaber.com/haber/guncel/sirnaktaki-asayisve-kacakcilik-operasyonlarinda-81-gozalti-646533.html ( Erişim Tarihi: 25.09.2022).
-
-- URL10. 'Fırat'ın batısı kırmızı çizgi', https://www.milliyet.com.tr/siyaset/firat-in-batisi-kirmizicizgi-2081424 (Erişim Tarihi: 02.10.2022).
-- URL11. 'Zeytin Dalı Harekatı'nda sınır birliklerine sevkiyat sürüyor', https://www.ntv.com.tr/galeri/turkiye/zeytindali-harekatinda-sinir-birliklerine-sevkiyatsuruyor,zuMkeXAyEUC5XZyDhURIkg/hAy3Jr6NYEamcBLaaW1LQ (Erişim Tarihi: 02.10.2022).
-- URL12.  'MSB  duyurdu!  20 Ocak  2018'den  bu  yana  6  bin  370 terörist etkisiz hale getirildi', https://www.hurriyet.com.tr/gundem/msb-duyurdu-20ocak-2018den-bu-yana-6-bin-370-terorist-etkisiz-halegetirildi-41986214 (Erişim Tarihi: 02.10.2022).
-- URL13.  'Son  dakika...  Cumhurbaşkanı  Erdoğan,  'Barış  Pınarı Harekatı'nın başladığını duyurdu', https://www.cnnturk.com/turkiye/son-dakika-baris-pinariharekati-basladi (Erişim Tarihi: 02.10.2022).
-- 226 226 URL14.  'Barış  Pınarı  Harekatı  ile terör  koridoru  parçalandı', https://www.trthaber.com/haber/gundem/baris-pinariharekati-ile-teror-koridoru-parcalandi-615469.html (Erişim Tarihi: 02.10.2022).
-- URL15. 'Kırgızistan ile Tacikistan sınırındaki çatışmalarda 94 kişi öldü', https://www.trthaber.com/haber/dunya/kirgizistanile-tacikistan-sinirindaki-catismalarda-94-kisi-oldu709623.html (Erişim Tarihi: 26.09.2022).
-- URL16.  'Silahlar  susmadı,  Azerbaycan'dan  flaş  açıklama  geldi: Cesetleri teslim etmeye hazırız', https://www.milliyet.com.tr/dunya/silahlar-susmadikoridor-cozulemeyen-dugum-oldu-6824692 (Erişim  Tarihi: 26.09.2022).
-- URL17. 'Son dakika... Yunan güvenlik güçleri sınırda göçmenlere ateş açtı: 1 ölü', https://www.cnnturk.com/dunya/sondakika-yunan-guvenlik-gucleri-sinirda-gocmenlere-atesacti-1-afgan-hayatini-kaybetti (Erişim Tarihi: 21.09.2022).
-
-- URL18. 'Kaçak göçmenlerin sınırda ve denizde yakalanma anları', https://www.hurriyet.com.tr/video/kacakgocmenlerin-sinirda-ve-denizde-yakalanma-anlari42067946 (Erişim Tarihi: 22.09.2022).
-- URL19. 'Güvenlik duvarı 1079 kilometreye ulaştı', https://www.hurriyet.com.tr/yazarlar/nedimsener/guvenlik-duvari-1079-kilometreye-ulasti-41924175 (Erişim Tarihi: 27.09.2022).
-- URL20. 'İleri teknolojiyle donatılan  Türkiye -İran sınırı gece gündüz gözetleniyor', https://www.trthaber.com/haber/gundem/ileriteknolojiyle-donatilan-turkiye-iran-siniri-gece-gunduzgozetleniyor-688000.html (Erişim Tarihi: 27.09.2022).
-- Uzman, N. (2016).  Türkiye'nin  Sınır  Güvenliği  Açısından  Suriyeli Sığınmacılar Meselesi. 21. Yüzyılda Eğitim ve Toplum Eğitim Bili mleri ve Sosyal Araştırmalar Dergisi . 5 (15), s. 135-157.
-- Ünüvar, A. (2022). 20. Yüzyılda Sınır Olgusu ve Sınır Anlaşmazlıkları. Necmettin Erbakan Üniversitesi Siyasal Bilgiler Fakültesi Dergisi . 4(1), s. 54-67.
-- Yıldırım, A. ve Şimşek, H. (2005). Sosyal Bi limlerde Nitel Araştırma Yöntemleri . Ankara: Seçkin Yayıncılık.

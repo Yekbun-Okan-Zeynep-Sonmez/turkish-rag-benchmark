@@ -1,54 +1,8 @@
-## Doğrudan Yabancı Yatırım ve Ekonomik Büyüme İlişkisi: Geçiş Ekonomileri Örneği 1
-
-## Ömer ÖZDEMİR
-
-## ( Corresponding Author)
-
-ozdemiromer1890@gmail.com, Batman University, Vocational School of Social Sciences, orcid.org/0000-0001-8742-6757
-
-## Fatma TURAN KOYUNCU
-
-faturan@anadolu.edu.tr, Anadolu University, Faculty of Economics 0000-0001-5054-2682
-
-## Relationship Between Foreign Direct Investment and Economic Growth: The Example of Transition Economies
-
-## Abstract
-
-Movements of foreign direct investments which accelerated after second half of the 20th century have had positive or negative influences on country economy. These impacts can show changes according to the purpose or form of the investments and can be changed in respect of the economic structures or policies of the countries. But common opinion is that foreign direct investments have positive effects on economic growth and development by causing increase of capital level and productivity gain. For this reason, many countries have started to apply emceeing policies that receive foreign direct investment. In this survey, the data belong to years of 1996-2018 were chosen by using panel data analysis on effects of foreign direct investments on transition economies. As a result of the analysis, it is concluded that foreign direct investments affect economic growth favorably and significantly.
-
-Keywords: Foreign Direct Investment, Economic Growth, Transition Economies, Panel Data Analysis, Fixed Effect Model
-
-JEL Codes:
-
-F21, F30, O40
-
-<!-- image -->
-
 Öz
 
 20. yüzyılın ikinci yarısından sonra ivme kazanan doğrudan yabancı yatırım akımları ülke ekonomisi üzerinde  birtakım  olumlu  ve  olumsuz  etkiler  bırakmaktadır.  Söz  konusu  etkiler  yapılan  yatırımların amacına  ve  şekline  göre  değişiklik  gösterebileceği  gibi  ülkelerin  ekonomik  yapısı  ve  uyguladıkları politikalara göre de farklılık göstermektedir. Fakat yaygın görüş, yabancı yatırımların sermaye düzeyine ve verimlilik artışına sebep olarak ekonomik büyüme ve kalkınmayı pozitif etkilediğine yöneliktir. Bu sebeple  çoğu  ülke  doğrudan  yabancı  yatırım  çekmeye  yönelik  çeşitli  teşvik  politikaları  uygulamaya başlamıştır.  Yapılan  bu  araştırmada,  1996-2018  yıllarına  ait  verilerden  hareketle  seçilmiş  geçiş ekonomilerinin büyümesi üzerinde doğrudan yabancı yatırımların etkisi panel veri analizi kullanılarak incelenmiştir. Yapılan analiz sonucunda ise doğrudan yabancı yatırımların ekonomik büyümeyi pozitif ve anlamlı olarak etkilediği sonucuna ulaşılmıştır.
 
 Anahtar Kelimeler: Doğrudan Yabancı Yatırım, Ekonomik Büyüme, Geçiş Ekonomileri, Panel Veri Analizi, Sabit Etkiler Modeli
-
-Etik Standartlara Uyum : Etik kurul izni gerekmemektedir.
-
-1  Bu çalışma Anadolu Üniversitesi Sosyal Bilimler Enstitüsü İktisat Anabilim Dalın'da 30/04/2020 tarihinde kabul edilen yüksek lisans tezinden türetilmiştir.
-
-e-ISSN 2687-4563
-
-https://dergipark.org.tr/tr/pub/aujfe
-
-<!-- image -->
-
-## Research Article
-
-Received: 12.11.2023
-
-Accepted: 16.12.2023
-
-To cite this document:
-
-Özdemir,  Ö.  &amp;  Koyuncu,    F.  T. (2023). Doğrudan Yabancı Yatırım ve Ekonomik Büyüme İlişkisi: Geçiş Ekonomileri Örneği, Anadolu University  Journal of Faculty of Economics , 5(2), 68-82.
 
 ## 1.  Giriş
 
@@ -218,40 +172,3 @@ Diğer  bir  husus  ise  bu  dönem  ve  sonrasında  geçiş  ülkelerinde  eko
 Yukarıdaki bilgilerden de hareket ederek yapılan bu araştırmada doğrudan yabancı yatırımların  ekonomik  büyüme  üzerindeki  etkisini  ölçmek  ve  hangi  yönde  etkisi olduğunu belirlemek için geçiş ekonomilerinden MDA ve Baltık ülkeleri örneklem olarak seçilmiştir. Bu duruma ek olarak araştırmada 1996-2018 yıllarına ait veriler kullanılmış ve metodoloji olarak panel regresyon analizi tercih edilmiştir. Yapılan analiz sonuçlarına göre DYY'lerin ekonomik büyümeyi pozitif etkilediği ve DYY'deki yüzde 1'lik artışın büyümeyi yüzde 0,0372 oranında artırdığı sonucuna ulaşılmıştır. Araştırmada  kullanılan  diğer  bağımsız  değişkenlerin  büyüme  üzerindeki  etkisi  de (enflasyon hariç) pozitif olarak bulunmuştur. Yapılan analiz sonuçlarında enflasyonun istatistiksel  olarak  0.10  düzeyinde  diğer  bağımsız  değişkenlerin  de  0.05  düzeyinde anlamlı  olduğu  saptanmıştır.  Ayrıca,  elde  edilen  bu  sonuçlar  teorik  beklentilerle karşılaştırılmış ve sonuçların çoğunlukla teorik olarak desteklendiği görülmüştür.
 
 Sonuç olarak, MDA ve Baltık ülkelerinin ekonomik büyüme performanslarını artırmada doğrudan  yabancı  yatırımların  önemli  bir  faktör  olduğu  saptanmıştır.  Söz  konusu ülkeler, sürecin ilk yıllarında ekonomik  problemlerle  karşı  karşıya kalsalar  da uygulanan liberal reformlar kendini süreç içerisinde göstermeye başlamış ve yabancı yatırımcılar için güvenli bir ortamın oluşması sonucu karşılıklı faydalanma başlamıştır. Buradan anlaşılacağı üzere MDA ve Baltık ülkelerinin yabancı yatırımcılara hızlı bir şekilde  uygun  ortam  sağlamaları,  DYY'lerden  daha  erken  faydalanabilme  imkânı doğurmuştur. Fakat BDT'de bu ortamın sağlanması daha uzun bir sürece yayılmıştır. Dolayısıyla  bu  süreçte,  MDA  ve  Baltık  ülkelerinin  BDT'den  daha  yüksek  büyüme performansı  göstermelerindeki  temel  neden  doğrudan  yabancı  yatırımlardan  daha önce  yararlanabilmeleri  olmuştur.  Son  olarak,  ülkelerin  DYY'den  etkin  bir  biçimde faydalanabilmeleri için öncelikle ülkede ekonomik ve politik istikrarın sağlanabilmesine yönelik uygulamaların yanında hukuksal ve kurumsal altyapının da sağlam bir şekilde oluşturulması gerekmektedir. Bunların ardından DYY çekmeye yönelik vergi indirimi, finansal destek ve gümrük muafiyeti gibi teşvik edici politikaların da uygulanmasıyla, doğrudan yabancı yatırımlar uzun vadede süreklilik kazanacak ve ekonomik büyüme üzerinde pozitif etki bırakacaktır.
-
-## Kaynakça
-
-- Akıncı,  Y.  G.,  Akıncı,  M.  &amp;  Yılmaz,  Ö.  (2013).  İktisadi  küreselleşme  ve  finansal özgürlükler  arasındaki  ilişki:  Bir  panel  veri  analizi. Akademik Araştırmalar  ve Çalışmalar Dergisi, 5 (9), 80-99.
-- Aleksynska, M., Gaisford, J. &amp; Kerr, W. (2008). Foreign direct investment and growth in transition economies. Munich Personal Repec Archive, 7668, 1-39.
-- Alıcı, A.A. &amp; Ucal, M.Ş. (2003). Foreign direct investment, export and output growth of  Turkey:  causality  analysis. In European  Trade  Study  Group  (ETSG)  fifth annual conference : 11-13, Madrid.
-- Ayomitunde, T.A., Geogina, A.A., Bose, L.J. &amp; Grace, T.K. (2019). Panel cointegration and  granger  causality  approach  to  foreign  direct  investment  and  economic growth in BRICS countries. Acta Universitatis Danubıus, 15(2), 236-248.
-- Baltagi, B. (2005), Econometrics analysis of panel data . West Sussex, England: John Wiley ve Sons Ltd.
-- Belloumi,  M.  &amp;  Alshehry,  A.  (2018).  The  impacts  of  domestic  and  foreign  direct investments on economic growth in Saudi Arabia. Economies, 6(1), 1-17.
-- Berber, M. &amp; Artan, S. (2004). Enflasyon ve ekonomik büyüme ilişkisi: Türkiye örneği. Turkish Economic Association, Discussion Paper, 21, 1-14.
-- Blomström, M., Lipsey, R. &amp; Zejan, M. (1992). What explains developing countries growth? National Bureau of Economic Research Working Paper, 4132.
-- Campos,  N.  F.  &amp;  Kinoshita,  Y.  (2002).  Foreign  direct  investment  as  technology transferred:  Some  panel  evidence  from  the  transition  economics. William Davidson Working Paper , 438, 1-33.
-- Carcovic M. &amp; Levine R. (2002). Does foreign direct investment accelerate economic growth? Financial globalization: A blessing or curse. World Bank Conference: Washinghton.
-- Çetin, M. &amp; Ecevit, E. (2010). Sağlık harcamalarının ekonomik büyüme üzerindeki etkisi:  OECD  ülkeleri  üzerine  bir  panel  regresyon  analizi. Doğuş Üniversitesi Dergisi , 11 (2), 166-182.
-- Ford T. C., Rork, J. C. &amp; Elslie, B. (2008). Foreign direct investment, economic growth and the human capital threshold: Evidence from us states. Rewiev International Economiecs, 16(1), s. 96-113.
-- Gujarati, D. N. (2004). Basic econometrics (Fourth edition). New York: McGrawHill Series.
-- Güney, G. &amp; Kılıçaslan, Y. (2018).  Bilgi ve iletişim teknolojileri kullanımı ve firma performansı. Ekonomik Yaklaşım Dergisi , 29(106), 31-72.
-- Karimi,  M.S.  &amp;  Yusop,  Z.  (2009).  FDI  and  economic  growth  in  Malaysia. Munich Personal Repec Archive , 14999.
-
-- Kaya, E. A. (2004). Ekonomik büyümenin belirleyicileri ve dışsal büyüme kuramları. E. Kutlu (Editör), İktisadi Kalkınma ve Büyüme içinde (s. 263-291). Eskişehir: Anadolu Üniversitesi Açıköğretim Yayınları.
-- Koyuncu, F.T. (2017). Doğrudan yabancı yatırımlar, ekonomik büyüme ve istihdam arasındaki  ilişki:  Türkiye  uygulaması  (1990-2015). Uluslararası  Sosyal  ve Ekonomik Bilimler Dergisi, 7 (2). 17-24.
-- Kurita, K., Monzen, M. &amp; Rofik, K. (2017). FDI spillover effects on productivity varying from the size of firm and industries in indonesi. International Journal of Small and Medium Enterprises and Business, 2(3), 51- 59.
-- Lensik  R.  &amp;  Morrissey,  O.  (2001).  Foreign  direct  invesment:  Flows  volatility  and growth  in  developing  countries . University  of  Groningen,  Research  Institute Report, 01E16.
-- Mody,  A.  &amp;  Murshid,  A.P.  (2005).  Growing  up  with  capital  flows. Journal  of International Economics, 65 (1), 249-266.
-- Ngeny, K.L.  &amp;  Mutuku,  C.  (2014).  Impact  of  foreign  direct  investment  volatility  on economic growth in Kenya: EGARCH analysis. Economics, 3(4), 50-61.
-- Örnek, İ. (2008). Yabancı sermaye akımlarının yurtiçi tasarruf ve ekonomik büyüme üzerine  etkisi:  Türkiye  örneği. Ankara  Üniversitesi  Siyasal  Bilgiler  Fakültesi Dergisi , 63 (2), 19-217.
-- Özcan, C., C., Özmen, İ. &amp; Özcan, G. (2018). Ticari dışa açıklık ve ekonomik büyüme arasındaki nedensellik ilişkisi: Yükselen piyasa ekonomileri. Selçuk Üniversitesi Sosyal Bilimler Dergisi , 40, 60-73.
-- Özkul G. &amp; Örün, E. (2016). Girişimcilik ve inovasyonun ekonomik büyüme üzerindeki etkisi: Ampirik bir araştırma. Girişimcilik ve İnovasyon Yönetimi Dergisi ,  5 (2), 17-51.
-- Öztürk, Y. (2019). OECD ülkelerinde iş gücü verimliliğini etkileyen faktörlerin panel veri  modelleri  ile  analizi. Yüksek  lisans  tezi.  İstanbul:  Marmara  Üniversitesi Sosyal Bilimler Enstitüsü.
-- Pazarlıoğlu, V. M. &amp; Gürler, K. Ö. (2007). Telekomünikasyon yatırımları ve ekonomik büyüme: Panel veri yaklaşımı. Finans,  Politik ve Ekonomik Yorumlar Dergisi, 44 (508),  35-43.
-- Rahman,  A.    (2015).  Impact  of  foreign  direct  investment  on  economic  growth: Empirical evidence from Bangladesh. International Journal of Economics and Finance , 7(2), 178-185.
-- Sarkar, P. (2007). Does foreign direct investment promote growth? Panel data and time  series  evidence  from  less  developed  countries,  1970-2002. Munich Personal Repec Archive , 5176.
-- Sevim,  U.  &amp;  Eyüboğlu,  K.  (2016).  Ticari  banka  performansının  içsel  belirleyicileri: Borsa İstanbul örneği. Doğuş Üniversitesi Dergisi, 17 (2), 211-222.
-- Siddique, A.M.H., Ansar, R., Naem, M.M. &amp; Yaqoob, S. (2017). Impact of FDI on economic growth: Evidence from Pakistan. Bulletin of Business and Economics. 6(3), 111-116.
-
-- Szkorupova,  Z.  (2014).  A  causal  relationship  between  foreign  direct  investment, economic growth and export for Slovakia. Procedia Economics and Finance, 15, 123-128.
-- Upadhyaya, P. K., Pradhal, G., Dhakal, D. &amp; Bhandari, R. (2007). Foreign aid, FDI and economic growth in east european countries. Economics Bulletin, 6(13), 19.

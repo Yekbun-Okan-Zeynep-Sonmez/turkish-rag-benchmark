@@ -6,28 +6,6 @@ Bu çalışmada popülizm, iktidarı elde etmek veya mevcut iktidarını korumak
 
 Anahtar Kelimeler: Popülizm, Demokrasi, Politik Söylem, Halkın inşası, Essex Okulu.
 
-1  Bu makale, Prof. Dr. İsmet Parlak danışmanlığında yürütülen ve Esra Sırma tarafından kaleme alınan '24 Haziran Seçimleri Özelinde Popülizm ve Demokrasi İlişkisi' adlı yüksek lisans tezinden üretilmiştir.
-
-2  Bilim Uzmanı, Siyaset Bilimi ve Kamu Yönetimi. ORCID: https://orcid.org/0000-00027537-5283
-
-3  Prof. Dr., Pamukkale Üniversitesi, İİBF, Siyaset Bilimi ve Kamu Yönetimi Bölümü. ORCID: https://orcid.org/0000-0001-6574-2830
-
-## TÜRKİYE'DE POPÜLİZM - DEMOKRASİ İLİŞKİSİ: 24 HAZİRAN CUMHURBAŞKANLIĞI SEÇİMLERİ ÜZERİNE BİR DEĞERLENDİRME 1
-
-Esra SIRMA 2
-
-İsmet PARLAK 3
-
-## THE RELATIONSHIP BETWEEN POPULISM - DEMOCRACY in TURKEY: AN EVALUATION ON 24th JUNE PRESIDENTIAL ELECTIONS
-
-## Abstract
-
-Populism is one of the most referenced concepts in both economic and political analysis in the past decades but what is semantically controversial. The representation crisis and economic crises, in which politics in general and liberal  democracy  in  particular,  and  the  structural  transformations  brought along with these crises strengthened the tendency towards populism. Populism, which has turned into a kind of shadow of democracy, is fed by the tensions between democracy and liberalism to a great extent.
-
-In this study, Populism was tackled as a form of discourse which enables to political actors to want to obtain power or protect the existing power by mobilising masses and the influence on Turkish politics was analysed. Based on the claim that every political movement is inherent, populism has been evaluated both on the basis of power / opposition and on the right / left axis. For this purpose, speeches during 24th June presidential election that made by Recep Tayyip Erdoğan who was the candidate of the ruling party AKP (Justice and Development Party) that is representing the Turkey's right-wing political axis and Muharrem İnce who was the candidate of the opposition party CHP (Republican People's Party) that is representing the Turkey's left-wing political axis, was examined by using Essex School Discourse Analysis method.
-
-Keywords: Populism,  Democracy,  Political  Discourse,  Construction  of  the People, Essex School
-
 ## Giriş
 
 Popülizm halkla ilgili olan ya da halka yönelik söylem ve tutumları kasteden, fakat kesin sınırları ve tanımı olmayan bir kavramdır. Bir inanç, hareket ya da söylem olduğuna yönelik farklı görüşler bulunan popülizm, farklı siyasal sistemlerde ve ülkelerde kendisine kolaylıkla yer bulabilmiştir. Ağırlıklı olarak aşırı sağ otoriter rejimlerde yaşama olanağı bulan popülizmin, zaman zaman sol-sosyalist partilerin ya da grupların söylemlerinde de izi sürülebilmektedir. Tam olarak neyi ifade ettiği konusunda birçok farklı yaklaşım olsa da, en belirgin tartışmalar kavramın bir ideoloji, politik bir strateji ya da bir söylem şekli olduğu görüşleri etrafında yoğunlaşmaktadır.
@@ -358,58 +336,3 @@ Türkiye siyasetinde sağ siyasetçilerin sıklıkla başvurduğu mağduriyet s�
 Mouffecu  anlamda  'siyasetin  ahlaki  temelde  kavramsallaştırılması' her iki adayda da görülmektedir. Rakiplerini değerlendirirken onları ahlaki ölçütler  çerçevesinde  anlamlandırmak  ve aşağıda görmek  Erdoğan'da daha sıklıkla rastlanan bir özellik iken, sınırlı bir ölçekte İnce'de de fark edilebilmektedir. Bu tespit, Türkiye siyasetinin agonistik değil aksine antagonistik bir temelde şekillendiğini göstermesi adına anlamlıdır. Son olarak, popülist siyasetçilere özgü tüm halk adına konuşma ve lider-halk özdeşliği nin de yine her iki liderde ortak bir karakter olarak mevcut olduğu belirtilmelidir.
 
 Son söz olarak bir kez daha belirtilmelidir ki, her iki adayda farklı konum ve ideolojilere rağmen seçim kampanyası boyunca popülist söy- leme sıklıkla başvurmuşlardır. Erdoğan'ın popülizmi kimlik siyaseti içeren, ahlaki unsurlar barındıran, otoriterleşme eğilimli ve dışlayıcı bir karaktere sahiptir. İnce'de ise şahsına münhasır bir popülist söylem görülmektedir. Farklı konumları ve ideolojileri göz önünde bulundurulduğunda her iki adayın da popülizme başvurması, Laclau'nun belirttiği üzere, popülizmin  her  siyasi  hareketin  doğasında  var  olduğunu  göstermektedir.  Bu doğrultuda sağ-sol ayrımının yerini iyi-kötü ayrımına bırakması ve siyasetin ahlaki bir çizgide kavranması, demokrasi açısından arzu edilmeyecek kusurlar  yaratma  potansiyeli  barındırmaktadır.  Toplumun  karşı  karşıya kaldığı temel sorunların siyasi bir çerçeveye oturtulamaması, bu sorunlar için siyasi çözümler/alternatifler üretilememesi ve siyasi mücadelenin de yalnızca ve doğrudan seçim kazanma odaklı bir tür gösteri siyaseti olarak varoluşu, popülizmin her siyasi hareketin içinde kendine kolaylıkla yer bulabilmesine olanak yaratmaktadır. Ancak bu durum üstesinden gelinemez değildir. Siyaset sahnesinde sağ ve sol ideolojik eksenler somut alternatifler üretebildiğinde ve mücadele bu alternatifler üzerinden örgütlenebildiğinde, popülist siyasetin kısmen gerileyebileceği söylenebilir.
-
-## Kaynakça
-
-- Açıkel, Fethi, ''Kutsal Mazlumluğun' Psikopatolojisi', Toplum ve Bilim , Sayı 70, 1996, s. 153- 198.
-- Aslanidis, Paris, 'Is Populism an Ideology? A Refutation and A New Perspective', Political Studies, 2015, (64)1, s. 88-104.
-- Ateş,  Kazım,  'AKP, Dinsel Popülizm ve Halk-olmayan', Mülkiye Dergisi , Cilt 41, Sayı 1, 2017, s. 105-129.
-- Baştürk, Efe, 'Mağduriyet İle İktidar Arzusu Arasında Türk Sağı: Komplo'cu Bir Söylemin Anatomisi', Teorik Bakış Açısı , Sayı 5, 2014, s. 117-150.
-- Canetti, Elias, Kitle ve İktidar , (Çev. Gülşat Aygen), Ayrıntı, İstanbul, 2006.
-- Canovan, Margaret, 'Trust the People! Populism and the Two Faces of Democracy', Political Studies , (47)1, 1999, s.2-16.
-- Çitçi, Oya, 'Yeni Siyaset: Neoliberalizm ve Post-Modernizmin Siyasal Projesi', YDÜ Sosyal Bilimler Dergisi , Cilt 1, Sayı 2, 2008, s.2-32
-- Dinç, Pınar, 'Mapping Populism: Definitions, Cases, and Challenges to Democracy', İstanbul Politikalar Merkezi Sabancı Üniversitesi , 2016, s. 1-16
-
-- Durna, Tezcan ve Çağla Kubilay, 'Söylem Kuramları ve Eleştirel Söylem Çözümlemeleri', Medyadan Söylemler , (Ed.Tezcan Durna), Libra Kitap, İstanbul, 2010, s. 47-81.
-- Eco,  Umberto, Yengeç  Adımlarıyla  Sıcak  Savaşlar  ve  Medyatik  Popülizm , (Çev. Şemsa Gezgin), İstanbul, Doğan Yayınları, 2012, s. 91-92
-- Jagers,  Jan  and  Stefaan  Walgrave,  'Populism  as  Political  Communication Style: An Empirical Study of Political Parties Discourse in Belgium', European Journal of Political Science , (46)3, 2007, s. 319-345.
-- Gidron, Noam, and Bart Bonikowski, 'Varieties of Populism: Literature Review and Research Agenda', Weatherhead Center For International Affaiırs, Harvard University , No: 13-0004, 2013.
-- Heper, Metin, 'The Ottoman Legacy and Turkish Politics', Journal of International Affairs , (54)1, Fall 2000, s.63-82.
-- Heper, Metin and E. Fuat Keyman, 'Double-Faced State: Political Patronage and the Consolidation of Democracy in Turkey', Middle Eastern Studies , (34)4, 1998, s.259-277.
-- Laclau, Ernesto, Popülist Akıl Üzerine , (Çev.N. Betül Çelik), Epos, İstanbul, 2007.
-- Laclau,  Ernesto, Popülizm: Bir Ad Ne İçerir? (Çev.  Hayriye  Özen), Atılım Sosyal Bilimler Dergisi , 1(1),  2011, s.135-146.
-- Laclau, Ernesto, Evrensellik, Kimlik ve Özgürleşme , (Çev. Ertuğrul Başer), Birikim Yayınları, İstanbul, 2012.
-- Laclau,  Ernesto  and  Chantal  Mouffe, Hegemonya  ve  Sosyalist  Strateji , (Çev.A. Kardam), Birikim Yayınları, İstanbul, 2008.
-- Kalaylıoğlu, Mahir, 'İktidarda Popülizm veya Tedrici Bir İnşa Süreci Olarak 2002-2010  AKP  Dönemi:Bir  Çerçeve  Denemesi  ve  Birkaç  Temel Önerme', Mülkiye Dergisi , 41(1), 2017, s. 67-103.
-- Kaltwasser, C. Rovira and Cas Mudde, 'Exclusionary vs. Inclusionary Populism: Comparing Contemporary Europe and Latın America', Government and Opposition , (48)2, 2012a, s. 147-174.
-- Kaltwasser, C. Rovira and Cas Mudde, Populism in Europe and the Americas: Threat  or  Corrective  for  Democracy?, Cambridge  University  Press, New York. 2012b.
-- Kaltwasser, C. Rovira, 'The ambivalence of Populism: Threat And Corrective For Democracy', Democratization , (19)2, 2012, s. 184-208.
-
-- Mair, Peter, 'Populist Democracy vs. Party Democracy', Democracies and the  Populist  Challenge ,  (Ed.  Yves  Meny  and  Yves  Surel),  Palgrave Macmillan, London, 2002, s. 81-98.
-- Martin, James (Ed.), Chantal Mouffe: Hegemony, Radical Democracy, and the Political , London: Routledge, 2013.
-- Moffitt, Benjamin and Simon Tormey, 'Rethinking Populism: Politics, Mediatisation and Political Style', Political Studies , (62), 2014, s. 381-397.
-- Mouffe, Chantal, Siyasetin Dönüşü ,  (Çev. Fahri Bakırcı ve Ali Çolak), Ankara: Epos Yayınları, 2010.
-- Mouffe, Chantal (05.02.2014), ' Why the EU Needs Populism? ', https://www.theeuropean-magazine.com/chantal-mouffe--4/8420why-the-eu-needs-populism (10.02.2019).
-- Mouffe, Chantal, Dünyayı Politik Düşünmek , (Çev. Murat Bozluolcay), İletişim Yayınları, İstanbul,  2015.
-- Mouffe, Chantal (2018), 'Populists are on the rise but this can be a moment for progressives too', https://www.theguardian.com/commentisfree/2018/sep/10/populists-rise-progressives-radical-right (25.02.2019).
-- Mouffe Chantal, Sol Popülizm , (Çev. Aybars Yanık ), İletişim Yayınları, İstanbul, 2019.
-- Mudde, Cas, 'The Popülist  Zeitgeist', Government and Opposition ,  (39)4, 2004, s. 541-563.
-- Mudde, Cas and C. Rovira Kaltwasser, Populism: A Very Short Introduction . Oxford Yayınları, Great Britain, 2017.
-- Müller, J. Werner (06.23.2015), 'Populist Constitutionalism: A Contradiction in  Terms?',  http://www.law.nyu.edu/sites/default/files/upload\_docu-ments/JWMueller%20-NYULaw-Populist%20Constitutionalism.pdf (10.07.2018)
-- Müller, J. Werner, Popülizm Nedir? , (Çev. Onur Yıldız), İletişim Yayıncılık, İstanbul, 2017.
-- Ostiguy, Pierre, 'Populism A Socio-Cultural Approac', The Oxford Handbook of  Populism ,  (Ed.  C.  Kaltwesser,  P.  Espejo  and  P.  Ostiguy),  Oxford University Press, 2017, s. 73-97.
-- Öngen, Tülin, 'Yeni Liberal Dönüşüm Projesi ve Türkiye Deneyimi', Küresel Düzen: Birikim, Devlet ve Sınıflar, Korkut Boratav'a Armağan , (Der. A.Haşim  Köse,  F.  Şenses,  E.  Yeldan),  İletişim  Yayınları,  İstanbul, 2003.
-
-- Özbudun, Ergun, 'The Institutional Decline of Parties in Turkey', Political Parties and Democracy, (Ed. Larry  Diamond and Richard Gunther), John Hopkins University Press, London, 2002, s. 238-265.
-- Özen Barkot, Zeynep, '21.Yüzyılda Toplumsal Hafızanın Sağ-Popülist Temsili', Toplum ve Bilim , Sayı:147, 2019, s.71-90.
-- Öztürk, Armağan (05.09.2018), 'Muharrem İnce ve Sol Popülizm', https://www.politikyol.com/armagan-ozturk-yazdi-adaylik-sureci-muharrem-ince-ve-sol-populizm/ (01.03.2019)
-- Panizza, Francisco, Populism and the Mirror of Democracy , Verso, London, 2005.
-- Pappas, Takis S., 'Are Populist Leaders 'Charismatic?' The Evidence from Europe', Constellations , 2016, s.1-13.
-- Parlak, İsmet, 'Yerel Seçimler Ulusal Düşmanlar', Ankara Üniversitesi SBF Dergisi , 70(3), 2015, s. 507-540.
-- Parlak, İsmet ve Pınar Uz, 'Mağdur/Mazlumdan Mağrur/Muktedire 30 Mart Seçimleri', Düşünen Siyaset Birikimler-II , Sayı 30, 2015, s. 69-106.
-- Parlak, İsmet ve Yavuz Yıldırım, 'Herkesin Demokrasisinden Bizim Demokrasiye:16 Nisan Referandumunun Birinci Yılında Bir Değerlendirme', Birikim , 2018, s. 53-68.
-- Rosenau, P. Marie, Post-Modernizm ve Toplum Bilimleri , (Çev. Tuncay Birkan), Bilim Sanat Yayınları, Ankara, 2004.
-- Stavrakakis, Yannis and Thomas Siomos, 'SYRIZA's Populism: Testing and Extending an Essex School Perspective', ECPR General Conference , Charles University Prague, 7-10. September 2016.
-- Şentürk, Burcu, 'Özne, İdeoloji ve Söylem: Post- Marxism ve Laclau Üzerine Eleştirel Bir Deneme', Birey ve Toplum , 6(11), 2016, s.27-41.
-- Wallerstein, Immanuel, Bildiğimiz Dünyanın Sonu: Yirmi Birinci Yüzyılın Sosyal Bilimi , (Çev. Tuncay Birkan), Metis, İstanbul, 2009.
-- Yılmaz, Zafer, 'Popülizm,  Halk ve Demokrasi: Temsili Demokrasinin Açmazları  ve  Radikal  Demokratik  Bir  Popülizmin  İmkânları', Mülkiye Dergisi , 41(1), 2017, s. 33-65.

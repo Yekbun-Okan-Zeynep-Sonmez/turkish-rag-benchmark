@@ -1,26 +1,9 @@
-## Kurumsal İletişimde Sosyal Medya Kullanımı Bağlamında Vega Hastanesinin Instagram Hesabının Söylem Analizi
-
-## Ebru KIZILYAR 1
-
-1 Tekirda ğ Nam ı k Kemal Ü niversitesi, Sosyal Bilimler Enstit ü s ü , ebrukizilyar200@gmail.com, 0000-0001-9320-4624
-
 ## Özet
 
 Dil, fikirleri beyan etme ve insanlar arasında bir köprü kurmaktır. Bunun yanında kullanım yoluyla bir davranış meydana getirmesinden dolayı güç ve kontrol aracıdır. Dilin bu amaçlarla kullanımına söylem denilmektedir. Aynı konuyu inceleyen farklı kişiler farklı bakış açısıyla olayları, haberleri vb. yorumlayabilmektedir; çünkü kişinin yorumlaması kişinin bilgisine, hayat görüşüne, yaşam tarzına göre şekillenmektedir.  Söylem  analizi  bu  sebepten  nesnel  yaklaşımdan  ziyade  öznel  yaklaşıma  daha  yakındır.  Bakmak  ve  görmek kelimelerinin aras ındaki fark söylem analizi için biçilmiş bir kaftandır. Herkes bakar ve görür; ancak konuya nasıl baktığın ve yaklaştığın önemlidir. Her gün baktığımız ama görmediğimiz, fark etmediğimiz birçok detay vardır. Bu çalışma da söylem analiz yöntemlerin den Bardi n' in Yıldız Falı yöntemi kullanılarak Vega Hastanesi Instagram sosyal medya hesabı incelenmiştir. Hedef kitleye ulaşırken nasıl bir kurumsal iletişim dili kullanıldığı analiz edilip yorumlanmıştır.
 
 Anahtar Kelimeler: Söylem Analizi, Sosyal Medya, Ö zel Hastane
 
-## Discourse Analysis of Vega Hospital's Instagram Account in the Context of Social Media Use in Corporate Communication
-
-## Abstract
-
-Language is about expressing ideas and building a bridge between people. In addition, it is a tool of power and control because it creates a behavior through use. The use of language for these purposes is called discourse. Different people who study the same subject can  interpret  events,  news,  etc.,  from  different  perspectives.  can  interpret;  because  the  interpretation  of  the  person  is  shaped according to the person's knowledge, view of life and lifestyle. For this reason, discourse analysis is closer to the subjective approach than the objective approach. The difference between the words looking and seeing is well suited for discourse analysis. Everyone looks and sees; however, how you look at the subject and approach it is important. There are many details that we look at every day but do not see or realize. In this study, Vega Hospital's Instagram social media account was examined by using Bardin's Horoscope method, one of the discourse analysis methods. What kind of corporate communication language is used while reaching the target audience has been analyzed and interpreted.
-
-Key Words: Discourse Analysis, Social Media, Private Hospital
-
-## Atıf için,
-
-Kızılyar ,  E.  (2022). Kurumsal İletişimde Sosyal Medya Kullanımı Bağlamında Vega Hastanesinin Instagram Hesabının Söylem Analizi. Namık Kemal Üniversitesi Sosyal Bilimler Meslek Yüksek Okulu Dergisi , 4(1), 40-52.
 
 ## 1. Giriş
 
@@ -28,7 +11,7 @@ Dil,  hayatı  yorumlama  ve  anlamlandırmamıza  ortam  yaratırken  aynı  za
 
 Çalışmanın konusu özel bir hastaneye ait sosyal medya hesabı olan ınstagramın analiz edilmesidir. Çalışmada 11 Ağustos 2021- 06 Kasım 2021 tarih aralığında yapılan 100 ınstagram paylaşım gönderisi analiz edilmiştir. Bu çalışmanın amacı, özel bir hastanenin hedef kitlesine sosyal medya hesabı üzerinden ulaşırken nasıl bir kurumsal iletişim dili kullandığını, ne tür paylaşımlara yer verdiğini, hedef kitlesine yeterince hitap edip etmediğini anlayabilmek için söylem analizi kullanılarak paylaşımlar üzerinden analiz yapılmaya çalışılmıştır.
 
-Çalışma altı bölümden oluşmaktadır. Çalışmanın birinci bölümü giriş kısmından oluşmaktadır. Giriş kısmında çalışmanın konusu,  amacı,  sınırlılıkları,  kaç  bölümden  oluştuğu,  bu  bölümlerin  neler  olduğuna  değinilmiştir.  İkinci  bölümünde  literatür taramasının  nasıl  yapıldığına  yer  verilerek  sonuç,  öneriler  başlığı  altında  literatür  taraması  sonucunda  karşılaştırma  yapılarak önerilerde bulunulmuştur. Üçüncü bölümünde teorik çerçeve kapsamında söylem, söylem kuramları, söylem analizi açıklamalarına yer verilmiştir. Dördüncü bölümünde, kullanılan gereç ve yöntemlere değinilerek araştırmanın modelinden, örnekleminden, veri toplama aracından bahsedilmiştir. Beşinci bölümde ise hastanenin sosyal medyasında paylaşılan gönderilerin boyutu ele alınmıştır. Son olarak da altıncı bölüm sonuç ve öneriler kısmından oluşmaktadır.
+Çalışma altı bölümden oluşmaktadır. Çalışmanın birinci bölümü giriş kısmından oluşmaktadır. Giriş kısmında çalışmanın konusu,  amacı,  sınırlılıkları,  kaç  bölümden  oluştuğu,  bu  bölümlerin  neler  olduğuna  değinilmiştir.  İkinci  bölümünde  literatür taramasının  nasıl  yapldığına  yer  verilerek  sonuç,  öneriler  başlığı  altında  literatür  taraması  sonucunda  karşılaştırma  yapılarak önerilerde bulunulmuştur. Üçüncü bölümünde teorik çerçeve kapsamında söylem, söylem kuramları, söylem analizi açıklamalarına yer verilmiştir. Dördüncü bölümünde, kullanılan gereç ve yöntemlere değinilerek araştırmanın modelinden, örnekleminden, veri toplama aracından bahsedilmiştir. Beşinci bölümde ise hastanenin sosyal medyasında paylaşılan gönderilerin boyutu ele alınmıştır. Son olarak da altıncı bölüm sonuç ve öneriler kısmından oluşmaktadır.
 
 ## 2. Literatür Taraması
 
@@ -333,55 +316,3 @@ Yaşam  standartlarını  yükselterek,  sağlıklı  şekilde  yaşamak  insanl
 Kuruluşun ınstagram hesabında öne çıkan temaların kullanım sıklığı analizine göre, önemli günlerin hatırlatmasını yaparak ve kutlayarak, kurumun toplum bilincini arttırmaya çalıştığı görülmektedir. Doktor tanıtımlarına ağırlık verilmesi gerektiği, çünkü hastanın hastaneden çok öncelikli olarak kendisini ya da aile üyelerinin şifa bulmasını sağlayacak doktoru araştırmalar sonucunda tercih ettiği bilinmektedir. Başka hastanelerde olmayıp ta Vega Hastanesinde olan bölümlerin, çalışan doktorların tanıtımlarının ön planda  tutularak  fark  yaratılabileceği  görüşüne  varılabilmektedir.  Yeni  başlayan  doktor  tanıtımlarıyla  alanında  uzman  kişilerle çalışıldığını göstermek, hastalıklar hakkında uzmana başvurmanın önemli olduğuna değinilmiştir. Hastaların sosyal medyada yazdığı teşekkür yazılarının kurum sosyal medyasında paylaşılması kurumu tercih edecek diğer hastalara ön bilgi ve algı oluşması adına güzel  bir  paylaşım  örneği  olduğunu  söyleyebiliriz.  Instagram  sayfasında  incelenen  konu  başlıkların  çoğunluğu  kadınlara  hitap etmektedir. Kadın hastalıklarına, genel hastalık, sağlık, güzellik, bakım konularına ağırlık verildiği görülmüştür. Hastanenin yapmış olduğu paylaşımlarda kadın ağırlıklı fotoğraflara  da  yer  verildiği  gözlemlenmiştir.  Paylaşımlarda  sağlık  ve  güzellik vurgusunun yapılması kadın cinsiyet temsilinin neden ön planda tutulduğunu ortaya koymaktadır. Asıl hedef kitlenin kadınlar olabileceği fikri akla gelmektedir. Kadın ve çocukların bağışıklık sistemlerinin daha düşük olduğu varsayımı göz önünde bulundurulursa kadınların ve çocuklu ailelerin paylaşımlara dikkatlerinin çekilmeye çalışıldığı varsayımına da varılabilmektedir. Dil incelemesi sonucunda ortaya çıkan Tablo 8 de verilen bilgiler doğrultusunda terim sayısını terim çeşidine oranlayarak net bir sonuca varılmıştır.  2433 sözcük vardır bunların 1785'i farklı sözcüklerden oluşmaktadır. Bu durumda O/V (Terim sayısı/terim çeşidi) oranı yaklaşık 1,36 bulunmuştur.  Terim sayısına göre terim çeşitliliğinin fazla olduğu görülmektedir. Zengin bir dil kullanıldığı tespit edilmiştir. İsim (1588 defa), Sıfat (102 defa), Fiil (329 defa) kullanılmış amaç sözcüklerinin toplamı 2019, araç sözcüklerinin sayısı ise 414'tür. Tablo 9 da verilen bilgiler doğrultusunda edat olarak (28) defa 'için' bağlaç olarak (67) defa 've' zarf olarak (36) defa 'en', zamir olarak (58) defa 'siz' kullanıldığı görülmektedir. Ve bağlacının 67 defa kullanımı verilen mesajların birbiriyle ne kadar ilişkili olduğunu göstermektedir. Siz zamirinin 58 defa kullanımıyla hastaların kendi sorumluluk bilinci ile bazı şeylerin oluşabileceği algısı yaratılmaya  çalışılmıştır.  Sağlık  kuruluşu  olarak  hastalıklar  hakkında  biz  bilgilendiriyoruz  ancak  sağlığınızı  kontrol  ettirip ettirmemek siz hastalarımıza bağlıdır görüşü savunulmuştur. Kurumların yapması gereken şey, kullanıcıları iyi analiz ederek bir hedef kitle profili oluşturmak ve sosyal medya hesaplarında hedef kitlenin beklentilerine uygun, dikkatlerini çekebilecek içerikler oluşturmaktır.
 
 Literatür taramalarına dayalı ek öneri olarak sosyal medya hesabından gelen mesajlara hemen geri dönüş yapılması hedef kitlenin  hastanenin ilgili,alakalı  olduğunu halkla ilişkilere görüş, önerilere önem verdiğini gösterecek ve memnuniyet artacaktır. Memnuniyet artması daha fazla hedef kitleye ulaşmasını kolaylaştıracaktır. Sosyal medya hesabının tek bir kişi tarafından gözetimli yürütülmesi hem merkezi yönetimi kolaylaştıracak hem de hızlı dönüş yapma olanağını sağlayacaktır. Sadece ınstagramda değil, özellikle diğer özel hastanelerin yer almadığı alternatif sosyal medya platformları için de uygun içerik ve stratejiler geliştirilmelidir. Bu faaliyetlerin özellikle ünlü kişiler ve sosyal medya fenomenleri üzerinden yürütülmesi, hastanenin imajını güçlendirirken daha çok ilgi çekilmesini sağlayabilir. Günümüzde sosyal medya kuşağı olarak da isimlendirilen Z kuşağının önemli bilgi kaynakları internet ve sosyal medyadır. Bu kişilerle iletişim kurabilmek ve onlara ulaşabilmek için sosyal medyanın gelecekte çok daha önemli bir  konuma  yükseleceği  tahmin  edilmektedir.  Bu  nedenle,  hastanelerin  stratejilerini  belirleyerek  şimdiden  markalarını  sosyal medyada  doğru  konumlandırmaları  gerekmektedir.  Sosyal  medya  paylaşımlarının  maliyet  gerektirmemesinden  kaynaklı  diğer pazarlama araçlarına oranla daha ekonomik olduğu görülmektedir. Farklı araştırmalarda sosyal medyanın günümüzde önemli bir konuma sahip olması, hedef kitle üzerinde oluşturduğu etkiyi anlayabilmek, maliyet gerektirmemesi sebebiyle başka araştırmacılar tarafından araştırma konusu olarak seçilmesi açısından elverişlidir.
-
-## Kaynakça
-
-Aydın, İrem (2020) Sağlık sektöründe sosyal medya pazarlaması (Kağıthane bölgesi özel hastaneler örneği)  Yüksek Lisans Tezi
-
-Aydoğan,D. ve Karaarslan,M (2017) Üniversiteler Kendini Nasıl Tanımlıyor? Üniversite Tanıtım Filmleri Üzerine Söylem Analizi, Muş Alparslan Üniversitesi Sosyal Bilimler Dergisi
-
-Ayvaz, S. ve Livberber, T. (2019). Reklamlarda Toplumsal Sınıf: Otomobil Reklamları Üzerinden Bir,Söylem Analizi. Erciyes İletişim Dergisi, 6 (2), 1141-1164. DOI: 10.17680/erciyesiletisim.518553
-
-Bulut,  S  (2020)  Güzellik  ve  Sağlığın  Endüstrileşmesi  ve  Ticarileştirişi  Söylemlerin  Sosyal  Medyada  İnşası:  Instagram Örneği, Gümüşhane Üniversitesi İletişim Fakültesi Elektronik Dergisi 1031-1056
-
-Elliott,  R.  (1996).  Discourse  analysis:  exploring  action,  function  and  conflict  in  social  texts.  Marketing  Intelligence  &amp; Planning.
-
-Erbay, Elif (2018) Hastanelerin sosyal medya kullanımına bakış açıları ve Ankara'da faaliyet gösteren özel hastanelerin web sayfalarının içerik analizi ile incelenmesi Yüksek Lisans Tezi
-
-Fairclough, Norman (2003), Söylemin Diyalektiği, Çeviren: Barış Çoban (Der.), Söylem ve İdeoloji. İstanbul: Su Yayınevi, ss.173-184
-
-Gökler, K. ve ONAY,  A.  (2020)  Üniversitelerin Kurumsal  İletişim Aracı Olarak Instagram Kullanımı: Vakıf Üniversitelerinin Instagram Sayfaları Üzerine Betimsel Bir İçerik Analizi Türkiye İletişim Araştırmaları Dergisi · Sayı/Issue: 35 ss/pp. 311-337
-
-Gümüş,  R.  (2018).  Pazarlama  Faaliyetlerinin  Sağlık  Sektörüne  Uygulanması:  Bir  Literatür  İncelemesi.  Bulletin  of Economic Theory and Analysis, 3(4), 217-235.
-
-Güney,Melih (2020).Sosyal medya reklamlarının özel sağlık kurumlarının çıktılarına etkisi: İstanbul'da özel bir hastanede göz lazer tedavisinin internet üzerinden erişilebilen tanıtım ve bilgilendirme faaliyetleri örneği Yüksek Lisans Tezi
-
-Kantar,  Gökmen  (2016)  Türk  Siyasetinde  Politik  Dil  Kullanımı:  Binali  Yıldırım,  Kemal  Kılıçdaroğlu  Ve  Devlet Bahçeli'nin; 7 Ağustos 2016 'Demokrasi Ve Şehitler Mitingi' Söylemlerinin İçerik Analizi, Yüzüncü Yıl Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, sayı:2, Van.
-
-Kantar, G., Ersöz,G.(2019). Türk Futbolunda Dil Kullanımı: Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor Marşlarının İçerik ve Söylem Analizi. Namık Kemal Üniversitesi Sosyal Bilimler Meslek Yüksek Okulu Dergisi, 1(1),1-11.
-
-Karaduman, S (2017). Eleştirel Söylem Çözümlemesinin Eleştirel Haber Araştırmalarına Katkısı ve Sunduğu Perspektif. Maltepe Üniversitesi İletişim Fakültesi Dergisi. Cilt 4, Sayı:2 ss.31-46
-
-Kantar, G. (2018). Söylem Üzerine Notlar. G. Kantar içinde, Söylem Üzerine Notlar (s. 90). Ankara: Detay Yayıncılık.
-
-Kara,Ş,E ve Nisan, F (2020) Mesut Özil'in Uygur Türkleriyle İlgili Sosyal Medya Paylaşımının Ardından Çıkan Haberlerin Söylem Analizi , International Journal of Cultural and Social Studies (IntJCSS)
-
-Kelebek Ö, Karaman H veYaman M.Ö (2022) YouTube'de Yer Alan Elektronik Sigara Videolarına Dair Bir Söylem Analizi, Bağımlılık Dergisi 23(2):170-180
-
-Nergiz,E ve Akın, N (2021)Kadına Yönelik Şiddet Haberlerinin Eleştirel Söylem Analizi: Mutlu Kaya Örneği Middle Black Sea Journal of Communication Studies. 6(1): 1-16.
-
-Pakkan,G. Savaş B ve T,(2021). Covıd-19 Pandemisi Döneminde Kurumsal İletişim Aracı Olarak Sosyal Medya: Özel Okulların Instagram Hesaplarına Yönelik İçerik Analizi, Gümüşhane Üniversitesi İletişim Fakültesi Elektronik Dergisi (e-gifder), 9 (2), 877-910
-
-Potter, Jonathan (2004), 'Söylemsel Psikoloji ve Söylem Analizi', Sibel A. Arkonaç (Der.), Doğunun ve Batının Yerelliği, İstanbul: Alfa Kitap, ss. 65-91.
-
-Somuncu, M. (2020). Dr. Fahrettin Koca'nın Sosyal Medyadaki Salgınla İlgili Paylaşımlarının Eleştirel Söylem Analizi Yöntemi ile İncelenmesi, Kesit Akademi Dergisi 6(23): 21-40.
-
-Sözen,E.(2014) Söylem,Belirsizlik,Mübadele,Bilgi/Güç ve Refleksivite.İstanbul:Paradigma Yayınları.
-
-Şenol,Y ve Avcı,K Sağlık Alanında Kamu Kurumlarının Sosyal Medya Kullanımına Bir Örnek: Sağlık Bakanlığı 2017 yılı Twıtter Hesabının İncelenmesi, Kocatepe Tıp DergisiKocatepe Medical Journal 20: 52-57 /Nisan /2019
-
-Tanışık,Y,S.  (2020)  Sosyal  Medyada  İçerik  ÜretimininMarkaların  İtibarına  Olan  Etkisi:  Covıd  19  Pandemi  Sürecinde Koç,Eczacıbaşı ve Arçelik'in Instagram Paylaşım Analizi ,Asead cilt 7 sayı 6 s 422-435 .
-
-Taşçı, Ö. Ve Gökler E, M. Aşı Karşıtlarının Sosyal Medya Platformlarındaki Paylaşımlarının İncelenmesi: Instagram Örneği
-
-Van Dijk, Teun A. (1993) The Interdisciplinary Study of News as Discourse, A Handbook of Qualitative Methodologies For Mass Communication Research, Ed. By. Klaus Bruhn Jensen and Nic-holas W. Jankowski, Routledge, London, ss. 108-120.

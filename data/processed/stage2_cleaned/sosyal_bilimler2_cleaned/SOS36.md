@@ -1,38 +1,8 @@
-<!-- image -->
-
-## Makale Adı / Article Name
-
-## Demokrasi İle Popülizm Arasındaki İlişki
-
-The Relationship Between Democracy and Popülism
-
-## Yazar(lar)
-
-## Barış ODABAŞ
-
-Kırıkkale Üniversitesi Yüksek Lisans Öğrencisi, odabasbaris@gmail.com
-
-## Yayın Bilgisi
-
-Çalışma Türü: Araştırma Makalesi
-
-Geliş Tarihi: 28.05.2021
-
-Kabul Tarihi: 28.06.2021
-
-Cilt-Sayı: 2(2)
-
 ## Öz
 
 Günümüz demokrasilerinin temsili nitelikte olması birtakım sorunları beraberinde getirmektedir. Popülizm, bu sorunlardan yalnızca birini oluşturmaktadır. Bu çalışma, demokrasi ile popülizmin genel hatlarını belirledikten sonra, ikisi arasındaki ilişkiyi anlamlandırmaya yöneliktir. Popülizm, her yönetim şeklinde görülmesine karşın, varlığını  en  çok  temsili  demokrasilerde hissettirir. Demokrasi ve popülizmi ortak paydada birleştiren faktörün 'milli  egemenlik''  vurgusu  olduğunu,  ancak  uygulamada  bu  vurgunun  her  ikisi  için  de  farklı  anlamlar barındırdığını  söyleyebiliriz.  Demokrasinin  ve  popülizmin  muğlak  kavramlar  olması  nedeniyle  bazı  ülkelerde demokrasi ile popülizm, siyam ikizlerini andıran bir görünüm alır. Popülist liderlerin elitlerin karşısında sıradan halkın safında yer alır gibi görünmeleri halktan olumlu karşılık almaları sonucunu doğurur. Popülistlerin gerçek halk olarak gördükleri halkın bir bölümünü iktidar sahibi elitlere karşı konuşlandırması ve düzen karşıtlığı rolüne soyunmaları, siyasetin temel amacı olan uzlaşmayı ortadan kaldırır. Bu kutuplaştırıcı siyaset anlayışı ve düzen karşıtlığı  söylemi,  popülizmin  demokrasinin  yolunu  takip  ederek  temsili  demokratik  düzene  zarar  vermesi  ile sonuçlanabilir.
 
 Anahtar Kelimeler: Demokrasi, Temsili demokrasi, Popülizm, Popülist lider.
-
-## Abstract
-
-The representative nature of today's democracies raises some problems. This study, after determining the general lines of democracy and populism, aims to make sense of the relationship between the two. Populism makes its presence felt in very representative democracies, being seen in every administration. We can say that it is the emphasis on "national sovereignty" that unites democracy and populism on a common ground, but in practice this emphasis has different meanings for both. Because democracy and populism are ambiguous concepts, some democracy and populism take on an appearance that resembles Siamese twins. It results in the positive response of populist leaders from the public as if they are on the side of the ordinary against the elite. The deployment of the people, whom the populists see as the real people, against the ruling elites with a content and the role of antiestablishment  abolishes  the  main  purpose  of  politics.  This  polarizing  understanding  of  politics  and  antiestablishment discourse may result in populism damaging the representative democratic order by following the path of democracy.
-
-Keywords: Democracy, Representative democracy, Populism, Populist leaders.
 
 ## 1. GİRİŞ
 
@@ -207,57 +177,3 @@ Daha önce değindiğimiz gibi, temsili  demokrasinin  olduğu  yerde  popülizm
 Demokrasimizin  kaderi,  insanlardaki  itaat  etme  temayülünün  ortadan  kaldırılması, çağdaş topluma yaraşır yurttaşlık bilincinin yeniden tesis edilmesi ve katılımcı demokrasinin oluşturulması  ile  tersine  çevrilebilir.  Etkili  demokrasi,  vatandaşların  kendilerini  ilgilendiren konuların  hepsinde  olmasa  da  çoğunda  etkin  rol  oynamasıyla  sağlanabilir. Yurttaşlar, temsilcilerinin  elindeki  dümeni  sıklıkla  ele  geçirip  gidişatı  değiştirebildiklerini  gördükleri andan itibaren demokrasiye dört elle sarılacakları düşüncesi bir gerçektir (Barber, 1995: 195). Katılımcı  demokratik yolların  tesis  edilmesi  geciktikçe  popülist  siyasetin  daha  etkin  bir  rol oynadığı  çok  açıktır.  Katılımcı  demokrasi  ile  popülistlerin  ''her  fırsatta  halka  başvurmalı'' arasındaki  fark,  taşıdıkları  niyetlerde  saklıdır.  Katılımcı  demokrasinin  oluşturulmasındaki niyet,  yurttaşların  kendilerini  ilgilendiren  konularda  bizzat  karar  verebilmesi  ve  özyönetim mantığının oturtulabilmesi iken; popülizmin niyeti, kendi çıkarlarına uygun düzenlemelerin, popülist  siyasetçilere  inanmış  ve  güvenmiş  insanlar  aracılığı  ile  meşruluk  kazanmasını sağlamaktır.  Bu  şekilde  düşünüldüğünde  popülizm,  halka  sormayı,  demokrasinin  gelişmesi için  değil,  kendi  çıkarlarını  korumak  ve  daha  fazla  güç  kazanmak  adına  önemsediğini söyleyebiliriz.
 
 Son olarak, demokrat gibi görünüp, asıl amaçları demokrasinin altını oymak olanlara karşı ''Neden Demokrasimize sahip çıkmalıyız?'' sorusuna verilebilecek yanıtlar şu şekilde sıralanabilir:  Birincisi,  demokrasi  bizi  acımasız  otoriter  yöneticilerden  koruyabilir.  İkincisi, demokrasi diğer yönetim modellerinin sunamayacağı özgürlükleri sunar. Üçüncüsü, demokrasi herkesin kişisel çıkarlarını koruyabilmesini sağlar. Dördüncüsü, demokrasi bireylere  kendilerini  ilgilendiren  konularda  başkasının  değil  bizzat  kendilerinin  etkin  rol oynaması gerektiğini öğütler. Beşincisi, demokrasi sınıfsal farklılıkları reddedip herkesin eşit olduğunu vurgular. Sonuncusu, farklı düşünceler demokrasilerde daha rahat ifade olunabilir (Dahl, 2001: 48).
-
-## KAYNAKÇA
-
-- Ardıti, B., (2010), Liberalizmin Kıyılarında Siyaset: Farklılık, Popülizm, Devrim, Ajitasyon, Çev:         Emine Ayhan, İstanbul: Metis Yayınları.
-- Barber, B., (1995), Güçlü Demokrasi , Çev: Mehmet Beşikçi, İstanbul: Ayrıntı Yayınları.
-- Beetham, D. ve Boyle, K., (2005), Demokrasinin Temelleri 80 Soru 80 Cevap , Çev: Aslıhan Zeynep Kopuzlu, Ankara: Adres Yayınları.
-- Beetham,  D.,    (2006), Demokrasi  ve  İnsan  Hakları ,  Çev:  Bilal  Canatan,  Ankara:  Liberte Yayınları.
-- Berlin, Isaiah, (1968), To Define Populism. Government and Opposition , 137-179.
-- Canetti, E., (2006), Kitle ve İktidar , Çev: Gülşat Aygen, İstanbul : Ayrıntı Yayınları.
-- Canfora, L., (2003), Demokratik Retoriğin Eleştirilmesi , Çev: Durdu Kundakçı, Ankara: Dost Kitabevi.
-- Çınar,  M.,  (2014),  Demokrasi. Siyaset:  Kavramlar,  Kurumlar (pp.  203-250),  Editör:  Yüksel Taşkın, İstanbul: İletişim Yayınları.
-- Dahl, R. A., (2001), Demokrasi Üzerine , Çev: Betül Kadıoğlu, Ankara: Phoenix Yayınevi.
-- Duverger, M., (1994), Siyaset Sosyolojisi , Çev: Şirin Tekeli, İstanbul: Varlık Yayınları.
-- Erdoğan, M., ( 2001), Anayasal Demokrasi , Ankara: Siyasal Kitabevi.
-- Fassin,  E.,  (2018), Popülizm:  Büyük  Hınç, Çev:Gülener  Kırnalı  ve  İlker  Kocael,  Ankara: Heretix Yayınları.
-- Gentile, E., (2017), Demokrasi'de Her zaman Halk Egemendir-Yalan ,  Çev: Volkan Çandar, İstanbul: İletişim Yayınları.
-- Gerbaudo,  P,  (2018), Maske  Ve  Bayrak:  Popülizm  ve  Yurttaşlık ,  Çev:  Diyar  Saraçoğlu, İstanbul: Kafka Yayınları.
-- Giddens, A., (2011), Sosyolojinin Savunusu , Çev: İbrahim Kaya, Ankara: Sav Yayınları.
-- Gökçe, O., (2016), Siyaset ve Kişilik. Siyaset Sosyolojisi ( pp. 79-111), Editör: Orhan Gökçe, Ankara: Çizgi Kitabevi.
-- Habermas,  J.,  (2002), Küreselleşme  ve  Milli  Devletlerin  Akîbeti ,  Çeviri:  Medeni  Beyaztaş, İstanbul: Bakış Yayınları.
-- Harkins, Phil, (2002), Etkili Konuşmanın Gücü , Çev: Gürol Koca, Bursa: Alfa Yayınları.
-- Heywood, Andrew, (2007) Siyasi  İdeolojiler , Çev: Ahmet Kemal Bayram, Özgür Tüfekçi vd., Ankara: Adres Yayınları.
-- Jefferson,  T.,  (1961), Thomas  Jefferson'dan  Seçme  Parçalar ,  Çev:  Mete  Tunçay,  Türk İstanbul: Siyasi İlimler Derneği Yayınları.
-- Kapani, M.,( 1988), Politika Bilimine Giriş , İstanbul: Bilgi Yayınevi.
-- Kesgin, B., ( 2017), Siyaset Bilimi ve Kamu Yönetimi , İstanbul: Açılım Kitap.
-- Laclau,  E.  (2011),  'Popülizm:  Bir  Ad  Ne  İçerir?',  (Çev.  Hayriye  Özen), Atılım  Sosyal Bilimler Dergisi, Cilt 1, Sayı 1, 135-146.
-- Laclau, E., (2007), Popülist Akıl Üzerine , Çev:Nur Betül Çelik, Ankara: Epos Yayınları.
-- Le  Bon,  G.,    (2005), Kitlelerin  Psikolojisi ,  Çev:  Selahattin  Demirkan,  İstanbul:  Yağmur Yayınları.
-
-- Locke,  J.,  (2004), Hükümet  Üzerine  İkinci  İnceleme ,  Çev:  Fahri  Bakırcı,  Ankara:  Babil Yayıncılık.
-- Mill, J.S., (2004), Hürriyet Üstüne ,  Çev:  Mehmet Osman Dostel(1955), Sadeleştiren: Ömer Çaha, Ankara: Liberte Yayınları.
-- Montesquieu, C. L. (2014), Kanunların Ruhu Üzerine ,  Çev: Şevki Özbilen, Ankara: Seçkin Yayıncılık.
-- Mouffe, C., (2000), Demokratik Paradoks , Çev: A. Cevdet Aşkın, Ankara: Epos Yayınları.
-
-Mouffe, C., (2010), Siyasal Üzerine , Çev: Mehmet Ratip, İstanbul: İletişim Yayınları.
-
-Müller, J.W., (2017), Popülizm Nedir? , Çev:Onur Yıldız, İstanbul: İletişim Yayınları.
-
-- Paine, T., (2017), İnsan Hakları , Çev: Mehmet Osman Dostel, İstanbul: İletişim Yayınları.
-- Rawls,  J.,(2007), Siyasal  Liberalizm ,  ,  Çev:  Mehmet  Fevzi  Bilgin,  İstanbul:  İstanbul  Bilgi Üniversitesi Yayınları.
-- Rouesseau, J.J., (1994), Toplum Sözleşmesi , Çev: Vedat Günyol, İstanbul: Adam Yayınları.
-- Sartori,  G.,(  2017), Demokrasi  Teorisine  Geri  Dönüş ,  Çev:  Tunçer  Karamustafaoğlu  vd., İstanbul: Sentez Yayınevi.
-- Schmitt, C., (2006), Parlamenter Demokrasinin Krizi ,  Çev:  A.  Emre  Zeybekoğlu,  Ankara: Dost Kitabevi.
-- Schmitt, C., (2014), Siyasal Kavramı , Çev: Ece Göztepe, İstanbul: Metis Yayınları.
-- Seyla, Benhabib, (1999), Demokratik Moment ve Farklılık Sorunu. Demokrasi Ve Farklılık: Siyasal Düzenin Sınırlarının Tartışmaya Açılması (pp. 11-33) , Çev: Zeynep Gürata vd., İstanbul: Demokrasi Kitaplığı.
-- Şaylan, G., (2008), Temsili Demokrasinin Önlenemez Krizi , Ankara: İmge Kitabevi.
-- Şengül, H.T., (2011), Muhafazakâr Popülizm , Ankara: İmge Kitabevi.
-- Taggart,  P.,  (2004), Popülizm , Çev:  Barış  Yıldırım,  İstanbul:  İstanbul  Bilgi  Üniversitesi Yayınları.
-- Tocqueville,  A.D.,  (1994), Amerika'da  Demokrasi , Çev:  İhsan  Sezal  vd.,  Ankara:  Yetkin Yayınları.
-- Touraine, A., (1997), Demokrasi Nedir? , Çev:Olcay Kunal, İstanbul: Yapı Kredi Yayınları.
-- Türköne, M., (2011), Siyaset, İstanbul: Etkileşim Yayınları.
-- Weber, M., (2006), Sosyoloji Yazıları , Çev:Taha Parla, İstanbul: Deniz Yayınları.
-- Yayla, Atilla, (2014), Karşılaştırmalı Siyasal Sistemler , Ankara: Adres Yayınları.
-- Yayla, Atilla, (2015), Siyaset Bilimi , Ankara: Adres Yayınları.

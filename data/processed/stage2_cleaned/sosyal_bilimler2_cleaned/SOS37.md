@@ -1,31 +1,12 @@
 ## TÜRKİYE'DE EKONOMİK BÜYÜMENİN ENFLASYON VE İŞSİZLİK İLE İLİŞKİSİ: BÖLGELER DÜZEYİNDE BİR ARAŞTIRMA 1
-
-Mehmet BÖLÜKBAŞ 2
-
 Öz
-
 Bu çalışmanın amacı ekonomik büyümenin enflasyon ve işsizlik ile ilişkisini Türkiye ekonomisi için araştırmaktır. Bu kapsamda 20052017  dönemi  yıllık  verileri  kullanılmış  ve  bölgesel  düzeyde  bir analiz yapılmıştır. Çalışmada yöntem olarak panel ARDL modeli ve Dumitrescu-Hurlin panel nedensellik testi seçilmiştir. Çalışmadan elde edilen bulgulara göre, panelin geneli için enflasyon ekonomik büyüme üzerinde pozitif ve anlamlı, işsizlik ise negatif ve anlamlı etkiye  sahiptir.  Ayrıca  on  yedi  farklı  bölgede  ekonomik  büyüme ile  enflasyon ve işsizlik arasındaki uzun dönemli ilişkiler anlamlı görünmektedir. Diğer yandan nedenselliğin yönü bölgelere göre  değişmektedir.  Ekonomik  büyüme  ve  enflasyon  arasındaki nedensellik  ilişkisi  yedi  bölgede,  ekonomik  büyüme  ve  işsizlik arasındaki nedensellik ilişkisi ise on yedi bölgede görülmüştür.
 
 Anahtar Kelimeler: Ekonomik Büyüme, Enflasyon, İşsizlik,
 
 Türkiye, Panel Veri Analizi
 
-1 Makalenin Geliş Tarihi: 4.2.2019 Makalenin Kabul Tarihi: 26.4.2019
-
-2 Dr.  Öğr.  Üyesi,  Aydın  Adnan  Menderes  Üniversitesi  Aydın  İktisat  Fakültesi  İktisat Bölümü. e-mail: mbolukbas@adu.edu.tr
-
-<!-- image -->
-
-## The  Relationship  of  Economic  Growth  with  Inflation  and Unemployment in Turkey: A Regional Research
-
-## Abstract
-
-The  purpose  of  the  study  is  to  investigate  the  relationship  of economic growth with inflation  and  unemployment  for  Turkey's economy. In this context, the data for the 2005-2017 periods was used  and  an  analysis  was  performed  at  the  regional  level.  Panel ARDL  model  and  Dumitrescu-Hurlin  panel  causality  test  have been  selected  as  econometric  method  in  the  study.  According  to the findings obtained from the study, inflation has a positive and significant  effect  on  economic  growth  and  unemployment  has  a negative  and  significant  effect  on  economic  growth.  In  addition, the  long-term  relationships  between  economic  growth,  inflation and unemployment appear to be significant in seventeen different regions.  On  the  other  hand,  the  causality  relationships  vary  on the regions. It has been seen that there are causality relationships between economic growth and inflation in the seven regions, and also  there  are  causality  relationships  between  economic  growth and unemployment in the seventeen regions.
-
-Keywords: Economic  Growth,  Inflation,  Unemployment,  Turkey, Panel Data Analysis
-
 ## Giriş
-
 Bir ekonomideki üretim kapasitesinin genişletilmesi, dolayısıyla mal  ve  hizmet  üretiminin  artırılması  sonucunda  ekonomik  büyüme gerçekleşir. Reel GSYH'deki ya da reel GSMH'deki yüzdelik artış ile ölçülen ekonomik büyüme aynı zamanda bir ekonominin temel makroekonomik göstergelerinden  biri  olarak  ifade  edilir.  Ekonomik  büyümede  zaman zaman  daralma  ya  da  genişlemeler  yaşanabilir  ve  bu  konjonktürel dalgalanmalar neticesinde enflasyon ve işsizlik gibi ekonomik sorunlar ortaya  çıkabilir.    Fiyatlar  genel  düzeyindeki  artışı  ifade  eden  enflasyon önemli  bir  makroekonomik  sorun  olarak  görülmekte  ve  bu  yüzden hemen  her  ekonomin  temel  önceliklerinden birisi fiyat istikrarını sağlayarak yüksek enflasyonun oluşmasını önlemektir. Enflasyon kadar önemli  bir  diğer  makroekonomik  sorun  da  işsizliktir.  Bir  ülkede  cari ücret  düzeyinde çalışmaya razı olduğu halde iş bulamayan kişiler işsiz olarak tanımlanmakta ve bu işsizlerin sayısının işgücüne bölünmesi ile de işsizlik oranı elde edilmektedir.
 
 Ekonomik büyümenin enflasyon ve işsizlik ile ilişkisi iktisat  teorisinde önemli bir yer tutmaktadır. Ekonomik büyüme ve enflasyon arasındaki etkileşim konusunda iktisadi okulların farklı bakış açılarının olması bir yana,  enflasyonun dünya ekonomisindeki gelişimi de bu iki değişkenin birbiriyle  ilişkisi  konusunda  farklı  bulguları  beraberinde  getirmiştir. Nitekim enflasyonun yüksek düzeylerde izlenmediği ve ekonomik büyümenin bu durumdan etkilenmediği yıllarda enflasyon ve ekonomik büyüme arasındaki ilişkinin pozitif yönde olduğu algısı oluşmuştur. Ancak petrol  krizlerinin  yaşanmasıyla  birlikte  başlayan  süreçte  enflasyonda yaşanan önemli artışlar ekonomik daralmaları beraberinde getirmiş ve enflasyonun ekonomik büyüme üzerindeki olumsuz etkileri tartışılmaya başlanmıştır. Ekonomik büyüme ile işsizlik arasındaki ilişki konusunda da  iktisat  literatüründe  Okun  Yasası  önemli  bir  role  sahip  olmaktadır. Amerika  ekonomisini  ele  aldığı  çalışmasında  ekonomik  büyüme  ve işsizlik ilişkisini inceleyen Arthur M. Okun (1962), ekonomik büyüme ve işsizlik arasında ters yönlü bir ilişki olduğunu belirtmiştir. Okun Yasası olarak bilinen bu yaklaşım pek çok çalışmaya konu olmuş ve farklı ülke ekonomileri için de analizler yapılmıştır. Yapılan çalışmalardan pek çoğu Okun'un  (1962)  belirttiği  gibi  ekonomik  büyüme  ve  işsizlik  arasında negatif  yönlü  ilişki  tespit  ederken,  çalışmaların  bir  kısmında  da  Okun Yasası'na paralel olmayan sonuçlar elde edilmiştir.
@@ -409,91 +390,3 @@ Tablo 6'ya bakıldığında ekonomik büyüme ve işsizlik arasında nedensellik
 Gelişmiş ya da gelişmekte olan ülke ekonomilerinin en önemli önceliklerinden biri ekonomik büyümeyi artırırken enflasyonu belirli bir seviyede tutmaya çalışmak, diğeri de işsizliği azaltmaktır.  Bu amaçları gerçekleştirmek için para ve maliye politikaları başta olmak üzere çeşitli ekonomi politikaları kullanılır ancak bu öncelikler her zaman istenilen düzeyde gerçekleşmeyebilir. Özellikle gelişmekte olan ülkelerde enflasyon ekonomik büyüme ile birlikte artmaktadır ya da artan ekonomik büyüme işsizliği  azaltmada  yeterli  olamamaktadır.  Türkiye  ekonomisinde  ise durum çok farklı değildir. Uzun yıllar boyunca yüksek enflasyon sorunu ile  mücadele  eden  Türkiye  ekonomisi,  enflasyon  hedeflemesi  ve  mali disiplin politikaları ile yakın geçmişte enflasyonu tek haneye indirmeyi başarabilmiştir.    Ancak  yine  de  yüksek  bir  enflasyona  sahip  olduğu düşünülmektedir. İşsizlik konusu ise Türkiye ekonomisi için halen önemli makroekonomik  sorunlardan  biri  olarak  değerlendirilmektedir.  Çünkü büyümenin  %3  dolaylarında  olduğu  2016  yılında  işsizlik  %10  iken, ekonominin iki kat büyüdüğü 2017 yılında işsizlik yine %10 seviyesinde kalmıştır. Türkiye ekonomisinde bölgeler düzeyindeki gelişmelere bakıldığında  da  yine  ekonomik  büyümeye  rağmen  enflasyonun  ve işsizliğin  yoğun  yaşandığı  bölgeler  dikkat  çekmektedir.  Örneğin  İzmir'i temsil  eden  TR31  bölgesi  2017  yılında  191.467.959  (bin  TL)  ile  yirmi altı bölge arasında en yüksek üçüncü bölgesel GSYH rakamına sahipken, enflasyon ve işsizlik oranları sırasıyla %13 ve %14 olarak gerçekleşerek ortalamanın  üzerinde  seyretmiştir.      Diğer  yandan  en  düşük  bölgesel GSYH'ya  (20.457.298)  sahip  olan  ve  Kastamonu,  Çankırı  ve  Sinop'u temsil  eden  TR82  bölgesinin  enflasyon  oranı  ile  en  yüksek  bölgesel GSYH'ya (970.188.957) sahip olan TR10 (İstanbul) bölgesinin enflasyon oranı  (yaklaşık  %11)  birbirine  çok  yakındır.  Bu  nedenle  ekonomik büyüme,  enflasyon  ve  işsizlik  gelişmelerinin  bölgeler  düzeyinde  de önemli  ilişkiler  içinde  olduğu  söylenebilmektedir.  Bu  çalışma  Türkiye ekonomisi  için  ekonomik  büyümenin  enflasyon  ve  işsizlik  ile  ilişkisini bölgeler düzeyinde incelemektedir. Bu kapsamda  TUİK  tarafından belirlenen ve Düzey 2 olarak adlandırılan 26 istatistiki bölgenin 20052017  dönemi  yıllık  verileri  dikkate  alınmıştır.  Panel  veri  tekniklerinin kullanıldığı analiz sonuçlarına göre, panelin geneli için enflasyon ekonomik  büyüme  üzerinde  pozitif  ve  anlamlı,  işsizlik  ise  negatif  ve anlamlı etkiye sahiptir. Ayrıca ele alınan yirmi altı bölgenin on yedisinde ekonomik  büyüme  ile  enflasyon  ve  işsizlik  arasındaki  uzun  dönemli ilişkiler  anlamlı  görünmektedir.  Diğer  yandan  nedensellik  testinden elde  edilen  bulgular  nedenselliğin  yönünün  bölgelere  göre  değiştiğini göstermektedir. Nitekim TR21, TR63, TR71, TRB2 ve TRC1 bölgelerinde enflasyondan ekonomik büyümeye, TR52 bölgesinde ekonomik büyümeden enflasyona olmak üzere tek yönlü nedensellik ilişkisi olduğu görülmüştür. Antalya, Isparta ve Burdur'u kapsayan TR61 bölgesinde ise diğer bölgelerden farklı olarak enflasyon ve ekonomik büyüme arasında çift  yönlü  nedensellik  ilişkisi  elde  edilmiştir.    Ekonomik  büyüme  ve işsizlik arasındaki nedensellik ilişkisinde ise durum biraz daha farklıdır. Panelin geneli için değerlendirildiğinde işsizlikten ekonomik büyümeye doğru anlamlı bir nedensellik ilişkisi mevcut iken ekonomik büyümeden işsizliğe  doğru  herhangi  bir  nedensellik  ilişkisi  bulunmamaktadır.  Bu durum ele alınan dönemde istihdam yaratmayan (işsizliği azaltmayan) ekonomik büyüme olduğuna bir işaret olarak değerlendirilebilir. Bölgeler düzeyinde bakıldığında ise pek çok bölgede işsizlik ve ekonomik büyüme arasında nedensellik ilişkisi izlenmektedir. TR10, TR21, TR31, TR32, TR41, TR61, TR63, TR71, TR90 ve TRA2 bölgelerinde işsizlikten ekonomik  büyümeye  doğru,  TRC1  ve  TR51  bölgelerinde  ise  ekonomik büyümeden işsizliğe doğru tek yönlü nedensellik ilişkisi olduğu görülmektedir. Bu bölgelerden farklı olarak TR33, TR52, TR81, TR82 ve TRC3 bölgelerinde ise işsizlik ve ekonomik büyüme arasında çift yönlü nedensellik ilişkisi olduğu gözlemlenmiştir. Analiz bulguları konuyu farklı ülkeler  bağlamında  ele  alan  diğer  çalışmaların  bulguları  ile  benzerlik göstermektedir. Bu  çalışmalar Andrei  vd. (2009), Sattarov (2011), Jaradat  (2013),    Resurreccion  (2014),  Thayaparan  (2014),  Ademola ve  Badiru  (2016),  Yüksel  (2016)  tarafından  yapılan  çalışmalar  olarak sıralanabilir. Bu çalışmanın analizinde elde edilen bulgular aynı zamanda konuyu  Türkiye  ekonomisi  için  ele  alan  Şentürk  ve  Akbaş'ın  (2014), Köse'nin (2016) ve Özçelik ile Uslu'nun (2017) bulguları ile de benzerlik göstermektedir. Bununla birlikte literatürde konuyu farklı ülke gözlemleri ile  değerlendiren ve farklı sonuçlar elde eden çalışmalar da mevcuttur. Bu  çalışmalar  da  Umair  ve  Ullah  (2013),  Shahid  (2014),  Vermeulen (2015),  Jelilov  vd.  (2016),  Singh  (2018)  ve  Mukoka  (2018)  tarafından yapılan  çalışmalardır.  Görüldüğü  üzere  analiz  bulguları  literatürdeki pek çok çalışmanın bulguları ile benzer özellikte iken bazı çalışmalardan farklılaşmaktadır. Bunun nedeninin ülkelerin ekonomik yapısının benzer olmayışından, analiz yöntemlerinin farklılığından ve ülkelerin istihdam yapısındaki değişikliklerden kaynaklandığı söylenebilir.
 
 Sonuç  olarak  beklenildiği  üzere  enflasyon  ve  işsizlik  hem  bölgeler  düzeyinde hem  de  genel  anlamda  ekonomik  büyümedeki  gelişmeler  ile  ilişkili görünmektedir.  Bu nedenle ekonomik büyümeye yönelik politikaların, enflasyon ile mücadele politikalarının ya da istihdam politikalarının tek başına  yeterli  olmayacağı,  bu  tür  politikaların  birbirleriyle  koordineli yürütülmesi gerektiği açıktır.  Aksi halde işsizliği azaltmada yeterli olmayan ya da enflasyonun yükselmesini önleyemeyen bir ekonomik büyümenin görülmesi kaçınılmaz olacaktır. Bununla birlikte bölge öncelikleri dikkate  alınarak  uygulanacak  bölgesel  ekonomi  politikalarının  da  hem makroekonomik gelişmelerde başarı sağlayacağı, hem de bölgelerin refah düzeyine katkı sağlayacağı düşünülmektedir. Nitekim bölgelerin coğrafi, ekonomik ve sosyal imkânlarının benzer olmayışı farklı sosyo-ekonomik gelişmeleri de beraberinde getirmektedir.  Bu çalışmanın bundan sonra konu  ile  ilgili  yapılacak  çalışmalara  katkı  sağlaması  beklenilmektedir. Ayrıca  Türkiye  ekonomisinin  temel  makroekonomik  sorunlardan  olan enflasyon ve işsizliğin bölgeler düzeyinde iyileştirilmesinin ülke genelinde de makroekonomik iyileşmeleri beraberinde getireceğine inanılmaktadır.
-
-## Kaynakça / References
-
-Ademola, A. S. ve Badiru, A. (2016). The impact of unemployment and inflation on economic growth in Nigeria (1981-2014). International Journal of Business and Economics Sciences Applied Research (IJBESAR) , 9 (1), 47-55.
-
-Alamro, H. ve Al-dalaien, Q. (2014). Modeling the relationship between GDP and Unemployment for Okun's law specific to Jordan. Munich Personal Repec Archive, 55302.
-
-Andrei, D. B., Vasile, D. ve Adrian, E. (2009). The  correlation  between unemployment and real GDP growth. A study case on Romania . Annals of Faculty of Economics, University of Oradea. Faculty of Economics, 2 (1), 317-322.
-
-Baltagi, B. H. (2005). Econometric analysis of panel data . Third edition. Chichester:
-
-Wiley.
-
-Barışık, S., Çevik, E. İ. ve Çevik, N.K. vd. (2010). Türkiye'de Okun yasası, asimetrik ilişkisi  ve  istihdam  yaratmayan  büyüme:  Markov-Switching  yaklaşımı. Maliye Dergisi, Temmuz-Aralık 2010, 159, 88-102.
-
-Barro,  R.  J.  (2013).  Inflation  and  economic  growth. Annals  of  Economics  and Finance, 14 (1), 121-144.
-
-Dumitrescu,  E.  I.,  Hurlin,  C.  (2012).  Testing  for  Granger  non-causality  in heterogeneous panels. Economic Modelling, 29 (4), 1450-1460.
-
-Dussoyea, B. R., Ming-Kang, H., Rajeswari, R. ve Yin-Fah, B. C. (2017). Economic crisis in Europe: Panel analysis of inflation, unemployment and gross domestic product  growth  rates. International  Journal  of  Economics  and  Finance,  9 (10), 145-154.
-
-Eğilmez, M. (2015). Enflasyonla büyüme ilişkisi. Erişim tarihi: 08.01.2019 http:// www.mahfiegilmez.com/2015/03/enflasyonla-buyume-iliskisi.html
-
-Im, K. S., Pesaran, M. ve Shin, Y. (2003). Testing for unit roots in heterogeneous panels. Journal of Econometrics, 115 (1), 53-74.
-
-Jaradat, M. A. (2013). Impact of inflation and unemployment on Jordanian GDP. Interdisciplinary Journal of Contemporary Research In Business, 4 (10), 317-334.
-
-Jelilov, G., Obasa, O. J. Isik, A. (2016). Impact of inflation and unemployment on economic growth in ten (10) selected member's states of economic community of West Africa States (ECOWAS) (2011-2014). Advances in Economics and Business, 4 (5), 222-244.
-
-Karaca,  O.  (2003).  Türkiye'de  enflasyon-büyüme  ilişkisi:  Zaman  serisi  analizi. Doğuş Üniversitesi Dergisi, 4 (2), 247-255.
-
-Köse,  Z.  (2016).  Türkiye  ekonomisinde  2003-2014  döneminde  ekonomik büyüme işsizlik ve enflasyon ilişkisi. Türk Sosyal Bilimler Araştırmaları Dergisi, 1 (1), 58-76.
-
-Levin, A., Lin, C. F. ve Chu, C. S. J. (2002). Unit root tests in panel data: Asymptotic and finite-sample properties. Journal of Econometrics, 108 (1), 1-24.
-
-Mukoka,  S.  (2018).  An  econometric  assesment  of  the  impact  of  inflation  on economic growth: A case study of Zimbabwe economy. Economics, 7 (1), 17-22.
-
-Okun, A. M. (1962). Potential GNP: Its measurement and significance. American Statistical Association: Proceeding of the Business and Economics Statistics Section .
-
-Özçelik, Ö. ve Uslu, N. (2017). Ekonomik büyüme, işsizlik ve enflasyon arasındaki ilişkinin  Var  modeli  ile  analizi:  Türkiye  örneği  (2007  -  2014). Ekev  Akademi Dergisi, 21 (69), 31-51.
-
-Öztürk, S. ve Sezen, S. (2018). Ekonomik büyüme ile işsizlik arasındaki ilişkinin analizi:  Türkiye  örneği. Mustafa  Kemal  Üniversitesi  Sosyal  Bilimler  Enstitüsü Dergisi, 15 (41), 1-14.
-
-Resurreccion,  P.  F.  (2014).  Linking  unemployment  to  inflation  and  economic growth:  Toward  a  better  understanding  of  unemployment  in  the  Philippines. Asian Journal of Economic Modelling, 2 (4), 156-168.
-
-Saygılıoğlu,  N.  (2015).  Orta  gelir  tuzağı  yanı  sıra  enflasyon,  işsizlik,  ihracat tuzakları.  Erişim  tarihi:  08.01.2019  https://www.dunya.com/kose-yazisi/ortagelir-tuzagi-yani-sira-enflasyon-issizlik-ihracat-tuzaklari/23224
-
-Şentürk,  M.  ve  Akbaş,  Y.  E.  (2014).  İşsizlik-enflasyon  ve  ekonomik  büyüme arasındaki karşılıklı ilişkinin değerlendirilmesi: Türkiye örneği. Journal of Yasar University, 9 (34), 5820-5832.
-
-Şirvan,  N.  ve  Sezgin  Alp,  Ö.  (2017).  Türev  piyasa  araçlarının  Türk  bankacılık sektöründe riske olan etkileri. Ticari Bilimler Fakültesi Dergisi , 1 (1), 130-157.
-
-Tatoğlu,  Y.  F.    (2012). İleri  panel  veri  analizi:  stata  uygulamalı. İstanbul:  Beta Basım.
-
-T. C. Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı (2018). Ekonomik ve sosyal göstergeler. Erişim tarihi:  01.12.2018,  http://www.sbb.gov.tr/ekonomik-vesosyal-gostergeler
-
-TUİK  (2018).  Temel  istatistik  göstergeleri.  Erişim  tarihi:  01.12.2018,  http:// www.tuik.gov.tr/UstMenu.do?metod=istgosterge
-
-Topal, M. H. (2017). Türkiye'de kamu yatırımlarının istihdam üzerindeki etkisi: Bölgesel bir analiz (2004-2016). Global Journal of Economics and Business Studies , 6 (2), 186-204.
-
-Umair, M. ve Ullah, R. (2013). Impact of GDP and inflation on unemployment rate: A study of Pakistan economy in 2000-2010. International Review of Management and Business Research, 1 (2), 388-400.
-
-Pessaran, M. H, Shin, Y. ve Smith, R. P. (1999). Pooled mean group estimation of dynamic heterogeneous panels. Journal  of  the  American Statistical Association. 94 (446), 621-634.
-
-Rasheed, A.  ve  Ali,  Z.  (2017).  Impact  of  unemployment  and  GDP  on  inflation:
-
-Imperial study of Pakistan's economy. International Journal of Current Research in Multidisciplinary (IJCRM), 2 (6), 1-10.
-
-Sattarov, K. (2011). Inflation and economic growth analyzing the threshold level of inflation-Case study of Finland, 1980-2010. (Master Thesis, Umea Universitat).
-
-Shahid, M. (2014). Effect of inflation and unemployment on economic growth in Pakistan. Journal of Economics and Sustainable Development, 5 (15), 103-107.
-
-Singh, R. (2018). Impact of GDP and inflation on unemployment rate: A study of  Indian  Economy  in  2011  2018. International  Journal  of  Management,  IT  &amp; Engineering, 8 (3), 329-340.
-
-Thayaparan, A. (2014). Impact of inflation and economic growth on unemployment in Sri Lanka: A study of time series analysis. Global Journal of Management And Business Research: B. Economics and Commerce, 13 (5), 45-53.
-
-Vermeulen, C. (2015). Inflation, growth and employment in South Africa: Trends and trade-offs . Economic Research Southern Africa Working Paper , 547.
-
-Yüksel, S. (2016). Rusya ekonomisinde büyüme işsizlik ve enflasyon arasındaki nedensellik ilişkileri. Finans Politik &amp; Ekonomik Yorumlar, 53 (614), 43-57.
-
-## Summary
-
-Economic growth, as measured by the percentage increase in real GDP or real GNP, is expressed as one of the main macroeconomic indicators of an economy. Economic growth may cause contraction or expansion from time to time and economic problems such as inflation and unemployment may  emerge  as  a  result  of  these  cyclical  fluctuations.  Inflation,  which represents the rise in prices at the general level, is seen as an important macroeconomic problem and thus one of the main priorities of almost every economy is to provide price stability and to prevent high inflation. Unemployment is also as important as inflation another macroeconomic problem. People who cannot find a job although they are willing to work at the current wage level in a country are identified as unemployed and the  unemployment  rate  is  obtained  by  dividing  the  number  of  these unemployed by the labour force
-
-One  of  the  most  important  priorities  of  the  developed  or  developing economies is to keep inflation at a certain level while increasing economic growth and the other one is to reduce unemployment. For this purpose, various  economic  policies,  especially  monetary  and  fiscal  policies  are used,  but  these  priorities  may  not  always  occur  at  the  desired  level. Especially in developing countries, inflation is increasing with economic growth  or  increases  in  economic  growth  are  not  sufficient  to  reduce unemployment. This situation is not very different in Turkey's economy. Turkey's economy has been struggling with high inflation problem for many years, but inflation is reduced to single digit by applying inflation targeting and fiscal discipline policies in the recent periods. However, it is thought that Turkey's economy still has a high inflation rate. The issue of unemployment is also still one of the important macroeconomic problems for Turkey's economy. Because jobless growth situation is still discussed. When we consider the developments in the regional level for Turkey's economy, we also see high inflation and unemployment rates despite the economic growth. For instance, TR31 (İzmir) has the third highest GDP in 2017. However, it also has high inflation (13%) and high unemployment (14%) rates. On the other hand, TR82 (Kastamonu, Çankırı, Sinop) region has the lowest GDP and TR10 (Istanbul) has the highest GDP in contrast with inflation rate is almost same (about 11%) in these regions. In the light of these information we could say that economic growth, inflation and  unemployment  have  important  relations  with  each  other  at  the regional level.
-
-This  study  investigates  the  relationships  between  economic  growth, inflation and unemployment at the regional level for Turkey's economy. In this context, twenty-six regions data for the 2005-2017 periods which are created by Turkish Statistical Institute and named 'NUTS2-26 regions' were used. Panel ARDL method and Dumitrescu-Hurlin panel causality test  were  selected  as  econometric  method.  According  to  the  findings, inflation  has  a  positive  and  significant  effect  on  economic  growth  and unemployment has a negative and significant effect on economic growth. In addition, the long-term relationships between economic growth, inflation and unemployment appear to be significant in seventeen different regions. On the other hand, the causality relationship vary on the regions. Hence, there is a unidirectional causality from inflation to economic growth in the TR21, TR63, TR71, TRB2 ve TRC1 regions and a unidirectional causality from economic growth to inflation in the TR52 region. Unlike others, in the TR61 region, there is a bidirectional causality relationship between inflation and economic Growth. When we look at the other causality test results, the situation look like slightly different for economic growth and unemployment. We see that there is a unidirectional causality relationship from  unemployment to economic growth but we cannot say the exact opposite. This situation can be considered as a sign that economic growth is not creating employment (not reducing unemployment). The causality relationship between unemployment and economic growth is also seen at the region level. There are a unidirectional causality relationship from unemployment  to  economic  growth  in  the  TR10,  TR21,  TR31,  TR32, TR41, TR61, TR63, TR71, TR90 and TRA2 regions, and a unidirectional causality  relationship  from  economic  growth  to  unemployment  in  the TRC1  and  TR51  regions.  Unlike  these  regions,  there  is  a  bidirectional causality relationship between economic Growth and unemployment in the TR33, TR52, TR81, TR82 and TRC3 regions.
-
-As  a  result,  inflation  and  unemployment  seem  to  be  related  to  the developments in economic growth both at regional and general levels. Therefore, it is clear that the policies which aim economic growth, price stability or low unemployment should be implemented in a coordinated manner with each other. Otherwise, it will be inevitable to see an economic growth  that  is  not  sufficient  to  reduce  unemployment  or  prevent  the increase in inflation. This study is being expected to contribute to the work to be done regarding hereinafter issues. Finally, we think that if inflation and unemployment problems are resolved at the region level, important macroeconomic developments will also be occurred at the country level.

@@ -1,36 +1,8 @@
-Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi Y.2019, C.24, S.3, s.551-566.
-
-Suleyman Demirel University The Journal of Faculty of Economics and Administrative Sciences Y.2019, Vol.24, No.3, pp.551-566.
-
-## YEREL YÖNETİMLERDE E-BELEDİYE UYGULAMALARI: İÇİŞLERİ BAKANLIĞI E-BELEDİYE BİLGİ SİSTEMİ
-
-## E-MUNICIPAL PRACTICES IN LOCAL GOVERNMENTS: MINISTRY OF INTERNAL AFFAIRS E-MUNICIPAL INFORMATION SYSTEM
-
-## Oğuzhan ERDOĞAN *
-
-* Dr. Öğr. Üyesi, Mehmet Akif Ersoy Üniversitesi, Bucak Hikmet Tolunay Meslek Yüksekokulu,  Büro Hizmetleri ve Sekreterlik Bölümü, TBMM Kamu Denetçiliği Kurumu, Danışman, oerdogan@mehmetakif.edu.tr, 0000-0003-3809-6688
-
 ## ÖZ
 
 Küreselleşmenin  de  etkisiyle  birlikte  teknolojinin  hızla  gelişmesi  ve  toplum  içinde  bilgi  iletişim teknolojilerinin  kullanımın  yaygınlaşması  vatandaşların  devletten  aldığı  hizmetten  beklentilerini değiştirmiştir. Bu beklentilere karşılık vermek içinde devletler tarafından hizmet taleplerinin daha hızlı ve ucuz bir şekilde karşılanması için bilgi iletişim teknolojilerinden yararlanılarak çok çeşitli elektronik uygulamalar geliştirilmiştir. Vatandaşlara etkin ve verimli hizmet sunmak için dünya genelinde hızla uygulanmaya başlanan e-devlet (elektronik devlet) ve e-belediye uygulamaları, bir taraftan vatandaşların günlük yaşamlarını kolaylaştırırken diğer taraftan yerel katılımı arttırmakta ve merkezin bürokratik  maliyetini  ve  yükünü  hafifletme  imkânını  sağlamaktadır.  Her  ne  kadar  geliştirilen  ebelediye uygulamalarının topluma ve kamu yönetimine birçok faydası bulunmakla birlikte bazı sorun alanları da mevcuttur. Bu sorun alanlarının çözümü için hayata geçirilen İçişleri Bakanlığı e-Belediye Sistemi  yerel  yönetimlerde  yeknesaklığı  sağlamakta  ve  yerel  yönetimlere  ucuz  bir  alt  yapı  imkânı sunmaktadır.  Bu  çalışmada  ilk  olarak  dijital  uygulamaların  kamu  yönetimine  etkisi  anlatılarak,  edevlet uygulaması, e-belediye kavramı ve yerel yönetimlerde e-belediye uygulamaları açıklanmakta ve son olarak da İçişleri Bakanlığı e-belediye bilgi sistemi uygulaması anlatılmaktadır.
 
 Anahtar Kelimeler: Yerel Yönetimler, E- Belediye, E-Devlet, Kamu Yönetimi.
-
-Jel Kodları:
-
-H70, H73.
-
-## ABSTRACT
-
-With  the  impact  of  globalization,  the  rapid  development  of  technology,  the  spread  of  the  use  of information  and  communication  technologies  in  the  society  have  changed  the  expectations  of  the citizens  from  the  service  received  from  the  state.  To  respond  to  these  expectations,  a  variety  of electronic applications have been developed by using information communication technologies in order to  meet  these  service  demands  in  a  faster  and  cheaper  way.  The  e-government  and  e-municipality practices, which have accelerated worldwide to provide more efficient and efficient services to citizens, have a facilitating  effect  on  the  daily  life  of  citizens.  Although  e-municipality  practices  have  many benefits,  there  are  some  problem  areas.  The  Ministry  of  Interior's  E-municipality  system,  which  is implemented  for  the  solution  of  these  problem  areas,  provides  a  uniform  infrastructure  for  local governments to  ensure uniformity  in  local  governments.  In  this  study,  firstly,  the  effects  of  Digital Applications  on  Public  Administration  will  be  explained  and  the  applications  of  e-government,  EMunicipality Concept and E-Municipality Applications in Local Governments and finally the Ministry of Interior will be explained.
-
-Keywords:
-
-Local Administrations, E-Municipality, E-Government, Public Administration
-
-Jel Codes:
-
-H70, H73.
 
 ## 1. GİRİŞ
 
@@ -280,49 +252,3 @@ E-Belediye  Bilgi  Sisteminin  sağladığı  tüm bu  katma  değer  göstermek
 E-belediye uygulamaları e-devlet sisteminin tamamlayıcı  bir  unsuru  olarak  günümüzde birçok belediye tarafından kullanılmaktadır. Özellikle  teknolojide  yaşanan  gelişmeler, internet ve mobil teknolojilerindeki yenilikler ile kamu yönetimi algısında meydana gelen değişmeler vatandaşların belediye  hizmet  noktalarına  gitmeden  de kamu hizmetinden yararlanmalarını sağlayan uygulamaların geliştirilmesini zorunlu kılmaktadır. Türkiye'de belediyeler dijital belediye uygulamaları ile ebelediyeye geçiş sürecinde önemli başarılar elde etmiştir. Ancak uygulamaların kurumlar arasında farklı yaklaşımların olması  nedeniyle  uygulanabilirliği  oldukça tartışmalı bir konudur. Bu yüzden e-belediye ile ilgili kurumsal düzeydeki planlama, geliştirme ve denetim süreçlerinin daha bütüncül ve sürdürülebilir yaklaşımlarla yürütülmesi gerekmektedir. E-belediye noktasında yaşanan kafa karışıklıklarını gidermek ve maliyetleri düşürmek için İçişleri  Bakanlığı  tarafından  yerel  yönetim birimlerinde e-dönüşüm çalışmaları e-devlet politikalarıyla  uyumlu  ve  bütüncül  olarak yürütülmektedir.
 
 Geliştirilen eBelediye Bilgi Sistemi, belediyeler  ve  kamu  kuruluşları  arasındaki farklı uygulamalardan kaynaklanan sorunları azaltmak ve koordinasyonu
-
-## KAYNAKÇA
-
-1. ACILAR,  A.  (2012). 'Küçük  Şehir Belediyelerinde Web Sitesi ve EBelediye Kullanımı: Bilecik Belediyesi Örneği', DPUJSS, 32 (I): 125-142.
-2. AKCAGÜNDÜZ, E. (2013). 'Türkiye'de E-Devlet Sistemine Farklı Bir Bakış: E-Devlet ve Tasarruf İlişkisi',  Doğuş  Üniversitesi  Dergisi, 14(2): 127-140.
-3. AKÇAKAYA,  M.  (2017).  'E-Devlet Anlayışı ve Türk Kamu Yönetiminde EDevlet Uygulamaları', Yüzüncü Yıl Üniversitesi  İktisadi  ve  İdari  Bilimler Fakültesi Dergisi, 3: 8-31.
-4. ALODALI, F. B., TUNCER, A, USTA, S. ve HALİS, M. (2012). 'Yerel Yönetimlerde E-Belediyecilik Uygulamaları: Akdeniz Bölgesi Örneği', Manas Sosyal Araştırma Dergisi,1(1): 83-95.
-
-sağlamak amacıyla oluşturulmuştur. Belediyelerin e-dönüşüm sürecinde teknolojik altyapılarının  yetersiz kaldığı  ve teknolojiye yatırım yapmak için yeterli bütçelere  sahip  olmadıkları  görülmektedir. Bu bağlamda bundan sonra yapılması gereken  tüm  e-belediye  uygulamaların  ve modüllerin  bir  an  önce  sistem  üzerinden tamamlanmasının sağlanarak, bütün belediyelerin  İçişleri  Bakanlığı  e-Belediye Sistemini kullanacak şekilde yapılanmalarını sağlamak olmalıdır. Son olarak başarılı bir e-belediye uygulamasında; kamu hizmetlerinin şeffaflaştırılması, zaman ve mekândan tasarrufun  sağlanması,  vatandaş  ile  yerel yönetimler arasındaki güven ortamının sağlanması,  vatandaşların  yerel  hizmetlerle ilgili doğru bilgiye ulaşmasının sağlanması, hizmet memnuniyetinin ve kalitesinin artması, hizmetlerin hızlı ve etkin sunulması, maliyetlerin düşürülmesi gibi faktörlerin olması gerekmektedir. Söz konusu bu beklentilerin gerçekleşebilmesi için yerel yönetimlerin e-belediye konusunda çalışmalar ve sorunlarının çözümüne yönelik analizler yapması gerekmektedir.
-
-5. BABACANLI,  H.,  SAĞIROĞLU,  Ş., ULUKOL,  B., KISAÇ, İ., A. M., OCAK  ve  TURAN,  O.  (2013).  Bilgi Teknolojileri ve İnternetin Bilinçli, Güvenli Kullanımı, Telekomünikasyon İletişim Başkanlığı, Ankara.
-6. BALCI,  A.  (2003).  E-Devlet:  Kamu Yönetiminde Yeni Perspektifler, Fırsatlar ve Zorluklar, Kamu Yönetiminde Çağdaş Yaklaşımlar, Seçkin Yayıncılık, Ankara.
-7. ÇAKIR, C. (2017). 'İzmir Büyükşehir Belediyesinde E-Belediye Uygulamaları ve Vatandaşın Farkındalığı', Hukuk ve İktisat Araştırmaları Dergisi, 9(1): 1-12.
-8. ÇARIKÇI,  O.  (2010).  'Türkiye'de  EDevlet Uygulamaları Üzerine Bir Araştırma', Süleyman Demirel
-
-- Üniversitesi  Sosyal  Bilimler  Dergisi, 12: 95-122.
-9. ÇORUH,  M. (2009). Kent Bilişim Sistemi E-Belediye, XI. Akademik Bilişim  Konferansı  Bildirileri,  Harran Üniversitesi, Şanlıurfa, 11-13 Şubat.
-10. DAŞTAN, İ. ve NARALAN, A. (2015). 'E-Belediye Hizmetlerinde Farkındalığın  Tespiti:  Zambak  Projesi Özelinde Bir Araştırma Yalova Belediyesi Örneği', Atatürk Üniversitesi  Sosyal  Bilimler  Enstitüsü Dergisi, 19 (3): 217-231.
-11. DELİBAŞ, K. ve AKGÜL,  E. A. (2010). 'Dünyada ve Türkiye'de E devlet Uygulamaları: Türkiye'de Edemokrasi ve E-katılım Potansiyellerinin Harekete Geçirilmesi, Sosyoloji Araştırmaları Dergisi', 13(1): 101-144.
-12. E-BELEDİYE BİLGİ SİSTEMİ (2019). 'İçişleri Bakanlığı e-Belediye Bilgi Sistemi', https://www.belediye.gov.tr/, 15.06. 2019
-13. E-BELEDİYE BİLGİ SİSTEMİ EĞİTİM PROGRAMI (2018). 'Van'da E-Belediye Bilgi Sistemi Eğitimi', https://www.prestijgazetesi.com/habervan-da-e-belediye-bilgi-sistemiegitimi-12195.html, 12.06.2019.
-14. E-DEVLET  PORTALI  (2019).  '2018 Birleşmiş Milletler e-Devlet Ölçümleme Raporu Yayınlandı', http://www.edevlet.gov.tr/2018/07/21/2 018-birlesmis-milletler-e-devletolcumleme-raporu-yayinlandi/, 10.06.2019.
-15. ERDAL,  M.  (2002).  Elektronik  Bilgi Çağında Kamu Yönetimi ve Bir Yerel Yönetim Uygulaması: İstanbul Büyükşehir Belediyesi, 1. Bilgi ve Ekonomi  Kongresi,  Bildiriler  Kitabı, 10-11 Mayıs, Kocaeli Üniversitesi, İzmit.
-16. ERDOĞAN, O. (2019). 'Yerel Yönetimlerde Dijital Dönüşüm: Molenwaard  Belediyesi  Örneği',  Siirt
-- Üniversitesi  Sosyal  Bilimler  Enstitüsü Dergisi, 13: 59-74.
-17. HENDEN,  H.  B.  ve  HENDEN,  R. (2005). 'Yerel Yönetimlerin  Hizmet Sunumlarındaki Değişim ve EBelediyecilik, Elektronik Sosyal Bilimler Dergisi', 4(14): 48-66.
-18. İŞLER,  B., D. ve NEGİZ,  N. (2005). 'Elektronik Devletin Boyutları ve Yarattığı  Fırsatlar,  Süleyman  Demirel Üniversitesi  Sosyal  Bilimler  Enstitüsü Dergisi', 1(2): 35-56.
-19. KAHRAMAN,  H.  (2014). E-Devlet Kavramı ve Uygulamaları: Emniyet Teşkilatı Örneği, Yayınlanmamış Yüksek Lisans Tezi, Ankara Üniversitesi Sosyal Bilimler Enstitüsü, Ankara.
-20. OĞURLU, Y. (2010). İdare Hukukunda E-Devlet Dönüşümü ve Dijitalleşen Kamu  Hizmeti,  XII  Levha  Yayınları, İstanbul.
-21. PARLAK,  B. ve SOBACI, Z. M. (2008). 'Türkiye'deki Büyükşehir Belediyelerinin Website Temelli Hizmetleri: Karşılaştırmalı Bir İşlevsellik  Analizi',  (Ed.)  PARLAK, B., Kamu Yönetiminde Yeni Vizyonlar, içinde, Turhan Kitabevi Yayınları, Ankara.
-22. PEKER, K. (2015). Yerel Yönetimlerde E-Belediyecilik Uygulamaları Ve Mobil Uygulamalara Verilen  Önem: İstanbul  Örneği,  1.  Uluslararası  Dijital Yaşam Ortamları (Digital Life Environment) Kongresi , İstanbul Üniversitesi  Açık  ve  Uzaktan  Eğitim Fakültesi, 4-6  Mayıs  2015 , İstanbul , ss.169-183.
-23. PEKTAŞ, K. E. (2011). 'Belediye Hizmetlerinde Bilgi-İletişim Teknolojilerinin Kullanımı ve EBelediye Uygulamalarındaki Son Gelişmeler: Bir Literatür Taraması', Sosyal Bilimler Dergisi, XIII (1): 65-88.
-24. POLAT, R. K. (2006). E-Belediyecilik Kılavuzu Yerel Yönetim Vatandaş Etkileşimi, TASAM Yayınları, İstanbul.
-
-25. SAYIŞTAY (2018). 'Türkiye Belediyeler Birliği Belbis Projesi Bilişim Sistemleri Denetimi Özet' https://www.sayistay.gov.tr/tr/Upload/6 2643830/files/raporlar/diger/BELB%C 4%B0S%20Projesi%20Bilisim%20Sist emleri%20Denetimi%20%C3%96zeti. pdf, 125.05. 2019
-26. SEFEROĞLU, S. S., ÇELEN, F. K. ve ÇELİK, A. (2011). 'Türkiye'de EDevlet Uygulamalarında E-Öğrenmenin Yeri', s. 281-308, (Ed.) B.B. DEMİRCİ,  G.T.  YAMAMOTO  ve  U. DEMİRAY içinde, Türkiye'de eöğrenme: Gelişmeler ve uygulamalar II, Bölüm 199, Anadolu Üniversitesi, Eskişehir.
-27. ŞAHİN,  Ali.  (2007),  'Türkiye'de EBelediye Uygulamaları ve Konya Örneği',  Erciyes  Üniversitesi  İ.İ.B.F. Dergisi, S.29, Temmuz-Aralık 2007.
-28. ŞAT,  N.  (2008).  Demokrasi  İçin  Bir Araç: E-Belediye, Yayınlanmamış Doktora Tezi, Marmara  Üniversitesi Sosyal Bilimler Enstitüsü, İstanbul.
-29. TASAM (2006). E-Belediyecilik Kılavuzu Yerel Yönetim Vatandaş Etkileşimi, TASAM Yayınları, İstanbul.
-30. TAŞKAN,  K.  (2013).  'Türkiye'de  eBelediye Sistemleri, e-İmza ve BELBİS Projesi', Türkiye Belediyeler Birliği Dergisi, 783-784: 17-24.
-31. TUENA (1999). Türkiye Ulusal Enformasyon Altyapısı Anaplanı Sonuç Raporu, Ankara.
-32. TÜRKİYE BİLİŞİM DERNEĞİ (TBD) (2004).  II.  Türkiye  Bilişim  Şurası  EBelediye Raporu, Ankara.
-33. ULUSOY, A. ve ÇOBANOĞLULLARI, G. (2013). Trabzon Belediyesi Örneğinde EBelediyecilik  Uygulamaları:  Trabzon', Türk İdare Dergisi, 477: 269-284.
-34. UNİTED  NATİONS  (2018).  United Nationse-Government Survey 2018, New York: United Nations.
-35. YILMAZ,  V.  (2019),  'Doğu  Anadolu Bölgesinde E-Belediyecilik Hizmetlerinin  Yerel  Halk  Tarafından Kullanım Düzeylerinin Değerlendirilmesi: Bitlis ve Muş Belediyesi Örnekleri', (Ed.) PARLAK, B., DOĞAN, K. C., E-Yönetişim, içinde, Beta Yayınevi, Ankara, ss. 509532.
-36. YURTAY, Y., UTAR, O.,  ÇAKICI, A. ve ERAT, S. (2015). E-Devlet Kullanımında Türkiye ve Norveç Modeli Karşılaştırması, Veri Madenciliği Örneği, Akademik Bilişim, 4-6 Şubat, Anadolu Üniversitesi, Eskişehir

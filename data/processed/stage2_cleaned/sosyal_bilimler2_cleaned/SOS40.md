@@ -1,22 +1,9 @@
 ## TÜRKİYE'DE GELİR EŞİTSİZLİĞİ VE YOKSULLUK
-
-Yrd. Doç. Dr. Şadan ÇALIŞKAN*
-
 ## ÖZET
 
 Gelir eşitsizliği ve yoksulluk, tüm dünyada olduğu gibi Türkiye'de de çözüm bekleyen önemli sorunlar arasında yer almaktadır. Gelişmekte olan ülkelerin gelişmiş ülkelerin hayat standartlarını yakalama arzusunun gerçekleşebilmesi için, öncelikle ekonomik gelişmenin nimetlerinin  toplumsal  sınıflar  ve  bireyler arasında  âdil paylaşılması gerekir. Bir ülkede bu paylaşımın ne kadar âdil olduğunu ortaya koyan en önemli  göstergeler; gelir dağılımı ve yoksulluk  verileridir.  Bu çalışmada amaç; Türkiye'de gelir eşitsizliği ve yoksullukla ilgili durum analizi yaparak, Türkiye'nin özellikle OECD ülkeleri içindeki konumunu  değerlendirmektir.  Türkiye  gelir  eşitsizliği  ve  yoksulluk açısından gelişmiş ülkelerle karşılaştırıldığında oldukça dezavantajlı bir konumdadır.  Ülke  genelini  kapsayan  gelir  dağılımına  ait  verilerin üretilmeye  başlandığı  1960'lı  yıllardan  günümüze  gelir  eşitsizliğinde anlamlı bir iyileşmenin gerçekleşmemesi; Türkiye'de siyasî iktidarların gelir  dağılımında  adaleti  sağlama  ve  yoksullukla  mücadele  amacıyla uygulanan sosyal politikalara yeterince ağırlık vermediklerini göstermektedir. 2008 yılı son çeyreğinde tüm dünyada etkilerini belirgin bir şekilde hissettiren küresel ekonomik krizin ülkemize ilk yansımaları gelir eşitsizliği ve yoksulluk açısından olumsuz bir konjonktüre girildiğini göstermektedir.
 
 Anahtar  Kelimeler: Gelir Dağılımı,  Gelir  Eşitsizliği, Gini Katsayısı, Yoksulluk.
-
-* Uşak Üniversitesi, İİBF, İktisat Bölümü.
-
-## ABSTRACT
-
-## INCOME INEQUALITY AND POVERTY IN TURKEY
-
-Income  inequality  and  poverty  are  among  the  most  important problems awaiting a solution in Turkey as well as in the world. In order to  realize  their  goal  to  attain  the  life  standards  in  developed  ones, developing  countries  have  to  distribute  the  blessings  of  economic growth fairly among  societal classes and individuals. The most important indicators that show the level of fairness of this distribution are income distribution and poverty data. The purpose of this paper is to analyze  the  situation  in  Turkey  in  terms  of  income  inequality  and poverty  and  to  assess  Turkey's  status  among  OECD  countries  in particular. When compared with developed countries in terms of income inequality and poverty, Turkey is in a rather disadvantageous position. No  significant  improvement  has  been  witnessed  in  income  inequality since  1980s  when  nationwide  income  distribution  data  came  to  be produced,  which  is  an  indicator  that  governments  have  not  given sufficient weight to social policies that aim to fight with poverty and to ensure  fair  distribution  of  income.  Reflections  of  the  global  economic crisis  than  broke  out  in  the  last  quarter  of  2008,  which  has  global repercussions,  mean  that  the  conjuncture  is  not  favorable  in  terms  of income  inequality  and  poverty.  During  this  period,  comprehensive measures which aim to fight with unemployment and poverty have to be put into practice so that poverty, triggered by urban unemployment in particular, does not threaten social peace and political stability in the country.
-
-Key Words: Income Distribution,  Income  Inequality, Gini Coefficient, Poverty.
 
 ## GİRİŞ
 
@@ -837,56 +824,3 @@ Gelir  eşitsizliği  ve  yoksulluk,  Türkiye'de  çözüm  bekleyen  en öneml
 Türkiye'de  Gini  katsayısı  dikkate  alındığında  gelir  dağılımının 1968'den 1987 yılına kadar iyileştiği, 1987-1994 yılları arasında bozulduğu, 1994 yılından sonra istikrarlı bir biçimde düzelme eğilimine girdiği  görülmektedir.  Ancak,  özellikle 2000'li  yıllarda  tek  başına Gini katsayısını dikkate alarak, gelir eşitsizliği sorununun hafiflediği sonucuna ulaşmak iki nedenle mümkün  değildir. Birincisi; gelir dağılımında  ortaya  çıkan  bu  iyileşme, en  alt  gelir  diliminin  payında önemli bir gelişme olmamasına rağmen, 2001 yılında yaşanan ekonomik kriz sonrası en üst gelir diliminin payının düşmesinden kaynaklanmaktadır. Yüzdelik dilimleme yöntemine göre yapılan değerlendirmeler bu gerçekliği ortaya koymaktadır. Türkiye'de nüfusun en yoksul % 20'lik dilimi harcanabilir gelirin % 6,1'i ile yetinmekte iken, en zengin % 20'lik dilim harcanabilir gelirin % 44,4'üne sahip olmaktadır.  İkincisi,  Gini  katsayısındaki  düşme  eğilimi  olumlu  bir gelişme olmakla birlikte, katsayının değeri gelişmiş ülkelere göre hayli yüksektir. OECD ülkeleri arasında gelir eşitsizliği bakımından, Türkiye'nin sadece Meksika'dan daha iyi konumda olması, 1994 sonrası ortaya çıkan kısmi iyileşmelere rağmen,  gelir eşitsizliğinin  çözüm bekleyen önemli bir sorun olduğunu göstermektedir.
 
 Türkiye'de  2001  sonrası  gerçekleşen  yüksek  büyüme  hızlarına rağmen, gelir eşitsizliği ve yoksulluk sorununda çok önemli iyileşmelerin  ortaya  çıkmaması,  bu  sorunların  piyasa  mekanizması çerçevesinde büyüme ile kendiliğinden çözülemeyeceği gerçeğini açıkça ortaya  koymuştur.  Türkiye'de  gelir  eşitsizliği  ve  yoksulluk  sorununun varlığını sürdürmesinin temelinde; devletin etkin bir şekilde bu sorunları  çözmeye  yönelik  sosyal  politikalar  uygulamaktan  kaçınması yatmaktadır. Vergi sisteminin mevcut yapısı, gelir eşitsizliği ve yoksulluğu artırıcı niteliktedir. Vergi sisteminde gelirin yeniden dağıtılmasına yönelik düzenlemelere ağırlık verilmesi ve yoksul kesimlere yapılan transferlere etkinlik kazandırılması, küresel kriz ortamında sorunun daha da büyümesini engelleyecektir. Eğitimde fırsat eşitliği sağlamaya yönelik uygulamalara ağırlık verilmesi, sağlık hizmetlerinin  yaygınlaştırılması  ve  kalitesinin  artırılması,  sendikal  hak ve özgürlüklere getirilen kısıtlamaların kaldırılması uzun dönemde gelir eşitsizliği  ve  yoksulluk  sorununun  çözümüne  katkı  yapacak  başlıca önlemlerdir.
-
-## KAYNAKÇA
-
-- AKSU,  Ömer  (1993). Gelir  ve  Servet  Dağılımı , İstanbul: İstanbul  Üniversitesi Yayınları No: 3698.
-- ALKİN, Erdoğan (1995). 'Türkiye'de Gelir Dağılımı', Yeni Türkiye , s. 141-144.
-- ALTAN,  Ömer  Zühtü  (2004). Sosyal  Politika  Dersleri , Eskişehir:  Anadolu Üniversitesi Yayınları.
-- ALTAY,  Asuman  (2007). 'Küreselleşen  Yoksulluk  Olgusunun  Önlenmesinde Mikrofinansman Yaklaşımı', Finans Politik &amp; Ekonomik Yorumlar , Cilt: 44, Sayı: 510, s. 57-67.
-- AREN, Sadun (1989). 'Paylaşım, Demokrasi ve Sosyalist Parti', Bir Dönemden Yazılar 1980-1988 , İstanbul: Gerçek Yayınevi.
-- ATAÇ, Beyhan, ÖNDER, İzzettin ve TURHAN, Salih (2008). Maliye Politikası , (Ed. ATAÇ, Engin), 5. Baskı, Eskişehir: Anadolu Üniversitesi Yayınları.
-- BAĞDADİOĞLU, Enis, (2003). 'Yoksullukla Mücadeleye Yaklaşımlar', Sosyal Hizmet Sempozyumu 2003, Yoksulluk ve Sosyal Hizmetler Antalya, 9-11 Ekim.
-- BELLÙ,  Lorenzo  Giovanni,  (2005).  Charting  Income  Inequality  The  Lorenz Curve, EASYPol On-line Resource Materials for Policy Making, Food and Agriculture Organization of the United Nations (FAO).
-- CIA World Factbook (2008). (Çevrimiçi): https://www.cia.gov/library/ publications/the-world-factbook/geos/bl.html
-- ÇELİK,  Aziz  (2004). 'AB  Ülkeleri  ve  Türkiye'de Gelir Eşitsizliği:  Piyasa Dağılımı-Yeniden Dağılım', Çalışma ve Toplum , 2004/3, s. 53-91.
-- DİE, (1990). 1987 Hanehalkı Gelir ve Tüketim Harcamaları Anketi SonuçlarıGelir Dağılım ı, Yay. No: 1441, Ankara.
-- DİE  (1996). '1994  Hanehalkı  Gelir  Dağılımı  Geçici  Sonuçları', DİE  Haber Bülteni, 18.10.1996.
-- DİLİK, Sait (1976). Servetin Geniş Kitlelere Yayılması , Ankara: Ankara Üniversitesi Siyasal Bilgiler Fakültesi Yayınları No: 391.
-- DOVRING,  Folke (1991). Inequality; The Political Economy  of Income Distribution , Newyork: Preager.
-- DPT, (2007). Gelir Dağılımı ve Yoksullukla Mücadele Özel İhtisas Komisyonu Raporu, Ankara.
-
-- ENSARİ,  Sıddık,  (1997).  'Son  20 Yılda Gelir Dağılımı: 1973, 1987,  1994 Araştırmaları ve Sonuçları'; Ekonomik Forum , s. 16-22.
-- GÜVEN,  Sami  (2009). Sosyal  Politikanın  Temelleri , 4.  Baskı, Bursa:  Ezgi Kitabevi.
-- HYMAN, David N. (1983). Public Finance , Chicago: The Dryden Press.
-- KARAMAN,  Banu  ve  ÖZÇALIK,  Melih (2007).  'Türkiye'de  Gelir  Dağılımı Eşitsizliğinin  Bir  Sonucu:  Çocuk  İşgücü', Yönetim ve Ekonomi , Cilt: 14 Sayı: 1, s. 25-41.
-- KARLUK,  S. Rıdvan (2005). Cumhuriyetin  İlanından  Günümüze  Türkiye Ekonomisinde Yapısal Dönüşüm , 10. Baskı, İstanbul: Beta.
-- OECD (2008). Factbook 2008: Economic, Environmental and Social Statistics, (Çevrimiçi): http://oecd.org
-- OECD (2008). 'Growing Unequal?, Income Distribution and Poverty in OECD Countries'.
-- ÖÇAL, Tezer (1990). İktisat , Ankara: Gazi Üniversitesi Yayınları No: 156.
-- PATERSON,  C.  Wallace (1994). Gelir  İstihdam  ve  Ekonomik  Büyüme (Çev. GÜLLAP, Talat), Erzurum: Atatürk Üniversitesi Yayınları No: 763.
-- SOMEL, Cem (2008). 'Ulusal  Gelirin  Yapısı  ve  Gelişimi', Türkiye  Ekonomisi (Ed. ÖZER, Mustafa), Eskişehir: Anadolu Üniversitesi Yayınları.
-- SÖNMEZ,  Mustafa  (1992). Türkiye'de Gelir Eşitsizliği , İstanbul: İletişim Yayınları.
-- ŞAHİN, Hüseyin (2007). Türkiye Ekonomisi , 9. Baskı, Bursa: Ezgi Yayınları.
-- ŞENKAL, Abdülkadir (2005). Küreselleşme Sürecinde Sosyal Politika , İstanbul: Alfa Yayınları.
-- ŞENSES, Fikret (1991). 'Türkiye'de Gelir Dağılımı, Gelirin Yeniden Dağıtımı ve İşgücü Piyasaları', Türk Ekonomisine Sosyal Demokrat Çözümler, Cilt: III, İstanbul: Türkiye Sosyal Ekonomik  Siyasal Araştırmalar Vakfı Yayınları, No: 18, s. 51-80.
-- TUİK  (2008), Tüketim  Harcamaları,  Yoksulluk  ve  Gelir  Dağılımı,  Sorularla Resmi İstatistikler Dizisi-6 , Ankara.
-- TÜİK (2006). '2005 Gelir Dağılımı Sonuçları', TÜİK Haber Bülteni , 25.12.2006.
-- TÜİK  (2009). 'Gayri  Safi  Yurtiçi  Hasıla  IV.  Dönem:  Ekim,  Kasım,  Aralık  / 2008', TÜİK Haber Bülteni , 31.03.2009.
-- TÜİK (2008). 'TÜİK Yoksulluk Çalışmaları', Sosyal İstatistikler Daire Başkanlığı İşgücü ve Yaşam Koşulları Grubu Hanehalkı Bütçe İstatistikleri Takımı, 20 Aralık 2008, (Çevrimiçi): http://www.ku.edu.tr/ku/images/EAF/20122008-3.pdf
-- TÜRK, İsmail (1997). Maliye Politikası , 11. Baskı, Ankara: Turhan Kitabevi.
-- WADE,  Robert  Hunter  (2001).  'The  Rising  Inequality  of  World  Income Distribution', Finance and Development , Vol: 38, No. 4, p. 37-39.
-- World Development Indicators (2007). CD-ROM, Washington, D.C.
-- YAZGAN, Turan (1975). Gelir Dağılımı Açısından Sosyal Güvenlik , İstanbul: Fatih Gençlik Vakfı Matbaası.
-
-ZENGİNGÖNÜL, Oğul (2004). Küreselleşme , Ankara: Adres Yayınları.
-
-http://dx.doi.org/10.1787/420515624534
-
-http://stats.oecd.org/WBOS/Index.aspx?QueryId=11112&amp;QueryType=View
-
-http://www.indexmundi.com/map/?t=0&amp;v=69&amp;r=eu&amp;l=en
-
-http://www.oecd.org
-
-http://www.tuik.gov.tr

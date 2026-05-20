@@ -1,27 +1,3 @@
-## Bursa Uludağ Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi Bursa Uludağ Journal of Economy and Society
-
-## Haziran / June (2025) 44(1): 55-70
-
-e-ISSN: 2750-9190
-
-http://www.uludag.edu.tr/iibfdergi
-
-Makale Geliş Tarihi/Article  Received:
-
-14.01.2025
-
-Makale Kabul Tarihi/Article  Accepted:
-
-16.06.2025
-
-Makale Türü/Article Type
-
-Araştırma Makalesi/Research Article
-
-## NATO'nun Dönüşümü ve Genişlemesinde Türkiye'nin Rolü
-
-## Dilara İncesu 1
-
 ## Özet
 
 Bu  makale,  NATO'nun 1949'daki kuruluşundan günümüze  kadar geçirdiği  dönüşüm sürecini ve Türkiye'nin  bu  süreçteki  çok  boyutlu  stratejik  rolünü  yapısal  realizm  teorisi  çerçevesinde  ele almaktadır.  Türkiye'nin  1952'de  ittifaka  katılmasıyla  başlayan  süreç,  ülkenin  hem  Soğuk  Savaş dönemindeki caydırıcı rolünü  hem de  Soğuk Savaş sonrasında genişleyen NATO politikalarındaki katkısını  ortaya  koymaktadır.  NATO'nun  Doğu  Akdeniz  ve  Orta  Doğu  politikaları  bağlamında Türkiye'nin  enerji güvenliği, terörle  mücadele  ve bölgesel istikrar konularındaki  aktif rolü vurgulanmaktadır. Türkiye'nin özellikle Güney Kafkasya'daki enerji hatları ve savunma iş birlikleri üzerinden ittifaka sağladığı katkılar analiz edilmektedir. Ayrıca, ABD-Türkiye ilişkileri bağlamında yaşanan stratejik iş birlikleri ve dönemsel krizler, NATO'nun politika tercihleri üzerindeki etkileriyle ele alınmaktadır. Türkiye'nin savunma sanayisindeki yükselişi, insansız hava araçları ve hava savunma sistemleri gibi alanlarda NATO'nun teknik  ve  operasyonel entegrasyonuna katkı sağlamış, ülkenin yalnızca  güvenlik  tüketicisi değil  aynı  zamanda  güvenlik  sağlayıcısı kimliğini  pekiştirmiştir. Son olarak,  Ukrayna  Savaşı  sonrası  ortaya  çıkan  yeni  güvenlik  paradigması  ve  NATO'nun  doğu kanadındaki yeniden yapılanma süreci, Türkiye'nin ittifak içindeki konumunu daha da stratejik hâle getirmiştir. Bu çalışma, nitel bir yöntemle, Türkiye'nin NATO üyeliğini yalnızca tarihsel bir bağlamda değil, güncel güvenlik mimarisi ışığında değerlendirmekte; bölgesel ve küresel güvenlik politikalarına etkilerini bütüncül bir çerçevede analiz etmeyi amaçlamaktadır.
@@ -29,18 +5,6 @@ Bu  makale,  NATO'nun 1949'daki kuruluşundan günümüze  kadar geçirdiği  d�
 Anahtar Kelimeler:
 
 NATO, genişleme stratejileri, Türkiye, Soğuk Savaş, güvenlik tehditleri.
-
-## Turkey's Role in NATO's Transformation and Expansion
-
-## Abstract
-
-This article  examines NATO's  transformation since its  founding  in  1949 and  evaluates  Turkey's multifaceted strategic role  within  the  framework  of  structural realism. Beginning  with  Turkey's accession in 1952, it explores its Cold War deterrent role and post-Cold War contributions to NATO's enlargement. The  article highlights Turkey's  engagement  in  NATO's Eastern Mediterranean and Middle  East policies, focusing on  energy  security, counterterrorism, and  regional stability. It  also assesses Turkey's contributions via energy corridors and defense cooperation in the South Caucasus. U.S.-Turkey relations are examined  in  the context  of  strategic  partnerships and  tensions affecting NATO's policy  preferences. Additionally,  Turkey's defense  industry advancements-especially in UAVs and air defense-have enhanced its integration into NATO, positioning it as both a consumer and provider  of  security. Finally,  the  evolving  post-Ukraine War security paradigm and  NATO's eastern restructuring have further elevated Turkey's strategic importance. Using a qualitative approach, the study situates Turkey's NATO role in both historical and contemporary global security contexts.
-
-1 Sorumlu yazar/Corresponding author: Dilara İncesu, Yüksek Lisans Öğrencisi, Bursa Teknik Üniversitesi, dlrincesu@hotmail.com, ORCID: 0009-0001-1114-3723
-
-Atıf/Citation: .  İncesu, D. (2025). NATO'nun dönüşümü ve genişlemesinde Türkiye'nin rolü. Bursa  Uludağ Journal of Economy and Society,  44( 1), 55-70.
-
-Keywords: NATO, enlargement strategies, Turkey, Cold War, security threats, international relations.
 
 ## 1. Giriş
 
@@ -153,50 +117,3 @@ ABD'nin NATO içindeki liderlik  rolü  ve  Türkiye  ile  olan ilişkileri, itt
 Orta Doğu,  NATO'nun güvenlik  politikalarında her zaman öncelikli bir bölge olmuştur. Bölgedeki istikrarsızlık, terörizm, mezhep  çatışmaları ve  devletlerarası gerilimler, NATO'nun dikkatini çeken başlıca güvenlik tehditleridir. 2011 yılında başlayan Arap Baharı ve  sonrasında yaşanan iç savaşlar, bölgedeki  istikrarsızlığı daha da  derinleştirmiştir. Özellikle  Suriye iç  savaşı, NATO'nun  bölgedeki güvenlik stratejilerini yeniden şekillendirmiştir. Türkiye, Suriye krizinde hem sınır güvenliği hem de insani yardım  konularında  önemli  bir  rol  üstlenmiştir. Suriye'deki  iç  savaş ve  IŞİD'in  yükselişi, NATO'nun terörizmle mücadele stratejilerinde önemli  değişikliklere yol  açmıştır (Kibaroğlu, t.y.). Türkiye,  NATO'nun terörle mücadele operasyonlarına aktif katılım sağlayarak, ittifakın bölgedeki güvenlik misyonlarına  katkıda  bulunmuştur.  NATO,  Türkiye'nin  Suriye  sınırındaki  güvenlik tehditlerine  karşı  askeri  ve  istihbari  destek  sunmuş,  ittifakın  güneydoğu  kanadının  güvenliğini sağlamaya  yönelik stratejiler geliştirmiştir. Türkiye,  Suriye'deki  mülteci krizine  de  önemli  ölçüde katkıda bulunarak, milyonlarca mülteciye ev sahipliği yapmış ve bu konuda NATO müttefiklerinden destek talep etmiştir. Orta Doğu'daki  enerji kaynakları, NATO'nun enerji güvenliği  politikalarında önemli  bir yer  tutmaktadır. Bölgedeki  petrol  ve  doğal  gaz  rezervleri,  küresel  enerji arz  güvenliği açısından kritik öneme sahiptir. Türkiye, enerji transit yollarının merkezinde yer alarak, NATO'nun enerji güvenliği stratejilerinde kilit bir rol oynamaktadır. Türkiye'nin enerji projeleri ve boru hatları, bölgedeki enerji kaynaklarının Avrupa'ya taşınmasında stratejik bir öneme sahiptir (Kantörün, 2010). NATO, enerji güvenliğini  sağlamak amacıyla Türkiye ile  iş birliğini artırmakta ve  bölgedeki  enerji altyapısının  korunmasına  yönelik  stratejiler  geliştirmektedir.  Doğu  Akdeniz  ve  Orta  Doğu'daki jeopolitik  gelişmeler,  NATO'nun  savunma  ve  güvenlik  politikalarını  doğrudan  etkilemektedir. Türkiye'nin bu bölgelerdeki aktif rolü, NATO'nun bölgesel güvenlik stratejilerinin başarısı için hayati öneme  sahiptir. NATO,  Türkiye'nin  bölgesel güvenlik  endişelerini dikkate  alarak, ittifakın güney kanadının  güvenliğini  sağlamaya  yönelik  stratejik  planlamalar  yapmaktadır.  Türkiye'nin  Doğu Akdeniz ve Orta Doğu'daki askeri ve diplomatik girişimleri, NATO'nun küresel güvenlik misyonlarına önemli katkılar sağlamaktadır.
 
 Sonuç  olarak,  NATO'nun  Doğu  Akdeniz  ve  Orta  Doğu  politikaları,  bölgedeki  enerji  güvenliği, terörizmle  mücadele  ve  bölgesel  istikrar  gibi  stratejik  önceliklere  odaklanmaktadır.  Türkiye,  bu politikaların şekillendirilmesinde ve uygulanmasında kilit bir müttefik olarak öne çıkmaktadır. NATO ve  Türkiye  arasındaki  iş  birliği,  bölgedeki  güvenlik  ve  istikrarın  sağlanmasında  kritik  bir  rol oynamakta, ittifakın küresel güvenlik hedefine ulaşmasına katkıda bulunmaktadır. NATO'nun Doğu Akdeniz ve Orta Doğu'daki stratejik öncelikleri, Türkiye'nin bölgedeki aktif rolü ve iş birliğiyle daha da güçlenmektedir. Yukarıda ele alınan tüm stratejik boyutlar değerlendirildiğinde, Türkiye'nin NATO içerisindeki konumu  çok  yönlü  bir  önem  taşımaktadır. Bu  bağlamda, Türkiye'nin  NATO  üyeliği yalnızca tarihsel bir miras değil, aynı zamanda çağdaş güvenlik dinamikleri çerçevesinde şekillenen çok boyutlu bir stratejik ortaklıktır. Türkiye; askeri kapasitesi, diplomatik etkinliği, savunma sanayisindeki teknolojik yetkinlikleri ve enerji jeopolitiğindeki rolü ile NATO'nun küresel güvenlik vizyonuna hem teorik hem de pratik düzeyde katkı sunmaya devam etmektedir.
-
-## Kaynakça
-
-- Ayata,  A.,  &amp;  Ercan, M. (2007). Soğuk Savaş  Sonrası  Ortaya  Çıkan  Bölgesel  Sorunlar Bağlamında  Türkiye-ABD İlişkilerinin Kazandığı  Yeni Boyutlar. Bilgi, 15 (2), 25-27.
-- Bozkuş, Y. D. (2023). NATO'nun Genişleme Politikası, Kafkasya ve Türkiye ile İlişkiler. Journal of Balkan and Black Sea Studies, 6 (10), 63-68. https://doi.org/10.56679/balkar.1232608
-- Canan-Sokullu, E. Ş. (2012). Türk Kamuoyunda NATO Algısı. Uluslararası İlişkiler, 9 (34), 152-154.
-- Çakır,  A.  (2021).  Türkiye-NATO İlişkilerinde İnşacı  Etkiler  (1991-2011). Uluslararası  İlişkiler,  18 (71),  57-58. https://doi.org/10.33458/uidergisi.947560
-- Çakırça, F. (2022). Doğu Akdeniz Meselesinde Türk Dış Politikası ve Türk Dışişleri  Bakanlığı  Söylem Analizi:  Etki Alanı. Yüksek lisans  tezi, Nevşehir Hacı Bektaş Veli Üniversitesi Sosyal Bilimler Enstitüsü.
-- Demirdöğen, Ü. (2011). Soğuk Savaş Sonrasında NATO ve Yeni Stratejisi. Yıl, 46 , 155-156.
-- Erlingsson,  E.  (2018, Ekim 19). İnandırıcı  bir  transatlantik  bağ:  Trident  Juncture  ve  NATO  yetenekleri. NATO Review . https://www.nato.int/docu/review/tr/articles/2018/10/19/inandirici-bir-transatlantik-bag-tridentjuncture-ve-nato-yetenekleri/index.html
-- Gül,  M. (2015). Kuruluşundan  21. Yüzyıla:  1990'larda  NATO'da  Devamlılık  ve  Dönüşüm. Akademik İncelemeler Dergisi (Journal of Academic Inquiries), 10 (1), 254-260.
-- Gürkaynak, M. (2009). Soğuk Savaş Sonrasında NATO ve Avrupa Güvenliği. Süleyman Demirel Üniversitesi Sosyal Bilimler Enstitüsü  Dergisi, 9 (1), 7-10.
-- Kantarcı,  Ş. (2012). Soğuk Savaş  Sonrası  Uluslararası  Sistem: Yeni  Sürecin Adı  'Koalisyonlar  Dönemi  mi?' The Structure of Post Cold War International System: Is the Name of the New Era 'Period Of Coalitions?' 8 (16), 60-62.
-- Kantörün, U. (2010). Bölgesel Enerji Politikaları  ve Türkiye. Bilge Strateji, 2 (3), 103-106.
-- Kibaroglu,  M.  (tarih  yok).  NATO'nun  Suriye  Stratejisi. Küresel  Aktörlerin  Suriye  Stratejisi ,  Prof.  Dr.,  MEF Üniversitesi, Siyaset Bilimi ve Uluslararası  İlişkiler Bölümü, 88-93.
-- Kısacık,  S.,  &amp;  Helvacıköylü, G.  (2020).  Doğu  Akdeniz'deki  Enerji  Temelli  Askeri  Güvenlik  Gelişmelerinin Türkiye'nin Doğu Akdenizli Komşuları ve Küresel Güçlerle Olan İlişkilerine Yansımaları. Yıl, 1 (1), 93-97.
-- Kurut,  D.  (2024).  Yeni  Dünya  Düzeni:  Çin'in  Barışçıl Büyüme  Hedefleri Bağlamında  Ortadoğu  Politikası. International Journal of Economics, Politics, Humanities &amp; Social Sciences, 7 (2), 126-140. https://doi.org/10.59445/ijephss.1453807
-- Millî Savunma Bakanlığı. (2019, Eylül 25). NSPA kaynak arşivi. https://www.msb.gov.tr/MKodlandirma/icerik/nspa-kaynak-arsivi (erişim tarihi: 19.04.2025)
-
-- North Atlantic Treaty. (1949).  The North Atlantic Treaty, Washington D.C., 4 April 1949.  NATO. https://www.nato.int/cps/en/natolive/official\_texts\_17120.htm
-- Purtaş, F. (2005). Soğuk Savaş Sonrası NATO'nun Dönüşümü ve Genişlemesi Çerçevesinde Türk Amerikan Askerî İlişkileri. Yıl, 1 (2), 11-17.
-- SASAD. (2025, Şubat 2). 27 Ocak - 2 Şubat 2025 haftalık bülten (No: 5). Savunma ve Havacılık Sanayii İmalatçılar Derneği. SASAD BÜLTEN 5 .
-- Şahin, G.  (2017). Küresel  Güvenliğin  Dönüşümü; NATO  Bağlamında  Kavramsal,  Tarihsel  ve Teorik Bir Analiz. Savunma Bilimleri Dergisi / The Journal of Defense Sciences, 16 (2), 67-73.
-- Silinir, M., Karhan, G., Çayın, M., &amp; Aydeniz, N. (2012). Enerji Güvenliği: NATO'nun Küresel Enerji Güvenliğindeki Rolü. Batman Üniversitesi Yaşam Bilimleri Dergisi, 2 (1), 133-138.
-- Tarhan, M. (2023, Mayıs 5). Letonya, Türk savunma sanayisi  ile işbirliğine  büyük ilgi  duyuyor. Anadolu Ajansı . https://www.aa.com.tr/tr/dunya/letonya-turk-savunma-sanayisi-ile-is-birligine-buyuk-ilgiduyuyor/2662914 (Erişim tarihi: 7 Nisan 2025)
-- Taşdan,  F. (2022). Elektronik harp: Türkiye'nin  kabiliyetleri  ve  küresel  yönelimler  (Gelişen  Askeri  Teknolojiler Serisi No. 1). SETA Vakfı.
-- Türker, H. (2018). Soğuk Savaş  Sonrasında NATO'nun  Güvenlik Anlayışının  Dönüşümü ve  Pasifik'te  Değişen Dengelerin NATO'nun Güvenlik Stratejisine Muhtemel Etkileri. Doktora tezi, Kocaeli Üniversitesi  Sosyal Bilimler Enstitüsü, 42-52, 150-161.
-- Özgen, C. (2018). Türk Deniz Kuvvetleri  açısından uçak gemisi tedarikinin incelenmesi. Savunma Bilimleri Dergisi / The Journal of Defense Sciences, 17 (2), 199-234.
-- Yiğittepe, L. (2018). NATO ve Rusya Arasında  Türkiye'nin Güvenlik Algılaması:  S-400 Krizi Örneği. The Academic Elegance, 16 (Özel Sayı), 278, 284. https://doi.org/10.11611/yead.458050.
-
-## Summary
-
-The North Atlantic Treaty Organization has undergone a continuous process of transformation and expansion since its inception in 1949, aiming to ensure the security of its member states and maintain global peace. This evolution, which began as a strategy to create a deterrent force against the Eastern Bloc during the Cold War, has transformed into  a sophisticated  structure  addressing  multidimensional  contemporary security  threats. This  study  examines NATO's historical transformation and enlargement policies through the lens of Turkey's strategic  role within the Alliance. The theoretical framework is grounded in structural realism (neorealism), which centralizes  the anarchic nature  of  the  international  system  and  the  security-seeking  behavior  of  states.  According  to  this  theory,  the enlargement of alliances  and the positions of states within them are directly correlated with the balance of power in the international system and efforts toward security maximization. Turkey's position within NATO is analyzed as a reflection of these security imperatives and geopolitical  necessities.
-
-Upon joining NATO in 1952, Turkey began to serve as a strategic bridge constituting the Alliance's southeastern flank. This membership facilitated Turkey's integration into the Western security system and played a vital role in reinforcing the Western defense line against  the Soviet threat during the Cold War. Turkey's geopolitical  location, its  command over the Black Sea and the Mediterranean, and its proximity to the Middle East have remained of critical importance for the security  of the Alliance's  southern flank in every era.  In the post-Cold War period,  as NATO's functional areas shifted toward crisis management, counter-terrorism, and energy security, Turkey's role further  diversified. Turkey  has  made  tangible  contributions  to  NATO's collective security objectives  by undertaking active duties in numerous operations, most notably in the Balkans and Afghanistan.
-
-In  the context of  NATO's  Eastern  Mediterranean  and  Middle  East  policies,  Turkey  stands  out  as  a  key  ally  in ensuring  regional  stability.  The  discovery  of  regional  energy  resources,  energy  supply  security,  and  counter-
-
-## Bursa Uludağ Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi Bursa Uludağ Journal of Economy and Society, 2025, 44(1):55-70
-
-terrorism  strategies  are  elements  that  reinforce  Turkey's  strategic  significance.  Particularly  during  the  rise  of asymmetric threats such as the Syrian Civil  War and  ISIS, Turkey assumed a central responsibility  in protecting NATO's southeastern borders. Furthermore, energy transit corridors and regional security initiatives  in the South Caucasus  demonstrate Turkey's indispensable  place in the Alliance's  energy  security  strategies.  Situated  at  the heart  of energy  transit  routes,  Turkey  continues  to  play  a  strategic  role  in  the  secure  transportation  of  regional resources.
-
-One of the most significant findings of this study is the contribution of Turkey's burgeoning defense industry to its technical and operational  integration within NATO.  By increasing its  domestic production rate to approximately 80%, Turkey has ascended from being a mere security consumer to a security provider. Unmanned aerial vehicles such as  the Bayraktar  TB2 and  Anka, naval  platforms  under the MİLGEM project, and air  defense  systems  like HİSAR  and  SİPER  demonstrate  how  Turkey  strengthens  NATO's  collective  defense  capacity.  The  effective utilization  of these indigenous systems in NATO exercises and their export to fellow member states have increased Turkey's technological and industrial  weight  within the Alliance.  This confirms that Turkey is a decisive  actor in NATO's  future  strategic  goals, not  only  through  its  military  capacity  but  also  through  its  technological competencies.
-
-The relations between Turkey and the United States constitute a pivotal dimension affecting the strategic dynamics within NATO. The close military cooperation of the Cold War era is currently being tested by periodic crises and strategic  divergences.  Specifically,  the  acquisition  of  the  Russian  S-400 air  defense  system  and  the  subsequent tensions regarding the F-35 program emerge as challenges to intra-alliance cohesion. However, despite such crises, the mutual security interests of both actors within the NATO framework necessitate the sustenance of cooperation. The new security  environment emerging after the Russia-Ukraine  War  has led  NATO  to refocus on collective defense and the reinforcement of its eastern flank. This new paradigm has rendered Turkey's strategic position and its stabilizing  role in the Black Sea even more critical.
-
-In conclusion,  Turkey's role  within  NATO  has  evolved  continuously  from the historical  process  to the  present, gaining a central character. Evaluated  within the framework of structural realism, Turkey's presence in the Alliance is  a  strategic  necessity  for  both the protection  of its  national  security  and the establishment  of  the  international balance  of  power.  Turkey  continues  to  be an  indispensable  component of  NATO's  global  security  architecture through its military capacity, technological breakthroughs in the defense  industry, position  in energy geopolitics, and diplomatic initiatives. The cooperation between NATO and Turkey remains vital not only for regional stability but also for the sustainability  of global security and peace.

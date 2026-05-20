@@ -1,16 +1,4 @@
-<!-- image -->
-
-## Elektronik Sosyal Bilimler Dergisi ®
-
-Electronic Journal of Social Sciences
-
-®
-
 ## TÜRKİYE'DE BÜYÜKŞEHİR BELEDİYELERİNDE E-BELEDİYE UYGULAMALARI: KARŞILAŞTIRMALI BİR ANALİZ
-
-## E-MUNICIPALITY APPLICATIONS IN METROPOLITAN MUNICIPALITIES IN TÜRKİYE: A COMPARATIVE ANALYSIS
-
-Salih ÇİFTÇİ 1 - Leyla ÇİFTÇİ 2
 
 ## Öz
 
@@ -19,18 +7,6 @@ Bu  çalışmanın  amacı  Türkiye'de  büyükşehir  belediyelerinde  online 
 Anahtar Kelimeler:
 
 Büyükşehir Belediyesi, e-hizmet, e-denetim, e-demokrasi
-
-## Abstract
-
-The aim of this study is to examine the online applications in metropolitan municipalities in Türkiye within the framework of the concepts of e-service and e-democracy. First of all, the studies carried out in this area were discussed,  then  the  contents  of  the  web  pages  of  the  municipalities  were  analyzed  and  the  e-audit  and  eparticipation  practices,  which  have  become  an  important  element  of  today,  together  with  the  concepts  of  eservice  and  e-democracy  in  metropolitan  municipalities  were  evaluated.  While  analyzing,  the  years  2014  and 2022, when they gained metropolitan municipality status with the law numbered 6360, were compared. In this context,  it  has  been  observed  that  metropolitan  municipalities  are  more  focused  on  information  and  newsoriented e-service applications, but the applications that will contribute to the e-democracy understanding are at a lower level.
-
-Keywords:
-
-Metropolitan Municipality, e-service, e-audit, e-democracy
-
-1 Öğr. Üyesi, Bartın Üniversitesi, İİBF,SBKY, sciftci@bartin.edu.tr, Orcid: 0000-0002-0574-2164
-
-2 Gör. Dr., Bartın Üniversitesi, İİBF, SBKY, leylac@bartin.edu.tr, Orcid: 0000-0001-9436-2050
 
 ## GİRİŞ
 
@@ -353,43 +329,3 @@ Dolaylı  demokrasi  mekanizmaları  olan  e-denetim  uygulamaları  ise  yine  
 E- katılım açısından büyükşehir belediyeleri için zorlayıcı herhangi bir yasal/yönetsel unsur bulunmamaktadır. Her ne kadar katılım, yönetişim, vatandaş odaklılık gibi demokrasiye vurgu  yapan  ve  yeni  yönetim  paradigması  gereği  benimsenen  kavramlar  olmakla  birlikte bunlara işlerlik kazandırabilecek, en azından büyükşehir belediyelerinde çevrimiçi yürütülmesini gerektirecek bir müeyyide veya herhangi bir teşvik mekanizması bulunmamaktadır.  Dolayısıyla  büyükşehir  belediyelerinin  e-demokrasi  uygulaması  altında gerçekleştirdiği faaliyetlerin gerçekleşme oranı da düşük çıkmaktadır. Büyükşehir belediyelerin 2014 yılında e-demokrasi uygulamalarını içeren hizmetlere bakıldığında %33'ünün sadece 1 hizmete yer vermediği, %67'sinin ise hiçbir uygulamaya yer vermediği görülmektedir. 2022 yılında ise e-demokrasiye hizmet eden uygulamalardan sadece 1 tanesini yerine  getiren  büyükşehir  belediye  oranı  %47'ye  yükselirken,  e-demokrasi  çerçevesinde online olarak hiçbir uygulamayı gerçekleştirmeyen büyükşehir belediyesi oranı ise %53'tür. Bu kapsamda, son sekiz yıllık süreç içerisinde, e-demokrasinin unsurlarını online gerçekleştirme hususunda bir artış olduğu görülmekle birlikte, büyükşehir belediyelerinin edemokrasi unsurlarına, diğer demokrasi mekanizmalarına göre gerekli ilgiyi göstermedikleri anlaşılmaktadır.
 
 Belediyelerin  e-katılım konusundaki  'isteksizliği'ni yalnız  belediyeler  üzerinden açıklamak  sınırlı  bir  değerlendirme  olacaktır.  Zira  bu  sonuçların  ortaya  çıkmasında  gerek Anayasa gerekse diğer hukuki düzenlemelerde belediyeleri hizmet temelli gören, belediyeleri salt  'mahalli  ihtiyaçların  karşılanması'  temelinde  tanımlayan  ve  bununla  görevlendiren yaklaşımların önemli payı da bulunmaktadır.
-
-## KAYNAKÇA
-
-- Acılar,  A.  (2012).  Küçük  şehir  belediyelerinde  web  sitesi  ve  e-belediye  kullanımı:  Bilecik belediyesi örneği, Dumlupınar Üniversitesi Sosyal Bilimler Dergisi, 32 (1), 125-142.
-- Akay,  A.  (2007).  Kuruluşundan  günümüze  yerelnet:  todaie  yerel  yönetimler  web  portalı, Çağdaş Yerel Yönetimler , 16 (1), 75-99.
-- Alodalı, F, B., Tuncer, A., Usta, S., ve Halis, S. (2012) Yerel Yönetimlerde e-belediyecilik uygulamaları: akdeniz bölgesi örneği, Manas Sosyal Araştırmalar Dergisi, 1 (1), 8395.
-- Bayona,  S.,&amp;  Morales,  V.  (2017).  E-government  development  models  for  municipalities, Journal of Computational Methods in Sciences and Engineering , 17 (1), 47-59.
-- Belli, A., ve Aydın, A. (2012). Yerel demokrasi ve katılım: kahramanmaraş ve hatay illerinin karşılaştırılması,II.  Bölgesel  Sorunlar  ve  Türkiye  Sempozyumu  Bildiri  Kitabı,  1-2 Ekim 2017, 136-147.
-- Coursey,  D.  (2005).  E-Goverment:  trends,  benefits  and  challenges.  In  the  municipal  year Book  2005,  International  City/County  Management  Association  Press,  Washington, DC.
-- Çukurçayır,  M.  A.  (2008).  Yerel  demokrasi  ve  yerel  siyaset,  Yerel  Siyaset  kitabı  içinde. Şentürk, H., (Ed.).Okutan Yayınları, İstanbul.
-- Demirel, D., (2010). Yönetişimde yeni bir boyut: e-yönetişim, Türk İdare Dergisi, 446, 65-94.
-- Durna,  U.,  ve  Özel,  M.  (2008).  Bilgi  çağında  bir  yönetsel  dönüşüm  yaklaşımı:  e-  (yerel) yönetim, Mustafa Kemal Üniversitesi Sosyal Bilimler Enstitüsü Dergisi , 5(10), 1-32.
-- Erdoğan, O. (2019). Yerel yönetimlerde e-belediye uygulamaları: içişleri bakanlığı e-belediye bilgi  sistemi,  Süleyman  Demirel  Üniversitesi  İktisadi  ve  İdari  Bilimler  Fakültesi Dergisi, 24 (3), 551-566.
-- Gökçe, O. ve Erhan, Ö. (2012). E-Demokrasi vatandaşların siyasete ilgilerinin ve katılımlarının  artırılmasının  bir  aracı  mı?,  e-devlet  kamu  yönetimi  ve  teknoloji ilişkisinde güncel gelişmeler kitabı içinde. Sobacı,  M. Z., ve Yıldız, M., (Ed.). Nobel Yayınları, Ankara.
-- Güllüpunar, H. (2012). Kurumsal  bir geribildirim aracı olarak web  sayfaları:  konya büyükşehir  belediyesi  geribildirim  mesajlarının  analizi,  Çağdaş  Yerel  Yönetimler, 21(3), 79-102.
-- Gürler  Hazman,  G.  (2005).  Afyonkarahisar  belediyesinde  e-belediye  uygulamaları  ve  yerel farkındalık, Afyon Kocatepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 7(2), 65-84.
-- Henden, H., B. ve Henden, R. (2005). Yerel yönetimlerin hizmet sunumlarındaki değişim ve e-belediyecilik, Elektronik Sosyal Bilimler Dergisi, 4(14), 48-66.
-
-- Johansson, H., Mchuch, P., Pendlebury, A.J., and Wheeler, W., A. (1993). Business process reenigineering:  breakpoint  strategies  for  market  dominance,  John  Wiley  and  Sons, Chichester.
-- Karakurt Tosun. E. (2008). Türkiye'de e-belediyecilik uygulamaları: bursa nilüferosmangazi-yıldırım belediyelerinin web sitelerinin analizi, Çağdaş Yerel Yönetimler, 17(2), 71-94.
-- Kesgin, B. (2011). E-dönüşüm ve e-belediyecilik: katılma ve yönetişim sorununda yoksullar, Yalova Sosyal Bilimler Dergisi, 2, 77-85.
-- Kıraç, S. ve Bayrakçı, E. (2020). E-devlet uygulamaları bağlamında türkiye'de e-belediyecilik anlayışı, Balıkesir Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 1 (2), 106128.
-- Kösecik,  M.  ve  Karkın,  N.  (2004).  Belediye  yöneticilerinin  ve  meclis  üyelerinin  e-devlete bakışı denizli belediyesi örneği, Türk İdare Dergisi,443, 119-139.
-- Manoharan,  A. P. &amp;  Ingrams, A. (2018). Conceptualizing e-government from local government perspectives, State and Local Government Review, 50(1), 56-66.
-- Mevzuat Bilgi Sistemi, https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5216.pdf, 15.08.2022
-- Moon,  M.  J.  (2002).  The  evolution  of  e-government  among  municipalities:  rhetoric  or reality?, Public Administration Review, 62 (4), 424-433.
-- Norris, D. &amp; Reddick, C. G. (2012). Local e-government in the united states: transformation or ıncremental change?, Public Administration Review, 73 (1), 165-175.
-- Özgür,  H.  (2008).  Yerel  siyaset  perspektifinden  bakışla  büyükşehir  belediyelerinde  kentsel alan  yönetimi  uygulamaları,  Yerel  Siyaset  kitabı  içinde,  Şentürk,  H.,  (Ed.).Okutan Yayınları, İstanbul.
-- Pektaş,  E.  K.  (2011).  Belediye  hizmetlerinde  bilgi-iletişim  teknolojilerinin  kullanımı  ve  ebelediye  uygulamalarındaki  son  gelişmeler:  bir  literatür  taraması,  Afyon  Kocatepe Üniversitesi Sosyal Bilimler Dergisi, 13 (1), 65-88.
-- Sobacı,  M.  Z.  (2012).  E-devlet:  kuramsal  bir  bakış,E-Devlet:  Kamu  Yönetimi  Teknoloji İlişkisinde Güncel Yaklaşımlar kitabı içinde, Sobacı,  M. Z. ve Yıldız, M. (Ed.), Nobel Yayın Dağıtım, Ankara.
-- Sobacı,  M.  Z.  (2012).  E-parlamento:  kuram  ve  uygulama,  E-Devlet:  Kamu  Yönetimi Teknoloji İlişkisinde Güncel Yaklaşımlar kitabı içinde, Sobacı,  M. Z. ve Yıldız, M. (Ed.), Nobel Yayın Dağıtım, Ankara.
-- Şahin, A. (2007). Türkiye'de e-belediye uygulamaları ve Konya örneği, Erciyes Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 29, 161-189.
-- Şahin, A., Temizel, H. ve Temizel, M. (2004). Türkiye'de demokrasiden e-demokrasiye geçiş süreci ve karşılaşılan sorunlar,3. Ulusal Bilgi Ekonomi ve Yönetim Kongresi Bildiri Kitabı, Eskişehir, Osmangazi Üniversitesi, Yayın No: 108, 25-26 Kasım, 253-262.
-- Üste, B.ve Güzel, B. (2009). Belediyelerin e-demokrasiye bakışı,  Erciyes Üniversitesi Sosyal Bilimler Enstitüsü Dergisi , 26, 69-92.
-- Yaman,  K.  Aşgın,  S,  ve  Kaya,  E.  (2013).Comparative  analysis  of  the  e-municipality applications  in  turkey:  the  case  of  western  black  sea  region,  Yönetim  ve  Ekonomi Dergisi, 20 (1), 207-220.
-
-## TÜRKİYE'DE BÜYÜKŞEHİR BELEDİYELERİNDE E-BELEDİYE UYGULAMALARI: KARŞILAŞTIRMALI BİR ANALİZ
-
-- Yıldız,  M.  (2009).  E-devletin  karanlık  yüzü:  ABD  ve  Türkiye'de  yerel  yönetimlerde  sanal kamusal teşhir, Çağdaş Yerel Yönetimler, 18(3),69-83.
-- Zeren, H. E., Sebetçi, Ö. ve Koçak, Y. (2015). E-devlet ve e-belediye hizmetleri çerçevesinde aydın halkının katılma duyarlılığının ölçülmesi, Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 6(9), 249-268.
