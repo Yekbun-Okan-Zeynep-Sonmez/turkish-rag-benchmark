@@ -1,0 +1,832 @@
+ 
+
+POLİTEKNİK DERGİSİ  
+ 
+JOURNAL of POLYTECHNIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN: 1302-0900 (PRINT), ISSN: 2147-9429  (ONLINE) 
+
+ 
+
+URL: http://dergipark.gov.tr/politeknik 
+ 
+ 
+Isı 
+transferi 
+akışkanı 
+olarak 
+eriyik 
+tuz 
+kullanılan 
+bir 
+gövde 
+boru 
+tipi 
+ısı 
+değiştiricisinin 
+hesaplamalı 
+akışkanlar 
+dinamiği programı ile analizi 
+
+ 
+
+Analysis with computational fluid dynamics 
+software of a shell-and-tube heat exchanger 
+using molten salt as heat transfer fluid 
+
+Yazar(lar) (Author(s)): Mustafa SÖYLER1, Mustafa AKTAŞ2 
+
+ 
+
+ORCID1: 0000-0003-4767-5825 
+
+ORCID2: 0000-0003-1187-5120 
+
+ 
+
+ 
+
+Bu makaleye şu şekilde atıfta bulunabilirsiniz(To cite to this article): Söyler M. ve Aktaş M., “Isı transferi 
+akışkanı olarak eriyik tuz kullanılan bir gövde boru tipi ısı değiştiricisinin hesaplamalı akışkanlar dinamiği 
+programı ile analizi”, Politeknik Dergisi, 21(1): 13-17, (2018). 
+ 
+ 
+Erişim linki (To link to this article): http://dergipark.gov.tr/politeknik/archive 
+
+DOI: 10.2339/politeknik.389249 
+
+Politeknik Dergisi, 2018;21(1):13-17                                                                                                          Journal of Polytechnic, 2018;21(1):13-17 
+
+Isı Transferi Akışkanı Olarak Eriyik Tuz Kullanılan 
+Bir Gövde Boru Tipi Isı Değiştiricisinin Hesaplamalı 
+
+Akışkanlar Dinamiği Programı ile Analizi 
+
+Araştırma Makalesi / Research Article 
+
+Mustafa SÖYLER1*, Mustafa AKTAŞ2 
+
+1Mühendislik Fakültesi, Enerji Sistemleri Müh. Bölümü, Osmaniye Korkut Ata Üniversitesi, Türkiye 
+
+2Teknoloji Fakültesi, Enerji Sistemleri Müh. Bölümü, Gazi Üniversitesi, Türkiye 
+
+ (Geliş/Received : 31.10.2016 ; Kabul/Accepted : 05.12.2016) 
+
+ ÖZ 
+
+Bu çalışmada eriyik tuz kullanılan bir gövde borulu ısı değiştiricisinin ısı transfer performansı bir hesaplamalı akışkanlar dinamiği 
+(HAD) programıyla analiz edilmiştir. Bu çalışma literatürde yapılan bir deneyi doğrulamak için gerçekleştirilmiştir. Ticari bir HAD 
+programı olan ANSYS Fluent 14.5 sürümü bu çalışmada kullanılmıştır. Eriyik tuz ısı değiştiricisine farklı sıcaklık aralıklarında 
+(360 ˚C – 400 ˚C) ve farklı debilerde (0,48 – 1,87 m3/h) girmektedir. Elde edilen sayısal sonuçlar ile literatürden seçilen çalışmadaki 
+deneysel sonuçlarla karşılaştırılmıştır ve iyi bir uyum sağlandığı görülmüştür. Bu çalışmada geliştirilen sayısal HAD modeli ileriki 
+çalışmalarda kullanılabilecektir.  
+
+Anahtar Kelimeler: Eriyik tuz, HAD, ısı değiştiricisi. 
+
+Analysis with Computational Fluid Dynamics Software 
+of a Shell-and-Tube Heat Exchanger Using Molten Salt 
+
+as Heat Transfer Fluid 
+
+ ABSTRACT 
+
+In this present study, heat transfer performance of a shell and tube heat exchanger used molten salt is analyzed by a computational 
+fluid dynamic (CFD) programing. The model is prepared regard as a literature study that includes experimental results for 
+validation. ANSYS 14.5 numerical package software is used in the solution of cases. The special heat transfer fluid, molten salt is 
+used as fluid material that has been used between 360 ˚C – 400 ˚C and 0,48 – 1,87 m3/h. The numerical results are compared with 
+experimental results in literature and a good conformity has been achieved with considering limited numerical errors. In this study 
+may be used in future studies developed numerical CFD models. 
+
+Keywords: Molten salt, CFD, heat exchanger 
+
+ 1. GİRİŞ (INTRODUCTION) 
+Yoğunlaştırılmış güneş santralleri (YGS) temiz ve 
+yenilenebilir enerji için çok büyük bir potansiyeldir [1]. 
+Birçok farklı çalışma akışkanı YGS sistemlerinde 
+kullanılmaktadır [2-4]. Uygun ısı transfer akışkanı ve ısı 
+depolama sistemlerini seçmek YGS teknolojisinin 
+gelecekteki başarısı için anahtar rol oynamaktadır. Eriyik 
+tuzun YGS’ nde depolama ve ısı transferi akışkanı olarak 
+kullanılma sebepleri; geniş çalışma sıcaklığı aralığı, 
+düşük buharlaşma basıncı (<1 atm), büyük ısı kapasitesi, 
+yüksek termal iletkenlik, düşük viskozite, iyi kimyasal 
+kararlılık ve düşük fiyatıdır [5-8].  
+Isı transferi akışkanı direkt olarak türbinde elektrik 
+üretiminde kullanılabilir ya da çoğunlukla bir ısı 
+değiştiriciyle birlikte buhar üretmek için kullanılabilir 
+[9,10]. Isı transferi akışkanı YGS sistemlerinin 
+verimliliği ve performansı açısından en önemli unsurdur. 
+
+Isı transferi akışkanı olarak kullanılan eriyik tuz direkt 
+olarak buhar üretmek için kullanılacağı gibi güneşin 
+olmadığı durumlarda ise enerjiyi uzun süre depolayabilir 
+[11-14].  
+Zorlanmış ısı transferi, ısı değiştiricilerin birçok tipinde 
+kullanılmaktadır. Birçok araştırmacı farklı çalışma 
+akışkanları ile birlikte geçiş ve türbülanslı bölgenin ısı 
+transferini araştırmışlardır. Sieder ve Tate  borudaki 
+akışkanın ısı transferini ve basınç düşüşünü deneysel 
+olarak bulmuş ve önemli bir ısı transferi bağıntısı 
+geliştirmiştir [15]. Gnielinski, Sieder ve Tate’ nin 
+deneysel sonuçlarını kullanarak türbülanslı borudaki ısı 
+transferi için yeni bir ısı transferi bağıntısı üretmiştir 
+[16]. Petukhov türbülanslı borudaki akışın farklı fiziksel 
+özelliklerinde ısı transferini ve sürtünmeyi çalışmıştır 
+[17]. Birçok literatürde eriyik tuzlu sistemlerin ısı 
+depolama karakteristikleri incelenmiştir [18, 19]. Ancak 
+eriyik tuzun ısı transfer akışkanı olarak ısı transferinin 
+incelenmesi azdır. Hoffman ve ark. LiF-NaF-KF ve 
+NaNO2-KNO3-NaNO3 
+karışık 
+eriyik 
+tuzların 
+ısı 
+
+*Sorumlu Yazar  (Corresponding Author)  
+e-posta :  mustafasoyler@osmaniye.edu.tr 
+
+13 
+
+ISI TRANSFERİ AKIŞKANI OLARAK ERİYİK TUZ KULLANILAN BİR GÖVDE BORU TİPİ IS   … Politeknik Dergisi, 2018; 21 (1) : 13-17 
+
+transferini deneysel olarak incelemişlerdir ve farklı eriyik 
+tuzların ısı transfer katsayısını türetmişlerdir [20-21].  
+Isı değiştiricileri, farklı sıcaklıklardaki iki veya daha 
+fazla arasında oluşan ısı enerjisini sağlayan cihazlardır. 
+Güç üretimi, proses, elektronik, iklimlendirme, soğutma 
+ve uzay uygulamaları gibi geniş kullanım alanlarına 
+sahiptir. Çok fazla ısı değiştiricisi tipleri mevcut olmakla 
+birlikte, bunlardan gövde boru tipi ısı değiştiricisi 
+diğerlerine göre daha fazla kullanım alanına sahiptir. 
+Basit boru sistemine sahip ve küçük ısı transferi alanlı ısı 
+değiştiricilerinden, çok büyük ısı transferi alanlı ve 
+kompleks yüzeyli yoğuşturucu ve buharlaştırıcılara kadar 
+çok çeşitli cihaz şekilleri bulunmaktadır. Gövde boru tipi 
+ısı değiştiricileri bu iki geniş mesafe arasında yer alır 
+[22].  
+Bu çalışmada, literatürden seçilen ve deneysel çalışması 
+yapılmış [23] küçük bir gövde boru tipi ısı değiştiricisi 
+bir hesaplamalı akışkanlar dinamiği (HAD) programıyla 
+modellenmiştir. Ticari bir HAD programı olan ANSYS 
+Fluent 14.5 sürümü bu çalışmada kullanılmıştır. Alınan 
+sonuçlara göre uygun mesh ve türbülans modeli 
+bulunmuştur. HAD programından elde edilen sayısal 
+sonuçlar deneysel verilerle karşılaştırılmıştır.  
+ 
+2. MATERYAL VE METOD (MATERIAL and 
+
+ 
+Şekil 1. Isı değiştiricisinin geometrisi (Geometry of heat 
+
+exchanger) [23]. 
+ 
+NaNO2-NaNO3) 
+ısı 
+transfer 
+akışkanı 
+olarak 
+kullanılmaktadır ve çalışma sıcaklığı aralığı 200-500 °C 
+arasındadır.   Eriyik tuzun çalışma sıcaklığı aralığında 
+uygulanabilecek termal özellikleri veren deneysel 
+bağıntılar Çizelge 1’ de verilmektedir. 
+Çizelge 1’ de eriyik tuzun termal özelliklerini veren 
+ifadede T ile ifade edilen sıcaklık Celcius derecedir. 
+ 
+2.2. Veri Analizi (Data Analysis) 
+Boru demetinin dışındaki eriyik tuzun bulunduğu gövde 
+kısmının ıslak çevresi ve karakteristik uzunluğuna bağlı 
+hidrolik çap hesabı Eşitlik 1.1, 1.2 ve 1.3 ile hesaplanır. 
+
+METHOD) 
+Bu çalışmada deneysel çalışması yapılan bir gövde boru 
+tipi ısı değiştiricisinin HAD ile analizi yapılmıştır.  
+ 
+2.1. Sistem Tanıtımı (System Description) 
+
+Gövde boru tipi ısı değiştiricisi paslanmaz çelikten 
+yapılmıştır. Yüksek sıcaklıktaki eriyik tuz hiçbir 
+saptırma olmadan boru demetinin dışında akmaktadır ve 
+ön ısıtma yapılan su ise boru demetinin içinden 
+akmaktadır. Isı değiştiricisin uzunluğu 650 mm olup 
+gövde iç çapı 133 mm’ dir. Isı değiştiricisinde 7 adet boru 
+bulunmaktadır ve boruların çapları 25 mm olup 2.5 mm 
+cidar kalınlığına sahiptir [23]. Isı değiştiricisinin temel 
+geometrik özellikleri Şekil 1’ de görülmektedir.  
+Isı kaybını en aza indirmek için 100 mm kalınlığında 
+yalıtım malzemesi kullanılmıştır. Burada su boruların 
+içinden geçerek soğutma görevini üstlenmektedir be 
+eriyik tuz boru demetinin dışından akmaktadır. Suyun 
+basıncı 1 atm’ dir ve sıcaklığı yaklaşık kaynama 
+noktasına eşittir. Bu çalışmada ternary nitrat tuzu (KNO3- 
+
+𝑆= 𝜋
+
+4 (𝐷2 −𝑛. 𝑑2)                                                         (1.1) 
+
+                                                                                                                  
+𝑃=  𝜋(𝐷+ 𝑛. 𝑑)                                                             (1.2) 
+                                                                                                                  
+
+𝐷𝑒= 
+
+4𝑆
+
+𝑃= 
+
+𝐷2−𝑛𝑑2
+
+𝐷+𝑛𝑑                                                         (1.3) 
+
+Burada D gövdenin iç çapını d borunun dış çapını ifade 
+etmektedir n ise boru sayısıdır. 
+
+Boru yüzeyindeki ısı akısı:
+ 
+
+𝑞′′ = 
+
+𝜌𝑐𝑝(𝑇𝑔− 𝑇ç)𝑉̇
+
+𝑛. 𝜋𝑑. 𝑙
+                                                   (2) 
+
+ 
+
+Çizelge 1. Eriyik tuzun termal özelliklerini veren deneysel bağıntılar (Experimental correlations that the thermal 
+
+properties of molten salt) [21] 
+
+Yoğunluk, ρ (kg/m3) 
+2085 - 0.74T 
+
+Dinamik Viskosite, µ (g/ms) 
+31.6 - 0.195T + 0.00042T2 – 0.000000313T3 
+
+Isı İletim Katsayısı, k (W/mK) 
+0.697 - 0.000461T 
+
+Cp,  (J/kgK) 
+1549 - 0.15T 
+
+13 
+
+Mustafa SÖYLER, Mustafa AKTAŞ  / POLİTEKNİK  DERGİSİ,Politeknik Dergisi,2018;21(1):13-17 
+
+Burada Tg ve Tç eriyik tuzun giriş ve çıkışındaki 
+sıcaklıklardır ve 𝑉̇  ise debidir. 
+Eriyik tuzun Reynolds sayısı: 
+
+2.5. Sayısal Ağ Seçimi (Mesh Selection) 
+Bu çalışmada 6 farklı sayısal modelde işlem yapılmıştır 
+ve sırasıyla bu modeller 186418, 372320, 738500, 
+6744164, 7768432, 8692146 eleman sayısına sahiptir. 
+Eriyik tuzun çıkış sıcaklığı referans noktası alınarak 
+deneysel sonuçlarla oranlanmıştır. Seçilecek en uygun 
+eleman sayısı 6 744 164’ dır çünkü bu noktadan sonra 
+sıcaklık değişimi kayda değer bir artış göstermemektedir 
+ve aynı zamanda eleman sayısı arttıkça sayısal analizin 
+süresini oldukça arttırmaktadır. Modelin sayısal ağ 
+görüntüsü Şekil 2’ de gösterilmiştir. Eleman sayısının 
+deneysel ve sayısal sonuçlara oranını gösteren grafik 
+Şekil 3’ de görülmektedir. 
+ 
+
+𝑅𝑒= 𝜌𝐷𝑒
+
+𝑉̇
+
+𝑆                                                                       (3) 
+
+ 
+Boru yüzeyindeki eriyik tuzun Nu sayısı: 
+
+µ
+
+𝑁𝑢= 𝐷𝑒
+
+𝑞′′
+
+𝑘
+
+(𝑇𝑤−𝑇𝑓)                                                          (4) 
+
+Burada Tf eriyik tuzun giriş ve çıkış sıcaklıklarının ve Tw 
+ise boru demetinin yüzey sıcaklığının ortalamasıdır.  
+Deneyde 
+kullanılan 
+ölçüm 
+aletlerinden 
+doğan 
+belirsizliklerin, alınan ve hesaplanan verilere etkileri 
+belirsizlik analizi yöntemiyle hesaplanarak bulunmuştur 
+[23]. Belirsizlik analizi sonuçlarına göre ısı transferi 
+katsayısı ve ısı akısının deneysel belirsizliği % 6.26, 
+Nusselt sayısının ise  % 8.56’ dır. 
+2.3. Korunum Denklemleri (Governing Equations) 
+Boru içi akışlarda süreklilik denklemi Eşitlik 5.1’deki 
+gibidir. 
+Süreklilik Denklemi: 
+
+𝜕𝜌
+
+𝜕𝑡+ 𝛻(𝜌𝑢) = 0          
+                                       (5.1) 
+
+ 
+ 
+Şekil 2.  Seçilen modelin sayısal ağ görüntüsü (Mesh view of 
+
+Momentum Denklemi: 
+x – momentum 
+ 
+ 
+
+𝜕𝑢
+
+𝜕𝑡+ 𝑢
+
+𝜕𝑢
+
+𝜕𝑥+ 𝑣
+
+𝜕𝑢
+
+𝜕𝑦+ 𝑤
+
+𝜕𝑢
+
+𝜕𝑧= −
+
+1
+
+𝜕𝑝
+
+𝜕𝑥+ 𝑋                      (5.2) 
+
+selected numerical model) 
+ 
+
+y – momentum 
+
+𝜌
+
+𝜕𝑣
+
+𝜕𝑡+ 𝑢
+
+𝜕𝑣
+
+𝜕𝑥+ 𝑣
+
+𝜕𝑦+ 𝑤
+
+𝜕𝑣
+
+𝜕𝑣
+
+𝜕𝑧= −
+
+𝜌
+
+1
+
+𝜕𝑝
+
+𝜕𝑦+ 𝑌                       (5.3) 
+
+z – momentum 
+   
+
+𝜕𝑤
+
+𝜕𝑡+ 𝑢
+
+𝜕𝑤
+
+𝜕𝑥+ 𝑣
+
+𝜕𝑤
+
+𝜕𝑦+ 𝑤
+
+𝜕𝑤
+
+𝜕𝑧= −
+
+𝜌
+
+1
+
+𝜕𝑝
+
+𝜕𝑧+ 𝑍                    (5.4) 
+
+ 
+Enerji Denklemi:  
+
+𝑄̇𝑘ℎ−𝑚̇ 𝑖𝑒𝑓𝑖=
+
+𝑑𝑡+ 𝑚̇ ç𝑒𝑓ç + 𝑊̇ 𝑘ℎ                          (5.5) 
+ 
+Eşitlik 5.1, 5.2, 5.3, 5.4 ve 5.5’te kapalı formları verilen 
+denklemlerde p basınç, ρ yoğunluk, u, v ve w hız 
+bileşenleri, t zaman, X, Y ve Z birim kütleye etkiyen 
+kuvvetin x, y ve z eksenlerine paralel bileşenleridir. 
+Ayrıca enerji denkleminde 𝑄̇𝑘ℎ kontrol hacmine birim 
+zamanda giren ısı, 𝑚̇ 𝑖𝑒𝑓𝑖 kontrol hacmine birim zamanda 
+giren kütlenin akış enerjisi, 𝑚̇ ç𝑒𝑓ç kontrol hacminden 
+birim zamanda çıkan kütlenin akış enerjisi, 𝑑𝐸𝑘ℎ𝑑𝑡
+⁄
+ 
+kontrol hacmi sınırları içerisindeki enerjinin birim 
+zamanda değişim hızı ve 𝑊̇ 𝑘ℎ birim zamanda yapılan iştir 
+[24]. 
+2.4. Sınır Şartları (Boundary Conditions) 
+Eriyik tuz ısı değiştiricisine 360 ˚C – 400 ˚C sıcaklıkları 
+arasında ve 0,48 – 1,87 m3/h debileri arasında giriş 
+yapmakta, su ise 1 atm ve 99 ˚C sıcaklığında ısı 
+değiştiricisine giriş yapmaktadır. Akış aynı yönlü ve 
+paraleldir. Isı değiştiricinin yalıtımı mükemmel olduğu 
+varsayılarak adyabatik bir sistem olarak ele alınmıştır. 
+
+𝑑𝐸𝑘ℎ
+
+ 
+Şekil 3. Eriyik tuzun çıkış sıcaklığı için (Tç)deneysel/(Tç)HAD 
+
+değerinin farklı eleman sayılarından bağımsızlığının 
+gösterimi (Mesh independent illustration of molten 
+salt outlet temperature for (Tç)exp./(Tç)CFD ) 
+ 
+2.6. Türbülans Modeli (Turbulence Model) 
+Eriyik tuz çok düşük debilerde akmaktadır ve laminer bir 
+akış sergilemektedir. Diğer akışkan olan su ise 
+türbülanslı bölgede akmaktadır. Su için kullanılan 
+türbülans modeli standart k-ɛ modelidir. Literatürde 
+genellikle kullanılan model olan standart k-ɛ modeli bu 
+çalışmada da kullanılmıştır. Diğer türbülans modelleri 
+denenmiş ancak en iyi sonucu k- ɛ modeli vermiştir. 
+ 
+ 
+
+14 
+
+ISI TRANSFERİ AKIŞKANI OLARAK ERİYİK TUZ KULLANILAN BİR GÖVDE BORU TİPİ IS   … Politeknik Dergisi, 2018; 21 (1) : 13-17 
+
+3.  BULGULAR VE TARTIŞMA (RESULT AND 
+
+Eriyik tuzun ısı akısının farklı debilerde 𝑉̇ = 0.48- 1.87 
+m3/h ve sıcaklıklarda Tf =360-400 ˚C değişimini gösteren 
+grafik Şekil 7’ de verilmiştir. Bu grafikte deneysel 
+sonuçlarla sayısal sonuçlar karşılaştırılmış olup iyi bir 
+uyum görülmektedir. 
+Sayısal 
+sonuçlarla 
+deneysel 
+sonuçlar 
+arasındaki 
+minimum sapma % 2.37, maksimum sapma ise % 
+7.48’dir bu sapmalar ise deneysel hatalar içinde 
+kalmaktadır.Eriyik tuzun ısı transfer katsayısının farklı 
+debilerde 𝑉̇ = 0.48- 1.87 m3/h ve sıcaklıklarda Tf =360-
+400 ˚C değişimini gösteren grafik Şekil 8’ de verilmiştir. 
+Bu grafikte de görüldüğü üzere sayısal sonuçlar deneysel 
+sonuçlarla iyi bir uyum sağlamaktadır. Sayısal sonuçlarla 
+deneysel sonuçlar arasındaki minimum sapma % 0.26, 
+maksimum sapma ise % 8.58’dir bu sapmalar ise 
+deneysel hatalar içinde kalmaktadır. 
+
+DISCUSSION) 
+Bu çalışmada geliştirdiğimiz sayısal metotla deneysel 
+sonuçlar 
+uyumlu 
+çıkmıştır. 
+Bu 
+da 
+çalışmanın 
+güvenilirliğini ortaya koymuştur. Isı değiştiricisinin giriş 
+ve çıkış sıcaklık dağılımları Şekil 4 ve Şekil 5’ de 
+gösterilmektedir.  
+ 
+
+ 
+Şekil 4. Isı değiştiricisinin giriş sıcaklık dağılımı (Inlet 
+
+temperature distribution of the heat exchanger)  
+ 
+Isı değiştiricisinin sıcaklık dağılımı eksenel olarak alınan 
+kesit ile Şekil 6’da gösterilmektedir. HAD programından 
+alınan sonuçlar deneysel belirsizlik analizde göz önünde 
+bulundurularak gösterilmiştir. Sayısal sonuçlar büyük 
+çoğunlukla deneysel sonuçlarla uyum sağlamıştır.  
+
+ 
+Şekil 7. Farklı debi ve sıcaklıklarda eriyik tuzun ısı akısının 
+
+değişimi (Variation of different volumetric flow rate 
+and temperature of the molten salt heat flux) 
+Eriyik 
+tuzun 
+Nusselt 
+sayısının 
+farklı 
+Reynolds 
+sayılarında ve sıcaklıklarda (Tf =360-400 ˚C) değişimini 
+gösteren grafik Şekil 9’ de verilmiştir. Bu grafikte de 
+görüldüğü üzere sayısal sonuçlar deneysel sonuçlarla iyi 
+bir uyum sağlamaktadır. Sayısal sonuçlarla deneysel 
+sonuçlar arasındaki minimum sapma % 2.30, maksimum 
+sapma ise % 8.10’dur ve bu sapmalar ise deneysel hatalar 
+içinde kalmaktadır. 
+
+ 
+Şekil 5. Isı değiştiricinin çıkış sıcaklık dağılımı (Outlet 
+
+temperature distribution of the heat exchanger) 
+ 
+
+ 
+Şekil 6. Isı değiştiricinin ekseninden alınan görüntü (Images from the axis of the heat exchanger) 
+
+15 
+
+Mustafa SÖYLER, Mustafa AKTAŞ  / POLİTEKNİK  DERGİSİ,Politeknik Dergisi,2018;21(1):13-17 
+
+ 
+Şekil 8. Farklı debi ve sıcaklıklarda eriyik tuzun ısı transfer 
+
+ 
+Şekil 10.  Elde edilen bağıntının (eşitlik 8) deneysel ve HAD 
+
+katsayısının 
+değişimi 
+(Variation 
+of 
+different 
+volumetric flow rate and temperature of the molten 
+heat transfer coefficient) 
+ 
+
+sonuçlarıyla 
+karşılaştırılması 
+(The 
+resulting 
+correlation 
+(equation 
+8) 
+compared 
+with 
+experimental and CFD results) 
+ 
+4. SONUÇ (CONCLUSION) 
+Yapılan bu çalışmada aşağıdaki sonuçlar elde edilmiştir. 
+Bunlar; 
+
+ 
+Literatürden alınan deneysel verilerle [23] farklı 
+sıcaklık (360-400 ˚C) ve farklı debi (0.48-1.87 
+m3/h) değerlerine bağlı olarak hesaplamalı 
+akışkanlar dinamiği (HAD) analizleri çözüm 
+için kullanılmıştır. 
+ 
+Deneysel sonuçlarla HAD analizleri arasındaki 
+uyum çok iyi çıkmıştır. Bu nedenle yapılan bu 
+çalışmada sayısal analiz doğrulanmıştır. 
+ 
+Deneysel sonuçlarda elde edilen ısı akısı ve ısı 
+transfer katsayısı değerleri HAD analizi 
+sonuçları ile karşılaştırılmış ve maksimum % 
+8.58 sapma hesaplanmıştır. Deneyde elde edilen 
+belirsizlikler 
+kullanılarak 
+karşılaştırma 
+yapıldığında sonuçların gayet uyumlu olduğu 
+görülmüştür. 
+ 
+HAD analizinden elde edilen Nusselt sayısı 
+deneysel sonuçlar ile kıyaslandığında % 
+8.10’luk bir sahiptir ve bu değer deneysel 
+sapmalar (belirsizlik analizinde hesaplanan 
+%8.56) 
+göz 
+önünde 
+bulundurulduğunda 
+sonuçların deneysel sapmaların içinde olduğu 
+çıkmaktadır. 
+ 
+Bu çalışmada aynı zamanda HAD analizlerinin 
+sonuçları göz önünde bulundurularak Nusselt 
+sayısı için bir bağıntı elde edilmiştir. Deneysel 
+sonuçlar ve HAD analizlerinin sonuçları ile bu 
+bağıntı karşılaştırılmış 
+ve gayet 
+uyumlu 
+çıkmıştır. 
+ 
+Genel bir sonuç olarak, HAD programı 
+kullanılarak ve deneylerle desteklenerek gövde 
+boru tipi ısı değiştiricinin tasarım süresi 
+hızlandırılabilir ve nihai tasarım kalitesini 
+arttırabiliriz. 
+Yakın 
+gelecekte, 
+bilgisayar 
+teknolojisindeki gelişmeler çok daha büyük 
+gövde boru tipi ısı değiştiricileri tasarımlarını 
+mümkün kılacaktır. 
+
+ 
+Şekil 9. Eriyik tuzun Nusselt sayısı değişimi (Molten salt 
+
+Nusselt's number changes) 
+ 
+Isı transferi için deneysel veriler genellikle makul bir 
+duyarlıkla basit bir üst kanunu bağıntısı biçiminde verilir 
+[25]: 
+𝑁𝑢= 𝐶 𝑅𝑒𝑚𝑃𝑟𝑛                                                                 (6) 
+Burada m ve n sabit üstlerdir(genellikle 0 ile 1 arasında) 
+ve C sabitinin değeri geometriye bağlıdır [24]. Eşitlik 6 
+verilen bağıntıda Prn ifadesini sabit almak şartıyla C1 = 
+C Prn bağıntısı tarif edilerek; 
+𝑁𝑢= 𝐶1 𝑅𝑒𝑚                                                                       (7) 
+Eşitlik 7 elde edilir. Eldeki HAD verilerini kullanarak bu 
+bağıntıda bulunan katsayılar C1=0.21 ve m=0.74 olarak 
+bulunmuştur ve buradan Eşitlik 8’ deki gibi bir bağıntı 
+elde edilmiştir. Deneysel sonuçlar, HAD sonuçları ve 
+elde edilen Eşitlik 8’ deki bağıntı şekil 10’ da 
+gösterilmektedir. 
+𝑁𝑢= 0.21 𝑅𝑒0.74                                                                (8) 
+Elde edilen bu bağıntı pratik olarak ön hesaplamalarda 
+kullanılabilir. 
+
+16 
+
+ISI TRANSFERİ AKIŞKANI OLARAK ERİYİK TUZ KULLANILAN BİR GÖVDE BORU TİPİ IS   … Politeknik Dergisi, 2018; 21 (1) : 13-17 
+
+KAYNAKLAR (REFERENCES) 
+
+[13] Pacheco J.E., Showalter S.K., Kolb W.J., “Development 
+
+of a Molten-Salt Thermocline Thermal Storage System 
+for 
+Parabolic 
+Trough 
+Plants”, 
+J. 
+Sol. 
+Energy 
+Eng., 124(2): 153-159, (2002). 
+[14] Zalba B., Marin J.M., Cabeza L. F., Mehling H., “Review 
+
+[1] 
+Wei X., Peng Q., Ding J., Yang X., Yang J.P., Long B., 
+“Theoretical study on thermal stability of molten salt for 
+solar thermal power”, Appl. Therm. Eng., 54: 140–144, 
+(2013). 
+[2] 
+Pacio 
+J., 
+Singer 
+C., 
+Wetzel 
+T., 
+Uhlig 
+R., 
+“Thermodynamic evaluation of liquid metals as heat 
+transfer fluids in concentrated solar power plants”, Appl. 
+Therm. Eng., 60: 295-302, (2013). 
+[3] 
+Rovira A., Montes M.J., Varela F., Gil M., “Comparison 
+of heat transfer fluid and direct steam generation 
+technologies for integrated solar combined cycles”, Appl. 
+Therm. Eng., 52: 264-274 (2013). 
+[4] 
+Mussard M., Nydal,O.J., “Comparison of oil and 
+aluminum-based heat storage charged with a small-scale 
+solar parabolic trough”, Appl. Therm. Eng., 58: 146-154, 
+(2013). 
+[5] 
+Kearney D., Kelly B., Herrmann U., “Engineering aspects 
+of a molten salt heat transfer fluid in a trough solar field”, 
+Energy, 29: 861–864, (2004). 
+[6] 
+Sohal M.S., Sabharwall P., Calderoni P., “Conceptual 
+Design of Forced Convection Molten Salt Heat Transfer 
+Testing Loop”, INL/EXT-10-19908,  6–10, (2010). 
+[7] 
+Olivares R.I., “The thermal stability of molten 
+nitrite/nitrates salt for solar thermal energy storage in 
+different atmospheres”, Sol. Energy, 86: 2576–2583, 
+(2012). 
+[8] 
+Wang Y.J., . Liu Q.B, Lei L.J., Jin H.G., “A three-
+dimensional simulation of a parabolic trough solar 
+collector system using molten salt as heat transfer fluid”, 
+Appl. Therm. Eng., 70: 462–476 (2014). 
+[9] 
+Cordaro 
+JG, 
+Rubin 
+NC, 
+Bradshaw 
+RW., 
+“Multicomponent molten salt mixtures based on 
+nitrate/nitrite anions”, J Sol Energy Eng-Trans ASME, 
+133: 011014, (2011). 
+[10] Barlev D, Vidu R, Stroeve P., “Innovation in concentrated 
+
+on thermal energy storage with phase change: materials, 
+heat transfer analysis and applications”, Applied Thermal 
+Eng., 23: 251–283,(2003). 
+[15] Sieder E.N., Tate G.E., “Heat transfer and pressure drop 
+
+of liquids in tubes”, Ind. Eng. Chem., 28: 1429-1435, 
+(1936). 
+[16] Gnielinski V., “New equations for heat and mass transfer 
+
+in turbulent pipe and channel flow”, Int. Chem. Eng., 16: 
+359-367, (1976). 
+[17] Petukhov B.S., “Heat transfer and friction in turbulent 
+
+pipe flow with variable physical properties”, Advances in 
+Heat Transfer, 6: 503-565, (1970). 
+[18] Y. Zhen, S.V. Garimella, “Thermal analysis of solar 
+
+thermal energy storage in a molten-salt thermocline”, Sol. 
+Energy, 88: 974-985, (2011). 
+[19] Xu C., Wang Z.F., He Y.L., Li X., Bai F.W., “Sensitivity 
+
+analysis of the numerical study on the thermal 
+performance of a packed-bed molten salt thermocline 
+thermal storage system”, Appl. Energy, 92: 65-75, 
+(2011). 
+[20] Hoffman H.W., Lones J., “Fused Salt Heat Transfer, Part 
+
+II: Forced Convection Heat Transfer in Circular Tubes 
+Containing 
+NaF–KF–LiF 
+Eutectic”, 
+ 
+ORNL-
+1777,  (1955). 
+[21] Hoffman H.W., Cohen S.I., “Fused Salt Heat Transfer, 
+
+Part III: Forced Convection Heat Transfer in Circular 
+Tubes Containing the Salt Mixture NaNO2–KNO3–
+NaNO3”, ORNL-2433,  (1960). 
+[22] Kakaç S., Liu H., “Heat Exchangers Selection, Rating 
+
+and Thermal Design”, Second edition, CRC Press, USA, 
+(2002). 
+[23] He, S., Lu, J., Ding, J., Yu, T., Yuan, Y. “Convective heat 
+
+solar power”, Sol Energy Mater Sol Cells, 95: 2703–25, 
+(2011). 
+ [11] Ruegamer T., Kamp H., Kuckelkorn T., Schiel W., 
+
+transfer of molten salt outside the tube bundle of heat 
+exchanger”, Experimental Thermal and Fluid Science, 
+59: 9-14, (2014). 
+[24] White, 
+F.M.. 
+“Akışkanlar 
+Mekaniği”, 
+(çev. 
+K. 
+Kırkköprü, E. Ayder) Literatür Yayınevi (Eserin orjinali 
+1979’da yayımlandı), Birinci Baskı, Türkiye, (2004). 
+[25] Bergman T.L., Incropera F. P., DeWitt D.P., Lavine A.S. 
+
+Weinrebe G., Nava P., Riffelmann K.J., “Molten Salt for 
+Parabolic Trough Applications: System Simulation and 
+Scale Effects”, Energy Procedia, 00: 000–000, (2013). 
+[12] Zhang HL, Baeyens J, Degreve J, Caceres G., 
+
+“Concentrated solar power plants: review and design 
+methodology”, Renew Sustain Energy Rev., 22: 466–81 
+(2013). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+“Fundamentals of Heat and Mass Transfer”, Seventh 
+edition, Wiley, USA, (2011). 
+ 
+
+17 
+

@@ -1,0 +1,1140 @@
+OKU Fen Bilimleri Enstitüsü Dergisi 
+6(1): 208-219, 2023 
+
+OKU Journal of The Institute of Science and 
+Technology, 6(1): 208-219, 2023 
+
+Osmaniye Korkut Ata Üniversitesi 
+
+Fen Bilimleri Enstitüsü 
+
+Osmaniye Korkut Ata University 
+Journal of The Institute of Science 
+
+ 
+
+Dergisi 
+
+and Technology 
+
+ 
+Akdeniz Bölgesinde Kozmik Eş Radyasyon Doz Değerlerinin Expacs Programı ile Belirlenmesi 
+
+Hanifi ÇAM1, Madi BÜLBÜL2* 
+
+ 
+1Kahramanmraş Sütçü İmam Üniversitesi, Teknik Bilimler Meslek Yüksek Okulu, Elektronik ve Otomasyon Bölümü, Kahramanmaraş 
+2Kahramanmraş Sütçü İmam Üniversitesi, Fen Edebiyat Fakültesi Fizik Bölümü, Nükleer Fizik Anabilim Dalı, Kahramanmaraş 
+
+1https://orcid.org/0000-0002-9980-0037 
+2https://orcid.org/0000-0002-0053-1907 
+*Sorumlu yazar: madibulbul123@gmail.com 
+ 
+
+Araştırma Makalesi 
+ÖZ 
+
+Makale Tarihçesi: 
+Geliş tarihi: 09.03.2022 
+Kabul tarihi:21.07.2022 
+Online Yayınlanma: 10.03.2023 
+
+Bu çalışmada, Akdeniz Bölgesinde bulunan Adana, Antalya, Burdur, Hatay, 
+Isparta, Kahramanmaraş, Mersin ve Osmaniye illerinin yıllık ortalama 
+kozmik eş radyasyon değerleri Expacs ((Excel-based Program for calculating 
+Atmospheric Cosmic-ray Spectrum) programı ile yapılmıştır. Öncelikle 
+Expacs programı hakkında genel bilgiler verilmiştir. Daha sonra bölgeyi 
+oluşturan illerden alınan veriler analiz edilmiştir. Kozmik eş radyasyon doz 
+değeri en fazla 456,65 µS/y ile Isparta ilinde görülürken en az ise 290,18 
+µS/y ile Mersin ilinde görülmüştür. Elde edilen sonuçlar analiz edildiğinde 
+kozmik eş radyasyon doz değerlerinin, bölgede yer alan şehirlerin rakımları 
+ile doğru orantılı bir şekilde değiştiği tespit edilmiştir. Ancak sonuçların 
+enleme bağlı olarak değiştiği, aynı enlem üzerinde boylamın etkisinin 
+olmadığı anlaşılmıştır. ICRP’ nin yıllık doz ve önlem düzeylerine göre 
+kozmik radyasyon doz eşdeğeri çok düşük seviyesinde bulunmuştur.  
+
+Anahtar Kelimeler: 
+Expacs 
+Kozmik Eş Radyasyon 
+Akdeniz Bölgesi 
+Rakım 
+
+Determination of Cosmic Equivalent Radiation Value of Mediterranean Region Provinces with 
+Expacs Program 
+
+Research Article 
+ABSTRACT 
+
+Article History: 
+Received: 09.03.2022 
+Accepted: 21.07.2022 
+Published online: 10.03.2023 
+
+In this study, annual average cosmic equivalent radiation values of Adana, 
+Antalya, Burdur, Hatay, Isparta, Kahramanmaraş, Mersin and Osmaniye 
+provinces in the Mediterranean Region were calculated with the Expacs 
+(EXcel-based Program for calculating Atmospheric Cosmic-ray Spectrum) 
+program. First of all, general information about the Expacs program is given.
+Then, the data taken from the provinces that make up the region were 
+analyzed. The cosmic equivalent radiation dose value was seen at the most in 
+the province of Isparta with 456.65 µS/y, and the least in Mersin with 290.18 
+µS/y. When the results were analyzed, it was determined that the cosmic 
+equivalent radiation dose values changed in direct proportion to the altitudes 
+of the cities in the region. However, by marking the data as latitude, it was 
+understood that the longitude on the latitude was the same. According to the 
+annual dose and measure levels of ICRP, the cosmic radiation dose 
+equivalent was found to be very low.  
+
+Keywords: 
+Expacs 
+Cosmic Equivalent Radiation 
+Mediterranean Region 
+Altitude 
+
+To Cite: Çam H., Bülbül M. Akdeniz Bölgesinde Kozmik Eş Radyasyon Doz Değerlerinin Expacs Programı ile 
+Belirlenmesi. Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi 2023; 6(1): 208-219. 
+ 
+ 
+ 
+
+208 
+
+ 
+
+1. Giriş 
+
+1.1.Kozmik Işın 
+
+Kozmik ışınlara süpernova patlamalarının kaynaklık ettiği varsayılmaktadır. Dünyanın yüzeyine 
+
+gelebilen kozmik ışınlar; galaktik, solar ve dünyanın radyasyon kuşaklarında kalmış parçacıklardan 
+
+yayınlanan ışınlar olmak üzere üç gruba ayrılabilir.  Galaktik kaynaklı kozmik ışınlar, dünyaya güneş 
+
+sisteminin dışından ulaşan ve yüksek enerjili parçacıklardır. Solar kaynaklı kozmik ışınlarda güneşte 
+
+meydana gelen patlamalardan kaynaklanır. Üst atmosferde etkiye sahip olup, yer yüzeyinde 
+
+etkisizdirler (Pehlivan, 2019). 
+
+Kozmik ışınlar genellikle yıldızlararası uzaydan Dünya'ya ulaşan yüklü parçacıklar olarak tanımlanır. 
+
+Bu tanım, tam olarak yüklü çekirdeklerden oluşan kozmik ışın parçacıklarının çoğunu doğru bir 
+
+şekilde tanımlar. GeV enerjisi seviyesinde hidrojen ve helyum çekirdeklerinin akışı diğer tüm türlere 
+
+hakimdir (Stanev, 2004). Kozmik ışın parçacıkları Dünya atmosferine saniyede cm2 başına yaklaşık 
+
+olarak 1000 kez çarparlar. Bu iyonize çekirdeklerin yaklaşık %90’ı proton, %9’u alfa partikülü ve geri 
+
+kalan daha ağır çekirdekler oluşmaktadır. Bu ağır çekirdekler ise enerjileri ile ayırt edilebilmektedirler 
+
+(Gaisser, 1990).  
+
+ 
+
+1.1.1.Kapsamlı Hava Duşları 
+
+Kozmik ışın parçacığı dünya atmosferine girdiğinde havadaki atom çekirdekleri ile tepkileşir. Havanın 
+
+bileşimi nedeni ile bu genellikle nitrojen çekirdeğidir. Bu reaksiyonlarda çok sayıda ikincil parçacık 
+
+oluşur. Sırasıyla havadaki diğer atomlarla reaksiyona girerek daha fazla ikincil parçacık üretimi sağlar. 
+
+Bu sadece hadronik etkileşimlerle değil aynı zamanla elektromanyetik etkileşimlerle ve kararsız 
+
+çekirdeklerin bozunması ile de yapılır. Birincil parçacığın enerjisi yeterince büyük olursa bu duş 
+
+sonunda dünya yüzeyine çok sayıda ikincil parçacık ulaşır. Bu olaya kapsamlı hava duşu (Şekil 1) 
+
+denir (Horneffen, 2006). Hava duşu parçacıklarının sınıflandırılması ise Tablo 1’de verildiği gibi 
+
+gerçekleşmektedir (Choppin ve ark.). 
+
+ 
+
+ 
+
+209 
+ 
+
+ 
+
+Şekil 1. Kapsamlı hava duşu modeli 
+
+ 
+
+Tablo 1. Hava duşu parçacıklarının sınıflandırılması 
+
+Sınıf 
+İsim 
+Sembol 
+MeV 
+Kütle(u) 
+Ortalama Ömür(s) 
+
+Bozunma oranı 
+
+Foton 
+Foton 
+Gama 
+
+hv 
+
+ 
+0 
+Kararlı 
+Kararlı 
+
+γ 
+
+Baryon 
+Nötron 
+
+Proton 
+
+n 
+p 
+
+939,6 
+938,3 
+
+1,008665 
+1,007276 
+
+889, n→ 𝑝 + 𝑒 − + 𝜈𝑒 
+
+kararlı 
+
+Lepton 
+Müon 
+Elektron 
+Karalı Nötrinö 
+
+𝜇- 
+𝑒 − 
+𝜈𝑒 , 𝜈𝜇, 𝜈τ 
+
+ 
+105,6 
+0,511 
+
+ 
+0,113366 
+0,000548 
+
+2𝑥106 , 𝜇 − → 𝑒 − + 𝜈𝑒 
+
++ 𝜈µ 
+
+Mezon 
+K-mezon (Kaon) 
+
+Π+ , Π0 , Π-- 
+493,7 
+139,6 
+
+K+ , K-- 
+
+0,530009 
+0,149867 
+
+≈ 10−8 ,𝐾 + → 𝜇 + + 𝜈𝜇 
+
+Π-mezon (Pion) 
+
+, 𝜋 + + 𝜋 0 ≈ 10−8 , 𝜋 − 
+
++ 𝜇 −𝜈µ 
+ 
+
+1.2. Akdeniz Bölgesi 
+
+Akdeniz Bölgesi (Şekil 2), Türkiye’nin yedi coğrafi bölgesinden birisidir. Anadolu’nun güneyinde 
+
+Akdeniz kıyısı boyunca uzanır. Genişliği 120 – 180 km arasında değişir. Batı ve kuzey batısında Ege 
+
+Bölgesi, kuzeyinde İç Anadolu Bölgesi, doğusunda Güneydoğu Anadolu Bölgesi, güneyinde Akdeniz 
+
+ve Güney doğusunda ise Suriye yer almaktadır. Türkiye’nin diğer bölgelerinde olduğu gibi, Akdeniz 
+
+Bölgesi’nde de bölge sınırları ile yönetim birimleri olan illerin sınırları tümüyle çakışmaz. Adını 
+
+güneyindeki denizden alan Akdeniz Bölgesi, kuzey batıda Ege Bölgesi, kuzeyde İç Anadolu Bölgesi, 
+
+kuzeydoğuda Doğu Anadolu Bölgesi ve doğuda Güneydoğu Anadolu Bölgesi ile komşudur (Doğaner, 
+
+2016). 
+
+210 
+ 
+
+ 
+
+Şekil 2. Akdeniz Bölgesi haritası 
+
+ 
+
+Akdeniz bölgesinde Adana, Antalya, Burdur, Hatay, Isparta, Kahramanmaraş, Mersin ve Osmaniye 
+
+olmak üzere toplam 8 tane vilayet bulunmaktadır.   
+
+ 
+
+1.3. Türkiye Atom Enerjisi Kurumu Radyasyon Sınırları ve Tıbbi Cihazların Radyasyon Seviyeleri 
+
+ICRP (uluslararası radyasyondan korunma komisyonu)’ ye göre yıllık alınan doz ve önlem düzeyleri 
+
+Tablo 2’de verilmiştir (Parlak ve ark., 2020). 
+
+ 
+
+Tablo 2. Yıllık alınan doz ve önlem düzeyleri  
+
+Yüksek 
+>100mSv 
+
+Artmış 
+10-100 mSv 
+
+Düşük 
+1-10 mSv 
+
+Çok düşük 
+<1mSv 
+
+Önemsiz 
+<0,01 mSv 
+
+ 
+
+2690 sayılı Türkiye Atom Enerjisi Kurumu Kanunu’nun 4.maddesinin (d) bendine dayanılarak 
+
+hazırlanmış olan radyasyon güvenliği yönetmeliğine göre yıllık doz sınırları radyasyon görevlileri için 
+
+etkin doz ardışık beş yılın ortalaması 20 mSv'i, herhangi bir yılda ise 50 mSv’i geçemez. El ve ayak 
+
+veya cilt için yıllık eşdeğer doz sınırı 500 mSv ve göz merceği için ise 150 mSv’dir. Cilt için en 
+
+yüksek radyasyon dozuna maruz kalan 1 cm2'lik alanın eşdeğer dozu, diğer alanların aldığı doza 
+
+bakılmaksızın ortalama cilt eşdeğer dozu olarak kabul edilmektedir. Toplum üyesi kişiler için ise etkin 
+
+doz yılda 1 mSv’i geçemez. Özel durumlarda; ardışık beş yılın ortalaması 1 mSv olmak üzere yılda 5 
+
+mSv’e kadar izin verilir. Cilt için yıllık eşdeğer doz sınırı 50 mSv, göz merceği için 15 mSv’dir. 
+
+(RGY, 2000). İstanbul Okan Üniversitesinin 25 hasta üzerinde yaptığı bir çalışmada BT (Bilgisayarlı 
+
+Tomografi) çekim türüne göre beklenen değerler Tablo 3’te sunulmuştur; 
+
+ 
+
+211 
+ 
+
+Tablo 3. Okan Üniversitesi Araştırma Sonuçları (Kuru ve ark.,2019) 
+
+BT (bilgisayarlı tomografi) türü 
+Doz eşdeğer (mSv) 
+
+Kafa 
+1-2 
+
+Göğüs  
+5-7 
+
+Karın  
+5-7 
+
+Kasık 
+3-4 
+
+Üst ve alt batın 
+8-14 
+
+Koroner arter kalsiyum skorlama 
+1-3 
+
+Koroner arter anjiyografi 
+5-15 
+
+ 
+
+2008 yılında Radiology dergisinde yayınlanan bir makalede ise maruz kalınan radyasyon aralığı Tablo 
+
+4’te belirtilmiştir;  
+
+Tablo 4. BTdozimetrisi: karşılaştırmalı ölçüm teknikleri ve cihazları (Bauhs ve ark., 2008) 
+
+Vücut bölümü 
+Bt doz eşdeğeri 
+
+X-ray doz eşdeğeri 
+
+Nükleer görüntüleme 
+
+doz eşdeğeri (mSv) 
+Kafa 
+0,9-4 
+--- 
+--- 
+
+(mSv) 
+
+(mSv) 
+
+Kalp 
+1-12 
+--- 
+--- 
+
+Omurga 
+1,5-10 
+0,5-1,8 
+--- 
+
+Kasık 
+3,3-10 
+--- 
+--- 
+
+Göğüs 
+4-18 
+0,05-0,24 
+--- 
+
+Karın 
+3,5-25 
+0,04-1,1 
+--- 
+
+Kolonoskopi 
+4-13,2 
+--- 
+--- 
+
+Anjiyogram 
+5-32 
+--- 
+--- 
+
+Tam vücut 
+20+ 
+--- 
+--- 
+
+Kemik yoğunluk testi 
+--- 
+0-0,035 
+--- 
+
+Kol ve bacak 
+--- 
+0,0002-0,1 
+--- 
+
+Panaronamik diş 
+--- 
+0,007-0,09 
+--- 
+
+Mamogram 
+--- 
+0,1-0,6 
+--- 
+
+Kemik 
+--- 
+--- 
+6,3 
+
+Kardiyak stres 
+--- 
+--- 
+40,7 
+
+ 
+
+Bu çalışmada Akdeniz Bölgesi’nde yaşayan toplum üyesi bir kişinin yılda almasına izin verilen etkin 
+
+değerin ne kadarını kozmik ışınlardan aldığı ve kozmik ışınlardan alınan değerin tıbbi cihazlardan 
+
+alınan değerlerle kıyaslanma işlemi yapılması amaçlanmıştır. 
+
+ 
+
+2.  Materyal ve Metot 
+
+EXPACS (EXcel-based Program for calculating Atmospheric Cosmic-ray Spectrum) programı 
+
+atmosferik kozmik ışın spektrumlarını hesaplamak için sunulmuş excel tabanlı bir programdır. Dünya 
+
+212 
+ 
+
+atmosferinde her zaman ve her yerde PHITS (Particle and Heavy Ion Transport Code System) tabanlı 
+
+analitik kullanan PARMA (Atmosferdeki Radyasyon Modeli) nötronların, protonların, 28'e (Ni) kadar 
+
+yüklü iyonların, müonların, elektronların, pozitronların ve fotonların karasal kozmik ışın akışlarını 
+
+neredeyse anında hesaplayabilmektedir. Hesaplanan akılara dayalı olarak ayrıca EXPACS etkin dozu, 
+
+ortam doz eşdeğerini ve havada soğurulan dozu da tahmin edebilmektedir. Ancak programın 4.0 
+
+sürümünden sonra karasal kozmik ışınlar da hesaplanabilmektedir (Sato, 2016). 
+
+PHIT: PHITS, JAEA, RIST, KEK ve diğer bazı enstitüler arasındaki iş birliği kapsamında geliştirilen 
+
+genel amaçlı bir Monte Carlo parçacık taşıma simülasyonu kodudur. Çeşitli nükleer reaksiyon 
+
+modelleri ve nükleer veri kitaplıkları kullanarak tüm parçacıkların geniş enerji aralıklarında 
+
+taşınmasıyla ilgilenir. PHITS, hızlandırıcı teknolojisi, radyoterapi, uzay radyasyonu ve parçacık ve 
+
+ağır iyon taşınımı olaylarıyla ilgili diğer birçok alanda araştırmalarınızı destekleyebilir. 
+
+PARMA: Bütün rota-doz hesaplaması için monte carlo simülasyonu gerçekleştirmek en son bilgisayar 
+
+kullanıcıları için bile son derece zaman alıcıdır. Bu nedenle monte carlo ile elde edilen spektrumların 
+
+bir rota-doz hesaplama kodunda kullanılmasına izin vermek için varsayım veya parametrikleşme 
+
+gereklidir. Bunun için simülasyon sonuçlarının kapsamlı bir analizine dayanarak nötronlar, protonlar, 
+
+He çekirdekleri, müonlar, elektronlar, pozitronlar ve fotonlar için atmosferik kozmik ışın 
+
+spektrumlarını tahmin edebilmek için herhangi bir küresel koşula uygulanabilir model olarak 
+
+adlandırılan PARMA sistemi geliştirilmiştir.  
+
+Bu Programda; 
+
+B7: Deniz seviyesinden yüksekliği (km), (ft) veya atmosferik derinlik(g/cm2) olarak girilir. 
+
+PARMA'nın uygulanabilir atmosferik derinlik aralığı 0,15 ile 1095g/cm2 ve irtifa ise -0,5 ile 63 km 
+
+arasındadır. Bu dış aralıklarda hesaplanan kozmik ışın akıları özellikle ikincil parçacıklar için 
+
+güvenilir değildir.  
+
+B8,9: Ölçüm yapacağımız bölgenin koordinatlarını girmemiz gereken yerdir. Coğrafi koordinat 
+
+düzlemine göre 180° Doğu ile 180° Batı boylamı, 90° Kuzey ile 90° Güney enlemleri arasındaki 
+
+herhangi bir bölge girilebilir. 
+
+B10,11,12: Ölçüm için belirlediğimiz zamanın sırasıyla yıl, ay ve gün olarak girilmesi gereken yerdir. 
+
+B13: Surrounding Environment (Çevreleyen Ortam)’ı belirlememiz gereken kısımdır. Buradan yer 
+
+seviyesi, pilot konumu, kabin konumu ve ideal atmosfer durumunu seçip hesaplama işlemini ona göre 
+
+devam ettirmemiz gerekir. Bu çalışmada ölçüm yapılan şehirlerin rakımları kullanılmıştır.  
+
+B14: Local Effect Parameter (Bölgesel Etki Parametresi) kullanılmaktadır. Bu parametre sadece 
+
+nötron spektrumunu etkiler. Yer seviyesindeki nötron için, spektrum yerdeki suyun girdi oranıdır. 
+
+Uçaktaki nötron spektrumları için ise uçağın giriş kütlesi kabul edilmektedir. 
+
+B15: Definition of dose (Doz tanımı) İstenilen ölçüm sonucunu, efektif doz, H10 dozu veya absorbe 
+
+doz cinsinden hesaplamada kullanılmaktadır.  
+
+B16: Çıkış akısının birimini seçer. (/cm2/s/(MeV/n)) birimi olarak belirtilir. Çekirdek akıları hariç; 
+
+yani diğer parçacıklar için n=1 alınır. 
+
+213 
+ 
+
+B17: Çıkış dozu birimini verir. Bunlar; (mSv/year), (nSv/h) ve (µSv/h) cinsinden seçilebilir. 
+
+EXPACS programından ise aşağıda belirtilen sonuçlar alınır; 
+
+B30-39: Kozmik ışın maruziyeti nedeniyle hesaplanan doz oranlarıdır. Doz tipi ve birimi sırasıyla B15 
+
+ve B17 hücrelerinde belirtilir.  
+
+B30: toplam doz oranlarını gösterirken B31 ile B39 hücreleri arasındaki her parçacık, kendi katkısını 
+
+gösterir. 
+
+D35-AL174: Giriş koşulu için hesaplanmış kozmik ışın akışlarıdır (Sato, 2018). 
+
+Expacs programının kullanım yönergesi Şekil 3’te belirtilmiştir. 
+
+ 
+
+ 
+
+Şekil 3. Expacs programı kullanım yönergesi 
+
+ 
+
+3. Bulgular ve Tartışma 
+
+Çalışmada kozmik ışınların Akdeniz bölgesinde yer alan illere etki eden doz eşdeğerleri rakım ve 
+
+koordinat faktörleri ile hesaplanmıştır (Tablo 5). Bulunan veriler µS/y cinsinden tablo haline 
+
+getirilmiştir. Çalışmada yer alan illerin toplam doz eşdeğerlerinin yanı sıra proton, nötron, negatif 
+
+müon ve pozitif müon etki değerleri hesaplanmış olup toplam etki üzerindeki yüzdelik oranları 
+
+belirtilmiştir.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+214 
+ 
+
+Tablo 5. Akdeniz bölgesi illerinin rakım ve koordinatları 
+
+İl 
+Rakım (Metre) 
+Enlem 
+Boylam 
+Adana 
+23 
+37 N 
+35,321333 E 
+Antalya 
+39 
+36,88414 N 
+30,70563 E 
+
+Burdur 
+950 
+37,718416 N 
+30,282007 E 
+
+Hatay 
+100 
+36,202216 N 
+36,161948 E 
+
+Isparta 
+1049 
+37,764771 N 
+30,556561 E 
+
+K. Maraş 
+568 
+37,574957 N 
+36,924115 E 
+Mersin 
+10 
+36,8 N 
+34,633333 E 
+Osmaniye 
+129 
+37,074478 N 
+36,246295 E 
+ 
+
+Tablo 5’te görüldüğü gibi Akdeniz bölgesi illeri 36- 38. enlemleri ile 30- 37. boylamları arasında yer 
+
+alırken deniz seviyesinden yüksekliği ise 10 – 1049 m arasında değişmektedir.  
+
+Akdeniz bölgesi illerinin kozmik ışın doz eşdeğer miktarı Tablo 6’da verilmiştir. 
+
+ 
+
+Tablo 6. Akdeniz bölgesi illerinin kozmik ışın doz eşdeğer miktarı 
+
+İl 
+Toplam (µS/y) 
+Proton (µS/y) 
+Nötron (µS/y) 
+-Mu (µS/y) 
++Mu (µS/y) 
+
+Adana 
+291,66 
+9,12 
+43,3 
+91,38 
+105,76 
+
+Antalya 
+293,2 
+9,26 
+44 
+91,4 
+105,78 
+
+Burdur 
+436,3 
+23,04 
+101,29 
+108,68 
+125,61 
+
+Hatay 
+297,7 
+9,67 
+45,48 
+91,64 
+105,98 
+
+K. Maraş 
+369,06 
+16,07 
+73,073 
+100,58 
+116,56 
+
+Isparta 
+456,65 
+25,39 
+110,27 
+111,06 
+128,12 
+
+Mersin 
+290,18 
+8,98 
+42,6 
+91,64 
+105,7 
+
+Osmaniye 
+303,44 
+10,04 
+47,79 
+92,33 
+106,8 
+
+ 
+
+Tablo 6’da bulunan değerlere göre kozmik ışının ana sebebinin rakım faktörü olduğu, ikincil sebebin 
+
+ise enlem olduğu görülmektedir. Kozmik ışın maruziyeti rakım ile doğru orantı bir şekilde değişim 
+
+göstermektedir. Kozmik ışın maruziyeti her ne kadar enlem ile doğru orantı sergilese de rakımın 
+
+azaldığı çukur bölgelerde kozmik ışın etkisinin de azaldığı görülmektedir. Aynı enlem üzerinde 
+
+bulunan yerler için boylamın hiç etkisinin olmadığı sadece rakıma bağlı değişim gerçekleştiği 
+
+bulunmuştur.  
+
+Doğu Karadeniz bölgesinde yapılan benzer bir çalışma ile kıyaslandığında, çalışmanın gayet uyumlu 
+
+bir yapı içerisinde olduğu belirlenmiştir.  
+
+Doğu Karadeniz bölgesi illerinin expacs programına göre kozmik ışın doz eşdeğeri Tablo 7’de 
+
+verilmiştir. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+215 
+ 
+
++Mu 
+(µS/y) 
+Giresun 
+38 
+40,9227 N 
+38,3878 E 
+ 
+302 
+10 
+48 
+92 
+107 
+
+Şehir 
+Rakım 
+Enlem  
+Boylam   
+ 
+Toplam 
+
+Tablo 7. Doğu Karadeniz bölgesi illerinin expacs programına göre kozmik ışın doz eşdeğeri (Ada, 2019) 
+
+Proton 
+
+Nötron 
+
+-Mu 
+(µS/y) 
+
+(µS/y) 
+
+(µS/y) 
+
+(µS/y) 
+
+Gümüşhane 
+1216 
+40,4598 N 
+39,4653 E 
+ 
+546 
+32 
+132 
+116 
+134 
+
+Trabzon 
+39 
+40,9985 N 
+39,7649 E 
+ 
+341 
+10 
+49 
+92 
+107 
+
+Bayburt 
+1584 
+40,2547 N 
+40,2207 E 
+ 
+650 
+44 
+177 
+125 
+142 
+
+Rize 
+0 
+41,04 N 
+40,5013 E 
+ 
+334 
+10 
+47 
+92 
+107 
+
+Artvin 
+613 
+41,1752 N 
+41,8187 E 
+ 
+424 
+19 
+86 
+102 
+119 
+
+ 
+
+Tablo 7’de Gazi üniversitesinin 2019 yılında yaptığı çalışma sonuçları da çalışmamızı destekleyici 
+
+nitelikte olup Rize ile Bayburt arasındaki 1500 metrelik bir rakım artışı kozmik radyasyon doz 
+
+eşdeğerinde iki katına yakın bir fark oluşmasına neden olmuştur. Çalışmalar kıyaslandığında, aynı 
+
+rakıma sahip Antalya ile Giresun arasındaki 9,8 µS’lık farkın oluşmasının nedeninin iki şehir 
+
+arasındaki 4,1 derecelik enlem faktörünün neden olduğu düşünülmektedir. Parçacıkların saçınma 
+
+oranlarına baktığımızda ise iki çalışma arasında bir uyum görülmektedir, parçacıklar neredeyse aynı 
+
+oranlarda saçınmakta olup baskın olan parçacıkların muonlar olduğu tespit edilmiştir.  
+
+Grafik 1’de görüleceği üzere doz eşdeğer miktarına en çok katkı yapan parçacık pozitif müonlar iken 
+
+bunu sırasıyla negatif müon, nötron ve proton izlemektedir. 
+
+ 
+
+EXPACS  DOZ EŞDEĞERİ (µSv/y)  
+
+450
+
+500
+
+Doz Eşdeğer (µSv/y) 
+
+400
+
+350
+
+250
+
+300
+
+200
+
+150
+
+100
+
+50
+
+0
+
+ADANA
+ANTALYA
+BURDUR
+HATAY
+ISPARTA
+K. MARAŞ
+MERSİN
+OSMANİYE
+
+TOPLAM(µSv/y)
+PROTON(µSv/y)
+NÖTRON(µSv/y)
+NEGATİF MUON(µSv/y)
+POZİTİF MUON(µSv/y)
+
+ 
+
+Grafik 1. Akdeniz bölgesi illerinin kozmik ışın doz eşdeğer grafiği 
+
+ 
+
+Akdeniz bölgesi illerinin kozmik ışın doz eşdeğer miktarı yüzdesi Tablo 8’de verilmiştir. 
+
+ 
+
+ 
+
+216 
+ 
+
+İl 
+Proton (%) 
+Nötron (%) 
+-Mu (%) 
++Mu (%) 
+
+Tablo 8. Akdeniz bölgesi illerinin kozmik ışın doz eşdeğer miktarı yüzdesi (%) 
+
+Adana 
+3,12 
+14,84 
+31,33 
+36,26 
+
+Antalya 
+3,15 
+15 
+31,17 
+36,07 
+
+Burdur 
+5,28 
+23,21 
+24,91 
+28,79 
+
+Hatay 
+3,24 
+15,27 
+30,78 
+35,6 
+
+Isparta 
+5,56 
+24,14 
+24,32 
+28,05 
+
+K. Maraş 
+4,35 
+19,8 
+27,25 
+31,58 
+
+Osmaniye 
+3,3 
+15,75 
+30,42 
+35,19 
+
+Mersin 
+3,09 
+14,68 
+31,58 
+36,42 
+
+ 
+
+Tablo 8’de gösterilen yüzde verilerini incelediğimizde Expacs programına göre kozmik ışının en çok 
+
+pozitif müon kaynaklı olduğu tespit edilmektedir. İller arası rakım farkları göz önüne alındığında 
+
+rakım arttıkça proton ve nötron etkisinin arttığı, negatif müon ve pozitif müon etkisinin azaldığı tespit 
+
+edilmiştir. Parçacıkların dağılımının nedenleri arasında ise enlemin bir etkisinin olmadığı yalnızca 
+
+toplam maruziyet üzerinde etki gösterdiği bulunmuştur. Protonun kütlesinin 938,272029 Mev/c2 
+
+nötronun kütlesinin 939,565378 Mev/c2 ve müonun kütlesinin 105,66 Mev/c2 olduğu bilindiğinden 
+
+yüzdesel dağılımda kütlelerinin farklı olmalarından kaynaklı bir sonuç gözlemlenememiştir.  
+
+Kozmik bir ışının protonu üst atmosferdeki atom çekirdeklerini etkilediğinde, pionlar oluşmaktadır. 
+
+Bunlar nispeten kısa bir mesafede (metre) müonlara ve müon ise nötrinolarına bozunmaktadır. Bu 
+
+yüksek enerjili kozmik ışınlardan gelen müonlar, genellikle ışık hızına yakın bir hızla ve orijinal 
+
+proton ile yaklaşık aynı yönde ilerlemektedir. Müonlar göreli etkiler olmaksızın ömürleri en fazla 
+
+2,2µs yarı ömre sahip olsa da özel göreliliğin zaman uzama etkisi ile bu süre 34,8µs’ye 
+
+uzayabilmektedir. Bu nedenle kozmik ışın ikincil müonlarının Dünya'nın yüzeyine ulaşabilmesini 
+
+sağlamaktadır. Çünkü Dünya çerçevesinde müonlar hızlarından dolayı daha uzun bir yarı ömre 
+
+sahiptir (Fermilab,2017). 
+
+ 
+
+4. Sonuç 
+
+Yapılan bu çalışma ile Akdeniz Bölgesi’nde yer alan Adana, Antalya, Burdur, Hatay, Isparta, 
+
+Kahramanmaraş, Mersin ve Osmaniye illerine etki eden kozmik ışın eş radyasyon dozu tespit 
+
+edilmeye çalışılmış ve bu dozun radyasyon güvenlik yönetmeliğine göre etkisi incelenmiş olup tıbbi 
+
+cihazların yaydığı radyasyon ile karşılaştırılması yapılmıştır. Expacs programından elde ettiğimiz 
+
+veriler incelendiğinde ortalama maruziyet 290,18 µSv/y ile 456,65 µS/y arasında olduğu bulunmuştur. 
+
+Elde edilen bu sonuçların, çalışma yapılan bölgeyi oluşturan illerin rakımları ile doğrudan ilgili olduğu 
+
+illerin koordinatlarında ise enlem artışında doz eşdeğer miktarında bir artış olduğu, aynı enlemler 
+
+üzerindeki illerde ise boylamın bir etkisinin bulunmadığı tespit edilmiştir. Radyasyon Güvenlik 
+
+Yönetmeliği dikkate alındığında (RGY) bulunan sonuçların çok düşük olduğu anlaşılmıştır. Konu ile 
+
+ilgili yapılan çalışmalar değerlendirildiğinde yılda maruz kalınan kozmik ışın değeri ile bir X-ray ve 
+
+217 
+ 
+
+Kemik yoğunluk testi kıyaslandığında kemik yoğunluk testinin en az radyasyon değerine sahip olduğu 
+
+görülmektedir. X-ray cihazı çok geniş bir skalaya sahip olup kozmik ışından sonra bölgesel olarak 
+
+fazla veya az etki gösterebilir. BT ise yüksek bir radyasyon değerine ve bölgesel olarak artan bir 
+
+radyasyon skalasına sahip olduğundan insan sağlığı açısından en tehlikeli tıbbi cihaz olduğu 
+
+anlaşılmıştır.  
+
+Gazi üniversitesinin yaptığı çalışma ile de kıyaslanan çalışmamızın verileri, parçacık saçınım oranının 
+
+doğruluğunu ortaya koymaktadır ve her iki çalışmaya göre yeryüzüne en çok düşen parçacık olarak 
+
+muonlar, muonların kendi içerisinde ise + muonlar olarak tespit edilmiştir. 
+
+Ayrıca elde edilen sonuçların, ICRP (Uluslararası Radyasyondan Korunma Komisyonu) tarafından 
+
+belirlenen değerlerin çok altında olduğu görülmüştür.  
+
+ 
+
+Çıkar Çatışması Beyanı  
+
+Makale yazarları aralarında herhangi bir çıkar çatışması olmadığını beyan ederler.  
+
+ 
+
+Araştırmacıların Katkı Oranı Beyan Özeti  
+
+Yazarlar makaleye eşit oranda katkı sağlamış olduklarını beyan ederler. 
+
+ 
+
+Kaynakça 
+
+Ada HT. Doğu Karadeniz bölgesi kozmik radyasyon dozunun simülasyon yoluyla hesaplanması. Gazi   
+
+          Üniversitesi, Fen Bilimleri Enstitüsü, Fizik Ana Bilim Dalı Yüksek Lisans Tezi, Sayfa no: 65,  
+
+Bauhs JA., Vrieze TJ., Primak AN., Bruesewitz MR., McCollough CH. CT dosimetry: comparison of               
+
+Ankara, Türkiye, 2019. 
+
+         measurement techniques and devices. Radiographics 2008; 28(1): 245-53. 
+
+Choppin G., Liljenzin J., Rydberg J., Ekberg C. Radiochemistry and nuclear chemistry. 4th Ed. USA:   
+
+         Academic Press; 2013; 21. 
+
+Doğaner S. Akdeniz bölgesi coğrafyası. İstanbul Üniversitesi, 157-194: İstanbul, Türkiye, 2006. 
+
+Fermilab. Muon g-2 Experiment. Muon g−2 Experiment. April 26, 2017. 
+
+Gaisser TK. Cosmic rays and particle physics. 1st ed. Cambridge; 1990; 1-10. 
+
+Horneffen A. Measuring radio emission from cosmic ray air showers with a digital radio telescope.  
+
+          Universität Bonn- der Mathematisch Naturwissenschaftlichen Fakultät der Rheinischen 
+
+Friedrich-Willhelms, sayfa no: 12-13, Bonn, Almanya, 2006. 
+
+Kuru Lİ., Günay O., Palacı H., Yarar O. Bilgisayarlı tomografilerde hastanın aldığı efektif radyasyon            
+
+          dozunun belirlenmesi. BAUN Fen Bil. Enst. Dergisi 2019; 21(1): 436-443. 
+
+RGY, 
+Radyasyon 
+Güvenliği 
+Yönetmeliği 
+2000. 
+
+https://www.mevzuat.gov.tr/MevzuatNo5272&MevzuatTur =7&MevzuatTerkip=5 (Son Erişim 
+
+1.03.2022). 
+
+218 
+ 
+
+Parlak Y., Uysal B., Kıraç FS., Kovan B., Demir M., Ayan A., Poyraz L., Özaslan İA., Köseoğlu K., 
+
+Yeyin N., Dönmez S.  Radyasyon güvenliği kılavuzu: genel tanımlar ve nükleer tıp 
+
+uygulamalarında  radyasyondan korunma kuralları. Nucl Med Semin 2020; 6: 71-89. 
+
+Pehlivan M. Orta Karadeniz bölgesi yer seviyesi kozmik radyasyon dozunun fluka simülasyon yoluyla 
+
+          hazırlanması. Gazi Üniversitesi Fen Bilimleri Enstitüsü Fizik Anabilim Dalı Yüksek Lisans             
+
+Tezi, sayfa no:7, Ankara, Türkiye, 2019. 
+
+Sato T. Analytical model for estimating the zenith angle dependence of terrestrial cosmic ray fluxes.  
+
+          plos one 2016; 11(8): e0160390.  
+
+Sato T. EXPACS: Excel-based Program for calculating Atmospheric Cosmic-ray Spectrum User’s    
+
+          Manual. 2018. 
+
+Stanev T. High energy cosmic rays. 2nd ed. Chichester; 2004; 1-5. 
+
+219 
+ 
+

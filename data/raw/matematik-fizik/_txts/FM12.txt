@@ -1,0 +1,2240 @@
+               Afyon Kocatepe Üniversitesi Fen ve Mühendislik Bilimleri Dergisi 
+
+Afyon Kocatepe University Journal of Science and  Engineering 
+
+AKÜ FEMÜBİD 17 (2017) 031302 (906-913) 
+AKU J. Sci. Eng. 17 (2017) 031302 (906-913) 
+DOİ: 10.5578/fmbd.66268 
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları 
+ 
+ 
+Burhaneddin İzgi1, Murat Özkaya2 
+
+İstanbul Teknik Üniversitesi, Fen Edebiyat Fakültesi, Matematik Bölümü, İstanbul. 
+
+e-posta: 1bizgi@itu.edu.tr, 2ozkaya16@itu.edu.tr 
+ 
+ 
+Geliş Tarihi: 16.05.2017 ; Kabul Tarihi: 12.12.2017 
+
+ 
+
+Anahtar kelimeler 
+3-Boyutlu Matrisler; 3-
+
+Özet 
+
+Bu çalışmada ilk olarak 3-boyutlu matrislerde çarpma işlemi, 2-boyutlu matrislerdeki çarpma işlemine 
+benzer şekilde tanımlanmıştır. Daha sonra, 3-boyutlu matrislerdeki norm eşitsizlikleri elde edilmiş ve bu 
+eşitsizlikler ispatlanmıştır. Ayrıca tanımlanan eşitsizliklerin kullanışlılığı simülasyonlar yardımıyla elde 
+edilmiş veriler ve gerçek veriler kullanılarak oluşturulmuş 3-boyutlu matrisler için ayrı ayrı hesaplanan 
+norm değerleri yardımıyla gösterilmiştir. 
+
+Çarpma İşlemi; 3-
+Boyutlu Matris Norm 
+
+Boyutlu Matrislerde 
+
+Eşitsizlikleri 
+
+ 
+Norm Inequalities and Applications in 3-Dimesional Matrices 
+
+Keywords 
+3-Dimensional 
+Matrices; 3-Dimesional 
+
+Abstract 
+
+In this paper, we first define 3-dimensional matrix product as it is defined for 2-dimensional matrices. 
+Moreover, we present norm inequalities for 3-dimensional matrices and prove them. Furthermore, the 
+usefulness of these inequalities is presented for 3-dimensional matrices obtain from simulations and 
+real data applications. 
+
+Matrix Product; 3-
+Dimesional Matrix 
+Norms Inequalities 
+
+© Afyon Kocatepe Üniversitesi 
+
+ 
+ 
+
+bulmak için 2-normunu kullandığını ifade etmiştir. 
+De Maio ve Carotenuto 2013 yılındaki ortak 
+çalışmalarında, Hermitian matrisinin Frobenius 
+norm veya spektral normlarından birini içeren iki 
+maliyet fonksiyonunu ele aldıkları görülmektedir. Bu 
+maliyet fonksiyonlarının optimalitelerini bu iki 
+matris normunu kullanarak ispatlamışlardır. Öte 
+yandan 
+2015’te 
+Whitaker 
+ve 
+Anderson'nun 
+çalışmasında ise matris normları seyrek kodlama 
+yöntemiyle anormal özelliklerin öğretilmesinde 
+kullanılmıştır. Günümüzde ise matris normlarının 
+kullanımı yeni yeni 2-boyuttan 3-boyuta taşınarak 
+kullanılmaya 
+başlanmıştır. 
+İzgi 
+(2015)’nin 
+çalışmasında 3-boyutlu matris normlarının tanım ve 
+ispatlarının yanı sıra, matematiksel finanstaki 
+uygulanışı 
+stokastik 
+diferansiyel 
+denklemler 
+yardımıyla kapsamlı bir şekilde göstermiştir. Ayrıca, 
+Duran ve İzgi'nin 2015 yılında yazmış oldukları 
+makalede de görüleceği üzere 3-boyutlu matris 
+normlarının kullanışlılığı gerçek veriler kullanılarak 
+yapılan analiz ve simülasyonlar ışığı altında da 
+
+1. Giriş 
+
+Matris 
+normları 
+matematikten, 
+mühendisliğe,  
+istatistikten, fiziğe kullanılması oldukça yaygın olan 
+araçlardan biridir. Matris normları, bir dikdörtgensel 
+matrisin, örneğin m x n boyutlu bir matris için, 
+içindeki m.n tane sayıyı kullanılan norma özgü tek 
+bir sayı haline getirerek verilerin yorumlanmasını 
+kolaylaştıran 
+bir 
+fonksiyondur. 
+Matris 
+norm 
+eşitsizlikleri ise bu normlara özgü sayılar arasındaki 
+ilişkileri bize vermektedir. Geçmişten günümüze 
+kadar bu normlar çeşitli alanlarda kullanılmıştır. 
+Literatürdeki bazı örneklerden kısaca bahsetmek 
+gerekirse örneğin, Zielke (1988) çalışmasında matris 
+normları ve matrisleri koşul sayıları arasında ilişkileri 
+göstermiştir. Li (1998) ise Frobenius normunu, 
+Hermitian matrislerinin özdeğer problemleri için 
+bağıl 
+öteleme 
+teoremlerinde 
+kullanmıştır. 
+Wilkinson’ın 
+2005 
+yılında 
+yayınlanan 
+bir 
+çalışmasında gürültü varyanslarına iki farklı sınır 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+gösterilmiştir. Her ne kadar 3-boyutlu matris 
+normlarıyla ilgili çalışmalar, Duran ve İzgi (2014, 
+2015) ve İzgi (2015)’nin çalışmalarında karşımıza 
+çıksa da, 3-boyutlu matris normlarının eşitsizliğiyle 
+ilgili literatürde bildiğimiz kadarıyla herhangi bir 
+çalışma yapılmış bulunmamaktadır. Bu eksikliği 
+mümkün 
+olduğu 
+kadarıyla 
+tamamlamak 
+için 
+makalemizde bu problem ele alınmıştır. Ele almış 
+olduğumuz problemin bu yönüyle de oldukça 
+önemli olduğu kanaatini taşımaktayız. Bu nedenle ilk 
+olarak eşitsizliklerin ispatlarında kullanılacağı için, 3-
+boyutlu matrislerde çarpma işlemi, 2-boyutlu 
+matrislerdeki çarpma işlemine benzer şekilde 
+tanımlanacaktır. Daha sonra 3-boyutlu matrislerdeki 
+norm eşitsizlikleri ispatlanacaktır.  
+Çalışmanın devam eden kısımları şu şekilde 
+sıralanmaktadır. Bölüm 1.1'de tanımlar, Bölüm 2'de 
+3-boyutlu matrislerde çarpma işlemi ve 3-boyutlu 
+matrislerdeki norm eşitsizlikleri, Bölüm 3'te de 
+uygulamalar ve sonuçlar kısmı yer almaktadır.  Ekler 
+kısmında ise bazı norm eşitsizliklerin ispatları 
+mevcuttur. 
+
+Tanım. 𝐴єℂ𝑚𝑥𝑛𝑥𝑠 ’nın p-normu aşağıdaki gibidir:  
+
+1
+𝑝  , 1<𝑝<∞ 
+
+ ‖𝐴‖p=(∑
+∑
+∑
+|𝑎𝑖𝑗
+
+𝑝
+𝑚
+𝑖=1
+𝑛
+𝑗=1
+𝑠
+𝑘=1
+)
+
+(𝑘)|
+
+Önsav.  𝐴єℂ𝑚𝑥𝑛𝑥𝑠 olsun. ‖𝐴‖p bir normdur. 
+
+Tanım.  𝐴єℂ𝑚𝑥𝑛𝑥𝑠 olsun. A’nın Frobenius normu 
+aşağıdaki gibidir:  
+
+‖𝐴‖F=√∑
+∑
+∑
+|𝑎𝑖𝑗
+
+2
+𝑚
+𝑖=1
+𝑛
+𝑗=1
+𝑠
+𝑘=1
+ 
+
+(𝑘)|
+
+Tanım.  𝐴єℂ𝑚𝑥𝑛𝑥𝑠 ve (𝐴𝑘)
+
+∗ da k. kesitteki matrisin 
+eşlenik transpozesini belirtsin.  λ𝑚𝑎𝑥
+𝑘
+ bütün k 
+
+∗𝐴𝑘 ‘nın en büyük özdeğeri olmak 
+üzere, A’nın 2-normu aşağıdaki gibi tanımlanmıştır: 
+
+değerleri için (𝐴𝑘)
+
+‖𝐴‖2= max
+
+𝑘=1,…,𝑠( max
+
+‖𝑥‖2=1‖𝐴(𝑘)𝑥‖2)=√λ𝑚𝑎𝑥
+𝑘
+ 
+
+Ayrıca,  λ𝑚𝑎𝑥
+𝑘
+=(max
+
+ 
+|(𝐴𝑘)
+
+∗𝐴𝑘−λ𝑘
+
+ 𝐼| = 0) olmak 
+
+üzere, ‖𝐴‖2
+
+2 = max
+
+𝑘(λ𝑚𝑎𝑥
+𝑘
+)  şeklinde de 
+
+tanımlanabilir. 
+
+Önsav. 𝐴єℂ𝑚𝑥𝑛𝑥𝑠 olsun. ‖𝐴‖2 bir normdur. 
+ 
+2. 3-Boyutlu Matrislerde Çarpma İşlemi ve Norm 
+
+1.1. 3-Boyutlu Matris Normları  
+
+İlk olarak, 3-boyutlu matrisler için Duran ve İzgi’nin 
+(2015) çalışmalarında verilmiş olan tanım ve 
+önsavlardan kısaca bahsedilecektir.  
+
+Eşitsizlikleri 
+
+3-boyutlu matris 
+normlarının 
+ispatlanmasında 
+kullanılmak üzere öncelikle 3-boyutlu matrislerde 
+çarpma işlemini aşağıdaki gibi tanımlayacağız. 
+
+Tanım: 
+3-Boyutlu 
+matris 
+normu, 
+‖∙‖𝑚×𝑛×𝑠 
+kompleks değerli matrislerden reel sayılara olan ve 
+aşağıdaki özellikleri sağlayan bir fonksiyondur: 
+
+Tanım. 𝐴єℂ𝑚𝑥𝑛𝑥𝑠 ve 𝐵єℂ𝑛𝑥𝑝𝑥𝑠 3-boyutlu 
+matrislerinin çarpımı şeklinde tanımlanan 𝐶= 𝐴𝐵 
+matrisi, girdileri 𝑐𝑖𝑗
+
+ 
+‖𝐴‖≥ 0 ve ‖𝐴‖= 0 ancak ve ancak 𝐴= 0; 
+ 
+‖α𝐴‖=|α|.‖𝐴‖, α bir skaler olmak üzere 
+ 
+‖𝐴+ 𝐵‖≤‖𝐴‖+‖𝐵‖;  𝐴 𝑣𝑒 𝐵 𝑚𝑥𝑛𝑥𝑠  
+boyutlu matrisler olmak üzere. 
+
+𝑘= ∑
+𝑎𝑖𝑡
+
+𝑘
+𝑛
+𝑡=1
+ olan 3-boyutlu 
+
+𝑘𝑏𝑡𝑗
+
+𝐶єℂ𝑚𝑥𝑝𝑥𝑠 bir matristir.  
+
+2.1. 3-Boyutlu Matris Norm Eşitsizlikleri   
+
+𝐴єℂ𝑚𝑥𝑛𝑥𝑠 olmak üzere, 3-boyutlu matris norm 
+eşitsizlikleri aşağıdaki gibidir: 
+
+Tanım: 𝐴 3-boyutlu kompleks değerli bir matris 
+olmak üzere yani 𝐴єℂ𝑚𝑥𝑛𝑥𝑠 için 𝐴’nın 1-normu ve 
+∞-normu aşağıdaki gibi tanımlanmaktadır: 
+
+ 
+
+1
+𝑠√𝑛‖𝐴‖∞≤‖𝐴‖2 ≤ 𝑠√𝑚‖𝐴‖∞             (1) 
+
+ 
+
+1
+𝑠√𝑚‖𝐴‖1 ≤‖𝐴‖2 ≤ 𝑠√𝑛‖𝐴‖1  
+(2) 
+
+‖𝐴‖1= max
+
+1≤𝑗≤𝑛∑
+∑
+|𝑎𝑖𝑗
+
+(𝑘)|
+𝑚
+𝑖=1
+𝑠
+𝑘=1
+ = En büyük mutlak 
+
+ 
+
+1
+𝑠√𝑛‖𝐴‖∞≤‖𝐴‖𝐹 ≤ 𝑠√𝑚‖𝐴‖∞  
+(3) 
+
+sütun bloğu toplamı. 
+
+ 
+
+1
+𝑚𝑠2 ‖𝐴‖1 ≤‖𝐴‖∞ ≤𝑛𝑠2‖𝐴‖1   
+(4) 
+
+‖𝐴‖∞= max
+
+1≤𝑖≤𝑚∑
+∑
+|𝑎𝑖𝑗
+
+(𝑘)| 
+𝑛
+𝑗=1
+𝑠
+𝑘=1
+= En büyük mutlak 
+
+ 
+
+1
+𝑠√𝑚‖𝐴‖1 ≤‖𝐴‖𝐹 ≤ 𝑠√𝑛‖𝐴‖1  
+(5) 
+
+satır bloğu toplamı. 
+
+ 
+
+√𝑟2𝑟3 ‖𝐴‖2 ≤‖𝐴‖𝐹 ≤ √𝑟1𝑟3‖𝐴‖2          (6) 
+
+1
+
+Önsav. 𝐴єℂ𝑚𝑥𝑛𝑥𝑠 olsun. ‖𝐴‖1 ve ‖𝐴‖∞ birer 
+normdur. 
+
+ 𝑟1 = min(𝑚, 𝑠), 𝑟2 = min(𝑛, 𝑠),   𝑟3 ≤𝑠 
+
+907 
+
+ 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+Genel olarak ispatlar, 2-boyutlu matris norm 
+eşitsizliklerinin ispatlarında kullanılan yaklaşıma 
+benzer olarak yapılacaktır. Bazı kaynaklarda nasıl ki 
+2-boyutlu matris norm eşitsizliklerinin ispatları, 2-
+boyutlu 
+matrislerin 
+vektörlere 
+indirgenmesi 
+yardımıyla yapılıyorsa, buradaki ispatlar da benzer 
+yaklaşımla 
+3-boyutlu 
+matrislerin 
+2-boyutlu 
+matrislere indirgenmesiyle yapılacaktır. Herhangi 
+bir 3-boyutlu 𝑀єℂ𝑘𝑥1𝑥𝑝 matrisinin, 2-boyutlu bir 
+matris olarak 𝑀єℂ𝑘𝑥𝑝 gibi davrandığı düşünülebilir. 
+Bu amaçla ilk olarak 3-boyutlu matrisler, çarpma 
+işlemi altında 2-boyutlu matrislere indirgenip daha 
+önceden 2-boyutlu matris normları için bilinen 
+matris norm eşitsizlikleri de kullanılarak kanıtlar 
+yapılmıştır (Golub ve Val Loan 1996). Ayrıca, burada 
+sadece (1) , (2) ve (6) numaralı eşitsizliklerin ispatları 
+verilecektir. Ortaya koyduğumuz diğer eşitsizliklerin 
+benzer şekildeki kanıtları ise Ekler kısmında 
+sunulmuştur. 
+
+   = sup
+
+ (√𝑛𝑠∙
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖2 )    
+
+ve ‖𝐴𝑥‖∞≤ √𝑠‖𝐴𝑥‖2  olduğundan; 
+
+𝑥≠0
+
+‖𝐴𝑥‖2 
+
+≤sup
+
+𝑥≠0
+
+ (√𝑛𝑠∙√𝑠
+
+‖𝑥‖2 )  
+
+= 𝑠√𝑛∙sup
+
+‖𝐴𝑥‖2 
+
+‖𝑥‖2 = 𝑠√𝑛‖𝐴‖2 olur.  
+
+𝑥≠0
+
+Bunun sonucunda, ‖𝐴‖∞ ≤𝑠√𝑛‖𝐴‖2  eşitsizliği 
+elde eldilir. 
+
+Diğer taraftan ‖𝐴‖2  için bir üst sınır bulmak için, 
+
+‖𝐴𝑥‖2 
+
+sup
+
+𝑦≠0
+
+‖𝑦‖2
+‖𝑥‖2 
+
+‖𝐴𝑥𝑦‖2  
+
+‖𝐴‖2 = sup
+
+𝑥≠0
+
+‖𝑥‖2 
+
+= sup
+
+𝑥≠0
+
+ 
+
+  
+
+‖𝐴𝑥𝑦‖2  
+‖𝑥‖2 ‖𝑦‖2 );  Axyϵℂmx1 
+
+(
+
+)
+
+    = sup
+
+𝑥≠0
+
+(sup
+
+𝑦≠0
+
+‖𝑦‖∞≤ ‖𝑦‖2 ve ‖𝑥‖∞≤ √𝑠‖𝑥‖2 eşitsizliklerini 
+kullanarak; 
+
+Aşağıdaki ispatların tümünde 𝐴єℂ𝑚𝑥𝑛𝑥𝑠, xєℂ𝑛𝑥1𝑥𝑠, 
+yєℂ𝑠𝑥1, 𝐴𝑥єℂ𝑚𝑥1𝑥𝑠 ve 𝐴𝑥𝑦єℂ𝑚𝑥1 olmak 
+üzere, 
+ispatlar yapılmıştır. 
+
+    ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖2  
+‖𝑥‖∞
+
+)  
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑠‖𝑦‖∞
+
+İspat.(1) 𝑣єℂ𝑛 bir vektör ve 𝑀єℂ𝑚𝑥𝑛 2-boyutlu bir 
+matris olmak üzere, 
+
+   = sup
+
+(√𝑠∙sup
+
+‖𝐴𝑥𝑦‖2  
+‖𝑥‖∞ ‖𝑦‖∞ )  
+
+𝑥≠0
+
+𝑦≠0
+
+ 1
+
+‖𝑀‖∞≤‖𝑀‖2 ≤ √𝑚‖𝑀‖∞  
+
+sup
+𝑦≠0
+
+‖𝑦‖∞ 
+‖𝑥‖∞ 
+)   
+
+‖𝐴𝑥𝑦‖2  
+
+√𝑛
+
+‖𝑣‖∞≤‖𝑣‖2 ≤ √𝑛‖𝑣‖∞  
+
+   = sup
+
+𝑥≠0
+
+(√𝑠∙
+
+‖𝑦‖2 ≤ √𝑠‖𝑦‖∞ olduğu için; 
+
+olduğu bilinmektedir. Bu eşitsizlikler ispat içerisinde 
+gerekli düzenlemeler yapılarak kullanılacaktır. 
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖2  
+
+‖𝐴𝑥𝑦‖2  
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖∞  
+
+  ≤sup
+
+(√𝑠∙
+
+√𝑠
+‖𝑥‖∞ 
+) = sup
+
+‖𝑦‖2 
+
+(𝑠
+
+sup
+𝑦≠0
+
+‖𝑦‖2 
+‖𝑥‖∞ 
+)  
+
+‖𝐴‖∞ = sup
+
+𝑥≠0
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞  = sup
+
+𝑥≠0
+
+(
+
+‖𝑦‖∞ 
+‖𝑥‖∞ 
+)  
+
+         𝑥≠0
+
+𝑥≠0
+
+     = sup
+
+(sup
+
+‖𝐴𝑥𝑦‖∞  
+‖𝑥‖∞ ‖𝑦‖∞ );  𝐴𝑥𝑦єℂ𝑚𝑥1 
+
+ (𝑠∙‖𝐴𝑥‖2 
+
+𝑥≠0
+
+𝑦≠0
+
+  = sup
+
+𝑥≠0
+
+‖𝑥‖∞ 
+
+) 
+
+‖𝑦‖2 ≤ √𝑠‖𝑦‖∞ ve ‖𝑥‖2 ≤ √𝑛‖𝑥‖∞kullanılarak; 
+
+ayrıca ‖𝐴𝑥‖2 ≤ √𝑚‖𝐴𝑥‖∞  olduğundan; 
+
+     ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖∞  
+
+‖𝑥‖2
+
+‖𝑦‖2
+
+)   
+
+≤sup
+
+ (𝑠∙√𝑚
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞ ) = 𝑠√𝑚∙sup
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞   
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑛
+
+√𝑠
+
+‖𝐴𝑥𝑦‖∞  
+‖𝑥‖2 ‖𝑦‖2 
+
+𝑥≠0
+
+𝑥≠0
+
+    = sup
+
+𝑥≠0
+
+(√𝑛𝑠∙sup
+
+𝑦≠0
+
+) 
+
+= 𝑠√𝑚‖𝐴‖∞  olur. 
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖∞  
+
+Böylece, ‖𝐴‖2 ≤𝑠√𝑚‖𝐴‖∞  eşitsizliğine ulaşılır. 
+
+    = sup
+
+𝑥≠0
+
+(√𝑛𝑠∙
+
+‖𝑦‖2 
+‖𝑥‖2 
+)   
+
+Sonuç olarak elde etmiş olduğumuz bu iki eşitsizliği 
+
+öte yandan ‖𝑦‖∞≤ ‖𝑦‖2 olduğundan; 
+
+birleştirirsek, 
+
+1
+𝑠√𝑛‖𝐴‖∞≤‖𝐴‖2 ≤ 𝑠√𝑚‖𝐴‖∞ elde 
+
+‖𝐴𝑥𝑦‖∞  
+
+edilir. ∎ 
+
+   ≤sup
+
+(√𝑛𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖∞ 
+‖𝑥‖2 
+)  
+
+İspat (2) 𝑣єℂ𝑛 bir vektör ve 𝑀єℂ𝑚𝑥𝑛 2-boyutlu bir 
+matris olmak üzere, 
+
+𝑥≠0
+
+908 
+
+ 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+√𝑚‖𝑀‖1 ≤‖𝑀‖2 ≤ √𝑛‖𝑀‖1 
+
+1
+
+‖𝐴‖2 = sup
+
+‖𝐴𝑥‖2 
+
+‖𝑥‖2 ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖2 
+‖𝑥‖2 ‖𝑦‖2 )  
+
+‖𝑣‖2 ≤‖𝑣‖1 ≤ √𝑣‖𝑦‖2  
+
+𝑥≠0
+
+𝑥≠0
+
+𝑦≠0
+
+olduğunu biliyoruz. Bu eşitsizlikler de dikkate 
+alınarak; 
+
+𝑟1 = min(𝑚, 𝑠), 𝑟3 ≤𝑠 olmak üzere,  
+‖𝑥‖𝐹≤ √𝑟1‖𝑥‖2 ve ‖𝑦‖𝐹≤√𝑟3‖𝑦‖2  olduğu 
+bilinmektedir. Böylece;  
+
+‖𝐴‖1 = sup
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖1 ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖1  
+‖𝑥‖1 ‖𝑦‖1 )   
+
+‖𝑥‖2 ≤ √𝑠‖𝑥‖1 ve ‖𝑦‖2 ≤‖𝑦‖1olduğundan; 
+
+𝑥≠0
+
+𝑥≠0
+
+𝑦≠0
+
+≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖2  
+‖𝑥‖𝐹
+
+‖𝑦‖𝐹
+
+)   
+
+‖𝐴𝑥𝑦‖1  
+‖𝑥‖2 ‖𝑦‖2 )  
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑟1
+
+√𝑟3
+
+‖𝐴𝑥𝑦‖2  
+
+          ≤sup
+
+𝑥≠0
+
+(√𝑠∙sup
+
+𝑦≠0
+
+= sup
+
+(√𝑟1𝑟3 ∙
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹 
+‖𝑥‖𝐹 
+)  
+
+ve ‖𝑦‖1 ≤ √𝑛‖𝑦‖2 olduğunu biliyoruz; 
+
+‖𝐴𝑥𝑦‖1  
+
+𝑥≠0
+
+          ≤sup
+
+(√𝑠√𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖1 
+‖𝑥‖2 
+) = sup
+
+ (s ∙
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖2 )  
+
+‖𝑦‖𝐹= ‖𝑦‖2 olduğundan dolayı; 
+
+son olarak 
+
+                    𝑥≠0
+
+√𝑚‖𝐴𝑥‖1 ≤‖𝐴𝑥‖2 kullanıldığında; 
+
+1
+
+𝑥≠0
+
+= sup
+
+(√𝑟1𝑟3 ∙
+
+sup
+𝑦≠0
+
+‖𝑦‖2
+‖𝑥‖𝐹 
+)  
+
+‖𝐴𝑥𝑦‖2  
+
+ (s√𝑚∙‖𝐴𝑥‖2 
+
+‖𝐴𝑥‖2 
+
+𝑥≠0
+
+     ≤sup
+
+             𝑥≠0
+
+‖𝑥‖2 
+
+) 𝑠√𝑚∙sup
+
+  𝑥≠0
+
+‖𝑥‖2 
+
+ 
+
+= sup
+
+ (√𝑟1𝑟3 ∙
+
+‖𝐴𝑥‖2 
+
+‖𝑥‖𝐹 )  
+
+          = 𝑠√𝑚‖𝐴‖2  olur. 
+Böylece, ‖𝐴‖1 ≤𝑠√𝑚‖𝐴‖2  elde edilir. Öte yandan 
+bir üst sınır bulmak amacıyla, 
+
+ve son olarak ‖𝐴𝑥‖2 ≤‖𝐴𝑥‖𝐹 eşitsizliği 
+kullanılarak; 
+
+𝑥≠0
+
+‖𝐴𝑥‖2 
+
+‖𝐴𝑥𝑦‖2 
+‖𝑥‖2 ‖𝑦‖2 
+
+≤sup
+
+ (√𝑟1𝑟3 ∙
+
+‖𝐴𝑥‖𝐹 
+
+‖𝑥‖𝐹 ) = √𝑟1𝑟3 ∙sup
+
+‖𝐴𝑥‖𝐹 
+
+‖𝐴‖2 = sup
+
+𝑥≠0
+
+‖𝑥‖2 
+
+≤sup
+
+𝑥≠0
+
+(sup
+
+𝑦≠0
+
+) 
+
+𝑥≠0
+
+𝑥≠0
+
+‖𝑥‖𝐹   
+
+‖𝑥‖1 ≤ √𝑛‖𝑥‖2 𝑣𝑒 ‖𝑦‖1 ≤√𝑠‖𝑦‖2 olduğundan; 
+
+= √𝑟1𝑟3‖𝐴‖𝐹 olur. 
+
+        ≤sup
+
+(√𝑠𝑛∙sup
+
+‖𝐴𝑥𝑦‖2  
+‖𝑥‖1 ‖𝑦‖1 
+
+) 
+
+Sonuç olarak, ‖𝐴‖2 ≤√𝑟1𝑟3‖𝐴‖𝐹  eşitsizliği elde 
+edilir. Diğer yandan, 
+
+𝑥≠0
+
+𝑦≠0
+
+sup
+
+‖𝑦‖1 
+‖𝑥‖1 
+
+‖𝐴𝑥𝑦‖2  
+
+‖𝐴‖𝐹 = sup
+
+‖𝐴𝑥‖𝐹 
+
+≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖𝐹 
+‖𝑥‖𝐹 ‖𝑦‖𝐹 
+
+) 
+
+       = sup
+
+𝑥≠0
+
+ √𝑠𝑛∙
+
+𝑦≠0
+
+  
+
+𝑥≠0
+
+‖𝑥‖𝐹 
+
+𝑥≠0
+
+𝑦≠0
+
+‖𝑦‖2 ≤‖𝑦‖1 eşitsizliğiyle; 
+
+(
+
+)
+
+‖𝑥‖2 ≤‖𝑥‖𝐹 ve ‖𝑦‖2 = ‖𝑦‖𝐹 olduğundan; 
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖2  
+
+≤sup
+       𝑥≠0
+
+(sup
+
+‖𝐴𝑥𝑦‖𝐹 
+‖𝑥‖2 ‖𝑦‖2 
+
+) 
+
+       ≤sup
+
+(√𝑠𝑛∙
+
+‖𝑦‖2 
+‖𝑥‖1 
+) = sup
+
+ (√𝑠𝑛∙
+
+‖𝐴𝑥‖2 
+
+‖𝑥‖1 )  
+
+𝑦≠0
+
+ve ‖𝐴𝑥‖2 ≤ √𝑠‖𝐴𝑥‖1 eşitsizliği kullanılarak; 
+
+𝑥≠0
+
+𝑥≠0
+
+sup
+𝑦≠0
+
+‖𝑦‖2 
+‖𝑥‖2 
+); ‖𝑦‖𝐹≤√𝑟3‖𝑦‖2 olduğu 
+
+‖𝐴𝑥𝑦‖𝐹  
+
+ (√𝑠√𝑠𝑛∙‖𝐴𝑥‖1 
+
+‖𝐴𝑥‖1 
+
+       = sup
+
+𝑥≠0
+
+(
+
+       ≤sup
+
+𝑥≠0
+
+‖𝑥‖1  
+
+) = 𝑠√𝑛∙sup
+
+𝑥≠0
+
+‖𝑥‖1 
+
+ 
+
+için; 
+
+       = 𝑠√𝑛‖𝐴‖1 olur. 
+İşlemler 
+sonucunda 
+elde 
+edilen 
+eşitsizlikleri 
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹 
+‖𝑥‖2 
+) = sup
+
+‖𝐴𝑥𝑦‖𝐹  
+
+‖𝐴𝑥‖𝐹 
+
+birleştirirsek, 
+
+1
+𝑠√𝑚‖𝐴‖1 ≤‖𝐴‖2 ≤ 𝑠√𝑛‖𝐴‖1 
+
+= sup
+
+𝑥≠0
+
+(√𝑟3 ∙
+
+𝑥≠0
+
+ (√𝑟3 ∙
+
+‖𝑥‖2 )  
+
+olur. ∎ 
+
+ve ‖𝐴𝑥‖𝐹≤ √𝑟2‖𝐴𝑥‖2, 𝑟2 = min(𝑚, 𝑠) olmak 
+üzere 
+
+İspat (6). 𝑣єℂ𝑛 bir vektör ve 𝑀єℂ𝑚𝑥𝑛 2-boyutlu bir 
+matris 𝑟𝑀=Rank(M) olmak üzere, 
+
+≤sup
+
+𝑥≠0
+
+ (√𝑟3√𝑟2 ∙
+
+‖𝐴𝑥‖2 
+
+‖𝑥‖2 ) = √𝑟3𝑟2‖𝐴‖2 olur. 
+
+‖𝑀‖2 ≤‖𝑀‖𝐹≤ √𝑟𝑀‖𝑀‖2  
+
+Yukarıda elde edilen eşitsizlikler birleştirildiğinde, 
+
+‖𝑣‖2 = ‖𝑣‖𝐹≤√𝑟‖𝑣‖2, 𝑟≤𝑛 
+
+√𝑟1𝑟3 ‖𝐴‖2 ≤‖𝐴‖𝐹 ≤ √𝑟3𝑟2‖𝐴‖2 ispat 
+
+1
+
+tamamlanmış olur.∎ 
+
+909 
+
+ 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+Tüm ispatlarda 3. boyutun (s’nin) etkisinin bir 
+sonucu olarak da, 2-boyutlu matris normları için 
+verilen eşitsizliklerdeki aralıklardan daha geniş bir 
+aralığın elde edildiği görülmektedir.  
+Böylelikle; 3-boyutlu matris normlarının hepsinin 
+birbirlerine denk olduklarını göstermiş olduk. 
+
+İlk olarak, İzgi (2015)’nin çalışmasında kullanılan 
+𝑀єℂ1000𝑥101𝑥280’lik matris için Çizelge 1.’dekine 
+benzer 
+norm 
+eşitsizlikleri 
+katsayı 
+çizelgesini 
+oluşturalım. Bölüm 1.1’de 3-boyutlu bir matrisi 
+𝑀єℂ𝑚𝑥𝑛𝑥𝑠 olarak tanımlamıştık; o halde m=1000, 
+n=101 ve s=280 olur. Sonuç olarak, bu değerler 
+kullanılarak Çizelge 3. değerleri kolayca elde edilir. 
+
+Kısaca, elde ettiğimiz eşitsizliklerin katsayıları 𝑁𝑎𝑏 
+olsun. Öyle ki, A boyutları 𝑚𝑥𝑛𝑥𝑠 olan 3-boyutlu bir 
+matris 
+olmak 
+üzere 
+‖𝐴‖𝑎≤𝑁𝑎𝑏∙‖𝐴‖𝑏 
+eşitsizliğindeki, 𝑁𝑎𝑏(𝑚, 𝑛, 𝑠) değerleri aşağıdaki 
+çizelge yardımıyla kolayca elde edilir.  
+
+Çizelge 3. 𝑀єℂ1000𝑥101𝑥280’lik matris için norm 
+eşitsizlikleri katsayılar çizelgesi 
+
+a\b 
+1 
+2 
+F 
+∞ 
+
+1 
+1 
+8854.38 
+8854.38 
+64009000 
+
+Çizelge 1. Norm eşitsizlikleri katsayıları çizelgesi 
+
+2 
+2542.62 
+1 
+159.85 
+8854.38 
+
+F 
+2542.62 
+280 
+1 
+8854.38 
+
+a\b 
+1 
+2 
+F 
+∞ 
+
+1 
+1 
+𝑠√𝑚 
+𝑠√𝑚 
+𝑚𝑠2  
+
+∞ 
+28280 
+2542.62 
+2542.62 
+1 
+
+2 
+𝑠√𝑛 
+1 
+√𝑟2𝑟3 
+𝑠√𝑚 
+
+Benzer 
+çizelge 
+Duran 
+ve 
+İzgi 
+(2015)’nin 
+çalışmasındaki 3-boyutlu matrisler için de elde 
+edilebilir. Sonuç olarak, her bir yöntem ile elde 
+edilmiş norm değerleri için ayrı ayrı oluşturulmuş 
+norm eşitsizlikleri katsayı çizelgeleri yardımıyla, 
+Bölüm 2.1.’de verilen eşitsizlikler Çizelge 4.’teki gibi 
+özetlenebilir. 
+
+F 
+𝑠√𝑛 
+√𝑟1𝑟3 
+1 
+𝑠√𝑚 
+
+∞ 
+𝑛𝑠2 
+𝑠√𝑛 
+𝑠√𝑛 
+1 
+
+ 
+3. Uygulamalar ve Sonuçlar 
+3.1 Uygulamalar 
+Bu bölümde yukarıda ispatlamış olduğumuz norm 
+eşitsizliklerinin, simülasyon sonucu elde edilen ve 
+gerçek veriler için hesaplanmış norm değerleri için 
+sağlandığının gösterilmesi hedeflenmektedir.  
+Aşağıda oluşturduğumuz Çizelge 2., İzgi (2015)’nin 
+ve Duran ve İzgi (2015)’nin çalışmalardaki stokastik 
+diferasiyel 
+denklemlerle 
+yapmış 
+oldukları 
+simülasyonlar sonucu elde edilmiş 3-boyutlu 
+matrisler 
+için 
+hesaplanan 
+norm 
+değerlerini 
+içermektedir. Öyle ki, Çizelge 2.’nin 1. sütunundaki 
+değerler her adımda rassal olarak  %[-2,2] 
+aralığındaki değerlere göre güncellenmiş faiz 
+oranlarına karşın simülasyonlar sonucu elde edilen 
+3-boyutlu 
+matrisler 
+için 
+oluşturulmuş 
+norm 
+değerlerini göstermektedir (İzgi, 2015). Çizelgenin 2. 
+sütunundaki değerler ise gerçek faiz oranları 
+kullanılarak yapılan analizler sonucu elde edilmiş 3-
+boyutlu matrisler için hesaplamış norm değerlerini 
+göstermektedir (Duran ve İzgi, 2015). 
+
+Çizelge 4. Milstein ve SRK metotları sonucu elde edilmiş  
+norm değerleri için oluşturulan eşitsizlikler 
+
+# 
+Milstein 
+SRK 
+1 
+2.30E-03≤2.849≤5.72E+04 
+1.39E+06≤2.85+E06≤2.83E+13 
+
+2 
+4.50E-04≤2.849≤1.12E+04 
+1.44E+04≤2.85E+06≤2.94E+11 
+
+3 
+2.30E-03≤4.032 ≤5.72E+04 
+1.39E+06≤4.31E+07≤2.83E+13 
+
+4 
+1.424E-05≤6.464≤3.16E+07 
+1.55E-07≤1.11E+10≤2.35E+15 
+
+5 
+4.50E-04≤4.032≤1.12E+04 
+1.44E+04≤4.31E+07≤2.94E+11 
+
+6 
+1.69E-02≤4.032≤7.98E+02 
+1.13E+04≤4.31E+07≤4.56E+08 
+
+# Eşitsizliklerin numarası 
+
+Norm eşitsizlikleri matris boyutlarına bağlı olarak 
+ifade edildiği için, bu (𝑚𝑥𝑛𝑥𝑠) boyut değerlerinin 
+büyük olduğu durumlarda eşitsizlikler her ne kadar 
+geniş bir aralık ifade etse de, değerlerin küçülmesi 
+durumunda daha optimal aralıklar elde edileceği 
+eşitsizlik ifadelerinden de görülmektedir. Bunların 
+yanı sıra, uygulamalar kısmında bahsedilen iki 
+çalışmada da stokastik diferansiyel denklemlerin 
+(SDD) sayısal çözümlerinde kullanılan Milstein ve 
+SRK yöntemleriyle elde edilmiş norm değerleri 
+görülmektedir. Bu metotların yakınsama hızları 
+bilindiği üzere sırasıyla 1.0 ve 2.0 dir (Bkz. P.E. 
+Kloeden, E. Platen, H. Schurz, 2215). SDD’lerin 
+kullanıldığı analizlerde her ne kadar yakınsama hızı 
+
+Çizelge 2. Simülasyonlar sonucu oluşturulan 3-boyutlu 
+matrisler için elde edilen norm değerleri 
+
+Normlar 
+Milstein 
+SRK 
+
+1-norm 
+3.9863 
+3.6732E+07 
+2-norm 
+2.8489 
+2.8541E+06 
+Inf-norm 
+6.4641 
+1.1129E+10 
+Fro-norm 
+4.0322 
+4.3077E+07 
+
+910 
+
+ 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+yüksek olan yöntemler genel olarak tercih edilmek 
+istense de, Çizelge 4.’teki değerler dikkatlice 
+incelendiğinde, norm eşitsizliklerinin SDD ile yapılan 
+sayısal analizlerde kullanılan metotlardan bağımsız 
+olarak korunduğu da gözlemlenen bir diğer önemli 
+sonuç olarak karşımıza çıkmaktadır.  
+
+yapılan 
+bazı 
+simülasyon 
+veya 
+algoritmaların 
+analizlerinin daha hızlı bir şekilde tamamlanmasında 
+bu 
+eşitsizlikler 
+yardımıyla 
+elde 
+edilen 
+sınır 
+değerlerinin 
+önemli 
+bir 
+rol 
+oynayacağına 
+inanmaktayız. 
+
+Ekler 
+
+3.2. Sonuçlar 
+
+İspat.(3) 𝐴єℂ𝑚𝑥𝑛𝑥𝑠,𝑥єℂ𝑛𝑥1𝑥𝑠,𝑦єℂ𝑠𝑥1, 𝐴𝑥єℂ𝑚𝑥1𝑥𝑠  
+ve 𝐴𝑥𝑦єℂ𝑚𝑥1olsun. 
+𝑀єℂ𝑚𝑥𝑛 2-boyutlu bir matris ve 𝑣єℂ𝑛 vektör olmak 
+üzere, 
+
+Böylece yukarıda ifade etmiş olduğumuz 3-boyutlu 
+matrislerdeki norm eşitsizlikleri ispatlanarak tıpkı 2-
+boyutlu matrislerdeki gibi normların denklikleri de 
+gösterilmiştir. Ortaya koyduğumuz bu 3-boyutlu 
+matris norm eşitsizlikleri kullanılarak, matris 
+normları arasındaki bağıntılar çok daha kolay bir 
+şekilde ifade edilmiş olacaktır. Bunun yanı sıra, 
+hesaplanması kolay olan normlardan (mesela ‖. ‖∞, 
+‖. ‖1  normları gibi) yola çıkarak diğer normlar için alt 
+ve üst sınırlar belirlenebilir. Böylece normlar arası 
+geçişler kolay bir hal alacak ve norm değerlerinin 
+dikkate 
+alınarak 
+yapılacağı 
+analizlerde, 
+bu 
+eşitsizlikler 
+yardımıyla 
+sonuca 
+ulaşma 
+süresi 
+kısaltılarak daha hızlı bir şekilde değerlendirme 
+yapma imkanı sağlanmış olacaktır.  
+
+ 1
+
+√𝑛
+
+‖𝑀‖∞≤‖𝑀‖𝐹≤ √𝑚‖𝑀‖∞ 
+
+Vektörlerde 2-normu, Frobenius normuna eşit 
+
+olduğundan, ‖𝑣‖∞≤‖𝑣‖𝐹≤√𝑛‖𝑣‖∞ 
+
+olduğu söylenebilir. 
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖∞  
+
+‖𝐴‖∞ = sup
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞  = sup
+
+(
+
+‖𝑦‖∞ 
+‖𝑥‖∞ 
+)  
+
+𝑥≠0
+
+𝑥≠0
+
+     ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖∞  
+
+‖𝑥‖𝐹
+
+‖𝑦‖𝐹
+
+)  
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑛
+
+√𝑠
+
+     = sup
+
+(√𝑛𝑠∙sup
+
+‖𝐴𝑥𝑦‖∞  
+‖𝑥‖𝐹 ‖𝑦‖𝐹 )  
+
+Öyle ki, veri seçimlerinin normlara bağlı olduğu 
+durumlarda hesaplanması diğer normlara göre daha 
+kolay olan ‖. ‖∞  veya ‖. ‖1  normlarından biri 
+kullanılarak (yaklaşık olarak) diğer norm değerlerine 
+geçiş yapılabilir. Böylece ‖. ‖𝐹 ya da ‖. ‖2 normları 
+için aralıklar belirlenebilir. Bu noktada dikkat 
+edilmesi gereken bir diğer husus ise; bu iki normun 
+hesaplanması 2-boyutlu matrislerde bile oldukça 
+uzun zaman alırken, 3-boyutlu matrislerde çok daha 
+uzun süreceğidir. Bu sebeple yukarıda elde ettiğimiz 
+norm eşitsizlikleri kullanılarak, uygun seçimlerin 
+yapılması ile belirtilen bu normlar için yaklaşık bir 
+değer bulmak daha kolay hale gelecektir. 
+
+𝑥≠0
+
+𝑦≠0
+
+‖𝐴𝑥𝑦‖∞  
+
+     = sup
+
+(√𝑛𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹 
+‖𝑥‖𝐹 
+)  
+
+𝑥≠0
+
+     ≤sup
+
+(√𝑛𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖∞ 
+‖𝑥‖2 
+)  
+
+‖𝐴𝑥𝑦‖∞  
+
+𝑥≠0
+
+     = sup
+
+(√𝑛𝑠∙
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖𝐹 )  
+
+𝑥≠0
+
+‖𝐴𝑥‖𝐹 
+
+     ≤sup
+
+𝑥≠0
+
+(√𝑛𝑠√𝑠∙
+
+‖𝑥‖𝐹 )  
+
+     = 𝑠√𝑛∙sup
+
+‖𝐴𝑥‖𝐹 
+
+‖𝑥‖𝐹 = 𝑠√𝑛‖𝐴‖𝐹.  
+
+ ‖𝐴‖∞ ≤𝑠√𝑛‖𝐴‖𝐹   eşitsizliği elde edilir. 
+
+𝑥≠0
+
+Diğer 
+taraftan 
+matris 
+tabanlı 
+algoritmaların 
+analizleri, 
+matris 
+normlarının 
+kullanılmasını 
+gerektirdiği için bu tarz analizlerde de elde edilen 
+norm eşitsizliklerinden faydalanılabilinir.  
+
+Ayrıca, 
+
+‖𝐴𝑥𝑦‖𝐹  
+
+‖𝐴‖𝐹 = sup
+
+‖𝐴𝑥‖𝐹 
+
+‖𝑥‖𝐹 = sup
+
+(
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹
+‖𝑥‖𝐹 
+)  
+
+𝑥≠0
+
+𝑥≠0
+
+Sonuç olarak, birçok farklı kullanım alanı olan matris 
+normları için matris norm eşitsizlikleri 3-boyutlu 
+matrisler için de gösterilerek farklı ve yeni bir boyut 
+kazanmış oldu. Böylece tek bir norm hesaplanarak 
+diğer normların yaklaşık değerleri hakkında fikir 
+sahibi olunacaktır. Bunların bir sonucu olarak da, 
+
+            ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖𝐹  
+‖𝑥‖∞
+
+)  
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑠‖𝑦‖∞ 
+
+           = sup
+
+(√𝑠∙sup
+
+‖𝐴𝑥𝑦‖𝐹  
+‖𝑥‖∞ ‖𝑦‖∞)  
+
+𝑥≠0
+
+𝑦≠0
+
+911 
+
+ 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+sup
+𝑦≠0
+
+‖𝑦‖∞ 
+‖𝑥‖∞ 
+)  
+
+‖𝐴𝑥𝑦‖𝐹  
+
+≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖∞  
+‖𝑥‖1
+
+)  
+
+= sup
+
+𝑥≠0
+
+(√𝑠∙
+
+𝑥≠0
+
+𝑦≠0
+
+𝑛‖𝑦‖1
+
+‖𝐴𝑥𝑦‖𝐹 
+
+= sup
+
+(𝑛∙sup
+
+‖𝐴𝑥𝑦‖∞  
+‖𝑥‖1 ‖𝑦‖1)  
+
+≤sup
+
+(𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹 
+‖𝑥‖∞ 
+)  
+
+𝑥≠0
+
+𝑦≠0
+
+𝑥≠0
+
+= sup
+
+(𝑛∙
+
+sup
+𝑦≠0
+
+‖𝑦‖1 
+‖𝑥‖1 
+)  
+
+‖𝐴𝑥𝑦‖∞  
+
+= sup
+
+ (𝑠∙
+
+‖𝐴𝑥‖𝐹 
+
+‖𝑥‖∞ ) ≤sup
+
+ (𝑠√𝑚∙
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞ )  
+
+𝑥≠0
+
+𝑥≠0
+
+‖𝐴𝑥‖∞ 
+
+𝑥≠0
+
+≤sup
+
+(𝑛𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖∞ 
+‖𝑥‖1 
+)  
+
+‖𝐴𝑥𝑦‖∞ 
+
+= 𝑠√𝑚∙sup
+
+𝑥≠0
+
+‖𝑥‖∞ = 𝑠√𝑚‖𝐴‖∞.  
+
+𝑥≠0
+
+Bu sebeple, ‖𝐴‖𝐹 ≤𝑠√𝑚‖𝐴‖∞  elde edilir. 
+
+= sup
+
+(𝑛𝑠∙
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖1 ) ≤sup
+
+ (𝑛𝑠2 ∙
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖1 )  
+
+Sonuç olarak elde etmiş olduğumuz bu iki eşitsizliği 
+
+𝑥≠0
+
+𝑥≠0
+
+birleştirirsek, 
+
+1
+𝑠√𝑛‖𝐴‖∞≤‖𝐴‖𝐹 ≤ 𝑠√𝑚‖𝐴‖∞ elde 
+
+= 𝑛𝑠2 ∙sup
+
+𝑥≠0
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖1 = 𝑛𝑠2 ‖𝐴‖1  
+
+edilir. ∎ 
+
+kısaca, ‖𝐴‖∞ ≤𝑛𝑠2‖𝐴‖1  eşitsizliğine ulaşılır. ∎ 
+
+İspat.(4) 𝐴єℂ𝑚𝑥𝑛𝑥𝑠,𝑥єℂ𝑛𝑥1𝑥𝑠,𝑦єℂ𝑠𝑥1, 𝐴𝑥єℂ𝑚𝑥1𝑥𝑠  
+ve 𝐴𝑥𝑦єℂ𝑚𝑥1olsun.  
+𝑣єℂ𝑛 vektör ve 𝑀єℂ𝑚𝑥𝑛2-boyutlu bir matris olmak 
+üzere, 
+
+İspat.(5) 𝐴єℂ𝑚𝑥𝑛𝑥𝑠,𝑥єℂ𝑛𝑥1𝑥𝑠,𝑦єℂ𝑠𝑥1, 𝐴𝑥єℂ𝑚𝑥1𝑥𝑠  
+ve 𝐴𝑥𝑦єℂ𝑚𝑥1olsun. 
+𝑀єℂ𝑚𝑥𝑛 2-boyutlu bir matris ve 𝑣єℂ𝑛  bir vektör 
+olmak üzere, 
+
+ 1
+
+𝑚‖𝑀‖1 ≤‖𝑀‖∞≤ 𝑛‖𝑀‖1 
+
+ 1
+
+‖𝑣‖1 ≤‖𝑣‖∞≤ 𝑛‖𝑣‖1  
+
+√𝑚
+
+‖𝑀‖1 ≤‖𝑀‖𝐹≤ √𝑛‖𝑀‖1 
+
+olduğu bilinmektedir ve bu eşitsizlikler gerekli 
+düzenlemelerin 
+yapılmasının 
+ardından 
+kanıt 
+aşağıdaki gibi sunulmuştur. 
+
+‖𝑣‖2 ≤‖𝑣‖1 ≤ √𝑛‖𝑣‖2 ve ‖𝑦‖𝐹= ‖𝑦‖2 
+
+olduğu bilinmektedir. Bu eşitsizlikler ışığı altında 
+aşağıdaki ispat yapılmıştır. 
+
+‖𝐴‖1 = sup
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖1 = sup
+
+(
+
+sup
+𝑦≠0
+
+‖𝑦‖1
+‖𝑥‖1
+)  
+
+‖𝐴𝑥𝑦‖1  
+
+‖𝐴‖1 = sup
+
+‖𝐴𝑥‖1
+
+‖𝑥‖1  = sup
+
+(
+
+sup
+𝑦≠0
+
+‖𝑦‖1
+‖𝑥‖1
+)  
+
+‖𝐴𝑥𝑦‖1 
+
+𝑥≠0
+
+𝑥≠0
+
+𝑥≠0
+
+𝑥≠0
+
+    ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖1  
+‖𝑥‖∞
+
+𝑠
+ ‖𝑦‖∞
+
+)  
+
+            ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖1  
+‖𝑥‖𝐹
+
+)  
+
+𝑥≠0
+
+𝑦≠0
+
+𝑠
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑠 ‖𝑦‖𝐹
+
+    = sup
+
+(𝑠2 ∙sup
+
+‖𝐴𝑥𝑦‖1  
+‖𝑥‖∞ ‖𝑦‖∞)  
+
+           = sup
+
+(√𝑠∙sup
+
+‖𝐴𝑥𝑦‖1
+‖𝑥‖𝐹 ‖𝑦‖𝐹)  
+
+𝑥≠0
+
+𝑦≠0
+
+‖𝐴𝑥𝑦‖1  
+
+𝑥≠0
+
+𝑦≠0
+
+    = sup
+
+(𝑠2 ∙
+
+sup
+𝑦≠0
+
+‖𝑦‖∞ 
+‖𝑥‖∞ 
+)  
+
+           = sup
+
+(√𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹 
+‖𝑥‖𝐹 
+)  
+
+‖𝐴𝑥𝑦‖1  
+
+𝑥≠0
+
+𝑥≠0
+
+    ≤sup
+
+(𝑠2 ∙
+
+sup
+𝑦≠0
+
+‖𝑦‖1 
+‖𝑥‖∞ 
+)  
+
+‖𝐴𝑥𝑦‖1 
+
+          ≤sup
+
+(𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖1 
+‖𝑥‖𝐹 
+)  
+
+‖𝐴𝑥𝑦‖1 
+
+𝑥≠0
+
+𝑥≠0
+
+    = sup
+
+ (𝑠2 ∙
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖∞ ) ≤sup
+
+ (𝑠2𝑚∙
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞ )  
+
+           = sup
+
+𝑥≠0
+
+(𝑠∙
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖𝐹 )  
+
+    = 𝑠2𝑚∙sup
+
+𝑥≠0
+
+‖𝐴𝑥‖∞ 
+
+‖𝑥‖∞ = 𝑠2𝑚‖𝐴‖∞.  
+
+𝑥≠0
+
+          ≤sup
+
+(𝑠√𝑚∙
+
+‖𝐴𝑥‖𝐹 
+
+‖𝑥‖𝐹)  
+
+   𝑥≠0
+
+𝑥≠0
+
+Yani, ‖𝐴‖1 ≤𝑚𝑠2‖𝐴‖∞  eşitsizliği elde edillir. 
+Diğer taraftan, 
+
+ 
+
+          = 𝑠√𝑚∙sup
+
+‖𝐴𝑥‖𝐹 
+
+‖𝑥‖𝐹 = 𝑠√𝑚‖𝐴‖𝐹.  
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖∞ 
+
+ 𝑥≠0
+
+‖𝐴‖∞ = sup
+
+𝑥≠0
+
+‖𝐴𝑥‖∞
+
+‖𝑥‖∞ = sup
+
+𝑥≠0
+
+(
+
+‖𝑦‖∞
+‖𝑥‖∞
+)  
+
+Böylece, ‖𝐴‖1 ≤𝑠√𝑚‖𝐴‖𝐹  elde eldilir. 
+
+912 
+
+ 
+
+3-Boyutlu Matrislerde Norm Eşitsizlikleri ve Uygulamaları, İzgi ve Özkaya 
+
+Üst sınır bulmak için ise, 
+
+Li R.,1998. Relative Perturbation Theory, SIAM. J. Matrix 
+
+‖𝐴‖𝐹 = sup
+
+‖𝐴𝑥‖𝐹
+
+‖𝑥‖𝐹 = sup
+
+(
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹
+‖𝑥‖𝐹
+)  
+
+‖𝐴𝑥𝑦‖𝐹 
+
+Anal. & Appl., 19(4), 956–982, 27. 
+ 
+Whitaker B. M., Anderson D. V., August 2015  Learning 
+
+𝑥≠0
+
+𝑥≠0
+
+    ≤sup
+
+(sup
+
+‖𝐴𝑥𝑦‖𝐹  
+‖𝑥‖1
+
+)  
+
+anomalous features via sparse coding using matrix 
+norms. Signal Processing and Signal Processing 
+Education Workshop (SP/SPE), IEEE. 
+ 
+Wilkinson 
+D.M.,2005. 
+Moment 
+Instabilities 
+in 
+Multidimesional Systems with Noise, The European 
+Physical Journal B-Condensed Matter and Complex 
+Systems, 43, Issue 2, 221-242. 
+ 
+Zielke G, November 1988. Linear Algebra and its 
+
+𝑥≠0
+
+𝑦≠0
+
+√𝑛
+
+ ‖𝑦‖1
+
+ √𝑠
+
+    = sup
+
+𝑥≠0
+
+(√𝑛𝑠∙sup
+
+𝑦≠0
+
+‖𝐴𝑥𝑦‖𝐹
+‖𝑥‖1 ‖𝑦‖1)  
+
+sup
+𝑦≠0
+
+‖𝐴𝑥𝑦‖𝐹  
+
+    = sup
+
+𝑥≠0
+
+(√𝑛𝑠∙
+
+‖𝑦‖1 
+‖𝑥‖1
+)  
+
+‖𝐴𝑥𝑦‖𝐹 
+
+    ≤sup
+
+(√𝑛𝑠∙
+
+sup
+𝑦≠0
+
+‖𝑦‖𝐹 
+‖𝑥‖1 
+)  
+
+𝑥≠0
+
+‖𝐴𝑥‖𝐹 
+
+‖𝐴𝑥‖1
+
+Applications, 110, Elsevier Inc. 29-41. 
+ 
+
+   = sup
+
+𝑥≠0
+
+ (√𝑛𝑠∙
+
+‖𝑥‖1 ) ≤sup
+
+𝑥≠0
+
+ (𝑠√𝑛∙
+
+‖𝑥‖1 )  
+
+   = 𝑠√𝑛∙sup
+
+‖𝐴𝑥‖1 
+
+‖𝑥‖1 = 𝑠√𝑛‖𝐴‖1  
+
+𝑥≠0
+
+olur ve son olarak ‖𝐴‖𝐹 ≤𝑠√𝑛‖𝐴‖1  eşitsizliği elde 
+
+1
+𝑠√𝑚‖𝐴‖1 ≤‖𝐴‖𝐹 ≤ 𝑠√𝑛‖𝐴‖1 
+
+edilir. 
+Böylece 
+
+eşitsizliğinin de ispatı tamamlanmış olur. ∎ 
+
+Kaynaklar 
+
+Aubry A., De Maio A., Carotenuto V., July 2013. 
+
+Optimality Claims for the FML Covariance Estimator 
+with respect to Two Matrix Norms. IEEE Transactions 
+on Aerospace and Electronic Systems, 49, Issue: 3, 
+2055-2057.  
+ 
+Duran A., İzgi B., 2014. Solution Behavior of Heston 
+
+Model Using Impression Matrix Norm, Advances in 
+Applied Mathematics  Springer, Cham. 215-221. 
+ 
+Duran A., İzgi B., 2015. Application of the Heston 
+
+stoctastic volatility model for Borsa Istanbul using 
+impression matrix norm, Journal of Comput. and Appl. 
+Math., 281, 126-134. 
+ 
+Golub G.H., Val Loan C. F., 1996, Matrix Computations, 
+
+The Johns Hopkins University Press, 56-57. 
+ 
+İzgi B., 2015. Behavioral Classification of Stochastic 
+
+Differential Equations in Mathematical Finance, PhD 
+Thesis, Istanbul Technical University. 
+ 
+Kloeden P.E., Platen E., Schurz H.,2003. Numerical 
+
+Solution of SDE through Computer Experiments, 
+Springer, Berlin. 
+ 
+
+913 
+
+ 
+

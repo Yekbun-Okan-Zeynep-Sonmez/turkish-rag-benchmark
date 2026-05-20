@@ -1,0 +1,1125 @@
+Süleyman Demirel University Faculty of Arts and Sciences Journal of Science 
+
+Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi 
+
+2018, 13(2): 54-66 
+
+DOI: 10.29233/sdufeffd.444816 
+
+ 
+
+181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+ 
+Hasan ÖZDOĞAN*1 
+
+ 
+ 
+1Akdeniz Üniversitesi, Tıp Fakültesi, Biyofizik Anabilim Dalı, 07070, Antalya, Türkiye 
+
+*yazışılan yazar e-posta: hasanozdogan@akdeniz.edu.tr 
+ 
+(Alınış: 17.07.2018, Kabul: 18.09.2018, Yayımlanma: 30.11.2018) 
+
+ 
+Özet: Optiksel model, nükleer reaksiyonları açıklamak için geliştirilen modellerden birisidir. 
+Soğurma etkilerinin var olması halinde elastik saçılmayı genel bir yolla inceleyebilmemizi sağlar. 
+Optiksel model potansiyeli; bileşik ve denge-öncesi nükleer reaksiyonların tesir kesitlerinin açılan 
+reaksiyon kanallarına nasıl dağılacağını belirlediğinden dolayı, nükleer reaksiyonlar için oldukça 
+önemlidir. Optiksel model potansiyeli ile birlikte; seviye yoğunluğu bilgisi, tesir kesiti, enerji 
+spektrumu ve diğer gözlenebilir nükleer reaksiyon değerlerinin güvenilir teorik analizi için belki 
+de en önemli bileşendir. Bu çalışmada, 181Ta(α,n)184Re, 181Ta(α,2n)183Re, 181Ta(α,3n)182Re ve 
+181Ta(α,4n)181Re reaksiyon tesir kesitleri farklı seviye yoğunluğu ve optiksel modeller 
+kullanılarak hesaplanmıştır. Hesaplamalarda optiksel modeller için, Watanabe düzeltmeli 
+Koning-Delaroche, McFadden- Satchler, Demetriou-Grama-Goriely ve Avrigeanu modelleri, 
+seviye yoğunluğu modelleri için Sabit Sıcaklık Fermi Gaz, Geri Kaydırmalı Fermi Gaz ve 
+Genelleştirilmiş Süper Akışkan modelleri kullanılmıştır. Tüm hesaplamalar TALYS 1.8 kodu ile 
+gerçekleştirilmiştir. Elde edilen sonuçlar Uluslararası Deneysel Nükleer Reaksiyon Data Merkezi 
+(EXFOR)’dan 
+alınan 
+verilerle 
+karşılaştırılmıştır. 
+Hesaplamaların 
+deneysel 
+verilerle 
+karşılaştırılmasında göreli varyans analizi kullanılmıştır.  
+ 
+Anahtar kelimeler: Optiksel model, Seviye yoğunluğu, Tesir kesiti, TALYS 1.8 
+
+ 
+
+ 
+
+Investigation cross sections of 181Ta(α,xn) reaction 
+
+ 
+Abstract: Optical model is one of the models developed to explain nuclear reactions. It allows us 
+to investigate the elastic scattering in the presence of absorption effects. The optical model is very 
+important for nuclear reactions, since it defines how the cross sections of compound and the pre-
+equilibrium nuclear reactions are separated to the opened reaction channels. Level density 
+information along with the optical model potential is perhaps the most important component for 
+reliable theoretical analysis of the cross section, energy spectrum and other observable nuclear 
+reaction values. In this study, cross section calculations have been done for 181Ta(α,n)184Re, 
+181Ta(α,2n)183Re, 181Ta(α,3n)182Re and 181Ta(α,4n)181Re reactions by using different level densities 
+and optical models. In the calculations Watanabe corrected Koning-Delaroche, McFadden- 
+Satchler, Demetriou-Grama-Goriely and Avrigeanu models have been used for optical models 
+while Constant Temperature Fermi Gas, Back-Shifted Fermi Gas and Generalised Superfluid 
+models have been selected for level density models. All calculations have been performed with 
+TALYS 1.8 code. Obtained results have been compared with the data taken from International 
+Experimental Nuclear Reaction Data Center (EXFOR). Relative analysis of variance has been 
+used in the comparison of the calculations with the experimental data. 
+ 
+Key words: Optical model, Level density, Cross section, TALYS 1.8 
+ 
+ 
+ 
+ 
+
+ 
+Atıf için: H. Özdoğan, “181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi”, Süleyman 
+Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi, 13(2), 54-66, 2018. 
+
+54 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+1. Giriş 
+ 
+Teorik nükleer modeller, deneysel verilerin olmadığı durumlarda araştırmacılara yön 
+göstermesi açısından oldukça önemlidir. Deneysel verilerle uyumlu bir modelin 
+geliştirilmesi, temel nükleer fizik problemlerinin çözümü için büyük bir önem 
+taşımaktadır. Nükleer reaksiyonları açıklamak için geliştirilen modellerden birisi, 
+optiksel modeldir. Bu model; ışık dalgalarının, soğurucu ve kırıcı bir top tarafından klasik 
+saçılmasına benzetildiği için optiksel model olarak isimlendirilir [1].  Optiksel modelde 
+toplam etkileşim potansiyeli komplekstir. Optiksel model potansiyeli; bileşik ve denge-
+öncesi nükleer reaksiyonların tesir kesitlerinin açılan reaksiyon kanallarına nasıl 
+dağılacağını belirlediğinden dolayı, nükleer reaksiyonlar için oldukça önemlidir.  
+ 
+Seviye yoğunluğu, MeV başına düşen nükleer enerji seviyelerinin sayısı olarak 
+tanımlanabilir ve 𝜌 ile gösterilir. Optiksel model potansiyeli ile birlikte; seviye yoğunluğu 
+bilgisi, tesir kesiti, enerji spektrumu ve diğer gözlenebilir nükleer reaksiyon değerlerinin 
+güvenilir teorik analizi için belki de en önemli bileşendir. Çekirdeğin uyarılmış seviyeleri 
+düşük uyarılma enerjilerinde gözle sayılabilirken, artan uyarılma enerjilerinde bu 
+seviyeler sıklaşır ve sürekli bir dağılım gösterir. Bu durumda, uyarılmış seviyeleri ifade 
+etmek için bir seviye yoğunluğu fonksiyonuna ihtiyaç vardır [2]. 
+ 
+Teknoloji ve bilgisayar sistemlerindeki gelişmeler, sanal olarak nükleer fizik 
+laboratuvarlarının kurulmasını ve yapılmak istenen deney ve hesaplamaların bilgisayar 
+ortamında gerçekleştirilmesini mümkün kılmaktadır. Bir nükleer reaksiyonun 
+gerçekleşme ihtimalini ortaya koyan tesir kesiti ve reaksiyon sonucu açığa çıkan 
+parçacıkların enerji spektrumları hesaplayabilmek için, ALICE/ASH, PCROSS, 
+EMPIRE ve TALYS gibi birçok bilgisayar kodu kullanılmaktadır [3-15]. Bu çalışmada 
+kullanılan TALYS 1.8 kodu deneysel verilerle oldukça uyumlu sonuçlar veren bir 
+programdır [16-18]. TALYS kodu seviye farklı seviye yoğunluğu modellerine bağlı tesir 
+kesiti hesaplamaları yapabilen ve seviye yoğunluğu parametrelerinin değişimine izin 
+veren bir programdır [19-21]. 
+ 
+Bu çalışmada, 181Ta(α,n)184Re, 181Ta(α,2n)183Re, 181Ta(α,3n)182Re ve 181Ta(α,4n)181Re 
+reaksiyonları için farklı optiksel modeller kullanılarak reaksiyon tesir kesitleri 
+hesaplanmış, EXFOR [22]’den alınan verilerle en uyumlu optiksel model için farklı 
+seviye yoğunluğu modelleri karşılaştırılmıştır. Hesaplamalarda TALYS 1.8 [23] kodu, 
+istatistiksel hesaplamalar için ise göreli varyans analizi [24] kullanılmıştır. Optiksel 
+model hesaplamaları için, Watanabe düzeltmeli Koning Delaroche, Mc Fadden Satchler, 
+Demetriou, Grama ve Goriely, Avrigeanu potansiyelleri kullanılmıştır. Seviye 
+yoğunluğuna bağlı hesaplamalarda ise; Sabit Sıcaklık Fermi Gaz Modeli (SFGM), Geri 
+Kaydırmalı Fermi Gaz Modeli (GFGM) ve Genelleştirilmiş Süper Akışkan Modeli 
+(GSM) kullanılmıştır.  
+ 
+2. Materyal ve Metot 
+ 
+Tesir kesiti hesaplamaları İki Bileşenli Eksiton Modeli [23]’e göre gerçekleştirilmiştir. 
+Bu modelin Griffin Eksiton Modeli [26]’dan farkı; parçacık ve deşik çiftlerinin hangi 
+nükleona ait olduğu göz önünde bulundurmasıdır. 
+ 
+TALYS 1.8 alfa optiksel model için ön tanımlı olarak Watanabe Düzeltmeli Koning-
+Delaroche potansiyelini kullanmaktadır. Nükleon çekirdek saçılması için fenomenolojik 
+optiksel model potansiyeli U; 
+
+55 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+ 
+
+𝑈(𝑟, 𝐸) = −𝑉𝑣(𝑟, 𝐸) −𝑖𝑊𝑣(𝑟, 𝐸) −𝑖𝑊𝐷(𝑟, 𝐸) + 𝑉𝑆𝑂(𝑟, 𝐸). 1. 𝜎+ 𝑖𝑊𝑆𝑂(𝑟, 𝐸). 1. 𝜎+   𝑉𝐶(𝑟, 𝐸) (1) 
+
+ 
+olarak verilir. Burada; 𝑉𝑉,𝑆𝑂 ve 𝑊𝑉,𝐷,𝑆𝑂 hacim, yüzey ve spin potansiyellerinin gerçek ve 
+sanal kısımlarını, E ise laboratuvar sistemindeki parçacık enerjisini ifade etmektedir. 
+Bütün parametreler, enerji bağımlı ve enerji bağımsız radyal potansiyel kuyularında 
+bulunmaktadır. Alfa parçacığı için, Watanabe düzeltmeli Koning-Delaroche optik 
+potansiyeli 
+ 
+
+𝑝𝑟𝑜𝑡𝑜𝑛(𝐸/4) 
+ 
+𝑊𝑉
+
+𝑉𝑉
+
+𝑎𝑙𝑓𝑎(𝐸) = 2𝑉𝑉
+
+𝑛ö𝑡𝑟𝑜𝑛(𝐸/4) + 2𝑉𝑉
+
+𝑝𝑟𝑜𝑡𝑜𝑛(𝐸/4) 
+ 
+𝑊𝐷
+
+𝑎𝑙𝑓𝑎(𝐸) = 2𝑊𝑉
+
+𝑛ö𝑡𝑟𝑜𝑛(𝐸/4) + 2𝑊𝑉
+
+(2) 
+
+𝑎𝑙𝑓𝑎(𝐸) = 2𝑊𝐷
+
+𝑝𝑟𝑜𝑡𝑜𝑛(𝐸/4) 
+ 
+𝑉𝑆𝑂
+
+𝑛ö𝑡𝑟𝑜𝑛(𝐸/4) + 2𝑊𝐷
+
+𝑎𝑙𝑓𝑎(𝐸) = 𝑊𝑆𝑂
+
+𝑎𝑙𝑓𝑎(𝐸) = 0 
+ 
+
+ 
+olarak verilir [23,26]. 
+ 
+Genel olarak, geliştirilen alfa optiksel model potansiyelleri 50 MeV derinliğindeki 
+potansiyel kuyularına odaklanmıştır. Ancak, alfa saçılmasının dört tane nükleon çekirdek 
+etkileşiminin üst üste binmesi olarak yorumlayabileceği böylece potansiyel kuyusunun 
+derinliğinin yaklaşık olarak 200 MeV olacağını düşünen McFadden ve Satchler, 24,7 
+MeV enerjili alfa parçacığının esnek saçılmasını inceleyerek optiksel model 
+geliştirmişlerdir.  Optiksel model potansiyelini; 
+ 
+
+𝑈(𝑟) = −𝑉(𝑒𝑥+ 1)−1 −𝑖𝑊(𝑒𝑥′ + 1)−1 
+(3) 
+ 
+olarak tanımlamışlardır.  Burada x ve 𝑥′; 
+ 
+
+𝑥= (𝑟−𝑟0𝐴1/3)
+
+𝑎
+ 
+(4) 
+
+ 
+
+𝑥′ = (𝑟−𝑟′0𝐴1/3)
+
+𝑎′
+ 
+(5) 
+
+ 
+olarak verilir [27]. Denklem [4, 5]’deki, 𝑎 ve 𝑎′ difüzyon parametreleridir. 
+ 
+Çoğu nükleer astrofizik uygulaması, radyoaktif α parçacık yakalamaları, α bozunumları 
+ve α parçacık aktarım reaksiyonlarını içerir. Hauser-Feshbach'ın istatistiksel modelinin 
+teorik tahminleri, özellikle Coulomb bariyerinin çok altındaki düşük enerjilerdeki α 
+çekirdek optiksel model potansiyelinin yetersiz bilgisinden dolayı, belirsizliğini 
+korumaktadır. Demetriou ve arkadaşları; α çekirdek etkileşimini karakterize eden güçlü 
+enerji bağımlılığını ve nükleer yapı etkilerini hesaba katan yeni bir küresel α optik 
+potansiyeli ortaya koymuşlardır.  Optiksel potansiyel; 𝑉𝐶(𝑟) coloumb potansiyeli  𝑉(𝑟) 
+ve 𝑊(𝑟) reel ve sanal bileşenler olmak üzere, 
+ 
+
+𝑈(𝑟) = 𝑉𝐶(𝑟) + 𝑉(𝑟) + 𝑖𝑊(𝑟) 
+(6) 
+
+56 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+ 
+olarak tanımlanmıştır.  Optiksel potansiyelin reel kısmı;  
+ 
+
+𝑉(𝑟) = 𝜆∬𝜌𝑝(𝑟𝑝)𝜌𝑇(𝑟𝑇) × 𝜐𝑒𝑓𝑓(𝐸, 𝜌= 𝜌𝑝+ 𝜌𝑇, 𝑠= |𝑅⃗ + 𝑟 𝑝−𝑟 𝑇|) 𝑑3𝑟𝑝𝑑3𝑟𝑇 
+(7) 
+
+ 
+olarak verilir. Burada; 𝜆 deneysel verilerden elde edilen parametre,  𝜌𝑝(𝑟𝑝) ve 𝜌𝑇(𝑟𝑇) 
+sırasıyla mermi ve hedef çekirdeklerin yoğunluklarını,  𝑅⃗  mermi ve hedef çekirdeğin kütle 
+merkezleri arasındaki vektör; 𝜐𝑒𝑓𝑓 ise, nükleon-nükleon etkileşimi potansiyelidir.  Sanal 
+kısım ise, sadece hacim terimi içerir ve şu şekilde verilir. 
+ 
+
+𝑊(𝑟; 𝐸) = 𝑊0,𝜈𝐹(𝐸)𝑓𝜈(𝑟) 
+(8) 
+ 
+
+𝑓𝜈(𝑟) =
+1
+
+1 + exp ((𝑟−𝑟𝜈𝐴1/3)/𝑎𝜐) 
+(9) 
+
+ 
+𝐹(𝐸) enerji bağımlılığını ifade ederken, hacim teriminin geometrik parametreleri 𝑎𝜐 ve 
+𝑟𝜈 A kütle numarasını belirtmek üzere, 
+ 
+
+𝑟𝜈= 𝐵0 + 𝐵1𝐴+ 𝐵2𝐴2 + 𝐵3𝐴3 + 𝐵4𝐴4 
+(10) 
+ 
+
+𝑎𝜈= 𝐶0 + 𝐶1𝐴+ 𝐶2𝐴2 + 𝐶3𝐴3 + 𝐶4𝐴4 
+(11) 
+ 
+olarak hesaplanır. Burada, B ve C katsayıları deneysel verilere fit edilerek bulunur [28]. 
+ 
+Avrigeanu ve arkadaşları yaptıkları çalışmada, 121 ≤𝐴≤197 kütle numarası 
+aralığındaki çekirdekler üzerinde Coloumb engeli altında gelme enerjisine sahip (α,x) 
+reaksiyonları için mevcut tüm reaksiyon kanallarını ait tesir kesitlerinin analizi 
+yapmışlardır. Yüzeysel sanal potansiyel derinliğinin enerji bağımlılığının, Coloumb 
+engelinin altındaki α parçacık etkileşim davranışının anlaşılması için gerekli olduğunu 
+ortaya koymuşlardır. Optiksel potansiyel denklemleri;  
+ 
+
+1
+3 −2,64𝐸
+⁄
+,
+𝐸≤𝐸3 
+(12) 
+ 
+
+𝑉𝑅= 165 + 0,733 𝑍𝐴
+
+1
+3 −0,453𝐸
+⁄
+,
+𝐸> 𝐸3 
+(13) 
+ 
+
+𝑉𝑅= 116,5 + 0,337 𝑍𝐴
+
+1
+3 + 1,11𝐸 
+(14) 
+ 
+
+𝑊𝑉= 2,73 −2,88𝐴
+
+2,5 ± 1.0,                                                             𝐸≤𝐸1
+
+𝑊𝐷= {
+
+22,2 + 4,57𝐴
+
+1
+3 −7,446𝐸2 + 6𝐸,             𝐸1 < 𝐸≤𝐸2
+
+ 
+(15) 
+
+22,2 + 4,57𝐴
+
+1
+3 −1,446𝐸,                              𝐸> 𝐸2
+
+ 
+olarak verilir. Burada; 
+ 
+
+1 3
+⁄ + 1,24𝐸2 
+(16) 
+ 
+
+𝐸1 = −3,28 −0,762𝐴
+
+𝐸2 = (2,59 + 10,4 𝐴
+⁄ )𝑍(2,66 + 1,36𝐴
+
+1 3
+⁄ )
+⁄
+ 
+(17) 
+
+57 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+ 
+
+𝐴1 3
+⁄
+⁄
+ 
+(18) 
+ 
+olarak verilmiştir [29]. 
+ 
+Yaygın olarak kullanılan çoğu seviye yoğunluğu modeli, çekirdeğin uyarılmış 
+seviyelerinin eşit aralıklı olduğu ve kolektif seviyelerinin bulunmadığı tek parçacık 
+durumu varsayımına dayanan Fermi Gaz Modeli’ne [30] dayanır. Fermi Gaz Modeli 
+yüksek enerjilerde deneysel verilerle uyum sağlarken, düşük enerjilerde deneyleri 
+açıklamada başarısız olmaktadır. TALYS 1.8’in ön tanımlı olarak kullandığı, SFGM’de 
+[31], uyarılma enerjisi ikiye ayrılmıştır. Birinci aralık; sabit sıcaklık yasalarının geçerli 
+olduğu, 0 MeV ile eşleşme enerjisi EM’ ye kadar olan düşük enerji bölgesidir. EM’ nin 
+üstünde kalan daha yüksek enerji bölgesinde ise Fermi Gaz Modeli uygulanır. GFGM’de 
+eşleşme enerjisi ayarlanabilir parametre gibi davranır. Fermi Gaz ifadesi, 0 MeV’e kadar 
+olan tüm yol boyunca kullanılır. GSM’de süper akışkan davranışı gösteren düşük enerjili 
+bölgeden, GFGM tarafından tanımlanan yüksek enerji bölgesine faz geçişleri ile 
+karakterize edilir. GSM, SFGM’deki gibi uyarılma enerjisini düşük ve yüksek enerji 
+bölgesine ayırmasına rağmen, SFGM gibi spesifik ayrık seviyelerden gelen eşleştirme 
+enerjisi bulmayı gerektirmez [32]. 
+ 
+Hesaplanan tesir kesiti verilerinin deneysel sonuçlarla karşılaştırılması göreli varyans 
+analizi, D, [33] kullanılarak gerçekleştirilmiştir.  
+ 
+
+𝐸3 = 22,2 + 0,181 𝑍
+
+𝑑𝑒𝑛𝑒𝑦𝑠𝑒𝑙
+𝑁
+
+𝐷= 1
+
+𝑁∑|𝜎𝑖
+
+𝑡𝑒𝑜𝑟𝑖𝑘−𝜎𝑖
+
+𝑑𝑒𝑛𝑒𝑦𝑠𝑒𝑙|/𝜎𝑖
+
+ 
+(19) 
+
+ 
+Burada; σteorik TALYS 1.8 hesaplama sonuçlarını, σdeneysel ise EXFOR verilerini ifade 
+etmektedir. En küçük D değeri, en uyumlu sonucu belirtmektedir. 
+ 
+Bu çalışmada, 181Ta(α,xn) reaksiyonuna ait tesir kesiti hesaplamaları farklı alfa optiksel 
+modellerine göre hesaplanarak analiz edilmiştir. Analiz sonucunda, en uyumlu bulunan 
+alfa optiksel model için seviye yoğunluğu modellerinin tesir kesiti değerlerine etkisi 
+araştırılmıştır. 
+ 
+3. Bulgular 
+ 
+181Ta(α,n)184Re, 181Ta(α,2n)183Re, 181Ta(α,3n)182Re ve 181Ta(α,4n)181Re reaksiyonlarına 
+ait hesaplanan tesir kesitlerinin EXFOR’dan alınan verilerle karşılaştırılması Şekil 1-8’de 
+verilmiştir. Tablo 1 ve 2’de ise göreli varyans analizi sonuçları yer almaktadır. 
+ 
+
+𝑖=1
+
+ 
+
+58 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+50
+
+45
+
+Re
+  N.L.Singh vd., 1994
+ M.J.Ozafran  vd., 1993
+ N.E.Scott vd., 1968
+ TALYS 1.8 (Koning-Delaroche Potansiyeli)
+ TALYS 1.8 (McFdden-Satchler Potansiyeli)
+ TALYS 1.8 (Demetriou,Grama ve Goriely Potansiyeli)
+ TALYS 1.8 (Avrigeanu Potansiyeli)
+
+181Ta(n
+
+40
+
+35
+
+Tesir Kesiti(mb)
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+5
+25
+45
+65
+85
+
+Alfa Enerjisi (MeV)
+
+ 
+Şekil 1. 181Ta(α,n)184Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir kesitlerinin 
+
+deneysel verilerle karşılaştırılması 
+ 
+
+ 
+
+50
+
+45
+
+Re
+  N.L.Singh vd., 1994
+ M.J.Ozafran  vd., 1993
+ N.E.Scott vd., 1968
+ TALYS 1.8 (SFGM)
+ TALYS 1.8 (GFGM)
+ TALYS 1.8 (GSM)
+
+40
+
+181Ta(n
+
+35
+
+Tesir Kesiti(mb)
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+5
+25
+45
+65
+85
+
+Alfa Enerjisi (MeV)
+
+  
+Şekil 2. 181Ta(α,n)184Re reaksiyonu için farklı seviye yoğunluğu modellerine göre hesaplanan tesir 
+
+kesitlerinin deneysel verilerle karşılaştırılması 
+
+ 
+
+59 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+1200
+
+183Re
+  H.B.Patel vd., 1999
+  M.Ismail 1998
+  A.V.Mohan Rao vd., 1994
+  N.L.Singh vd., 1994
+  A.V.Mohan Rao vd., 1991
+ F.Hermes vd., 1974
+  N.E.Scott vd., 1968
+ TALYS 1.8 (Koning-Delaroche Potansiyeli)
+ TALYS 1.8 (McFdden-Satchler Potansiyeli)
+ TALYS 1.8 (Demetriou,Grama ve Goriely Potansiyeli)
+ TALYS 1.8 (Avrigeanu Potansiyeli)
+
+181Ta(2n)
+
+900
+
+Tesir Kesiti (mb)
+
+600
+
+300
+
+0
+
+14
+23
+32
+41
+50
+59
+68
+
+Alfa Enerji (MeV)
+
+ 
+Şekil 3. 181Ta(α,2n)183Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir kesitlerinin 
+
+deneysel verilerle karşılaştırılması 
+ 
+ 
+
+1200
+
+183Re
+  H.B.Patel vd., 1999
+  M.Ismail 1998
+  A.V.Mohan Rao vd., 1994
+  N.L.Singh vd., 1994
+  A.V.Mohan Rao vd., 1991
+ F.Hermes vd., 1974
+  N.E.Scott vd., 1968
+ TALYS 1.8 (SFGM)
+ TALYS 1.8 (GFGM)
+ TALYS 1.8 (GSM)
+
+181Ta(2n)
+
+900
+
+Tesir Kesiti (mb)
+
+600
+
+300
+
+0
+
+14
+23
+32
+41
+50
+59
+68
+
+Alfa Enerji (MeV)
+
+ 
+Şekil 4. 181Ta(α,2n)183Re reaksiyonu için farklı seviye yoğunluğu modellerine göre hesaplanan tesir 
+
+kesitlerinin deneysel verilerle karşılaştırılması 
+
+60 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+1200
+
+1000
+
+Re
+  F.Hermes vd., 1973
+ N.E.Scott vd., 1968
+ TALYS 1.8 (Koning-Delaroche Potansiyeli)
+ TALYS 1.8 (McFdden-Satchler Potansiyeli)
+ TALYS 1.8 (Demetriou,Grama ve Goriely Potansiyeli)
+ TALYS 1.8 (Avrigeanu Potansiyeli)
+
+181Ta(n
+
+800
+
+Tesir Kesiti(mb)
+
+600
+
+400
+
+200
+
+23
+29
+35
+41
+47
+53
+59
+0
+
+Alfa Enerjisi (MeV)
+
+ 
+Şekil 5. 181Ta(α,3n)182Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir kesitlerinin 
+
+deneysel verilerle karşılaştırılması 
+ 
+ 
+
+1200
+
+1000
+
+Re
+  F.Hermes vd., 1973
+ N.E.Scott vd., 1968
+ TALYS 1.8 (SFGM)
+ TALYS 1.8 (GFGM)
+ TALYS 1.8 (GSM)
+
+181Ta(n
+
+Tesir Kesiti(mb)
+
+800
+
+600
+
+400
+
+200
+
+23
+29
+35
+41
+47
+53
+59
+0
+
+Alfa Enerjisi (MeV)
+
+ 
+Şekil 6. 181Ta(α,3n)182Re reaksiyonu için farklı seviye yoğunluğu modellerine göre hesaplanan tesir 
+
+kesitlerinin deneysel verilerle karşılaştırılması 
+
+61 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+1200
+
+1300
+
+181Re
+  H.B.Patel vd., 1999
+  A.V.Mohan Rao vd., 1994
+  A.V.Mohan Rao vd., 1991
+ F.Hermes vd., 1974
+  N.E.Scott vd., 1968
+ TALYS 1.8 (Koning-Delaroche Potansiyeli)
+ TALYS 1.8 (McFdden-Satchler Potansiyeli)
+ TALYS 1.8 (Demetriou,Grama ve Goriely Potansiyeli)
+ TALYS 1.8 (Avrigeanu Potansiyeli)
+
+181Ta(4n)
+
+1100
+
+1000
+
+900
+
+Tesir Kesiti (mb)
+
+800
+
+600
+
+700
+
+500
+
+400
+
+300
+
+100
+
+200
+
+0
+
+34
+44
+54
+64
+74
+84
+
+Alfa Enerji (MeV)
+
+ 
+Şekil 7. 181Ta(α,4n)181Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir kesitlerinin 
+
+deneysel verilerle karşılaştırılması 
+ 
+ 
+
+1300
+
+1200
+
+1100
+
+181Re
+  H.B.Patel vd., 1999
+  A.V.Mohan Rao vd., 1994
+  A.V.Mohan Rao vd., 1991
+ F.Hermes vd., 1974
+  N.E.Scott vd., 1968
+ TALYS 1.8 (SFGM)
+ TALYS 1.8 (GFGM)
+ TALYS 1.8 (GSM)
+
+181Ta(4n)
+
+1000
+
+900
+
+Tesir Kesiti (mb)
+
+800
+
+700
+
+600
+
+400
+
+500
+
+300
+
+200
+
+100
+
+0
+
+34
+44
+54
+64
+74
+84
+
+Alfa Enerji (MeV)
+
+ 
+Şekil 8. 181Ta(α,4n)181Re reaksiyonu için farklı seviye yoğunluğu modellerine göre hesaplanan tesir 
+
+kesitlerinin deneysel verilerle karşılaştırılması 
+
+ 
+ 
+ 
+
+62 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+Tablo 1. Optiksel modellere göre hesaplanan tesir kesitlerinin istatistiksel analiz sonuçları 
+
+Watanebe 
+Düzeltmeli 
+
+McFadden-
+
+Demetriou, 
+
+Reaksiyon 
+
+Koning-
+Delaroche 
+
+Satchler 
+
+Grama ve 
+
+Avrigeanu 
+
+Goriely 
+
+(α,n) 
+0,4023 
+0,3863 
+0,4082 
+0,4039 
+
+(α,2n) 
+0,6221 
+0,6561 
+0,6384 
+0,6389 
+
+(α,3n) 
+0,9657 
+1,0037 
+1,0111 
+0,9001 
+
+(α,4n) 
+2,069 
+2,0613 
+2,0649 
+2,0347 
+
+ 
+
+Tablo 2. Seviye yoğunluğu modellerine göre hesaplanan tesir kesitlerinin istatistiksel analiz sonuçları 
+
+Reaksiyon 
+SFGM 
+GFGM 
+GSM 
+
+(α,n) 
+0,3863 
+0,3907 
+0,6635 
+
+(α,2n) 
+0,6221 
+0,5894 
+0,6688 
+
+(α,3n) 
+0,9001 
+0,7185 
+0,9034 
+
+(α,4n) 
+2,0347 
+1,6593 
+1,8931 
+
+ 
+4. Sonuç ve Yorum 
+ 
+Şekil 1’de 181Ta(α,n)184Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir 
+kesitlerinin deneysel verilerle karşılaştırılması verilmiştir. Genel olarak, tüm modeller 
+birbirine yakın sonuçlar vermişlerdir. Hesaplamalar maksimum değer dışında deneysel 
+verilerle uyum sağlamıştır. Tablo 1’den görüleceği üzere, McFadden-Satchler optiksel 
+modeli deneysel verilerle en uyumlu model olarak bulunmuştur.  
+ 
+Şekil 2’de 181Ta(α,n)184Re reaksiyonu için farklı seviye yoğunluğu modellerine göre 
+hesaplanan 
+tesir 
+kesitlerinin 
+deneysel 
+verilerle 
+karşılaştırılması 
+verilmiştir.  
+Hesaplamalarda alfa optiksel model olarak Şekil 1’de en uyumlu model olarak bulunan 
+McFadden-Satchler Modeli seçilmiştir. SFGM ve GFGM hesaplamalarının birbirlerine 
+yakın sonuçlar verdiği, GSM hesaplamalarının ise yaklaşık olarak 15-50 MeV aralığında 
+diğer iki modelden düşük sonuç verdiği gözlenmiştir. Tablo 2’de verilen istatistiksel 
+hesaplama sonucunda, SFGM’nin deneysel verilerle en uyumlu seviye yoğunluğu modeli 
+olduğu görülmüştür. 
+ 
+ 181Ta(α,2n)183Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir 
+kesitlerinin deneysel verilerle karşılaştırılması Şekil 3’de verilmiştir. Hesaplamaların 
+birbirlerine yakın sonuçlar verdiği görülmüştür. Tüm modeller yaklaşık olarak 30 MeV 
+enerjisine kadar deneysel verilerle uyum göstermiş, 30-45 MeV aralığında ise deneysel 
+verileri aşağıdan takip etmişlerdir. Tablo 1’de verilen analiz sonuçlarına göre en uyumlu 
+optiksel model Koning-Delaroche Modeli’dir. 
+ 
+Şekil 4’de, 181Ta(α,2n)183Re reaksiyonu için Koning-Delaroche optiksel modeli seçilerek 
+farklı seviye yoğunluğuna bağlı olarak hesaplanan tesir kesiti değerlerinin EXFOR 
+
+63 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+verileriyle karşılaştırılması verilmiştir. Tüm modellerin birbirine çok yakın sonuçlar 
+verdikleri ve deneysel verilerle benzer geometriye sahip oldukları görülmüştür. Analiz 
+sonucunda, GFGM en uyumlu model olarak bulunmuştur. 
+ 
+Farklı optiksel modellere göre hesaplanan 181Ta(α,3n)182Re reaksiyonu tesir kesitlerinin 
+deneysel verilerle karşılaştırılması Şekil 5’de verilmiştir. Tüm modellerin deneysel 
+verilerden farklı sonuçlar vermelerine rağmen, benzer geometriye sahip oldukları 
+gözlenmiştir. Tablo 1’de verilen analiz sonuçlarına göre Avrigeanu optiksel modeli 
+deneysel verilerle en uyumlu model olarak bulunmuştur.  
+ 
+181Ta(α,3n)182Re reaksiyonu için farklı seviye yoğunluğu modellerine göre hesaplanan 
+tesir kesitlerinin deneysel verilerle karşılaştırılması Şekil 6’da verilmiştir. SFGM ve GSM 
+hesaplamalarının benzer sonuçlar ortaya koyduğu, GFGM’in ise 35 MeV enerjisine kadar 
+diğer iki modelden düşük tesir kesiti değerleri hesapladığı gözlenmiştir. GFGM deneysel 
+verilerle en uyumlu seviye yoğunluğu modeli olarak bulunmuştur. 
+ 
+181Ta(α,4n)181Re reaksiyonu için farklı optiksel modellere göre hesaplanan tesir 
+kesitlerinin deneysel verilerle karşılaştırılması Şekil 7’de görülmektedir. Tüm modellerin 
+birbirlerine yakın sonuçlar verdikleri gözlenmiştir. Hesaplama sonuçlarının deneysel 
+verilerle benzer geometri sergiledikleri görülmüştür. Tablo 1’de görülen analiz 
+sonuçlarına göre Avrigeanu optiksel modeli deneysel verilerle en uyumlu model olarak 
+saptanmıştır.  
+ 
+Şekil 8’de 181Ta(α,4n)181Re reaksiyonu için farklı seviye yoğunluğu modellerine göre 
+hesaplanan 
+tesir 
+kesitlerinin 
+deneysel 
+verilerle 
+karşılaştırılması 
+verilmiştir. 
+Hesaplamalarda Avrigeanu optiksel modeli kullanılmıştır. Hesaplamalar birbirlerine 
+yakın tesir kesiti değerleri ortaya koymuştur. Tablo 2’de verilen analiz sonuçlarına göre 
+GFGM EXFOR verileriyle en uyumlu seviye yoğunluğu modeli olarak bulunmuştur. 
+ 
+Sonuç olarak, optiksel modeller kullanılarak gerçekleştirilen tesir kesiti hesaplamaları 
+üzerinde seviye yoğunluğu modellerinin etkisi olduğu gözlenmiştir. Kaplan yaptığı 
+çalışmada ön tanımlı olarak SFGM’yi kullanmış ve 181Ta(α,3n)182Re, 181Ta(α,4n)181Re 
+reaksiyon tesir kesiti hesaplamalarının deneysel verilerle uyumlu olduğunu göstermiştir 
+[34]. Bu çalışmada, seviye yoğunluğu modeli değiştirilince 181Ta(α,n)184Re reaksiyonu 
+dışındaki diğer reaksiyonların deneysel verilerle uyumu artmıştır. GFGM, bu çalışmada 
+deneysel verileri açıklamada en uyumlu model olarak bulunmuştur. Seviye yoğunluğu 
+modellerinin hesapladığı farklı seviye yoğunluğu parametrelerinin tesir kesiti 
+hesaplamaları üzerinde etkili olduğu bilinmektedir [19]. Bu çalışmada en uyumlu seviye 
+yoğunluğu olarak bulunan GFGM tarafından kullanılan parametrelerin talyum için 
+gerçekleştirilecek deneysel veya teorik hesaplamalarda araştırmacılara bir öngörü 
+sağlayacağı düşünülmektedir.   
+ 
+Kaynakça 
+ 
+[1] J. Lilley, “Nükleer Fizik İlkeler ve Uygulamalar,” A. Aydın, İ. H. Sarpün, E. Tel, A. Kaplan, Çeviri 
+
+Ed. Ankara: Nobel, 2018, pp. 106. 
+[2] B. Canbula, “Bazı tellür izotoplarının nötron yakalama tesir kesiti analizi,” CBÜ F Bil.Dergi, vol. 13, 
+
+no. 2, pp. 445-455, 2017. 
+[3] A. Kaplan, E. Tel, A. Aydin, “The Equilibrium and Pre-equilibrium Neutron Emission Spectra of Some 
+
+Structural Fusion Materials for (n,xn) Reactions up to 16 MeV Energy” Phys. Atom Nucl. vol. 72, pp. 
+903-910, 2009. 
+
+64 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+[4] H. A. Yalım, A. Aydin, İ. H. Sarpün, R. Ünal, B. Oruncak, A. Kaplan, E. Tel, “Investigation of Nucleon 
+
+Mean Free Path Dependence in Tritium Emission Spectra Produced by Proton Induced Reactions at 62 
+MeV”, J. Fusion Energ. vol. 29, pp. 55-61, 2010. 
+[5] A. Aydın, E. Tel, H. Pekdoğan, A. Kaplan, “Nuclear Model Calculations on the Production of 125,123Xe 
+
+and 133,131,129,128Ba Radioisotopes”, Phys. Atom Nucl. vol. 75, pp. 310-314, 2012. 
+[6] A. Aydın and A. Kaplan, “The Calculations of (p,xn) Reactions Cross Sections of 203,205Tl Target 
+
+Nuclei by Using Proton Cyclotron,” Süleyman Demirel University, Arts and Sciences Faculty, Journal 
+of Science (e-journal),vol. 2, pp. 152-159, 2007. 
+[7] A. Kaplan, M. Şekerci, V. Çapalı, H. Özdoğan, “Photon Induced Reaction Cross Section Calculations 
+
+of Several Structural Fusion Materials,” J. Fusion Energ. vol. 36, pp. 213-217, 2017. 
+[8] A. Kaplan, M. Şekerci, V. Çapalı, H. Özdoğan, “Computations of (α,xn) Reaction Cross-Section for 
+
+107,109Ag Coated Materials with Possible Application in Accelerators and Nuclear Systems,” J. Fusion 
+Energ. vol. 35, pp. 715-723, 2016. 
+[9] A. Aydın, G. Türeci, E. Tel, A. Kaplan, “Investigation of Deuteron Emission Spectra at 62 MeV Proton 
+
+Incident Energy,” J. Fusion Energ. vol. 29, pp. 327-331, 2010. 
+[10] A. Kaplan, A. Aydın, E. Tel, B. Şarer, “Equilibrium and Pre-Equilibrium Emissions In Proton - 
+
+Induced Reactions on 203,205Tl,” Pramana-J. Phys. vol. 72, pp. 343-353, 2009. 
+[11] E. Tel, E. G. Aydın, A. Kaplan, A. Aydın, “New calculations of cyclotron production cross sections of 
+
+some positron emitting radioisotopes in proton induced reactions,” Indian J. Phys. vol. 83, pp. 193-
+212, 2009. 
+[12] A. Kaplan, E. Tel, A. Aydın, “The Equilibrium and Pre-equilibrium Neutron Emission Spectra of Some 
+
+Structural Fusion Materials for (n,xn) Reactions up to 16 MeV Energy,” Phys. Atom Nucl. vol. 72, pp.  
+903-910, 2009. 
+[13] A. Kaplan, E. Tel, E. G. Aydın, A. Aydın, M. Yılmaz, “Spallation neutron emission spectra in medium 
+
+and heavy target nuclei by a proton beam up to 140 MeV energy,” Appl. Radiat. Isotopes vol. 67, pp.  
+570-576, 2009. 
+[14] E. G. Aydın, E. Tel, A. Kaplan, A. Aydın, “Equilibrium and Pre-equilibrium Calculations of Neutron 
+
+Production In Medium-Heavy Targets Irradiated By Protons Up to 100 MeV,” Ann. Nucl. Energy vol. 
+35, pp. 2306-2312, 2008. 
+[15] H. Özdoğan, M. Şekerci, A. Kaplan, “Füzyon Reaktörü Yapısal Malzemelerinde Kullanılan Bazı 
+
+Elementler için Proton Girişli Reaksiyonlarda 3He Yayınlanma Spektrumlarının İncelenmesi,” 
+Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi, vol. 13, pp. 12-18, 2018. 
+[16] A. Aydın, İ. H. Sarpün, A. Kaplan, E. Tel, “Calculations of Double–Differential Deuteron Emission 
+
+Cross Sections at 62 MeV Proton Induced Reactions,” J. Fusion Energ. vol. 32, pp. 378-381, 2013. 
+[17] A. Kaplan, H. Özdoğan, A. Aydın, E. Tel, “Deuteron-Induced Cross Section Calculations of Some 
+
+Structural Fusion Materials,” J. Fusion Energ. vol. 32, pp. 97-102, 2013. 
+[18] Aydın, A., Sarpün, İ. H., Kaplan, A., 2014, “Calculations of Double-Differential Triton Emission Cross 
+
+Sections at 62-MeV Proton-Induced Reactions”, Phys. Atom Nucl. 77 (3), 321-324. 
+[19] H. Özdoğan, M. Şekerci, İ. H. Sarpün, A. Kaplan, 2018, “Investigation of level density parameter 
+
+effects on (p,n) and (p,2n) reaction cross–sections for the fusion structural materials 48Ti, 63Cu and 
+90Zr,” Appl. Radiat. Isot. 140, 29-34. 
+[20] A. Aydin, H. Pekdogan, A. Kaplan, İ. H. Sarpün, E. Tel, B. Demir, “Comparison of Level Density 
+
+Models for the 60,61,62,64Ni(p,n) Reactions of Structural Fusion Material Nickel from Threshold to 30 
+MeV,” J. Fusion Energ. vol. 34, pp. 1105-1108, 2015. 
+[21] İ. H. Sarpün, A. Aydın, A. Kaplan, H. Koca, E. Tel, “Comparison of Fission Barrier and Level Density 
+
+Models in (a,f) Reactions of Some Heavy Nuclei”, Ann. Nucl. Energy vol. 70, pp. 175-179, 2014. 
+[22] EXFOR: Experimental Nuclear Reaction Data. Database Version of 2018-01-09, https://www-
+
+nds.iaea.org/exfor/exfor.htm. Erişim Tarihi: 09.07.2018 
+[23] A. J. Koning, S. Hilaire and S. Goriely (2015) TALYS–1.8 A Nuclear Reaction Program,  
+
+http://www.talys.eu/fileadmin/talys/user/docs/talys1.8.pdf 
+[24] N. V. Kurenkovb, V. P. Luneva, Yu. N. Shubina, “Evaluation of calculation methods for excitation 
+
+functions for production of radioisotopes of iodine, thallium and other elements,” Appl. Radiat. Isot. 
+vol.  50, pp. 541-549, 1999. 
+[25] J. J. Griffin, “Statistical model of intermediate structure,” Phys. Rev. Lett. vol. 17, pp. 478-481, 1966. 
+[26] S. Watanabe, “High energy scattering of deuterons by complex nuclei,” Nuclear Physics, vol. 8, pp. 
+
+484-492, 1958. 
+[27] L. McFadden ve G. R. Satchler, “Optical model analysis of the scattering of 24,7 MeV alpha particles,” 
+
+Nuclear Physics, vol. 84, pp. 177-200, 1966. 
+[28] P. Demetriou, C. Grama, S. Goriely, “Improved global α-optical model potentials at low energies,” 
+
+Nuclear Physics A, vol. 707, pp. 253-276, 2002. 
+[29] M. Avrigeanu ve V. Avrigeanu, “α-particle nuclear surface absorption below the Coulomb barrier in 
+
+heavy nuclei,” Physical Review C vol. 82, pp. 1-7, 2010. 
+
+65 
+ 
+
+H. ÖZDOĞAN* /181Ta(α,xn) Reaksiyonu Tesir Kesitlerinin İncelenmesi 
+
+[30] H. A. Bethe, “Nuclear Physics B. Nuclear Dynamics,” Theoretical. Reviews of Modern Physics, vol. 
+
+9, pp. 69-244, 1937. 
+[31] A. Gilbert, A. G. W. Cameron, “A composite nuclear level density formula with shell corrections,” 
+
+Canadian Journal of Physics, vol. 43, pp. 1446-1496, 1965. 
+[32] A. J. Koning, S. Hilarie, S. Goriely, “Global and Local Level Density Models,” Nuclear Physics A, 
+
+vol. 810, pp. 13-76, 2008. 
+[33] N. V. Kurenkovb, V. P. Luneva, Yu. N. Shubina, “Evaluation of calculation methods for excitation 
+
+functions for production of radioisotopes of iodine, thallium and other elements,” Appl. Radiat. Isot. 
+vol. 50, pp. 541-549, 1999. 
+[34] A. Kaplan, “Investigation of Neutron-Production Cross Sections of the Structural Fusion Material 181Ta 
+
+for (α,xn) Reactions up to 150 MeV Energy,” J. Fusion Energ. vol. 32, pp. 382-388, 2013. 
+ 
+Hasan ÖZDOĞAN, hasanozdogan@akdeniz.edu.tr, ORCID: https://orcid.org/0000-0001-6127-9680 
+
+66 
+ 
+

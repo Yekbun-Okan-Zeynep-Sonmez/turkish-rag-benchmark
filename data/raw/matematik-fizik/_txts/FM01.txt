@@ -1,0 +1,1252 @@
+OKU Fen Bilimleri Enstitüsü Dergisi 
+8(4): 1816-1828, 2025 
+
+OKU Journal of The Institute of Science and 
+Technology, 8(4): 1816-1828, 2025 
+
+Osmaniye Korkut Ata Üniversitesi 
+
+Fen Bilimleri Enstitüsü 
+
+Osmaniye Korkut Ata University 
+Journal of The Institute of Science 
+
+ 
+
+Dergisi 
+
+and Technology 
+
+Kesir Türevli Diferansiyel Denklemlerin Kollokasyon Yöntemi ile Çözümü 
+
+Birkan DURAK1,  Mehmet Şirin DEMİR2*, Hasan Ömür ÖZER3 
+
+ 
+1İstanbul Üniversitesi-Cerrahpaşa, Teknik Bilimler MYO, Motorlu Araçlar ve Ulaştırma Teknolojileri Bölümü, İstanbul, 
+Türkiye 
+2İstanbul Üniversitesi-Cerrahpaşa, Mühendislik Fakültesi, Makine Mühendisliği Bölümü, 34320, İstanbul, Türkiye 
+3İstanbul Üniversitesi-Cerrahpaşa, Teknik Bilimler MYO, Elektrik ve Enerji Bölümü, İstanbul, Türkiye 
+
+1https://orcid.org/0000-0002-8196-5407 
+2https://orcid.org/0000-0002-3965-4760 
+3https://orcid.org/0000-0002-6388-4638 
+*Sorumlu yazar: demirms@iuc.edu.tr 
+
+Araştırma Makalesi 
+ÖZ 
+
+Makale Tarihçesi: 
+Geliş tarihi: 30.01.2025 
+Kabul tarihi:12.05.2025 
+Online Yayınlanma: 16.09.2025 
+
+Mühendislik problemlerini ve doğa olaylarını bir diferansiyel denklem 
+aracılığıyla matematiksel bir formda yazmak ve ardından bu denklemi çözerek 
+olgu hakkında bazı sonuçlara ulaşmak bilimsel uğraşının önemli bir kısmıdır. 
+Özellikle değişimin göz önüne alındığı olayların incelemesinde tam sayılı 
+veya kesir türevli denklemler kullanılır. Kesir türevli denklemleri içeren bazı 
+çalışmalar termoelastisite, titreşim ve difüzyon süreçleri, biyomühendislik 
+konularında verilmiştir. Ayrıca fizik, genetik, biyoloji, ekonomi ve istatistik 
+gibi bilim dallarındaki çeşitli problemler bu tip denklemlerle incelenmiştir. 
+Kesir türevli denklemler, sönümün frekansa bağlı olduğu malzemeli modelleri 
+tahmin etmekte ve ayrıca gerçek fiziksel sistemlerin hareketini tanımlamada, 
+viskoz bir akışkan içine daldırılmış rijit bir plakanın veya bir akışkan içindeki 
+bir gazın hareketinin modellenmesinde kullanılmaktadır. Bu tür denklemlerin 
+yaklaşık çözümlerinin bulunması hala önemli bir çalışma sahasıdır. Bu 
+çalışmada ağırlıklı kalanlar yöntemlerinden olan kollokasyon, kesir türevli 
+denklemlerin yaklaşık çözümünü bulmak amacıyla önerilmiştir. Yöntem 
+sayesinde incelenen problemlerin çözümleri indirgendikleri denklem 
+sisteminin çözümüyle bulunmuştur. Kollokasyon ile seçilen test problemlerine 
+basit işlem ve programlama adımlarıyla yaklaşık çözümler bulunmuştur. 
+Yöntemin çalışma algoritması verilerek, lineer olan veya olmayan, sınır ve 
+başlangıç değer problemlerine uygulanması tartışılmıştır. Kollokasyonla 
+bulunan değerler ile diğer araştırmacıların sonuçları arasında uyum yöntemin 
+basit ve etkili bir yaklaşık çözüm yöntemi olduğunu göstermektedir. 
+
+Anahtar Kelimeler: 
+Sayısal çözüm 
+Kollokasyon yöntemi  
+Lineer 
+kesirli 
+diferansiyel 
+denklemler  
+Lineer olmayan kesirli diferansiyel 
+denklemler  
+
+Solution of Fractional Differential Equations by Collocation Method 
+
+Research Article 
+ABSTRACT 
+
+Article History: 
+Received: 30.01.2025 
+Accepted: 12.05.2025 
+Published online:16.09.2025 
+
+The formulation of engineering problems and natural phenomena in terms of 
+differential equations and the subsequent solution of these equations to obtain 
+information is a major activity of the scientific effort. Such problems, 
+especially in which variations have to be considered, are analyzed utilizing 
+integer-order or fractional-order differential equations. Applications involving 
+fractional order differential equations have been related to thermoelasticity, 
+vibration analysis, diffusion processes, and biomedical engineering. Aside 
+from that, some problems across the wide multidisciplinary of physics, 
+genetics, biology, economics, and statistics have also been addressed via 
+fractional kinds of equations. Fractional order differential equations perfectly 
+fitting in considering certain frequency-dependent damping materials 
+modeling and more accurate detailing of the real physical phenomenon, say, 
+
+Keywords: 
+Numerical solution 
+Collocation method 
+Linear 
+fractional 
+differential 
+equations 
+Nonlinear 
+fractional 
+differential 
+equations 
+
+1816 
+ 
+
+the mechanical motion of a rigid plate immersed into the viscous medium, or 
+the realistic collective behavior of gas particles submerged in the liquid. The 
+quest to find approximate solutions for such equations remains a hot area of 
+research. This paper proposes the collocation method, one of the weighted 
+residual techniques, to determine approximate solutions for fractional-order 
+differential equations. Using this method, the solutions to the examined 
+problems are obtained by solving the reduced systems of equations. 
+Approximate solutions to some test problems have been obtained by the 
+collocation method using some simple computational and programming steps. 
+The working algorithm of the method is given, as well as its application to 
+linear or non-linear, boundary value and initial value problems. The agreement 
+between the present results and those of other researchers shows that the 
+method is simple and effective for generating approximate solutions. 
+To Cite: Durak B., Demir MŞ., Özer HÖ. Kesir Türevli Diferansiyel Denklemlerin Kollokasyon Yöntemi ile Çözümü. 
+Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi 2025; 8(4): 1816-1828.
+ 
+1. Giriş 
+
+Birçok bilim alanında ve mühendislikte, karşılaşılan bir problemi ifade etmek ve bu problemle ilgili 
+
+başlangıç ve sınır şartlarını ortaya koyabilmek gerekmektedir. Söz konusu şartların sağlandığı 
+
+fonksiyonlar bulunarak çözüme gidilir. Problemi ifade etmekte yararlanılan söz konusu fonksiyonlar, 
+
+bir veya daha yüksek mertebeden türevler ya da kesirli türevler içerebilir. 
+
+Bir veya daha fazla değişkenin kesirli türevlerini içeren denklemlere kesirli diferansiyel denklem denir. 
+
+Kesirli diferansiyel denklemler, tam sayı türevleri yerine, kesirli türevlere sahip olan diferansiyel 
+
+denklemlerdir (Benghorbal, 2004).  
+
+Kesirli diferansiyel denklemler, matematik, fizik ve kimya gibi temel bilimlerde kullanılmasının yanı 
+
+sıra diğer bilim dallarında da araştırmalarda yer bulmaktadır. Sivalingam ve ark. (2023) kesirli 
+
+diferansiyel türevler için sinir ağları tabanlı nümerik bir çözüm geliştirmişlerdir. Cardone ve Conte 
+
+(2020) söz konusu denklemler için kararlılık analizini irdelemiştir. Wang ve ark. (2020) otomatik siber 
+
+güvenlik konusunda bulanık mantık içeren kesirli diferansiyel denklemler uygulamasını incelemişlerdir. 
+
+Günümüze gelene kadar bazı matematikçiler çok farklı kesir türevli diferansiyel denklem tanımları veya 
+
+yaklaşımları yapılmıştır. Karcı (2015) çalışmasında bunlardan üç tanesi olan Euler, Riemann-Liouville 
+
+ve Caputo yaklaşımlarının yetersizliklerini tartıştıktan sonra bu denklemlere kendi tanımını vermiştir. 
+
+Γ (Gama) fonksiyonunu göstermek üzere literatürde sıklıkla karşılaşılan iki adet kesir türev tanımı 
+
+Khalil ve ark. (2014) tarafından verilmiştir. Bunlardan birincisi olan Riemann-Liouville tanımına göre 
+
+kesir türev, 
+
+𝐷𝑎𝛼𝑓(𝑡) =
+1
+𝛤(𝑛−𝛼) 𝑑𝑛
+
+𝑑𝑡𝑛∫
+𝑓(𝑥)
+(𝑡−𝑥)𝛼−𝑛+1 𝑑𝑥
+
+𝑡
+
+ 
+(1) 
+
+𝑎
+
+ 
+
+olarak verilirken, Caputo tarafından verilen tanım ise; 
+
+𝐷𝑎𝛼𝑓(𝑡) =
+1
+𝛤(𝑛−𝛼) ∫
+𝑓(𝑛)(𝑥)
+(𝑡−𝑥)𝛼−𝑛+1 𝑑𝑥
+
+𝑡
+
+ 
+(2) 
+
+𝑎
+
+ 
+
+1817 
+ 
+
+şeklindedir. Her iki tanımda α türevin mertebesini göstermek üzere [n-1,n) aralığındadır.  
+
+Kesir türevli diferansiyel denklemlerin çözümlerini bulmak için literatürde çeşitli yöntemler 
+
+kullanılmaktadır. Arıkoğlu ve Özkol (2007) Kesir Türevli Diferansiyel Dönüşüm (FDTM) yöntemini, 
+
+Momani ve Odibat (2007) Adomian Ayrıklaştırma Yöntemini (ADM), Odibat ve Momani (2008)  
+
+Uyarlanmış Homotopi Pertürbasyon Yöntemini, Hosseinnia ve ark. (2008) İyileştirilmiş Homotopi 
+
+pertürbasyon  Yöntemini, Cang ve ark. (2009)  Homotopi Analiz Yöntemini, Li ve Sun (2011) 
+
+Genelleştirilmiş Blok Darbe İşlem Matrisi Yöntemini, Li ve ark. (2014)  Haar Dalgacık İşlem Matrisi 
+
+Yöntemini, Albadarneh ve ark. (2016) Kesirli Sonlu Farklar Yöntemini, Zhijunve ark. (2018) Legendre 
+
+polinomlarını, Daraghmeh ve ark. (2020)  Homotopi Pertürbasyon ve Matris yaklaşımı yöntemlerini, 
+
+Fathy ve Abdelgaber (2022)  Galerkin yöntemini, kullanarak çeşitli kesir türevli denklemleri 
+
+çözmüşlerdir.  
+
+Bu çalışmada ise kollokasyon yöntemi kullanılarak, lineer ve lineer olmayan yedi farklı kesir türevli 
+
+diferansiyel denklemin sayısal çözümleri bulunmuş ve literatürde mevcut sonuçlarla karşılaştırılmıştır. 
+
+Bulunan sonuçlar, kollokasyon yönteminin kesir türevli diferansiyel denklemlerin çözümü için etkili, 
+
+güvenilir ve yüksek doğruluk sağlayan bir yaklaşım olduğunu göstermektedir. 
+
+ 
+2.  Materyal ve Metot  
+ 
+Kesir türevli bir sınır değer problemi 𝑓(𝑥) homojenliği bozan terimler olmak üzere, 
+
+𝐷𝛼 𝑦(𝑥) −𝑓(𝑥) = 0 
+
+𝑦(𝑥1) = 𝑎 
+
+(3)
+
+𝑦(𝑥2) = 𝑏 
+
+şeklinde gösterilebilir. Burada 𝐷𝛼 kesir türev operatörüdür. Bu denklemin yaklaşık çözümü; 
+
+𝑁
+
+𝑦̂(𝑥) = ∑𝐶𝑛
+
+𝑥𝑛 
+(4)
+
+𝑛=1
+
+şeklinde olsun. Denklem (4), denklem (3)’ te yerine yazılarsa kalan (residual)  𝑅(𝑥)  ifadesini veren 
+
+denkleme ulaşılır. 
+
+𝑅(𝑥) = 𝐷𝛼 𝑦̂(𝑥) −𝑓(𝑥) = 𝐷𝛼 [∑
+𝐶𝑛
+𝑁
+𝑛=1
+𝑥𝑛 ] −𝑓(𝑥). 
+(5)
+
+Kollokasyon yönteminde,  𝑅(𝑥) kalan ifadesi belirlenen ve kollokasyon noktası olarak adlandırılan 
+
+noktalarda sıfıra eşitlenerek çözümü denklem (5)’teki bilinmeyen katsayıları verecek olan bir denklem 
+
+sistemi kurulur. 𝑥𝑘 kollokasyon noktaları olmak üzere bu sistem, 
+
+𝑅(𝑥𝑘) = 𝐷𝛼 𝑦̂(𝑥) −𝑓(𝑥𝑘) = 𝐷𝛼 [∑𝐶𝑛
+
+𝑁
+
+𝑛 ] −𝑓(𝑥𝑘) = 0  ,    𝑘= 1,2,3, … , 𝑛 
+(6)
+
+𝑛=1
+
+𝑥𝑘
+
+1818 
+ 
+
+şeklinde yazılabilir. Eğer incelenen problem bir başlangıç değer problemi ise benzer işlem adımları 
+
+uygulanacaktır. Ancak kollokasyon noktaları probleme uygun seçilmelidir. Şekil 1’de kollokasyon 
+
+yönteminin bir sınır veya başlangıç değer problemine uygulanma algoritması gösterilmiştir. 
+
+ 
+Şekil 1. Kollokasyon yönteminin algoritması 
+
+Birinci test problemi olarak Arıkoğlu ve Özkol (2007) tarafından Kesirli Diferansiyel Dönüşüm 
+
+Yöntemiyle çözülen problem ele alınsın, 
+
+𝐷0,5𝑦(𝑥) = −𝑦(𝑥) + 𝑥2 +
+2
+𝛤(2.5) 𝑥1,5,       𝑦(0) = 0. 
+(7)
+
+(7) denklemi ile verilen problemin analitik çözümü 𝑦(𝑥) = 𝑥2 ′dir. Verilen sınır şartı dikkate alınırsa (7) 
+
+denkleminin yaklaşık çözümü 
+
+𝑦(𝑥) = ∑𝐶𝑛𝑥𝑛
+
+3
+
+ 
+(8)
+
+𝑛=1
+
+olarak alınabilir. Bu yaklaşık çözüm (7) denkleminde yerine yazılırsa kalan: 
+
+𝑅(𝑥) = −1,504505556𝑥1.5 −𝑥2 + 𝑥𝐶1+𝑥2𝐶2 + 𝑥3𝐶3 + 2√𝑥(15𝐶1 + 4𝑥( 5𝐶2 + 6𝑥𝐶3 ))
+
+15√𝜋
+ 
+(9)
+
+1819 
+ 
+
+olarak bulunur. (9) denkleminde bilinmeyen katsayılar; 𝐶1,𝐶2, 𝐶3 değerlerini bulmak için, öncelikle 
+
+kollokasyon noktaları; 𝑥∈[0,1] olduğu kabul edilmiş ve üç kollokasyon noktası 𝑥0 = 0,25, 𝑥1 = 0,50 
+
+ve 𝑥2 = 0,75 olarak seçilmiştir. Bu değerler sırasıyla denklem (9)’ a yazılarak her bir denklem ayrı ayrı 
+
+sıfıra eşitlenirse; 
+
+0,25𝐶1+0,0625𝐶2 + 0,015625𝐶3 + 0,037612638903183574(15𝐶1+5𝐶2 + 1,5𝐶3 )
+
+= 0,2505631945159188 
+
+0,5𝐶1+0,25𝐶2 + 0,125𝐶3 + 0,05319230405352436(15𝐶1 + 2(5𝐶2 + 3𝐶3 ))
+
+= 0,7819230405352436 
+(10)
+
+0,75𝐶1+0,5625𝐶2 + 0,421875𝐶3 + 0,06514700157705598
+
++ (15𝐶1 + 3(5𝐶2 + 4,5𝐶3 )) = 1,53970502380584 
+
+denklem sistemi elde edilir.  Bu denklem sisteminin çözümüyle aranan yaklaşık çözüm için bilinmeyen 
+
+katsayılar, 𝐶1 =  2,987 × 10−16 , 𝐶2 = 1 ve 𝐶3 = 6,541 × 10−16 olarak bulunur. Çok küçük olan 
+
+katsayılar ihmal edilerek denklem (8)’ e yazılırsa (7) denklemi ile verilen problemin yaklaşık çözümü; 
+
+𝑦(𝑥) = 𝑥2 
+(11)
+
+olarak bulunur. Bu çözüm verilen problemin analitik çözümüdür. 
+
+İkinci test problemi olarak Kesirli Sonlu Farklar Yöntemiyle (FFDM) çözülen ve kesin çözümü 𝑦(𝑥) =
+
+𝑥2 olan, 
+
+𝐷2𝑦(𝑥) + 𝐷1,5𝑦(𝑥) + 𝑦(𝑥) = 𝑥2 + 2 + 4√𝑥
+
+𝜋  ,    𝑦(0) = 0  
+(12)
+
+problemi olarak seçelim (Albadarneh ve ark., 2016). Bu problemin yaklaşık çözümü denklem (8) deki 
+
+gibi üçüncü dereceden bir polinom olarak seçilmiş olsun. 𝑅(𝑥) kalan ifadesi oluşturulup 𝑥0 = 0,25, 
+
+𝑥1 = 0,50 ve 𝑥3 = 0,75 olan kollokasyon noktalarında sıfıra eşitlenirse, aranan yaklaşık çözümün 
+
+katsayıları sırasıyla 𝐶1 = −1,676 × 10−16, 𝐶2 = 1 ,  𝐶3 = −1,101 × 10−17 olarak bulunur. Birinci 
+
+problemdeki gibi çok küçük olan katsayılar ihmal edilirse denklem (6) ile verilen denklemin yaklaşık 
+
+çözümü kesin çözümü olan 𝑦(𝑥) = 𝑥2 ′ye eşit olacaktır. 
+
+Üçüncü test problemi Homotopi Pertürbasyon ve Matris yaklaşımı yöntemleriyle incelenmiş olan 
+
+𝐷∝𝑦(𝑥) + 𝑦(𝑥) =
+2
+𝛤(3−∝) 𝑥2−∝+ 𝑥2,
+𝑦(0) = 𝑦′(0) = 0  
+(13)
+
+Diferansiyel denklemi olarak seçilsin (Daraghmeh ve ark., 2020). Bu denklemin    𝛼= 1,9 için olan 
+
+çözümü 𝑦(𝑥) = 𝑥2 ′dir. Başlangıç koşullarına dikkat edilirse aranan yaklaşık çözüm; 
+
+𝑁
+
+𝑦(𝑥) = ∑𝐶𝑛𝑥𝑛
+
+ 
+(14)
+
+𝑛=2
+
+1820 
+ 
+
+şeklinde olacaktır. Burada N kollokasyonda kullanılan polinomun en yüksek derecesini göstermektedir. 
+
+Bu problemin farklı kollokasyon noktaları için bulunan yaklaşık çözümleri aşağıdaki şekilde 
+
+bulunmuştur. 
+
+𝑦5 =  0,9999999999999986𝑥2 + 1,889120086245991 × 10−15𝑥3 −3,640636510310997
+
+× 10−15𝑥4 + 3,409117141967403 × 10−15𝑥5 −1,147227297973183
+× 10−15𝑥6 
+
+𝑦10 =  1,0000000000001166𝑥2 −1,270412891612913 × 10−12𝑥3
+
++ 7,753965674030095 × 10−12𝑥4 −2,972503162714075 × 10−11𝑥5
+
++ 7,480077415757217 × 10−11𝑥6 −1,255543494558436 × 10−10𝑥7
+
++ 1,393630369084786 × 10−10𝑥8 −9,826857124530411 × 10−11𝑥9
+
++ 3,987867009625851 × 10−11𝑥10 −7,092315911222479 × 10−12𝑥11 
+
+𝑦15 = 1,0000000000008316𝑥2 −1,519994917014976 × 10−11𝑥3 + 1,671962890129303
+
+× 10−10𝑥4 −1,235758699148621 × 10−9𝑥5 + 6,480624152770993
+× 10−9𝑥6 −2,491277937095907 × 10−8𝑥7 + 7,157604362849433
+× 10−8𝑥8 −1,552143570175235 × 10−7𝑥9 + 2,544835981531875
+× 10−7𝑥10 −3,134078504571956 × 10−7𝑥11 + 2,851598735146423
+× 10−7𝑥12 −1,858245286941418 × 10−7𝑥13 + 8,198663870204452
+× 10−8𝑥14 −2,192744337849018 × 10−8𝑥15 + 2,68312571560829
+× 10−9𝑥16 
+
+(15)
+
+𝑦20 =   0,9999999999366677𝑥2 + 1,706452351603294 × 10−9𝑥3 −2,864601367622546
+
+× 10−8𝑥4 + 3,335419280618379 × 10−7𝑥5
+
+−0,000002847466021534311𝑥6 + 0,000018460473358025377𝑥7
+
+−0,00009306561158607585𝑥8 + 0,00037081686804471396𝑥9
+
+−0,001180568494634762𝑥10 + 0,003023311683227036𝑥11
+
+−0,006246468068028557𝑥12 + 0,010406664487407501𝑥13
+
+−0,013920287655965353𝑥14 + 0,014820307853809932𝑥15
+
+−0,012377999263003321𝑥16 + 0,007927639581486077𝑥17
+
+−0,0037557473713650145𝑥18 + 0,001239212232174505𝑥19
+
+−0,00025410789275506627𝑥20 + 0,000024372104062487827𝑥21 
+
+Dördüncü test problemi olarak Genelleştirilmiş blok darbe işlem matrisi (Generalized block pulse 
+
+operational matrix) yöntemiyle çözülen lineer kesir türevli diferansiyel denklemi göz önüne alalım (Li 
+
+ve Sun, 2011), 
+
+𝐷2𝑦(𝑥) + 𝐷∝𝑦(𝑥) + 𝑦(𝑥) = 8 ,     
+
+(16)
+
+𝑥> 0, 0 <∝< 2,     𝑦(0) = 1,    𝑦′(0) = 0 . 
+
+Bu problem 𝛼= 0,5 değeri için Adomian ayrıklaştırma yöntemiyle (ADM) (Momani ve Odibat, 2007) 
+
+ve Kesir türevli diferansiyel dönüşüm yöntemiyle (FDTM) çözülmüştür (Arıkoğlu ve Özkol, 2007). 
+
+Başlangıç koşullarına göre bu problemin polinom temelli yaklaşık çözümü 
+
+1821 
+ 
+
+𝑦(𝑥) = ∑𝐶𝑛𝑥𝑛
+
+𝑁
+
+ 
+(17)
+
+𝑛=2
+
+olarak alınmalıdır. Buna göre 𝑁= 26 için yaklaşık çözüm; 
+
+𝑦25 =  4,001𝑥2 −0,100𝑥3 −2,068𝑥4 + 7,075𝑥5 −37,025𝑥6 + 175,579𝑥7 −686,298𝑥8
+
++ 2132,082𝑥9 −5036,854𝑥10 + 8153,068𝑥11 −5307,279𝑥12
+
+−15340,761𝑥13 + 62714,540𝑥14 −126100,573𝑥15 + 170167,525𝑥16
+
+(18)
+
+−161658,626𝑥17 + 107722,112𝑥18 −54138,044𝑥19 + 35698,041𝑥20
+
+−42155,511𝑥21 + 43205,954𝑥22 −29183,334𝑥23 + 12364,866𝑥24
+
+−3023,719𝑥25 + 328,453𝑥26 
+
+şeklinde bulunur. Kollokasyon yöntemi lineer olmayan kesir türevli diferansiyel denklemlerin yaklaşık 
+
+çözümünde kullanılabilir. Beşinci test problemi olarak Legendre polinomları yöntemi ile çözülen, lineer 
+
+olmayan kesir türevli; 
+
+𝐷∝𝑦(𝑥) =
+𝛤(6)
+𝛤(6−∝) 𝑥5−∝+
+36
+𝛤(5−∝) 𝑥4−∝−𝛤(3+∝)𝑥2 −𝑦(𝑥)
+
+(19)
+
++ (𝑥5 + 3
+
+2 𝑥4 −2𝑥∝+2)
+
+2
+
+,     𝑦(0) = 0  
+
+denklemi göz önüne alınsın (Zhijun ve ark., 2018). Bu diferansiyel denklemin kesin çözümü 𝑦(𝑥) =
+
+𝑥5 + 3
+
+2 𝑥4 −2𝑥2+𝛼 şeklindedir. 𝛼= 0,6 için ve 10 kollokasyon noktası alınarak bulunan yaklaşık 
+
+çözüm aşağıdaki şekilde bulunmuştur. 
+
+𝑦10 =  0,770657𝑥10 −4,23236𝑥9 + 10,3312𝑥8 −14,8412𝑥7 + 14,0627𝑥6
+
+−8,45571𝑥5 + 6,49072𝑥4 −3,37867𝑥3 −0,252208𝑥2 + 0,00494825𝑥 
+(20)
+
+Altıncı test problemi olarak, yine doğrusal olmayan; 
+
+𝐷∝𝑦(𝑥) + 𝑦2(𝑥) = 1 ,     
+
+(21)
+
+0 ≤𝑥≤1,     𝑦(0) = 0  
+
+problemi göz önüne alınsın. Bu problem, Legendre polinomlarını esas alan Galerkin yöntemi (L-G) 
+
+(Fathy ve Abdelgaber, 2022), uyarlanmış homotopi pertürbasyon (MHPM- modified homotopy 
+
+perturbation method) , (Odibat ve Momani, 2008), iyileştirilmiş homotopi pertürbasyon (EHPM- 
+
+enhanced homotopy perturbation) (Hosseinnia ve ark., 2008), homotopy analiz metodu (HAM-
+
+homotopy analysis method)  (Cang ve ark., 2009), Haar dalgacık işlem matrisi (HWOMM- Haar wavelet 
+
+operational matrix method) (Li ve ark., 2014), polinom en küçük kareler (PLSM- polynomial least 
+
+squares method) (Bota ve Căruntu, 2017)  gibi farklı yöntemlerle de çözülmüştür. Denklem (21) ile 
+
+verilen bu problemin yaklaşık çözümü dokuzuncu dereceden bir polinom olarak alınırsa 𝛼= 0,75 ve 
+
+𝛼= 0,90 olmak üzere kollokasyon yöntemi ile çözümleri sırasıyla 
+
+1822 
+ 
+
+𝑦9(𝑥) =  13,595𝑥9 −66,989𝑥8 + 143,776𝑥7 −176,586𝑥6 + 137,217𝑥5 −70,639𝑥4
+
++ 24,980𝑥3 −6,896𝑥2 + 2,280𝑥 
+
+𝑦9(𝑥) =  2,296𝑥9 −11,589𝑥8 + 25,595𝑥7 −32,536𝑥6 + 26,273𝑥5 −13,930𝑥4 + 4,899𝑥3
+
+(22)
+
+−1,642𝑥2 + 1,387𝑥 
+
+şeklinde bulunur.  
+
+Yedinci ve son test problemi olarak ise, aşağıda verilen doğrusal olmayan problem incelensin. Bu 
+
+problem polinom en küçük kareler (PLSM- polynomial least squares method) yöntemiyle çözülmüştür 
+
+(Bota ve Căruntu, 2017). 
+
+3
+2
+
+𝐷0,5𝑦(𝑥) + 𝑦(𝑥) + 𝑦2(𝑥) = 8𝑥
+
+3√𝜋+ 𝑥2 + 𝑥4,    
+
+(23)
+
+0 ≤𝑥≤1 , 𝑦(0) = 0. 
+
+Problemin yaklaşık çözümü; 
+
+3
+
+𝑦(𝑥) = ∑𝐶𝑛𝑥𝑛
+
+ 
+(24)
+
+𝑛=1
+
+olarak kabul edilirse, elde edilen denklem sistemi doğrusal olmadığından, bilinmeyen katsayılar (𝐶𝑛) 
+
+için birden fazla çözüm mevcuttur: 
+
+𝐶1 = −24,231 
+𝐶2 = 71,457 
+𝐶3 = −60,591 
+
+(25)
+𝐶1 = −27,473 
+𝐶2 = 100,622 
+𝐶3 = −95,595 
+
+𝐶1 = −13,457 
+𝐶2 = 65,169 
+𝐶3 = −73,766 
+
+𝐶1 = 0 
+𝐶2 = 0,999 
+𝐶3 = 0 
+
+Bu çözümlerden sonuncusu (23) denkleminin kesin çözümü olan 𝑦(𝑥) = 𝑥2′yi vermektedir. Problemin 
+
+lineer olmadığı durumlarda, uygun yaklaşık çözüm için bulunan katsayılardan, reel olanlardan mutlak 
+
+değerce en küçüklerini içeren katsayı grubunu kullanmak gereklidir. 
+
+3.  Bulgular ve Tartışma  
+
+Bu bölümde, bir önceki bölümde kollokasyon metodu ile yaklaşık çözümleri bulunan üçüncü ve 
+
+dördüncü test problemleri, literatürde bulunan mevcut çözümler ile kıyaslanmıştır.  
+
+Tablo 1 (13) denklemi ile verilen (Üçüncü test problemi) denklemin Daraghmeh ve ark. (2020) 
+
+tarafından yapılan çözümü ve çeşitli N değerleri için kollokasyonla bulunan farklı yaklaşık 
+
+çözümlerinde yapılan mutlak hataları göstermektedir. Kollokasyon ile yapılan çözümlerin yeterince 
+
+hassas olduğu gözlemlenmektedir. 
+
+ 
+
+1823 
+ 
+
+Tablo 1. Denklem (13) ile verilen problemin yaklaşık çözümünde farklı N’ler için yapılan mutlak hatalar 
+
+Kollokasyon çözümlerindeki mutlak hatalar 
+
+Kesin Çözüm 
+
+Mutlak Hata 
+
+x 
+
+Ref.[9] 
+
+N=5 
+
+N=10 
+
+N=15 
+
+N=20 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0,1 
+0,01 
+1,378x10-3 
+1,214x10-17 
+4,388x10-16 
+2,052x10-15 
+1,104x10-13 
+
+0,2 
+0,04 
+2,310x10-3 
+4,857x10-17 
+8,812x10-16 
+4,052x10-15 
+2,152x10-13 
+
+0,3 
+0,09 
+3,460x10-3 
+8,326x10-17 
+1,262x10-15 
+5,870x10-15 
+3,117x10-13 
+
+0,4 
+0,16 
+5,259x10-3 
+1,665x10-16 
+1,609x10-15 
+7,521x10-15 
+4,011x10-13 
+
+0,5 
+0,25 
+8,068x10-3 
+2,498x10-16 
+1,887x10-15 
+8,992x10-15 
+4,834x10-13 
+
+0,6 
+0,36 
+1,213x10-2 
+3,330x10-16 
+2,109x10-15 
+1,032x10-14 
+5,587x10-13 
+
+0,7 
+0,49 
+1,755x10-2 
+4,996x10-16 
+2,220x10-15 
+1,143x10-14 
+6,263x10-13 
+
+0,8 
+0,64 
+2,418x10-2 
+5,551x10-16 
+2,331x10-15 
+1,265x10-14 
+6,861x10-13 
+
+0,9 
+0,81 
+3,159x10-2 
+8,881x10-16 
+2,553x10-15 
+1,332x10-14 
+7,377x10-13 
+
+1 
+1 
+3,901x10-2 
+9,992x10-16 
+2,224x10-15 
+1,398x10-14 
+7,548x10-13 
+
+Tablo 2, Denklem (16) ile verilen dördüncü test probleminin analitik çözümü, kollokasyon yöntemi ile 
+
+çözümü ve literatürde mevcut diğer yöntemlerle bulunan çözümlerini göstermektedir. Çözümler 
+
+arasındaki uyum kollokasyon yönteminin etkinliğini göstermektedir. 
+
+Tablo 2. Denklem (16) ile verilen problemin kollokasyon çözümü ile diğer yöntemlerin karşılaştırılması 
+
+x 
+Kesin 
+Çözüm 
+
+GBPO (Li 
+ve Sun, 
+20011) 
+
+FDTM 
+(Arıkoğlu 
+ve Özkol, 
+2007) 
+
+ADM (Momani ve 
+Odibat,  2007) 
+
+Kollokasyon 
+(N=25 için) 
+
+0,1 
+0,03975 
+0,039754 
+0,03975 
+0,039874 
+0,039751 
+
+0,2 
+0,157036 
+0,157043 
+0,157036 
+0,158512 
+0,157038 
+
+0,3 
+0,34737 
+0,347373 
+0,34737 
+0,353625 
+0,347374 
+
+0,4 
+0,604695 
+0,604699 
+0,604695 
+0,622083 
+0,6047 
+
+0,5 
+0,921768 
+0,921768 
+0,921768 
+0,960047 
+0,921774 
+
+0,6 
+1,290,457 
+1,290,458 
+1,290,457 
+1,363,093 
+1,290,464 
+
+0,7 
+1,702,008 
+1,702,007 
+1,702,008 
+1,826,257 
+1,702,016 
+
+0,8 
+2,147,287 
+2,147,286 
+2,147,287 
+2,344,224 
+2,147,296 
+
+0,9 
+2,617,001 
+2,616,998 
+2,617,001 
+2,911,278 
+2,617,010 
+
+1 
+3,101,906 
+3,101,902 
+3,101,906 
+3,521,462 
+3,101,914 
+
+Denklem (16) ile verilen problemde en büyük mutlak hata x=1 noktasında olmaktadır. Şekil 2 de x=1 
+
+noktasında, mutlak hatanın yaklaşık çözüm için seçilen polinomun derecesi ile değişimi verilmiştir. 
+
+Polinomun derecesi arttıkça mutlak hatanın azaldığı görülmektedir. Bu sayede kollokasyon yöntemi ile 
+
+1824 
+ 
+
+daha hassas çözümler elde edilebilir. Ancak kollokasyon noktalarının çözüm için gerekli hesaplama 
+
+yükünü arttırdığı göz önünde bulundurulmalıdır. 
+
+Şekil 1. Polinom derecesinin artışıyla en büyük mutlak hatadaki değişim 
+
+ 
+
+Tablo 3, 10 kollokasyon noktası alınarak α=0,25 için bulunan yaklaşık çözüm değerlerini ve nokta 
+
+bazında yapılan mutlak hataları göstermektedir. 
+
+Tablo 3. Dördüncü test probleminde α=0,25 için noktasal olarak yapılan mutlak hata değerleri 
+
+x 
+Kesin Çözüm 
+Kollokasyon Mutlak Hata 
+
+0 
+0 
+0 
+0 
+
+0,1 
+-0,0110868 
+-0,0110742 
+1,26189x10-5 
+
+0,2 
+-0,0507792 
+-0,0507726 
+6,61847x10-6 
+
+0,3 
+-0,1186349 
+-0,1186297 
+5,11213x10-6 
+
+0,4 
+-0,2058466 
+-0,2058418 
+4,82766x10-6 
+
+0,5 
+-0,2954482 
+-0,2954433 
+4,87186x10-6 
+
+0,6 
+-0,3615204 
+-0,361515 
+5,37800x10-6 
+
+0,7 
+-0,3681773 
+-0,3681719 
+5,45695x10-6 
+
+0,8 
+-0,2684692 
+-0,2684639 
+5,29380x10-6 
+
+0,9 
+-0,003246 
+-0,0032445 
+1,47763x10-6 
+
+1 
+0,5 
+0,5001679 
+1,67955x10-4 
+
+Tablo 4 ve Tablo 5 te kollokasyon çözümleriyle denklem (16) ile verilen non-lineer problemin  (üçüncü 
+
+test problemi) çeşitli yöntemlerle bulunan çözümleri farklı x değerleri için karşılaştırılmıştır. 
+
+Kollokasyon yöntemi ile bulunan çözümler diğer yöntemler ile bulunan çözümler ile uyum içerisindedir. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+1825 
+ 
+
+Tablo 4. Denklem (13) ile verilen problemin  α=0,75 için kollokasyon çözümü ile diğer yöntemlerin 
+
+karşılaştırılması 
+
+MHPM 
+
+EHPM 
+
+HWOMM 
+
+PLSM 
+
+Legendre 
+
+Galerkin 
+
+Kollakasyon 
+
+x 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0,2 
+0,3138 
+0,3214 
+0,3095 
+0,307 
+0,3091 
+0,3012 
+
+0,4 
+0,4929 
+0,5077 
+0,4814 
+0,4819 
+0,4803 
+0,4759 
+
+0,6 
+0,5974 
+0,6259 
+0,5977 
+0,5969 
+0,5995 
+0,5938 
+
+0,8 
+0,6604 
+0,7028 
+0,6788 
+0,6783 
+0,6774 
+0,676 
+
+1 
+0,7183 
+0,7542 
+0,7368 
+0,7365 
+0,7374 
+0,7367 
+
+ 
+
+Tablo 5. Denklem (13) ile verilen problemin α=0,90 için kollokasyon çözümü ile diğer yöntemlerin 
+
+karşılaştırılması 
+
+Legendre 
+
+Galerkin 
+
+Kollakasyon 
+
+x 
+
+MHPM 
+
+EHPM 
+
+PLSM 
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+0,2 
+0,2391 
+0,2647 
+0,2369 
+0,2386 
+0,2353 
+
+0,4 
+0,4229 
+0,4591 
+0,4211 
+0,4224 
+0,4198 
+
+0,6 
+0,5653 
+0,6031 
+0,5651 
+0,566 
+0,564 
+
+0,8 
+0,674 
+0,7068 
+0,6738 
+0,6745 
+0,673 
+
+1 
+0,7569 
+0,7806 
+0,7541 
+0,7545 
+0,7536 
+
+ 
+4.  Sonuçlar  
+
+Mevcut çalışmada kesir türevli diferansiyel denklemlerin yaklaşık çözümlerini bulmak için kollokasyon 
+
+yöntemi kullanılmıştır. Yöntem incelenen problemleri kollokasyon noktalarından yararlanarak bir 
+
+denklem sistemine dönüştürme ve çözme şansı vermektedir. 
+
+Çalışmada ele alınan lineer olmayan problemler için, yaklaşık çözüm katsayılarının hesaplanma süresi, 
+
+lineer problemlere kıyasla daha uzun sürmektedir. Bu durum, lineer olmayan denklem sistemlerinin 
+
+çözümünü hızlandırabilecek algoritmalar veya sayısal yöntemler kullanılarak aşılabilir. Tablo 1 
+
+incelendiğinde, Daraghmeh ve ark. (2020) tarafından elde edilen çözümlere göre daha küçük mutlak 
+
+hataların bulunması için beş kollokasyon noktasının yeterli olduğu görülmektedir. Dördüncü test 
+
+problemi için oluşturulan Tablo 2’ye göre, bu yöntemle elde edilen değerler diğer çalışmalar ile 
+
+uyumludur. 
+
+Kollokasyon yönteminin daha basit işlem adımlarına sahip olması, değerlendirilen diğer üç yönteme 
+
+kıyasla önemli bir avantaj sağlamaktadır. Şekil 2’de görüldüğü gibi, en büyük mutlak hata, kollokasyon 
+
+1826 
+ 
+
+nokta sayısının artırılmasıyla azaltılmıştır. Birinci, ikinci ve son problemde olduğu gibi, bu yöntemle 
+
+bazı durumlarda analitik çözüme ulaşmak mümkündür.  
+
+Yaklaşık çözüm olarak her ne kadar polinomlar önerilmiş olsa da kollokasyon yöntemi uygulanırken 
+
+probleme bağlı olarak farklı türde fonksiyonlar kullanılabilir. Kollokasyon başlangıç değer problemleri 
+
+için kullanılırken problemlerin alındığı referanslardaki gibi x değerleri 0 ve 1 arasında değiştirilmiştir. 
+
+Yöntemin en az bir tane sınırın sonsuz olduğu problemlere uygulanmasında öncelikle bir değişken 
+
+dönüşümü yapılarak sınırlardaki bu durumun ortadan kaldırılması uygun bir yaklaşım olacaktır. 
+
+İncelenen problemlerden bazıları için kesin ve bazılarına ise uygun yaklaşık çözümlerin bulunabilmesi 
+
+kullanılan bu yöntemin etkinliğini göstermektedir. Uygulanması ve programlanması kolay olan 
+
+kollokasyon yöntemi sonraki çalışmalarda başta kesir türevli integro diferansiyel denklemler içerenler 
+
+olmak üzere farklı türde problemlerin yaklaşık çözümlerini bulmakta kullanılabilir. 
+
+ 
+
+Çıkar Çatışması Beyanı  
+
+Makale yazarları aralarında herhangi bir çıkar çatışması olmadığını beyan ederler.  
+
+ 
+
+Araştırmacıların Katkı Oranı Beyan Özeti  
+
+Yazarlar makaleye eşit oranda katkı sağlamış olduklarını beyan ederler. 
+
+ 
+
+Kaynakça 
+
+Albadarneh RB., Batiha IM., Zurigat M. Numerical solutions for linear fractional differential equations 
+
+of order 1 < α < 2 using finite difference method (FFDM). Journal of Mathematics and Computer 
+
+Science 2016; 16(1): 103-111. 
+
+Arıkoğlu A., Özkol İ. Solution of fractional differential equations by using differential transform 
+
+method. Chaos, Solitons & Fractals 2007; 34(5): 1473-1481. 
+
+Benghorbal MM. Power series solutions of fractional differential equations and symbolic derivatives 
+
+and integrals. Ph.D. dissertation, Faculty of Graduate Studies, The University of Western Ontario, 
+
+Canada, 2004. 
+
+Bota C., Căruntu B. Analytical approximate solutions for quadratic Riccati differential equation of 
+
+fractional order using the Polynomial Least Squares Method. Chaos, Solitons & Fractals 2017; 
+
+102: 339-345. 
+
+Cang J., Tan Y., Xu H., Liao SJ. Series solutions of non-linear Riccati differential equations with 
+
+fractional order. Chaos, Solitons & Fractals 2009; 40(1): 1-9. 
+
+Cardone A., Conte D. Stability analysis of spline collocation methods for fractional differential 
+
+equations. Mathematics and Computers in Simulation 2020; 178: 501-514. 
+
+Daraghmeh A., Qatanani N., Saadeh A. Numerical solution of fractional differential equations. Applied 
+
+Mathematics 2020; 11: 1100-1115. 
+
+1827 
+ 
+
+Fathy M., Abdelgaber KM. Approximate solutions for the fractional order quadratic Riccati and Bagley-
+
+Torvik differential equations. Chaos, Solitons & Fractals 2022; 162: 112496. 
+
+Hosseinnia SH., Ranjbar A., Momani S. Using an enhanced homotopy perturbation method in fractional 
+
+differential equations via deforming the linear part. Computers & Mathematics with Applications 
+
+2008; 56(12): 3138-3149. 
+
+Karcı A. Kesir dereceli türevin yeni yaklaşımının özellikleri. Gazi Üniversitesi Mühendislik Mimarlık 
+
+Fakültesi Dergisi 2015; 30(3): 487-501. 
+
+Khalil R., Al Horani M., Yousef A., Sababheh M. A new definition of fractional derivative. Journal of 
+
+Computational and Applied Mathematics 2014; 264: 65-70. 
+
+Li Y., Sun N. Numerical solution of fractional differential equations using the generalized block pulse 
+
+operational matrix. Computers & Mathematics with Applications 2011; 62(3): 1046-1054. 
+
+Li Y., Sun N., Zheng B., Wang Q., Zhang Y. Wavelet operational matrix method for solving the Riccati 
+
+differential equation. Communications in Nonlinear Science and Numerical Simulation 2014; 
+
+19(3): 483-493. 
+
+Momani S., Odibat Z. Numerical comparison of methods for solving linear differential equations of 
+
+fractional order. Chaos, Solitons & Fractals 2007; 31(5): 1248-1255. 
+
+Odibat Z., Momani S. Modified homotopy perturbation method: application to quadratic Riccati 
+
+differential equation of fractional order. Chaos, Solitons & Fractals 2008; 36(1): 167-174. 
+
+Sivalingam SM., Pushpendra K., Govindaraj V. A neural networks-based numerical method for the 
+
+generalized Caputo-type fractional differential equations. Mathematics and Computers in 
+
+Wang Z., Chen L., Song S., Cong PX., Ruan Q. Automatic cyber security risk assessment based on 
+
+Simulation 2023; 213: 302-323. 
+
+fuzzy fractional ordinary differential equations. Alexandria Engineering Journal 2020; 59(4): 
+
+2725-2731. 
+
+Zhijun M., Mingzu Y., Huang J., Lei S. Numerical solutions of nonlinear fractional differential 
+
+equations by alternative Legendre polynomials. Applied Mathematics and Computation 2018; 
+
+336: 454-464. 
+
+1828 
+ 
+

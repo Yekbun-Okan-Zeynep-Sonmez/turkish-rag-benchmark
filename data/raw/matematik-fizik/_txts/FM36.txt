@@ -1,0 +1,603 @@
+Uludağ Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, Cilt 19, Sayı 1, 2014 
+
+DERLEME
+
+ 
+ 
+ÇOKLU KIRINIMLAR İÇEREN SENARYOLAR İÇİN 
+ELEKTROMANYETİK DALGA YAYILIM MODELLERİ 
+ 
+ 
+ 
+Mehmet Barış TABAKCIOĞLU * 
+Ahmet CANSIZ ** 
+ 
+
+ 
+ 
+ 
+Özet: Dijital yayın sistemlerinde daha güvenilir yayın yapmak için kapsama alanı ve alıcı üzerindeki alan 
+şiddetinin kestiriminde yayılım modelleri kullanılmaktadır. Yayılım modelleri temelde nümerik ve ışın 
+izleme tekniğine dayanan modeller olmak üzere iki ana grupta incelenebilir. Elektromanyetik dalga yayılım 
+modellerinde hesaplama zamanı ve kestirilen alan şiddetinin kesinliği arasında bir ödünleşme vardır. 
+Nümerik modeller kesin sonuçlar vermesine karşın, hesaplama zamanı yüksektir, ışın izleme tekniğine 
+dayanan modeller ise kesinliği az olmakla beraber hesaplama zamanı düşüktür. Hesaplama zamanı ve 
+kesinlik açısından optimum olan modellere ihtiyaç duyulmuştur. Bunun için birçok model geliştirilmiştir.  
+ 
+Anahtar Kelimeler: Elektromanyetik Dalga Yayılımı, Eğim Kırınımı, Düzgün Kırınım Teorisi, Çoklu 
+Kırınım. 
+ 
+Electromagnetic Wave Propagation Models for Multiple-Diffraction Scenarios 
+ 
+Abstract: Electromagnetic wave propagation models have been used for coverage estimation and field 
+prediction at the receiver to make more reliable and efficient digital broadcasting systems. Propagation 
+models can be classified into two groups as numerical and ray tracing based models. There is a tradeoff 
+between computation time and accuracy of field prediction among electromagnetic wave propagation 
+models. Although numerical models predict accurately, it requires more computation times. Ray tracing 
+based models predicts the field strength less accurately with lower computation time. Many propagation 
+models have been developed to provide optimum solution for accuracy and computation time.  
+ 
+Keywords: Electromagnetic Wave Propagation, Slope Diffraction, Uniform Theory of Diffraction, 
+Multiple-diffraction. 
+ 
+ 
+1. GİRİŞ 
+ 
+Geometrik optik (GO), yansıma, kırılma ve aydınlanma gibi olayları inceleyen ve 
+elektromanyetik dalgaların doğrusal yayılmasını temel kabul eden optik dalıdır. Bu dalda ışık bir 
+kaynaktan yayılan tanecikler gibi düşünülmektedir. Fiziksel optik (FO) ise girişim, kırınım ve 
+kutuplanma olaylarını inceleyen ve ışığın dalga yapısında olduğunu temel kabul eden optik 
+dalıdır. Girişim, kırınım ve kutuplanma olayları geometrik optik modeliyle açıklanamamaktadır. 
+Elektromanyetik dalganın kırınımı, bu dalgaların karşılaştığı bazı engelleri dolanarak geçmesi 
+veya doğrusal yolundan sapması anlamına gelir ve dalgaların küçük aralıklardan, engellerden 
+veya keskin kenarlı yerlerden geçişi ile oluşur. Kırınım olayının gerçekleşmesi için 
+                                                           
+*  Bayburt Üniversitesi, Mühendislik Fakültesi, Elektrik-Elektronik Mühendisliği Bölümü, 69000 Bayburt. 
+** İstanbul Teknik Üniversitesi, Elektrik Elektronik Fakültesi, Elektrik Mühendisliği Bölümü, Maslak 34469 İstanbul. 
+    İletişim Yazarı: M.B. Tabakcıoğlu (mbtabakcioglu@bayburt.edu.tr) 
+
+37 
+
+Tabakcıoğlu, M.B. ve Cansız, A.: Çoklu Kırınımlar İçeren Senaryolar için EM Dalga Yayılım Modelleri 
+
+elektromanyetik dalganın geçeceği aralığın boyutunun bu dalganın dalga boyuna yakın veya 
+ondan küçük olması gerekir. Kırınım olayı ışığın dalga karakterinin bir durumudur.  
+Elektromanyetik dalga engel etrafından dolanır ve gölge bölgesine girer. Bunun sonucunda keskin 
+bir gölge oluşmamaktadır. Elektromanyetik dalga yayılımında engelin boyutu, elektromanyetik 
+dalganın dalga boyundan çok büyük olduğu durumlarda yüksek frekans asimptotik teknikler 
+kullanılmaktadır (Balanis 1989). Elektromanyetik dalga yayılımı yüzyılı aşkın bir süredir 
+araştırılmakta ve dalga yayılımını modellemek ve alan kestirimi yapmak için analitik ve nümerik 
+olmak üzere birçok model geliştirilmiştir. 
+ 
+
+2. YAYILIM MODELLERİ 
+ 
+Fiziksel optik modeli Macdonald (1912)’de önerilmiş ve bugüne kadar kırınım teorilerinde 
+kullanılmıştır. Bu model özellikle büyük metalik yüzeylerden saçılan elektromanyetik dalgaların 
+analizinde kullanılır. Fiziksel optik modeli, fiziksel kırınım teorisi (FKT) modelinin temelini 
+oluşturmuştur. Fiziksel optik modeli, geometrik optik modelinin sınırlarından uzak yerlerde bütün 
+yansıyan ışınları ve bu sınırlara yakın kırınan ışınları tarif eder. Fiziksel optik modeli kendi başına 
+tutarlı değildir. Gözlem noktası saçılma yüzeyine yaklaşırsa fiziksel optik integralleri yüzey 
+alanları için hesaplama yapmaz (Ufimtsev 2007). Bazı durumlarda akustik aydınlık bölgelerde 
+yayılır. Bu durumda alanı hesaplamak için daha genel integral formülleri gerektirir. İntegral 
+formüllerinin en çok bilinen ve sık kullanılanı fiziksel optik modelidir (Graeme 1976). Fiziksel 
+optik modeli, optik sistemdeki bütün kırınım etkilerini doğruca tarif etmektedir (Borovikov and 
+Kinber 1994). 
+Geometrik kırınım teorisi (GKT) modeli Keller (1962)’de ileri sürülmüştür. Bu model 
+mükemmel elektriksel iletkenlik gösteren iç açılı kama için alan hesaplamalarında 
+kullanılmaktadır. GKT modeli, optik sınırlar civarında geçiş bölgesinde hatalı sonuçlar 
+vermektedir (Schneider and Luebbers 1989). Kaynak, kama ve alan hesabı yapılacak nokta aynı 
+çizgi üzerindeyse GKT modeli hatalı sonuçlar vermektedir (Luebbers 1984). GKT modeli yüksek 
+frekans kırınım kestiriminde en önde gelen analitik tekniklerden biridir. Geometrik optik 
+modeline kırınan alanların eklenmesiyle oluşan bir uzantısıdır (Balanis et al. 2013). Bu model 
+kesin sonuçları engeller dalga boyundan daha küçük olduğu durumlarda bulabilmektedir (Graeme 
+1976). GKT modelinin ileri sürülmesiyle geometrik optik modeliyle açıklanamayan kırınım olayı 
+artık açıklanabiliyordu. Dar geçiş bölgelerinde kırınım olduğundan dolayı geometrik optik modeli 
+çalışmıyor fakat bu bölgelerden uzak bölgelerde geometrik optik modeli çalışır. GKT modeli 
+sadece geçiş bölgelerinde değil her yerde geçerlidir. Geometrik optik modeli, yansıyan ve kırılan 
+ışınları incelemektedir. GKT modeliyle kırınan alanlar geometrik optik modeline ekledi ve gölge 
+bölgesindeki süreksizlik bir derece ortadan kaldırılmış oldu (Borovikov and Kinber 2007).  
+Fiziksel kırınım teorisi (FKT) modeli 1962’de Ufimtsev tarafından geliştirilmiştir 
+(Ufimtsev 2007). FKT modeli, fiziksel optik modelinin bir uzantısıdır. Ufimtsev FKT modelini 
+bıçak kenarlı kama yapılara uygulamaktadır. FKT modelinin önemli zorluğu bütün integral 
+yöntemlerindeki gibi sonuç integralinin hesaplanmasıdır. Bu zorluğuna karşın yine de GKT 
+modelinin kullanılamayacağı yerlerde kullanılmaktadır (Graeme 1976). FKT modeli anten ve 
+saçılma problemleri için kullanılan yüksek frekans asimptotik bir tekniktir. FKT modelinin temel 
+fikri kırınan alanların, engelin yüzeyinde indüklenen akımlar tarafından indüklenen ışınım 
+olduğudur. FKT modeli, fiziksel optik modeline düzgün olmayan kaynaklar tarafından üretilen 
+ekstra alanlar eklenmesiyle oluşmuştur (Ufimtsev 2007). Ufimtsev tarafından geliştirilen ve 
+fiziksel optik modelinin genişletilmiş hali olan bu model fiziksel optik modelinde yüzey 
+kenarlarındaki kırınımlardaki kusurları ortadan kaldırmıştır (Balanis 1989).  
+Deygout (1966)’da çoklu bıçak kenarlı kama yapılar için bir yayılım modeli geliştirmiştir. 
+Bu modele göre senaryodaki bütün bıçak kenarlı kamalar için tek başına olduğu farz edilip bu 
+bıçak kenarlı kama aktif edilerek diğerleri senaryodan çıkartılır. Senaryodaki bıçak kenarlı 
+kamalar için kırınım kaybı hesaplanır. En çok kırınım kaybı olan bıçak kenarlı kama temel kama 
+
+38 
+
+Uludağ Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, Cilt 19, Sayı 1, 2014 
+
+olarak seçilir. Bu temel kamayla senaryo iki kısma ayrılır. Bu temel kama birinci kısım için alıcı, 
+ikinci kısım için ise verici konumundadır. Daha sonra bu iki kısımda en büyük kırınım kaybını 
+veren kamalar tespit edilir. Bu kamalar ile bu iki kısım tekrar ikişer kısma ayrılır. Bütün kamalar 
+kullanılıncaya kadar bu işlem devam eder. Bu model çok fazla sayıda tekli kırınım içerir. Kırınım 
+sayısı kullanılan senaryoya göre değişir. Bu model, kırınım kaybını olduğundan daha fazla 
+hesaplamaktadır. Bıçak kenarlı kamalar birbirine yakın ise bu model hatalı sonuçlar vermektedir 
+(Tzaras and Saunders 2000).  
+Harrington (1966)’da ileri sürülen moment metodu (MM) küçük boyutlardaki engellerle 
+ilgili alan problemlerinin analizinde kullanılmaktadır. 
+Causebrook (1971)’de geliştirilen model Deygout modelinin yeniden düzenlenmiş halidir. 
+Çünkü iki model de kırınım kaybını hesaplamak için aynı işlem sürecini takip etmektedir. 
+Deygout modelinden farkı fazla hesaplanan yol kaybını telafi etmek için farklı doğrulama 
+formüllerinin kullanılmasıdır. 
+Kouyoumjian and Pathak (1974)’te ileri sürülen düzgün geometrik kırınım teorisi (DGKT) 
+yalnız bir iç açılı empedans kama içeren senaryolar için doğru sonuçlar vermektedir (Schneider 
+and Luebbers 1989). Daha sonra DGKT modeli çoklu kırınımlar içeren senaryolarda alıcı 
+üzerinde elektrik alan şiddeti kestirimi yapmada kullanılmıştır. Bu senaryolarda optik sınırlardan 
+uzak yerlerde DGKT modeli doğru sonuçlar vermiştir. Başka bir deyişle, senaryo tek iç açılı 
+empedans kama veya tek bıçak kenarlı kama içeriyorsa veya birden fazla kama olduğu durumda 
+bu kamalar birbirinin geçiş bölgesini kesmediği sürece DGKT modeli doğru sonuçlar 
+vermektedir. DGKT modelinin çoklu kırınım içeren senaryolardaki hatasını ortadan kaldırmak 
+için birçok yaklaşımlar ileri sürülmüştür. Bu modelde gölge ve yansıma sınırlarında geçerli olan 
+iç açılı kama için kırınım katsayısı formülü ileri sürülmüştür. DGKT modeli, geometrik optik 
+modelinin genişletilmiş halidir ve bundan dolayıdır ki; kamanın yüzeyinden yansıyan ışınlar da 
+hesaba katılmalıdır (Luebbers 1984). Enerji kaynaktan alan hesabı yapılacak olan noktaya çeşitli 
+yollardan gelebilir. Bu yollar doğrudan, yansıyan ve kırınan olabildiği gibi bunların birleşimi de 
+olabilir. DGKT modeli her yerde kullanılabilmekte fakat bazı durumlarda alan hesaplamalarında 
+hatalı sonuçlar vermektedir. Bu hataları ortadan kaldırmak için eğim kırınımı (EK) modeli 
+sürülmüştür (Wang 2005).  
+Mittra (1976)’da ileri sürülen spektral kırınım teorisi’ne (SKT) göre engelin yüzeyindeki 
+akım ile saçılan alanlar arasındaki ilişki vardır. Yarı düzlem problemlerde saçılan alanlar 
+indüklenmiş yüzey akım dağıtımının fourier dönüşümünü biçiminde ifade edilebilir (Graeme 
+1976).  
+Kouyoumian and Tiberio (1982)’de çoklu kırınımlar içeren senaryolarda alıcı üzerindeki 
+elektrik alan şiddetini daha kesin bir biçimde kestirebilmek için 2. dereceden kırınımlar eklenerek 
+GKT modeli geliştirilmiştir. Bu çalışmanın eksik tarafı her türlü kırınım senaryosuna 
+uygulanamayışıdır. Bu modelin kullanılabilmesi için kama ve gözlem noktasının aynı düzlemde 
+olması gerekmektedir (Schneider and Luebbers 1989).   
+Vogler (1982)’de çoklu kırınımlar içeren senaryolarda elektrik alan şiddeti kestirimi 
+yapmak için nümerik bir model ileri sürülmüştür. Bu ileri sürülen model hata fonksiyonunun 
+tekrarlı integralinin kullanılmasını gerektirmektedir. Vogler’in ileri sürmüş olduğu bu nümerik 
+model en fazla 10 bıçak kenarlı kama içeren senaryolar için kullanılabilmektedir. Vogler 
+modeline göre yol N tane engel içeriyor ve alıcı ve verici antenler bu engellerden çok uzaktadır. 
+Bu model nümerik hesaplamalara dayanmaktadır. Kırınan alanları tam kestirebilmek için hata 
+fonksiyonunun integralini doğru hesaplamak gerekir. Bu model diğer modeller için referans 
+niteliği taşımaktadır. Modelin senaryolara uygulanmasının zorluğu ve hesaplama süresinin 
+fazlalığı nedeniyle kullanılmamaktadır. Vogler modelinin kullanımı bina sayısı 5 den fazla olursa 
+zorlaşmaktadır (Lee et al. 2002). 
+Clarkowski (1984)’te spektral kırınım teorisini iç açılı empedans kama yapı için düzlem 
+dalga kırınımına uygulanmıştır (Graeme 1976). 
+
+39 
+
+Tabakcıoğlu, M.B. ve Cansız, A.: Çoklu Kırınımlar İçeren Senaryolar için EM Dalga Yayılım Modelleri 
+
+Luebbers (1984)’te DGKT modeli iç açılı kama içeren senaryoya uygulanmıştır. Elektrik 
+alan şiddeti kestiriminde bıçak kenarlı kama ile iç açılı kamanın kırınan alana etkilerini ortaya 
+koymuştur. DGKT modeli iç açılı kama kırınımları fresnel integrallerine dayanmaktadır. Bıçak 
+kenarlı kamadan farklı olarak iç açılı kama yapılarda kamanın yüzeylerinden yansıyan alanlar da 
+alıcı üzerindeki elektrik alan şiddetine eklenmektedir. Kırınım katsayıları içine geçiş fonksiyonu 
+eklenerek düzgün kırınım teorisi (DKT) ileri sürülmüştür. İç açılı kama yapısı, bıçak kenarlı kama 
+yapıya göre daha karmaşıktır. Bıçak kenarlı kama yaklaşımı gerçek ölçümlere göre hatalı sonuçlar 
+vermektedir. Bunun sebebi, kutuplanma, iletkenlik, bağıl elektrik geçirgenliği ve engelin yapısı 
+gibi parametreler bıçak kenarlı kama modelinde hesaba katılmamaktadır.  
+Giovaneli (1984)’te ileri sürülen model, Deygout modelini takip etmektedir. Bu model de 
+alıcı üzerindeki alanı hesaplamak için birçok tekli kırınım integrali içermektedir. 
+Walfish and Bertoni (1988)’de yüksek frekans radyo yayılımı için nümerik bir model 
+geliştirilmiştir. Bu modele göre yayılım için çevrenin fiziksel özelliklerinin de hesaba katılması 
+gerekmektedir. Bu kapsamda binaların yüksekliği, binalar arası mesafe ve anten yüksekliği 
+önemlidir. Bu modelde anten yüksekliği ortalama bina yüksekliğinin üzerinde kabul edilmektedir. 
+Deygout (1991)’de kendi ileri sürmüş olduğu modeli tekrar revize etmiştir. Deygout, kendi 
+modeline doğrulama terimleri ekleyerek kırınım kaybı hesabındaki hatayı bir derece azaltmıştır. 
+Bu modelin dezavantajı, iç açılı kamalar içeren senaryoya uygulanamamasıdır (Tzaras and 
+Saunders 2000).    
+Andersen (1994)’te, DKT modeline, gelen alanların türevsel bileşenleri ekleyerek EK 
+modeli ileri sürülmüştür. Bu modele göre, çoklu bina ve tepeler üzerinden UHF radyo dalgası 
+yayılımında engeller sıkça gölge sınırına yakın geçiş bölgesinde bulunur.  Bu bölgede ışın 
+modelleri alan büyüklüğünü hesaplamada başarısız olur. DKT modeline türevsel bileşenlerin 
+eklenmesiyle gerçek değere yakın sonuçlar alınmakta ve böylece DKT modelinin geçiş 
+bölgesindeki hatası telafi edilmiş olmaktadır. Bu model bıçak kenarlı kama yapılar içeren 
+senaryolara uygulanmış ve doğruluğu literatürdeki çözümlerle karşılaştırılarak ispatlanmıştır. 
+Holm (1996)’da bıçak kenarlı kama için çoklu integralin asimptotik açılımını 
+denklemleştirmiştir. Bu açılım alanı tek bir bıçak kenarlı kama türünde ifade eder. Bu ifade 
+dikkate alınarak benzer bir açılım daha yüksek mertebeden kırınmış alanlar için yapılmıştır. Geçiş 
+fonksiyonları aracılığıyla, gelen alanın ışın optik alan olmadığı durumda DKT modelinden 
+kaynaklanan bazı kusurlar ortadan kaldırılmıştır. 
+Andersen (1997)’de eğim kırınımı modeli, gölge sınırına yakın geçiş bölgelerindeki 
+soğuran çoklu ekranlara uygulandı. Teori geçiş bölgesindeki birinci derece etki olan eğim 
+kırınımının uygulanmasını içermektedir. Eğim ve genlik kırınımı için uzaklık parametreleri her 
+bir noktada genlik ve eğim sürekliliği sağlanarak belirlendi. Sonuç literatürdeki bilinen 
+yöntemlerle karşılaştırıldı ve iki ekranın birbirine çok yakın olması durumu haricindeki 
+senaryolarla kesinlik açısından neredeyse aynı sonuçları çok daha kısa sürede verdi.  
+Rizk et al. (1998)’de eğim kırınımı modelinin bıçak kenarlı kama ve empedans kamalardan 
+oluşan ve gelişi güzel belirlenmiş bir yapıya uygulanmasının algoritması tarif edilmektedir. 
+Bunun literatürdeki yayınlarla doğrulaması yapılmıştır. Buna ek olarak literatürde hiç olmayan 
+empedans kamaya eğim kırınımı modeli de uygulanmıştır. Yine bunlara ek olarak kentsel 
+bölgelerde kestirim yapılarak, EK modelinin kesinlik bakımından DKT modeline katkıları ortaya 
+koyulmuştur. Elektrik alan şiddetinin kestirimindeki kesinlikteki kazanç, doğrudan geçiş bölgesi 
+genişliği ile alakalıdır. Geçiş bölgesi genişliği (GBG) üç parametreyle alakalıdır. Bunlar frekans, 
+iki ekran arasındaki mesafe ve bina yükseklikleri arasındaki farktan oluşmaktadır. Bu üç 
+parametrenin alıcı üzerindeki alan şiddetini ayrı ayrı incelenmek yerine, Geçiş bölgesi genişliği 
+parametresi tek başına incelenmiştir. 
+Holm (2000)’de mükemmel iletken olmayan iç açılı kama için, DKT modelinde 
+kullanılmak için yeni bir buluşsal kırınım katsayısı ileri sürülmüştür. Bu katsayı Luebbers 
+tarafından ortaya konulan buluşsal katsayının genişletilmiş durumudur ve hesaplaması 
+olabildiğince basittir. İleri saçılma durumunda ve yüzey dalga etkilerini ihmal ederek, yeni katsayı 
+
+40 
+
+Uludağ Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, Cilt 19, Sayı 1, 2014 
+
+Maliuzhinet (1958)’dekine yakın sonuç vermektedir. Ayrıca, bu kırınım katsayısı önceki 
+metotlarda başarısız olunan gölge bölgelerinin derinliklerinde başarılı sonuçlar vermiştir.  
+Tzaras (2001)’de DKT modelini temel alan, yeni bir buluşsal çoklu kırınım modeli ileri 
+sürülmüştür. Bu model ikinci mertebeden bir kırınım işlemi olarak tanımlanabilen eğim kırınım 
+terimlerini de içine alır. Eğim kırınım terimleri birden fazla bıçak kenarlı kama olduğu 
+durumlarda kesin kestirimler yapabilmek için çok önem taşımaktadır. Bu modelle yapılan alıcı 
+üzerindeki alan kestirimleri Vogler (1982) modeliyle karşılaştırılmış ve çok farklı senaryolarda 
+düşük işlem karmaşıklığıyla çok iyi sonuçlar alındı. Üstelik model iç açılı empedans kama 
+modeline uyarlanmıştır. 
+Bertoni and Chung (2002)’de yeni bir nümerik model olan fiziksel optik modeli 
+geliştirilmiştir. Bu model Walfish (1988) modelinin genelleştirilmiş halidir. Kirchhoff-Huygen 
+integrallerinin çözümlerine dayanır. Çeşitli frekanslar için verici antenin yüksekliğinin ortalama 
+yüksekliğin altında, seviyesinde ve yukarısındaki durumları için incelemelerde bulunulmuştur. 
+Verici anten yüksekliği bina çatılarının yüksekliklerine yakın ise alıcıya ulaşan alanın şiddeti alıcı 
+ve verici arasındaki çatıların sayısına göre azalmaktadır (Chung 2000). 
+Bertoni and Chung (2003)’te kendilerinin ileri sürmüş oldukları fiziksel optik modeli 
+geliştirmişlerdir. Kırınıma etkisi olmayan binaların senaryodan çıkarılması ilkesine 
+dayanmaktadır. Kaynak ile alıcı arasındaki herhangi bir yüzeye alan ulaşırsa bu yüzey ikinci bir 
+kaynak vazifesi yapar. Etkin olmayan binaların belirlenmesinde Fresnel bölgesi kavramı 
+kullanılmıştır. Fresnel bölgesi alıcı ve verici arasında bu iki nokta odak noktaları olacak şekilde 
+elipsoit bölgedir. Elipsoit bölge dışındaki cisimlerden alanlar yansır veya kırınır fakat bunun 
+toplam alana etkisi yok denecek kadar azdır. Öte yandan Fresnel bölgesi içindeki binalar ise 
+toplam alanı çok fazla etkiler (Bertoni 2000). Dışbükey Zarf tekniği kullanılarak, etkin olmayan 
+binalar belirlendi ve senaryodan çıkarıldı. Etkin olmayan binaların senaryodan çıkarılmasıyla 
+hesaplama zamanı düşürüldü. Etkin olmayan binalar çıkarıldığı için kesinlikten ödün 
+verilmemiştir.   
+Holm (2004)’te çoklu bıçak kenarlı kama kırınımı içeren modeli geliştirmiştir. Sonucun 
+kesinliğini artırmak için yüksek mertebeden kırınan alanlar seriler kullanılarak eklenmiştir. Kesin 
+çözüm bulmak için fazla terim kullanmak gerekmektedir. Sonuç iç açılı kama modeli için de 
+kullanılabilmektedir. Seri açılımını toplamak çok fazla zaman almaktadır. Bunun için bu modelde 
+zaman açısından daha verimli toplama işlemi yapılmıştır. 
+Umul (2004)’te mükemmel ileten cisimlerden saçılan alanları hesaplamak için PO modeli 
+yeniden düzenlendi.  
+Leandro et al. (2005)’te DKT için yeni bir yöntem geliştirmiştir. Binalar dikdörtgen 
+şeklinde düşünülmekte ve verici anten binalarla aynı boyda veya daha yüksek boyda olmalıdır. 
+Aynı boyda olunca tekli kırınım olup hesaplama zamanı düşmektedir. 
+Koutitas and Tzaras (2006)’da çoklu kırınım art arda gelen farklı yapılara uygulanmıştır. 
+Art arda gelen bu yapılar iç açılı kama, bıçak kenarlı kama ve silindirik yapılar olabilmektedir. 
+Çevredeki binalar veya dağlar ve tepelerin şekilleri kendine en uygun bir yapıya göre 
+modellenebilmektedir. 
+Karousos and Tzaras (2008)’de çoklu kırınımın çözümü zaman alanında incelenmiştir. 
+Kırınım formülleri zaman alanında çıkarılmıştır. Daha sonra kırınım algoritması bıçak kenarlı 
+kama ve iç açılı kamaya uyarlanmıştır.  
+Tajvidy and Ghorbani (2008)’de yeni bir geometrik kırınım teorisi geliştirilmiştir. Bu 
+model çoklu kırınım senaryosuna uygulandı. Modelin dezavantajı ise birbirine eşit yükseklikli 
+paralel binalar olması durumunda kullanılmaktadır.  
+Leandro et al. (2008)’de DKT için yeni bir yöntem geliştirilmiştir. Bu yöntemde binalar 
+silindir şeklinde düşünülmekte ve verici anten binalarla aynı boyda veya daha yüksek boyda 
+olmalıdır.  
+Tabakcioglu and Kara (2009a)’da bıçak kenarlı kama yapılar için Dışbükey Zarf (DZ) 
+tekniğine dayalı Eğim Kırınımı (EKDZ) modeli geliştirilmiştir. Bu model aslında Dışbükey Zarf 
+
+41 
+
+Tabakcıoğlu, M.B. ve Cansız, A.: Çoklu Kırınımlar İçeren Senaryolar için EM Dalga Yayılım Modelleri 
+
+ve Eğim Kırınımı modellerinin birleştirildiği bir modeldir. Dışbükey Zarf tekniği kullanılarak 
+alıcı üzerindeki toplam alana etkisi olan bıçak kenarlı kamaları tespit edilmektedir. Daha sonra 
+Eğim Kırınımı modeli ile de etkin bıçak kenarlı kamalar üzerinden alan kestirimi yapılmaktadır. 
+Etkin olmayan bıçak kenarlı kamalar geometriden çıkarıldığı için hesaplama süresi düşmektedir. 
+Ortalama bir bıçak kenarlı kama elenmesi durumunda yaklaşık 5 kat hesaplama süresi 
+düşmektedir. Aynı zamanda etkin olmayan bıçak kenarlı kama geometriden çıkarıldığı için alan 
+hesabı kestirimindeki kesinlikten de ödün verilmemektedir.  
+Leandro et al. (2009)’da DKT için art arda gelen farklı yapılar için yeni bir yöntem 
+geliştirilmiştir. Bu yöntemde binalar silindir, iç açılı kama ve bıçak kenarlı kama olarak 
+düşünülmekte ve verici anten binalarla aynı boyda veya daha yüksek boyda olmalıdır.  
+Yalcin (2009)’da mükemmel ileten yarı düzlemden saçılan düzgün alanlar çalışıldı ve 
+model sınır kırınımına genişletildi. 
+Torabi et al. (2009)’da mükemmel iletemeyen bıçak kenarlı kama yapılar için kırınım 
+katsayısı geliştirildi.   
+Tabakcioglu ve Kara (2010a)’da EKDZ modeli iç açılı kama yapılara uyarlanmıştır. Bu 
+yeni modelde kama iç açısı, kamanın iletkenliği, kamanın elektrik geçirgenlik sabiti ve 
+kutulanmanın türü de hesaba katılmaktadır.  
+Leandro et al. (2013)’te düzgün kırınım teorisi ile PO modeli birleştirildi ve eşit yüksekliğe 
+sahip yapılara uygulandı. 
+DKT, EK ve EKDZ modellerinin avantaj ve dezavantajlarını ortaya koymak için Şekil 1’de 
+verilen yayılım senaryosu incelendi.  
+ 
+ 
+
+Tx 
+
+25 m 
+
+10 m 
+
+1,5 m 
+
+  d 
+
+20 m 
+
+Rx 
+
+ 
+
+ 
+Şekil 1: 
+Yayılım senaryosu (Tabakcioglu ve Cansiz, 2013) 
+
+ Bu senaryoda 10 adet bıçak kenarlı kama bulunmaktadır. İşlem frekansı 2100 MHz olarak 
+seçilmiştir. Ortalama bina yüksekliği 10 m olup, binalar 10±4 m olarak rastgele atanmıştır. 
+Binalar arası mesafe ise 20 m olup, binalar arası mesafe 20±5 m olarak atanmıştır. Alıcı yüksekliği 
+1,5 m olup, verici yüksekliği 5, 10, 15, 20 ve 25 m olarak seçilmiştir. Her bir durum için 20 kez 
+benzetimler yapılmış olup sonuçlar Tablo 1’de verilmiştir. 
+ 
+ 
+ 
+ 
+ 
+
+42 
+
+Uludağ Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, Cilt 19, Sayı 1, 2014 
+
+Tablo 1. Benzetim sonuçları 
+
+DKT 
+(s) 
+EK (s) 
+EKDZ (s) 
+DKT-EK 
+(dB) 
+EKDZ-EK 
+(dB) 
+ELENEN 
+Tx 
+
+0,898 
+157,618 
+0,010 
+0,118 
+0,234 
+7,400 
+25 
+
+0,969 
+187,709 
+0,026 
+0,501 
+0,259 
+7,050 
+20 
+
+1,147 
+235,013 
+0,363 
+0,576 
+0,119 
+6,050 
+15 
+
+0,959 
+214,041 
+6,129 
+0,605 
+0,151 
+5,000 
+10 
+
+0,670 
+160,813 
+0,898 
+0,896 
+0,212 
+4,650 
+5 
+ 
+Tablo 1’den de görülebileceği gibi, sol üç sütunda modellerin hesaplama süreleri 
+verilmiştir. Sonraki sütunda eğim kırınımı modelinin düzgün kırınım teorisi modeline katkısı 
+verilmektedir. Daha sonra gelen sütunda EK ve EKDZ modellerinin farkı verilmektedir. Ayrıca 
+EKDZ modelinde etkin olmayıp senaryodan çıkarılan bina sayısı ile verici yükseklikleri de 
+Tablo1’de verilmektedir. EK modeli referans model olup hesaplama zamanı en yüksek olan 
+modeldir. DKT modeli kısa hesaplama süresine sahip olup, en çok hata veren modeldir. Verici 
+yüksekliği azaldığı durumlarda binalar birbirinin geçiş bölgesine girdiğinden, EK modelinin 
+katkısı artmaktadır. Etkin olmayan binalar senaryodan çıkarıldığı için EK ile EKDZ modeli 
+yaklaşık sonuçlar vermekte olup EKDZ modelinde hesaplama süresi oldukça düşüktür. Verici 
+yüksekliği aşağı çekildiği durumlarda elenen bina sayısı azalmaktadır. EKDZ modeli hesaplama 
+süresi ve kestirimdeki kesinlik açısından optimum bir modeldir. 
+ 
+
+3. SONUÇLAR 
+ 
+Geometrik optik yansıma ve kırılma olaylarını açıklamaktadır. Kırınım olayı geometrik 
+optikle ifade edilememektedir. Çoklu kırınım içeren senaryolar için alıcı üzerindeki alan şiddetini 
+kestirmek için birçok elektromanyetik dalga yayılım modeli ileri sürülmüştür. Bu yayılım 
+modelleri temelde nümerik ve ışın teorisine dayanan olmak üzere iki ana gruba ayrılmaktadır. 
+Nümerik modeller hata fonksiyonunun, Kirchhoff-Huygen ve fresnel benzeri integrallerin 
+hesaplanması ilkesine dayanır. Nümerik modeller gerçek ölçümlerle hemen hemen aynı sonucu 
+vermektedir. Bu modeller kesin sonuç vermesine karşın hesaplama süresi çok fazladır. Işın izleme 
+tekniğine dayanan modellerin ise işlem karmaşıklığı, dolayısıyla hesaplama zamanı düşüktür. Bu 
+modellerin alan şiddeti kestirimindeki kesinliği de düşüktür. Hesaplama zamanı ile kesinlik 
+arasında ödünleşme vardır. Daha güvenilir bir yayıncılık yapmak için hesaplama süresi ve 
+kesinlik açısından optimum bir modellere ihtiyaç duyulmaktadır.  
+ 
+
+4. KAYNAKLAR 
+ 
+1. Andersen, J. B. (1994). “Transition zone diffraction by multiple edges”, IEEE Proceedings  
+Microwave Antennas and Propagation, UK. 
+
+2. Andersen, J. B. (1997). “UTD multiple-edge transition zone diffraction”, IEEE Transactions 
+on Antennas and Propagation, Cilt 45, 1093–1097. 
+
+3. Balanis, C.A. (1989). Advanced Engineering Electromagnetics, John Wiley & Sons, New 
+York, USA. 
+
+4. Bertoni,H.L. (2000). Radio Propagation for Modern Wireless Systems, Prentice-Hall, New 
+Jersey, USA. 
+
+43 
+
+Tabakcıoğlu, M.B. ve Cansız, A.: Çoklu Kırınımlar İçeren Senaryolar için EM Dalga Yayılım Modelleri 
+
+5. Borovikov, V.A. and Kinber, B.E. (1994). Geometrical Theory of Diffraction, Institution of 
+Electrical Engineers, London, UK. 
+
+6. Causebrook, J.H. and Davies, B. (1971). “Tropospheric radio wave propagation over irregular 
+terrain: The computation of fielld strength for UHF broadcasting”, BCC Research 
+Department Report RD 1971/43. 
+
+7. Chung, H. K. and Bertoni, H. L. (2002). “Range-dependent path-loss model in residential 
+areas for the VHF and UHF bands”, IEEE Transaction on Antennas and Propagation, Cilt 
+50, No 1, 1-11. 
+
+8. Chung, H.K. (2000). Radio Channel Studies from 30 MHz to 5 GHz, Ph.D. Thesis. Graduated 
+School Polytechnic Institute of New York University. 
+
+9. Chung, H. K and Bertoni, H. L. (2003). “Application of isolated diffraction edge method for 
+urban microwave path loss prediction”, IEEE Vehicular Technology Conference, USA. 
+
+10. Clarkowski, A., Boersma, J. and Mittra, R. (1984). “Plane-Wave Diffraction by a Wedge-A 
+spectral Domain Approach”, IEEE Trans. on Antenna. Propagat., Cilt 32, No 1, 20-29. 
+
+11. Deygout, J. (1966). “Multiple knife-edge diffraction of microwaves”, IEEE Trans. Antennas 
+Prorpagat, Cilt 14, 480-489, 1966. 
+
+12. Deygout, J. (1991). “Correction factor for multiple knife-edge diffraction”, IEEE Trans. 
+Antennas Prorpagat, Cilt 39, 1256-1258. 
+
+13. Giovaneli, C.L. (1984). “An analysis of simplified solutions for multiple knife-edge 
+diffraction”, IEEE Trans. on Antenna. Propagat., Cilt 32, 297-301, 1984. 
+
+14. Graeme, L.J. (1976). Geometrical Theory of Diffraction for Electromagnetic Waves, 
+Institution of Electrical Engineers, London, UK, 1976. 
+
+15. Harrington, R.F. (1966). Field Computation by Moment Methods. IEEE Press Series, New 
+Jersey, USA. 
+
+16. Holm, P. D. (1996). “UTD-Diffraction Coefficients for Higher Order Wedge Diffracted 
+Fields”, IEEE Transactions on Antennas and Propagation, Cilt 4, No 6, 879-888. 
+
+17. Holm, P. D. (2000). “A new heuristic UTD Diffraction Coefficients for nonperfectly 
+conducting wedges”, IEEE Transactions on Antennas and Propagation, Cilt 48, 1211-1219. 
+
+18. Holm, P. D. (2004). “Calculation of Higher Order Diffracted Fields for Multiple-Edge 
+Transition Zone Diffraction”, IEEE Transactions on Antennas and Propagation, Cilt 52, No 
+5, 1350-1355. 
+
+19. Karousos, A. and Tzaras, C. (2008). “Multi Time-Domain Diffraction for UWB Signals”, 
+IEEE Transactions on Antennas and Propagation, Cilt 56, No 5, 1420-1427. 
+
+20. Keller, J.B. (1962). “Geometrical Theory of Diffraction”, J. Opt. Soc. Amer., Cilt 52, No 2, 
+116-130, 1962. 
+
+21. Koutitas, G. and Tzaras, C. (2006). “A Slope UTD Solution for a Cascade of Multishaped 
+Canonical objects”, IEEE Transactions on Antennas and Propagation, Cilt 54, No 10, 2969-
+2976. 
+
+22. Kouyoumjian, R. G. and Pathak, P. H. (1974). “A uniform geometrical theory of diffraction 
+for an edge in a perfectly conducting surface”, Proceedings of the IEEE, Cilt 62, 1448–1461. 
+
+23. Lee, M.B.R., Saunders, S.R., Tzaras, C., Montiel, E. and Scrivens, J. (2002). “The Digiplan 
+project: Coverage prediction for digital broadcast services”, BBC White Paper 047. 
+
+44 
+
+Uludağ Üniversitesi Mühendislik-Mimarlık Fakültesi Dergisi, Cilt 19, Sayı 1, 2014 
+
+24. Luebbers, R.J., (1984). “Finite conductivity uniform GTD versus knife edge diffraction in 
+prediction of propagation path loss”, IEEE Trans. Antennas Propagat, Cilt 32, 70-76. 
+
+25. Macdonald, H.M. (1912). “The effect produced by an obstacle on a train of electric waves”, 
+Phil. Trans.Royal Soc. London, Series  A, Math. Phys. Sc., Cilt 212, 299-337, 1912. 
+
+26. Maliuzhinets, G.D. (1958). “Excitation, reflection and emission of surface waves from a 
+wedge with given face impedances”, Sov. Phys. Dokl., Cilt 3, No 4, 752-755. 
+
+27. Martínez-Inglés, M.T., Rodríguez, J.V.,  Molina-Garcia-Pardo, J.M., Pascual-García, J. and 
+Juan-Llácer, L. (2013). “Comparison of a UTD-PO Formulation for Multiple-Plateau 
+Diffraction with Measurements at 62 GHz”, Cilt 61, No 2, 1000-1003. 
+
+28. Rahmat-Sami, Y. and Mittra, R. (1976). “On the investigation of diffracted fields at the 
+shadow boundaries of staggered parallel paltes-A spectral domain approach”, Radio Science, 
+Cilt 12, No 5, 659-670. 
+
+29. Rizk, K., Valenzuela, R., Chizhik, D. and Gardiol, F. (1998). “Application of the slope 
+diffraction method for urban microwave propagation prediction”, IEEE Vehicular 
+Technology Conference, Canada. 
+
+30. Rodriguez, J.V., Molina-Garcia-Pardo, J.M. and Leandro, J.L. (2005). “An Improved 
+Solution Expressed in Terms of UTD Coefficients for Multiple Building Diffraction of Plane 
+Waves”, IEEE Antennas and Wireless Propagation Letters, Cilt 4, 16-19. 
+
+31. Rodriguez, J.V., Molina-Garcia-Pardo, J.M. and Leandro, J.L. (2008). “A Hybrid UTD-PO 
+Solution for Multiple-Cylinder Diffraction Analysis Assuming Spherical-Wave Incidence”, 
+IEEE Transactions on Antennas and Propagation, Cilt 56, No 9, 3078-3081. 
+
+32. Rodriguez, J.V., Molina-Garcia-Pardo, J.M. and Leandro, J.L. (2009). “UTD-PO 
+Formulation for the Multiple-Diffraction of Spherical Waves by an Array of Multimodeled 
+Obstacles”, IEEE Antennas and Wireless Propagation Letters, Cilt 8, 379-382. 
+
+33. Schneider, M. and Luebbers, R.J. (1989). “A Uniform double diffraction coefficient”, 
+Antennas and Propagation Society International Symposium (AP-S), 3, 1270-1273, Digest. 
+
+34. Tabakcioglu, M. B. and A. Kara (2009). “Comparison of improved slope UTD method with 
+UTD based methods and physical optic solution for multiple building diffractions”, 
+Electromagnetics, Cilt 29, No 4, 303–320. 
+
+35. Tabakcioglu, M. B. and A. Kara (2010). “Improvements on Slope Diffraction for Multiple 
+Wedges”, Electromagnetics, Cilt 30, No 3, 285-296. 
+
+36. Tabakcioglu, M. B. and A. Cansiz (2013). “Application of S-UTD-CH Model into Multiple 
+Diffraction Scenarios”, International Journal of Antennas and Propagation, Cilt 2013,1-5. 
+
+37. Tajvidy, A., Ghorbani, A. (2008). “A New Uniform Theory-of-Diffraction-Based Model for 
+the Multiple Building Diffraction of Spherical Waves in Microcell Environments”, 
+Electromagnetics, Cilt 28, No 5, 75-387. 
+
+38. Tiberio, R. and Kouyoumjian, R.G. (1982). “An analysis of diffraction at edges illuminated 
+by transition region fields”, Radio Science, Cilt 17, No 2, 323-336. 
+
+39. Torabi, E., Ghorbani, R. and Tajvidy, A. (2009). “A Modified Diffraction Coefficient for 
+Imperfect Conducting Wedges and Buildings With Finite Dimensions”, IEEE Transactions 
+on Antennas and Propagation, Cilt 57, No 4, 1197-1207. 
+
+40. Tzaras, C. and Saunders, S.R. (2000). “Comparison of multiple-diffraction models for digital 
+broadcasting coverage prediction”, IEEE Trans. Broadcast., Cilt 46, No 3, 221-226. 
+
+45 
+
+Tabakcıoğlu, M.B. ve Cansız, A.: Çoklu Kırınımlar İçeren Senaryolar için EM Dalga Yayılım Modelleri 
+
+41. Tzaras, C. and Saunders, S. R. (2001). “An improved heuristic UTD solution for multiple-
+edge transition zone diffraction”, IEEE Transactions on Antennas and Propagation,Cilt 49, 
+No 12, 1678–1682. 
+
+42. Ufimtsev, P.Y. (2007). Fundamentals of the Physical Theory of Diffraction, John Wiley & 
+Sons, New Jersey, USA. 
+
+43. Umul, Z. (2004). “Modified theory of physical optics”, Optics Express, Cilt 12, No 20, 4959-
+4972. 
+
+44. Walfisch, J. and Bertoni, H.L. (1988). “A theoretical model of UHF propagation in urban 
+environment”, IEEE Trans. on Antenna. Propagat., Cilt 36, No 12, 1788-1796. 
+
+45. Wang, H. (2005). “Modeling and Wideband characterization of Radio wave propagation”, 
+Ph.D. Thesis, The University of Texas at Austin. 
+
+46. Vogler, L. (1982). “An attenuation function for multiple knife-edge diffraction”, Radio 
+Science, Cilt 17, 1541–1546. 
+
+47. Yalcin, U. (2009). “Uniform Scattered Fields of the Extended Theory of Boundary 
+Diffraction Wave for PEC Surfaces”, Progress In Electromagnetics Research M, Cilt 7, 29-
+39. 
+ 
+ 
+ 
+Makale 25.06.2012 tarihinde alınmış, 10.07.2013 tarihinde düzeltilmiş, 25.02.2014 tarihinde kabul 
+edilmiştir. 
+
+46 
+

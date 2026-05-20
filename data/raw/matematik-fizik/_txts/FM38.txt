@@ -1,0 +1,817 @@
+Afyon Kocatepe Üniversitesi Fen ve Mühendislik Bilimleri Dergisi
+
+Afyon Kocatepe University Journal of Science and  Engineering  
+
+AKÜ FEMÜBİD 15 (2015) 025201 (1-6)
+AKU J. Sci. Eng. 15 (2015) 025201 (1-6)
+
+DOI: 10.5578/fmbd.9125  
+     Araştırma Makalesi / Research Article 
+ 
+Işın İzleme Tekniğinin Radyo Dalga Yayılım Modellerinde Kullanılması 
+
+ 
+Doruk Ayberkin, Mehmet Barış Tabakcıoğlu 
+
+Bayburt Üniversitesi Bayburt Meslek Yüksekokulu, Bilgisayar Programcılığı Bölümü, Bayburt. 
+Bayburt Üniversitesi, Mühendislik Fakültesi, Elektrik Elektronik Mühendisliği Bölümü, Bayburt.  
+doruk@bayburt.edu.tr 
+mbtabakcioglu@bayburt.edu.tr 
+ 
+
+Geliş Tarihi:17.06.2014; Kabul Tarihi:19.02.2015 
+ 
+
+Özet 
+
+Anahtar kelimeler 
+Işın izleme tekniği; 
+Eğim kırınımı; Dışbükey 
+zarf tekniği; Geometrik 
+
+Daha güvenilir, zaman açısından verimli ve kesinliği yüksek elektromanyetik dalga şiddeti kestirimi 
+yapmak için birçok yayılım modeli geliştirilmiştir. Bu modeller nümerik ve ışın izleme tekniği tabanlı 
+olmak üzere iki kısımdır. Nümerik modellerin hesaplama zamanı ve kesinliği yüksektir. Buna karşın ışın 
+izleme tekniği tabanlı modellerin hesaplama süresi daha kısadır. Vericiden çıkan ve alıcıda sonlanan tüm 
+ışınların tespit edilmesi alıcı üzerindeki bağıl yol kaybının doğru hesaplanması için çok önemlidir. Bu 
+çalışmada kısaca bazı yayılım modelleri hakkında bilgi verildikten sonra ışın izleme tekniği yazılımı 
+açıklanacaktır ve karşılaştırmalar yapılacaktır.  
+
+kırınım teorisi; Kırınım 
+
+katsayısı; Algoritma 
+
+ 
+Usage of Ray Tracing Technique in Radio Wave Propagation Models 
+
+Keywords 
+Ray tracing technique; 
+
+Abstract 
+
+Slope diffraction; 
+Convex hull technique; 
+
+To make more reliable, time efficient and more accurate electromagnetic wave strength prediction a lot 
+of propagation models have been introduced. These models are two kinds such as numerical and ray 
+traced based. Accuracy and computation time of numerical models are higher. Unlike computation time 
+of ray traced based models is less than numerical ones. The determination of all rays emanates from 
+transmitter and end at the receiver is vital to calculate the relative path loss accurately. In this study, 
+after a short brief about propagation model, ray tracing software is explained and comparisons are 
+made. 
+
+Geometrical Theory of 
+diffraction; Diffraction 
+
+Coefficient;   
+
+Algorithm. 
+
+© Afyon Kocatepe Üniversitesi 
+1. Giriş 
+
+haberleşmesinde yüksek frekanslar kullanıldığı için 
+engeller bıçak kenarlı kama (knife-edge), iç açılı 
+empedans 
+kama 
+(wedge) 
+ve 
+silindir 
+şeklinde 
+modellenebilmektedir (Andersen, 1997). Işın izleme 
+tekniğine dayalı modellerden Uniform kırınım teorisi 
+(UKT) 
+Kouyoumjian 
+ve 
+Pathak 
+(1974)’te 
+ileri 
+sürülmüştür. Bu model geçiş bölgelerinde hatalı 
+sonuçlar 
+vermektedir 
+(Luebbers, 
+1984). 
+Geçiş 
+bölgesindeki hataları ortadan kaldırmak için eğim 
+kırınımları Andersen (1994) engel sayısı az olduğu 
+durumlarda UKT (UTD) modeline katılmıştır (Leandro 
+and Jorge 2002). Engel sayısı fazla olduğu durumlarda 
+bu model hatalı sonuçlar vermektedir (Rizk et al. 
+1998). Eğim kırınımı (EK) model çoklu bıçak kenarlı 
+kama 
+ve 
+iç 
+açılı 
+empedans 
+kama 
+
+Dijital haberleşme sistemlerinde kapsama alanı 
+kestirimi çok önemlidir. Bunun için nümerik ve ışın 
+izleme tekniğine dayalı birçok elektromanyetik dalga 
+yayılım modeli ileri sürülmüştür (Tabakcıoğlu ve 
+Cansız 2014). Nümerik modellerin işlem karmaşıklığı 
+ve hesaplama süresi ışın izleme tekniğine dayalı 
+modellere göre daha fazladır (Tabakcıoğlu and Kara 
+2008). 
+Birçok 
+haberleşme 
+sistemi 
+istatistiksel 
+yaklaşımlar kullanmaktadır (Int Kyn. 1). Bu yaklaşımlar 
+ise daha fazla enerji tüketimi veya daha fazla baz 
+istasyonu kurulumu manasına gelmektedir. Fazla 
+enerji tüketimi yapmadan daha az sayıda baz 
+istasyonuyla kaliteli bir haberleşme sistemi kurmak 
+için 
+ışın 
+izleme 
+tekniğine 
+dayalı 
+modeller 
+kullanılmaktadır (Tabakcıoğlu and Kara 2009). Radyo 
+
+Işın İzleme Tekniği Tabanlı Radyo Yayılım Modeli, Ayberkin ve Tabakcıoğlu 
+
+yapılar için faz sürekliliği sağlanarak daha da 
+geliştirilmiştir (Tzaras and Saunders 2001). Bina 
+sayısı 10 ve daha fazla olduğu durumlarda model 
+kesinliğini yitirmekte ve hatalı sonuçlar vermektedir 
+(Kara et al. 2003). Eğim kırınımı (S-UTD) modelinin 
+hatasını ortadan kaldırmak için Dışbükey zarf 
+tekniğine dayalı eğim kırınımı (EKDZ) modeli ileri 
+sürülmüştür (Tabakcioglu and Kara 2010). Bu 
+modelde Bertoni ve Chung (2003)’teki fresnel 
+kavramı kullanılarak Bucci ve ark. (2003)’teki 
+dışbükey zarf oluşturulmuştur. Bu dışbükey zarf 
+üzerinden eğim kırınımı modeli çalıştırılmıştır. Etkin 
+olmayan binalar çıkarıldığı için kesinlikten ödün 
+verilmeden hesaplama zamanı düşürülmüştür. 
+Daha sonra eğim kırınımı modeli (Koutitas and 
+Tzaras 2005)’te silindirik yapılara ve (Koutitas and 
+Tzaras, 2006)’de art arda gelen değişik geometriler 
+içeren yapılara uygulanmıştır. Tabakcıoğlu ve 
+Cansız (2013)’te EK, UKT ve EKDZ (S-UTD-CH) 
+modelleri hesaplama zamanı ve kesinlik açısından 
+birbiriyle karşılaştırılmıştır. Yukarıda kısaca özetleri 
+verilen modellerin tamamı ışın izleme tekniğine 
+dayanmaktadır. Kaynaktan çıkan ve alıcıya ulaşan 
+tüm ışınlar tek tek tespit edilir (Ayberkin ve 
+Tabakcıoğlu 2014). Her bir ışının alıcı üzerindeki 
+şiddeti hesaplanır. En sonunda tüm ışınların 
+katkıları alıcı üzerinde toplanarak kaynaktan çıkan 
+ve alıcıda sonlanan alan şiddeti kestirilmiş olur. 
+Gelecek bölümlerde ışın izleme tekniği yazılımının 
+nasıl çalıştığı, daha sonra alıcı üzerindeki bağıl yol 
+kaybı nasıl hesaplandığı hakkında bilgiler verilerek                     
+örnek 
+bir 
+senaryo 
+üzerinden 
+diğer 
+yayılım 
+modelleriyle karşılaştırmalar yapılacaktır.  
+
+ 
+2. Işın İzleme Tekniği Yazılımı  
+ 
+2.1 Arayüz tanıtımı 
+
+Işın 
+izleme 
+tekniği 
+yazılımı 
+C# 
+ortamında 
+geliştirilmiştir. Şekil 1’de geliştirilen programın ara 
+yüzü verilmiştir. Şekil 1’den de görüleceği gibi 
+program manuel giriş, rasgele atamayla giriş ve 
+Google Earth haritalarından giriş olmak üzere 3 
+şekilde girdi alabilmektedir. Program çalıştırılırken 
+ilk önce girdi şekli seçilmektedir. Programa girilecek 
+girdiler 
+ise 
+baz 
+istasyonunun 
+yüksekliği 
+ve 
+lokasyonu, engellerin yüksekliği ve baz istasyonuna 
+uzaklığı, engellerin bağıl elektrik geçirgenlik sabiti, 
+engellerin iletkenliği, engellerin iç açısı, alıcının 
+yüksekliği ve vericiye olan uzaklığıdır. İşlem 
+frekansı, engel sayısı ve engelin tipi de kullanıcı ara 
+yüzünde 
+girilmelidir. 
+Vericinin 
+konumunu 
+çalışmamızda 
+referans 
+(origin) 
+olarak 
+kabul 
+edeceğiz. 
+Binaların 
+lokasyonlarını 
+verici 
+lokasyonuna göre belirleyeceğiz. Bağıl elektrik 
+geçirgenliği 
+ve 
+iletkenlik 
+binaların 
+yapıldığı 
+malzemelerin elektriksel özelliğidir. Örneğin kuru 
+toprak için bağıl elektrik geçirgenliği 15, iletkenlik 
+ise 0.0012 S/m dir. Engel iç açısı ise engel tipi iç açılı 
+empedans kama olma durumunda geçerli bir 
+parametredir. Google Earth haritalarından kırınım 
+senaryosunda 
+özellikle 
+radyo 
+ve 
+televizyon 
+yayıncılığında dağ ve tepelerin yükseklik ve referans 
+noktasına göre uzaklık bilgileri alınacaktır. Dağ ve 
+tepelerin 
+iç 
+açısı 
+ise 
+geometri 
+kullanılarak 
+hesaplanacak 
+ve 
+programa 
+veri 
+olarak 
+gönderilecektir.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 1. Kullanıcı ara yüzü. 
+
+ 
+
+ 
+
+AKÜ FEMÜBİD 15 (2015) 025201  
+ 
+ 2 
+
+ 
+
+Işın İzleme Tekniği Tabanlı Radyo Yayılım Modeli, Ayberkin ve Tabakcıoğlu 
+
+ 
+
+ 
+ 
+2.3. Manuel girdi penceresi 
+
+2.2. Rasgele (Random) girdi penceresi  
+
+Rasgele girdi penceresinde engellerin yükseklikleri 
+ve vericiye olan uzaklıkları belirlenen iki sayı 
+arasında rasgele atanmaktadır. Şekil 2’de rasgele 
+girdi penceresi verilmiştir.  
+
+Manuel girdi penceresinde engel yükseklikleri, 
+engellerin alıcıya uzaklıkları, alıcı ve verici anten 
+yükseklik ve lokasyonları, bağıl elektrik geçirgenlik 
+sabiti, iletkenlik ve engel iç açısı gibi bina 
+parametreleri Şekil 4’te görüldüğü üzere manuel 
+olarak girilmektedir. Şekil 3’te manule olarak girdi 
+seçilirse Şekil 4’teki pencere açılır ve bina 
+parametreleri tek tek girilir. Daha sonra bu 
+parametreler Şekil 3’e aktarılır.  
+
+ 
+Şekil 4. Manuel girdi penceresi. 
+
+ 
+Şekil 2. Rasgele girdi penceresi. 
+
+2.4. Işın izleme tekniği algoritması  
+
+Işın izleme tekniğini Şekil 5 üzerinden anlatacak 
+olursak; alıcı ve verici antenler arasında 10 km 
+vardır. Bu antenler arasında 4, 6 ve 8 km lerde 40, 
+50 ve 60 m yüksekliklerde üç engel bulunmaktadır. 
+Işın izleme tekniği ilk önce doğrudan alıcıya ulaşan 
+ışının olup olmadığını verilen iki nokta arası uzaklık 
+ve eğim formülleriyle kontrol etmektedir.  
+
+Ayrıca bağıl elektrik geçirgenliği (permittivity), 
+iletkenlik (conductivity) ve engel iç açısı (interior 
+angle) 
+gibi 
+bina 
+parametreleri 
+de 
+rasgele 
+atanabilmektedir. Şekil 3’te bıçak kenarlı kama 
+yapılar için örnek bir rasgele bina dağıtımı 
+yapılmıştır. Şekil 3’te Random (Rasgele) seçilirse 
+Şekil 2’deki pencere açılmaktadır. Bu açılan 
+pencerede açı, geçirgenlik, iletkenlik, yükseklik ve 
+binalar arası mesafeler için istenilen aralık 
+girilmektedir. 
+Bu 
+aralıklar 
+arasında 
+binaların 
+parametreleri 
+Şekil 
+3’te 
+görülebileceği 
+gibi 
+atanmaktadır.  Şekil 3’ten de görülebileceği gibi 
+kırınım senaryosunda alıcı ve verici dâhil 12 bina 
+vardır. Verici yüksekliği 20 m, alıcı yüksekliği 1.5 m 
+olup engel yükseklikleri 6 m ile 20 m arasında 
+rasgele atanmıştır. Binalar arası mesafe sabit 12 m 
+olarak seçilmiştir.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ݕ= (ݔ−ܶ௫ ) ቀ
+
+ோ೤ି்೤ 
+
+ோೣ ି்ೣ ቁ+ ܶ௬                   (1) 
+
+Burada, 
+Tx 
+ve 
+Ty 
+verici 
+lokasyonunun 
+koordinatlarıdır. Rx ve Ry alıcı lokasyonunun 
+koordinatlarıdır. 
+x 
+ve 
+y 
+bulmak istediğimiz 
+doğrunun üzerindeki noktanın koordinatlarıdır. 
+Engelin apsisi, alıcı ve verici koordinatları Denklem 
+(1)’de yerlerine yazılırsa bu noktada doğrunun 
+ordinatı 
+bulunur. 
+Eğer 
+bu 
+nokta 
+engelin 
+yüksekliğinden yüksek ise kesişme yoktur. Her bir 
+engel için bu durum incelenir. Doğrunun üzerinde 
+hesaplanan nokta engel yüksekliğinden yüksek ise 
+doğru hiç bir engel tarafından bloke edilmemiştir. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AKÜ FEMÜBİD 15 (2015) 025201  
+ 
+ 3 
+
+ 
+
+Işın İzleme Tekniği Tabanlı Radyo Yayılım Modeli, Ayberkin ve Tabakcıoğlu 
+
+ 
+
+ 
+ 
+ 
+Yukarıdaki denklemlerde D kırınım katsayısı, ds 
+eğim kırınım katsayısı, A yayılma faktörü, F geçiş 
+fonksiyonu ve L uzaklık parametresidir.  
+ 
+4. Karşılaştırmalar  
+ 
+UKT, EK ve EKDZ modellerinin avantaj ve 
+dezavantajlarını ortaya koymak için Şekil 6’da 
+(Tabakcıoğlu ve Cansız 2014) verilen yayılım 
+senaryosu incelendi.  
+ 
+
+ 
+
+0 1 3 4
+0 1 2 3 4
+
+0 1 4
+
+Tx 
+Rx 
+
+ 
+
+Şekil 5.  Işın izleme tekniği senaryosu. 
+
+Şekil 5’ten de görülebileceği gibi (0 2 ...) ile 
+başlayan herhangi bir yol bulunmamaktadır. Çünkü 
+bu yollar birinci engel tarafından bloke edilmiştir. 
+Sonuç olarak yukarıdaki senaryo için alıcı üzerindeki 
+toplam yol kaybına katkısı olan yollar (0 1 4), (0 1 3 
+4) ve (0 1 2 3 4) olmaktadır.  
+
+25 
+
+10 
+
+d
+
+1,5 
+
+Tx
+
+20
+
+Rx 
+
+3. Bağıl Yol Kaybı Hesaplama  
+
+ 
+Şekil 6.  Yayılım senaryosu. 
+ 
+Bu senaryoda 10 tane bıçak kenarlı kama olarak 
+modellenmiş 
+yapı 
+bulunmaktadır. 
+Kırınım 
+senaryosu için seçilen işlem frekansı 2100 MHz 
+olarak atanmıştır. Ortalama bina yüksekliği 10 m 
+olup, binalar 10±4 m olarak rastgele atanmıştır. 
+Binalar arası mesafe ise 20 m olup, binalar arası 
+mesafe 20±5 m olarak atanmıştır. Alıcı yüksekliği 
+1,5 m olup, verici yüksekliği 5, 10, 15, 20 ve 25 m 
+olarak seçilmiştir. Her bir durum için 20 kez 
+benzetimler yapılmış olup sonuçlar Tablo 1’de 
+verilmiştir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bağıl yol kaybı hesaplanırken vericiden çıkan alıcıda 
+sonlanan her bir ışın tek tek incelenir. Her bir ışın 
+için bağıl yol kaybı hesaplanır. En sonunda bu ışın 
+katkıları toplanır. Bağıl yol kaybını hesaplamak için 
+(Tzaras and Saunders 2001) de verilen yayılma 
+faktörü, kırınım katsayısı, geçiş fonksiyonu, uzaklık 
+parametreleri gibi bazı parametrelerin her bir ışın 
+için hesaplanması gerekmektedir.  
+ 
+
+డா೔
+
+డ௡݀௦ ]ܣ(ݏ)݁ି௝௞௦            (2) 
+
+ܧ= [ܧ௜ܦ+ 
+
+௘షೕഏ
+
+ܦ= − 
+
+ଶටଶగ௞ୡ୭ୱഀ
+
+ర
+
+ܨ(ݔ)                      (3) 
+
+ݔ= 2݇ܮcosଶߙ/2                         (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+మ
+
+Tablo 1. Benzetim sonuçları. 
+UKT (s)
+EK (s)
+EKDZ (s)
+UKT-EK (dB)
+EKDZ-EK (dB)
+ELENEN
+Tx
+
+0,898
+157,618
+0,010
+0,118
+0,234
+7,400
+25
+
+0,969
+187,709
+0,026
+0,501
+0,259
+7,050
+20
+
+1,147
+235,013
+0,363
+0,576
+0,119
+6,050
+15
+
+0,959
+214,041
+6,129
+0,605
+0,151
+5,000
+10
+
+0,670
+160,813
+0,898
+0,896
+0,212
+4,650
+5
+
+AKÜ FEMÜBİD 15 (2015) 025201  
+ 
+ 4 
+
+ 
+
+Işın İzleme Tekniği Tabanlı Radyo Yayılım Modeli, Ayberkin ve Tabakcıoğlu 
+
+ 
+ 
+ 
+Tablo 1’den de görülebileceği gibi, sol üç sütunda 
+modellerin hesaplama süreleri verilmiştir. Sonraki 
+sütunda eğim kırınımı modelinin düzgün kırınım 
+teorisi modeline katkısı verilmektedir. Daha sonra 
+gelen sütunda EK ve EKDZ modellerinin farkı 
+verilmektedir. 
+Ayrıca 
+EKDZ 
+modelinde 
+etkin 
+olmayıp senaryodan çıkarılan bina sayısı ile verici 
+yükseklikleri de Tablo1’de verilmektedir. EK modeli 
+referans model olup hesaplama zamanı en yüksek 
+olan modeldir. UKT modeli kısa hesaplama süresine 
+sahip olup, en çok hata veren modeldir. Verici 
+yüksekliği azaldığı durumlarda binalar birbirinin 
+geçiş bölgesine girdiğinden, EK modelinin katkısı 
+artmaktadır. Etkin olmayan binalar senaryodan 
+çıkarıldığı için EK ile EKDZ modeli yaklaşık sonuçlar 
+vermekte olup EKDZ modelinde hesaplama süresi 
+oldukça düşüktür. Verici yüksekliği aşağı çekildiği 
+durumlarda elenen bina sayısı azalmaktadır. EKDZ 
+modeli hesaplama süresi ve kestirimdeki kesinlik 
+açısından optimum bir modeldir.  
+ 
+
+Bu 
+makalede 
+hâlihazırda 
+kapsama 
+alanı 
+kestiriminde 
+ve 
+haberleşme 
+sistemlerinde 
+kullanılan elektromanyetik dalga yayılım modelleri 
+ve bu modellerde kullanılan ışın izleme tekniği ve 
+bağıl yol kaybı hesaplama yazılımı hakkında bilgi 
+verilmiştir. Alıcı üzerindeki dalga şiddetini kesin bir 
+şekilde 
+kısa 
+sürede 
+hesaplamak 
+haberleşme 
+sistemlerindeki 
+kalite 
+açısından 
+önemli 
+bir 
+faktördür. Işın izleme tekniğini kullanan EKDZ 
+modeli yüksek kesinliği ve düşük hesaplama 
+zamanıyla 
+kestirim 
+problemlerinde 
+kullanılabilmektedir.  
+ 
+Teşekkür 
+ 
+Bu çalışma Bayburt Üniversitesi Bilimsel Araştırma 
+Projelerini Destekleme Birimi tarafından 2013-1/14 
+proje numarasıyla desteklenmektedir. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+4. Tartışma ve Sonuç 
+
+ 
+
+application range of the slope diffraction method for 
+wireless communications, IEEE Transactions on 
+Antennas and Propagation, 51, 9, 2512-2514. 
+ 
+Koutitas, G. and Tzaras, C., 2006. A Slope UTD Solution 
+
+Kaynaklar 
+
+Andersen, J.B., 1994. Transition zone diffraction by 
+
+multiple edges. IEE Proceedings - Microwaves, 
+Antennas and Propagation, 141, 5, 382-384. 
+ 
+Andersen, J.B., 1997. UTD multiple edge transition zone 
+
+for a Cascade of Multishaped Canonical Objects IEEE 
+Transactions on Antennas and Propagation, 54, 10, 
+2969-2976.  
+ 
+Koutitas, G. and Tzaras, C., 2005. A new UTD formulation 
+
+diffraction. IEEE Transactions on Antennas and 
+Propagation, 45, 7, 1093-1097. 
+ 
+Bucci, O.M., Capozzoli, A., Curcio, C. and Delia, G., 2003. 
+
+for multiple cylindrical diffraction. IEEE International 
+Symposium on Microwave, Antenna, Propagation 
+and EMC Technologies for Wireless Communications 
+Proceedings, 45-48. 
+ 
+Kouyoumjian, R.G and Pathak, P., 1974. A uniform 
+
+The experimental validation of a technique to find 
+the convex hull of the scattering systems from field 
+data. IEEE APS Procedings, 539-542. 
+ 
+Chung, H.K. and Bertoni, H.L., 2003. Application of 
+
+geometrical theory of diffraction for an edge in a 
+perfectly conducting surface. IEE Procedings, 62, 
+1448-1461. 
+ 
+Leandro, J-L, and Jorge, L.R., 2002. A UTD-PO solution 
+
+Isolated Diffraction Edge (IDE) Method for Urban 
+Microwave Path Loss Prediction. IEEE Vehicular 
+Technology Conference, 1, 205-209. 
+ 
+Kara, A., Bertoni, H.L. and Yazgan, E., 2003. Limit and 
+
+for diffraction of plane waves by an array of perfectly 
+conducting wedges. IEEE Transactions on Antennas 
+
+AKÜ FEMÜBİD 15 (2015) 025201  
+ 
+ 5 
+
+ 
+
+Işın İzleme Tekniği Tabanlı Radyo Yayılım Modeli, Ayberkin ve Tabakcıoğlu 
+
+and Propagation, 50, 9, 1207-1211.  
+ 
+Luebbers, R.J., 1984. Finite conductivity uniform GTD 
+
+versus knife edge diffraction in prediction of 
+propagation path loss. IEEE Transactions on 
+Antennas and Propagation, 32, 1, 70-76.  
+ 
+Rizk, K., Valenzuela, R., Chizhik, D. and Gardiol, F., 1998. 
+
+Application of the slope diffraction method for urban 
+microwave propagation prediction, IEEE Vehicular 
+Technology Conference, 2, 1150-1155.  
+ 
+Tabakcıoğlu, M.B. ve Cansız A., 2014. Çoklu kırınımlar  
+
+içeren senaryolar için elektromanyetik dalga yayılım 
+modelleri,  Uludağ University Journal of the Faculty 
+of Engineering and Architecture, 19, 1, 37-46. 
+ 
+Tabakcıoğlu, M.B. and Kara, A., 2008. Discussions of 
+
+various UTD and PO solutions for multiple edge 
+diffractions in urban radio propagation modeling. 
+Electromagnetic Wave Scattering Workshop. 11, 1-6. 
+ 
+Tabakcıoğlu, M.B. and Kara, A., 2009. Comparison of 
+
+improved slope uniform theory of diffraction with 
+some geometrical optic and physical optic methods 
+for multiple building diffractions. Electromagnetics, 
+29, 1, 303-320. 
+ 
+Tabakcıoğlu, M.B. and Kara, A., 2010. Improvements on 
+
+Slope 
+Diffraction 
+for 
+Multiple 
+Wedges. 
+Electromagnetics, 30, 3, 285-296. 
+ 
+Tabakcıoğlu, M.B. and Cansız, A., 2013. Application of S-
+
+UTD-CH Model into Multiple Diffraction Scenarios. 
+International Journal of Antennas and Propagation, 
+2013, 1-5. 
+ 
+Tabakcıoğlu, M.B. ve Ayberkin, A., 2014. Çoklu kırınım 
+
+içeren senaryolarda kullanılan ışın izleme tekniği 
+algoritması 
+geliştirilmesi. 
+Akademik 
+Bilişim 
+Konferansları. 
+ 
+Tzaras, C. and Saunders, S.R., 2001. An improved 
+
+heuristic UTD solution for multiple-edge transition 
+zone diffraction, IEEE Transactions on Antennas and 
+Propagation, 49, 12, 1678-1682.  
+ 
+İnternet Kaynakları 
+1- http://en.wikipedia.org/wiki/Hata_model_for_urban
+
+_areas, (19.02.2015) 
+ 
+
+AKÜ FEMÜBİD 15 (2015) 025201  
+ 
+ 6 
+
+ 
+

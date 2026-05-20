@@ -1,0 +1,1624 @@
+kifmd 
+
+                                                              Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+2018 Cilt 2 Sayı 1 
+
+ 
+
+ 
+ 
+Mathematica® ile Sayısal Çözümleme Programları 
+
+ 
+Halil MUTUK   
+  Ondokuz Mayıs Üniversitesi, Fen-Edebiyat Fakültesi, Fizik Bölümü, 55139, Samsun, Türkiye  
+
+İletişim yazarı: Halil Mutuk (halil.mutuk@omu.edu.tr) 
+
+ 
+ 
+Özet 
+
+Bu çalışmada, sayısal çözümleme derslerinde yer alan lineer ve lineer olmayan denklem sistemler ile diferansiyel denklemlerin 
+çözümünde kullanılan bazı yaklaşık yöntemlerin Mathematica® yazılımı ile programları verilmiştir. Bu yöntemler lineer 
+denklem sistemleri için Gauss yok etme, matris çarpımıyla Gauss yok etme, Aitken, lineer olmayan denklem sistemleri için basit 
+iterasyon, Newton-Raphson, Sekant ve Regula-Falsi, diferansiyel denklemler için Euler ve Runge-Kutta yöntemleri 
+kapsamaktadır.  
+
+Anahtar Kelimeler: Mathematica®, Sayısal Çözümleme, Yaklaşık Yöntemler, Bilgisayar Programlama 
+ 
+
+Abstract 
+
+ 
+In this work, we give some codes of approximate methods for linear, non-linear and differential equations written in 
+Mathematica® software for numerical analysis courses. This methods consist of Gauss elimination, matrix product 
+Gauss elimination and Aitken for linear equations system, iteration, Newton-Raphson, Secant and Regula-Falsi for 
+non-linear equations and finally Euler and runge-Kutta methods for differential equations.  
+ 
+Keywords: Mathematica®, Numerical Analysis, Approximation Methods, Computer Programming 
+
+ 
+
+GİRİŞ 
+ 
+
+Sayısal çözümleme, diferansiyel denklemler, denklem çözümleri, doğrusal denklem takımlarının çözümü, türev, 
+integral, eğri uydurma vb. tipteki analitik olarak çözülemeyen problemlerin sayısal olarak çözümleme işidir.  
+
+Fen ve mühendislik alanındaki güncel çalışma konularını kapsayan problemlerin birçoğu diferansiyel 
+denklemleri içerir ve onlarla modellenir. Serbest düşen bir cismin hareketi, bir borudan akan sıvının hareketi ve 
+elektromanyetik dalganın yayılımı gibi fiziksel olgular diferansiyel denklemleri içerir. Bir diferansiyel denklem 
+bağımsız değişkenleri, bu değişkenlerin fonksiyonlarını ve bu fonksiyonların türevini içeren bir bağıntıdır [1]. Eğer 
+bu denklem tek bir değişkene bağlı fonksiyon içeriyorsa adi diferansiyel denklem, birden fazla bağımsız değişkenin 
+fonksiyonlarını içeriyorsa kısmi diferansiyel denklem denir. Genellikle diferansiyel denklem dendiğinde adi 
+diferansiyel denklem kastedilir.  
+
+Diferansiyel denklemi çözmek kadar onu oluşturmak da önemlidir. Örneğin fiziksel olguların modellenmesinde 
+bazı bir takım kabuller ve sınırlamalar getirebilir. Bu sınırlamalar başlangıç ve sınır değer problemlerinde 
+görülebilir. Fiziksel modellemede ülke literatüründeki kitap sayısı çok azdır. Pala (2006) [2], bu modelleme 
+açısından başvurulabilecek önemli bir kaynaktır. Sayısal çözümleme hem bilgisayar bilimlerini hem de matematik 
+gibi pozitif bilimleri de içerdiğinden her iki taraftan da beslenir. Herhangi bir olguyu örneğin radyoaktif bozunma 
+kanunu ele alalım. Bu olayın modellenmesi fizik kanunları altında matematiksel ifadelerle gerçekleşir. Sayısal 
+çözümleme bu modeli uygun programlama dillerini kullanarak bilgisayar yardımıyla sayısal olarak çözme işidir. 
+Daha genel bir tanımla sayısal çözümleme, matematiksel ifadelerle modellenen problemlerin çözümünde beli sayıda 
+ve sırası belirlenmiş işlemleri bilgisayarlarla yaparak kesin veya belli bir hassasiyete sahip sonuçlar elde etmek için 
+kullanılabilecek yaklaşık yöntemlerin bulunması, geliştirilmesi ve var olanlarından etkin olanının/olanlarının 
+bulunması olarak tanımlanabilir [3]. 
+
+37 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+Temel bilimler ve mühendislik dallarında karşılaşılan problemlerin çözümü iki ana gruba ayrılabilir: analitik 
+çözümler ve sayısal çözümler. Analitik çözümler, ilgili problemlerden parametrelere ve değişkenlere bağlı bir ifade 
+veya ifadeler grubu verdiğinden arzu edilen bir çözümdür. Bu parametreler ve değişkenler üzerinde istenilen 
+değişiklikler yapılarak problem incelenebilir. Sayısal çözümler, analitik çözümlemenin yapılamadığı durumlarda 
+ortaya çıkar [4]. Bu tip çözümler parametreler ve değişkenlerin belli kabulü altında çözümler oluşturulmaya çalışılır. 
+
+Temel bilimler ve mühendislik dalları içerisinde bazı problemlerin analitik olarak çözümü çok karmaşık 
+olabilir. Hatta bazı durumlarda çözüm analitik olarak bulunamayabilir. Bugün halen bilinen tam bir analitik ve 
+sayısal çözüme sahip olmayan diferansiyel denklemler vardır: matematikteki Korteweg- de Vries (KdV) lineer 
+olmayan kısmi diferansiyel denklemi, Navier-Stokes denklemi gibi. Schrödinger denkleminin hidrojen atomu 
+dışında kalan çok elektronlu atomlar için tam bir çözümü yoktur. Sayısal çözümleme bu tip problemlere yaklaşık 
+çözümler bulmak için kullanılır.  
+
+Sayısal çözümleme ile her türlü problemin üstesinden gelinebileceği gibi bir algıya sahip olunabilir. 
+Bilgisayarların teknik kapasitesine de bağlı olan bu algı aslında daha temel kuramsal bir olguyla da tezat düşer: 
+hesaplanabilirlik kuramı. Bu kuram ilk olarak matematikte yer almış olsa da bilgisayar bilimlerinde de karşılığı 
+vardır. Bu karşılık kendini algoritmalarda bulur. Matematikte, sayısal çözümlemede ve bilgisayar bilimlerinde 
+herhangi bir algoritma ile çözülemeyecek problemler vardır. Hesaplanabilirlik ile ilgili Brookshear ve Brylow’un 
+(2016)kitabına başvurulabilir.  
+
+Sayısal çözümleme bazen doğru sonucu verirken bazen de yaklaşık sonucu verir. Fen ve mühendislik ile ilgili 
+bir problemin algoritmasında yer alan girdilerin bir kısmını deneysel veriler oluşturabilir. Bu deney verileri 
+muhakkak bir hata payı içerir. Bunun neticesinde algoritmanın vereceği sonuç bir hata payı içerisinde doğru 
+olacaktır. Bazen bu hatalar kesme hatası olarak bilinen algoritma kaynaklı olabilir. Bir diğeri ise bilgisayardaki 
+aritmetik işlemlerden doğan yuvarlama hatasıdır.  
+
+Bilgisayar bilimlerinin ve teknolojisinin ilerlemişiyle bilgisayarlar modern bilimde amaçları farklı olsa da çokça 
+kullanılmaktadır. Bilgisayar bilimleri, bilgisayar tasarımı, programlama ve algoritmaların geliştirilmesi ve 
+uygulanmasını içeren bir disiplindir [5]. Algoritmalar belki de bu disiplinin en önemli bileşenidir.  
+
+Algoritmalar bilgisayar bilimlerinin olduğu kadar, sayısal çözümlemenin de temelidir. Algoritma, bir problemin 
+çözümü için gerekli olan sonlu sayıdaki işlemleri adım adım belirli bir sıra ile tanımlayan düzendir [3]. 
+Programlama ile algoritma birbirlerine yakın kavramlar olsa da farklı tanımlamalara sahiptirler. Bir probleme dair 
+çözümün oluşturulup bilgisayar ortamına aktarılmasına programlama, bu çözümün oluşturulmasına da algoritma 
+oluşturma denir. Bir bilgisayar programı bilgisayara verilen görevleri yerine getirmesi için ne yapması gerektiğini 
+içeren komutlar bütünüdür. Programlamanın kendine has bir metodolojisi vardır. Bunlar yöntemsel programlama, 
+fonksiyonel programlama, nesneye dayalı programlama tekrarlı programlama, kural temelli programlama ve 
+mantıksal programlamadır. Bu makalenin amacı her ne kadar bu alt dalların üzerine kapsayıcı bir şekilde bilgi 
+vermek olmasa da kısaca değinmek yararlı olacaktır. Yöntemsel programlama, belirli bir algoritmayı yerine getiren 
+bir dizi açıklamayı kapsayan programlamadır. Bu programlama türünde programı yazan insan bilgisayara ne 
+yapacağını ve nasıl yapacağını söyleyen komutlar yazar. Fonksiyonel programlama, programın veya yazılımın 
+fonksiyonlardan oluştuğu temeline dayanır. Birçok durumda bu fonksiyonlar iç içe geçmiştir ve karşılaşabilecek 
+yeni fonksiyonlar bilinen diğer fonksiyonlar yardımıyla oluşturabilir. Nesneye dayalı programlama, fonksiyonel 
+programlamaya benzerdir fakat burada fonksiyonların yerini nesneler almıştır. Programda ya da yazılımda çeşitli 
+nesneler tanımlanır ve bu nesnelere gerektiğinde farklı işlemler yaptırmak için yöntem belirlenir. Tekrarlı 
+programlamada, ilgili problemi çözmek için yazılan program isteğe göre parçalara ayrılır. Bu parçalara göre yazılan 
+komutlar bir sonraki duruma göre birleştirilebilir veya bir önceki komuta başvurarak yeni veriler/girdiler 
+oluşturabilir. Kural temelli programlama, belli dönüşümleri kurallara bağlayarak formüle eder. Bu şekilde genellikle 
+sayısal hesaplamalar yapılır ve probleme odaklı olduğundan kapsamları dar olabilir. Mantıksal programlama, 
+program diline bağlı kalmaksızın yapmak istenilen şeyi mantıksal tanımlarla kurulan algoritmalarla yapmak ister. 
+Bu tip programlamada sonuca ulaşmanın belirli bir yolu yoktur. Sistem bütün yollar arasından istenen yolu seçer. 
+Algoritmalar ve programlama için [6-7] kaynaklarına bakılabilir.  
+
+Bilgisayar programlamada amaç algoritmayı bilgisayara tercüme ederek aktarmaktır. Buradaki tercüme 
+etmekten, istenilen algoritmanın, kodun veya programın makine diline çevrilmesidir. Bu tercüme etme işlemi iki 
+şekilde olur: derleyici (compiler) ve çözümleyici/yorumlayıcı (interpreter). Yani bilgisayarın anlayabileceği iki dil 
+vardır denebilir. Bu sayede programdaki/yazılımdaki kodlar makine diline derlenir ve/veya çözümlenir.  
+
+Mathematica fizik alanında doktora derecesine sahip olan Stephen Wolfram [14] tarafından ilk sürümü 1991 
+yılında yayımlanmış olan bir paket programdır. Mathematica matematiksel, cebirsel ve sembolik hesaplamalar 
+yapan genel bir sistemdir. Üstün bir hesaplama ortamı sağlayan Mathematica aynı zamanda da bir programlama 
+
+ 
+38 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+dilidir. “İç verimlilik oranı temelinde en iyi stratejinin belirlenmesi” veya “yıllık dönem temelinde taksit tutarını 
+hesaplayan” programları da Mathematica aracılığıyla yazabilirsiniz (Çınar ve Çalışkan, 1995). Mathematica, bu 
+çalışmada bahsedilen programlama metodolojilerinden yöntemsel ve mantıksal olanları ile pek uyumlu değildir. 
+Bilgisayar dili olarak çözümleyici/yorumlayıcı bir dildir. Derleyici diller, çözümleyici dillerden farklı olarak makine 
+diline daha yakın olmaları ve bilgisayar donanımından aracı olmaksızın yararlanabildikleri için etkindirler.  
+
+Mathematica iki ana bölümden oluşur: matematiksel hesapları yapan kernel bölümü ve kullanıcı ile bilgisayarın 
+iletişimini sağlayan front end bölümü [9]. Mathematica sahip olduğu kütüphane bakımından çok üstündür. Birçok 
+matematiksel fonksiyon kütüphanesinde kullanıcılar için hazır olarak yer almaktadır. Mathematica sembolik bir 
+yazılım olduğundan veri girişi çok kolaydır. Dolayısıyla yoğun hesaplamalar gerektiren işlemler için zaman kaybını 
+ortadan kaldırır.  
+
+Dilimizde Mathematica için yazılmış olan az sayıda kaynak mevcuttur. Bunlardan birkaçı kaynaklarda 
+görülebilir [8,10,11]. Diferansiyel denklemler ve sınır değer problemlerinin incelendiği ve çeviri editörünün Akın 
+(2008) [12] olduğu kitap Maple, Matlab ve Mathematica örneklerini içeren zengin bir kaynaktır. Özellikle 
+mühendislik fakültelerindeki sayısal çözümleme dersleri MatLab programlama diliyle yapılmaktadır. Bu 
+programlama dilinde ise dilimizde yeterli sayıda kitap vardır.  
+
+Bu çalışmanın ikinci bölümünde lineer denklem sistemlerinin çözümüne genel bir giriş verilmiş ve bu 
+sistemlerin çözümü için Gauss yok etme, matris çarpımlarıyla Gauss yok etme ve Aitken yöntemleri ile ilgili 
+programlar verilmiştir. Lineer olmayan denklemlerin çözümü için, basit iterasyon, Newton-Raphson, sekant ve 
+Regula-Falsi yöntemleri ile ilgili programlar verilmiştir. 3. Bölümde diferansiyel denklemler için Euler ve 4. 
+Mertebeden Runge-Kutta yöntemlerini içeren programlar verilmiştir. Tartışma ve sonuç bölümünde Mathematica ile 
+verilen progamların sayısal çözümleme derslerinde örnek olarak kullanılabileceğini ve Mathematica’nın 
+programlamada daha yaygın bir şekilde kullanılması tartışılacaktır. 
+
+ 
+ 
+
+1. LİNEER DENKLEM SİSTEMLERİNİN ÇÖZÜMÜ 
+ 
+
+Lineer denklem sistemleri fen ve mühendislik problemlerinde sıkça karşılaşılan bir sistemdir. Örneğin fizikte 
+elektrik devre analizinde kullanılan Kirchoof kuralları neticesinde bir denklem sistemi elde edilir.  
+
+Genel olarak lineer denklem sistemi 
+ 
+ 
+
+𝑎!!𝑥! + 𝑎!"𝑥! + ⋯+ 𝑎!! = 𝑐! 
+
+ 
+(1) 
+
+𝑎!"𝑥! + 𝑎!!𝑥! + ⋯+ 𝑎!! = 𝑐! 
+
+ 
+
+⋮ 
+
+𝑎!!𝑥! + 𝑎!!𝑥! + ⋯+ 𝑎!" = 𝑐!	  
+
+ 
+şeklinde gösterilir. Bu denklem sistemi matris gösteriminde 
+
+ 
+
+𝐴𝑋= 𝐶 
+(2) 
+
+ 
+daha sade bir biçimde yazılabilir. Bu denklem sisteminde 𝐶 vektörünün 𝐶= 0 olması halinde sisteme homojen 
+denklem takımı denir ve 𝑋= 0 gibi bir çözüme sahiptir. Bu çözüme aşikar çözüm denir. Bundan başka bir çözüm 
+varsa bu çözüme aşikar olmayan çözüm denir. 𝐶≠0 olması halinde sisteme homojen olmayan denklem takımı 
+denir.  
+ 
+
+1.1.Gauss Yok Etme Yöntemi 
+
+Gauss yok etme yöntemi anlaşılması ve uygulanması kolay bir yöntem olduğundan hem elle yapılabilir hem de 
+bilgisayar ortamında rahatlıkla programlanabilir. Fakat büyük boyutlu matris denklemlerinde işlem sayısı arttığı için 
+
+ 
+39 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+buna bağlı olarak hata da artabilmektedir. (1) denkleminde 𝐴 matrisinden katsayılar matrisi, 𝐶 matrisinden de sonuç 
+matrisi şu şekilde oluşturulabilir: 
+
+ 
+
+a
+a
+a
+a
+c
+
+11
+12
+13
+1
+1
+
+L
+
+n
+
+a
+a
+a
+a
+c
+
+21
+22
+23
+2
+2
+
+L
+
+n
+
+𝐴𝐶=
+
+a
+a
+a
+a
+c
+
+31
+32
+33
+3
+3
+
+L
+
+n
+
+ 
+3) 
+
+M
+M
+M
+M M
+
+a
+a
+a
+a
+c
+
+n
+n
+n
+nn
+n
+
+1
+2
+3
+
+L
+
+ 
+Açık hali yazılırsa 
+
+ 
+
+a x
+a x
+a x
+a x
+
++
++
++
++
+−
+=
+
+.........
+   c  
+ 0
+
+a x
+a x
+a x
+a x
+c
+
+11 1
+12
+2
+13
+3
+1
+1
+
++
++
++
++
+−
+=
+
+.........
+0
+
+n
+n
+
+a x
+a x
+a x
+a x
+
+31 1
+32
+2
+33
+3
+3
+3
+
+21 1
+22
+2
+23
+3
+2
+2
+
++
++
++
++
+−
+=
+
+.........
+ c
+  0
+
+n
+n
+
+n
+n
+
+ 
+4) 
+
+M
+
+a x
+a x
+a x
+a x
+
+n
+n
+n
+nn
+n
+n
+
+1 1
+2
+2
+3
+3
+
++
++
++
++
+−
+=
+
+.........
+ c
+ 0
+
+ 
+elde edilir ve aşağıdaki işlemler bu ifade üzerinden daha net anlaşılabilir. Bu denklemin matris elamanlarına satır ve 
+sütun işlemleri uygulanabilir ve şu sırada takip edilebilir [4]: 
+
+1. 𝑎!! pivot eleman olarak seçilir. Birinci satır 𝑎!" 𝑎!! sayısı ile çarpılıp ikinci satırdan çıkarılır. Elde edilen 
+elemanlar ikinci satır yerine yazılır. Elde edilen bu yeni satırda 𝑎!" = 0 olacaktır.  
+
+2. Birinci satır 𝑎!" 𝑎!! ile çarpılıp üçüncü satırdan çıkarılacak ve elde edilen yeni elemanlar üçüncü satır 
+yerine yazılacaktır. Elde edilen bu yeni satırda 𝑎!" = 0 olacaktır. 
+
+3. Aynı işlemler sırayla 𝑛’yinci satıra kadar yapılır ve işlemler sonunda 𝑎!! = 0 olacaktır.  
+4. 𝑎!! pivot eleman olarak seçilir ve 𝑎!! 𝑖= 3,4, ⋯𝑛 elemanları sıfırlanır. Bu sıfırlama (5) nolu denklem 
+vasıtasıyla olacaktır. 
+
+5. Köşegenin alt tarafındaki bütün elemanlar sıfır olana kadar yukarıdaki işlemler devam ettirilir. 
+6. Alt üçgen matris elemanları sıfırlandıktan sonra 𝑥! = 𝑐! 𝑎!! formunda bir ifade bulunacaktır.  
+7. Bunun peşine geriye doğru işlem yaparak sırayla 𝑥!!!, 𝑥!!!, ⋯, 𝑥! elemanları bulunur. 𝑥! değerleri için (6) 
+nolu denklem kullanılır. Sonuç olarak bütün bilinmeyenler bulunur.  
+
+ 
+
+𝑘= 1,2, ⋯, 𝑛−1  𝑖ç𝑖𝑛 
+
+5) 
+𝑥!" →𝑥!" −𝑥!"
+
+𝑥!!
+
+𝑥!" 
+
+ 
+
+𝑥! = 1
+
+𝑐!
+
+𝑎!! 
+
+6) 
+𝑥! = 1
+
+𝑐! −
+𝑎!"𝑥!
+
+!
+
+ 
+
+𝑎!!
+
+!!!!!
+
+Bu adımlardan sonra ilgili Mathematica programı Şekil 1’de verilmiştir. Programın başındaki 𝐶𝑙𝑒𝑎𝑟 komutu 
+program her çalıştırıldığında daha önceki atanan değerleri sıfırlar. 𝑛 matris mertebesi olup istenildiği kadar 
+büyütülebilir.  
+
+ 
+40 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+
+Şekil 1. Gauss yok etme yöntemi için Mathematica dilindeki program 
+
+ 
+
+1.2.Matris Çarpımıyla Gauss Yok Etme 
+
+Bir önceki kısımda verilen matris satır işlemlerini sırayla takip etmek kimi zaman karışıklığa sebep olabilir. Benzer 
+bir yok etme işlemi matris çarpımlarıyla da yapılabilir (Aktaş vd, 1991). 𝐴𝑋= 𝐶 matris elemanları şu şekilde 
+yazılabilir: 
+
+ 
+
+⎡
+⎤⎡
+⎤
+⎡
+⎤
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+=
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎣
+⎦⎣
+⎦
+⎣
+⎦
+
+a
+a
+a
+x
+c
+a
+a
+a
+x
+c
+
+L
+L
+M
+M
+L
+M
+M
+M
+L
+
+11
+12
+1
+1
+1
+
+n
+
+21
+22
+2
+2
+2
+
+n
+
+ 
+7) 
+
+a
+a
+a
+x
+c
+
+n
+n
+nn
+n
+n
+
+1
+2
+
+ 
+41 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+Gauss yok etme yönteminde elde edilen ilk indirgenmiş denklem takımı matris çarpımı olarak şu şekilde elde 
+edilebilir:  
+
+ 
+
+𝐿!𝐴𝑋= 𝐿!𝐶. 
+8) 
+ 
+Burada  
+ 
+
+⎡
+⎤
+⎢
+⎥
+⎢
+⎥
+= ⎢
+⎥
+⎢
+⎥
+⎣
+⎦
+
+1
+
+p
+L
+
+21
+1
+
+1
+
+ 
+9) 
+
+M
+M
+O
+L
+
+ 
+ve 
+ 
+
+p
+p
+
+1
+n
+n
+
+1
+2
+
+ 
+10) 
+ 
+olarak tanımlıdır. İkinci indirgeme 
+ 
+
+𝑝!! = −𝑎!!
+
+𝑎!!
+
+𝐿!𝐿!𝐴𝑋= 𝐿!𝐿!𝐶 
+11) 
+ 
+işlemi ile yapılır. Burada  
+ 
+
+⎡
+⎤
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+=
+
+1
+0
+1
+0
+1
+
+L
+p
+
+2
+32
+
+ 
+12) 
+
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+⎣
+⎦
+
+M
+M
+M O
+L
+L
+
+0
+1
+n
+
+p
+
+2
+
+ 
+olarak verilir. Bu indirgeme işlemlerine 
+ 
+ 
+ 
+
+𝐿!𝐿!𝐿!𝐴𝑋= 𝐿!𝐿!𝐿!𝐶 
+
+𝐿!𝐿!𝐿!𝐿!𝐴𝑋= 𝐿!𝐿!𝐿!𝐿!𝐶 
+
+13) 
+
+⋮	  
+
+𝐿!!! ⋯𝐿!𝐿!𝐿!𝐴𝑋= 𝐿!!! ⋯𝐿!𝐿!𝐿!𝐶	  
+
+ 
+şeklinde devam edilebilir. Alt üçgen matrislerin çarpımının da alt üçgen matris olacağı düşünülerek yukarıdaki son 
+denklem 
+
+ 
+
+𝐿𝐴𝑋= 𝐿𝐶 
+14) 
+
+ 
+42 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+formunda yazılabilir. 𝐿𝐴= 𝑈  üst üçgen matris olmak üzere (14) nolu denklem şu şekilde yazılabilir: 
+
+ 
+
+𝑈𝑋= 𝐿𝐶. 
+15) 
+ 
+Buradan hareketle  
+
+ 
+
+𝑋= 𝑈!!𝐿𝐶 
+16) 
+ 
+çözümü bulunabilir. Şekil 2’de bu yöntemin Mathematica programı verilmiştir. 
+
+ 
+ 
+
+ 
+
+ 
+43 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+Şekil 2. Matris çarpımıyla Gauss yok etkme yöntemi için Mathematica dilindeki program 
+ 
+
+1.2. Aitken Yöntemi 
+ 
+Bu kısımdaki inceleme Aktaş vd. (1991) kaynağından yararlanılarak yapılmıştır. Bu yöntem, 𝐴𝑋= 𝐶 denkleminden 
+hareketle 𝐴, 𝐵 ve 𝐶 matrislerinin çarpmaya uygun olduğu kabulünde  
+
+ 
+
+𝑌= 𝐵𝐴!!𝐶 
+17) 
+ 
+bağıntısını kullanarak çözümü bulur. Bu bağıntı 𝐴𝑋= 𝐶 ve 𝐵𝑋= 𝑌 denklemlerinden hareketle bulunmuştur. 𝐴 
+matrisinin boyutu (𝑚×𝑚), 𝐵’nin boyutu (𝑝×𝑚) ve 𝐶’nin boyutu da (𝑚×𝑛)’dir. 𝐴𝑋= 𝐶 denklem takımı bir alt 
+üçgen matrisle seri çarpıma tutulursa 𝑈𝑋= 𝐹 denklem takımı elde edilir. 𝑈, 𝐵, 𝐹 ve 0 matrislerinden oluşan 
+
+ 
+
+⎡
+⎤
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+⎣
+⎦
+
+M
+K
+M K
+M
+
+U
+F
+
+B
+
+0
+
+ 
+18) 
+
+ 
+matrisi ele alalım. 0 matrisi boyutu 𝑝×𝑛olan bir sıfır matristir. 𝑈 matrisinin ilk satırını uygun katsayılarla çarparak 
+𝐵 matrisinin satırlarına her satırın ilk terimi sıfır olacak şekilde ilave edilir ve bu işlem diğer satırlara da uygulanır. 
+Bu işlem sonucunda 𝐵 matrisinin bütün elemanları sıfırlanacaktır. Aynı işlemi 𝐹 ve 0 matrisleri arasında yapılırsa 0 
+matrisinin elemanları aynı zamanda −𝐵𝑈!!𝐹 matrisinin de elemanları olur. Bu sonuç matris gösteriminde 
+kolaylıkla görülebilir: 
+
+ 
+
+M
+M
+M
+K
+M K
+K
+M K
+K
+M K
+M
+M
+M
+
+I
+U
+F
+U
+F
+
+0
+
+⎡
+⎤⎡
+⎤
+⎡
+⎤
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+=
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎣
+⎦⎣
+⎦
+⎣
+⎦
+
+. 
+19) 
+
+K
+I
+B
+P
+Q
+
+0
+
+ 
+Bu matris çarpımından  
+
+ 
+
+𝑃= 0 = 𝐾𝑈+ 𝐵 
+20) 
+
+𝑄= 𝐾𝐹 
+21) 
+ 
+denklemleri yazılabilir. 𝑈𝑋= 𝐹 ve 𝐴𝑋= 𝐶 denklemlerinden hareketle  
+
+ 
+
+Q = −BU!!𝐶 
+22) 
+ 
+bulunur. Yukarıdaki işleme benzer şekilde  
+
+ 
+
+⎡
+⎤⎡
+⎤
+⎡
+⎤
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+=
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎢
+⎥⎢
+⎥
+⎢
+⎥
++
+⎣
+⎦⎣
+⎦
+⎣
+⎦
+
+M
+M
+M
+K
+M K
+K
+M K
+K
+M K
+M
+M
+M
+
+I
+A
+C
+A
+C
+
+0
+
+ 
+23) 
+
+ 
+
+K
+I
+B
+KA
+B
+KC
+
+0
+
+ 
+44 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+matris çarpımını yapar ve 𝐾𝐴+ 𝐵= 0 olacak şekilde bir 𝐾 matrisi seçilirse 𝐾𝐶= −𝐵𝐴!!𝐶 yazılabilir. 𝐴 matrisinin 
+𝑈 matrisine, 𝐵 matrisinin de 0 matrisine dönüşümü aynı anda pivot elemanlar 𝐴 matrisinden seçilerek 
+gerçekleştirilebilir. Bu durumda 
+
+ 
+ 
+
+⎡
+⎤⎡
+⎤
+⎡
+⎤
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+=
+⎢
+⎥⎢
+⎥
+⎢
+⎥
+⎢
+⎥⎢
+⎥
+⎢
+⎥
++
+⎣
+⎦⎣
+⎦
+⎣
+⎦
+
+M
+M
+M
+K
+M K
+K
+M K
+K
+M K
+M
+M
+M
+
+L
+A
+C
+LA
+LC
+
+0
+
+K
+I
+B
+KA
+B
+KC
+
+0
+
+ 
+24) 
+
+ 
+ifadesi yazılabilir. Burada 𝐿 birim alt üçgen matrisidir ve 𝐾 matrisi 𝐾𝐴+ 𝐵= 0 eşitliğini sağlamalıdır (Aktaş vd, 
+1991). Şekil 3’te Aitken programı Mathematica’da verilmiştir.  
+
+ 
+45 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+
+Şekil 3. Aitken yok etme yöntemi için Mathematica dilindeki program 
+ 
+ 
+
+2. LİNEER OLMAYAN DENKLEM SİSTEMLERİNİN ÇÖZÜMÜ 
+ 
+Lineer olmayan denklemlerin çözümü matematikte eskiden beri çok ilgi çeken ve güncelliğini hiç 
+kaybetmeyen bir uğraştır. Bu çözüm aslında bir denklemi sağlayan kök veya kökleri bulmaya eşdeğerdir. 𝑎, 𝑏 
+aralığında tanımlı bir 𝑓(𝑥) fonksiyonu için 𝑓𝑥= 0 denklemini sağlayan 𝑥 değerlerine bu fonksiyonun kökü denir.  
+
+Bütün kök bulma yöntemlerinde iterasyon tekniği kullanılır. Önce denklemi sağlayan tahmini bir 𝑥! 
+noktasından başlayarak köke yaklaştıran bir kriter kullanılır ve genellikle önceden belirlenmiş bir hata payı ile kök 
+bulunur [13]. Doğada gözlemlenen bir çok olgu genellikle doğrusal olmayan denklemlerle modellenir. Bunların 
+analitik bir çözümü olmadığı için belli yaklaşımlarla çözülebilir. Bu bölümde bu tip bir kök bulma için basit 
+iterasyon, Newton-Raphson, Sekant ve Regula-Falsi yöntemleri ile ilgili programlar verilecektir.  
+
+ 
+
+2.1. Basit İterasyon Yöntemi 
+
+ 
+Sabit nokta iterasyonu olarak da bilinen bu yöntemde lineer olmayan 𝑓𝑥= 0 denklemi 
+
+𝑥= 𝑔(𝑥) 
+25) 
+formuna dönüştürülür ve 
+
+ 
+
+𝑥!!! = 𝑔𝑥!  
+26) 
+ 
+şeklinde iterasyon yapılarak kök bulmaya çalışılır. Elde edilen çözümün yakınsaklığı için  
+
+ 
+
+𝑔!(𝑥!) < 1 
+27) 
+ 
+
+ 
+46 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+şartı sağlanmalıdır. Bir örnekle detaylandıralım [3].  
+
+ 
+
+𝑓𝑥= 𝑥! −𝑥−1 = 0 
+28) 
+ 
+denkleminin 𝑥! = 1.3 civarında bir kökü olduğu bilinmektedir. Basit iterasyonla çözüm için denklemi (25) nolu 
+denklem formuna dönüştürmek gerekir: 
+
+ 
+
+𝑥= 𝑥! −1 →𝑔𝑥= 𝑥! −1 →𝑔! 𝑥= 3𝑥! →𝑔!(𝑥!) > 1 
+29a) 
+
+𝑥=
+1
+𝑥! −1 →𝑔𝑥=
+1
+(𝑥! −1) →𝑔! 𝑥= −
+2𝑥
+(𝑥! −1)!   →𝑔!(𝑥!) > 1 
+29b) 
+
+!! ! →𝑔!(𝑥!) < 1 
+29c) 
+Bu ifadelerden sadece (29c) nolu olanı basit iterasyonla çözülebilir. Çünkü ancak bu şekilde yakınsama sağlanır. 
+Şekil 4’te 𝑎, 𝑏= 0,1  aralığında tanımlı 𝑓𝑥= 0.7 −𝑥+ 0.3   sin 𝑥 denkleminin 𝑥! = 0.5 başlangıç değerinde 
+𝑔𝑥= 0.7 + 0.3 sin 𝑥 için iterasyon sayısını gösteren ve yaklaşık kökünü bulan Mathematica programı verilmiştir. 
+
+𝑥= 𝑥+ 1
+
+! ! →𝑔𝑥= 𝑥+ 1
+
+! ! →𝑔! 𝑥= 1
+
+3 𝑥+ 1
+
+ 
+Şekil 4. Basit iterasyon için Mathematica’da bir program 
+
+ 
+ 
+
+2.2. Newton-Raphson Yöntemi 
+ 
+Bu yöntem bir denklemin köklerini bulmada kullanılan en etkili yöntemlerden biridir. Doğrusal olmayan 
+denklemlere ve fonksiyonlara uygulanabileceği gibi, doğrusal denklem ve fonksiyonlara da uygulanabilir. Sadece 
+
+ 
+47 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+bir başlangıç değeri ile başlanması ve fonksiyonun türevini de içermesi en önemli özelliğidir. Diğer bir deyişle 
+fonksiyonun türevinin tanımlı olması bu yöntem için gerekli şarttır.  
+
+ 
+
+ 
+Şekil 5. Newton-Raphson yöntemi grafiği 
+ 
+Bu yöntem 𝑓(𝑥) eğrisine teğet olan doğrunun eksenine ulaştığı noktayla devam edilerek denklemi sağlayan köke 
+ulaşmayı amaçlar. Şekil 5’teki 𝑥! noktasında 𝑓(𝑥) eğrisine teğet olan doğrunun denklemi 
+
+ 
+
+𝑦−𝑓𝑥! = 𝑓!(𝑥!)(𝑥−𝑥!) 
+30) 
+ 
+olarak yazılır. Bu teğetin 𝑥 eksenini kestiği 𝑥! noktasını bulmak için 𝑦= 0 alınırsa  
+
+ 
+
+𝑓!(𝑥!) 
+31) 
+ 
+bulunan 𝑥! noktası köke daha yakındır. 𝑥! noktasındaki teğetten faydalanarak 𝑥! noktası bulunur. Bu şekilde devam 
+ettirilerek Newton-Raphson yönteminin genel formülü elde edilir: 
+
+𝑥! = 𝑥! −𝑓(𝑥!)
+
+ 
+
+𝑥!!! = 𝑥! −𝑓𝑥!
+
+. 
+32) 
+ 
+Tekrarlama işlemi belli bir duyarlılığa ulaşıncaya ve kökü buluncaya kadar devam edecektir. Bu duyarlılık verilen 
+bir 𝜖 değeri için 𝑥!!! −𝑥! < 𝜖 şartı ile sağlanır. Şekil 6’da Newton-Raphson yönteminin Mathematica dilindeki 
+programı verimiştir.  
+
+𝑓! 𝑥!
+
+ 
+48 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+Şekil 6. Newton-Raphson yönteminin Mathematica’daki bir programı 
+ 
+
+2.3. Sekant Yöntemi 
+ 
+Newton-Rapshon yönteminde fonksiyonun türevini de bilinmesini gerektirdiğinden bazı problemlerde sorun 
+oluşturabilir. Sekant yöntemi (32) nolu ifadeyi bu türevden arındırdığı için Newton-Rapshon yöntemine göre avantaj 
+sağlar. Bir 𝑓𝑥!  fonksiyonun türevi 
+
+ 
+33) 
+ 
+ile bulunur. Bu ifade, (32) nolu denklemde yerine yazılırsa 
+
+ 
+
+𝑓! 𝑥! = 𝑓𝑥! −𝑓𝑥!!!   
+
+𝑥! −𝑥!!!
+
+ 
+34) 
+ 
+bağıntısı elde edilir ki bu sekant yönteminin bağıntısıdır. Bu bağıntı ile 𝑓𝑥= 0 denkleminin yaklaşık kökünü 
+bulma yöntemi de olduğundan kesen yöntemi de denir. Sekant (kesen) yönteminde 𝑓!(𝑥) türevinin analitik olarak 
+hesaplanmasına gerek yoktur. Bu yöntemle ilgili bir diğer önemli husus, başlangıç değerleri olarak iki değer 
+kullanılsa da kökün bu aralıkta olmasına gerek yoktur. Şekil 7’de ilgili program verilmiştir. 
+
+ 
+
+𝑥!!! = 𝑥!!!  𝑓𝑥! −𝑥!  𝑓𝑥!!!
+
+  𝑓𝑥! −  𝑓𝑥!!!
+
+ 
+
+ 
+49 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+Şekil 7. Sekant yönteminin Mathematica’daki bir programı 
+
+ 
+Şekil 7’den de görüleceği üzere Mathematica iterasyondaki bir adımda 
+
+! ile karşılaştığı için tanımsız uyarısı 
+vermiştir. Başka denklemlerde ilgili başlangıç değerleri için bu uyarı olmayabilir.  
+
+!
+
+2.4. Regula-Falsi Yöntemi 
+ 
+Değişken kesen ya da ters konumdaki noktalar yöntemi olarak da bilinen bu yöntemde sekant (kesen) yöntemindeki 
+formül kullanılır ve iki tane başlangıç değeri gereklidir. İterasyon için kullanılacak iki nokta kökün birer tarafından 
+alınır. Diğer bir deyişle 𝑓(𝑥!!!) ve 𝑓(𝑥!) değerleri ters işaretli olup 𝑓(𝑥!!!)𝑓(𝑥!) < 0 şartı sağlanır.  
+
+ 
+
+Yöntemin ilerleyişi şu şekildedir: (34) nolu denklemden hareket edilerek 𝑓(𝑥!)𝑓(𝑥!) < 0 şartını sağlayan 𝑥! 
+ve 𝑥! noktaları seçilir. Bu değerler (34) nolu bağıntıda yerine yazılırsa 𝑥! bulunur: 
+
+ 
+
+. 
+35) 
+ 
+Bu 𝑥! değeri bulunduktan sonra 𝑓(𝑥!)𝑓(𝑥!) < 0 şartını sağlandıktan sonra 𝑥! değeri bulunur ve işlemler devam 
+ettirilir. 𝑥! ve 𝑥!!! noktalarından 𝑥!!!’yi elde etmek için (Aktaş vd, 1991) 
+
+𝑥! = 𝑥!  𝑓𝑥! −𝑥!  𝑓𝑥!
+
+  𝑓𝑥! −  𝑓𝑥!
+
+ 
+a) eğer 𝑓𝑥!!! 𝑓𝑥!!! < 0 ise 𝑥!!! ve 𝑥!!! kullanılır.  
+b) eğer 𝑓𝑥!!! 𝑓𝑥!!! > 0 ise 𝑥!!! ve 𝑥! kullanılır.  
+ 
+Şekil 8’de yöntemin Mathematica’daki programı verilmiştir. İterasyon sayısı artırıldığından programın çalışma 
+süresi uzamakla beraber daha doğru sonuç elde edilir.  
+
+ 
+
+ 
+50 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+
+Şekil 8. Regula-Falsi yönteminin Mathematica’daki örnek bir programı 
+ 
+
+3. DİFERANSİYEL DENKLEMLERİN YAKLAŞIK ÇÖZÜMLERİ 
+ 
+
+Diferansiyel denklemler fizik, mühendislik ve uygulamalı matematik alanlarında yer bulur. Özellikle fiziksel 
+olgular çoğunlukla diferansiyel denklemlerle modellenir ve diferansiyel denklemin çözümleriyle açıklanır. Analitik 
+çözümlere sahip olmayan diferansiyel denklemlerin çözümünde sayısal yöntemler devreye girer. Bununla birlikte 
+analitik olarak çözülebilen denklemlere de sayısal yöntemler uygulanabilir.  
+
+Çözüm tekniği bakımından diferansiyel denklemler üçe ayrılır [13]: 
+
+1. Başlangıç Değer Problemleri: Bu tip problemlerde bir noktadan hareketle çözüm araştırılır. Örneğin zamana 
+bağlı fiziksel problemlerde 𝑡= 0 başlangıç anında sistemin durumu belirlenir ve bu durumdan hareketle daha 
+sonraki 𝑡 değerleri için çözüm araştırılır. Bu tip problemlerde sistemin dinamiği üzerinde başka bir sınırlama yoktur. 
+
+ 
+51 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+Sistemin evrimi bağımsız değişkenin bir değeri için belirlenir. 
+
+!!!
+
+!"
+
+!" = 𝑓(𝑦, 𝑦′, 𝑡) diferansiyel denkleminde bir 
+
+başlangıç şartına ihtiyaç varken, 
+
+!!! = 𝑓(𝑦, 𝑦′, 𝑡) denkleminin iki başlangıç şartına ihtiyaç vardır. Genel olarak 𝑛. 
+dereceden diferansiyel denklem için 𝑛 tane başlangıç koşulunun verilmesi gerekir.  
+
+dahilinde aranır. Bu bölgenin sınırları bağımsız değişkenin iki farklı değeri ile belirlenir. Örneğin 
+
+!!! = 𝑓(𝑦, 𝑦′, 𝑥) 
+denkleminin 𝑥= 0, 𝐿 aralığında çözümü araştırılacaksa 𝑦0  ve 𝑦𝐿 değerlerinin verilmesi gerekir.  
+
+2. Sınır Değer Problemleri: Bu tip problemlerde belli bir bölge sınırında koşullar verilir ve çözüm o bölge 
+
+!!!
+
+3. Özdeğer Problemleri: Bu tip problemlerde, diferansiyel denklemin sınır koşulları verilmiş olsa bile 
+problemdeki bir parametrenin ancak belli değerleri için çözüm vardır. Fizikteki Schrödinger ve Klein-Gordon dalga 
+denklemleri özdeğer problemidir ve sadece belli enerji özdeğerlerinde çözülebilir.  
+
+Bu bölümde diferansiyel denklemlerin sayısal çözümleri için Euler ve Runge-Kutta yöntemleri verilecektir. 
+Bununla birlikte literatürde diferansiyel denklemlerin sayısal çözümleri için çok fazla yöntem vardır: Adomnian 
+Ayrıştırma Yöntemi, Diferansiyel Dönüşüm Yöntemi, Pertürbatif Yöntem gibi. Bu da diferansiyel denklemlerde 
+sayısal çözümlemenin çok canlı olduğunun kanıtıdır.  
+
+ 
+3.1. Euler Yöntemi 
+ 
+Herhangi bir fonksiyonun 𝑥= 𝑥! noktasındaki Taylor açılımı 
+
+! + ⋯ 
+36) 
+ 
+ile verilir. Bu seride birinci türevden sonraki terimlerin ihmal edilmesiyle  
+
+𝑦𝑥= 𝑦𝑥! + 𝑦! 𝑥!
+𝑥−𝑥! + 𝑦!! 𝑥!
+
+ 
+
+! + 𝑦!!! 𝑥!
+
+2!
+𝑥−𝑥!
+
+3!
+𝑥−𝑥!
+
+ 
+
+𝑦𝑥≅𝑦𝑥! + 𝑦! 𝑥!
+𝑥−𝑥! + ℎ𝑎𝑡𝑎 
+37) 
+ 
+olarak elde edilen denklemin iteratif şekilde çözümü Euler yöntemi olarak bilinir. Yüksek mertebede türev 
+içermediğinden kolay bir yöntemdir fakat hassas sonuç elde etmek için adım aralığı küçük seçilmelidir. 
+
+𝑦! 𝑥= 𝑓𝑦, 𝑥, 𝑦𝑥= 0 = 𝑦! başlangıç koşullu diferansiyel denklemini ele alalım. Bu diferansiyel 
+denklemi Euler yöntemiyle çözmek demek eşit aralıklı 
+ℎ sıralanmış 𝑥!, 𝑥!, 𝑥!, ⋯, 𝑥! değerlerine karşılık 
+fonksiyonun bu noktalarda aldığı 𝑦!, 𝑦!, 𝑦!, ⋯, 𝑦! değerlerini bulmak demektir. (37) nolu denklemi bu şekilde 
+iteratif olarak genelleştirilirse 
+
+ 
+
+𝑦!!! = 𝑦! + ℎ𝑓𝑥!, 𝑦! +  (ℎ!) 
+38) 
+ 
+elde edilir. İkinci dereceden türevler ihmal edildiği için adım aralığı çok geniş seçilirse gerçek çözüme yakın 
+sonuçlar vermez. Şekil 9’da Euler yöntemi için bir program örneği verilmiştir. İlk önce Mathematica’da diferansiyel 
+denklemin analitik çözümü yapılmış ve daha sonra Euler yöntemi ile uygulanmıştır.  
+
+ 
+52 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+Şekil 9. Euler yöntemi için Mathematica’daki örnek bir program 
+
+ 
+3.2.  Runge-Kutta Yöntemi 
+
+ 
+Euler yönteminde 𝑥! noktasından 𝑥!!! noktasına (38) nolu denklemi uygulayarak geçilebilir. Bu iki noktanın 
+arasında bir nokta alınarak tekrar 𝑥!!! noktası elde edilebilir. Bunun için 𝑘! ve 𝑘! gibi  
+ 
+
+𝑘! = ℎ𝑓(𝑥! + 1
+
+𝑘! = ℎ𝑓(𝑥!, 𝑦!) 
+39a) 
+
+2 ℎ, 𝑦! + 1
+
+2 𝑘!) 
+39b) 
+ 
+iki bağıntı tanımlanırsa (38) nolu denklem şu hale gelir: 
+
+ 
+
+𝑦!!! = 𝑦! + 𝑘! +   ℎ! . 
+40) 
+
+ 
+53 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+ 
+Bu iki adımlı Runge-Kutta formülüdür. Euler yöntemine göre daha iyi ve hassas sonuç vermekle birlikte her adımda 
+𝑓𝑥, 𝑦 fonksiyonu iki kere hesaplanır [13]. Bu çalışmada 4 adımlı Runge-Kutta programı verilecektir: 
+
+ 
+
+𝑘! = ℎ𝑓(𝑥!, 𝑦!) 
+
+𝑘! = ℎ𝑓(𝑥! + 1
+
+2 ℎ, 𝑦! + 1
+
+2 ℎ𝑘!) 
+
+𝑘! = ℎ𝑓(𝑥! + 1
+
+2 ℎ, 𝑦! + 1
+
+2 ℎ𝑘!) 
+
+𝑘! = ℎ𝑓(𝑥! + ℎ, 𝑦! + ℎ𝑘!) 
+
+41) 
+
+𝑦!!! = 𝑦! + ℎ
+
+6 𝑘! + 2𝑘! + 2𝑘! + 𝑘! +   ℎ! . 
+
+ 
+4 adımlı Runge-Kutta yönteminde hata payı   ℎ!  olduğundan çok hassas sonuç verir. Fakat yine her adımda 
+fonksiyonu 4 kez hesaplar. Bu da bazı problemlerde işlem süresini uzatabilir. Şekil 10’da Runge-Kutta yöntemi için 
+bir program verilmiştir.  
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Şekil 10. Runge-Kutta yöntemi için Mathematica’da örnek bir program 
+
+4. TARTIŞMA VE SONUÇ 
+
+ 
+54 
+
+                                                                                         
+
+                                                               Kilis 7 Aralık Üniversitesi Fen ve Mühendislik Dergisi 
+
+ 
+
+Bu çalışmada lineer ve lineer olmayan denklem sistemleri ile birlikte diferansiyel denklemlerin sayısal 
+çözümleme programları Mathematica dilinde verilmiştir. Şüphesiz Mathematica sahip olduğu bazı komutlarla 
+(DSolve, NDSolve) diferansiyel denklemleri çözebilmektedir. Buradaki amacımız Mathematica’nın programlamaya 
+uygun bir dil olduğunu göstermekti.  
+
+Çalışmada elde edilen sonuçlar Matlab, Python, Fortran gibi başka dillerde de elde edilebilir. Mathematica’nın 
+bu dillere göre avantajı sahip olduğu fonksiyon kütüphanesi ve üstün grafik özellikleridir. Sayısal çözümleme 
+derslerinde Mathematica’nın kullanımı yararlı olacaktır.  
+
+ 
+ 
+ 
+
+REFERANSLAR 
+ 
+[1] Tuncer, T. (1996) Diferansiyel Denklemler, Alfa Basım Yayım Dağıtım, İstanbul 
+
+[2] Pala, Y. (2006) Modern Uygulamalı Diferansiyel Denklemler, Nobel Yayın Dağıtım, Ankara 
+
+[3] Aktaş, Z., Öncül, H., Ural, S. (1991) Sayısal Çözümleme, ODTÜ Yayınları, Ankara  
+
+[4] Tapramaz, R. (2002) Sayısal Çözümleme, Literatür Yayınları, İstanbul 
+
+[5] Brookshear, J. G. ve Brylow, D. Çev. Edt: Demirci, B.B. (2016) Bilgisayar Bilimlerine Giriş, Nobel 
+Akademik Yayıncılık, Ankara 
+
+[6] Vatansever, F. (2015), Algoritma Geliştirme ve Programlamaya Giriş, Seçkin Yayıncılık, Ankara 
+
+[7] Vatansever, F. (2006), İleri Programlama Uygulamaları, Seçkin Yayıncılık, Ankara 
+
+[8] Çınar, M. (2000) Mathematica 3.0 ve 4.0 Sürümü, Seçkin Yayıncılık, Ankara 
+
+[9] Çınar, M. ve Çalışkan, F. (1995) Mathematica ile Programlama, Beta Basım Yayım Dağıtım, İstanbul 
+
+[10] Sınıksıran, E. ve Aktütün, A. (2009) Matematik ve İstatistik Uygulamalarıyla Mathematica, Türkmen 
+Kitapevi, İstanbul 
+
+[11] Cesur, Y. (2015) Diferansiyel Denklemler ve Mathematica, Kişisel Yayın 
+
+[12] Akın, Ö. (Çeviri Editörü) (2008), Diferansiyel Denklemler ve Sınır Değer Problemleri, Palme Yayıncılık, 
+Ankara 
+
+[13] Karaoğlu, B. (2013) Fortran ve Python ile Sayısal Fizik, Seçkin Yayınları, Ankara 
+
+[14] Wolfram, S. (1991) Mathematica: A System for Doing Mathematics by Computer, Addison Wesley 
+Publishing Company 
+
+ 
+
+ 
+55 
+

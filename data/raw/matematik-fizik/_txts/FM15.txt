@@ -1,0 +1,4630 @@
+Denizli İl Millî Eğitim Müdürlüğü  
+Bilim ve Eğitim Dergisi
+Cilt 2, Sayı 1, 3108-4125, 2026
+
+Denizli Provincial Directorate of National Education  
+
+Journal of Science and Education
+Volume 2, Issue 1, 3108-4125, 2026
+
+Üçgende Gergonne Noktası ile İlgili Farklı Bakış Açıları ve Yeni Özellikler Oluşturma 
+
+Ferhat İPEK*1, Melis EMEKLİ2, Dilşad ERGEN3 
+
+²İstanbul Vehbi Koç Vakfı Koç Özel Lisesi, 34959, Tuzla, İstanbul, Türkiye 
+3Adana Çukurova Bilim ve Sanat Merkezi, 01170, Çukurova, Adana, Türkiye 
+
+¹Adana Çukurova Bilim ve Sanat Merkezi, 01170, Çukurova, Adana, Türkiye 
+
+1(ORCID: https://orcid.org/0009-0000-0986-2297) 
+²(ORCID: https://orcid.org/0009-0004-7537-5920) 
+3(ORCID: https://orcid.org/0000-0002-8528-6620) 
+
+(Alınış / Received: 08.01.2026, Kabul / Accepted: 30.01.2026, Online Yayınlanma / Published Online: 31.01.2026) 
+*İlgili yazar ve danışmanı : ferhatipek0133@gmail.com, melisemekli@gmail.com, dilsad2501@gmail.com
+
+Özet: Öklid geometrisi kapsamında üçgen konusu ile ilgili çalışmalarda önemli bir yere sahip olan Gergonne noktası, 
+üçgenin iç teğet çemberinin kenarlara değdiği noktalar ile karşı köşeleri birleştiren doğruların kesişim noktası olarak 
+tanımlanmaktadır. Bu çalışma, kapsamlı bir literatür taramasından hareketle, Gergonne noktasının düzlemdeki farklı 
+noktalarla arasındaki uzaklık ilişkilerini incelemeyi ve bu bağlamda yeni geometrik bağıntılar ortaya koymayı 
+amaçlamaktadır. Çalışmanın ilk aşamasında, Gergonne noktasının üçgenin köşelerine olan uzaklıklarına ilişkin 
+hesaplamalar elde edilmiştir. Bu süreçte, Gergonne noktası ile düzlemdeki herhangi bir nokta arasındaki uzaklığa 
+yönelik daha genel bir bağıntı tespit edilmiş söz konusu bağıntı teorem hâlinde sunularak ispatlanmıştır. Bu sonuçtan 
+yararlanılarak, Gergonne noktasının köşelere olan uzaklıkları ile üçgenin kenar uzunlukları arasında yeni bir bağıntı 
+kurulmuş ve bu nicelikler arasında anlamlı bir ilişki elde edilmiştir. Çalışmanın ilerleyen bölümlerinde, özel bir üçgen 
+sınıfı olarak dik üçgenler ele alınmış ve dik üçgenlerde Gergonne noktasına ilişkin özgün bağıntılar ortaya konmuştur. 
+Son olarak, Gergonne noktası kullanılarak dik üçgenler için alternatif bir alan formülü türetilmiştir. Bulgular 
+sunulurken, deneysel gözlemler ve geometrik çıkarımlar yoluyla elde edilen varsayımlar sistematik biçimde ele
+alınmış ardından bu varsayımlar doğrudan ispat yöntemi ve algoritmik adımlar kullanılarak kanıtlanmıştır. Elde edilen 
+sonuçlar, Öklid geometrisine ilişkin literatüre yeni katkılar sunarak Gergonne noktasının genel ve özel durumlar için 
+özgün sonuçlar ortaya koymaktadır. 
+
+Anahtar Kelimeler: Gergonne Noktası, İç Teğet Çember, Dik Üçgen 
+
+Different Perspectives on the Gergonne Point in a Triangle and the Construction of New 
+
+Properties 
+
+Abstract: In Euclidean geometry, the Gergonne point, which holds a significant place in studies related to triangles, 
+is defined as the intersection point of the points where the inscribed circle of the triangle touches the sides and the 
+lines connecting the opposite vertices. This study aims to examine the distance relationships between the Gergonne 
+point and different points in the plane, based on a comprehensive literature review, and to establish new geometric 
+relationships in this context. In the first stage of the study, calculations regarding the distances of the Gergonne point 
+to the vertices of the triangle were obtained. In this process, a more general relationship for the distance between the 
+Gergonne point and any point in the plane was identified and proven by presenting this relationship as a theorem. 
+Using this result, a new relationship was established between the distances of the Gergonne point to the vertices and 
+the side lengths of the triangle, and a meaningful relationship was obtained between these quantities. In the later 
+sections of the study, right triangles, as a special class of triangles, are considered, and original relationships regarding
+the Gergonne point in right triangles are presented. Finally, an alternative area formula for right triangles is derived
+using the Gergonne point. In presenting the findings, assumptions obtained through experimental observations and 
+geometric inferences are systematically addressed, and then these assumptions are proven using direct proof methods
+
+49
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+and algorithmic steps. The results offer new contributions to the literature on Euclidean geometry, revealing original 
+results for both general and specific cases of the Gergonne point. 
+
+Keywords: Gergonne Point, Incircle, Right-Angled Triangle 
+
+1. Giriş
+
+Matematik; aritmetik, cebir, geometri gibi sayı ve ölçü temeline dayanarak niceliklerin özelliklerini inceleyen bilimlerin 
+ortak adıdır. Geometri ise bireylerin matematiksel düşünmesini kolaylaştıran ve geometrik şekilleri kullanarak bireylerin 
+çözüme ulaşmasını sağlayan bir bilim dalıdır. Soyut bir disiplin olarak görülen matematiğin, somut yönünün en iyi fark 
+edilebildiği bir alanıdır. Bunun dışında günlük yaşam problemlerini çözmede ve bilim, sanat gibi farklı disiplinlerde 
+kullanılmaktadır (Hızarcı, 2004).  
+
+Geometri alanında şimdiye kadar yapılmış çalışmalarda üçgenlerdeki özel noktalar ve merkezler büyük önem taşımıştır. 
+Venema (2006) çalışmasında; klasik üçgen merkezlerinin tanımlamasını yapıp açık uçlu problemler ortaya koymuştur.  
+Literatürde bir üçgenin ağırlık merkezi, iç teğet çemberin merkezi, diklik merkezi, çevrel çemberin merkezi, vb. çok fazla 
+sayıda merkez tanımlanmıştır (Akyar ve Akyar, 2016). 
+
+Sastry (2000) çalışmasında; üçgenin iç noktalarının bilinen özellikleri ile üçgenin kenarortayı ile üçgenin diğer bir 
+kenarını karşı köşe ile birleştiren doğru parçasının üçgenin Gergonne noktasında kesiştirilmesi yoluyla Heron 
+üçgenlerinin üretilmesini vermiştir. 
+
+Bir üçgende iç teğet çemberin kenarlara değme noktaları ile karşı köşeleri birleştiren doğruların kesişim noktasına 
+Gergonne noktası denir ve genellikle 𝐺𝐺𝑒𝑒 ile gösterilir. Bu nokta, klasik üçgen merkezleri arasında yer almakta olup adını 
+Fransız matematikçi Joseph Diaz Gergonne’dan almaktadır (Queiroz Filho, 2016). Gergonne noktası uzun süredir 
+geometri literatüründe ilgi gören özel noktalardan biri olarak kabul edilmektedir. 
+
+Gergonne noktası üzerine yapılan çalışmalar incelendiğinde, bu noktanın farklı geometrik bağlamlarda ele alındığı 
+görülmektedir. Queiroz Filho (2021), Gergonne noktasının üçgen düzlemindeki herhangi bir noktaya olan uzaklığını 
+veren metrik bir bağıntı elde etmiş ve bu bağıntıyı geometrik teoremler yardımıyla ispatlamıştır. Bu yaklaşım, Gergonne 
+noktasının yalnızca konumsal bir merkez değil, düzlemdeki noktalarla ölçüsel ilişkiler kurabilen bir yapı olarak 
+incelenebileceğini göstermektedir. Jurkin ve Šimić Horvath (2023) ise Gergonne noktasını izotropik düzlem bağlamında 
+ele alarak bu noktaya bağlı bazı eğrileri incelemiş ve özelliklerini araştırmıştır. Benzer şekilde Katić Žlepalo ve Jurkin 
+(2018), aynı çevrel çembere sahip üçgenlerden oluşan bir üçgen ailesinde Gergonne noktalarının geometrik yerini 
+incelemiş ve bu yerin cebirsel nitelikte bir eğri olduğunu göstermiştir. Bu çalışmalar, Gergonne noktasının dinamik ve 
+kuramsal yönlerini ortaya koymakla birlikte, üçgenin kenarları ve köşeleri ile doğrudan kurulan metrik bağıntılar üzerine 
+sınırlı sayıda sonucun bulunduğunu göstermektedir. 
+
+Bu çalışmada Gergonne noktasının metrik özellikleri sistematik biçimde incelenmiştir. İlk aşamada Gergonne noktasının 
+üçgenin köşelerine ve iç teğet çemberin kenarlara değme noktalarına olan uzaklıkları hesaplanmış; ardından Gergonne 
+noktasının düzlem üzerindeki herhangi bir noktaya olan uzaklığına ilişkin genelleştirilmiş bir bağıntı elde edilmiştir. Elde 
+edilen bu sonuç kullanılarak Gergonne noktasının köşelere olan uzaklıkları ile üçgenin kenar uzunlukları arasında yeni 
+ilişkiler kurulmuştur. Ayrıca dik üçgen özel durumunda Gergonne noktasına ilişkin yeni metrik bağıntılar türetilmiş ve 
+Gergonne noktasından yararlanılarak dik üçgenin alanını veren bir bağıntı ortaya konmuştur. 
+
+Bu çerçevede çalışmanın temel amacı, Gergonne noktası aracılığıyla elde edilebilecek yeni bağıntıları ortaya koymaktır. 
+Bunun yanında elde edilen sonuçların, ileri düzey geometri problemlerinde ve özellikle özel noktalara dayalı çözüm 
+yaklaşımlarında kullanılabilirliğinin gösterilmesi hedeflenmektedir. Çalışma, üçgenin klasik merkezlerinden biri olan 
+Gergonne noktasının metrik açıdan daha kapsamlı biçimde ele alınmasına katkı sağlamayı amaçlamaktadır. 
+
+1.1. Temel Tanım ve Kavramlar 
+
+Çalışma boyunca ve özellikle ispat aşamalarında kullanılacak olan temel tanım, teorem ve kavramlar bu bölümde 
+tanıtılacaktır. 
+
+Gergonne Noktası: Bir ABC üçgeninde iç teğet çemberlerin değme noktaları ile üçgenin köşelerini birleştiren doğrular 
+aynı noktada kesişirler ve bu nokta Gergonne Noktası olarak adlandırılır. ABC üçgenine ait iç teğet çember, D, E ve F iç 
+teğet çemberin kenarlara değme noktaları, ABC üçgeninin çevresi 2s olmak üzere; [AD], [BE] ve [CF] doğrularının kesim 
+noktası Gergonne Noktasıdır. Bu durum Şekil 1. de gösterilmiştir. 
+
+50
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+Şekil 1. 
+
+Menelaus Teoremi: ABC bir üçgen ve D, E, F noktaları sırasıyla BC, CA, AB doğruları üzerinde olsun. D, E, F 
+
+noktalarının doğrusal olması için gerek ve yeter koşul
+ olmasıdır (Küpeli, 2013). 
+Stewart Teoremi: ABC bir üçgen ve D, [BC] doğru parçası üzerinde herhangi bir nokta olmak üzere, 
+
+ dir (Şahin, 2013). 
+Ceva Teoremi: ABC bir üçgen ve D, E, F noktaları sırasıyla BC, CA, AB doğruları üzerinde olsun. AD, BE, CF 
+doğrularının bir noktadan geçmesi için gerek ve yeter koşul 
+
+olmasıdır (Şahin, 2013). 
+
+Ortay Üçgen: ABC bir üçgen ve D, E, F noktaları sırasıyla BC, CA, AB doğrularının kenarlarının orta noktaları olsun. 
+DE, EF, FD doğru parçalarının birleştirilmesi ile oluşan üçgene ABC üçgeninin ortay üçgeni denir.  
+
+İç Teğet Çember: Bir üçgeninin iç bölgesinde bulunan ve üçgenin kenarlarına teğet olan çembere üçgenin iç teğet çember 
+denir. İç teğet çemberin merkezi, üçgenin iç açıortaylarının kesim noktasıdır (Şahin, 2013). 
+
+Dış Teğet Çemberler: Bir üçgeninin dış bölgesinde bulunan ve üçgenin kenarlarına teğet olan çemberlere üçgenin dış 
+teğet çemberleri denir. Dış teğet çemberin merkezi, üçgenin bir köşesine ait iç açıortay ile diğer köşelerine ait dış 
+açıortayların kesim noktasıdır. Bir üçgenin üç tane dış teğet çemberi vardır (Şahin, 2013). 
+
+2. Materyal ve Metot
+
+Çalışmaya ilk olarak konu seçimi yapılarak başlanmıştır. Bu konu Gergonne Noktası olarak belirlenmiştir. Sonrasında 
+Gergonne Noktası ile ilgili daha önce yapılmış çalışmalar incelenmiştir. Daha sonra hem kağıt-kalem ile hem de bilgisayar 
+ortamında üçgen çizimleri yapılarak çeşitli denemeler ve gözlemler yapılmış ardından bazı iddialar ortaya atılmış ve bu 
+iddialar ispatlanmıştır. Bundan sonra daha özel üçgenler üzerinde çalışmalar yapılmasına karar verilmiş ve dik üçgenler 
+üzerinde yapılan çalışmalar başlamıştır. Bu aşamada daha önce elde edilen bulgular kullanılarak çeşitli çizimler üzerinde 
+yeni özellikler elde edilmiş ve ispatlanmıştır. İspat aşamalarında doğrudan ispat yöntemi, yapılan çizimler sırasında FX 
+Draw programı, matematiksel ifadeleri yazımı sırasında ise MathType uygulamaları kullanılmıştır. 
+
+51
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+3.Bulgular
+
+Bu bölümde üçgenin iç teğet çemberinin kenarlara değme noktaları ile köşeleri arasında kurulan uzaklık ilişkisi 
+verilmiştir. 
+
+Teorem 3.1. ABC bir üçgen ve ABC üçgeninin iç teğet çemberinin [BC], [CA] ve [AB] kenarlarına teğet olduğu noktalar 
+
+sırasıyla D, E, F olsun. AB
+c
+=
+, BC
+a
+= , CA
+b
+=
+ olup, üçgenin çevresi 2s ile gösterilsin. Bu durumda
+
+AF
+AE
+s
+a
+=
+=
+−
+
+BF
+BD
+s
+b
+=
+=
+−
+ 
+
+CD
+CE
+s
+c
+=
+=
+−
+ 
+dir. 
+
+İspat: ABC üçgenine ait iç teğet çember ve iç teğet çemberin kenarlar değme noktaları değme noktaları ve [AD], [BE] 
+ve [CF] doğruları Şekil 2. de gösterilmiştir. 
+
+Şekil 2. 
+
+AB
+c
+=
+, BC
+a
+=
+, CA
+b
+=
+ olup, üçgenin çevresi 2s ile gösterilsin. Ayrıca çemberde teğet özellikleri kullanılarak, 
+
+AF
+AE
+=
+, BF
+BD
+=
+ ve CD
+CE
+=
+ eşitlikleri görülebilir. 
+
+AF
+AE
+x
+=
+=
+, BF
+BD
+c
+x
+=
+=
+−
+, CD
+CE
+b
+x
+=
+=
+−
+ denilirse,
+
+c
+x
+b
+x
+a
+−
++
+−
+=
+ 
+
+2
+c
+b
+x
+a
++
+=
++
+ 
+
+2
+2
+c
+b
+a
+x
+a
++
++
+=
++
+ 
+
+2
+2(
+)
+s
+x
+a
+=
++
+ 
+
+s
+x
+a
+=
++
+ 
+
+x
+s
+a
+=
+−
+ 
+elde edilir. Böylece, 
+
+AF
+AE
+s
+a
+=
+=
+−
+
+BF
+BD
+s
+b
+=
+=
+−
+ 
+
+CD
+CE
+s
+c
+=
+=
+−
+ 
+olduğu ispatlanmış olur. 
+
+Bu bölümde, üçgende Gergonne Noktası ile iç teğet çemberlerin kenarlara değme noktaları arasındaki uzaklıklar ve 
+köşeler ile Gergonne Noktası arasındaki uzaklıklar arasında kurulan ilişkiler verilmiştir. 
+
+52
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+Teorem 3.2. ABC bir üçgen ve ABC üçgeninin iç teğet çemberinin [BC], [CA] ve [AB] kenarlarına teğet olduğu noktalar 
+sırasıyla D, E, F olsun. ABC üçgeninin Gergonne noktası Ge olmak üzere, 
+
+AG
+a s
+a
+G D
+s
+b s
+c
+−
+=
+−
+−
+
+e
+
+(
+)
+(
+)(
+)
+
+i. 
+
+e
+
+BG
+b s
+b
+G E
+s
+a s
+c
+−
+=
+−
+−
+
+e
+
+(
+)
+(
+)(
+)
+
+ii. 
+
+CG
+c s
+c
+G F
+s
+a s
+b
+−
+=
+−
+−
+
+e
+
+(
+)
+(
+)(
+)
+
+iii. 
+
+e
+
+e
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+AG
+a s
+a
+a s
+a
+s
+b s
+c
+
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+e
+
+
+
+−
++
+−
+−
+−
+−
+
+
+
+
+=
+−
+
+
+−
++
+−
+−
+
+
+
+ 
+
+iv. 
+
+
+
+−
++
+−
+−
+−
+−
+
+
+
+
+=
+−
+−
+
+
+−
++
+−
+−
+
+
+
+
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+G D
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+e
+
+v. 
+
+2
+(
+)(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+e
+e
+a s
+a s
+b s
+c
+b
+s
+b
+c
+s
+c
+AG
+G D
+s
+b s
+c
+a
+a s
+a
+s
+b s
+c
+
+
+
+−
+−
+−
+−
++
+−
+⋅
+=
+−
+−
+−
+
+
+−
++
+−
+−
+
+
+
+2
+2
+
+vi.
+(
+)
+
+e
+AG
+a s
+a
+AD
+a s
+a
+s
+b s
+c
+−
+=
+−
++
+−
+−
+
+(
+)
+(
+)
+(
+)(
+)
+
+vii. 
+
+e
+G D
+s
+b s
+c
+AD
+a s
+a
+s
+b s
+c
+−
+−
+=
+−
++
+−
+−
+
+(
+)(
+)
+(
+)
+(
+)(
+)
+
+viii. 
+
+dir. 
+
+İspat (i) : ABC üçgeninde Ge Gergonne noktası olsun. Üçgenin kenar uzunlukları sırasıyla a, b, c ve çevresi 2s olmak 
+
+üzere, AF
+AE
+s
+a
+=
+=
+−
+, BF
+BD
+s
+b
+=
+=
+−
+ ve CD
+CE
+s
+c
+=
+=
+−
+ dir.
+
+Şekil 3. 
+
+Şekil 3. de gösterilen ADC üçgeninde Menelaus Teoremi uygulanırsa, 
+
+BD
+CE
+AG
+BC
+EA
+G D
+⋅
+⋅
+=
+
+e
+
+1
+e
+
+1
+2
+
+AG
+s
+b
+s
+c
+s
+b
+c s
+a G D
+−
+−
+⋅
+⋅
+=
+−−
+−
+
+e
+
+e
+
+53
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+AG
+s
+b s
+c
+a
+s
+a G D
+−
+−
+⋅
+⋅
+=
+−
+
+1
+e
+
+e
+
+AG
+a s
+a
+G D
+s
+b s
+c
+−
+=
+−
+−
+elde edilir. 
+
+e
+
+(
+)
+(
+)(
+)
+
+e
+
+(ii) ve (iii) de benzer şekilde ispatlanabilir.
+
+(iv) : Şekil 3. de gösterilen ABC üçgeninde AD doğrusuna göre Stewart teoremi uygulanırsa,
+
+Şekil 4. 
+
+2
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+−
++
+−
+=
+−
+−
+−
+b
+s
+b
+c
+s
+c
+AD
+s
+b s
+c
+a
+ (1) 
+
+
+
+−
+=
+
+
+
+
+−
+−
+
+ elde edilen sonuçlardan hareketle, bir k pozitif reel sayısı için,
+
+AG
+a s
+a
+G D
+s
+b s
+c
+
+e
+
+(
+)
+(
+)(
+)
+
+olur. Ayrıca (i) de 
+
+e
+
+(
+)
+=
+−
+e
+AG
+a s
+a k
+        (2) 
+
+(
+)(
+)
+=
+−
+−
+e
+G D
+s
+b s
+c k
+ (3) 
+olup, 
+
+(
+)
+(
+)(
+)
+[ (
+)
+(
+)(
+)]
+AD
+a s
+a k
+s
+b s
+c k
+k
+a s
+a
+s
+b s
+c
+=
+−
++
+−
+−
+=
+⋅
+−
++
+−
+−
+      
+  (4) 
+olur. Bu değerler 1 eşitliğinde yerine yazılırsa 
+
+2
+2
+2
+2
+(
+)
+(
+)
+[ (
+)
+(
+)(
+)]
+(
+)(
+)
+b
+s
+b
+c
+s
+c
+k
+a s
+a
+s
+b s
+c
+s
+b s
+c
+a
+−
++
+−
+⋅
+−
++
+−
+−
+=
+−
+−
+−
+
+olup 
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+k
+a s
+a
+s
+b s
+c
+
+−
++
+−
+−
+−
+−
+=
+−
++
+−
+−
+
+2
+2
+
+(
+)
+(
+)
+(
+)(
+)
+
+2
+2
+
+[ (
+)
+(
+)(
+)]
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+k
+a s
+a
+s
+b s
+c
+ (5) 
+elde edilir. 5 eşitliğinde elde edilen değer (2) de yerine yazılırsa 
+
+−
++
+−
+−
+−
+−
+=
+−
++
+−
+−
+
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+
+(
+)
+(
+)(
+)
+
+(
+)
+=
+−
+e
+AG
+a s
+a k
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+AG
+a s
+a
+a s
+a
+s
+b s
+c
+
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+e
+
+
+
+−
++
+−
+−
+−
+−
+
+
+
+
+=
+−
+
+
+−
++
+−
+−
+
+
+
+         
+  (6) 
+
+54
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+elde edilir. 
+
+(v) : 2 ve 5 eşitliğinde elde edilen değerler 3 eşitliğinde (
+)
+(
+)(
+)
+e
+G D
+s
+b s
+c k
+=
+−
+−
+ yerine yazılırsa
+
+
+
+−
++
+−
+−
+−
+−
+
+
+
+
+=
+−
+−
+
+
+−
++
+−
+−
+
+
+
+
+    (7) 
+olduğu gösterilmiş olur. 
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+G D
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+e
+
+(vi) : (6) ve (7) de bulunan eşitlikleri çarpalım.
+
+
+
+
+
+−
++
+−
+−
++
+−
+−
+−
+−
+−
+−
+−
+
+
+
+
+
+
+
+
+−
+⋅
+−
+−
+
+
+
+
+−
++
+−
+−
+−
++
+−
+−
+
+
+
+
+
+
+
+
+
+e
+e
+AG
+G D
+⋅
+=  
+
+b
+s
+b
+c
+s
+c
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+s
+b s
+c
+a
+a
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+2
+2
+2
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)]
+(
+)
+(
+)(
+)]
+
+−
++
+−
+−
+−
+−
+=
+−
+−
+−
+−
++
+−
+−
+
+b
+s
+b
+c
+s
+c
+s
+b s
+c
+a
+a s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+
+2
+2
+
+(
+)
+
+2
+
+−
++
+−
+−
+−
+−
+=
+−
+−
+−
+−
++
+−
+−
+
+b
+s
+b
+c
+s
+c
+a s
+b s
+c
+a s
+a s
+b s
+c
+a a s
+a
+s
+b s
+c
+
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+
+2
+2
+
+(
+)
+
+−
+−
+−
++
+−
+−
+−
+−
+−
+−
+−
+=
+−
++
+−
+−
+olup 
+
+ab
+s
+a s
+b
+s
+c
+ac
+s
+a s
+b s
+c
+a
+s
+a s
+b
+s
+c
+
+2
+2
+2
+2
+2
+2
+2
+
+2
+(
+)(
+) (
+)
+(
+)(
+)(
+)
+(
+)(
+) (
+)
+
+a a s
+a
+s
+b s
+c
+
+(
+)
+
+(
+)
+(
+)(
+)
+
+
+
+−
+−
+−
+−
++
+−
+⋅
+=
+−
+−
+−
+
+
+−
++
+−
+−
+
+    
+  (8) 
+elde edilir. 
+
+2
+(
+)(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+e
+e
+a s
+a s
+b s
+c
+b s
+b
+c s
+c
+AG
+G D
+s
+b s
+c
+a
+a s
+a
+s
+b s
+c
+
+2
+2
+
+(
+)
+
+(vii) : 2 ve 4 eşitlikleri kullanılarak
+
+e
+AG
+a s
+a k
+a s
+a
+AD
+k
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+−
+−
+=
+=
+⋅
+−
++
+−
+−
+−
++
+−
+−
+  (9) 
+elde edilir. 
+
+(
+)
+(
+)
+[ (
+)
+(
+)(
+)]
+(
+)
+(
+)(
+)
+
+(viii): 3 ve 4 eşitlikleri kullanılarak 
+
+e
+G D
+s
+b s
+c k
+s
+b s
+c
+AD
+k
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+−
+−
+−
+−
+=
+=
+⋅
+−
++
+−
+−
+−
++
+−
+−
+ (10) 
+elde edilir.     
+
+(
+)(
+)
+(
+)(
+)
+[ (
+)
+(
+)(
+)]
+(
+)
+(
+)(
+)
+
+Bu iddiada Gergonne Noktası’yla düzlem üzerindeki herhangi bir nokta arasındaki uzaklık üçgenin kenar uzunluklarına 
+ve çevresine bağlı olarak bulunacaktır. 
+
+Teorem 3.3. ABC bir üçgen, Ge, ABC üçgeninin Gergonne noktası ve P, herhangi bir nokta olsun. Bu durumda 
+
+(
+)
+(
+)(
+)
+e
+PA
+s
+b s
+c
+PB
+s
+a s
+c
+PC
+s
+a s
+b
+PG
+a s
+a
+s
+b s
+c
+
+2
+2
+2
+2
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+
+−
+−
++
+−
+−
++
+−
+−
+=
+−
++
+−
+−
+
+2
+(
+)(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+1
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+a s
+a s
+b s
+c
+b
+s
+b
+c
+s
+c
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+a
+s
+a
+a s
+b s
+c
+
+
+−
+−
+−
+−
++
+−
+−
+−
+−
+−
++
+
+
+−
++
+−
+−
+−
++
+−
+−
+
+ dir. 
+
+2
+2
+
+55
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+İspat: ABC bir üçgen, 
+e
+G , ABC üçgeninin Gergonne noktası ve P, herhangi bir nokta olsun. İlgili durum Şekil 5 de 
+gösterilmiştir. 
+
+Şekil 5. 
+
+BPC üçgeninde Stewart teoremi uygulanırsa 
+
+2
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+−
++
+−
+=
+−
+−
+−
+PB
+s
+c
+PC
+s
+b
+PD
+s
+b s
+c
+a
+    (11) 
+olur. APD üçgeninde Stewart teoremi uygulanırsa, 
+
+2
+2
+2
++
+=
+−
+⋅
+e
+e
+e
+e
+e
+PA
+G D
+PD
+G A
+PG
+AG
+G D
+AD
+
+(12) 
+olur. 12 eşitliğinde 8, 9 ve 10 eşitlikleri yerine yazılırsa 
+
+2
+2
+2
+e
+e
+e
+e
+e
+G D
+AG
+PG
+PA
+PD
+AG
+G D
+AD
+AD
+=
+⋅
++
+⋅
+−
+⋅
+
+2
+2
+2
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+e
+PB
+s
+c
+PC
+s
+b
+s
+b s
+c
+a s
+a
+PG
+PA
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a
+a s
+a
+s
+b s
+c
+
+
+
+−
++
+−
+−
+−
+−
+=
++ 
+−
+−
+−
+
+
+
+−
++
+−
+−
+−
++
+−
+−
+
+
+
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+b
+s
+b
+c
+s
+c
+a s
+b s
+c
+a s
+a s
+b s
+c
+a a s
+a
+s
+b s
+c
+−
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
+−
+−
+
+2
+2
+
+(
+)
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+=
++
++
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+
+PA
+s
+b s
+c
+PB
+s
+a s
+c
+PC
+s
+a s
+b
+a s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+2
+2
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+
+−
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
+−
+−
+
+b
+s
+b
+c
+s
+c
+a s
+b s
+c
+a s
+a s
+b s
+c
+a a s
+a
+s
+b s
+c
+
+2
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+
+2
+2
+
+(
+)
+
+−
+−
++
+−
+−
++
+−
+−
+=
+−
++
+−
+−
+
+PA
+s
+b s
+c
+PB
+s
+a s
+c
+PC
+s
+a s
+b
+
+2
+2
+2
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+
+
+
+−
+−
+−
+−
++
+−
+−
+−
+−
+−
++
+
+
+−
++
+−
+−
+−
++
+−
+−
+
+ 
+bulunur. 
+
+2
+(
+)(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+1
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+a s
+a s
+b s
+c
+b s
+b
+c s
+c
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+a s
+b s
+c
+
+a s
+a
+s
+b s
+c
+
+(
+)
+(
+)(
+)
+
+2
+2
+
+Bu bölümde, Gergonne Noktasının üçgenin köşelerine olan uzaklıkları ve kenarlar arasında elde edilen bağıntı 
+verilecektir. 
+
+Teorem 3.4. ABC bir üçgen ve ABC üçgeninin Gergonne Noktası 
+e
+G  olsun.
+BC
+a
+=
+,
+CA
+b
+= ,
+AB
+c
+=
+ ve 
+
+2
+a
+b
+c
+s
++
++
+=
+
+ olmak üzere, 
+
+56
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+e
+e
+e
+G A
+s
+b s
+c
+G B
+s
+a s
+c
+G C
+s
+a s
+b
+a s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+2
+2
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+
+2
+(
+)(
+(
+) )
+(
+)(
+)(
+)
+[ (
+)
+(
+)(
+)]
+−
+−
+−
+=
+−
+−
+−
+−
++
+−
+−
+s
+a as
+b
+c
+s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+dir. 
+
+2
+
+İspat: 3.3 bölümünde elde edilen eşitlikte P = 
+e
+G  olarak alınırsa
+0
+e
+PG =
+ olup
+
+2
+2
+2
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+0
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+=
++
++
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+
+PA
+s
+b s
+c
+PB
+s
+a s
+c
+PC
+s
+a s
+b
+a s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+(
+)(
+(
+) )
+(
+)(
+)(
+)
+[ (
+)
+(
+)(
+)]
+−
+−
+−
+−
+−
+−
+−
+−
++
+−
+−
+s
+a as
+b
+c
+s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+
+olur. Bu eşitlikte P yerine 
+e
+G  yazılırsa
+
+e
+e
+e
+G A
+s
+b s
+c
+G B
+s
+a s
+c
+G C
+s
+a s
+b
+a s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+a s
+a
+s
+b s
+c
+
+2
+2
+2
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)(
+)
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+−
++
+−
+−
+
+2
+(
+)(
+(
+) )
+(
+)(
+)(
+)
+[ (
+)
+(
+)(
+)]
+−
+−
+−
+=
+−
+−
+−
+−
++
+−
+−
+s
+a as
+b
+c
+s
+a s
+b s
+c
+a s
+a
+s
+b s
+c
+eşitliği elde edilir ve ispat tamamlanmış olur. 
+
+2
+
+Bu bölümde bir dik üçgende Gergonne Noktası ile ilgili elde ettiğimiz bağıntılar ortaya konulacak ve ispatlanacaktır. 
+
+Teorem 3.5. ABC bir dik üçgen ve 
+(
+)
+90
+m BAC =
+
+
+ olsun. BC
+a
+=
+, CA
+b
+=
+, AB
+c
+=
+, 2s
+a
+b
+c
+=
++
++
+, ABC üçgeninin 
+
+Gergonne noktası 
+e
+G  ve [BC] üzerindeki bir D noktası için [AD], Ge den geçen bir doğru parçası olmak üzere,
+
+AG
+a
+G D
+s
+=
+
+i. 
+
+e
+
+e
+
+AD
+s
+a
+G D
+s
++
+=
+
+ii. 
+e
+
+dir. 
+
+Şekil 6. 
+
+İspat: ABC dik üçgeninde 
+e
+G  noktasından geçen [BE] ve [CF] doğru parçalarını çizelim ve ilgili kenar uzunluklarını 
+üçgenin kenar uzunlukları ve yarı çevresi cinsinden yazalım. 
+
+57
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+Şekil 7. 
+
+AG
+a s
+a
+G D
+s
+b s
+c
+−
+=
+−
+−
+olduğu zaten bulunmuştu. Ayrıca ABC üçgeninde Pisagor Teoremi kullanılırsa,
+
+e
+
+(
+)
+(
+)(
+)
+
+e
+
+2
+2
+2
+a
+b
+c
+=
++
+ 
+
+2
+2
+2
+[(
+)
+(
+)]
+[(
+)
+(
+)]
+[(
+)
+(
+)]
+s
+b
+s
+c
+s
+a
+s
+c
+s
+a
+s
+b
+−
++
+−
+=
+−
++
+−
++
+−
++
+−
+ 
+
+2
+2
+2
+2
+2
+2
+(
+)
+2(
+)(
+)
+(
+)
+(
+)
+2(
+)(
+)
+(
+)
+(
+)
+2(
+)(
+)
+(
+)
+s
+b
+s
+b s
+c
+s
+c
+s
+a
+s
+a s
+c
+s
+c
+s
+a
+s
+a s
+b
+s
+b
+−
++
+−
+−
++
+−
+=
+−
++
+−
+−
++
+−
++
+−
++
+−
+−
++
+−
+
+2
+2
+2(
+)(
+)
+(
+)
+2(
+)(
+)
+(
+)
+2(
+)(
+)
+s
+b s
+c
+s
+a
+s
+a s
+c
+s
+a
+s
+a s
+b
+−
+−
+=
+−
++
+−
+−
++
+−
++
+−
+−
+
+2(
+)(
+)
+(
+)[(
+)
+2(
+)
+(
+)
+2(
+)]
+s
+b s
+c
+s
+a
+s
+a
+s
+c
+s
+a
+s
+b
+−
+−
+=
+−
+−
++
+−
++
+−
++
+−
+ 
+
+2(
+)(
+)
+(
+)[
+2
+2
+2
+2 ]
+s
+b s
+c
+s
+a s
+a
+s
+c
+s
+a
+s
+b
+−
+−
+=
+−
+−
++
+−
++ −
++
+−
+ 
+
+2(
+)(
+)
+(
+)[6
+2
+2
+2 ]
+s
+b s
+c
+s
+a
+s
+a
+b
+c
+−
+−
+=
+−
+−
+−
+−
+ 
+
+2(
+)(
+)
+(
+)[6
+4 ]
+s
+b s
+c
+s
+a
+s
+s
+−
+−
+=
+−
+−
+ 
+
+2(
+)(
+)
+(
+)2
+s
+b s
+c
+s
+a
+s
+−
+−
+=
+−
+ 
+(
+)
+1
+(
+)(
+)
+s
+a
+s
+b s
+c
+s
+−
+=
+−
+−
+bulunur. Bu değer yerine yazılırsa, 
+
+AG
+a s
+a
+a
+a
+G D
+s
+b s
+c
+s
+s
+−
+=
+=
+⋅
+=
+−
+−
+elde edilir. 
+
+e
+
+(
+)
+1
+(
+)(
+)
+
+e
+
+AG
+a
+G D
+s
+=
+
+e
+
+ii. 
+
+e
+
+ eşitliğinin her iki yanına 1 eklenirse, 
+
+AG
+a
+G D
+s
++ =
++
+
+1
+1
+e
+
+AG
+G D
+a
+s
+G D
+s
+
+e
+
++
++
+=
+
+e
+e
+
+AD
+a
+s
+G D
+s
++
+=
+
+e
+
+   (13) 
+elde edilir. 
+
+e
+
+Teorem 3.6. Teorem 3.7. ve Teorem 3.8. de dik üçgende Gergonne Noktası ile ilgili çeşitli bağıntılar verilmiştir. 
+
+58
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+Teorem 3.6. ABC bir dik üçgen ve 
+(
+)
+90
+m BAC =
+dir.
+e
+G , ABC üçgeninin Gergonne Noktası ve [BC] üzerindeki bir K 
+
+AB
+CK
+BC
+G K
+AB
++
+=
++
+
+2
+1
+
+noktası için 
+e
+G K
+AB
+
+ olmak üzere,
+
+e
+
+ dir. 
+
+Şekil 8. 
+
+İspat: ABC bir dik üçgen ve 
+(
+)
+90
+m BAC =
+ olsun 
+e
+G , ABC üçgeninin Gergonne Noktası olmak üzere, 
+2
+1
+
+AB
+CK
+BC
+G K
+AB
++
+=
++
+
+e
+
+ dir. 
+
+Şekil 9. 
+
+G K
+G D
+=
+
+AB
+AD
+
+1. adım:
+e
+DG K
+DAB
+
+ olup
+e
+e
+
+ olur. 13 eşitliği yardımıyla 
+
+AB
+a
+s
+G K
+s
++
+=
+
+ (14) 
+bulunur. 
+
+e
+
+G K
+FB
+=
+
+CK
+CB
+
+2. adım:
+e
+CG K
+CFB
+
+ olup
+e
+
+ olur. Yani 
+
+CK
+a
+G K
+s
+b
+=
+−
+  (15) 
+bulunur. 
+
+e
+
+59
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+3. adım: (14) ve (15) kullanılarak
+
+(
+)
+1
+(
+)
+a s
+s
+b
+s s
+b
++ −
+=
++
+−
+(2
+)
+1
+(
+)
+a
+s
+b
+s s
+b
+−
+=
++
+−
+olup 
+
+AB
+CK
+a
+a
+s
+G K
+G K
+s
+b
+s
++
++
+=
++
+−
+1
+a
+a
+s
+b
+s
+=
++
++
+−
+
+1
+(
+)
+as
+as
+ab
+s s
+b
++
+−
+=
++
+−
+
+e
+e
+
+AB
+CK
+a a
+c
+G K
+G K
+s s
+b
++
++
+=
++
+−
+
+(
+)
+1
+(
+)
+e
+e
+
+     (16) 
+bulunur. 
+
+Şimdi (
+)
+s s
+b
+−
+ ifadesine odaklanalım.
+
+(
+)
+(
+)(
+)
+2
+2
+a
+b
+c
+a
+b
+c
+s s
+b
+b
++
++
++
++
+−
+=
+−
+1 (
+)(
+)
+4 a
+b
+c a
+b
+c
+=
++
++
+−
++
+2
+2
+1[(
+)
+]
+4
+a
+c
+b
+=
++
+−
+
+2
+2
+2
+1 (
+2
+)
+4 a
+ac
+c
+b
+=
++
++
+−
+2
+2
+2
+2
+1 (
+2
+)
+4 b
+c
+ac
+c
+b
+=
++
++
++
+−
+2
+1 (2
+2
+)
+4
+c
+ac
+=
++
+
+1 (2 )(
+)
+4
+c c
+a
+=
++
+
+olup 
+
+1
+(
+)
+(
+)
+2
+s s
+b
+c c
+a
+−
+=
++
+
+ (17) 
+olur. 17’de elde edilen ifadeyi 16’da yerine yazalım. 
+
+AB
+CK
+a a
+c
+G K
+G K
+c c
+a
+
++
++
+=
++
++
+
+(
+)
+1
+1 (
+)
+2
+
+e
+e
+
+2
+1
+a
+c
+=
++
+
+2
+1
+a
+c
+=
++
+
+olur. Böylece 
+
+AB
+CK
+BC
+G K
+AB
++
+=
++
+
+2
+1
+
+e
+
+eşitliği ispatlanmış olur. 
+
+2
+BC
+AB =
+
+AB
+CK
+G K
++
+=
+⋅
++ =
+
+2 2
+1
+5
+
+Özel olarak, 
+(
+)
+30
+m ACB =
+
+
+ alınırsa,
+
+ olup, 
+
+e
+
+olup, 
+5
+e
+AB
+CK
+G K
++
+=
+
+bağıntısı elde edilir. 
+
+BC
+AB =
+
+2
+3
+
+AB
+CK
+G K
++
++
+=
+⋅
++ =
+
+2
+4
+3
+2
+1
+3
+3
+e
+
+Özel 
+olarak, 
+(
+)
+60
+m ACB =
+
+
+olup, 
+3(
+)
+(4
+3)
+e
+AB
+CK
+G K
++
+=
++
+ bağıntısı elde edilir. 
+
+ 
+alınırsa,
+
+olup, 
+
+60
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+BC
+AB =
+
+2
+2
+
+AB
+CK
+G K
++
++
+=
+⋅
++ =
+
+2
+4
+2
+2
+1
+2
+2
+e
+
+Özel 
+olarak, 
+(
+)
+45
+m ACB =
+
+
+olup, 
+2(
+)
+(4
+2)
+e
+AB
+CK
+G K
++
+=
++
+ bağıntısı elde edilir. 
+
+ 
+alınırsa,
+
+olup, 
+
+Teorem 3.7. ABC bir dik üçgen ve 
+(
+)
+90
+m BAC =
+
+
+dir. 
+e
+G , ABC üçgeninin Gergonne noktası ve [BC] üzerindeki bir 
+
+D noktası için [AD], Ge den geçen bir doğru parçası olmak üzere 
+(
+)
+A ABC
+BD
+DC
+=
+⋅
+ dir. 
+
+Şekil 10. 
+
+İspat: ABC üçgeninde 
+e
+G  noktasından geçen BE ve CF doğrularını çizelim. ABC üçgeninin iç teğet çember yarıçapının 
+
+uzunluğu r ile gösterilirse AE
+AF
+r
+=
+=
+ olur. Böylece, BE
+BD
+c
+r
+=
+=
+−
+ ve CD
+CF
+b
+r
+=
+=
+−
+ olacaktır.
+
+Şekil 11. 
+
+c
+r
+b
+r
+a
+−+
+−
+=
+
+2
+c
+b
+a
+r
++
+−
+=
+
+olur. Buradan 
+
+2
+a
+b
+c
+BD
+−+
+=
+
+2
+a
+b
+c
+DC
++
+−
+=
+
+olur. Ayrıca ABC üçgeninde Pisagor teoremi kullanılırsa 
+
+2
+2
+2
+a
+b
+c
+=
++
+ olup 
+
+61
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+2
+2
+2
+0
+a
+b
+c
+−
+−
+=
+ 
+elde edilir. 
+
+(
+)
+2
+bc
+A ABC =
+
+2
+(
+)
+4
+bc
+A ABC =
+
+ (pay ve payda 2 ile çarpıp bölündü) 
+
+2
+2
+2
+2
+(
+)
+4
+a
+b
+c
+bc
+A ABC
+−
+−
++
+=
+
+(
+
+2
+2
+2
+a
+b
+c
+−
+−
+ eklendi.)
+
+2
+2
+2
+(
+2
+)
+(
+)
+4
+a
+b
+bc
+c
+A ABC
+−
+−
++
+=
+
+2
+2
+(
+)
+(
+)
+4
+a
+b
+c
+A ABC
+−
+−
+=
+
+(
+)(
+)
+(
+)
+4
+a
+b
+c a
+b
+c
+A ABC
+−
++
++
+−
+=
+
+(
+) (
+)
+(
+)
+2
+2
+a
+b
+c
+a
+b
+c
+A ABC
+−
++
++
+−
+=
+⋅
+
+(
+)
+A ABC
+BD
+DC
+=
+⋅
+olduğu gösterilmiş olur. 
+
+Teorem 3.8. ABC bir dik üçgen, 
+(
+)
+90
+m BAC =
+
+
+ dir. 
+e
+G , ABC üçgeninin Gergonne noktası olsun. K, M, L noktaları 
+
+sırasıyla [AB], [BC], [CA] kenarları üzerinde olup 
+e
+G K
+AB
+⊥
+,
+e
+G M
+BC
+⊥
+,
+e
+G L
+AC
+⊥
+ olmak üzere 
+1
+1
+1
+
+e
+G M
+BK
+CL
+=
++
+
+ dir. 
+
+İspat: ABC üçgeninde D, E, F noktaları, iç teğet çemberin kenarlara değme noktaları olsun. 
+e
+G K
+z
+=
+,
+e
+G M
+x
+=
+ ve 
+
+1
+1
+1
+x
+b
+z
+c
+y
+=
++
+−
+−
+ olduğu gösterilmelidir. 
+
+e
+G L
+y
+=
+ olmak üzere
+
+Şekil 12. 
+
+e
+BKG  ile BAE  üçgenleri benzer olup   
+
+z
+s
+a
+c
+y
+c
+−
+=
+−
+          
+   (18) 
+
+62
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+dir. 
+e
+CLG  ile CAF üçgenleri benzer olup
+
+y
+s
+a
+b
+z
+b
+−
+=
+−
+                                                                                                                                                    (19) 
+
+dir. 
+Ayrıca
+(
+)
+(
+)
+(
+)
+(
+)
+e
+e
+e
+A ABC
+A BG C
+A AG C
+A AG B
+=
++
++
+ 
+olup 
+ax
+by
+cz
+bc
++
++
+=
+ 
+dir. 
+Buradan 
+
+ax
+bc
+by
+cz
+=
+−
+−
+ elde edilir. Eşitliğin her iki yanı b
+z
+−
+ ve c
+y
+−
+ ile bölünüp elde edilenler taraf tarafa toplanırsa
+ax
+ax
+bc
+by
+cz
+bc
+by
+cz
+b
+z
+c
+y
+b
+z
+c
+y
+−
+−
+−
+−
++
+=
++
+−
+−
+−
+−
+(
+)
+(
+)
+ax
+ax
+c b
+z
+by
+b c
+y
+cz
+b
+z
+c
+y
+b
+z
+c
+y
+−
+−
+−
+−
++
+=
++
+−
+−
+−
+−
+
+(
+)
+(
+)
+ax
+ax
+y
+z
+c
+b
+b
+c
+b
+z
+c
+y
+b
+z
+c
+y
++
+=
+−
++
+−
+−
+−
+−
+−
+olur. 17 ve 18 de elde edilen eşitlikler kullanılırsa 
+
+(
+)
+(
+)
+ax
+ax
+b s
+a
+c s
+a
+c
+b
+b
+z
+c
+y
+b
+c
+−
+−
++
+=
+−
++
+−
+−
+−
+
+(
+)
+(
+)
+ax
+ax
+c
+s
+a
+b
+s
+a
+b
+z
+c
+y
++
+=
+−
+−
++
+−
+−
+−
+−
+ax
+ax
+c
+s
+a
+b
+s
+a
+b
+z
+c
+y
++
+=
+−+
++
+−+
+−
+−
+ax
+ax
+a
+b
+z
+c
+y
++
+=
+−
+−
+
+1
+x
+x
+b
+z
+c
+y
++
+=
+−
+−
+1
+1
+1
+x
+b
+z
+c
+y
+=
++
+−
+−
+
+e
+G M
+BK
+CL
+=
++
+
+1
+1
+1
+
+olup, 
+
+ olduğu ispatlanmış olur. 
+
+4. Tartışma ve Sonuç
+Bu çalışmada bir üçgende Gergonne noktası metrik özellikleri bakımından incelenmiş ve bu özel noktanın üçgenin kenar 
+uzunlukları, köşeler arası uzaklıklar ve belirli doğru parçaları ile olan ilişkileri sistematik biçimde ortaya konulmuştur. 
+Elde edilen bulgular, Gergonne noktasının üçgenin metrik yapısıyla doğrudan bağlantılı olduğunu göstermektedir.
+
+Literatürde Gergonne noktası çoğunlukla tanımsal özellikleri, tarihsel gelişimi ve dinamik geometri bağlamındaki 
+geometrik yer problemleri çerçevesinde ele alınmıştır. Özellikle son yıllarda yapılan çalışmalarda, farklı üçgen grupları 
+altında Gergonne noktasının özellikleri incelenmiş ve bu noktaların oluşturduğu eğrilerin cebirsel özellikleri 
+araştırılmıştır. Bu çalışmada ise odak noktası doğrudan üçgenin iç yapısındaki uzunluk ilişkileri olmuş ve Gergonne 
+noktasının köşelere olan uzaklıkları ile kenar uzunlukları arasında yeni bağıntılar elde edilmiştir. 
+
+Sastry (2000) tarafından yapılan çalışmada üçgen iç noktaları ile sayı teorisi arasında ilişkiler kurulmuşken, bu çalışmada 
+tamamen geometrik bir çerçevede kalınarak uzunluk ve mesafe bağıntıları incelenmiştir. Bu yönüyle çalışma, aritmetik
+bağlantılardan ziyade metrik geometriye odaklanarak literatürde farklı bir yaklaşım ortaya koymaktadır. Queiroz Filho 
+(2021) tarafından Gergonne noktasının düzlemdeki herhangi bir noktaya olan uzaklığına ilişkin verilen metrik bağıntı, bu 
+çalışmanın ele aldığı problemlerle doğrudan ilişkilidir. Ancak mevcut çalışmada söz konusu ilişki farklı bir yöntemle ele 
+alınmış, elde edilen sonuçlar üçgen köşelerine olan uzaklıklara ve özel olarak dik üçgen durumuna uygulanarak kapsamı 
+genişletilmiştir. 
+
+Çalışmanın özgün katkılarından biri, Gergonne noktasının köşelere olan uzaklıkları ile üçgen kenar uzunlukları arasında 
+açık ve sistematik bağıntılar kurulmuş olmasıdır. Ayrıca Gergonne noktasının düzlem üzerindeki herhangi bir noktaya 
+
+63
+
+İpek vd.  
+Denizli İl Millî Eğitim Müdürlüğü Bilim ve Eğitim Dergisi 2(1), 2026 
+*Ferhat İPEK 
+
+olan uzaklığına ilişkin elde edilen sonucun, üçgenin özel noktalarına uygulanarak yeni bağıntılar türetilmesi literatürdeki
+bilgiyi genişletmektedir. Özellikle dik üçgenler için elde edilen sonuçlar, Gergonne noktasının bu özel üçgen türündeki 
+rolünü metrik açıdan ortaya koymakta ve literatürde doğrudan ele alınmamış ilişkileri göstermektedir. Bunun yanında 
+Gergonne noktası kullanılarak dik üçgenin alanını veren bir bağıntının elde edilmesi, bu noktanın ölçüsel büyüklüklerin 
+hesaplanmasında da kullanılabileceğini ortaya koymaktadır. 
+
+Sonuç olarak bu çalışma, Gergonne noktasının hem genel üçgenler hem de dik üçgenler için özelliklerini inceleyerek
+literatüre katkı sunmaktadır. Elde edilen sonuçların, geometri temelli problemlerde ve özellikle özel noktalara dayalı 
+çözüm yaklaşımlarında yeni uygulamalara imkân sağlayabileceği değerlendirilmektedir. Ayrıca bu çalışmanın, üçgendeki 
+diğer özel noktalar için benzer metrik incelemelere yönelik araştırmalara zemin oluşturabileceği düşünülmektedir. 
+
+Teşekkür 
+
+Bu çalışmanın her aşamasında desteği, bilgisi ve değerli görüşleriyle yanımızda olan ve çalışmaya önemli katkılar 
+sağlayan Yusuf İpek Hocamıza teşekkürlerimizi sunarız. 
+
+Etik Beyanı 
+
+Bu çalışmada “Yükseköğretim Kurumları Bilimsel Araştırma ve Yayın Etiği Yönergesi” kapsamında uyulması gerekli 
+tüm kurallara uyulduğunu, bahsi geçen yönergenin “Bilimsel Araştırma ve Yayın Etiğine Aykırı Eylemler” başlığı altında 
+belirtilen eylemlerden hiçbirinin gerçekleştirilmediğini taahhüt ederiz. 
+
+Kaynakça 
+
+Akyar, H., ve Akyar, E. (2016). Üçgenin Gergonne Noktası Yardımıyla Üçgensel Fuzzy Sayıları Sıralama Yöntemi. 
+
+Hızarcı, S. (2004). Sunuş (Editör: S. Hızarcı, A. Kaplan, AS İpek ve C. Işık). Euclid Geometri ve Özel Öğretimi. 
+
+Jurkin, E., ve Simic Horvath, M. (2023). Curves Related to the Gergonne Point in an Isotropic Plane. Mathematics, 
+11(7), 1562. 
+
+Katić Žlepalo, M., ve Jurkin, E. (2018). Curves of centroids, Gergonne points and symmedian centers in triangle 
+pencils in isotropic plane. Rad Hrvatske akademije znanosti i umjetnosti. Matematičke znanosti, (534= 22), 119-127. 
+
+Küpeli, S. (2013). 100 Yılın Olimpiyat Sorularıyla Geometri. İzmir. Altın Nokta Yayınevi. 
+
+Queiroz Filho, J. F. (2021). Gergonne Point of a Triangle and It’s Distance Any Point in the Plane. 
+
+Sastry, K. R. S. (2000). Heron triangles: an incenter perspective, Math. Mag. 73, 388 - 392. 
+
+Şahin, M. (2013). Matematik Olimpiyatlarına Hazırlık Geometri-1. Ankara. Palme Yayıncılık. 
+
+Venema, G. A. (2006). Exploring Advanced Euclidean Geometry with Geometer's Sketchpad, Department of 
+Mathematics and Statistics Calvin College, Grand Rapids, Michigan 49546 USA.
+
+64
+

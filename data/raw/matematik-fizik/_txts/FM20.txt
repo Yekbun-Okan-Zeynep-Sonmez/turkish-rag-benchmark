@@ -1,0 +1,648 @@
+ 
+ 
+ 
+ 
+
+GÜFBED/GUSTIJ (2019) 9 (4): 628-632 
+DOI: 10.17714/gumusfenbil.548506                                                                                             Araştırma Makalesi / Research Article 
+
+ 
+I-Dizisel Hausdorff Uzaylar 
+
+I-Sequentially Hausdorff Spaces 
+
+ 
+ 
+Hürmet Fulya AKIZ* 
+Bozok Üniversitesi, Fen Edebiyat Fakültesi, Matematik Bölümü, 66900, Yozgat 
+
+ 
+
+• Geliş tarihi / Received: 03.04.2019 
+• Düzeltilerek geliş tarihi / Received in revised form: 22.05.2019 
+• Kabul tarihi / Accepted: 03.06.2019 
+ 
+ 
+Öz 
+Bu çalışmada öncelikle I-dizisel sürekli, I-dizisel açık ve I-dizisel kapalı fonksiyonlar tanıtılmıştır. Daha sonra, 
+Hausdorff uzaylardan daha geniş bir yapı olan I-dizisel Hausdorff uzayların tanımı ve bazı özellikleri verilmiştir. 
+ 
+Anahtar kelimeler: Hausdorff uzaylar, I-dizisel açık küme, I-dizisel kapalı küme 
+ 
+ 
+Abstract 
+In this study, we first introduce the notions of I-sequentially continuous, I-sequentially open  and I-sequentially closed 
+functions. We also give the definition and some properties of a I-sequentially Hausdorff space, which is a wider 
+structure than a Hausdorff space. 
+ 
+Keywords: Hausdorff spaces, I-sequentially open set, I-sequentially closed set 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+* Hürmet Fulya AKIZ; fulya.gencel@bozok.edu.tr; Tel:(0354) 242 10 21-2578; orcid.org/0000-0002-8547-2175 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ISSN: 2146-538X        http://dergipark.gov.tr/gumusfenbil 
+
+Akız / GUFBED 9(4) (2019) 628-632 
+
+1. Giriş 
+ 
+Reel sayılar kümesindeki yakınsaklık kavramı 
+istatistiksel yakınsaklık kavramına genişletilmiştir 
+(Fast, 1951; Schoenberg, 1959). ℕ, doğal sayılar 
+kümesinin bir alt kümesi K olmak üzere, |𝐾𝑛|, 
+𝐾𝑛= {𝑘∈𝐾: 𝑘≤𝑛} kümesinin eleman sayısını 
+göstersin. Bu durumda 
+ 
+
+kavramından daha geniş olan I-dizisel Hausdorff 
+uzayların tanımı ve bazı özellikleri verilmiştir. 
+ 
+2. Temel Tanım ve Teoremler 
+ 
+2.1. Tanım: 𝑋 boştan farklı bir küme 𝐼⊂2𝑋sınıfı 
+𝑋 in alt kümelerinin bir sınıfı olsun. Bu durumda 
+aşağıdaki şartlar sağlanıyor ise I ya X in bir ideali 
+denir. 
+ 
+
+𝑑(𝐾) = lim
+
+𝑛→∞
+
+|𝐾𝑛|
+
+𝑛 
+
+(i) 
+𝐴, 𝐵∈𝐼 ise 𝐴∪𝐵∈𝐼, 
+(ii) 
+𝐴∈𝐼, 𝐵⊂𝐴 ise 𝐵∈𝐼  dır. 
+ 
+Eğer 𝐼≠{∅} ve 𝑋∉𝐼 ise I ya aşikar olmayan 
+ideal denir. Eğer I her tek nokta kümesini içeriyor 
+ise I ya uygun ideal denir (Kostyrko vd., 2001). 
+ 
+Bundan sonra 𝑋 bir topolojik uzay ve I da ℕ doğal 
+sayılar kümesinin bir aşikar olmayan ideali olarak 
+kabul edilecektir. 
+ 
+2.2. Tanım: (𝑥𝑛),  𝑋 de bir dizi, 𝑥∈𝑋 ve 𝐼⊂2ℕ 
+aşikar olmayan bir ideal olsun. Eğer 𝑥 in her 𝑈 
+açık komşuluğu için {𝑛∈ℕ: 𝑥𝑛∉𝑈} ∈𝐼 ise (𝑥𝑛) 
+dizisi x elemanına I-yakınsaktır denir (Lahiri ve 
+Das, 2005). 
+ 
+Bu durumda 𝑥 noktasına (𝑥𝑛) dizisinin I-limiti 
+denir ve 𝐼−lim 𝑥𝑛= 𝑥 olarak gösterilir. 
+ 
+2.3.Not: Eğer I bir uygun ideal ise bu durumda 
+yakınsaklık kavramı I-yakınsaklığı gerektirir. 
+Eğer I ideali yalnızca sonlu küme içeriyor ise bu 
+ifadenin tersi de doğrudur. 
+ 
+2.4. Tanım: 𝑂⊆𝑋  ve 𝐼⊂2ℕ aşikar olmayan bir 
+ideal olsun. Eğer I-limiti 𝑂 da iken kendisi  𝑂𝑐 de 
+olan bir dizi yoksa  𝑂 kümesine I-dizisel açık 
+küme denir (Pal, 2014). 
+ 
+2.5. Tanım: 𝑂⊆𝑋 ve 𝐼⊂2ℕ aşikar olmayan bir 
+ideal olsun. (𝑥𝑛), K da bir dizi ve 𝐼−lim 𝑥𝑛= 𝑥 
+iken 𝑥∈𝐾 ise 𝐾 ya I-dizisel kapalı küme denir 
+(Pal, 2014). 
+ 
+2.6. Önerme: Her açık küme I-dizisel açıktır. 
+ 
+İspat: 𝐴⊆𝑋 açık bir küme, (𝑥𝑛) dizisi 𝐴𝑐 da bir 
+dizi ve 𝑦∈𝐴 olsun. Bu durumda 𝑦∈𝑈⊆𝐴 
+olacak şekilde bir 𝑈 açık komşuluğu vardır. 𝑈 
+kümesi (𝑥𝑛) dizisinin hiçbir terimini içermez. 
+Dolayısıyla (𝑥𝑛) dizisi y noktasına I- yakınsak 
+değildir. O halde A kümesi I-dizisel açıktır. 
+ 
+Bu önermenin tersinin doğru olmadığı aşağıdaki 
+örnekte görülür. 
+
+ 
+limiti mevcut ise bu limit değeri K kümesinin 
+yoğunluğu olarak tanımlanır (Niven, 1980; 
+Halberstem ve Roth, 1993). 
+ 
+(𝑥𝑛) reel terimli bir dizi olmak üzere her ℰ> 0 
+için 
+ 
+𝐾(ℰ) = {𝑘∈𝐾:|𝑥𝑘−𝑙| ≥ℰ} 
+ 
+kümesinin doğal yoğunluğu sıfıra eşit ise (𝑥𝑛) 
+dizisi l değerine istatistiksel yakınsaktır denir 
+(Fast, 1951; Schoenberg, 1959). 
+ 
+Daha önce bir topolojik uzayda dizisel açık ve 
+dizisel kapalı kümeler yardımıyla birçok özellik 
+yeniden 
+ele 
+alınmıştır. 
+Bu 
+tanımlar 
+genelleştirilerek 
+G-yakınsaklık 
+kavramı 
+ile 
+topolojik uzaylarda G-dizisel açık küme, G-dizisel 
+kapalı küme, G-dizisel süreklilik, G-dizisel 
+irtibatlılık gibi konular incelenmiştir (Çakallı, 
+2011, 2012; Çakallı ve Mucuk, 2013; Mucuk ve 
+Şahan, 2014). Bu çalışmalarda elde edilen 
+sonuçlar, 
+birinci 
+sayılabilirlik 
+aksiyomunu 
+sağlayan Hausdorff topolojik gruplar içindir. 
+ 
+Reel sayılardaki istatistiksel yakınsaklık kavramı 
+bir I ideali yardımıyla I-yakınsaklık kavramına 
+genişletilebilir. Bu alanda istatistiksel yakınsaklık 
+ve I-yakınsaklık kavramları ile ilgili tanım ve 
+teoremler verilmiştir (Kostyrko vd., 2001, 2005). 
+ 
+Pal (2014) ise bir I ideali yardımıyla I-dizisel açık 
+ve I-dizisel kapalı kümeleri tanımlamıştır. Ayrıca 
+topolojik uzaylarda I-dizisel kompaktlık kavramı 
+ve bazı özellikleri verilmiştir (Banerjee ve 
+Banerjee, 2015). 
+ 
+Dizisel açık kümeler yardımıyla yapılan dizisel 
+Hausdorff uzay tanımı, bu uzayların Hausdorff 
+uzaylarla ilişkisi ve bazı özellikleri Akız ve Koçak 
+(2019) da verilmiştir. 
+ 
+Bu çalışmada, ilk olarak I-dizisel açık ve I-dizisel 
+kapalı fonksiyonlar tanıtılmıştır. Daha sonra I-
+dizisel açık kümeler yardımıyla, Hausdorff uzay 
+
+629 
+
+Akız / GUFBED 9(4) (2019) 628-632 
+
+2.7. Örnek: ℝ, reel sayılar kümesi üzerinde  
+𝜏= {𝐺⊆ℝ: 𝐺𝒄 𝑠𝑎𝑦𝚤𝑙𝑎𝑏𝑖𝑙𝑖𝑟} ∪{∅} 
+tümleyeni 
+sayılabilir topolojisini göz önüne alalım. Bu 
+topolojiye göre bir 𝐴⊆ℝ kapalıdır ancak ve 
+ancak ya  𝐴= ℝ ya da 𝐴 sayılabilirdir. (𝑥𝑛), I-
+limiti 𝑦 olan bir dizi olsun.  Bu durumda (ℝ\
+{𝑥𝑛: 𝑛∈ℕ}) ∪{𝑦} kümesi 𝑦 nin bir açık 
+komşuluğu 
+olup 
+dizinin 
+sonsuz 
+terimini 
+içermelidir. Bu topolojiye göre bir dizinin 
+yakınsak olması için belli bir indisten sonra 
+terimlerinin sabit olması yani 𝑥𝑛= 𝑦 olması 
+gerekir. Dolayısıyla 𝐴  daki bir dizi ancak 𝐴 nın 
+bir elemanına yakınsayabilir ve 𝐴 kümesi I- 
+dizisel açıktır. Yani bu topolojiye göre her küme 
+I-dizisel açıktır. Fakat her alt küme açık değildir. 
+ 
+3. I-Dizisel Hausdorff Uzaylar ve Özellikleri 
+ 
+Bu bölümde, ilk olarak I-dizisel açık komşuluk, I-
+dizisel sürekli fonksiyon, I-dizisel açık ve I-dizisel 
+kapalı fonksiyon kavramları tanıtılacaktır. Daha 
+sonra Hausdorff uzay kavramından daha geniş 
+olan I-dizisel Hausdorff uzay tanımı ve onun bazı 
+özellikleri verilecektir. 
+ 
+3.1. Tanım: 𝑋 bir topolojik uzay ve 𝐼⊂2ℕ aşikar 
+olmayan bir ideal olsun. Eğer bir 𝑎∈𝑋 için 
+𝑎∈𝑂⊆𝐴 olacak şekilde I-dizisel açık olan bir 𝑂 
+kümesi varsa 𝐴 ya 𝑎 elemanının bir I-dizisel açık 
+komşuluğu denir. 
+ 
+3.2. Teorem: 𝑋 bir topolojik uzay ve 𝐼⊂2ℕ 
+aşikar olmayan bir ideal olsun. 𝑋 de I-dizisel 
+kapalı olan bir kümenin tümleyeni I-dizisel 
+açıktır. 
+ 
+İspat: 𝐹⊆𝑋 kümesi I-dizisel kapalı olsun. 𝐹𝑐 nin 
+I-dizisel açık olduğunu göstermek gerekir. 𝑥∈𝐹𝑐 
+ve (𝑥𝑛), 𝐹 de bir dizi ve  𝐼−lim 𝑥𝑛= 𝑥 olsun.  
+𝐹, I-dizisel kapalı olduğundan 𝑥∈𝐹 olmalıdır. 
+Bu ise çelişkidir. O halde 𝐹𝑐 deki bir elemana I-
+yakınsak olan ve F de bulunan bir dizi yoktur. 𝐹𝑐, 
+I-dizisel açıktır. 
+ 
+3.3. Tanım: 𝑋 ve Y topolojik uzaylar, 𝑓: 𝑋→𝑌 
+bir fonksiyon ve 𝑥∈𝑋 olsun. Eğer 𝐼−lim 𝑥𝑛=
+𝑥 olacak şekildeki her (𝑥𝑛) dizisi için 𝐼−
+lim 𝑓(𝑥𝑛) = 𝑓(𝑥) ise 𝑓 fonksiyonuna 𝐼-dizisel 
+süreklidir denir. 
+ 
+3.4. Önerme: Sürekli bir fonksiyon I-dizisel 
+süreklidir. 
+ 
+İspat: 𝑓:𝑋→𝑌 fonksiyonu sürekli olsun. (𝑥𝑛), 𝑋 
+de bir dizi ve  𝐼−lim(𝑥𝑛) = 𝑥 olsun. Bu 
+durumda 
+𝐼−lim 𝑓(𝑥𝑛) = 𝑓(𝑥) 
+olduğunu 
+
+göstermek gerekir. 𝑓 sürekli olduğundan, 𝑓(𝑥) in 
+her 𝑉 açık komşuluğu için 𝑥 elemanının 𝑓(𝑈) ⊆
+𝑉 olacak şekilde bir 𝑈 açık komşuluğu vardır. 
+𝐼−lim(𝑥𝑛) = 𝑥 olduğundan {𝑛∈ℕ:𝑥𝑛∉𝑈} ∈𝐼 
+dır.  Buradan  𝑓(𝑥) in  𝑉 açık komşuluğu için 
+{𝑛∈ℕ: 𝑓(𝑥𝑛) ∉𝑓(𝑈) ⊆𝑉} ∈𝐼 
+olup 
+𝐼−
+lim 𝑓(𝑥𝑛) = 𝑓(𝑥) dır. 
+ 
+Bu önermenin tersinin doğru olmadığına dair 
+aşağıdaki örnek verilebilir. 
+ 
+3.5. Örnek: ℝ, reel sayılar kümesi üzerinde 𝑈 
+alışılmış topolojisi ve 
+ 
+𝜏= {𝐺⊆ℝ: 𝐺𝒄 𝑠𝑎𝑦𝚤𝑙𝑎𝑏𝑖𝑙𝑖𝑟} ∪{∅} 
+tümleyeni sayılabilir topolojisini göz önüne 
+alınsın. 
+ 
+𝑓:(ℝ, 𝝉) →(ℝ, 𝑈),𝑥↦𝑥 
+fonksiyonu I-dizisel sürekli olmasına rağmen 
+sürekli değildir. 
+ 
+3.6. Tanım: 𝑋 ve 𝑌 topolojik uzaylar, 𝑓: 𝑋→𝑌 
+bir fonksiyon olsun. Eğer 𝑋 deki her I-dizisel açık 
+kümenin görüntüsü 𝑌 de I-dizisel açık ise 
+𝑓 fonksiyonuna I-dizisel açık fonksiyon denir. 
+ 
+3.7. Tanım: 𝑋 ve 𝑌 topolojik uzaylar, 𝑓:𝑋→𝑌 
+bir fonksiyon olsun. Eğer 𝑋 deki her I-dizisel 
+kapalı kümenin görüntüsü 𝑌 de I-dizisel kapalı ise 
+𝑓 fonksiyonuna I-dizisel kapalı fonksiyon denir. 
+ 
+3.8. Tanım: 𝑋 bir topolojik uzay olsun. Farklı her 
+nokta çifti 𝑥, 𝑦∈𝑋 için, 𝑥∈𝑂, 𝑦∈𝑃 ve 𝑂∩𝑃=
+∅ olacak şekilde I-dizisel açık olan 𝑂 ve 𝑃 
+kümeleri varsa 𝑋 uzayına I-dizisel Hausdorff uzay 
+denir. 
+ 
+3.9. Örnek: ℝ, reel sayılar kümesi üzerinde  
+𝜏= {𝐺⊆ℝ: 𝐺𝒄 𝑠𝑎𝑦𝚤𝑙𝑎𝑏𝑖𝑙𝑖𝑟} ∪{∅} 
+tümleyeni 
+sayılabilir topolojisine göre I-dizisel Hausdorff 
+uzaydır. Bu uzayda her küme I-dizisel açık 
+olduğundan 
+𝑂= {𝑥} 
+ve 
+𝑃= {𝑦} 
+kümeleri 
+sırasıyla 𝑥 ve 𝑦 yi içeren I-dizisel açık kümelerdir. 
+Aynı zamanda 𝑂∩𝑃= ∅  olduğundan bu uzay I-
+dizisel Hausdorfftur. 
+ 
+3.10. Örnek: En az iki elemanlı bir 𝑋 kümesi, 
+üzerinde tanımlanan diskre(ayrık) topolojiye göre 
+I-dizisel Hausdorfftur. 
+ 
+3.11. Örnek: 𝑋 boştan farklı bir küme olmak 
+üzere, 
+üzerindeki 
+indiskre(ayrık 
+olmayan) 
+topolojiye göre I-dizisel Hausdorff değildir. 
+Çünkü bu uzayda I-dizisel açık olan tek küme 𝑋 
+dir. 
+
+630 
+
+Akız / GUFBED 9(4) (2019) 628-632 
+
+3.12. Örnek: ℝ, reel sayılar kümesi, üzerindeki 
+alışılmış topolojiye göre I-dizisel Hausdorfftur. 
+ 
+3.13. Önerme: Bir 𝑋 topolojik uzayı Hausdorff ise 
+I-dizisel Hausdorfftur. 
+ 
+İspat: X topolojik uzayı Hausdorff olduğundan 
+farklı her nokta çifti 𝑥, 𝑦∈𝑋 için, 𝑥∈𝑂, 𝑦∈𝑃 
+ve 𝑂∩𝑃= ∅ olacak şekilde açık olan 𝑂 ve 𝑃 
+kümeleri vardır. Her açık küme aynı zamanda I-
+dizisel açık olduğundan 𝑂 ve 𝑃 kümeleri sırasıyla 
+𝑥 ve 𝑦 yi içeren I-dizisel açık kümelerdir. 
+ 
+Fakat bu ifadenin tersinin genelde doğru olmadığı 
+aşağıdaki örnekten anlaşılabilir. 
+ 
+3.14. Örnek: ℝ, reel sayılar kümesi, tümleyeni 
+sayılabilir topolojiye göre I-dizisel Hausdorfftur. 
+Fakat bu uzay Hausdorff değildir. 
+ 
+3.15. 
+Önerme: 
+Her 
+metrik 
+uzay 
+I-dizisel 
+Hausdorfftur. 
+ 
+İspat: Her metrik uzay Hausdorff olup Önerme 
+3.11 den I-dizisel Hausdorftur. 
+ 
+I-dizisel Hausdorff olan bir uzayın bir alt uzayıyla 
+ilgili olan teoremi vermeden önce aşağıdaki 
+önerme ispatlanacaktır. 
+ 
+3.16. Önerme: 𝑋 bir topolojik uzay ve 𝐴⊆𝑋 
+olsun. Bir 𝑂⊆𝑋 kümesi I-dizisel açık ise 𝐴∩𝑂 
+kümesi de 𝐴  üzerindeki alt topolojiye göre I-
+dizisel açıktır. 
+ 
+İspat: 𝐴 kümesi, üzerindeki alt topoloji ile göz 
+önüne alınsın. 𝑎∈𝐴∩𝑂 ve (𝑥𝑛)  dizisi  (𝐴∩
+𝑂)𝑐 de bir dizi olsun. Bu durumda (𝑥𝑛), 𝐴𝑐∩𝑂𝑐 
+de bir dizidir.  (𝑥𝑛) in 𝐴 da bir dizi olduğundan, 
+bu gösterir ki dizinin terimleri 𝑂𝑐 de bulunmaz. 𝑂, 
+I-dizisel açık olduğundan (𝑥𝑛)  dizisi a elemanına 
+I-yakınsak olamaz. O halde 𝐴∩𝑂 kümesi I-
+dizisel açıktır. 
+ 
+3.17. Önerme: 𝑋 uzayı I-dizisel Hausdorff uzay 
+ve 𝐴⊆𝑋 olsun. 𝐴 kümesi de üzerindeki alt 
+topoloji ile beraber I-dizisel Hausdorff uzaydır. 
+ 
+İspat: 𝑎, 𝑏∈𝐴⊆𝑋 olsun. 𝑋 uzayı I-dizisel 
+Hausdorff olduğundan 𝑎∈𝑂, 𝑏∈𝑃 ve 𝑂∩𝑃=
+∅ olacak şekilde I-dizisel açık olan 𝑂 ve 𝑃 
+kümeleri vardır. Önerme 3.14. den 𝐴∩𝑂 ve 
+𝐴∩𝑃 kümeleri sırasıyla 𝑎 ve 𝑏 yi kapsayan I-
+dizisel açık kümelerdir. (𝐴∩𝑂)∩(𝐴∩𝑃) = ∅ 
+olduğundan  𝐴 üzerindeki alt topoloji I-dizisel 
+Hausdorfftur. 
+ 
+
+Hausdorff uzaylarda iyi bilinen bir sonuç I-dizisel 
+Hausdorff 
+uzaylar 
+için 
+aşağıdaki 
+şekilde 
+gösterilebilir. 
+ 
+3.18. Teorem: I-dizisel Hausdorff bir uzayda I-
+yakınsak bir (𝑥𝑛) dizisinin I-limiti tektir. 
+ 
+İspat: (𝑥𝑛)  dizisi için 𝐼−lim 𝑥𝑛= 𝑥 ve 𝐼−
+lim 𝑥𝑛= 𝑦  olacak şekilde farklı 𝑥, 𝑦∈𝑋 
+elemanları olsun. 𝑋 uzayı I-dizisel Hausdorff 
+olduğundan x ve y yi içeren 𝑂 ve 𝑃 ayrık I-dizisel 
+açık kümeleri vardır. 𝐼−lim 𝑥𝑛= 𝑥 olduğundan 
+{𝑛∈ℕ: 𝑥𝑛∉𝑂} ∈𝐼 olup (𝑥𝑛)  dizisisinin ancak 
+sonlu terimi 𝑂 nun dışındadır. Benzer şekilde 
+𝐼−lim 𝑥𝑛= 𝑦 olduğundan {𝑛∈ℕ:𝑥𝑛∉𝑃} ∈𝐼 
+olup (𝑥𝑛)  dizisisinin ancak sonlu terimi P nun 
+dışındadır. Bu durumda 𝑂∩𝑃≠∅ olur. Bu ise 
+kabuldeki ifade ile çelişir.  O halde 𝑥= 𝑦 dir. 
+ 
+Hausdorff uzay olma kavramı bir topolojik 
+özelliktir (Mucuk, 2010). I-dizisel Hausdorff olma 
+kavramının da belli şartlar altında korunduğu 
+aşağıda teoremde görülebilir. 
+ 
+3.19. Teorem: 𝑋 ve 𝑌 topolojik uzaylar ve 
+𝑓:𝑋→𝑌 fonksiyonu sürekli, birebir, örten ve I-
+dizisel açık olsun. Bu durumda 𝑋 uzayı I-dizisel 
+Hausdorff ise 𝑌 uzayı da I-dizisel Hausdorfftur. 
+ 
+İspat: Farklı nokta çifti 𝑦1, 𝑦2 ∈𝑌 ele alınsın. 𝑓 
+fonksiyonu birebir ve örten olduğundan 𝑓(𝑥1) =
+𝑦1 ve 𝑓(𝑥2) = 𝑦2 olacak şekilde 𝑥1, 𝑥2 ∈𝑋 vardır 
+ve 𝑥1 ≠𝑥2 dir. 𝑋 uzayı I-dizisel Hausdorff 
+olduğundan, 𝑥1 ∈𝐺, 𝑥2 ∈𝐻 olacak şekilde ayrık 
+𝐺 ve 𝐻 I-dizisel açık komşuluklar vardır. 𝑓 
+fonksiyonu I-dizisel açık olduğundan 𝑓(𝐺) ve 
+𝑓(𝐻) sırasıyla 𝑦1 ve 𝑦2 nin I-dizisel açık 
+komşuluklarıdır. 
+Buradan 
+𝑓(𝐺) ∩𝑓(𝐻) =
+𝑓(𝐺∩𝐻) = ∅ 
+ 
+3.20. Teorem: Bir 𝑋 topolojik uzayında aşağıdaki 
+ifadeler denktir: 
+ 
+(i) 𝑋 uzayı I-dizisel Hausdorfftur. 
+(ii) ∆𝑋= {(𝑥, 𝑥): 𝑥∈𝑋} 
+diyagonal 
+kümesi  
+𝑋× 𝑋 in I-dizisel kapalı bir alt cümlesidir. 
+(iii)  ∆:𝑋→𝑋× 𝑋 , 𝑥→(𝑥, 𝑥) 
+diyagonal 
+fonksiyonu I-dizisel kapalıdır. 
+ 
+İspat: (i)⇒(ii) sağlandığı gösterilsin. 𝑋 uzayı I-
+dizisel Hausdorff uzay olsun. ∆𝑋 kümesinin I-
+dizisel kapalı olduğunu göstermek için (∆𝑋)𝑐 
+kümesinin I-dizisel açık olduğu gösterilmelidir. 
+(𝑥, 𝑦) ∈(∆𝑋)𝑐 olsun. 𝑥≠𝑦 ve 𝑋 uzayı I-dizisel 
+Hausdorff olduğundan sırasıyla 𝑥 ve 𝑦 yi içeren 𝑂 
+ve 𝑃 ayrık I-dizisel açık kümeleri vardır. 𝑂, I-
+
+631 
+
+Akız / GUFBED 9(4) (2019) 628-632 
+
+dizisel açık olduğundan 𝑂𝑐 da x e I-yakınsak olan 
+bir dizi yoktur. Benzer şekilde 𝑃, I-dizisel açık 
+olduğundan 𝑃𝑐 de y elemanına I-yakınsak olan bir 
+dizi yoktur. 𝑂× 𝑃⊆(∆𝑋)𝑐 kartezyen çarpım 
+kümesi de (𝑥, 𝑦) nin I-dizisel açık komşuluğudur. 
+O halde ∆𝑋 de (𝑥, 𝑦) ye yakınsayan bir dizi 
+yoktur. 
+ 
+(ii)⇒(iii) sağlandığı gösterilsin. ∆𝑋⊆𝑋× 𝑋  I-
+dizisel kapalı olsun. 
+ 
+∆: 𝑋→𝑋× 𝑋, 𝑥→(𝑥, 𝑥) 
+fonksiyonunun 
+I-dizisel 
+kapalı 
+olduğunu 
+göstermek için bir 𝐾⊆𝑋 I-dizisel kapalı 
+cümlesini göz önüne alınsın. ∆(𝐾) nın I-dizisel 
+kapalı olduğunu göstermek için  ∆(𝐾) 𝑐 nin I-
+dizisel açık olduğunu göstermek yeterli olacaktır. 
+ 
+Eğer 𝑥≠𝑦 ise (𝑥, 𝑦) ∈(∆𝑋)𝑐 olur. 𝑋 uzayı I-
+dizisel Hausdorff olduğundan x ve y yi içeren 𝑂 
+ve 𝑃 ayrık I-dizisel açık kümeleri vardır. 𝑂 
+kümesi I-dizisel açık olduğundan 𝑂𝑐 de 𝑥 e I-
+yakınsak olan bir dizi yoktur. Benzer şekilde. 𝑃 
+kümesi I-dizisel açık olduğundan 𝑃𝑐 de 𝑦 ye I-
+yakınsak olan bir dizi yoktur. 𝑂× 𝑃⊆(∆𝑋)𝑐⊆
+ ∆(𝐾) 𝑐 olduğundan ∆(𝐾) da (𝑥, 𝑦) ye I-yakınsak 
+olan bir dizi yoktur. O halde  ∆(𝐾) 𝑐 nin I-dizisel 
+açıktır. 
+ 
+Eğer 𝑥= 𝑦 ve 𝑥∉𝐾 olsun. 𝐾, I-dizisel kapalı ise 
+ 𝐾𝑐 nin I-dizisel açık olduğunu göstermek 
+yeterlidir. 𝑥∈ 𝐾𝑐 için 𝐾 da 𝑥 e I-yakınsak olan 
+bir dizi yoktur. O halde  ∆(𝐾) 𝑐 de (𝑥, 𝑥) e I-
+yakınsak olan bir dizi yoktur. Yani  ∆(𝐾) 𝑐 açıktır. 
+ 
+(iii) ⇒(i) sağlandığı gösterilsin. 
+∆: 𝑋→𝑋× 𝑋, 𝑥→(𝑥, 𝑥) 
+ 
+fonksiyonu I-dizisel kapalı olsun. Farklı nokta 
+çifti 𝑥, 𝑦∈𝑋 alalım. Bu durumda (𝑥, 𝑦) ∈(∆𝑋)𝑐 
+olur. (∆𝑋)𝑐, I-dizisel açık olduğundan (𝑥, 𝑦) ye I-
+yakınsak olan ve ∆𝑋 de bulunan bir dizi yoktur. 
+Bu durumda 𝑂× 𝑃⊆(∆𝑋)𝑐 olacak şekilde 
+sırasıyla 
+𝑥 ve 
+𝑦 yi 
+içeren 
+I-dizisel 
+açık 
+komşuluklar vardır. (∆𝑋)𝑐 de 𝑂 ve 𝑃 nin ortak 
+elemanı bulunmadığından 𝑂∩𝑃= ∅ dur. O halde 
+𝑋 uzayı I-dizisel Hausdorff olur. 
+ 
+İspat: 4. Sonuç ve Öneriler 
+ 
+Topolojik ve kalıtsal bir özellik olan Hausdorff 
+uzay kavramına benzer olarak, I-dizisel açık 
+kümeler yardımıyla daha geniş bir yapı olan I-
+dizisel Hausdorff uzaylar kavramı tanımlanmıştır. 
+Bu durumda Pal (2014) de tanımlanan I-dizisel 
+Topolojik uzaylar göz önüne alınırsa, bu iki 
+
+kavramın birbirine denk olduğu görülür. I-dizisel 
+Hausdorffluk da sürekli fonksiyonlar altında 
+korunan bir özelliktir. Ayrıca Hausdorff uzaylar 
+gibi kalıtsal özelliğe de sahiptir. Bu çalışmada 
+elde edilen sonuçlar, diğer ayırma aksiyomları 
+için de I-yakınsaklık kavramı yardımıyla yeniden 
+ele alınıp incelenebilir. 
+ 
+Kaynaklar 
+ 
+Akız, H. F. ve Koçak, L., 2019. Sequentially Hausdorff 
+
+and 
+Full 
+Sequentially 
+Hausdorff 
+Spaces, 
+Commun. Fac. Sci. Univ. Ank. Series A1, 68 
+(2), 1724-1732. 
+
+Banerjee, A. K. ve Banerjee, A., 2015. A Note On I-
+
+Convergence and I*-Convergence of Sequences 
+and Nets In Topological Spaces, Matematicki 
+Vesnik, 67(3), 212-221. 
+
+Çakallı, H. ve Mucuk, O., 2013. On connectedness via 
+
+a sequential method, Revista de la Union 
+Matematica Argentina,  54 (2), 101-109. 
+
+Çakallı, H., 2011. On G-continuity, Comput. Math. 
+
+Appl., 61, 313-318. 
+
+Çakallı, 
+H., 
+2012. 
+Sequential 
+definitions 
+of 
+connectedness, Appl. Math. Lett., 25, 461-465. 
+
+Fast, H., 1951. Sur la convegence statistique, Collog. 
+
+Math. 2, 241-244. 
+
+Halberstem, H. ve Roth, K. F., 1993. Sequences, 
+
+Springer, New York. 
+
+Kostyrko, P., Mačaj, M., Šalát, T. ve Sleziak, M., 2005. 
+
+I-convergence and a extermal I-limit points, 
+Math. Slovaca, 55 (4),443-464. 
+
+Kostyrko, P., Šalát, T. ve Wilczynski, W., 2001. I-
+
+convergence, Real Analysis Exch. 26 (2), 669–
+686. 
+
+Lahiri, B. K. ve Das, P., 2005. I and I*-convergence in 
+
+topological spaces, Math. Bohemica, 130 (2), 
+153–160.  
+
+Mucuk O. ve Şahan T., 2014. On G-Sequential 
+
+Continuity, Filomat, vol.28, 1181-1189. 
+
+Mucuk O., 2010. Topoloji ve Kategori, Nobel 
+
+Yayınları, Ankara. 
+
+Niven, I. ve Zuckerman, H. S., 1980. An introduction 
+
+to the theory of numbers. 4th Ed., John Wiley, 
+New York. 
+
+Pal, S. K., 2014. I-Sequential Topological Spaces, 
+
+Applied Mathematics E-notes, 14, 236-241. 
+
+Schoenberg, I. J., 1959. The integrability of certain 
+
+function and related summability methods. Am. 
+Math. Mon. 66, 361–375. 
+
+632 
+

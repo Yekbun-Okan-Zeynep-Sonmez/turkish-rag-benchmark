@@ -1,0 +1,963 @@
+BA YES AGLARDA BİRLEŞME AGAÇLARINI 
+KULLANARAK OLAYLARıN GENİşLEMESİ 
+
+Hülya OLMUŞ' 
+Semra ERBAŞ ' 
+
+ÖZET 
+
+Bir Bayes ağ, yöıı veriLmiş döl/gitse! olmayan bir grafiktj,.. Bu 
+grafikte, 
+düğüm/er rastgele 
+değişkenleri gösterir ve 
+kenarlar 
+
+değişkenLer arası doğrudan bağımlılık/arı tam ııı/ar. Kenar/ar (ırası 
+
+bağımlılıklarm gücii, 
+koşl/Ilu olasıLıklar iLe 
+tammlOlııııışfır. Bayes 
+
+ağ/arda, olay/arif! 
+genişlemesi, 
+birleşme 
+ağacı 
+algoritıııos/ ile 
+
+olasılıklar 
+hesaplaıııııış ve bu 
+olası/ıklar 
+incelenmiştir. Burada, 
+
+(a/llfılmıştır. 
+Uygıılama da yer 
+alaıı 
+verideı! hareketle, 
+kOŞllll1l 
+
+olıımsollık tablolarm oluş/urulması içiıı SPSS 8.0 paket programı ve 
+
+olasılık hesaplamalan içiıı de HUGIN paket programı kııllamimış!/r. 
+
+Aııaırtar Kelimeler: Bayes Ağlar, Birleşme Ağacı, KoŞltlllı Bağımsı zlık, 
+
+Koşullıı Olasılık. 
+
+ı. GİRİş 
+
+Bir grafik, hem yön veri l m i ş hem de döngüselolmama durumlanna sahip ise, 
+
+grafiğe yön veri l miş döngüselolmayan grafik denir. Bayes ağlar, ilgilenilen değişkenler 
+
+arası 
+olası lı k 
+ilişkil e rini gösteren grafik modelleridir. Bayes 
+ağ l ar, 
+değişkenler 
+
+arasındaki i l i ş k ileri grafik olarak göstermek ve uzman sistemlerde kesin olmay ı şl ık ile 
+ilgilenmek için güçlü bir yöntemdir. Yön veri lmi ş döngüselolmayan grafik modelleri 
+
+geniş uygulama alanlannda önemli bir yer alm ı ştır . Bayes ağlar ; özellikle, hastalık tanı 
+sistemleri, karar destek sistemleri, planlama ve kontrol, dinamik sistemler, zaman 
+serileri, genel veri analizi ve istatistikteki bilgi alanlannda 
+kullanı l maktadır. Bu 
+alanlarda kullanımlan, Lauritıen ve Spiegelhalter (1988), Pearl (1986), Spiegelhalter ve 
+
+Laurİlzen (1990) ve Spiegelhalter vd., (1993), Friedman ve Goldszmidt (1996) 
+
+tarafından d etay lı bir şekilde incelenmi ştir. 
+
+Bir Bayes 
+ağ, koşullu bağı m sız lı k özelliklerin ya pı s ını da 
+tanımlayan yön 
+
+verilmiş döngüselolmayan grafiktir. Bayes ağ, değişken l er ve değ i şken l er aras ı yön 
+
+verilmiş kenarlann kümesinden oluşur. Her bir değişken karşılıklı bağımsız durumların 
+sonlu bir kümesine sahiptir. Her düğüm rastgele değ i şkenle gösterilir. Kenarlar, 
+
+değişken l er arası olası lı k bağımlılıklannı gösteıi r . Bu bağı mlılık l ar koşullu o l asılıkların 
+kümesinden o lu şur. Her bir değişkeni n ebeveynleri verildi ğinde, değişkenin koşullu 
+
+olası lı ğı belirlenir. Bir düğümün ebeveynleri o l madığ ı zaman, bir değişken maıj inal bir 
+
+olası lı ğa sahiptir. Düğümün ebeveynleri üzerinde koşu ll anduma ya pıl arak, her düğüm 
+
+• Gazi Üniversitesi, Fen-Edebiyat Fakültesi, istatistik Bölümü, Beşevlcr, Ankara, TÜRK İYE 
+
+30 
+
+Hülya OLMUŞ - S.mr. ERBAŞ 
+
+için koşullu olas ı lıklar P(X\eb(X)) belirlenir. Burada, eb(X), X düğümünün ebeveynidir. 
+Tüm değişkenler kümesi üzerinde ortak o l as ı l ı k, 
+
+P(U) = I1P(Xleb(X)) 
+
+x 
+
+ifadelerin çarpımı yla veril ir (Jensen, 1996; Liarokapis, ı 999). 
+
+o lun duğ u d üşünül sü n . Zincir k u ral ı ile bu beş değiş kene i li şk i n oıtak o l ası lık d ağılım ı 
+P(A,B,C,D,E) hesaplanabi lir. Beş d üğüme i l i şki n o.t ak olas ı l ı k dağ ı l ı mı , 
+aşağıdaki 
+
+Örneği n , 
+beş tane 
+değiş kenden (düğüm) oluşan A,B,C,D,E bir ağa sahip 
+
+şeki ld e yazı lı r. 
+
+P(A,B,C,D,E)=P(AIB,C,D,E) P(l!IC,D,E) P(CI/J,E) P(DIE) P(E) 
+
+Ancak; bir Bayes ağda bağım lılı kJar açık bir şe ki lde mode llenmişt İ r. Bunun için 
+
+aşağıda bir ağ veri l miştir (Şekiıı). 
+
+c 
+E 
+
+Şekil 1. Beş D üğüme ilişkin Ağ Modeli 
+
+Şeki l 1 'den Bayes ağ modeli için ortak 
+olas ılı k dağıl ı m ı P(A,B,C,D,E)'yi 
+hesaplamak basittir. Bu hesaplama, 
+
+P(A,B,C,D,E)=P(AIB) P(l!IC,E) P(CI/J) P(D) P(E) 
+
+ile yapı lır. 
+
+Bayes ağ l ar; literatürde, fikir ağlar (belief networks), bayes fikir ağlar (bayesian 
+belief networks), nedensel olasılıklı ağl ar (causal probabilistic networks), o l asılık lı etki 
+diyagramlan (probabilistic influence diagrams) ve 
+o l asılık iı 
+n eden ~etki modelleri 
+(probabi listic cau se~e ffec t models), olarak da adlandırılır. Bu ça lışmada , Bayes ağ 
+terimi k u llanı l mış t ı r . 
+
+Bu 
+çalışmada, Bayes 
+ağlarda olasılık hesa plamalarının elde edilmesi için, 
+HUGIN'de 
+kullanı l an algeritma 
+tanıtılacak t ı r. AIgoritma, Bayes 
+ağlar üzerinde 
+
+doğrudan ku ll anı l mamaktad ı r. Değ i şkenler kümesinin 
+ağac ı , 
+bir l eşme ağac ı olarak 
+
+31 
+
+ad lan dırılır ve bunun üzerinde ça l ı ş ı labi l ir. Burada, kümeler takım l ardır . 
+Takım l ar, 
+
+üçge nleşıirilm iş grafikten elde edilebi lmektedir. 
+Üçgenl eşt i ri lm iş grafik, ağ üzerinde 
+kurulan özel bir grafiktir. Her takım, değ i ş kenlerin düzenleri ü zeıinde ol u şan bir tabloya 
+sahiptir. HUGIN p rogramı, bu tablolar üzerindeki 
+i ş l em lerin bir serisinden o lu şur 
+(HUG!N Systems, 1998). 
+
+2. BA YES AGLARDA ÇIKARSAMALAR 
+
+vardı r. Çıka rsa nı a, başka deği şkenle ri n değerleri b il i n diğinde, bi r değişken için ol ası lı k 
+
+Bayes ağlard a, bir değiş ken gözlenmi ş ise başka değ i şken l er için bi lgi lere ihtiyaç 
+
+dağı lı mı nın gün celleşt i ril mesi ile son dağılı mın elde edilmesidir (Stephenson, 2000). 
+Bayes 
+ağ l ard a, böyle 
+çıkarsanıa l ar yapmak 
+için 
+bi rleşme 
+ağac ı 
+al goritması 
+
+kullanılm ı ştı r. Bu a l gori tmayı tanıtmadan önce, değişik Bayes ağ modelleri ku lla nı larak 
+
+ç ı karsam ayı gösteren örnekler veri lecektir. Bu örneklere 
+olas ı lık hesaplamalan 
+uygulanacak ve yap ıl a n olası lı k hesaplamalan, nedenselliği kUlmak için ku llan ıl acaktı r. 
+Bu ömekler, bi rleş me ağacı a l goıi tmas ının temelini o lu şturur. 
+
+2.1. Fikir Takım larının Yapıl arı 
+
+Bu kesi mde bi lgi alanı ndaki model, çoklu bağ l an tı lı Bayes ağlan gerektirir. Yön 
+
+veri lmiş döngüselolmayan grafiklerde, b i rleşme ağaçlarının elde edilmesi için bir metot 
+ve bilgi alanını modellernek için yeni bir grafik yapıs ı verilecektir. Bu ya p ı, birleşme 
+
+ağacı olarak adlandırı lı r (Jensen, 1996; Cowell, 1999). 
+
+2.1.ı. Tekli Bağlantılı Yön Verilmiş DöngüselOlmayan Grafik 
+
+Bağlantı l an n yönlerini azaltarak aldığı mı z grafik ağaç ise, yön ve ıiimiş döngüsel 
+olmayan grafi k, tekli 
+bağlantı lı dı r denir (Jensen, 1996), 
+(Şekil 2a ve 2b). Yani, 
+
+düğümleri n her çifti aras ında tek bir yol vardı r . 
+
+Çoklu bağlant ı lı yön veril m iş döngüsel olmayan grafikte ise, düğüm leri n her 
+çifti arasında bir yoldan daha fazlası mümkündür. 
+
+A 
+c 
+
+A 
+
+D 
+E 
+o 
+
+Şekil2a. Tekli Bağlan tı lı Yön Veri l mi ş 
+
+DöngüseiOlmayan Grafik 
+
+Şekil2b. Çoklu Bağlant ı lı YÖn Veri l m i ş 
+
+DöngüselOlmayan Grafik 
+
+32 
+
+Hülya OLMUŞ - Semra ERBAŞ 
+
+Tekli 
+bağ l antı lı yön 
+veri lmi ş döngüsel
+olmayan grafikler için, 
+birleşme 
+
+ağaçlarını kunnak kolaydır. Her A deği şkeni, eb(A)tli! ile eb(A)U{AI .akımı kurulur. 
+Her iki taklm arasına, boş olmayan arakesit eklenir. Elde edilen grafi ğe, birleşme grafiği 
+denir (Jensen, 1996). 
+
+veri lmi şli r (Şeki l 3). 
+
+Tekli bağlant ılı yön veri lmiş döngüsel olmayan grafi k için ağ modeli aşağ ı da 
+
+G 
+
+Şekil 3. Tekli Bağ l a ntılı YÖn Veri l miş DöngüselOlmayan Grafik 
+
+Bi rl eşm e ağaç l arını kurabilmek için, ilk önce takımlar elde edilir. E düğümünün 
+ebeveynleri eb(E)={A,BI ile {A,B,EI .akımı ve F düğümünün ebeveynleri eb(F)={B,Cj 
+
+ile /B,C,F} takımlan ele a lın ır. Bu iki tak ı mın arakesiti B düğümü ilc bağ l a nır. Daha 
+sonra, G düğümü eb(G)={C,DI ile (C,D,G) 
+.akım ı 
+o l uş'urulur. (C,D,G) ve (B,C,F) 
+
+.akım l arı da C arakesi.i ile bağ l anır. eb(Ii)={EI ile (E,I1) .akı mı ve eb(I)={FI ile I/,Fl 
+
+.akımı, eb(J)={FI ile (J,F) .akımı ve eb(K)=IGI ile (G,K) ıakımları elde edilir. Ortak 
+
+düğüme sahip olan takımlar arakesitleri ile bağlanarak bir leşme grafi ği elde edilir (Şeki l 
+4). Arakesitler, kare kutular ile gösteril m i şt i r. 
+
+A,B,E 
+B 
+B,C,F 
+c 
+C,D,G 
+
+F.J 
+
+Şekil 4. Şek il 3 için Uygun Bir leşme G rafi ği 
+
+Elde edilen 
+bi rleşme ağacı, döngülere sahip ise, döngü üzerindeki tüm 
+arakesitler aynı değ i şkeni kapsar. Böylece, kenar l arın her biıi döngüleri kırarak ortadan 
+
+kaldınhr. Kenarların k a l dın l ması ile birleşme ağacı elde edilir (Jensen, 1996). Şekil4'te 
+(B,C,F), (F,!) ve (F,J) takıml an, F düğümü ile bir döngU yaratmaktadır. Bu döngüyU 
+onadan kaldınnak için, (F,!) ve (F,}) takımları arasındaki F arakesiti ve kenarları 
+ortadan ka l dırılır. Böylece, Şeki l 3 için uygun birleşme ağac ı elde edil ir (Şe kil 5). 
+
+33 
+
+~~A~,B;,~E~'r----~ B ı------~-;B~,C~,F;-')-----I C ~-__{__;C~,D;,;,C----
+
+E,H 
+F,I 
+C,K 
+
+Şekil S. Şekil 3 için Uygun Birleşme Ağac ı 
+
+B i rleşme ağac ı nı kurabilmek için, aşağıda fa rkl ı bir metot verilecektir. ilk olarak 
+moral grafik elde edi lir ve elde edilen moral grafikten takım l ar elde edi lir. Bi r leşme 
+
+ağacının yapısı, Şekil 6a, 6b, 6e ve 6d'de gösterilmiştir. Bu şeki ldeki Bayes ağ için 
+uygun 
+moral grafik elde 
+edi l m i ştir. 
+Bu moral grafikteki 
+takım l ar, 
+(A,B,C), 
+(D,C,E),(C,F), (E,C) ve (E,H)'d ı r. ilk olarak, (A,B,C), (D,C,E) ve (C,F) ıakımlan ortak 
+
+C düğümüne sahiptir. Böylece, bu takımlar, ayn ayn C arakesiti ile bağl anır. (D,C,E), 
+(E,G) ve (E,H) takı m l arı da oııak E düğümüne sahiptirler. Bu taklmlarda, E arakesiti ile 
+ayn 
+ayrı bağ l anı rlar. Bu düzenleme sonucunda, bi rleş me grafiğ i elde edilmi ş olur. 
+Burada, bir leşme g rafiği , döngüye sahip o l duğundan do l ayı , döngüyü bozacak şekilde 
+
+bağlant ı lardan biri ortadan ka ldın l mal ı dır. Böylece, birleşme ağac ı elde ed i lmiş olur . 
+
+• 
+
+H 
+
+Şekil 6a. Çoklu Ba ğlant ı lı YÖn Veri l m i ş 
+
+Şekil6b. Moral Grafik 
+
+DöngüselOlmayan Grafik 
+
+34 
+
+Hülya OLMUŞ - Semra ERBAŞ 
+
+c 
+
+• 
+
+Şckil6c. Birleşme Grafiği 
+Şekil 6d. Birleşme Ağac ı 
+
+2.1.2. Yapay Bağlantıların Eklenme.'iİ ile Elde Edilen Birleşme Grafikleri 
+
+ko l ay lı kla görülmemektedir. Bundan do l ayı, moral g rafi ğe, yapay bağl antılar eklenerek, 
+grafik ü çgenleştiri lmi ş grafik haline geıi rilir. Takımlar da, bu grafikten görülebilir. 
+
+Verilen Bayes ağ, moral grafik haline geti ri ldikten sonra, 
+takımlar, bazen 
+
+Takımlar sayesinde, değişkenler arasındaki koşullu bağ ı msızlık il i şki l eri 
+kolaylıkla 
+görülmektedir (Edwards, 1995; Lauritzen, 1996). 
+
+Elde edi len moral grafik, üç genleşt i rilmiş grafiktir. Bu grafikte uzunluğu 3'den 
+büyük her döngü kirişe sahip olmalıdır. Üçgenleşt i rilmi ş grafiği elde edebilmek için 
+büyük 
+ağlarda, yapay 
+bağlantılann 
+n as ıl 
+ekle neceği literatürde 
+vard ı r. 
+Yapay 
+
+bağlantılann minimal say ı sının bu l unması problemi NP-hard olarak adlandınlır (Jensen 
+vd., 1990). Bu ça lı şma da, amacımız, fikir takım l annın minimal kümesini alarak yapay 
+
+bağlantıları eklemektir. 
+
+Aşağıda veri len ağ düşünülsün (Şekil 7a, 7b ve 7c). Burada iki takım arasındaki 
+arakesit (A,B)'dir ve birl eşme ağacı kolaylık l a elde edilebi lir. 
+
+35 
+
+c 
+
+Şekil7a. Çoklu Bağ l an tılı 
+
+Şe kil 7b. Moral Grafik 
+Şekil 7c. Birleşme Grafiği 
+
+Yön Ver i lmi ş Döngüsel 
+
+Olmayan Grafik 
+
+Şeki l (8a, 8b ve 8e)'deki yön verilmi ş döngüselolmayan grafik düşünüldüğünde, 
+
+birleşme ağacı doğrudan o l uşmamaktad ır. B,e düğüm l eri 
+a rasına bir yapay bağlantı 
+eklenirse, üçgenle ş tirilmi ş grafik elde edi lir. Böylece, kolaylıkla bir leşme ağacı sağ l anır. 
+
+A 
+
+c 
+
+D 
+
+Şekil Sa. Yön Ve rilmi ş 
+DöngüseiOlmayan Grafik 
+
+ŞekilSb. Moral Grafik 
+Şeki l Sc. B ir l eşme G rafiği 
+
+Aşağ ı da verilen grafikte, sadece, D ve E arasına bağ l ant ı ekleyerek geniş l em e 
+problemi ortadan ka l dırılamamaktadlf. Çünkü, moral grafikte, D-E-C-A-B-D döngüsü 
+
+olu şm aktad ır (Şeki l 9a, 9b ve ge). 
+
+B )-----( C 
+
+B 
+
+E 
+
+D 
+E 
+
+Şckil9a. Yön Ve ri lmiş 
+DöngüselOlmayan Grafik 
+
+Şckil9b. Moral Grafi k 
+Şckil9c. Birleşme Ağacı 
+
+36 
+
+Yukanda verilen probleme çözüm bulmak için, moral grafiğe başk a yapay 
+
+bağlantı l ar da eklenir. C, D ve B, C aras ın a bağ l ant ıl ar eklenerek, bi rleşme ağac ı Şekil 
+
+ıD a, IDb ve IDe'de görülmektedir. 
+
+81----( c 
+c 
+
+E 
+CD 
+
+ŞekillOa. Moral ve Üçgen Grafik 
+Şeki l lOb. Bi rl eşme G rafiği 
+
+CD.E 
+
+Şekil IOc. Bi rleşme Ağacı 
+
+3. UYGULAMA 
+
+Bu çalışmada, Türkiye 
+İ stat i s ti k Kurumu Demografi 
+Şubesi tarafından elde 
+edilen, 1996 yı lı intihar verileri kullanılmıştır (Türkiye İ statist i k Yıllığı, 1996). 1815 
+
+veri için intihar şek lin i etkileyen nedenler, cinsiyet, medeni durum, intihar nedeni ve 
+meslek grubu a lı nmıştır. Bu değ i şkenl e rin kategori düzeylerinin say ı s ı ve düzeylerin 
+
+t anım ı 
+aşağıdaki 
+tabloda 
+ve rilmişti r (Tablo 1). Aynca, kategorilerde gerekli 
+
+birl eştirmel er, CHAID (Chi-Squared Automatic 
+lnıerae tion Detector) analizi ile 
+
+yapı hnı şt ı r (Hill vd., 1997). Burada, SPSS 8.0 for Windows CHAID 6.0 kullanılmışlır. 
+
+37 
+
+Tablo 1. Deği şke nlerin Kategori Düzey Say ı sı ve Tanımı 
+
+Değişkenler 
+Düzey sayıs ı 
+Düzeylerin tanımı 
+N 
+
+Intihar şe kli 
+3 
+(i ) Kendini asarak 
+900 
+
+(2) Kimyevi madde kullanarak, h avagaz ı . tüpgaz 
+270 
+vb. kullanarak, kendini yakarak 
+
+(3) Kendini yüksekten atarak, kendini suya atarak, 
+645 
+
+ateşl i silah kullanarak, kesici alet kullanarak, 
+kendini ıren vb. a ltına atarak ve di ğer 
+
+İntihar nedeni 
+3 
+( i) Hastal ı k 
+664 
+
+(2) Ai le geçimsiz l iğ i , hissi ilişki ve istediğ i ile 
+674 
+evlenememe 
+
+öğre nim başarısız lı ğı , diğer , bilinmeyen 
+Cinsiyet 
+2 
+(i) Erkek 
+II 22 
+
+(3) Geçim zorl uğu, ticari başarıs ı zlı k, 
+477 
+
+(2) Kadm 
+693 
+
+(2) Evli 
+875 
+17 1 
+(3) Eş i öldü ve boşand ı 
+Meslek grubu 
+3 
+(I) ilmi teknik elemanlar, serbest 
+270 
+
+Medeni durum 
+3 
+(1) Hiç evlenmedi 
+769 
+
+meslek, idari personel ve benzeri çalışanla r , 
+ticari ve satış personeli 
+(2) Hizmet işlerinde çalışanlar, tarımcı, 
+446 
+
+hayvanc ı , o rma ncı, balıkçı ve avcı, tanm 
+
+d ı ş ı üretim ve u l aşt ı rma makineleri 
+
+kullananlar 
+(3) Müıeşebbis, direktör. üst kademe yöneticisi, 
+
+diğer 
+1099 
+
+HUGIN ça h şıın l dığında, aşağıda verilen uygun Bayes ağ modeli için, gerekli 
+olan şekille r gösterilm i ş ti r. Bu şekill erde . boş kutular, gözlenmiş değişke n leri, içi dolu 
+kutulara k arşıl ı k gelen değerler ise, olası lı k değe rl eri n i gösterir. Aynca, şeki llerin 
+içerisinde yer alan "100,00" değeri, değişkeni n seçilen düzeyinin biliniyor olması 
+demektir. Değişkenlerde yapıla n kısallmalar aşağıda veıi i mişti r: 
+
+Cinsiyet: C 
+Medeni durum: MD 
+intihar şek li: iŞ 
+intihar nedeni: iN 
+Meslek grubu: MG 
+
+38 
+
+Hülya OLMUŞ - Semra ERBAŞ 
+
+iı g ile nil en değişke nl ere il işkin Bayes ağ modeli aşağıda verilmi şt ir (Şekil LL ). 
+Bu model, beş değişkenden oluşmaktad ır : cinsiyet, medeni durum, intihar nedeni, 
+meslek grubu ve intihar şe kli. Bu modelde, cinsiyet, intihar nedeni, medeni durum ve 
+meslek gıubu değişkenıcıin i etkilemektedir. Medeni durum, meslek grubu ve cinsiyet 
+
+değişkenleri de intihar nedenini etkiler. Aynea, medeni durum, intihar nedeni ve meslek 
+grubu değişkenleri de intihar şe klini etkilemektedir. 
+
+cinsiyet 
+
+medeni durum 
+intihar nedeni 
+meslek grubu 
+
+intihar şek l i 
+
+Şekil ll . Beş D ü ğümde n Oluşan Bir Bayes Ağ Modeli 
+
+Model belirlendikten ve koş ullu o l ası lıkların giri ş i yapıld ı kt an sonra, HUGIN 
+paket programı ça lı ştırılm ı ş ve modele uygun moral ve üçgen grafi ğ i elde ed i l miştir 
+
+(Şeki l 12). Moral grafikten elde edilen takıml ar, {C,MD,IN,MG} ve {MD,IN,MG,IŞ} 
+olmak üzere iki tanedir. Bu 
+takı ml arın arakesitleri olan {IN,MD,MG } düğüm l eri 
+
+a lınara k , birleşme ağacı elde e dilmi ştir (Şekil 13). 
+
+cinsiyeı 
+
+imihar nedeni 
+medeni durum 
+meslek grubu 
+--~=------------------ ----------------------=--=-----
+
+intihar şekli 
+
+Şek il 12. Şekil ı ı için Moral ve Üçgen Grafik 
+
+39 
+
+Hayes Ağlarda Birleşme Ağaçlarını Kullanarak Olayların Genişlemesi 
+
+C,MD.fN,MG 
+
+MO,İN,MG,iş 
+
+Şekil 13. Şeki l 12'den Elde Edilen Birleşme Ağac ı 
+
+Elde edilen birleşme ağac ın a göre, {MD,IN,MG} değ i şkenl eri bilindi ği nde, 
+cinsiyet intihar şeklinden ko şullu olarak bağı ms ı zd ı r ve C.llŞ \ {MD,İN,MC} ile 
+gösterilir. Acaba bu değişkenlerin, hangi düzeyleri için yukarıdaki koşu l sağl anabil i r? 
+
+{MD,İN,MG} değişken lerinin 27 tane mümkün durumu vardır. Bu mümkün durumların 
+hepsi ince lenm i ş ve yorumlamalan sonuç ve tartı şmalar bölümünde verilm i şti r. Ancak, 
+burada sadece tesadüfi olarak seçilen tek mümkün durum detayları ile aç ı klandı. Bayes 
+
+ağ modeli için, beş düğüme ilişkin m arj ina l
+olasılık l ar aşağıda veri l mişti r (Şeki l 14). 
+
+Ölllcğ i n; 1815 bireyin erkek olma oranı 0,62 iken, kadın olma oranı 0,38'dir. 1815 
+bireyden tesadüfi seçilen bir bireyin kendini asarak intihar e tmi ş olma 
+olasılığı 
+O,1352'dir. Evli olan l arın oranı ise 0,4820'dir. 
+
+1
+" '''62,ooC -. L 
+"2"3800 
+~ 
+
+iN 
+MG 
+"I" 25.82 -
+
+"ı" 14,89 
+''2'' 17.76 • 
+"2" 24,58 
+"3" 56,43 -
+
+, 
+
+ı 
+
+... 
+• --
+
++ 
+MD 
+"1"42,40 _ 
+"2"48,20 _ 
+"3" 9,40 • 
+
+• 
+
+ıŞ 
+"t" 13,52 -
+"2" lı,46 • 
+"3" 75.02 -
+Şekil 14. Bayes Ağ Modeli için MarjinalOlası lık l ar 
+
+"3" 60,54 
+
+ı 
+
+ilk olarak, jN="3", MD="2" ve MG="3" değişkenlerinin düzeyleri bilindi ği 
+durum düşünülsün. jN="3", MD="2" ve MG="3" değişkenleri bilindiğinde, diğer 
+
+değişkenle rin koşullu olas ıl ı kl an aşağıda gösteri l miş tir (Şekil 15). 
+
+40 
+
+C 
+" I" 66,11 -
+''2'' 33,89 • 
+
+ı 
+MD 
+IN 
+MG 
+.. ı " -
+.. ı " -
+"I" -
+"2" IQO,= 
+''2'' -
+''2'' -
+")" -
+"3" i QO,QO 
+= 
+"3" lQO,oo= 
+
+ıŞ 
+"I" 12,70 • 
+"2" 15,20 -
+"3" 72.10 -
+Şek iıı S. Bayes Ağ Modeli için. jN="3", MD="2", MG="3" Olayla rının Genişlemesind e n 
+
+ı 
+
+Sonra, Di ğer Düğümlerin Koş ullu Ola s ı lıkla rı 
+
+Şekil 16'da, olaylar ge ni ş letildikten sonra, 18 15 bireyden tesadüfi olarak seçilen 
+bir bireyin erkek olma o l ası lı ğı O,6611 'dir. Bu düğüme i li şkin , ön olas ılı k 0,62 
+
+o l duğundan , olaylar gözlendikçe, tesadüfi olarak seçilen bir bireyin erkek olma 
+
+olasılığında artış göıii lmektedir. İN="3", MD="2" ve MG=-"3" olaylan bilindi ği nd c, 
+tesadüfi seçilen bir bireyin kendini yüksekten atarak vb. intihar şe klini seçenlerin 
+
+olas ılığ ı O,721O'dur. 
+
+1"1,, LQO,~ :-1 
+''2'' 5126 
+, 
+... 
+l 
+.. 
+MD 
+IN 
+MG 
+"I" . 
+" I " -
+"I" -
+''2'' i QO, QO = 
+"2" -
+"2" -
+"3" -
+"3" 100,00 = 
+"3" i QO,QO = 
+
+ıŞ 
+" I" 17,61 • 
+''2'' 2 1,08 -
+"3" 100,00 -
+Şekil 16. Bayes Ağ Modeli için, MD="2", iN=")" ve MG="3" O l ay l arı Genişleti ld i ği nde, En 
+
+ı 
+
+Yüksek Olası lı ğa Sahip Düğüml e rin Mümkün Birl eş imleri 
+
+41 
+
+Hayes Ağlarda Birleşme Ağaçlarını Kullanarak Olayların Genişlemesi 
+
+c 
+" I" 100,00 -
+"2" -
+
+ı 
+MD 
+IN 
+MG 
+"I" . 
+.. ı " 1 DO,DO 
+= 
+"I" -
+"2" -
+"2" -
+"," 100,00= 
+"3" 100,00 = 
+"3" -
+"3" -
+
+iş 
+" I " -
+"2" 16,70 -
+"3" 83,30 -
+Şekil ı 7. Bayes Ağ Model, için, İN=" 1 ", MD="3", MG="2" Olayları n ın Genişlemesinden 
+
+ı 
+
+Sonra, Diğer Dü ğüm l eri n Koşu llu Olas ı lıkları 
+
+MD="3", İN="!" ve MG="2" o l ayları genişlet i ldiğ i nde, d i ğer düğümlerin en 
+yüksek olası lı k l arının birleş i ml eri nin değeri O,00255572'dir ve istenen olasılık, 
+
+P(C ="l",iş ="3"1 MH ="3",iN ="1", MC ="2" ) = 
+
+P(C ="1"," iş ="3",MH ="3",İN ="I",MG ="2") 
+
+P(MH ="3",iN ="I",MG ="2") 
+
+= 0,833 
+
+= 0,00255572/0,003068 i 
+
+elde edilir. MD="3", İN="l" ve MG="2" deği şken lerinin düzeyleri bilindiğinde, C=" L" 
+
+ve iŞ="3" değişkenlerinin düzeylerini elde etme olasılığı 0,833 olarak elde edi l mi ştir. 
+Tüm mümkün durumlar için koşullu olasılıklar belirlenebi lir. 
+
+4. SONUÇ 
+
+Bu ça lı şmad a amaç, kesikli değ i şke nl er için Bayes ağla rı 
+t anıtmak ve o l asılık 
+
+günceııeş tirme si için verilen bir problemi n nas ı l 
+çözü leceğ i ni ve 
+yorumlanacağını 
+
+açı klamaktı r. Aynca, 
+değişkenler arasındaki neden-etki 
+il i ş ki l eri ne değinilm i ş ve 
+böylece bu 
+değ i şken ler 
+aras ındaki 
+ili şki 
+modellenmiştir. Geleneksel 
+metotlar 
+
+ku ll anılarak, Bayes ağ modelleri için, gerekli 
+olasılıklar hesap l anm ı ş ve Bayes ağ 
+modelindeki olaylar 
+genişl et i lerek , 
+gerekli olan 
+olas ılıklar tekrar 
+incelenmiştir. 
+Uygulamada yer alan, intihar verilerinde 
+kullanı l an değiş kenl er için, neden- elki 
+
+değişken l eri 
+bel irlenm i ş ve uygun Bayes ağ modeli 
+kuru l m u ştur. Bu modele göre, 
+etkiler göz len di ğ i zaman, 
+fa rklı nedenler için 
+ç ık arırnlar elde edi l mi şt i r. 
+İnt i har 
+
+örneği nd e çıkarırnlar ile ilgi li bazı sonuçlar şöy l edir: 
+
+değişkenlerinin 
+koşullu 
+olarak 
+bağı msız 
+olduğu 
+görü l müştür. 
+{MD,iN,MG} 
+
+Kurulan modele göre, {MD,iN,MG} değ i şkenl e ri verild i ği nde {iş} ve {C} 
+
+değ i şke nl eri n düzeyleri (27 mümkün durum) i n celenmi ştir. 
+
+42 
+
+Hülya OLMUŞ - Semra ERBAŞ 
+
+Kurulan modele göre, genelolarak, bireylerin daha büyük olasılıkJa erkek ve 
+kendini yüksekten atarak, kendini suya atarak vb. intihar şe klin i seçen bireyler o l duğu 
+
+göz lenmi ş t i r. 
+Bayes 
+ağ modelinde, 
+{ İN=" 1" ,MD::::;" 1" ,MG=" ı "} 
+değişke nl eri nin 
+düzeyleri 
+bilindiğinde, cinsiyetinin 
+erkek 
+olma 
+olas ı lı ğı 
+%68.86'dıf. Ancak, 
+{iN::::;" 1 ",MD="3",MG="2" J değ i şkenle rinin düzeyleri b i l indi ği nde, cinsiyetinin erkek 
+olma olas ılığı % I OO .OO ' dıf. {İN="2", MD="3",MG="1"} 
+değiş kenlerini n düzeyleri 
+
+bi l indi ğ i nde, modelde cinsiyetin erkek olma o l as ılı ğı % 93.70'tir. 
+
+Koş ullu bağ ı m s ı z lık l an n doğru belirlenmesi olas ı l ı kl a rı e tkil eyeceği için çok 
+önemlidi r. Bundan do l ayı, koşull u bağımsız lıklarm belirlenmesinde, konu ile ilgi li 
+
+uzmanl arın fikir dereceleri önemli rol oynar. Ayrıca, araştırm acı koş ulları n a uygun bir 
+
+şe kilde amac ını bel irlemelidir. Bu konu literatürde, uzman sistemler adı altında oldukça 
+
+geni ş bir yer kaplar. 
+Model in 
+belirlenmesinde, 
+uzman 
+sistemlerin 
+görüş l eri 
+belirlenmelidir. 
+
+KAYNAKLAR 
+
+COWELL, RG., (1 999), Imrodııetioıı to iııfereııce iıı Bayesiaııııetwo rks, 
+iıı uamiııg iıı 
+Graphical Models, 9-26. 
+
+EDWARDS, D., (1995), Iııtroducıioıı to Grapllieal Modelliııg, Springler Verlag, New York. 
+
+FRIEDMAN, N. AND GOLDSZMIDT, M., (1996), uamiııg Bayesiaıı Nerworks ıvirh Local 
+
+S/metııre, Proceedings ı th Conferenee 011 Uncertainty in Artificial Intelligence, IFI-
+95-03109, 421-459. 
+
+HILL, D. A., DELANEY, L. M., RONCAL, S., (1997), A Ch i-Sqıwre Allıomatic "lIeractiolı 
+
+Dedeetioıı, (CHAlD) Anaiysis of Factars De/enııiııing Tmıııııa Qıııeomes, Journal of 
+Trauma-Injury Infection and Critica! Core, Vol. 42, ISS 1,62-66. 
+
+HUGIN SYSTEMS, (1998), Iıı (roduction to the HVGIN System, HUGIN Expert Ltd., 
+
+htttp:/Iwww.hugin.dk. 
+
+JENSEN, EV. , (1 996), Aıımtrodlıc/iol1 to Bayesiaıı Networks, UeL Press Ltd., London. 
+
+JENSEN, F.V., OLESEN, K.G. AND ANDERSEN, S.K., (1990), Aıı Aigebra of Bayesiaıı 
+
+Belief Uııiversesfor Kııowledge-Based Systems, Networks, Vol. 20,637-659. 
+
+LAURITZEN, S.L., (i ~96), Graphical Models, Oxford University Press, Oxford. 
+
+LAVRITZEN, S.L. AND SPIEGELHALTER, DJ ., (1988), Local 
+ColI/puta/iolıs 
+witlı 
+
+Probabifiıies 011 Graplıical Sırllctııres aııd Their Applicaıioıı to Expel1 Systems, J.R. 
+St.tist. Soc. B, 50(2), 157-224. 
+
+LlAROKAPIS, 
+D., 
+(1999), 
+Aıı 
+bıtrodııctioıı 
+/o 
+Belief 
+Networks, 
+htnp://www.cs.umb.eduJdimitris. 
+
+NlEDERMA YER, D., (l998), Aıı 11IIrodlıc/iol/ to Bayesiaıı Networks aııd Their Coııtempom ry 
+
+Applications, http://www.gpfn.sk.ca/-daryle/papers/ bayesian_networks/bayes html. 
+
+43 
+
+Bayes Ağlarda Birleşme Ağaçların. Kullanarak Olayların Genişlemesi 
+
+PEARL, 1., (1986), FIIS iolı, Propagarioıı (Li/d Slrllctıırilıg iıı Belief Nııetworks, Artificial 
+Intelligence, 29, 241-288. 
+
+SPIEGELHALTER, DJ., DAWlD, A.P, LAURITZEN, S.L. AND COWELL, RG., (1993), 
+
+Bayesiaıı Analysis hı Experı Systeıııs. Statistical Science, Yo1.8, No.3, 219-283. 
+
+SPffiGELHAL TER, DJ. AND LAURITZEN, S.L., (1990), Seqııetial Upc/aıing of eoııdi/iol/al 
+
+Probabiliıies 011 Directed Graplılcal Sımcıltres, Networks, 20. 579-605. 
+
+STEPHENSON, T.A., (2000), Anlıılroductioıı to Bayesimı Network Tlıeory aııd Usage, IDlAP 
+
+Research Report 00-03. 
+
+TÜRKİYE iSTATi sTİK YLLLIGI, (1996), Oemografi Şubesine Ait imihar Verileri, Devlet 
+
+İstati stik Enstitüsü, Ankara. 
+
+PROPAGATION OF EVIDENCE USING JUNCTION 
+TREE IN BA YESIAN NETWORKS 
+
+ABSTRACT 
+
+A Bayesimı network is direeted a eyclie gmplıs iıı ıvhiclı the 
+liodes represem variables aııd the edges sigııify direct depeııdeııeies 
+
+betweeıı variables. The strenglus of t"ese edges depeııdeııcies are 
+
+defiııed by 
+coııditioııal probabilities. 
+hı Bayesiıııı Iletworks, the 
+
+evideııce propagatioıı is imrodııeed by jımctioıı free algoriflım. Finally, 
+
+applieatioıı data al/d theıı the probabilities are examiııed. Here, SPSS 
+software is Ilsed to eol/stilııfe eomiııgeney tables aııd !-IUGIN software 
+for probability caicliilis. 
+
+streııg!ıts of eoııdi/io/wl probabilities are 
+ealeıılafed by using 
+
+Key Words: Bayesiaıı Netıvorks, Coııditioııal hıdepeııdeııee, Coııditioııal 
+
+Probability, }ımetioıı Tree. 
+
+44 
+

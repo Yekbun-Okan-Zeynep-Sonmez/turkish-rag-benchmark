@@ -1,0 +1,3978 @@
+P A M U K K A L E  Ü N İ V E R S İ T E S İ   M Ü H E N D İ S L İ K  F A K Ü L T E S İ  
+P A M U K K A L E   U N I V E R S I T Y   E N G I N E E R I N G  C O L L E G E  
+MÜHENDİ SLİK Bİ LİMLERİ DERGİSİ  
+J O U R N A L   O F   E N G I N E E R I N G   S C I E N C E S 
+
+: 2004 
+: 10 
+: 2 
+: 185-193 
+ 
+
+YIL  
+CİLT 
+SAYI 
+SAYFA 
+
+ 
+DİELEKTRİK KAPLANMIŞ SİLİNDİRİK BİR YÜZEYDEN 
+SAÇILAN ELEKTROMAGNETİK DALGALARIN FİZİKSEL 
+OPTİK YAKLAŞIMIYLA ASİMPTOTİK HESABI 
+ 
+ 
+Uğur YALÇIN 
+Uludağ Üniversitesi, Mühendislik-Mimarlık Fakültesi, Elektronik Mühendisliği Bölümü, Görükle / Bursa 
+ 
+ 
+Geliş Tarihi : 21.04.2003 
+ 
+ 
+ÖZET 
+ 
+ 
+Bu çalışmada, sonlu kaynaklı elektromagnetik dalgaların, dielektrik kaplanmış silindirik bir yüzeyden optik gibi 
+saçılması Fiziksel Optik (FO) yaklaşımı ile incelenmiştir. Sonlu kaynak, çizgisel elektrik akım kaynağı olarak 
+seçilmiştir. Silindirik yüzeye ait yansıma katsayısı, Kırınımın Geometrik Teorisi (KGT) yaklaşımı kullanılarak 
+bulunmuştur. Elde edilen bu katsayı kullanılarak yüzeyden saçılan alanlar ifade edilmiştir. Alan ifadeleri FO 
+yaklaşımında kullanılmış ve yüzeye ait saçılma integrali belirlenmiştir. Bu integralin asimptotik olarak 
+değerlendirilmesi sonucunda yüzeyden yansıyan alanlar ile yüzeye ait diverjans katsayısı hesaplanmıştır. 
+Neticede, çalışmada elde edilen sonuçlar nümerik olarak değerlendirilmiş ve yüzey empedansının saçılan 
+alanlara etkileri incelenmiştir. Yapılan çalışmada zaman faktörü 
+t
+j
+e ω  alınmıştır. 
+ 
+Anahtar Kelimeler : Fiziksel optik yaklaşımı, Kırınımın geometrik teorisi, Dielektrik kaplanmış yüzeyler 
+ 
+ 
+ASYMPTOTICAL CALCULATION OF ELECTROMAGNETIC WAVES SCATTERED 
+FROM A DIELECTRIC COATED CYLINDRICAL SURFACE WITH PHYSICAL 
+OPTICS APPROACH 
+ 
+ 
+ABSTRACT 
+ 
+ 
+In this study, quasi-optical scattering of finite source electromagnetic waves from a dielectric coated cylindrical 
+surface is analysed with Physical Optics (PO) approach. A linear electrical current source is chosen as the finite 
+source. Reflection coefficient of the cylindrical surface is derived by using Geometrical Theory of Diffraction 
+(GTD). Then, with the help of this coefficient, fields scattered from the surface are obtained. These field 
+expressions are used in PO approach and surface scattering integral is determined. Evaluating this integral 
+asymptotically, fields reflected from the surface and surface divergence coefficient are calculated. Finally, 
+results obtained in this study are evaluated numerically and effects of the surface impedance to scattered fields 
+
+are analysed. The time factor is taken as 
+t
+je ω in this study. 
+ 
+Key Words : Physical optics approach, Geometrical theory of diffraction, Dielectric-coated surfaces 
+ 
+ 
+1. GİRİŞ 
+ 
+Son yıllarda elektromagnetik saçılma problemleri 
+için önemli bir araştırma konusu, dielektrik 
+kaplanmış yüzeyler ve bu yüzeylerden kırınım 
+
+problemleri olmuştur (Akduman ve Yapar, 2001; 
+Ling and Ufimtsev, 2001). Bu popülaritenin 
+nedeninin teknoloji ve buna paralel olarak harp 
+sanayinin hızlı bir gelişimi olduğu söylenebilir. 
+Dielektrik bir yüzeyden saçılma problemine ilişkin 
+
+185 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+örnek bir uygulama radar ile tespit edilmeye 
+çalışılan görünmez uçak fenomeni verilebilir. En 
+basit olarak, görünmez bir uçak ince bir dielektrik 
+tabaka ile kaplanmış mükemmel iletken yarım bir 
+düzlem ile modellenebilir. İnce bir dielektrik tabaka 
+ile kaplanmış Z empedansına sahip iletken metal bir 
+yüzey, 
+0
+µ
+=
+µ
+ özel hali için rezistif bir empedansa 
+sahip olmakta ve “Rezistif dielektrik yüzey” olarak 
+adlandırılmaktadır. Yüzey empedansı 
+0
+ε
+ε =
+ özel 
+hali için ise, ilk durumun elektromagnetik duali 
+olmaktadır. Bu durumda Z empedansı magnetik 
+özellik göstermekte ve bu yüzeyde “Rezistif 
+magnetik yüzey” olarak adlandırılmaktadır (Uzgören 
+ve Büyükaksoy, 1999). Literatürde her iki yüzeyi de 
+dielektrik bir tabaka ile kaplanmış sonsuz uzun ince 
+bir mükemmel iletkene ait sınır koşulların elde 
+edildiği bir çalışma yapılmıştır (Büyükaksoy ve 
+İdemen, 1990). Bu gelişimi takiben her iki yüzeyi de 
+Z empedansına sahip silindirik bir yüzey üzerinde 
+indüklenen 
+akımların 
+asimptotik 
+olarak 
+değerlendirildiği başka bir çalışma Akduman ve 
+Büyükaksoy 
+(1995), 
+tarafından 
+yapılmıştır. 
+Kaplanmış saçıcı cisimlere ait empedans sınır 
+koşullarının yüksek terimlerin incelendiği konuya 
+ilişkin değerli bir çalışma da literatürde göze 
+çarpmaktadır (Hoppe and Rahmat-Sami, 1994). 
+Optik gibi çözümlerin bir zaafı olarak bilinen gölge 
+bölgesi akımlarının analiz edildiği bir empedans 
+silindirine ait çözümler konuya ait bilimsel gelişime 
+katkı sağlamıştır (Osipov et al., 1998). Son yıllarda 
+yapılan bir başka çalışma ise ince kayıplı magnetik  
+kaplı mükemmel iletken bir silindirden saçılan 
+alanların nümerik olarak hesaplandığı problemdir 
+(Strifors and Gaunaurd, 2000). Yukarıda adı geçen 
+çalışmaların ışığında bu çalışmada FO yaklaşımı 
+kullanılarak “Dielektrik Kaplanmış Silindirik Bir 
+Yüzeyden 
+Saçılan 
+Elektromagnetik 
+Dalgalar” 
+asimptotik olarak hesap edilmiştir.  
+ 
+ 
+2. FİZİKSEL OPTİK YAKLAŞIMI 
+ 
+ 
+İletken ve iletken olmayan saçıcı yüzeylerden 
+saçılan alan hesabını yapmak için kullanılan bu 
+yaklaşım, uygulama kolaylığı ve pratiklik açısından 
+iyi neticeler vermektedir. Dielektrik saçıcı bir yüzey 
+için nr  yüzeyin normal birim vektörü olmak üzere, 
+FO yüzey akımları 
+ 
+
+şeklinde verilebilir (Jenn, 1995). FO yüzey akımları 
+göz önüne alınarak, saçılan alan için elektrik ve 
+magnetik Hertz vektörleri ikinci skaler Green 
+teoremi yardımıyla, 
+ 
+
+∫∫
+×
+ωε
+π
+=
+π
+
+s
+T
+0
+e
+ds
+)
+r,r(
+G
+)
+H
+n
+(
+j
+4
+1
+r
+r
+r
+r
+r
+                 (2a) 
+
+'
+'
+
+'s
+
+−
+=
+π
+
+s
+T
+0
+m
+ds
+)
+r,r(
+G
+)
+E
+n
+(
+j
+4
+1
+r
+r
+r
+r
+r
+               (2b) 
+
+∫∫
+×
+ωµ
+π
+
+'
+'
+
+ 
+olarak ifade edilebilir. (2) integral ifadelerinden 
+dielektrik bir yüzeye ait saçılan alan ifadeleri elde 
+edilebilir. Bu eşitliklerdeki 
+ 
+
+'s
+
+'
+jkR
+'
+r
+r
+R
+R
+    
+,
+R
+e
+)
+r,r(
+G
+r
+r
+r
+r
+r
+−
+=
+=
+=
+
+−
+ 
+
+ 
+boş uzay Green fonksiyonudur. 
+ 
+ 
+3. DİELEKTRİK KAPLI YÜZEYİN 
+YANSIMA KATSAYISININ HESABI 
+ 
+ 
+Bu 
+bölümde, 
+(ρ=ρ0,φ=π,z) 
+koordinatlarına 
+yerleştirilmiş bir elektrik çizgisel akım kaynağının 
+alanında bulunan, z eksenine paralel sonsuz uzun 
+dielektrik kaplanmış silindirik bir yüzeye ait 
+yansıma katsayısı hesaplanacaktır. Bu hesap, KGT 
+yaklaşımına dayandırılarak yapılacak ve probleme 
+ait Şekil 1’deki geometri göz önüne alınacaktır. 
+Dielektrik kaplanmış silindirik yüzeyinin kutupsal 
+denklemi ve normal birim vektörü, 
+ 
+
+y
+
+.
+
+P
+
+γ
+
+2ρ
+
+β
+nr
+
+a
+.
+K1
+
+ρ
+
+.
+o
+σ
+K
+0ρ
+x
+
+1ρ
+
+α
+
+'ρ
+
+'φ
+
+φ
+
+Z
+
+r
+r
+r
+              (1a) 
+
+ 
+ 
+Şekil 1. Dielektrik silindirik yüzey ve probleme ait 
+geometri 
+ 
+
+
+
+×
+=
+bölgesinde
+ 
+gölge
+  ,
+         
+0
+bölgede
+ 
+mis
+aydinlatil
+  ,
+    
+H
+n
+   
+J
+T
+es
+
+
+
+
+
+
+
+
+ 
+
+r
+r
+r
+              (1b) 
+
+a
+' =
+ρ
+,   
+'
+e
+n
+ρ
+= r
+r
+  
+ 
+                      (3) 
+
+bölgede
+ 
+mis
+aydinlatil
+  ,  )
+E
+n
+(
+-  
+J
+T
+ms
+
+
+
+×
+=
+bölgesinde
+ 
+gölge
+  ,
+         
+0
+
+
+
+
+
+
+
+
+ 
+olarak ifade edilebilir. Şekil 1’den, 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+186 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+2
+1
+'
+0
+2
+0
+2
+1
+]
+cos
+a
+2
+a[
+φ
+ρ
++
+ρ
++
+=
+ρ
+ 
+                      (4) 
+ 
+şeklinde yazılabilir. Bir elektrik çizgisel akım 
+kaynağından ışıyan alanlara ait vektör potansiyel 
+ifadesi ise, 
+ 
+
+]
+e)
+,f(
+D
+[
+)
+,
+(
+E
+E
+2
+jk
+2
+z
+z
+1
+ρ
+−
+ρ
+ρ
+∂
+∂
+β
+α
+ℜ
+−
+=
+ρ
+∂
+∂
+                       (12a) 
+
+ 
+
+]
+e
+)
+,f(
+D
+[
+)
+,
+(
+E
+E
+2
+jk
+2
+z
+z
+1
+ρ
+−
+ρ
+φ
+∂
+∂
+β
+α
+ℜ
+−
+=
+φ
+∂
+∂
+                      (12b) 
+
+ 
+ifadeleri göz önüne alınsın. 
+2
+ρ ’nin 
+φ
+ρ
+ 
+ ve
+’ye bağlı 
+kısmi türevleri (10) eşitliği kullanılarak, 
+ 
+
+4
+j
+jk
+0
+z
+k
+
+ρ
+π
+µ
+≈
+
+π
++
+ρ
+−
+  
+                      (5) 
+
+e
+2
+j
+4
+I
+A
+
+1
+
+1
+
+ 
+olarak 
+verilebilir 
+(Bayrakçı, 
+1991). 
+Silindirik 
+koordinatlar sisteminde ışıyan elektrik ve magnetik 
+uzak alan bileşenleri 
+ 
+
+)
+cos(
+cos
+'
+2
+β
++
+φ
+−
+φ
+=
+γ
+=
+ρ
+∂
+ρ
+∂
+β
+ρ
+−
+=
+φ
+∂
+ρ
+∂
+sin
+'
+2
+ 
+
+ 
+olarak bulunabilir. (12) eşitliklerinin sağ tarafında 
+görülen kısmi türevler hesaplanır ve (11) eşitliği 
+düzenlenirse, yansıyan magnetik alan bileşeni, 
+ 
+
+0
+0
+Z
+ε
+µ
+=
+ 
+ 
+ 
+ 
+        (6) 
+
+ 
+olmak üzere,  
+ 
+
+0
+
+)]
+2
+cos(
+e
+)
+2
+sin(
+e
+[
+Z
+1
+H
+
+φ
+−
+β
++
+φ
+ρ
++
+β
++
+φ
+ρ
+ρ
+−
+=
+r
+r
+r
+ (13) 
+
+'
+'
+'
+
+ρ
+β
+α
+ℜ
+×
+
+e)
+,f(
+D
+)
+,
+(
+E
+
+0
+1
+
+2
+jk
+2
+s
+z
+
+φ
+ρ
+
+ρ
+−
+
+4
+I
+e
+E
+0
+z
+0
+'
+ωµ
+−
+= r
+r
+
+π
++
+ρ
+−
+ 
+                      (7a) 
+
+4
+j
+jk
+
+ 
+şeklinde elde edilebilir. Dielektrik bir yüzey için 
+sınır koşulu ifadesi 
+ 
+
+ρ
+π
+
+e
+2
+1
+
+k
+
+1
+
+ 
+
+z
+0
+0
+E
+]
+cos
+e
+sin
+e
+[
+Z
+1
+H
+'
+'
+α
+−
+α
+−
+=
+φ
+ρ
+r
+r
+r
+ 
+                     (7b) 
+
+r
+r
+r
+r
+r
+×
+×
+=
+×
+  
+                    (14) 
+
+S
+T
+S
+T
+)
+H
+n
+n
+(
+Z
+E
+n
+
+ 
+şeklinde ifade edilebilir (Yalçın, 2002). Silindirik 
+yüzeyden yansıyan elektrik alan bileşeni KGT 
+yaklaşımı kullanılarak gelen alanlar cinsinden 
+ 
+
+ 
+olarak verilebilir (Anastassiu et al., 2002). Yüzey 
+empedansı 
+ 
+
+r
+0
+0
+ 
+ ve
+     
+,
+Z
+ε
+ε
+=
+ε
+µ
+=
+µ
+ε
+µ
+=
+ 
+                    (15) 
+
+ρ
+β
+α
+ℜ
+                (8) 
+
+degeri
+ 
+yüzeydeki
+ 
+alanin
+gelen 
+, 
+          
+E
+
+S
+z
+
+ 
+dielektrik özellik göstermektedir. Şekil 1’deki 
+geometride gözlem noktası 
+1
+K
+P →
+ taşındığında 
+
+katsayisi
+ 
+diverjans
+yüzey 
+,
+    
+)
+,f(
+D
+katsayisi
+ 
+yansima
+yüzey 
+,
+      
+)
+,
+(
+
+ 
+olmak üzere, 
+ 
+
+2
+
+'
+'    
+,
+φ
+→
+φ
+ρ
+→
+ρ
+ değişir ve yüzey üzerinde, 
+ 
+1
+)
+,f(
+D
+   
+,0
+2
+2
+=
+ρ
+=
+ρ
+ 
+ 
+şeklinde bulunabilir. Bu ifadeler göz önüne alınarak, 
+(9) ve (13) ile verilen yüzeyden yansıyan elektrik ve 
+magnetik alan bileşenleri, 
+ 
+
+z
+1
+z
+jk
+2
+z
+z
+1
+E
+e
+e)
+,f(
+D
+)
+,
+(
+E
+e
+E
+2
+r
+r
+r
+=
+ρ
+β
+α
+ℜ
+−
+=
+ρ
+−
+                     (9) 
+ 
+şeklinde ifade edilebilir (Stutzman and Thiele, 
+1998). Şekil 1’den, 
+2
+ρ ve γ  için, 
+ 
+
+β
+ρ
+−
+γ
+ρ
+=
+ρ
+cos
+cos
+'
+2
+ 
+ 
+                     (10) 
+
+)
+,
+(
+E
+e
+E
+z
+z
+S
+1
+'
+β
+α
+ℜ
+−
+=
+r
+r
+
+ 
+
+β
++
+φ
+−
+φ
+=
+γ
+'
+ 
+ 
+eşitlikleri 
+yazılabilir. 
+Maxwell-Faraday 
+denkleminden yansıyan magnetik alan bileşeni için, 
+ 
+
+)
+,
+(
+E
+]
+cos
+e
+sin
+e
+[
+Z
+1
+H
+z
+0
+S
+1
+'
+'
+β
+α
+ℜ
+β
++
+β
+=
+φ
+ρ
+r
+r
+r
+
+ 
+
+ 
+olarak ifade edilebilir. Neticede, yüzey üzerindeki 
+toplam elektrik ve magnetik alan bileşenleri, 
+ 
+
+]
+E
+e
+E
+e
+[
+1
+j
+1
+H
+z
+1
+z
+1
+
+0
+1
+ρ
+∂
+∂
+ρ
+−
+φ
+∂
+∂
+ρ
+ωµ
+−
+=
+φ
+ρ
+r
+r
+r
+ 
+                    (11) 
+
+ 
+ifadesi yazılabilir. İlk olarak, 
+ 
+
+)]
+,
+(
+1[
+E
+e
+E
+z
+z
+S
+T
+'
+β
+α
+ℜ
+−
+= r
+r
+ 
+
+)}
+,
+(
+]
+cos
+e
+sin
+e
+[
+]
+cos
+e
+sin
+e
+{[
+Z
+E
+H
+'
+'
+'
+'
+0
+
+S
+T
+β
+α
+ℜ
+β
++
+β
+−
+α
+−
+α
+−
+=
+φ
+ρ
+φ
+ρ
+r
+r
+r
+r
+r
+
+z
+
+ 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+187 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+şeklinde hesaplanabilir. (13) ifadesinin sol ve sağ 
+tarafında görülen vektörel çarpımlar 
+ 
+
+z
+0
+z
+S
+T
+E
+)]}
+,
+(
+cos
+{[cos
+Z
+1
+e
+H
+n
+'
+β
+α
+ℜ
+β
++
+α
+=
+×
+r
+r
+r
+             (17b) 
+
+ 
+vektörel çarpımları bulunabilir. (2) ile verilen FO 
+integrallerinde (17) ifadeleri, Green fonksiyonu ve 
+'
+ds  yerlerine yazılırsa Hertz vektörlerine ait 
+ 
+
+z
+S
+T
+E
+)]
+,
+(
+1[
+e
+E
+n
+'
+β
+α
+ℜ
+−
+−
+=
+×
+φ
+r
+r
+r
+ 
+
+z
+0
+S
+T
+E
+)]
+,
+(
+cos
+[cos
+Z
+1
+e
+)
+H
+n
+(
+n
+'
+β
+α
+ℜ
+β
++
+α
+−
+=
+×
+×
+φ
+r
+r
+r
+r
+ 
+
+ 
+olarak bulunabilir. Bu eşitlikler (14) sınır koşulunda 
+yerlerine yazılırsa normalize yüzey empedansı 
+
+−∞
+=
+β
+α
+ℜ
+β
++
+α
+πωε
+−
+=
+π
+r
+r
+ 
+
+z
+e
+
+])
+,
+(
+cos
+[cos
+E
+Z
+8
+a
+e
+2
+
+z
+0
+0
+
+'
+'
+∫∫
+
+π
+
+∞
+
+0
+Z
+Z
+=
+ζ
+ olmak üzere, silindirik yüzeye ait yansıma 
+
+        
+
+=
+φ
+
+0 z
+
+katsayısı  
+ 
+
+dz
+d]
+d
+e)
+k
+(
+H
+[
+         
+
+φ
+η
+ρ
+η
+−
+×
+
+∞
+
+∫
+
+'
+'
+)
+z
+z
+(
+j
+2
+2
+2
+)
+2
+(
+0
+
+−
+η
+−
+
+'
+
+  
+cos
+1
+cos
+1
+)
+,
+(
+β
+ζ
++
+α
+ζ
+−
+=
+β
+α
+ℜ
+ 
+ 
+                    (16) 
+
+−∞
+=
+η
+
+−
+=
+π
+
+r
+r
+       (18) 
+
+z
+0
+m
+
+)]
+,
+(
+1[
+E
+8
+
+β
+α
+ℜ
+−
+πωµ
+
+e
+
+φ
+
+2
+
+∫∫
+
+π
+
+∞
+
+ 
+şeklinde elde edilebilir. 
+ 
+ 
+4. DİELEKTRİK KAPLI YÜZEYDEN 
+SAÇILAN ALANLARIN HESABI 
+ 
+ 
+Bu bölümde (2) ile verilen integral ifadeleri 
+yardımıyla, dielektrik kaplanmış silindirik yüzeyden 
+saçılan alanlar asimptotik olarak hesaplanacaktır. Bu 
+amaçla, Green fonksiyonu uygun bir şekilde ifade 
+edilecektir. (2) eşitliklerinin öncelikle 
+'z  katlarına ait 
+integraller alınacak ve 
+'φ  katları ise, asimptotik 
+olarak değerlendirilecektir. Netice olarak, yüzeyden 
+saçılan alanlar (yansıyan alanlar) hesap edilecektir. 
+Konum vektörü, 
+ 
+
+∞
+
+=
+φ
+
+'
+'
+
+0 z
+
+−∞
+=
+
+dz
+d]
+d
+e)
+k
+(
+H
+[
+         
+
+φ
+η
+ρ
+η
+−
+×
+
+∫
+
+'
+'
+)
+z
+z
+(
+j
+2
+2
+2
+)
+2
+(
+0
+
+−
+η
+−
+
+'
+
+ 
+ifadeleri elde edilebilir. Hertz vektörlerine ait bu 
+integral ifadelerinin 
+'z  katı hesaplanır ve Hankel 
+fonksiyonunun 
+Debye 
+asimtotik 
+açınımı            
+(Bayrakçı, 1991) ve aşağıdaki eşitlik  
+ 
+
+−∞
+=
+η
+
+4
+I
+E
+0
+z
+ωµ
+−
+=
+
+e
+2
+1
+
+π
++
+ρ
+−
+ 
+
+4
+j
+jk
+
+ρ
+π
+
+k
+
+1
+
+ 
+göz önüne alınarak, integrallerin η katları da hesap 
+edilip eşitlikler yeniden düzenlenirse, 
+ 
+
+φ
+ρ
+ρ
+β
+α
+ℜ
+β
++
+α
+π
+=
+π
+
+r
+r
+
+0
+z
+e
+
+d
+e
+)]
+,
+(
+cos
+[cos
+k
+8
+Ia
+jZ
+e
+
+)
+(
+jk
+2
+
+∫
+
+ρ
++
+ρ
+−
+π
+
+2
+1
+
+'
+
+2
+1
+2
+'
+2
+2
+'
+]
+)
+(
+)
+[(
+z
+z
+r
+r
+R
+−
++
+=
+−
+=
+ρ
+r
+r
+ 
+
+=
+φ
+
+'
+
+0
+
+2
+1
+
+(19) 
+
+ 
+şeklinde tanımlanabilir (Bayrakçı, 2001). Green 
+fonksiyonu için 
+ 
+
+φ
+ρ
+ρ
+β
+α
+ℜ
+−
+π
+=
+π
+
+r
+r
+
+m
+
+d
+e
+)]
+,
+(
+1[
+k
+8
+jIa
+e
+
+φ
+
+2
+
+∫
+
+π
+
+ρ
++
+ρ
+−
+
+)
+(
+jk
+
+2
+1
+
+'
+
+ 
+integral eşitlikleri elde edilebilir. Neticede, silindirik 
+yüzeye ait saçılma integrali, 
+ 
+
+=
+φ
+
+'
+
+0
+
+2
+1
+
+−
+∫
+d
+e)
+k
+(
+H
+j
+2
+1
+R
+e
+)
+r,r(
+G
+)
+z
+z
+(
+j
+2
+2
+2
+)
+2
+(
+0
+
+jkR
+'
+'
+r
+r
+ 
+
+η
+ρ
+η
+−
+=
+=
+−
+η
+−
+∞
+
+∞
+−
+
+ 
+eşitliği yazılabilir (Harrington, 1961). Kaynak 
+bölgesi için yüzey elemanı ise, 
+ 
+'
+'
+'
+dz
+ad
+ds
+φ
+=
+ 
+ 
+olarak ifade edilebilir. nr  yüzeyin normal birim 
+vektörü kullanılarak, 
+ 
+
+'
+S
+d
+e)
+(
+f
+I
+'
+
+'
+φ
+φ
+=
+φ
+ψ
+−
+π
+
+=
+φ∫
+ 
+ 
+                    (20) 
+
+'
+)
+(
+jk
+2
+
+0
+
+ 
+olarak tanımlanabilir. İntegralde genlik ve faz 
+fonksiyonları, 
+ 
+
+ 
+)]
+,
+(
+1[
+)
+(
+f
+      
+, 
+)]
+,
+(
+cos
+[cos
+)
+(
+f
+
+'
+1
+ρ
+ρ
+
+β
+α
+ℜ
+β
++
+α
+=
+φ
+ 
+
+β
+α
+ℜ
+−
+=
+φ
+ρ
+ρ
+
+'
+2
+2
+1
+
+z
+S
+T
+E
+)]
+,
+(
+1[
+e
+E
+n
+'
+β
+α
+ℜ
+−
+−
+=
+×
+φ
+r
+r
+r
+ 
+ 
+     (17a) 
+
+ 
+)
+(
+)
+(
+)
+(
+2
+1
+'
+2
+'
+1
+'
+ρ
++
+ρ
+=
+φ
+ψ
+=
+φ
+ψ
+=
+φ
+ψ
+ 
+ 
+şeklinde tanımlanmaktadır. (20) saçılma integraline 
+stasyoner faz yönteminin uygulanmasıyla,  
+
+2
+1
+
+ 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+188 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+1
+
+şeklinde hesaplanabilir. Faz fonksiyonunun ikinci 
+türevi alınacak olursa 
+ 
+
+'
+s
+''
+0
+φ
+ψ
+=
+σ
+ 
+
+)
+(
+jk
+
+ 
+olmak üzere, 
+ 
+
+β
+β
++
+φ
+α
+α
+−
+=
+φ
+ψ
+ 
+
+d
+cos
+'
+d
+d
+cos
+[a
+)
+(
+'
+'
+''
+φ
+
+]
+d
+
+ 
+
+2
+e)
+(
+f
+I
+'
+s
+''
+)
+(
+jk
+'
+s
+0
+
+π
+φ
+≈
+φ
+ψ
+−
+ 
+ 
+      (21) 
+
+'
+s
+φ
+ψ
+
+elde edilebilir. 
+'
+'
+d
+
+d
+ , 
+d
+
+d
+
+α
+ terimleri (Yalçın, 2002a) 
+
+β
+
+ 
+ifadesi elde edilebilir (James, 1976). 
+1
+ρ  ve 
+2
+ρ  
+büyüklükleri için Şekil 1’de ki geometriden, 
+ 
+
+)
+(
+jk
+
+φ
+
+φ
+
+göz önüne alınarak, yerlerine yazılırsa 
+ 
+
+'
+''
+β
+ρ
++
+β
++
+α
+ρ
++
+α
+=
+φ
+ψ
+ 
+
+)]
+cos
+a
+1(
+cos
+)
+cos
+a
+1(
+[cos
+a
+)
+(
+2
+1
+
+β
+−
+γ
+ρ
+=
+ρ
+
+α
+−
+σ
+ρ
+=
+ρ
+
+0
+1
+ 
+
+cos
+a
+cos
+
+cos
+a
+cos
+
+ 
+eşitliğine ulaşılır. Semer noktasında, 
+ 
+
+ 
+ifadeleri yazılabilir. Bu eşitliklerden integrallere ait 
+faz fonksiyonu  
+ 
+β
+−
+γ
+ρ
++
+α
+−
+σ
+ρ
+=
+ρ
++
+ρ
+=
+φ
+ψ
+cos
+a
+cos
+cos
+a
+cos
+)
+(
+0
+2
+1
+'
+ 
+ 
+olarak bulunabilir. Faz fonksiyonunun birinci türevi 
+ 
+
+2
+
+α
+−
+σ
+ρ
+=
+=
+ρ
+ 
+
+s
+0
+0
+s
+1
+
+)
+cos
+a
+cos
+(
+l
+
+γ
+ρ
++
+β
+−
+=
+=
+ρ
+
+s
+1
+s
+2
+
+)
+cos
+cos
+a
+(
+l
+
+α
+ζ
+−
+=
+β
+α
+ℜ
+cos
+1
+cos
+1
+)
+,
+(
+s
+ 
+
+α
+ζ
++
+
+ 
+olarak ifade edilebilir. Bu ifadeler göz önüne 
+alınarak genlik fonksiyonları semer noktasında, 
+ 
+
+σ
+σ
+ρ
+−
+=
+φ
+ψ
+ 
+
+d
+sin
+0
+)'
+('
+φ
+
+d
+sin
+a
+'
+d
+
+α
+α
++
+φ
+
+d
+sin
+'
+d
+
+γ
+γ
+ρ
+−
+φ
+
+d
+sin
+a
+'
+d
+
+β
+β
++
+φ
+
+'
+d
+
+ 
+şeklindedir. Şekil 1 deki geometriden 
+ 
+
+cos
+2
+)
+(
+f
+
+α
+=
+φ
+
+'
+s
+1
+
+l
+l
+)
+cos
+1(
+
+α
+ζ
++
+
+1
+0
+
+π
+=
+φ
+−
+π
++
+α
+−
+π
++
+σ
+ 
+
+'
+
+cos
+2
+)
+(
+f
+
+'
+s
+2
+
+α
+ζ
+=
+φ
+
+α
+ζ
++
+
+ 
+
+=
+β
+−
+φ
++
+φ
+−
+γ
+
+0
+'
+
+ 
+          
+          
+          
+
+l
+l
+)
+cos
+1(
+
+1
+0
+
+ 
+eşitlikleri yazılabilir. Bu ifadelerin 
+'φ ’ne göre kısmi 
+türevleri alınır ve eşitlikler düzenlenirse 
+ 
+
+ 
+ve faz fonksiyonu ise, 
+ 
+ l
+l
+)
+(
+)
+(
+)
+(
+ 
+1
+0
+'
+2
+'
+1
+'
++
+=
+φ
+ψ
+=
+φ
+ψ
+=
+φ
+ψ
+ 
+ 
+şeklinde bulunabilir. Faz fonksiyonunun ikinci 
+türevinin semer noktasındaki değeri ise, 
+ 
+
+d
+1
+d
+
+d
+
+α
++
+=
+φ
+
+σ
+ 
+ 
+      (22) 
+
+'
+'
+'
+'
+−
+φ
+
+d
+      
+,
+d
+
+β
+=
+φ
+
+γ
+
+1
+d
+
+d
+
+ 
+ifadeleri elde edilebilir. Aynı geometriden iki ayrı 
+üçgene sinüs teoremi uygulanırsa, 
+ 
+
+φ
+
+d
+
+1
+0
+1
+0
+'
+s
+''
++
+α
++
+α
+=
+φ
+ψ
+ 
+
+]
+l
+l
+)
+l
+l(
+cos
+a
+l
+l2
+[
+cos
+a
+)
+(
+1
+0
+
+γ
+=
+β
+ρ
+σ
+=
+α
+ρ
+sin
+a
+sin
+     
+,
+sin
+a
+sin
+
+0
+ 
+ 
+      (23) 
+
+ 
+olarak ifade edilebilir. Genlik, faz fonksiyonları ve 
+ikinci türevlerinin semer noktasındaki değerleri, (21) 
+ifadesinde kullanılarak, 
+ 
+
+ 
+eşitlikleri yazılabilir. Faz fonksiyonunun birinci 
+türevinde (22) ve (23) kullanılırsa, 
+ 
+β
++
+α
+−
+=
+φ
+ψ
+sin
+a
+sin
+a
+)
+(
+'
+'
+ 
+ 
+ifadesi elde edilebilir. Bu ifadeden semer noktası 
+ 
+
+)
+cos
+1
+(
+a
+2
+jk
+2
+I
+
+α
+ζ
++
+π
+=
+
+01
+
++
+−
+      (25) 
+
+e
+)
+l
+l(
+cos
+a
+l
+l
+2
+)
+l
+l(
+cos
+a
+          
+
++
++
+α
++
++
+α
+×
+
+1
+0
+1
+0
+
+1
+0
+
+l
+l
+
+)
+l
+l(
+jk
+
+1
+0
+
+1
+0
+
+β
+=
+α
+=
+φ
+ψ
+
+sin
+sin
+   
+,0
+)
+(
+'
+'
+  
+ 
+      (24) 
+
+)
+cos
+1
+(
+a
+2
+jk
+2
+I
+
+02
+
+α
+ζ
++
+ζ
+π
+=
+
+ 
+
+β
+=
+α
+
+e
+)
+l
+l(
+cos
+a
+l
+l
+2
+)
+l
+l(
+cos
+a
+ 
+          
+
++
++
+α
++
++
+α
+×
+
+1
+0
+
++
+−
+
+)
+l
+l(
+jk
+
+1
+0
+
+ 
+
+1
+0
+1
+0
+
+l
+l
+
+1
+0
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+189 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+ifadeleri elde edilebilir. Yüzeyin diverjans katsayısı 
+ 
+ 
+
+)
+cos(
+)
+(
+D
+2
+8
+kI
+jZ
+e
+j
+
+r
+r
+
+α
++
+φ
+−
+φ
+α
+π
+−
+=
+π
+×
+∇
+ωµ
+−
+
+'
+0
+z
+m
+0
+
+)
+l
+l(
+cos
+a
+l
+l2
+)
+l
+l(
+cos
+a
+)
+(
+D
+1
+0
+1
+0
+
+1
+0
++
+α
++
++
+α
+=
+α
+ 
+
+e
+)
+cos
+1(
+2
+ 
+
++
+α
+ζ
++
+ζ
+×
+
+π
+−
++
+−
+
+4
+j
+)
+l
+l(
+jk
+
+)
+l
+l(
+k
+
+1
+0
+
+ (29) 
+
+e
+)
+cos
+1(
+2
+  
+
++
+α
+ζ
++
+ζ
+×
+
+π
+−
++
+−
+
+4
+j
+)
+l
+l(
+jk
+
+1
+0
+
+1
+0
+
+ 
+ 
+şeklinde tanımlanmaktadır. Netice olarak, yüzeye ait 
+elektrik 
+ve 
+magnetik 
+Hertz 
+vektörleri, 
+(25) 
+ifadelerinin (19) eşitliklerinde kullanılmasıyla, 
+ 
+ 
+
+)
+l
+l(
+k
+
+1
+0
+
+ 
+şeklinde bulunabilir. Netice olarak, (27) eşitliğinde 
+(28) ve (29) ifadelerinin kullanılmasıyla silindirik 
+yüzeyden yansıyan elektrik alan bileşeni, 
+ 
+
+)
+cos
+1
+(
+2
+)
+(
+2
+8
+0
+α
+ζ
+α
+π
+π
+π
++
+=
+D
+k
+k
+I
+jZ
+e z
+e
+r
+r
+ 
+
+)
+cos
+1(
+)]
+cos(
+1[
+)
+(
+D
+2
+4
+kI
+jZ
+e
+E
+
+r
+r
+
+'
+s
+0
+z
+FO
+
+α
+ζ
++
+α
++
+φ
+−
+φ
+ζ
+−
+α
+π
+=
+
+ (30) 
+
+)
+(
+    
+          
+1
+0
+
++
+×
+
+l
+l
+e
+j
+l
+l
+jk
+
+−
++
+−
+π
+ 
+
+4
+)
+1
+0
+(
+
+e
+ 
+
++
+×
+
+π
+−
++
+−
+
+4
+j
+)
+l
+l(
+jk
+
+1
+0
+
+)
+cos
+1
+(
+2
+)
+(
+2
+8
+α
+ζ
+ζ
+α
+π
+π
+π
+φ
++
+=
+D
+k
+k
+jI
+e
+m
+r
+r
+            (26) 
+
+ 
+olarak elde edilebilir. Son eşitlik 
+0
+=
+ζ
+ için, 
+ 
+
+)
+l
+l(
+k
+
+1
+0
+
+)
+(
+     
+          
+1
+0
+
++
+×
+
+l
+l
+e
+j
+l
+l
+jk
+
+−
++
+−
+π
+ 
+
+4
+)
+1
+0
+(
+
+π
+−
++
+−
+r
+r
+ 
+      (31) 
+
+4
+j
+)
+l
+l(
+jk
+0
+z
+FO
+
+ 
+olarak elde edilebilir. 
+ 
+ 
+5. SAÇILAN ALANLARIN ANALİZİ VE 
+NÜMERİK SONUÇLAR 
+ 
+ 
+Dielektrik kaplanmış silindirik yüzeyden yansıyan 
+elektrik alan bileşeni, 
+ 
+
+e
+)
+(
+D
+2
+4
+kI
+jZ
+e
+E
+
++
+α
+π
+=
+
+)
+l
+l(
+k
+
+1
+0
+
+ 
+şeklini almaktadır. (31) ifadesi ise, mükemmel 
+iletken silindirik bir yüzeyden yansıyan elektrik alan 
+bileşenidir (Uzgören, 1982). nr  yüzeyin normal 
+birim vektörü ile toplam elektrik ve magnetik alan 
+bileşenlerinin vektörel çarpımları 
+ 
+
+1
+0
+
+z
+S
+T
+E
+)]
+,
+(
+1[
+e
+E
+n
+'
+β
+α
+ℜ
+−
+−
+=
+×
+φ
+r
+r
+r
+ 
+
+r
+r
+r
+
+z
+0
+z
+S
+T
+E
+)]
+,
+(
+cos
+[cos
+Z
+1
+e
+H
+n
+'
+β
+α
+ℜ
+β
++
+α
+=
+×
+r
+r
+r
+ 
+
+j
+E
+
+m
+0
+e
+2
+m
+0
+e
+j
+k
+   
+
+π
+×
+∇
+ωµ
+−
+π
+×
+∇
+×
+∇
+=
+r
+r
+
+ 
+ 
+      (27) 
+
+ 
+şeklinde hesaplanabilir. İfadede görülen ilk terim 
+ 
+
+π
+×
+∇
+ωµ
+−
+π
+=
+
+ 
+olarak bulunabilir. Bu eşitlikler ve yüzey yansıma 
+katsayısı kullanılarak, (1) ile verilen FO yüzeysel 
+akım yoğunlukları aydınlatılmış bölge için 
+ 
+
+π
+−
++
+−
+r
+r
+(28) 
+
+4
+j
+)
+l
+l(
+jk
+0
+z
+e
+
+e
+)
+cos
+1(
+2
+)
+(
+D
+2
+8
+kI
+jZ
+e
+
+1
+0
+
++
+α
+ζ
++
+α
+π
+=
+π
+×
+∇
+×
+∇
+
+)
+l
+l(
+k
+
+1
+0
+
+S
+z
+z
+FO
+es
+E
+Z
+e
+J
+
+
+r
+r
+  
+    (32a) 
+
+
++
+=
+β
+ζ
+α
+cos
+1
+cos
+2
+1
+
+
+
+
+ 
+olarak bulunabilir. 
+ 
+
+ 
+
+0
+
+S
+z
+z
+FO
+es
+E
+Z
+e
+J
+
+
+r
+r
+  
+    (32b) 
+
+
++
+=
+β
+ζ
+α
+cos
+1
+cos
+2
+1
+
+
+
+
+
+ρ
+ρ
+∂
+∂
+−
+−
+ 
+
+
+
+
+
+
+e
+
+e
+)
+cos(
+jk
+l
+
+jkl
+1
+1
+>>
+ρ
+α
++
+φ
+−
+φ
+ρ
+−
+≅
+
+
+
+
+
+
+
+jkl
+'
+
+   
+1)
+(k
+   
+,
+l
+
+ 
+şeklinde bulunabilir. Çalışmada elde edilen (30) ve 
+(32) eşitliklerine ilişkin çizdirilen tüm eğriler, 
+yansıma 
+teoremi 
+uyarınca 
+β
+=
+α
+ 
+alınarak; 
+
+0
+
+0
+0
+kZ
+=
+ωµ
+ 
+ 
+olmak üzere, (27) ifadesinde ki ikinci terim ise,  
+ 
+
+1
+
+1
+
+(
+)]
+[
+1
+j
+e
+j
+m
+0
+z
+m
+0
+φ
+ρπ
+ρ
+∂
+∂
+ρ
+ωµ
+−
+=
+π
+×
+∇
+ωµ
+−
+r
+r
+ 
+
+20;
+k
+   
+;1
+a
+I
+l
+l
+   
+;
+120
+   Z
+;1
+E
+1
+0
+0
+z
+=
+=
+=
+=
+=
+π
+=
+=
+değerleri 
+için elde edilmiştir. 
+ 
+Şekil 2’de silindirik yüzeyden yansıyan elektrik alan 
+bileşeninin, normalize yüzey empedansının çeşitli 
+değerleri için α  ile değişimi verilmiştir. ζ ; 
+
+ 
+eşitliğinden, 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+190 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+kompleks olarak arttıkça yansıyan elektrik alan 
+bileşeninin 
+genliği 
+bozulmaya 
+uğramaktadır. 
+Özellikle,
+270
+ .
+90
+=
+α
+ değerlerinde süreksizlikler de 
+görülmektedir. 
+ 
+ 
+ 
+
+ 
+
+50
+
+0
+
+-50
+
+zeta=0.1j  (
+zeta=j       (
+zeta=10j   (
+
+-100
+
+100
+
+-200
+
+-150
+
+50
+
+Zeta=0   (Ohm)  
+Zeta=j     (Ohm)
+Zeta=10j (Ohm)  
+
+-250
+
+0
+
+-350
+
+-300
+
+-50
+
+0
+45
+90
+135
+180
+225
+270
+315
+360
+-400
+
+ 
+ 
+Şekil 4. Normalize magnetik FO yüzeysel akım 
+yoğunluğunun α  ile değişimi 
+ 
+ 
+6. TARTIŞMA VE SONUÇLARIN 
+DEĞERLENDİRİLMESİ 
+ 
+ 
+Bu çalışmada, eğrilik yarıçapı 
+)
+z,
+,
+(
+R
+'
+'
+' φ
+ρ
+ sabit, 
+yöresel bir empedans yüzeyinden saçılan alanlar FO 
+yaklaşımı kullanılarak hesaplanmıştır. Problemin 
+analizi için kullanılan FO integrallerinin hesabı ise 
+asimptotik olarak yapılmıştır. Çalışmada, kullanılan 
+yaklaşımla FO integralleri literatürden farklı olarak 
+değerlendirilmiştir. 
+Bu 
+değerlendirme, 
+FO 
+integrallerinin 
+'φ  katlarının hesabı yapılırken, saçıcı 
+yüzey üzerine gelen alanın yüzey normali ile yaptığı 
+açının, yüzeyden yansıyan alanın yüzey normali ile 
+yaptığı 
+açıdan 
+farklı 
+alınması 
+prensibine 
+dayanmaktadır 
+(Yalçın 
+2002). 
+Netice 
+olarak, 
+stasyoner 
+faz 
+yöntemi 
+uygulanırken 
+faz 
+fonksiyonunun birinci türevinin sıfıra eşitlenmesiyle, 
+bu açıların birbirine eşit olduğu (24) eşitliği ile 
+gösterilmiş 
+ve 
+hesaplanan 
+sonucun 
+yansıma 
+teoremini de doğruladığı görülmüştür.  
+ 
+Literatürde ise FO yaklaşımı uygulanırken bu açılar 
+birbirine eşit kabul edilmektedir (Şafak 1980; 
+Ishimaru, 1991; Stutzman and Thiele 1998). Bu 
+açılar birbirine eşit olarak kabul edildiğinde, elde 
+edilen asimptotik çözümler kenar kırınım problemi 
+için hatalı sonuç vermektedir. Böyle bir durumda bu 
+çalışmada önerilen yaklaşımın kullanılması daha 
+doğru olacaktır. 
+ 
+Literatürde, saçıcı bir yüzeyden saçılan alanların 
+hesabı için FO yaklaşımı kullanılarak yapılan en son 
+çalışmalardan biri, yöresel olmayan mükemmel 
+iletken bir yüzeyden saçılma probleminin asimptotik 
+olarak değerlendirilmesidir (Goto and Ishihara 
+2000). Bu çalışmada ise, dielektrik yöresel saçıcı bir 
+empedans yüzeyinden saçılan alanların hesabı FO 
+
+-100
+
+-150
+
+0
+45
+90
+135
+180
+225
+270
+315
+360
+-200
+
+ 
+Şekil 2. Silindirik yüzeyden yansıyan elektrik alan 
+bileşeninin α  ile değişimi 
+ 
+ 
+Şekil 3’de normalize elektriksel FO yüzey akımının, 
+normalize 
+yüzey 
+empedansının 
+çeşitli 
+kritik 
+değerleri için α  ile değişimi incelenmiştir. ζ ; 
+kompleks olarak arttıkça FO yüzey akımının genliği 
+de artmaktadır. Bununla birlikte, ζ ’nın artan 
+değerleri için 
+270
+ .
+90
+=
+α
+ değerleri için süreksizlikler 
+de görülmektedir. 
+ 
+ 
+ 
+
+0
+
+-50
+
+-100
+
+Zeta=0    (O
+Zeta=j     (O
+Zeta=10j (O
+
+-200
+
+-150
+
+-250
+
+-350
+
+-300
+
+-400
+
+0
+45
+90
+135
+180
+225
+270
+315
+360
+-450
+
+ 
+ 
+Şekil 3. Normalize elektrik FO yüzeysel akım 
+yoğunluğunun α  ile değişimi 
+ 
+Şekil 4’de normalize magnetiksel FO yüzey 
+akımının, normalize yüzey empedansının çeşitli 
+kritik değerleri için α  ile değişimi incelenmiştir. ζ ; 
+arttıkça FO yüzey akımının genliği de artmaktadır. 
+Fakat, ζ ’nın artan değerleri için 
+.270
+90
+=
+α
+ için 
+süreksizlikler görülmektedir. 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+191 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+yaklaşımı 
+kullanılarak 
+asimptotik 
+olarak 
+elde 
+edilmiştir. Yukarıda (30) eşitliği ile verilen silindirik 
+bir empedans yüzeyinden yansıyan elektrik alan 
+bileşeni, 
+0
+=
+ζ
+ mükemmel iletken özel hali için 
+değerlendirilmiş ve neticede elde edilen (31) 
+ifadesinin, mükemmel iletken silindirik bir yüzeyden 
+yansıyan elektrik alan bileşenine eşit olduğu 
+görülmüştür (Uzgören, 1982). Bu sonuç elde edilen 
+saçılan 
+alan 
+ifadesinin 
+doğruluğunu 
+da 
+kanıtlamaktadır. Sonuç olarak, literatürden farklı bir 
+değerlendirme ile yöresel saçıcı bir empedans 
+yüzeyinden (yüzeyin dielektrik olması hali için) 
+saçılan alanların hesabı FO yaklaşımı kullanılarak 
+asimptotik olarak elde edilmiştir.  
+ 
+ 
+7. SONUÇLAR 
+ 
+ 
+Bu çalışmada, sonlu kaynaklı elektromagnetik 
+dalgaların 
+dielektrik 
+kaplanmış 
+silindirik 
+bir 
+yüzeyden optik gibi saçılması Fiziksel Optik (FO) 
+yaklaşımı 
+ile 
+incelenmiştir. 
+FO 
+yaklaşımı 
+kullanılarak, yüzeye ait saçılma integrali elde 
+edilmiş 
+ve 
+bu 
+integral 
+asimptotik 
+olarak 
+değerlendirilmiştir. Yüzeyden yansıyan alanlar ile 
+yüzeye ait diverjans katsayısı hesaplanmıştır. Ayrıca 
+çalışmada elde edilen silindirik yüzeyden yansıyan 
+elektrik alan bileşeni, 
+0
+=
+ζ
+ mükemmel iletken hal 
+için değerlendirilmiş ve mükemmel iletken silindirik 
+bir yüzeyden yansıyan elektrik alan bileşeni ile aynı 
+olduğu da görülmüştür Neticede, çalışmada elde 
+edilen sonuçlar nümerik olarak değerlendirilmiş ve 
+normalize yüzey empedansının saçılan alanlara 
+etkileri incelenmiştir. 
+ 
+ 
+8. KAYNAKLAR 
+ 
+ 
+Akduman, İ., Büyükaksoy, A. 1995. Asymptotic 
+Expressions for the Surface Currents Induced on a 
+Cylindrically Curved Impedance Strip, Anten. & 
+Prop. IEEE Trans. on, 43 (5), 453-463. 
+ 
+Akduman, İ., Yapar, A. 2001. Surface Impedance 
+Determination of Planar Boundary by the Use of 
+Scattering Data, Anten. & Prop., IEEE Trans. on, 49 
+(2), 304-307. 
+ 
+Anastassiu, H. T., Kaklamani D. I., Economou D. P. 
+and Breinbjerg O. 2002. Electromagnetic Scattering 
+Analysis of Coated Conductors With Edges Using 
+the Method of Auxiliary Sources (MAS) in 
+Conjunction 
+With 
+the 
+Standard 
+Impedance 
+Boundary Condition (SIBC), Anten. & Prop., IEEE 
+Trans. on, 50 (1), 59-65. 
+
+Bayrakçı,H. E.1991. Lineer Sistemlerin Mühendislik 
+Matematiği, 336 s. Çağlayan Kitabevi., İstanbul. 
+ 
+Bayrakçı, H. E. 2001. Elektromagnetik Dalga 
+Teorisi, 413 s. Birsen Yayınevi, İstanbul. 
+ 
+Büyükaksoy, A., İdemen, M. 1990. Generalised 
+Boundary Conditions for a Material Sheet with Both 
+Sides Coated by a Dielectric Layer, Electronics 
+Letters, 26 (23), 1967-1969. 
+ 
+Goto, K., Ishihara T. 2000. A Uniform Physical 
+Optics Analysis of Scattered Electromagnetic Field 
+by the Edge of Concave Conducting Surface, 
+Electronics and Communications in Japan, Part 2. 83 
+(6), 32-42. 
+ 
+Harrington, 
+R. 
+F. 
+1961. 
+Time-Harmonic 
+Electromagnetic Fields, 480 s. McGraw-Hill Co., 
+Newyork. 
+ 
+Hoppe, D. J., Rahmat-Sami, Y. 1994. Higher Order 
+Impedance 
+Boundary 
+Conditions 
+Applied 
+to 
+Scattering by Coated Bodies of Revolution. Anten. 
+& Prop., IEEE Trans. on, 42 (12), 1600-1611. 
+ 
+Ishimaru, 
+A. 
+1991. 
+Electromagnetic 
+Wave 
+Propagation, Radiation and Scattering, 635 p. 
+Prentience Hall, New Jersey. 
+ 
+James, G. L. 1976. Geometrical Theory of 
+Diffraction for Electromagnetic Waves, 250 s. IEE 
+Peter Peregrinus Ltd., London. 
+ 
+Jenn, D. C. 1995. Radar and Laser Cross Section 
+Engineering, AIAA Education Series, Air Force 
+Institute of Technology Wright-Patterson Air Force 
+Base., Ohio. 
+ 
+Ling, R. T., Ufimtsev, P. Y. 2001. Scattering of 
+Electromagnetic Waves by a Metallic Object 
+Partially Immersed in a Semi-Infinite Dielectric 
+Medium, Anten. & Prop., IEEE Trans. on, 49 (2), 
+223-233. 
+ 
+Osipov, A. V., Kobayashi, H. ve Hongo K. 1998. 
+Shadow Boundary Currents in the Problem of High-
+Frequency Electromagnetic Diffraction by a Circular 
+Impedance Cylinder, IEICE Trans. on, E81-C (10), 
+1655-1666. 
+ 
+Safak, M. 1980. “High-Frequency Scattering from a 
+Focus-Fed Paraboloid”, METU Symposium Proc. p. 
+280-318. 
+ 
+Strifors, H. C., Gaunaurd, G. C. 2000. Scattering of 
+Electromagnetic Waves by a Perfectly Conducting 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+192 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+
+Dielektrik Kaplanmış Silindirik Bir Yüzeyden Saçılan Elektromagnetik Dalgaların Fiziksel Optik Yaklaşımıyla Asimptotik..., U. Yalçın 
+ 
+
+Yalçın, U. 2002. “İçbükey İletken Bir Yüzeyin 
+Kenarından Kırınan Elektromagnetik Dalgaların 
+Fiziksel Optik Yaklaşımıyla Asimptotik Hesabı”, 
+URSI-TÜRKİYE’2002 
+Union 
+Radio 
+Science 
+International Birinci Ulusal Kongresi, İstanbul. 
+ 
+Yalçın, U. 2002. “Silindirik Bir Reflektörün 
+Kenarından Kırınan Alana Ait Düzeltme Faktörü 
+İçin Yaklaşım Analizleri”, ELECO’2002 Elektrik, 
+Elektronik-Bilgisayar Mühendisliği Sempozyumu, 
+TÜBİTAK, Bursa, Türkiye. 
+ 
+
+Cylinder with a Thin Lossy Magnetic Coating, 
+Anten. & Prp., IEEE Trans. on, 48 (10), 1528-1532. 
+Stutzman, W. L., Thiele, G. A. 1998. Antenna 
+Theory and Design, 548 s. John Wiley & Sons., Inc., 
+Newyork. 
+ 
+Uzgören, G. 1982. Bir Çizgisel Kaynağın Yarattığı 
+Dalgaların Bir Silindirik Reflektörden Saçılması, 
+Doktora Tezi, 67 s., İTÜ, İstanbul. 
+ 
+Uzgören, G., Büyükaksoy, A. 1999. Kırınım 
+Problemleri, 258 s. GYTE Yayınları, No: 4, Gebze. 
+
+ 
+ 
+ 
+
+Mühendislik Bilimleri Dergisi  2004 10 (2)  185-193 
+193 
+Journal of Engineering Sciences 2004  10 (2) 185-193
+ 
+

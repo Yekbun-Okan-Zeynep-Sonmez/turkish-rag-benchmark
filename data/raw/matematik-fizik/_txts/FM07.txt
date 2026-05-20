@@ -1,0 +1,1399 @@
+Süleyman Demirel University Faculty of Arts and Sciences Journal of Science 
+
+Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi 
+
+2019, 14(2): 256–268 
+
+DOI: 10.29233/sdufeffd.568179 
+
+ 
+
+Atıf için / For Citation: Z. ÖZKAN, R. UYHAN, “Sawada-Kotera Denkleminin Nümerik 
+Yöntemlerle Çözümü Ve Çözümlerin Karşılaştırılması”, Süleyman Demirel Üniversitesi 
+Fen Edebiyat Fakültesi Fen Dergisi, 14(2), 256–268, 2019. 
+
+ 
+
+ 
+
+Sawada-Kotera Denkleminin Nümerik Yöntemlerle Çözümü ve Çözümlerin 
+
+ 
+Zekeriya ÖZKAN*1, Ramazan UYHAN*2 
+ 
+
+Karşılaştırılması 
+
+1Cumhuriyet Üniversitesi, Gürün MYO, Bilgisayar Programcılığı Bölümü, 58800, Gürün/Sivas 
+
+2 Süleyman Demirel Üniversitesi, Fen-Edebiyat Fakültesi, Matematik Bölümü, 32260, Isparta 
+
+ 
+*yazışılan yazar e-posta: zekeriyaozkan@cumhuriyet.edu.tr 
+ 
+(Alınış / Received: 20.05.2019, Kabul / Accepted: 02.09.2019, Yayımlanma / Published: 30.11.2019) 
+ 
+Özet: Hesaplama biliminde bilgisayarın etkili ve verimli kullanılması ile beraber kısmi türevli 
+diferansiyel denklemleri çözebilmek için kaynaklarda çok çeşitli metotlar sunulmuştur. Bu 
+metotların bazıları analitik metot çözümü bulurken bazıları algoritma tabanlı yaklaşık çözümü 
+bulan metotlardır. Bu çalışmada, Sawada-Kotera denklemi çizgiler metodu ve radyal baz 
+fonksiyonları yardımı ile ağsız çizgiler metodu kullanılarak çözülmüştür. Elde edilen sonuçlar 
+üzerinden de bu iki metot karşılaştırılmıştır.  
+ 
+Anahtar kelimeler: Çizgiler Metodu, Ağsız Yöntemler, Radyal Baz Fonksiyonları  
+
+ 
+Solution of Sawada-Kotera Equation with Numerical Methods and Comparison of 
+
+Solutions  
+ 
+Abstract: Effective and fruitful use of computers in computing science, along with part of the 
+literature, many techniques to obtain the solution of differantial equations is presented. Some of 
+these methods, while achieving analytical technique and some of them algorithm based solution 
+techniques that approximate the solution.   In this study, Sawada-Kotera equation is solved 
+using the method of lines and meshless method of lines using radial basis functions. These two 
+methods are compared on the obtained results.  
+ 
+Key words: Method of Lines, Meshless Method, Radial Basis Functions  
+ 
+1. Giriş 
+ 
+Kısmi diferansiyel denklemler, genelde tabiatın temel kurallarının formülleştirilmesinde 
+ve matematiğin uygulamalı dalı, fiziğin matematiksel dalı ve mühendislik bilimi 
+çözgülerinin matematiksel çözümlemesinde karşımıza gelmektedir. Çoğu zaman bu 
+denklemlerin analitik metotlarla çözümü zor hatta mümkün olmamaktadır. Bundan 
+dolayı böyle denklemlerin sayısal olarak çözümlerinin bulunması gerekebilir [1]. Kısmi 
+türevli diferansiyel denklemlerin çözümleri için analitik ve sayısal olarak birçok metot 
+tanıtılmıştır. Genellikle bu tür denklemlerin sayısal çözümleri gerekmektedir, bunun 
+sebebi sayısal çözümler bilgisayar ile uyumluluğu daha iyi olup, farklı algoritmalarla 
+istenilen sonuçlara daha kolay ulaşılabilmektedir [2]. Doğrusal olmayan kısmi türevli 
+diferansiyel denklemlerin çözümü için sayısal metotların çalışılması son yıllarda hem 
+teori hem de pratik açısından sıklıkla yapılmıştır. Bilgisayar teknolojisindeki hızlı 
+değişmeyle birlikte sayısal metotlardaki ilerlemeler, mühendislik ve başka bilimsel 
+alanlardaki uygulamalarda karşımıza çıkan ve önceleri çözümünde zorlanılan kısmi 
+
+ 
+Zekeriya ÖZKAN, zekeriyaozkan@cumhuriyet.edu.tr, ORCID: https://orcid.org/0000-0002-6543-8527 
+Ramazan UYHAN, ramazanuyhan@sdu.edu.tr, ORCID: https://orcid.org/0000-0001-5517-0363 
+ 
+
+türevli diferansiyel denklemlerin büyük bir kısmının şimdilerde çözülebilecek hale 
+gelmesi demektir [3].  
+ 
+2.  Nümerik Yöntemler 
+ 
+2.1 Nümerik Yöntemlerin Genel Özellikleri 
+ 
+Değişik kısmi türevli diferansiyel denklemlerin çözümünü bulmak için sonlu farklar 
+metodu, sonlu elemanlar metodu, sonlu hacim metodu ve sınır eleman metodu gibi 
+sayısal metotlar kullanılmıştır. Bu metotlar alanı örgü (ağ), ızgara ya da aralarında sabit 
+iletişim sağlayan noktaların cümlesine ayrıştırır.  Örgü yapısında kullanılan birimlerin 
+isimleri önemsizdir. Bu yapıların çözüm aşamasına geçilmeden tanımlanıyor olması 
+önem arz etmektedir. Bu sayede ögelerin (elemanların) veya ızgaraların kesişme 
+noktaları olan düğümler arasında ilişki kurularak uygulanacak olan nümerik metodun 
+formülleştirilmesi gerçekleştirilmektedir. Sonlu farklar metodu, genelde standart 
+(kartezyen) koordinatlarda bölgenin muntazam dikdörtgenlere ayrıklaştırılmasıyla 
+bulunan noktalar üzerinde Taylor seri açılımı kullanılarak fark denklemlerinin ifade 
+edilmesini temel alır. Uygulaması oldukça kolay olmasına rağmen özellikle muntazam 
+olmayan bölgelerin ayrıklaştırılması, bölgenin ve problemin fiziksel şartlarının ifade 
+edilmesi açısından sonlu elemanlar metodu kadar etkili değildir. Sonlu elemanlar 
+metodu ve sonlu hacim metodu kompleks geometriyle mücadelede daha esnek olup üç 
+boyutlu problemlerde uygun ağın elde edilmesi, ilgili verilerin yapısı ve bilgisayar 
+programlarının yazılması zorlayıcıdır [4]. Günümüzde mevcut geliştirilebilmiş hali ile 
+sonlu elemanlar metodu, sonlu farklar metodu, sonlu hacim metodu gibi ağ tabanlı 
+metotlar yardımıyla durgun, hareketli, doğrusal ve doğrusal olmayan pek çok problemin 
+çözümü bulunabilmektedir. Bu problemlerin çözümünde ulaşılmak edilmek istenen 
+çözümün ekonomikliği ve doğruluğunu önemli ölçüde etkileyen dört kıstas aşağıda 
+sıralı şekilde verilmiştir [5]: 
+ 
+1) Çözümlemelerde genellikle zamanın çoğu uygun bir örgü yapısının oluşturulmasına 
+harcanmaktadır. Örgü yapısı çözümleme zamanını ve duyarlılığını önemli ölçüde 
+etkilemektedir. Günümüzde nümerik metotlarla ilgili araştırma noktalarından bir tanesi 
+bu sürecin olabildiğince kısaltılması ve çözümleme duyarlılığının arttırılmasıdır. Bu da 
+insan emeğinin azalması ve bilgisayar kullanımının çoğalması anlamına gelmektedir. 
+2) Büyük şekil değişimleri ile karşılaşıldığında elemanların çarpılmasından dolayı 
+hesaplanan değerlerin doğruluğu önemli ölçüde düşmektedir. 
+3) Herhangi bir geometri ya da kompleks bir geometri için çatlak büyümesi probleminin 
+modelleme 
+çalışması 
+ve 
+faz 
+transformasyonun 
+uygulanmasında 
+oldukça 
+zorlanılmaktadır.   
+4) Sonlu elemanlar metodu sürekli ortam mekaniğini kullandığından, malzeme 
+kırılmasından doğan süreksizliklerde ögeler arasındaki bağların kopması sebebi ile 
+sıkıntılar ortaya çıkabilmektedir. 
+ 
+Dört tanesi belirtilen hataların ve yetersizliklerin asgari düzeye düşürülmesi için çözüm 
+aşamasında ortaya çıkabilen süreksizlik bölgelerinde birbirleriyle ilişkisini kaybeden 
+ögelerin ilişki kurmasını sağlamak amacıyla örgü yapısının yeniden düzenlenmesi 
+gerekmektedir. Ayrıca çözüm aşamasında bağımlı değişkende dönüşüm yapma ihtiyacı 
+gerekmektedir. Bu durum işlem duyarlılığında olumsuz etkilere sebep olur. Bu yüzden 
+çözüm aşamasında daha esnek ve süreksizliğin söz konusu olduğu problemlerde yeni bir 
+örgü yapısının oluşturulmasını gerektirmeyen metotların geliştirilmesi ihtiyacı hasıl 
+olmuştur. Bu sebeple önerilmiş olan ağsız metotlarda bu ihtiyaçların çoğu karşılanabilir 
+
+257 
+
+ 
+
+durumdadır. Örgüsüz metotlarda geometrinin modellenmesi rastgele dağılmış 
+düğümlerle gerçekleştiriliyor olduğundan bu düğümler arasında herhangi bir bağlantının 
+kurulmasına ve dolayısıyla çözüm aşamasında yeni bir örgü yapısının oluşturulması 
+gerekmez [6,22]. 
+ 
+2.2 Çizgiler Metodu 
+ 
+Kısmi türevli diferansiyel denklemleri çözmede sıkça kullanılan çizgiler metodu (MOL) 
+başka bir yöntemdir. Bu metot, kısmi türevli diferansiyel denklemlerin önemli 
+bölümünün (eliptik, parabolik ve hiperbolik, doğrusal ve doğrusal olmayan, bir, iki ve 
+üç boyutlu gibi) neredeyse tamamına uygulanabilir. Metot ilk önce Alman matematik 
+insanı Erich Rothe tarafından 1930'da parabolik tipteki denklemlerde uygulanmıştır 
+[7,21]. Sonraları fizik bilimindeki sınır değer problemlerini çözmede kullanmak için 
+matematikçiler tarafından geliştirilmiştir [8,23]. Doğruluk ve bilgisayar maliyeti 
+açısından, sonlu farklar metodundan daha etkili olan çizgiler tekniği, sonlu farklar 
+tekniğinin daha özel halidir.  Bu yöntemde bağımsız değişken   pozisyon (konum) 
+değişkenine göre ayrıklaştırıldığında   zaman değişkeni;   zaman değişkenine göre 
+ayrıklaştırılma yapıldığında ise   pozisyon değişkeni tek olarak bırakılır. Örnek olarak; 
+Meyer yaptığı çalışmalarda genellikle zamanı ayrıklaştırılarak problemi sınır değer 
+problemine indirgemiştir [9,24]. Bu çalışmada,   ayrıklaştırıldıktan sonra problem 
+başlangıç değer problemine indirgendi.  Ayrıca bilgisayar programlamları yazmada 
+ortaya çıkan zorluk, klasik adi türevli diferansiyel denklem çözme programı yardımıyla 
+düşürülebilir.  
+ 
+2.3 Ağsız Yöntemler 
+ 
+Ağ tabanlı metotlarda ortaya çıkan zorluklar, araştırmacıları geleneksel ızgara tabanlı 
+sayısal metotlara alternatif metotlar aramaya itti.  Böylece ağsız metotların yeni dalı 
+ortaya çıktı ve ilk ağsız metot Yumuşatılmış Parçacık Hidrodinamiği 1977'de Gingold 
+ve Monoghan tarafından uzay fiziği problemlerinin benzetimi için tanıtıldı [10,25]. 
+Kısmi türevli diferansiyel denklemlerin sayısal çözümünde örgüsüz metotların (MM) 
+özellikle geride kalan 20 yılda cazibesi arttı ve önemli bir gelişim gösterdi. Ağsız 
+metotların (MM) en önemli özelliği ağ ihtiyacı olmaksızın dağılmış düğüm ya da parça 
+kullanarak mümkün olabilen sınır koşulların bütün türleri ile integral denklemleri ya da 
+kısmi türevli diferansiyel denklemler için stabil sayısal çözüm sağlamasıdır. Ağsız 
+metotlarda çözüm bölgesini modellemek ve çözüm aşamasına geçilebilmek için 
+modelleme sırasında düğümler kullanılırken düğümler arasında sonlu elemanlar metodu 
+ile karşılaştırıldığında herhangi bir bağın oluşturulmasına gereksinim kalmamaktadır. 
+Bu özellik ağsız metotlar için ortaktır. Metotların ağsız olarak adlandırılmasının nedeni 
+de budur. Şimdiye kadar geliştirilen ağsız metotların büyük bir kısmı, çok boyutlu 
+kompleks alan içeren kısmi türevli diferansiyel denklemlerin sayısal çözümü için radyal 
+baz fonksiyonları yardımıyla kollokasyon ağsız metoduna dayanır. Bu çalışmada 
+çizgiler metoduna ve radyal baz fonksiyonları kullanılarak ağsız çizgiler metoduna 
+kısaca değinilerek bazı özel denklemler kullanılarak bu iki yöntem arasında 
+kıyaslamalar yapıldı. Bu kıyaslamalar çerçevesinde problemlerin çözümüne dair 
+yorumlarda bulunuldu.  
+ 
+2.4 Radyal Baz Fonksiyonları (RBF) 
+ 
+Radyal baz fonksiyonları (RBF), sayısal çözümlemede ve istatistikte geniş kullanım 
+alanına sahiptir ve halihazırda matematikçiler için faal bir çalışma alanıdır. Radyal baz 
+
+258 
+
+ 
+
+fonksiyonları değerleri orijine olan uzaklığına dayanan çoğunlukla çok değişkenli 
+fonksiyonlardır. Öyle ki;  ( )   ( )   ,      ve     dir. Alternatif şekilde 
+{  } cümlesinde verilen noktaların mesafesine dayanır ve   (    )   (  )    dir. 
+ ( )   (‖ ‖ ) koşulunu sağlayan herhangi bir   fonksiyonu radyal fonksiyondur. 
+   ‖    ‖  normu genellikle Öklid normudur [11,26]. Burada bahsedilen radyal baz 
+fonksiyonların hepsinin tanımında   parametresi bulunur. Bu   parametresi şekil 
+değişkeni olarak isimlendirilir.  Bu parametrenin radyal baz fonksiyonlarının sayısal 
+metotlara uygulanmada kullanıldığında çözümde oldukça önemli bir etkisi vardır. 
+Bundan dolayı   şekil değişkeninin en uygun değerinin kullanılması oldukça önemlidir. 
+Bu şekil değişkeninin belirlenmesi hala çalışılan ve hala çözülemeyen bir problemdir 
+[12,27]. Radyal baz fonksiyonları, çok değişkenli fonksiyonlara tek değişkenli 
+fonksiyonların doğrusal bileşeni ile yaklaşmada kullanılan için bir araçtır. Bu tip 
+yaklaşımlarda esas fayda şudur; hiçbir şekilde örgü gerektirmez ve yüksek boyutlular 
+için keyfi geometri ile çalışır. Çok kullanılan radyal baz fonksiyonları aşağıdaki 
+çizelgede sunulmuştur.  
+ 
+
+Çizelge 1. Çok kullanılan radyal baz fonksiyonları 
+Radyal Baz Fonksiyonlar 
+ ( ) 
+Çoklu kuadrik (MQ) 
+(     )    
+Ters çoklu kuadrik (IMQ) 
+  (     )     
+Gauss merkezcil (GA) 
+       
+ 
+2.5. Yüksek Mertebeden Adi Türevli Diferansiyel Denklemini Birinci Mertebeden Adi 
+Türevli Diferansiyel Denklem Sistemine İndirgeme 
+ 
+ . mertebeden adi türevli diferansiyel denklemi   adet birinci mertebeden adi türevli 
+diferansiyel denklemden meydana gelen bir sistem haline getirmek mümkündür.  
+ 
+
+ ( )   (            (   ))                                                    ( ) 
+ 
+şeklinde    mertebeden adi türevli diferansiyel denklemi verilsin. (1) denklemini adi 
+türevli diferansiyel denklem sistemi haline getirmek için 
+ 
+
+    
+     
+
+  
+ 
+
+    
+
+     
+ 
+ 
+ 
+        
+
+     
+
+{
+  
+ 
+
+                                                              ( ) 
+
+ 
+ 
+olarak   tane değişken gerekir. Bunu yaparken en yüksek mertebeden türev dışında, 
+yeni değişken olarak bilinmeyen fonksiyonlar ve türevleri tanımlanır. (1) denkleminde 
+bu yeni değişkenler yerine yazıldığında    
+ 
+
+ 
+  (   )
+
+ ( )   (             ) 
+(3) 
+ 
+şeklinde yeni tanımlanan   adet parametreye bağlı birinci mertebeden bir adi türevli 
+diferansiyel denklem sistemine ulaşılır. Bu denklem ile              ’den oluşan grup  
+
+259 
+
+ 
+
+ 
+
+  
+ 
+  
+
+    
+  
+
+    
+  
+
+    
+
+ 
+ 
+ 
+  
+
+ 
+(4) 
+
+{
+  
+ 
+
+   (             )
+
+ 
+şeklinde birinci mertebeden adi türevli diferansiyel denklem sistemini meydana getirir. 
+  
+3. Kullanılan Yöntemler 
+ 
+3.1. Çizgiler Yöntemi (MOL) 
+ 
+Çizgiler yöntemi, bağımsız değişken   konum değişkeni veya   zaman değişkenine 
+bağlı kısmi türevli diferansiyel denklemlerin yerine uygun sonlu fark denklemlerinin 
+yazılması sonucu oluşan adi türevli diferansiyel denklem sisteminin çözülmesiyle 
+sonuca gidilen nümerik çözüm tekniğidir. Bu çalışmada, evolution denklemleri 
+incelenecektir. Evolution denklemlerini temsil etmesi bakımından aşağıdaki (5) 
+denklemi dikkate alınarak çizgiler metodu (MOL) açıklanacaktır [13]: 
+ 
+
+  
+
+       
+
+    
+(5) 
+
+ 
+Burada  ,   ve  'ye bağlı bağımlı değişken,   zamanı temsil eden bağımsız değişken,   
+pozisyonu temsil eden bağımsız değişken ve   parametresi sabit sayıdır. 
+
+   ,  'nun  ’ye 
+göre kısmi türevini göstermektedir. (5) denklemi   değişkenine göre birinci 
+mertebedendir, çünkü   değişkenine göre en yüksek mertebeden kısmi türev birinci 
+mertebedendir. Benzer şekilde, (5) denklemi   değişkenine göre ikinci mertebedendir, 
+çünkü   değişkenine göre en yüksek mertebeden kısmi türev ikinci mertebedendir. (5) 
+denkleminin çözümüne geçmeden önce kısmi türevli diferansiyel denklem probleminin 
+ifadesini tamamlamak için bazı ilave koşulların tanımlanması gerekir. İlave yardımcı 
+koşulların sayısı her bir bağımsız değişkenin türev mertebesine göre belirlenir. (5) 
+denklemi   değişkenine göre birinci mertebeden olduğu için bir tane koşul,   
+değişkenine göre ikinci mertebeden olduğu için iki tane koşul gereklidir.  , başlangıç 
+değer değişkeni olarak isimlendirilir ve bir tane başlangıç koşulu gereklidir.   ise sınır 
+değer değişkeni olarak isimlendirilir ve iki tane sınır koşul gereklidir.  Başlangıç değer 
+koşulu 
+ 
+
+  
+
+ (      )    ( )            
+(6) 
+ 
+şeklinde ve sınır değer koşulu 
+ 
+
+{ (      )    ( ) 
+
+ (      )    ( )          
+   (7) 
+
+ 
+şeklinde tanımlansın. (5), (6) ve (7) denklemleri birlikte kısmi türevli diferansiyel 
+denklem problemini teşkil ederler. Bu problemin çizgiler metoduyla çözümü aşağıdaki 
+şekilde açıklanır: 
+
+260 
+
+ 
+
+        aralığında                         olacak şekilde   tane 
+düğüm olsun.    ve    sınır düğümler,              iç düğümlerdir. Çizgiler 
+metodunun temel düşüncesi, kısmi türevli diferansiyel denklemlerdeki pozisyon 
+türevlerine sonlu fark eşitlikleri ile yaklaşabilmektir. Bunu yaptığımızda pozisyon 
+türevleri artık pozisyon bağımsız değişkeni ile ifade edilemez. Böylece sadece zaman 
+bağımsız değişkeni kalır. Bir başka deyişle, asıl kısmi türevli diferansiyel denkleme adi 
+türevli diferansiyel denklem sistemi yardımıyla yaklaşılır. Burada yaşanabilecek asıl 
+sıkıntı kısmi türevli diferansiyel denklemi adi türevli diferansiyel denklem sistemi ile 
+açıklamaktır. Bu yapıldıktan sonra kısmi türevli diferansiyel denklemin sayısal 
+çözümünü bulmak için başlangıç değer adi türevli diferansiyel denklem sistemine 
+herhangi bir integrasyon algoritması uygulanabilir. Bu şekilde çizgiler metodunun en 
+belirgin özelliklerinden biri adi türevli diferansiyel denklem sistemi için var olan, iyi 
+tanımlı sayısal metotların kullanılmasıdır. Bu prosedürü yansıtırken öncelikle (5) 
+denklemindeki     pozisyon türevi yerine cebirsel yaklaşımını girmek gerekir. Bu 
+durumda 
+ 
+
+                 
+
+(  ) 
+ 
+ (8) 
+
+ 
+sonlu fark eşitliği kullanılacaktır. Burada  , ızgara üzerinde  ’in pozisyonunu anlatan 
+indeks,     ise ızgara üzerinde   ekseni boyunca düğümler arası uzaklıktır. O zaman, 
+(5) denkleminin çizgiler metodu yaklaşımı  
+ 
+
+   
+
+                 
+
+(  ) 
+       
+  (9) 
+
+ 
+şeklindedir. (9) denklemi adi türevli diferansiyel denklem sistemidir çünkü sadece bir 
+tane bağımsız   değişkenini içerir. (5) kısmi türevli diferansiyel denkleminin, (9) adi 
+türevli diferansiyel denklem sistemine dönüştürülmesi çizgiler metodunun esasıdır. 
+Daha sonra kısmi türevli diferansiyel denklemin çözümünü bulmak için adi türevli 
+diferansiyel denklem sisteminin çözümünü bulmak gerekir.  (9) denklem sisteminde 
+  tane başlangıç koşulu gereklidir çünkü   tane adi türevli diferansiyel denklem içerir. 
+Bu koşullar, ayrıklaştırmadan sonra (6) denkleminden  
+ 
+
+ (       )    ( )    (  )       
+(10) 
+ 
+şeklinde bulunur. Aynı zamanda sınır koşulları  
+ 
+
+  ( )    ( )   ( )    ( ) 
+(11) 
+ 
+şeklinde bulunur. (9), (10) ve (11) denklemleri, verilen kısmi türevli diferansiyel 
+denklemin çizgiler yaklaşımı olarak bulunur. Bu adi türevli diferansiyel denklem 
+sistemi uygun bir metotla çözülerek elde edilen adi türevli diferansiyel denklem 
+sisteminin çözümü  
+ 
+
+  ( )   ( )     ( ) 
+(12) 
+ 
+şeklindedir ki, bu fonksiyonlar           ızgara noktalarında   (   )'ye yaklaşır 
+[14]. Başlangıçta ele alınan kısmi türevli diferansiyel denklem eğer bir başlangıç-değer 
+problemi ise sonuçta oluşan adi türevli diferansiyel denklem sistemi de bir başlangıç 
+
+261 
+
+ 
+
+değer problemidir. Eğer problem bir sınır değer problemi ise sonuçta oluşan adi türevli 
+diferansiyel denklem sistemi de sınır değer problemidir [15]. 
+  
+3.2. Ağsız Metotlar 
+ 
+Ağsız metot (MM), tanımlanan alanda ağ kurulmadan sistemin algoritmik denklemlerini 
+kurmaya çalışan bir metod olarak tanımlanabilir. Ağsız metotlar problem bölgesinde 
+tanımlı düğüm noktalarını kullanarak sınır şartlarını uygulayıp problemi çözer. 
+Dağılmış düğümlere alan düğümleri denir ve aralarında ağ oluşturmazlar [16].    Sonlu 
+elemanlar metodunda olduğu gibi uygun olan ara değer bulma (interpolasyon) veya 
+yaklaşık çözümü bulmak için önceden ağ tanımlanması gerekmemektedir. Standart 
+koordinatlarda  (   ) fonksiyonu için ağsız yaklaşım  
+ 
+
+  (   )   (   )  ∑  ( )  ( )
+
+ 
+(13) 
+
+ 
+şeklinde tanımlanır. Burada        şekil fonksiyonları,   'lar    parçasında    
+pozisyonundaki düğüm değerleri,   ise   ( )    olmak üzere   parçasındaki 
+düğümlerin cümlesidir. (13) formu sonlu elemanlar yaklaşımına benzemekle birlikte, 
+    (  ) olduğu için (13) denklemindeki şekil fonksiyonları sonlu elemanlar 
+metodunun aksine sadece yaklaşım olup ara değer bulma değildir [17].  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   
+
+Şekil 1. Ağsız yöntemler kullanılarak alanı ayrıklaştırma 
+  
+3.3. Radyal Baz Fonksiyonları Yardımıyla Ağsız Çizgiler Metodu (MMOL-RBF) 
+ 
+Radyal baz fonksiyonları yardımıyla ağsız çizgiler metodunu (1+1) boyutlu kısmi 
+türevli diferansiyel denklemler için nasıl uygulanacağından bahsedilmiştir. 
+ 
+3.3.1. Birinci mertebeden (1+1) boyutlu kısmi türevli diferansiyel denklemler için 
+MMOL-RBF 
+ 
+Birinci mertebeden (1+1) boyutlu kısmi türevli diferansiyel denklemlere radyal baz 
+fonksiyonları yardımıyla ağsız çizgiler metodunu (MMOL-RBF) uygulamak için 
+   (   ) ve   pozisyon türev operatörü olmak üzere  
+ 
+
+  
+
+    ( )            
+(14) 
+
+ 
+ 
+formundaki kısmi türevli diferansiyel denklemleri ele alalım. Şimdi varsayalım ki; 
+           düğümleri     problem alanındaki merkezin cümlesinde seçilen 
+düğümler olsun. Zaman bağımlı kısmi türevli diferansiyel denklemler için radyal baz 
+
+262 
+
+ 
+
+fonksiyonları yardımıyla ağsız çizgiler metodunda sunulan fikirler aşağıdadır [18].  
+  (   ) yaklaşık çözümü 
+ 
+
+ 
+
+  (   )  ∑  ( ) (‖    ‖)
+
+ 
+ (15) 
+
+   
+
+ 
+olarak verilebilir. Burada   bazı radyal baz fonksiyonları,   ’ler merkezdeki düğümler 
+ve    ( )           belirlenecek olan bilinmeyen katsayılardır. Benzeri olarakta 
+pozisyon türev operatörü için yaklaşık çözüm  
+ 
+
+ 
+
+ (  (   ))  ∑  ( ) ( (‖    ‖))
+
+ 
+(16) 
+
+ 
+ 
+olarak yazılabilir. (15) ve (16) denklemlerindeki yaklaşımlar matris formunda  
+ 
+
+   
+
+{      
+
+ (  )     
+(17) 
+
+ 
+olarak yazılabilir. Burada  
+ 
+
+   [  ( )   ( )     ( )]  
+(18) 
+ 
+ 
+
+ (  )  [ (  ( ))  (  ( ))    (  ( ))]  
+(19) 
+
+ 
+ 
+  [  ( )   ( )     ( )]  
+(20) 
+ 
+ 
+şeklinde sütun matrisleri, A ise       (‖     ‖)           şeklinde ögeleri olan 
+matris ve B ise        (‖     ‖)               şeklinde ögeleri olan simetrik 
+
+olmayan matristir. (17)  denklemleri kullanılarak  
+ 
+
+ (  )      
+(21) 
+ 
+olarak yazılabilir. Burada        ’dir. Radyal baz fonksiyonları yardımıyla konum 
+değişkenine göre ayrıklaştırıldıktan sonra, (14) kısmi türevli diferansiyel denklemi  
+ 
+ 
+
+   
+
+                  
+(22) 
+
+ 
+ 
+ile verilen adi türevli diferansiyel denklem sistemi bulunur. (22) denklem sistemi uygun 
+bir adi türevli diferansiyel denklem çözme metoduyla çözülür.   
+ 
+4. Uygulamalar 
+ 
+Bu bölümde Sawada-Kotera denkleminin çizgiler yöntemi ve çoklu kuadrik (MQ), ters 
+çoklu kuadrik (IMQ) ve gauss merkezcil (GA) radyal baz fonksiyonları yardımıyla 
+
+263 
+
+ 
+
+örgüsüz çizgiler metodu ile çözümleri elde edilip, nümerik değerleri çizelgeler halinde 
+verilmiştir. Ayrıca metodun performansını değerlendirmek için aşağıdaki hata normları 
+kullanılmıştır: 
+                
+
+ 
+
+   ‖    ‖   √ ∑(  
+
+    ) 
+
+         
+
+   
+
+                 
+
+   ‖    ‖      
+
+     |  
+
+    |    
+
+ 
+Burada   analitik çözümü,    nümerik çözümü temsil eder. Konumda ve zamanda 
+noktasal yakınsaklık oranlarını hesaplamak için aşağıdaki formüller kullanılmıştır:  
+                 
+
+   (‖             ‖ ‖               ‖)
+
+   (       )
+ 
+
+                          
+
+   (‖             ‖ ‖               ‖)
+
+   (       )
+ 
+
+    
+Burada           analitik çözümü    ve     ise sırasıyla    ve    adımları ile nümerik 
+çözümü temsil eder. 
+ 
+4.1. Sawada-Kotera Denklemi  
+ 
+
+                                
+(23) 
+
+ 
+ 
+denklemi ile Sawada-Kotera denklemini ele alalım.  Burada       sıfırdan farklı keyfi 
+sabitler ve   (   ) yeterince türevlenebilen fonksiyondur.             ve 
+        ,      ,      alarak denklemi klasik çizgiler yöntemini ve radyal 
+baz fonksiyonları yardımıyla örgüsüz çizgiler metodunun kullanarak çözelim. 
+Denklemin analitik çözümü 
+ 
+
+ (   )          ( (          )) 
+(24) 
+
+ 
+şeklindedir [19]. Burada k ve x0 keyfi parametrelerdir. Bu çalışmada             
+olarak alınmıştır. Başlagınç şartı ise denklem (24)’den elde edilir. 
+ 
+4.1.1. Çizgiler Yöntemi ile Çözüm 
+ 
+Burada (23) denkleminin   değişkenini verilen aralıkta   parçaya ayıralım.  
+ 
+
+        (         ) 
+ 
+olup burada   
+
+ 
+ ile hesaplanır. (23) denkleminde   ,    ,      ve        
+ifadelerinin yerine sonlu fark yaklaşımlarını yazarsak  
+
+   (   )
+
+264 
+
+ 
+
+    
+
+    (  ) 
+          
+(25) 
+
+ 
+ 
+şeklinde  ’ye bağlı bir adi türevli diferansiyel denklem sistemi oluşur. Oluşan adi türevli 
+diferansiyel denklem sistemi MATLAB paket program aracılığıyla Runge-Kutta 
+yöntemi kullanılarak çözülmüştür [14]. Elde edilen sonuçlar analitik çözümle    ve 
+   hata normlarına göre kıyaslanarak Çizelge 2, Çizelge 3 ve Çizelge 4’te verilmiştir. 
+  
+4.1.2. Radyal Baz Fonksiyonları Yardımıyla Örgüsüz Çizgiler Yöntemi ile Çözüm 
+ 
+Bu denklemin radyal baz fonksiyonları yardımıyla örgüsüz çizgiler metodu ile çözümü 
+şu şekildedir: öncelikle [      ] problem alanında   değerine göre düzgün aralıklı 
+(uniform) düğüm dağılımı yapılır. Bu ayrıklaştırma sürecinde yaklaşık çözüm 
+  (   )’den,  (17)’deki denklemlerden       yazılabilir. (23) denklemi   
+değişkenine göre bir, iki, üç ve beşinci mertebeden türevler içerdiği için (21) 
+denkleminden 
+ 
+
+  
+  
+
+      
+
+   
+
+       
+
+ 
+(26) 
+
+{  
+
+    
+
+ 
+       
+
+ 
+elde edilir. (17) ve (26) denklemleri (23) denkleminde yerine yazılırsa  
+ 
+
+      
+
+ 
+         
+
+   
+
+ 
+
+ ) (    )   (    )(     )   (  
+
+ )(      )              (27) 
+
+    (  
+
+ 
+denklem sistemine ulaşılır. Ayrıklaştırma sonrası başlangıç koşulu (24) denkleminden 
+ 
+
+  ( )          ( (     ))           
+(28) 
+
+ 
+olur. Böylece (23) ve (24) denklemleriyle ifade edilen kısmi türevli diferansiyel 
+denklem problemi (27) ve (28) denklemleriyle ifade edilen adi türevli diferansiyel 
+denklem sistemi problemine indirgenmiş olur. Bulunan bu adi türevli diferansiyel 
+denklem sisteminin çözümü, dördüncü dereceden Runge-Kutta yöntemi, ODE45 
+komutu ile MATLAB paket program aracılığıyla elde edilmiştir [14]. Elde edilen 
+sonuçlar analitik çözümle zamanda noktasal yakınsaklık oranı,    hata normuna ve 
+   hata normlarına göre kıyaslanarak sırasıyla Çizelge 2, Çizelge 3 ve Çizelge 4’te 
+verilmiştir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+265 
+
+ 
+
+Çizelge 2. Sawada-Kotera denklemi için    hata normu 
+Yöntem 
+        
+        
+       
+       
+      
+
+MOL-Klasik 
+3,9581974998
+
+3952       
+
+1,5831606685
+
+7293       
+
+3,9495584895
+
+5172       
+
+6,1919363486
+
+5275      
+
+1,2421913912
+
+2962      
+
+MMOL-GA 
+5,3311595664
+
+61482      
+
+1,0598727531
+
+05454      
+
+5,0539128688
+
+56254      
+
+2,0165151478
+
+80510      
+
+3,1232020864
+
+96560      
+
+MMOL-MQ 
+2,1303217122
+
+4,2660592357
+
+2,1551272475
+
+1,1392342595
+
+2,4699942294
+
+MMOL-IMQ 
+2,7244629375
+
+12969      
+
+5,4305471394
+01527       
+
+29185      
+
+2,6433956258
+
+85653      
+
+1,1617699822
+
+43211      
+
+2,0000950067
+
+96117      
+
+35073      
+ 
+
+27260      
+
+07828      
+
+72734      
+
+Çizelge 2. Sawada-Kotera denklemi için zamanda noktasal yakınsaklık oranı 
+Yöntem 
+   
+   
+        
+   
+        
+
+MOL-Klasik 
+0.0004 
+3,0902828107
+96819       
+
+1,999918057
+
+526170 
+
+9,600700554237
+
+670       
+
+1,00048009
+
+673645 
+
+MMOL-MQ 
+0.0004 
+1,4385336855
+
+1,096055849
+
+7,195635233558
+
+1,09606367
+
+MMOL-IMQ 
+0.0004 
+1,3881552617
+
+87527      
+
+0,809719995
+
+625919 
+
+6,208019057128
+
+256      
+
+0,80971999
+
+2262671 
+
+35297      
+
+313131 
+
+272      
+
+5313131 
+
+MMOL-GA 
+0.0004 
+2.3454692649
+
+38425      
+
+0,672801736
+
+081384 
+
+1,049581465870
+
+597      
+
+0,67280173
+
+3209720 
+
+MOL-Klasik 
+0.0002 
+3,0902827460
+95657       
+
+1,999930653
+
+555113 
+
+9,600700554237
+
+670       
+
+1,00004803
+
+2015435 
+
+MMOL-MQ 
+0.0002 
+1,3878532813
+
+1,092168404
+
+6,942126946767
+
+1,09217594
+
+MMOL-IMQ 
+0.0002 
+1,3516365318
+
+72341      
+
+0,815519726
+
+454157 
+
+6,044702332075
+
+579      
+
+0,81551972
+
+1817379 
+
+27191      
+
+896214 
+
+313      
+
+6896247 
+
+MMOL-GA 
+0.0002 
+2,2938797537
+
+34842      
+
+0,682373345
+
+427745 
+
+1,026495511917
+
+511      
+
+0,68237334
+
+2623867 
+
+MOL-Klasik 
+0.0001 
+3,0902827460
+95657       
+
+1,999928186
+
+9,600700554280
+
+1,00004807
+
+MMOL-MQ 
+0.0001 
+1,3878532804
+
+1,092076489
+
+581897 
+
+6,942126942039
+
+002       
+
+1,09208402
+
+1386950 
+
+27078      
+
+807672 
+
+017      
+
+0401946 
+
+MMOL-IMQ 
+0.0001 
+1,3516365304
+
+83120      
+
+0,815658134
+
+644515 
+
+6,044702326064
+
+446      
+
+0,81565813
+
+4644515 
+
+MMOL-GA 
+0.0001 
+2,2938797414
+
+50826      
+
+0,682601912
+
+1,026495506420
+
+497      
+
+0,68260190
+
+MOL-Klasik 
+0.00005 
+2,1460435927
+06593       
+
+1,999990244
+
+317292 
+
+8,000519802571
+
+1,00004015
+
+9514949 
+
+MMOL-MQ 
+0.00005 
+1,3878532805
+
+1,092030602
+
+197298 
+
+6,942126942665
+
+813       
+
+1,09203812
+
+2354496 
+
+52346      
+
+455948 
+
+652      
+
+9667741 
+
+MMOL-IMQ 
+0.00005 
+1,3516365303
+
+87683      
+
+0,815727511
+
+264141 
+
+6,044702325637
+
+636      
+
+0,81572751
+
+1264141 
+
+MMOL-GA 
+0.00005 
+2,2938797402
+
+0,682717002
+
+1,026495505888
+
+0,68271699
+
+8687448 
+ 
+ 
+
+62165      
+
+488768 
+
+579      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+266 
+
+ 
+
+Çizelge 4. Sawada-Kotera denklemi için    hata normu 
+Yöntem 
+        
+        
+       
+       
+      
+
+MOL-Klasik 
+1,2346552134
+
+4649       
+
+2,4694628324
+
+8934       
+
+1.2353409818
+
+9410      
+
+9,7693942243
+
+7418       
+
+3,8555565963
+67256       
+
+MMOL-GA 
+2,3856574769
+
+08867      
+
+4,7428581462
+
+30167      
+
+2,2615914730
+
+07121      
+
+9,0237674692
+
+10763      
+
+1,3976115853
+
+38859      
+
+MMOL-MQ 
+1,0655923663
+
+2,1389398242
+
+1,0780012879
+
+5,6985123045
+
+1,2355125744
+
+MMOL-IMQ 
+1,2184168660
+
+73939      
+
+2,4286145117
+
+7743      
+
+1,1821624621
+
+22601      
+
+5,1955933091
+
+9670      
+
+8,9446967930
+
+64254      
+
+35045      
+ 
+5. Sonuç ve Yorum  
+ 
+Çizelgelerden şu sonuç çıkarılmıştır: Klasik çizgiler yöntemi, radyal baz fonksiyonları 
+yardımıyla örgüsüz çizgiler metoduna göre daha iyi sonuçlar vermiştir. Çizelge 3’ten 
+görülür ki:   sayısının değişimi denklem sonucunda kayda değer bir değişiklik 
+meydana getirmemiştir. Yani küçük   değerleri ile zaman kaybı yaşamadan eş değer 
+doğrulukta sonuçlar bulunabilir ki bu da yöntemi çekici kılan avantajlardan biridir. Bu 
+çalışmada, klasik çizgiler yöntemi ve radyal baz fonksiyonları yardımıyla örgüsüz 
+çizgiler metodu hakkında bilgiler verilerek Sawada-Kotera denklemine nasıl 
+uygulanacağını göstermek için uygulamalar sunulmuştur. Elde edilen sonuçlar    ve    
+hata normları ile zamanda noktasal yakınsaklık oranı hesaplanarak kıyaslamalar 
+yapılmıştır. Klasik çizgiler yöntemi ve ağsız çizgiler yöntemi sonucunda oluşan adi 
+türevli diferansiyel denklem sistemi Runge-Kutta yöntemi ile MATLAB paket 
+programları aracılığıyla çözülmüştür. E. Rothe tarafından 1930’da geliştirilen klasik 
+çizgiler metodu [20] ile radyal baz fonksiyonları yardımıyla örgüsüz çizgiler metodu 
+karşılaştırıldığında yararlılıklarını şöyle sıralayabiliriz: 
+ 
+1) Klasik çizgiler yönteminde türevlere sonlu farklar formülü kullanılarak 
+yaklaşılmıştır. Bu sırada problem çözümü için ağ inşa edilmiştir ki bu çizgiler 
+yönteminin en büyük dezavantajıdır. Çünkü bu süreç oldukça zaman alıcı ve zordur. 
+Buna rağmen radyal baz fonksiyonları yardımıyla örgüsüz çizgiler metodu ile 
+karşılaştırıldığına klasik çizgiler metodu daha hassas sonuçlar vermiştir.  
+ 
+2) Ağsız çizgiler yönteminde ise şekil fonksiyonu olarak çoklu kuadrik fonksiyonu 
+(MQ), ters çoklu kuadrik fonksiyonu (IMQ) ve gauss merkezcil fonksiyonu (GA)  
+kullanılmıştır. Radyal baz fonksiyonları kullanılarak örgüsüz çizgiler metodu ağ tabanı 
+gerektirmeden çözüm üretildiği için daha kolaydır ve bu yöntem başka lineer olmayan 
+problemlere kolaylıkla uygulanabilir. Ancak bu metotta karşımıza çıkan   şekil 
+parametresinin belirlenmesi ve   interpolason matrisinin terslenememesi yöntemin 
+dezavantajıdır. 
+ 
+3) Her iki yöntemde de düşük pozisyon düğüm sayısına rağmen oldukça yüksek oranlı 
+doğrulukta sonuçlar elde edilmektedir. 
+ 
+4) Yöntemler pozisyon boyutundan bağımsızdır. Yani (N+1) boyutlu kısmi türevli 
+diferansiyel denklemlere metot kolaylıkla uygulanabilmektedir. 
+ 
+Kaynakça 
+[1] L. Debnath, Nonlinear Partial Differential Equations for Scientists and Engineers (3th ed.). 
+
+97943      
+
+43768      
+
+46380      
+
+61116      
+
+Edinburg: Birkhauser, 2005. 
+
+267 
+
+ 
+
+[2] İ. Çağlar, “Bazı özel kısmi türevli diferansiyel denklemlerin gezen dalga çözümleri,” Yüksek Lisans 
+
+Tezi, Fen Bilimleri Enstitüsü, Selçuk Üniversitesi, Konya, Türkiye, 2012. 
+[3] A.R. Mitchell, D.F. Griffiths, The Finite Difference Method in Partial Equations. Chichester: John 
+
+Wiley & Sons, 1980. 
+[4] L. Demkowicz, J.T. Oden, W. Rachowicz and O. Hardy, “Toward A universal h-p adaptive finite 
+
+element strategy, part 1: constrained approximation and data structure”, Comput. Methods Appl. 
+Mech. Eng., 77 (1), 79-112, 1989. 
+[5] G.R. Liu, Meshfree Methods: Moving Beyond the Finite Element Method. Boca Raton: CRC Press, 
+
+2003. 
+[6] S. Çalışkan, “Eleman bağımsız Galerkin ve yerel Petrov Galerkin ağsız yöntemlerinin bir boyutlu 
+
+mühendislik problemlerine uygulaması,” Yüksek Lisans Tezi, Fen Bilimleri Enstitüsü, Karadeniz 
+Teknik Üniversitesi, Trabzon, Türkiye, 2006. 
+[7] R. Pregla, Analysis of Electromagnetic Fields and Waves: The Method of Lines. West Sussex: John 
+
+Wiley & Sons, 2008. 
+[8] W.E. Schiesser, The Numerical Method of Lines: Integration of Partial Differential Equations. San 
+
+Diego: Academic Press, 1991. 
+[9] G.H. Meyer, The Time-Discrete Method of Lines for Options and Bonds A PDE Approach. 
+
+Singapore: World Scientific Publishing, 2015.  
+[10] R.A. Gingold and J.J. Monaghan, “Smoothed particle hidrodinamics: theory and application to non-
+
+spherical stars,” Mon. Not. R. Astr. Soc., 181, 375-389, 1977.  
+[11] W. Chen, Z. Fu and C.S. Chen, Recent Advances in Radial Basis Function Collocation Methods. 
+
+New York: Springer, 2014. 
+[12] Q. Shen, “A meshless method of lines for the numerical solution of KdV equation using radial basis 
+
+functions,” Eng. Anal. Bound. Elem., 33, 1171-1180, 2009. 
+[13] W.E. Schiesser and G.W. Griffiths, A Compendium of Partial Differential Equation Models: Method 
+
+of Lines Analysis with Matlab. Cambridge: Cambridge University Press, 2009. 
+[14] W.E. Schiesser and G.W. Griffiths, Traveling Wave Analysis of Partial Differantial Equations. San 
+
+Diego: Academis Press, 2012. 
+[15] F. Durmuş, “Kısmi türevli diferansiyel denklemlerin nümerik çözümü için method of lines yöntemi,” 
+
+Yüksek Lisans Tezi, Fen Bilimleri Enstitüsü, Selçuk Üniversitesi, Konya, Türkiye, 2015. 
+[16] G.R. Liu and Y.T Gu, An Introduction to Meshfree Methods and Their Programming. Dordrecht: 
+
+Springer, 2005. 
+[17] V.P. Nguyen, T. Rabczuk, S. Bordas and M. Duflot, “Meshless methods: a review and computer 
+
+ımplementation aspects,”, Math. Comput.Simulat., 79, 763-813, 2008. 
+[18] N. Bibi, “Meshless method of lines for numerical solutions of nonlinear time dependent partial 
+
+differential equations,” PhD Thesis, Ghulam Ishaq Khan of Engineering Sciences and Technology, 
+Swabi, Pakistan, 2011.  
+[19] D. Kaya and S.M. El-Sayed, “On a Generalized fifth order KdV equations,” Phys. Lett. A., 310, 44-
+
+51, 2003. 
+[20] C. Köroğlu, “Üstel matris fonksiyonları yardımıyla amerikan opsiyon probleminin çizgiler yöntemi 
+
+ile çözümü,” Doktora Tezi, Fen Bilimleri Enstitüsü, Ege Üniversitesi, İzmir, Türkiye, 2002. 
+[21]  F. Tchier, Mustafa İnc, Bülent Kılıç and Ali Akgül, “On soliton structures of generalized resonance 
+
+equation with time dependent coefficients,” Optik, 128, 218-223, 2017. 
+[22] A. Akgül, Mustafa İnç and  Esra Karataş, “Reproducing kernel functions for difference equations,” 
+
+Discrete Contin. Dyn. Syst. Ser., 8(6), 1055-1064, 2015.  
+[23] A. Akgül, A. Kılıçman, and Mustafa İnç, “Improved (G '/G)-expansion method for the space and 
+
+time fractional foam drainage and KdV equations,” Abstr. Appl. Anal., (Article ID: 414353), 7 pages, 
+2013. 
+[24] A. Akgül, Y. Khanb, E. Karataş Akgül, D. Baleanu and M. M. Al Qurashi, “Solutions of nonlinear 
+
+systems by reproducing kernel method,” J. Nonlinear Sci. Appl., 10, 4408-4417, 2017. 
+[25] A. Akgül, “New reproducing kernel functions,” Math. Probl. Eng., (Article ID:158134), 10 pages, 
+
+2015. 
+[26] M. İnç and A. Akgül, “Approximate solutions for MHD squeezing fluid flow by a novel method,” 
+
+Bound. Value Probl., 2014 (Article ID:18), 18 pages, 2014. 
+[27] M.İnç, B. Kılıç, E. Karataş and A. Akgül, “Solitary wave solutions for the Sawada-Kotera equation,” 
+
+J.  Adv. Phys., 6 (2), 288-293, 2017. 
+
+268 
+
+ 
+

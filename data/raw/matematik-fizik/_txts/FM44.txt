@@ -1,0 +1,1145 @@
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+Akdeniz Bölgesi Kozmik Radyasyon Doz Eşdeğerinin Fluka/Flair Programı ile 
+
+Belirlenmesi 
+
+ 
+Madi BÜLBÜL1, Hanifi ÇAM2 
+1 Fizik Bölümü, Fen Edebiyat Fakültesi, Sütçü İmam Üniversitesi, K. Maraş, Türkiye 
+2 Elektrik ve Otomasyon Bölümü, Teknik Bilimler Meslek Yüksek Okulu, Sütçü İmam Üniversitesi, K. Maraş, 
+
+Türkiye 
+
+: madibulbul123@gmail.com 
+10000-0002-0053-1907 
+20000-0002-9980-0037 
+ 
+Geliş (Received): 20.06.2023 
+Düzeltme (ReVision): 20.11.2023 
+Kabul (Accepted): 07.12.2023 
+ 
+ÖZ 
+
+ 
+
+Bu çalışmada; Akdeniz Bölgesine ait olan Adana, Antalya, Burdur, Isparta, Mersin, Hatay, Kahramanmaraş ve 
+Osmaniye illerinin yıllık ortalama kozmik radyasyon doz eşdeğerleri tespit edilmeye çalışılmış olup bu değerler 
+RGY(Radyasyon Güvenlik Yönetmeliği) ve ICRP(Uluslararası Radyasyondan Korunma Komisyonu)’nun belirlemiş 
+olduğu değerler ile karşılaştırılmıştır. Aynı zamanda Orta Karadeniz Bölgesinde, aynı programla yapılan farklı çalışma 
+ile sonuçlar karşılaştırılmıştır. Yapılan tüm ölçümler sonucunda en fazla maruziyet  467,6 µSv/y değer ile Isparta iline 
+ait iken en az maruziyet değeri ise 285,4 µSv/y ile Mersin iline ait çıkmıştır. RGY ve ICRP’ye göre maruziyet oranı 
+çok düşük olduğu ve maruziyet etkisinin rakım ile doğrudan orantılı olduğu tespit edilmiştir. Aynı enlem üzerinde 
+bulunan bölgeler için ise boylamın bir etkisinin olmadığı görülmüştür. 
+
+Anahtar Kelimeler: Kozmik radyasyon, Akdeniz Bölgesi, Rakım, Fluka/Flair 
+ 
+ 
+
+Average Determination of the Cosmic Radiation Dose Equivalent in the Mediterranean 
+
+ 
+ABSTRACT 
+
+Region by Fluka/Flair Program 
+
+In this study, which belongs to the Mediterranean region, Adana, Antalya, Burdur, Isparta, Mersin, Hatay, 
+Kahramanmaraş and Osmaniye provinces and these values have been studied to determine the equivalent dose of 
+cosmic radiation, the average annual RGY (Radiation safety regulation) and ICRP (International Commission on 
+Radiation Protection) are compared with a set of rules. At the same time, the results were compared with a study 
+conducted with the same program in the Central Black Sea Region. As a result of all measurement comparisons, the 
+maximum exposure belongs to the province of Isparta with a value of 467.6 µSv / y, while the minimum exposure 
+value belongs to the province of Mersin with a value of 285.4 µSv / y. According to RGY and ICRP, the exposure 
+rate was found to be very low and the exposure effect was directly proportional to the altitude. For regions located on 
+the same latitude, longitude has no effect. 
+
+Keywords: Cosmic Radiation, Mediterranian Region, Altitude, Fluka/Flair 
+ 
+ 
+GİRİŞ  
+ 
+Kozmik ışınlar, çok yüksek hıza ulaşmış elektronlar, 
+nötronlar ve atom çekirdeklerinden oluşur. Temel 
+bileşimleri, kaynak bölgedeki kimyasal parçalanma 
+hakkında bilgi sağlamanın yanı sıra, bu bölgenin 
+doğası ve yıldızlararası uzayda kozmik ışınların 
+yayılması hakkında da bazı bilgiler sağlar. Kozmik 
+ışın izotopları kaynak bölgenin doğasını, enjeksiyonun 
+zaman çizelgelerini ve ilk ivmeyi daha derinlemesine 
+inceler. Be10, Al26 ve Cl36 gibi radyoaktif izotoplar, 
+disk ve hale bölgelerindeki kozmik ışınların zamansal 
+geçmişini ortaya çıkarır. Yük ve kütle bileşiminin 
+enerji ile değişimi-enerji spektrumları-hızlanma süreci 
+ve Galaksideki parçacık taşınımı ile ilgilidir. Ultra 
+yüksek enerjilerde iyileştirilmiş ölçümler mevcut 
+
+olduğunda, bu parçacıkların galaktik mi yoksa ekstra 
+galaktik kökenli mi olduğunu belirlemek mümkündür. 
+Yüksek enerjilerde kozmik ışın varış yönü, güçlü 
+kaynakların yaklaşık yönünü de gösterebilir.  
+Kozmik ışınların en dikkat çekici özelliği enerji 
+spektrumlarıdır. Bu spektrumların enerji durumları 
+Şekil 1’de gösterilmiş olup 109 eV’'den 1020 eV.'ye 
+kadar ki spektrumların yoğunluğu yaklaşık 10 
+büyüklük skalası üzerinde nispeten özelliksiz bir güç 
+yasası dağılımı gösterir. Birkaç GeV'in altındaki 
+enerjilerde güneş modülasyonunun etkisi 11-22 yıllık 
+güneş ve heliomanyetik döngülerle ve 1AU’ daki 
+zamansal varyasyonlarla önem kazanır. 40 MeV'den 
+daha düşük enerjilerde oksijen spektrumları anormal 
+kozmik ışınların varlığını göstermektedir. Bunlar, 
+güneş rüzgârı sonlandırma şokunda hızlanan kısmen 
+
+83 
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+iyonize yıldızlararası atomlardır. 10 MeV'e yakın, 
+güneş / gezegenler arası kökenli parçacıklar tarafından 
+üretilen iyon spektrumunda oldukça değişken bir artış 
+vardır, ancak bazı güneş patlaması olaylarında onlarca 
+GeV'den 
+daha 
+fazla 
+enerjilerle 
+hızlandıkları 
+kaydedilmiştir [1].  
+ 
+
+geri kalan çerçevesinde) ve sonuçta 1020 eV'lik 
+enerjilere ulaştığı hesaplanmıştır [2]. 
+ 
+
+ 
+ 
+Şekil 1.  Dünya’dan ölçülen kozmik ışınların enerji 
+spektrumu [1] 
+ 
+1014 eV'in üzerinde, kozmik ışınların akışı, birincil 
+parçacıkların doğrudan algılanmasının istatistiksel 
+olarak görünmediği noktaya kadar azalır. Bu enerjinin 
+üzerinde kozmik ışınlar, Dünya atmosferi ile 
+etkileşimlerini gözlemleyerek dolaylı olarak tespit 
+edilebilir. İlk etkileşim tipik olarak, toplam enerjinin 
+yaklaşık yarısını (etkileşimin tam esnekliğine bağlı 
+olarak) taşıyan bir pion duşu üretirken, kalan kozmik 
+ışınların primeri tekrar etkileşime devam eder. Duşun 
+gelişimi ilk birkaç etkileşimde üretilen parçacıkların 
+davranışları izlenerek bulunabilir [2].  
+Hava duşunun oluşmasını sağlayan kozmik ışınların, 
+enerjisine bağlı olarak; elektronlar, pozitronlar, 
+piyonlar, müonlar, gamalar ve nötrinolar gibi 
+milyonlarca hatta milyarlarca parçacık oluşabilir. 
+Hava duşu gösterimi Şekil 2'de gösterilmiştir [3]. 
+Newton'a göre, kapsamlı hava duşlarının gelişimini 
+modellemek 
+için 
+Monte 
+Carlo 
+simülasyonları 
+yapılabilir, ancak yüksek enerjilerde meydana gelen 
+fiziksel süreçler hakkındaki bilgi eksikliği, farklı 
+modeller arasında tutarsızlıklara yol açar. Parçacık 
+kesitleri ve ikincil parçacıkların çokluğu üzerine 
+çalışmalar, 1015 eV'lik sabit hedef enerjilerinden 
+eşdeğer 
+kütle 
+merkezi 
+enerjilerine 
+kadar 
+hızlandırıcılarda gerçekleştirilmiştir (bir parçacığın 
+
+ 
+ 
+Şekil 2.  Kozmik hava duşu [3] 
+
+ 
+Kozmikik etkileşimlerin daha iyi anlaşılması, hava 
+duşu modellerinde iyileştirmelere yol açması ve bu da 
+kozmik ışın verilerinin daha iyi yorumlanmasına izin 
+vermiştir. 
+Yüksek 
+irtifa 
+balon 
+deneylerinde 
+hızlandırıcı fizikten algılama teknikleri uygulanması 
+ve atmosferin tepesindeki kozmik ışın bileşiminin 
+doğrudan ölçülmesine izin verebilir [3].  
+Birincil kozmik ışınlar yıldızlardan, Güneşten ve diğer 
+galaksilerden gelen yüksek enerji içeren parçacıklar 
+olup bunların %9’ unu Helyum, %90’ını Hidrojen ve 
+geri kalanını ise Uranyum’a kadar olan diğer ağır 
+parçacıkların oluşturduğu bilinmektedir. Birincil 
+ışınların enerji miktarları 107 ile 1020 arasındadır. 
+Birincil parçacıkların Dünya atmosferinin en üst 
+kısmına düşme oranı içerdiği enerji ile ters orantılıdır. 
+1 GeV enerjisine sahip olan parçacıklar m2 başına 104 
+oranında düşerken, daha yüksek enerjiye sahip 
+parçacıklar her yüzyılda km2 içine 1 adetten az 
+düşebilirler [4].  
+Birincil kozmik ışın parçacıklarının atmosfere 
+girdiğinde yaptığı hadronik etkileşim sonucunda 
+ikincil kozmik ışınlar oluşur ve oluşan nükleonlar, 
+
+84 
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+kaonlar(K-, K0,K+) ve pionlar(π-, π0, π+) başta olmak 
+üzere mezonlar da oluşmaktadır. Pionların yarı 
+ömürleri kısa olduğu için yeryüzüne ulaşamazlar. 
+Yüklü pionlar (π-, π+) bozunarak müonlar (µ-, µ+) 
+oluşmakla birlikte elektronlar ve müon nötrinoları 
+(Ѵe,Ѵµ) oluşur. Nötr pionların (π0) bozunması ile 
+kaybolan 
+enerjiye 
+denk 
+gelen 
+ve 
+elektronun 
+yavaşlamasıyla Bremmstrahlung ışını oluşur. Bu 
+ışınlar pozitron ve elektron (e-, e+) oluşturarak çift 
+oluşumu sağlar. Sonuçta pionlar bozunarak kararsız 
+lepton olan müon, bozunarak pozitron, elektron, 
+nötrino ile müon nötrinolarına dönüşür [5].  
+Müonlar, bir adet elektronun kütlesinin 200 katı 
+kütleye sahip temel yüklü bir parçacıktır. Bu 
+parçacıklar zayıf etkileşme nedeniyle bozunurlar. 
+Müonlar atmosferin üst yörüngesindeki gazlarla 
+etkileşim haline geçerek çok sayıda çok miktarda 
+oluşan pionların ve pi mezonlarının bozunması ile 
+oluşur. Müonlar zayıf etkileşimleri nedeniyle deniz 
+düzeyine ulaşabilecek kadar uzun bir yarı ömre 
+sahiptir. Bu yarı ömür ise 2.2x 10-6 saniye kadardır [6].  
+Bu parçacıkların sembol, kütle ve yarı ömürleri Tablo 
+1’de gösterilmiştir.  
+ 
+Tablo 1. Temel parçacıkların yarı ömrü [5] 
+ 
+
+arasında sıkışarak çalkantılı hale geldiği yay şokuyla 
+karşılaşır. Bu bölgeye ise manyetosheath denir.  
+Dünya'nın manyetosferindeki sürekli hareket eden 
+yüklü parçacıklar iyonosferde alan hizalı akımlar 
+(FAC'LER) yoluyla kapanan akımlar oluşturur ve tüm 
+bu sistem güneş rüzgârı koşullarından etkilenir. 
+Ortalama güneş rüzgârı, santimetre küp başına 1.4-1.6 
+= 105 K sıcaklıkta 3 ila 6 atom içerir ve 400 km / sn 
+hızla gelen yaklaşık 1.2 nPa dinamik bir basınca 
+sahiptir [7]. 
+ 
+
+ 
+ 
+Şekil 3. Manyetosferik Çevre [8] 
+ 
+Şekil 3'te yukarıda belirtilen süreçler nedeniyle oluşan 
+akımlar ve bölgeler görülmektedir. Gün tarafında, 
+Dünya'nın manyetik alanı ile güneş rüzgârı dinamik 
+basıncı arasındaki dengenin gerekliliği nedeniyle gün 
+tarafında manyetopoz akımı akar [8]. 
+Bu akım sistemi, dinamik basınç arttığında yüksek 
+yoğunluklu ve / veya hızlı güneş rüzgârı dönemlerinde 
+Dünya'ya doğru itilir ve yönü nedeniyle Dünya'nın 
+manyetik alanında pozitif dalgalanmalar yaratır. Gece 
+yarısında, parçacıkların kayması nedeniyle batıya 
+doğru akan Dünya çevresindeki halka akımına ek 
+olarak, 
+kuyruk 
+arası 
+akım 
+sistemi 
+görülür. 
+Manyetosferik konveksiyon, o bölgedeki parçacıkların 
+sayı yoğunluğunu kontrol eder. Akım, iyonosferik 
+akımlar yoluyla veya manyetosferde her iki alan hizalı 
+akımda da kapalıdır. Halka akımı Dünyanın gece 
+tarafında daha güçlüdür ve tekdüze değildir [9]. 
+Akdeniz Bölgesi adını komşu olduğu Akdeniz’den 
+alan Türkiye yüzölçümünün %14,2’sini kaplayan 
+bölgeden oluşmaktadır. Akdeniz Bölgesi, nüfus 
+yoğunluğu ve yüzölçümü bakımından diğer bölgeler 
+arasında 4. sırada iken, nüfus çokluğu oranında 3. 
+sırada yer almaktadır. Akdeniz Bölgesi Türkiye’nin 
+güney kısmında bölgesel olarak genişleyip daralan bir 
+yapıya sahiptir [10]. 
+Bölgeyi oluşturan şehirler ise; Adana, Antalya, 
+Osmaniye, Hatay, Mersin, Kahramanmaraş, Isparta ve 
+Burdur illeridir. Bu il merkezlerinin en yüksek 
+rakımlısı 1049 metre ile Isparta iken en düşük 
+rakımlısı ise 10 metre ile Mersin ilidir. Bölge bir şerit 
+halinde uzandığı için iller arası enlem farkı en fazla 
+
+Tip 
+İsim 
+Sem
+
+Kütle 
+(MeV/c2
+
+Yarı 
+Ömür 
+
+b. 
+
+) 
+
+Elektron 
+e- 
+
+0,511 
+>4.6x102
+
+Lepton 
+
+0 yıl 
+Pozitron 
+e+ 
+Müon 
+µ- 
+
+105,6 
+2.2x10-6 
+
+s 
+Antimüon 
+µ+ 
+Tau 
+τ- 
+
+1777 
+2.9x10-13 
+
+s 
+Antitau 
+τ+ 
+
+Nötral 
+Pion 
+π0 
+135 
+8.4x10-17 
+
+Mezon 
+
+s 
+Yüklü 
+Pion 
+
+π+,  
+
+π- 
+139,6 
+2.6x10-8 
+
+Proton 
+p+ 
+
+s 
+
+938,2 
+>1029 yıl 
+Antiproton 
+p- 
+Nötron 
+n 
+939,6 
+885,7 s 
+Antinötron 
+n* 
+ 
+Dünya'nın manyetosferi, Dünya'nın manyetik alanının 
+hâkim olduğu Güneş rüzgârı akışıyla çevrili ayrı bir 
+bölgedir. Yaklaşan Güneş rüzgârları Dünya'nın 
+manyetik alanının gündüz tarafında itilmesine ve gece 
+tarafında gerilmesine neden olur. Bu nedenle oluşan 
+duruma manyetotay denir. Güneş rüzgârının ve 
+Dünya'nın manyetik alanının hâkim olduğu her iki 
+ortamı da ayıran sınıra manyetopoz sınırı denir. Bu 
+sınırda güneş rüzgârı dinamik basıncı, Dünya'nın 
+manyetik basıncına eşittir. Güneşten atılan plazma, 
+önce güneş rüzgârının süpersonik akışının ses altı 
+akışına indirgendiği ve manyetopoz ile yay şoku 
+
+Baryo
+n 
+
+85 
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+Hatay ile Burdur arasında görülmektedir. Söz konusu 
+özellikler tablo 2 ve şekil 4’te görülmektedir. 
+ 
+Tablo 2. Akdeniz bölgesi illerinin rakım ve koordinatları 
+ 
+
+b) Topluluğa ait bir bireyde etkili doz yıllık 1mSv’i 
+geçemez. İstisnai durumda; ard arda beş yılın ortalama 
+değeri 1mSv olmak kaydıyla 5 mSv’da kadar uygun 
+görülür. Cilt için yıllık doz eşdeğere sınırı 50 mSv iken 
+göz merceğinde 15 mSv’dir. 
+c)18 yaşından küçük bireyler radyasyon ortamı altında 
+çalıştırılamazlar [13]. 
+ 
+
+İl 
+Rakım 
+(Metre) 
+Enlem 
+Boylam 
+
+Adana 
+23 
+37 N 
+35,321333 E 
+Antalya 
+39 
+36,88414 N 
+  30,705630 E 
+
+Burdur 
+950 
+37,718416 N 
+30,282007 E 
+
+Isparta 
+1049 
+37,764771 N 
+30,556561 E 
+
+Hatay 
+100 
+36,202216 N 
+36,161948 E 
+
+K. Maraş 
+568 
+37,574957 N 
+36,924115 E 
+
+Mersin 
+10 
+36,8 N 
+34,633333 E 
+Osmaniye 
+129 
+37,074478 N 
+36,246295 E 
+ 
+Kozmik ışınlar aynı enlem üzerinde bulunan 
+bölgelerin boylamına göre değişim göstermezler.  
+Uluslararası Radyasyon Birimleri Komisyonu (ICRU) 
+tarafından belirlenen doz birimlerine göre aktivite; 
+radyoaktif 
+bir maddede bir saniye içerisinde 
+gerçekleşen bozunma adedine denk gelmektedir. 
+Birimi becquerel’dir. Birim zamanda ışınlanma 
+miktarına ışınlanma dozu, birim kütlede soğurulan 
+radyasyon miktarına absorbe doz ve canlı dokunun her 
+bir gramında 1 rad değerinde etki gösteren ışın 
+miktarına ise insan eşdeğer dozu denip, birimi ise 
+sievert(Sv)dır [12].  
+ 
+Tablo 3. Radyasyon dozu birimleri [12] 
+ 
+
+ 
+Eski 
+Birim 
+
+Yeni 
+Birim 
+
+Dönüşüm 
+
+Aktivite 
+Curie 
+Becquerel 
+
+1 
+Ci=3,7x1010 
+
+Bq 
+Işınlanma 
+
+Dozu 
+
+ 
+
+Röntgen 
+Coulomb/k
+
+g 
+
+1R=2,58x10-
+
+4 C/kg 
+
+Soğurulmuş 
+
+Rad 
+Gray(Gy) 
+1Gy=100 
+
+Doz 
+
+ 
+
+rad 
+
+Eşdeğer 
+
+Doz 
+Rem 
+Sievert(Sv) 
+1Sv=100 
+
+rem 
+
+ 
+Radyasyon güvenlik yönetmeliği gereğince; 
+a) Radyasyon altında çalışan personeller için ard arda 
+gelen beş yılın ortalama değeri 20 mSv’i, herhangi bir 
+senede ise 50 mSv’i geçemez. Ayak ve el veya vücut 
+için yıllık doz eşdeğer sınırı 500 mSv, göz için ise 150 
+mSv’dir. Cilt için en fazla radyasyona maruz bulunan 
+1cm’lik bölgenin doz eşdeğeri, diğer bölgelerin 
+dozuna bakılmaksızın ortalama cilt doz eşdeğeri 
+olarak belirlenmektedir. 
+
+ 
+ 
+Şekil 4. Akdeniz Bölgesi [11] 
+
+86 
+ 
+
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+ICRP 
+(Uluslararası 
+Radyasyondan 
+Korunma 
+Komisyonu)’nin belirlemiş olduğu ölçütler ise tablo 4’te 
+gösterilmiştir.  
+ 
+Tablo 4. Yıllık alınan doz ve önlem düzeyleri (ICRP) [14] 
+ 
+
+Çoğu uygulama için kullanıcıdan programlama gerekmez. 
+Ancak, özel gereksinimleri olan kullanıcılar için bir dizi 
+kullanıcı 
+arabirimi 
+yordamları 
+(Fortran 
+77'de) 
+kullanılabilir. 
+Fluka fiziksel modelleri çeşitli dergi ve konferans 
+makalelerinde açıklanmıştır; Teknik tarafta, verimlilik, 
+doğruluk, tutarlılık ve esneklik gibi görünüşte birbiriyle 
+çelişen dört gereksinime vurgu yapılmıştır. 
+Tablo arama örneklemesine sık sık başvurularak 
+verimlilik sağlanmış ve sistematik bir çift kesinlik 
+kullanımı genel doğruluk üzerinde büyük bir etkiye sahip 
+olmuştur: her iki nitelik de benimsenen algoritmaların 
+dikkatli 
+bir 
+seçiminden 
+yararlanılmıştır. 
+Kullanıcı 
+tarafından yazılan kod ihtiyacını en aza indirirken makul 
+bir esneklik elde etmek için, programa kullanıcıya sunulan 
+çok sayıda seçenek sağlanmış ve dinamik boyutlandırma 
+getirilerek tamamen yeniden yapılandırılmıştır. 
+Muhtemelen başka hiçbir Monte Carlo programında 
+bulunmayan Fluka'nın bir başka özelliği de tamamen 
+analog bir modun yanı sıra önyargılı bir modda da 
+kullanılabilme yeteneğidir. Bu, dalgalanmaları, sinyal 
+tesadüflerini ve diğer ilişkili olayları tahmin etmek için 
+kullanılabilmesine rağmen, birçok büyüklük sırasına göre 
+zayıflamalarla bağlantılı olarak diğer nadir olayları 
+araştırmak için çok çeşitli istatistiksel tekniklerin de 
+mevcut olduğu anlamına gelir [15].  
+ 
+
+Yüksek 
+>100  mSv 
+Artmış 
+10-100 mSv 
+Düşük 
+1-10 mSv 
+Çok Düşük 
+<1 mSv 
+
+Önemsiz 
+<0.01 mSv 
+
+ 
+MATERYAL ve YÖNTEM 
+ 
+Fluka/Flair Programı 
+ 
+Fluka, proton ve elektron hızlandırıcı korumadan hedef 
+tasarıma, 
+kalorimetriye, 
+aktivasyona, 
+dozimetriye, 
+dedektör tasarımına, Hızlandırıcı tahrikli sistemlere, 
+kozmik ışınlar, nötrino fiziği, radyoterapi vb. konulara 
+kadar uzanan, geniş bir uygulama yelpazesini kapsayan 
+parçacık 
+taşınımı 
+ve 
+madde 
+ile 
+etkileşimlerin 
+hesaplanması için genel amaçlı bir araçtır. 
+Fluka'nın tasarım ve geliştirilmesindeki en büyük öncelik, 
+her zaman sağlam ve modern fiziksel modellerin 
+uygulanması 
+ve 
+geliştirilmesi 
+olmuştur. 
+Mümkün 
+olduğunda mikroskobik modeller benimsenir, tüm 
+reaksiyon basamakları ve reaksiyon tipleri arasında 
+tutarlılık sağlanır. Her adımda koruma yasaları uygulanır. 
+Sonuçlar tek etkileşim düzeyinde deneysel verilere göre 
+kontrol edilir. Sonuç olarak, tüm enerji / hedef / mermi 
+kombinasyonları için sabitlenmiş minimum serbest 
+parametre seti ile nihai tahminler elde edilir. Bu nedenle, 
+karmaşık durumlarda sonuçların yanı sıra özellikler ve 
+ölçeklendirme yasaları, temel fiziksel modellerden doğal 
+olarak ortaya çıkar, deneysel verilerin doğrudan meVcut 
+olmadığı yerlerde verimlilik sağlanır ve etkileşimler 
+içindeki ve duş bileşenleri arasındaki korelasyonlar 
+korunur.  
+Fluka, 100 eV–1 KeV'den binlerce TeV'e fotonlar, 
+elektronlar, nötrinolar, herhangi bir enerjinin müonları, 20 
+TeV'e kadar olan enerjilerin (Fluka'yı Dpmjet koduyla 
+bağlayarak 10 peV'e kadar) hadronları dâhil olmak üzere 
+yaklaşık 60 farklı parçacığın maddesindeki etkileşimi ve 
+yayılımı, yüksek doğrulukla ve karşılık gelen tüm anti 
+partikülleri, termal enerjilere ve ağır iyonlara kadar 
+nötronlar simüle edebilir. Program ayrıca polarize 
+fotonları (örneğin senkrotron radyasyonu) ve optik 
+fotonları da taşıyabilir. Kararsız artık çekirdeklerden 
+yayılan radyasyonun zaman evrimi ve takibi hat üzerinde 
+gerçekleştirilebilir. 
+Fluka, iyi bilinen Kombinatoryal Geometri (CG) paketinin 
+geliştirilmiş bir sürümünü kullanarak çok karmaşık 
+geometrileri bile işleyebilir. Fluka CG, yüklü parçacıkları 
+(manyetik veya elektrik alanların varlığında bile) doğru 
+bir 
+şekilde 
+izlemek 
+üzere 
+tasarlanmıştır. 
+Çeşitli 
+görselleştirme ve hata ayıklama araçları da mevcuttur. 
+
+ 
+ 
+Şekil 5. Fluka/Flair Arayüzü 
+ 
+
+87 
+ 
+
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+Fluka/Flair’de Kozmik Işın Hesabı 
+
+ 
+Tablo 5’te ise Gazi üniversitesi tarafından yapılan Orta 
+Karadeniz kozmik radyasyon doz eşdeğeri verilerinin 
+alındığı illere ait coğrafi veriler görülmektedir. 
+ 
+Tablo 5. Orta Karadeniz’in rakım, enlem ve boylamı [17] 
+ 
+
+Fluka’da bir işlemin yapılabilmesi için öncelikle problem 
+belirlenir ve problem üzerine program mimarisi inşa 
+edilir. Çalışmamızda kozmik ışın radyasyon doz eşdeğeri 
+hesabı yapılacağı için bu doğrultuda tanımlamalar yapılır.  
+Ölçüm 
+yapılacak 
+bölgenin 
+irtifasına 
+göre 
+ABD 
+standartlarında fluka atmosferik katman yapısına karşılık 
+gelen kodlar kullanılır.  
+ 
+
+İller 
+Enlem 
+Boylam 
+Rakım(m) 
+Amasya 
+40,6668 
+35,8353 
+409 
+Çorum 
+40,5461 
+34,9362 
+776 
+Ordu 
+40,9838 
+37,8858 
+5 
+Samsun 
+41,3442 
+36,2564 
+4 
+Sinop 
+42,0299 
+35,1545 
+0 
+Tokat 
+40,3112 
+36,5577 
+611 
+ 
+Gazi üniversitesi tarafından yapılan bu çalışmada Orta 
+Karadeniz kozmik radyasyon doz eşdeğer verileri Tablo 
+8’de verilmektedir. Bu verileri incelediğimizde rakımı 0 
+metre olan Sinop ili 341 µSv/y’lık bir değerde iken rakımı 
+776 metre olan Çorum ilinin kozmik radyasyon maruziyeti 
+441 µSv/y bir değerde olduğu görülmektedir. Ayrıca 
+yapılan bu çalışma, bizim çalışmamızı doğrular nitelikte 
+olup kozmik radyasyon doz eşdeğerinin rakım ile doğru 
+Orantılı bir şeklide arttığını ispat ederken enlem 
+faktörünün kısa mesafelerde çok etkili olmadığını 
+göstermiştir. Yapılan her iki çalışmada en fazla etkiye 
+sahip olan parçacığın müonlar olduğu tespit edilmiş olup 
+bu parçacığın en fazla etki göstermesinin nedeni ise ikincil 
+kozmik ışınlar içerisinde en son oluşan parçacıklar olması 
+olduğu düşünülmektedir. 
+
+Protonların en az etki göstermesinin sebebi ise birincil 
+parçacıklara ait olmaları ve kapsamlı hava duşları ile 
+yeryüzüne 
+uluşana 
+kadar 
+parçalanmaları 
+olduğu 
+düşünülmektedir. Bunu doğrulayan bir kanıt ise rakım 
+değeri arttıkça proton maruziyetinin artmasıdır. Yine aynı 
+şekilde rakım arttıkça nötron maruziyeti de artmaktadır. 
+
+ 
+ 
+Şekil 6. Fluka atmosferik derinlik [16] 
+ 
+Kozmik ışın hesaplamaları SPECSOU ve GCR-SPE ( 
+başlatma amacıyla) kullanılır. Ayrıca atmogeo.cards adı 
+ile üretilen dünya geometrisi programa eklenerek 
+hesaplama işlemi yapılır.  
+ 
+TARTIŞMA 
+ 
+Yapılan çalışmada Akdeniz bölgesine ait illerin kozmik 
+radyasyon doz eşdeğerleri fluka/flair programı ile 
+hesaplanmış olup değerler Tablo 7’de görülmektedir. 
+Yapılan hesaplamalar ise mikroSieVert/year türündendir. 
+Tablo 7 incelendiğinde en fazla kozmik ışın radyasyonuna 
+maruz kalan ilin 1049 metre rakımı ve 467,6 µS değeri ile 
+Isparta olduğu görülmekle birlikte en az radyasyon 
+maruziyetinde kalan ilin ise 10 metre rakımı ve 285,4 
+µSv/y değeri ile Mersin olduğu görülmektedir. Osmaniye 
+ve Hatay arasındaki 1 derecelik enlem faktörünün ve 23 
+metrelik rakım değerinin sadece 3 µSv/y’lık bir etki 
+yaptığı yani enlem faktörünün kısa mesafelerde çok etkili 
+olmadığı görülmektedir.   
+
+Şekil 7 ve tablo 6’de çalışmamıza ait verilerin sütun grafik 
+ve yüzdesel dağılımları verilmektedir.  
+
+Tablo 6. Parçacık maruziyet oranı 
+ 
+
+İl 
+Proton 
+
+Nötron 
+
+-Mu 
+
++Mu 
+
+(%) 
+Adana 
+4,02 
+25,77 
+30,3 
+37,6 
+Antalya 
+3,5 
+24,95 
+30,6 
+38,2 
+Burdur 
+6,2 
+41,33 
+25,08 
+30,02 
+Hatay 
+3,86 
+24,18 
+30,43 
+37,37 
+Isparta 
+6,37 
+43,07 
+24,16 
+29,02 
+K.Maraş 
+4 
+34,77 
+26,98 
+32,77 
+Mersin 
+3,29 
+24,07 
+33,11 
+38,99 
+Osmaniye 
+3,63 
+27,78 
+30,83 
+36,7 
+ 
+Parçacıkların toplam etki üzerindeki yüzdelik dilimleri 
+incelendiğinde %70 seviyesinde muon parçacıklarının  
+etkili olduğu görülmektedir. Bu etkiyi sırası ile nötron ve 
+proton takip etmektedir. 
+
+(%) 
+
+(%) 
+
+(%) 
+
+88 
+ 
+
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+ 
+ 
+
+ 
+ 
+Şekil 7. Fluka/Flair doz eşdeğer grafiği 
+ 
+Tablo 7. Orta Karadeniz bölgesi illerine ait veriler 
+ 
+
+İl 
+Toplam(µSv/y) 
+Proton(µSv/y) 
+Nötron(µSv/y) 
+-Muon(µSv/y) 
++Muon(µSv/y) 
+Adana 
+305.3±0,89 
+12,3±0,4 
+78,7±1,06 
+92,5±0,65 
+114,8±0,65 
+Antalya 
+300,6±0,92 
+10,4±0,34 
+75±1,24 
+92±0,68 
+114,5±0,64 
+Burdur 
+441,3±5,04 
+27,4±0,62 
+182,4±2,04 
+110,7±0,71 
+132,5±0,72 
+Hatay 
+305,6±0,97 
+11,8±0,37 
+73,9±1,02 
+93±0,71 
+114,2±0,84 
+Isparta 
+467,6±5,14 
+29,8±0,71 
+201,4±3,02 
+113±0,9 
+135,7±0,76 
+K.Maraş 
+375±2,46 
+15±0,43 
+130,4±1,86 
+101,2±0,88 
+122,9±0,68 
+Mersin 
+285,4±0,87 
+9,4±0,33 
+68,7±0,68 
+94,5±0,74 
+111,3±0,7 
+Osmaniye 
+308,4±0,98 
+11,2±0,35 
+85,7±1,12 
+95,1±0,72 
+113,2±0,69 
+ 
+Tablo 8. Orta Karadeniz bölgesi illerine ait veriler[17] 
+
+ 
+İl 
+Toplam(µSv/y) 
+Proton(µSv/y) 
+Nötron(µSv/y) 
+-Muon(µSv/y) 
++Muon(µSv/y) 
+Amasya 
+378 
+17 
+136 
+99 
+125 
+Çorum 
+441 
+22 
+180 
+105 
+134 
+Ordu 
+310 
+13 
+88 
+93 
+117 
+Samsun 
+319 
+14 
+90 
+94 
+120 
+Sinop 
+341 
+15 
+100 
+98 
+126 
+Tokat 
+363 
+17 
+128 
+96 
+122 
+ 
+SONUÇ 
+ 
+Bu çalışmada, Akdeniz Bölgesine ait olan illerin kozmik 
+radyasyon doz eşdeğerleri tespit edilmiş olup diğer 
+şehirler ve ICRP (Uluslararası Radyasyondan Korunma 
+Komisyonu)’nin belirlemiş olduğu sınır değerler ile 
+karşılaştırılmıştır. Elde edilen ölçüm değerlerine göre 
+maruziyet oranı 467,6 µSv/y değeri ile en yüksek çıkan il 
+olan Isparta bile radyasyon güvenlik yönetmeliğinin yılda 
+1mSv’lık değerinin %50’lik kısmını kaplayamamıştır. 
+ICRP 
+(Uluslararası 
+Radyasyondan 
+Korunma 
+Komisyonu)’nin 
+belirlemiş 
+olduğu 
+ölçütlere 
+göre 
+1mSv’nin altında bulunduğu için çok düşük kategorisinde 
+yer almaktadır.  
+Rakım ve enlem artışı ile kozmik ışın maruziyeti arasında 
+bir paralellik tespit edilmiş olup rakım artışının ihmal 
+edilemeyecek derecede maruziyet artışına sebep olduğu 
+görülmüştür. Bununla birlikte aynı enlem üzerinde yer 
+alan bölgelerde boylamın etkisinin olmadığı tespit 
+edilmiştir. 
+
+Dünya’nın manyetik alanın yapısı ile kozmik radyasyon 
+artış bölgelerine bakıldığında kutuplara doğru van allen 
+radyasyon 
+kuşağındaki 
+incelmeden 
+dolayı 
+kutup  
+bölgelerine gidildikçe kozmik radyasyon doz eşdeğerinin 
+arttığı düşünülmektedir. Ayrıca 10 metre rakıma sahip 
+Mersin ilinin 285,4 µSv/y değeri ile 5 metre rakımdaki 
+Ordu ilinin 310 µSv/y’ lık değerleri kıyaslandığında 
+rakımları hemen hemen aynı olmasına rağmen daha 
+kuzeyde bulunan 
+Ordu 
+ilinin 
+kozmik 
+radyasyon 
+maruziyetinin daha fazla olması savımızı kanıtlar 
+niteliktedir.  
+Kozmik ışının parçacık dağılımı incelendiğinde ise ikincil 
+parçacıklar arasında yer alan müonların en fazla dilimi 
+kapladığı görülmüştür. Müonların en fazla sayıda 
+bulunmasının nedeni ise oluşan hava duşu ürünlerinin son 
+kısmında yer alması olduğu düşünülmektedir. Aynı 
+zamanda protonun en az etkiye sahip olması da birincil 
+parçacıklar arasında olması düşünülmektedir. 
+ 
+ 
+
+89 
+ 
+
+ 
+
+MAUN Fen Bil. Dergi., 11:2, 83-90, 2023 
+Araştırma Makalesi/ Research Article 
+MAUN J. of Sci., 11:2, 83-90, 2023 
+         DOI:https://doi.org/10.18586/msufbd.1317214 
+
+ 
+
+TEŞEKKÜR 
+ 
+Çalışmam esnasında bana derin tecrübe ve bilgileri ile 
+yardımcı olan sayın hocam Dr. Ögr. Üyesi Hanifi ÇAM 
+Bey’e teşekkürlerimi sunarım. 
+ 
+KAYNAKÇA  
+ 
+[1] Schlaepfer, H.  Cosmic Rays, 2003, 15(1), 1. 2003.  
+[2] Newton, D. W.  Measuring the Lateral Distribution of 
+
+Extensive Air Showers to Characterise Properties of 
+Cosmic Rays Above 1EeV, 2005, Leeds Üniversitesi, 
+Doctora Tezi, 7-9s, Leeds. 2005. 
+[3] Harmsna, S. Radio signals of cosmic ray induced air 
+
+showers at the Pierre Auger Observatory. 2011. Groningen 
+Üniversitesi, Doktora Tezi, 4-6s, Hollanda. 2011. 
+[4] Bomoni, G., Checchia P., D’Errico M., Pagano D., 
+
+Saragino G., Progress in Particle and Nuclear Physics, 112, 
+103768, 2020. 
+[5] Ergi, H. Kozmik ışın kaynaklı nötronların akısı ve enerji 
+
+dağılımı. 2014. Ankara Üniversitesi, Fen Bilimleri 
+Enstitüsü, Yüksek Lisans Tezi, 49s, Ankara. 2014. 
+[6] Ahmed, S. N., Physics and Engineering of Radiation 
+
+Detection, Academic Press, Elsevier, 2007. 
+[7] Parker, E. Solar wind In C. Kamide handbook of the solar 
+
+terrestrial environtment. Springer. 2007. Berlin Heidelberg 
+New York, 539s. 2007. 
+[8] Kalafatoğlu, E. C.  Upper atmospheric joule heating and 
+
+magnetospheric: A case study. 2010. İstanbul Teknik 
+Üniversitesi, Yüksek Lisans Tezi, 69s, İstanbul. 2010. 
+[9] McPherron, 
+R. 
+Physical 
+procceses 
+producting 
+magnetospheric substorms and magnetic storms. 1991. In 
+J. Jacobs, Geomagnetism, London, 739sf. 1991. 
+[10] Özçağlar, 
+A. 
+2012. 
+Akdeniz 
+bölgesi. 
+https://geography.humanity.ankara.edu.tr/wp-
+content/uploads/sites/277/2015/08/ADANA-
+B%C3%96LGES%C4%B0-1.pdf 
+(Erişim 
+Tarihi: 
+29.11.2022) 
+[11] https://www.sutori.com/en/story/akdeniz-bolgesi--
+
+vuStfso8PnbiQXdSvdPZ352m 
+(Erişim 
+Tarihi: 
+29.11.2022) 
+[12] Coşkun, A. Radyoloji birimlerinin ortam radyasyon doz 
+
+dağılımlarının belirlenmesi. 2015. Amasya Üniversitesi, 
+Fen Bilimleri Üniversitesi, Yüksek Lisans Tezi, 59s, 
+Amasya. 2015. 
+[13] Radyasyon güvenlik yönetmeliği (2000), T. C. Resmi 
+
+Gazete, 23999, 24 Mart 2000. 
+[14] Parlak, Y. Uysal B., Kıraç, F. S., Kovan, B., Demir, M., 
+
+Ayan, A., Poyraz, L., Özaslan, İ. A., Köseoğlu, K., Yeyin, 
+N., Dönmez, S.,  Radyasyon güvenliği klavuzu: Genel 
+tanımlar ve nükleer tıp uygulamalarında radyasyondan 
+korunma kuralları. 2020. Galenos YayıneVi, 6(1). 71-89. 
+2020. 
+[15] Ferrari, A. Sala, P. R., Fasso, A., Ranft, J., Fluka: a Multi 
+
+– paticle transport code (program version 2021). CERN-
+400 copiesprinted. Milan, 507s. 2021. 
+[16] https://www.fluka.org/fluka.php?id=manon!&sub=102 
+
+(Erişim Tarihi: 30.11.2022) 
+[17] Pehlivan, M. Orta Karadeniz bölgesi yer seviyesi kozmik 
+
+radyasyon dozunun fluka simülasyon programı yoluyla 
+hesaplanması. 2019. Gazi Üniversitesi, Fen Bilimleri 
+Enstitüsü, Yüksek Lisans Tezi, 75s, Ankara. 2019
+
+90 
+ 
+

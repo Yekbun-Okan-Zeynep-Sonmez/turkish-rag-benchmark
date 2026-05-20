@@ -1,0 +1,559 @@
+Karaelmas Fen ve Müh. Derg. 8(2):595-601, 2018
+
+Karaelmas Fen ve Mühendislik Dergisi
+Dergi web sayfası: http://fbd.beun.edu.tr
+
+Araştırma Makalesi
+
+DOI: 10.7212%2Fzkufbd.v8i2.1372
+
+Geliş tarihi / Received	 : 03.07.2018     
+Kabul tarihi / Accepted	 : 24.07.2018 
+
+MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama 
+Kuvvetinin İyileştirilmesi
+
+The Improvement of Magnetic Levitation and Guidance Force of SiC added to MgB2 Bulk Samples
+
+Burcu Savaşkan1,* , Sait Barış Güner2 , Ezgi Taylan Koparan3 
+
+1Karadeniz Teknik Üniversitesi, Teknoloji Fakültesi, Enerji Sistemleri Mühendisliği, Trabzon, Türkiye
+
+2Recep Tayyip Erdoğan Üniversitesi, Fen Fakültesi, Fizik Bölümü, Rize, Türkiye
+
+3Zonguldak Bülent Ecevit Üniversitesi, Ereğli Eğitim Fakültesi, Matematik ve Fen Bilimleri Eğitimi Bölümü, Ereğli, Zonguldak, 
+Türkiye
+
+Öz
+
+Bu çalışmada Katıhal Tepkime yöntemiyle üretilen silindirik külçe MgB2 süperiletken örneklerine SiC eklenmesinin manyetik 
+kaldırma ve kılavuzlama kuvvetleri üzerine etkisi araştırıldı. SiC miktarı, toplam MgB2’nin ağırlıkça %0, %5, %10, %15, % 20 ve %25 
+olarak seçildi. Manyetik kaldırma kuvveti ölçümleri sıfır alan altında soğutma (ZFC) ve alan altında soğutma (FC) rejimleri altında, 20 
+K sıcaklığında; kılavuzlayıcı (yanal) kuvvet ölçümü ise FC rejiminde, 25 K sıcaklığında gerçekleştirildi. Örneklerin yapısal ve elektriksel 
+özellikleri X-ışını kırınımı (XRD) ve düşük sıcaklık direnç ölçümü ile incelendi. %5, %10, %15 ve %20 SiC eklenmiş örneklerde, saf 
+MgB2 örneğine kıyasla daha büyük manyetik kaldırma ve yanal manyetik (kılavuzlama) kuvvet değerleri elde edildi. Tüm örnekler 
+içerisinde en büyük manyetik kaldırma ve yanal manyetik kuvvet %10 SiC eklenmiş MgB2 örneğine ait olduğu bulundu. 
+
+Anahtar Kelimeler: MgB2, SiC, Manyetik Kaldırma Kuvveti, Yanal Manyetik (Kılavuzlayıcı) Kuvvet
+
+Abstract
+
+The effect of  SiC (from 0 to 25 wt% of the total MgB2) addition on the magnetic levitation force and guidance (lateral) force properties 
+of bulk MgB2 superconductor has been investigated. The amount of SiC was varied between 0 and 25 wt% of the total of MgB2. The 
+vertical levitation force measurements were carried out under zero-field-cooled (ZFC) and field-cooled (FC) regimes at 20 K. Lateral 
+(guidance) force measurements were carried out under FC regime at 25 K. The structural  and electrical properties of samples were 
+investigated with X-ray diffraction (XRD) and low temperature resistance measurement. It was obtained that 5 wt%, 10 wt%, 15 wt% 
+and 20 wt% SiC added samples exhibit a higher levitation and guidance forces than püre sample. It was found that that10 wt% SiC 
+adding sample has the best magnetic levitation and guidance force performances.
+
+Keywords: MgB2, SiC, Magnetic levitation force, Lateral (Guidance) force
+
+1. Giriş
+
+kaldırma sağlayabilir. Bu durum süperiletken malzemenin 
+manyetik 
+geçmişine 
+bağlıdır. 
+Süperiletken 
+malzeme 
+kalıcı mıknatıs tarafından üretilen homojen olmayan bir 
+manyetik alana maruz kaldığında, diamanyetik ve akı 
+çivileme özelliği nedeniyle aktif ve pasif bir kaldırma elde 
+edilebilir (Yıldızer vd., 2016). Süperiletken malzemelerin 
+bu eşsiz özelliği sayesinde günümüzde yüksek sıcaklık külçe 
+süperiletkenleri (HTS), manyetik yataklarda ve manyetik 
+olarak havalanmış ulaşım araçlarında (Maglev Trenleri) 
+yaygın olarak kullanılmaktadır. Ancak bu uygulamaların 
+neredeyse tamamı manyetik alan altında yüksek kritik 
+akım yoğunluğu (Jc) gerektirir. HTS süperiletkenlerinin Jc 
+değeri, bu malzemelerin seramik karakteri, tanecik yapısı ve 
+
+1988 yılında süperiletken külçe ve kalıcı mıknatıs (PM) 
+arasındaki askıda kalma özelliğinin keşfinden sonra bu 
+fenomen olayı tanımlamak için çok sayıda deneysel ve 
+teorik çalışmalar yapıldı. İki mıknatıs arasındaki manyetik 
+kuvvet, kutup cinsine bağlı olarak çekici ya da itici olabilir 
+ancak, kararlı dengeye sahip değildir. Süperiletken ve 
+mıknatıs arasındaki etkileşim kuvveti, kararlı bir manyetik 
+
+*Sorumlu yazarın e-posta adresi: bsavaskan@ktu.edu.tr
+
+Burcu Savaşkan  orcid.org/0000-0001-8757-4258
+Sait Barış Güner  orcid.org/0000-0001-7487-4817
+Ezgi Taylan Koparan  orcid.org/0000-0002-4762-2742
+
+Savaşkan, Güner, Taylan Koparan / MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama Kuvvetinin İyileştirilmesi
+
+genellikle tane sınırlarında görülen zayıf bağ probleminden 
+dolayı oldukça düşüktür.
+
+2. Gereç ve Yöntem
+
+2001 yılında J. Akimitsu ve ekibi, Magnezyum Diborür 
+(MgB2) metalik alaşımının 39 K sıcaklığında süperiletken 
+olduğunu keşfetti (Akimitsu, 2001; Nagamatsu vd.,2001). 
+İntermetalik bileşikler içerisinde bilinen en yüksek geçiş 
+sıcaklığına sahip olması, basit hekzagonal yapısı, kolay ve 
+ucuza sentezlenmesi ve taneler arası zayıf bağların yokluğu 
+süperiletkenlik alanındaki ilginin bakır oksit içermeyen 
+ve bor içeren bileşikler üzerine yoğunlaşmasını sağladı 
+(Yamamoto vd., 2005). Düşük sıcaklık gerektirmesine 
+rağmen süperiletkenlik ve mekaniksel özellikleri bu bileşiği 
+çok sayıda teknolojik uygulamalar için yüksek sıcaklık 
+süperiletkenlerine karşı alternatif hale getirdi.
+
+Saf ve ağırlıkça %5, %10, %15, %20 ve %25 oranlarında 
+SiC eklenmiş silindirik MgB2 örnekleri “Katıhal Tepkime 
+Yöntemi” ile üretildi. Magnezyum (Mg) tozu (44 μm 
+tane boyutuna sahip % 99,8 saflıkta, Alfa-Aesar şirketi) 
+ile amorf nano Bor (B) tozu (≥ %98 saflıkta, Pavezyum 
+şirketi) kullanıldı. 2 g’lık Mg ve B toz karışımına, ısıl işlem 
+süresince, Mg’nin yüksek buharlaşma özelliği nedeniyle 
+yapıyı terk etmesi durumunda oluşacak stokiyometrik 
+kaymayı engellemek ve Mg’nin buhar basıncından 
+yararlanmak için ağırlıkça % 10 oranında fazla Mg eklendi 
+(Serquis vd., 2003; Savaskan vd., 2014). Toz karışım 18 mm 
+çapında silindir kalıpta, 10 ton/cm2 basınç altında preslendi. 
+Preslenerek tablet haline getirilen örnekler, ısıl işlem için 
+paslanmaz krom (Cr) tüp içerisine yerleştirildi. 20 dakika 
+boyunca tüpün ve bağlantı borularının vakumu (10-2 bar) 
+alındı. Tüp içerisine ısıl işlem süresi boyunca 8 bar Ar gazı 
+verildi. Paslanmaz Cr tüp içerisindeki örnekler, önceden 675 
+°C’ ye ısıtılan silindirik fırında iki saat süresince ısıl işleme 
+konuldu. Isıl işlemden sonra Cr tüpün, fırından çıkarılarak 
+vakum altında ve 8 bar’lık Ar gazı basıncında oda sıcaklığına 
+gelene kadar soğuması beklendi. 
+
+İlk insan yüklemeli (man-loading) yüksek sıcaklık Maglev 
+test aracının 2002 yılındaki başarısı (Wang vd.,2002) ve 
+daha sonraki yıllarda, gerek kaldırma kuvveti özellliklerin-
+deki iyileşmeler ve gerekse Maglev araçlarının elektroman-
+yetik parametrelerinin hesaplanmasında kullanılan ölçüm 
+sistemlerindeki gelişmeler süperiletken Maglev sistemleri-
+nin pratik uygulanabilirliğini arttırmıştır (Sotelo vd., 2015). 
+Maglev sistemlerinde daha fazla yük taşıma kapasitesi için 
+kaldırma kuvvetinin büyük olması istenir. Büyük kaldırma 
+kuvveti için malzemenin kritik akım yoğunluğu (JC) ve 
+malzemede indüklenen perdeleme akımlarının yarıçapının 
+büyük olması gerekir (Ozturk vd., 2012; Ozturk vd., 2009). 
+Maglev sistemlerinin kaldırma kuvveti kadar önemli olan 
+bir diğer kuvvet ise manyetik rayların üzerinde aracın kararlı 
+hareketini sağlayan yanal (kılavuzlayıcı) manyetik kuvvettir. 
+Kılavuzlama kuvveti, sistemin yanal hareketine karşı oluşan 
+kuvvet olup süperiletken malzeme ilk konumdan, yatay 
+olarak uzaklaştıkça ortaya çıkan negatif kuvvet sistemin 
+kararlılığına işaret eder. Bu nedenle, manyetik kaldırma kuv-
+vetinin büyük olmasının yanında kılavuzlama kuvvetinin de 
+büyük olması gerekmektedir (Savaskan vd, 2015). Manyetik 
+kaldırma ve yanal manyetik kuvvet süperiletkenin yapısal ve 
+elektromanyetik özellikleridir ve yüksek süperiletken özel-
+liklere sahip malzeme üretimi ile arttırılabilir (Deng vd., 
+2012). Magnezyum Diborür’ün süperiletkenlik ve manyetik 
+özelliklerini konu alan birçok çalışma mevcut olmasına 
+karşın çok azı kaldırma kuvveti ve kılavuzlama kuvveti ile 
+ilgilidir. 
+
+3. Yapılan Ölçümler
+
+X-ışını kırınımı (XRD), örneklerin kristal özelliklerini ve 
+faz kompozisyonlarını karakterize etmek için kullanıldı. 
+MgB2 külçe örneklerinin x-ışınları kırınım desenleri Rigaku 
+D/ Max-III difraktometresinde CuKα ışınımı kullanılarak 
+elde edildi. Tüm ölçümler, oda sıcaklığında, 20° ≤ 2θ ≤ 70° 
+aralığında, 0.2 °/dk. tarama hızında yapıldı.
+
+Düşük sıcaklıklardaki manyetik kuvvet ölçümleri, TÜBİ-
+TAK tarafından desteklenen 110T622 nolu proje ile tasarla-
+nan, 2013/13638 patent numaralı “Düşük Sıcaklık Cryostat 
+Sistemi” kullanılarak (Şekil 1) Recep Tayyip Erdoğan Üni-
+versitesi Katıhal Araştırma Laboratuarı’nda gerçekleştirildi. 
+
+Alansız Soğutma Ölçümleri (ZFC): Süperiletken örnek, 
+Nd-Fe-B mıknatısın (φ = 19.7 mm, h=9.8 mm, Manyetik 
+Alan= 0.5 T) üst yüzey merkeziyle süperiletken alt yüzeyi 
+arasındaki mesafe z = 50 mm iken soğutuldu. Bu ölçüm 
+Alansız Soğutma (ZFC) olarak adlandırılır. Bu mesafede 
+mıknatısın süperiletken örnek üzerindeki etkisinin olmadığı 
+düşünülür. Fz-z ölçümlerinde:
+
+Bu çalışmada MgB2 süperiletkenine ağırlıkça farklı oran-
+larda SiC eklenmesinin, MgB2 süperiletkeninin manyetik 
+kaldırma kuvveti ve kılavuzlama kuvveti üzerine etkileri 
+araştırıldı. Hem kılavuzlama hem de manyetik kaldırma 
+kuvvetini birlikte arttıracak SiC ekleme oranları belirlen-
+meye çalışıldı.
+
+•	 Süperiletken örnek z = -50 mm de soğutuldu.
+
+•	 20 K soğutma sıcaklığında mıknatıs, z = 0  -50 mm  
+0 mm döngüsü olacak şekilde harekete başlandı. 
+
+Karaelmas Fen Müh. Derg., 2018; 8(2):595-601
+596
+
+Savaşkan, Güner, Taylan Koparan / MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama Kuvvetinin İyileştirilmesi
+
+Alanlı Soğutma Ölçümleri (FC): Süperiletken örnek ile Nd-
+Fe-B mıknatısı arasındaki mesafe z = 1.5 mm iken, normal 
+halden süperiletken hale geçerken mıknatısın manyetik 
+alanı altında soğutulması Alanlı Soğutma (FC) olarak ad-
+landırılır. Mıknatıs eksensel yönde manyetize olduğu için 
+mıknatıs süperiletken örneğe maksimum manyetik alan uy-
+gulamaktadır.  Fz-z ölçümlerinde:
+
+örneklerin kırınım deseninin ana fazı MgB2 dir. Bununla 
+birlikte Mg2Si ve MgO safsızlık fazlarının 2θ’nın 35° ile 42° 
+arasında oluştuğu ve bu piklerin şiddetlerinin SiC ekleme 
+oranına göre değişiklik gösterdiği görüldü. SiC eklenmiş 
+örneklerde ekleme oranının artması ile MgB2 fazına ait pik 
+şiddetlerinde azalma ve yapıda MgO ve Mg2Si piklerinin 
+varlığı görüldü (Dou vd., 2007). %10 ve üzeri yapılan 
+eklemelerde artık SiC’ın yapıda açıkça varlığı gözlendi.
+
+•	 Süperiletken örnek z = 1.5 mm de soğutuldu.
+
+Bir süperiletken ve kalıcı mıknatıs (PM) arasındaki kaldırma 
+kuvveti: süperiletkenin manyetik momenti ile PM’nin 
+manyetik alan gradyentine bağlıdır ve aşağıdaki denklem 
+kullanılarak hesaplanır (Ozturk vd.,2009):
+
+•	 20 K soğutma sıcaklığında mıknatıs z = 1.5  -50 mm 
+ 1.5 mm döngüsü olacak şekilde harekete başlandı. 
+
+Yatay Manyetik Kuvvet (Kılavuzlama) Ölçümleri: 
+
+Yatay manyetik kuvvet (Fx) − yatay uzaklık (x) ölçümlerinde; 
+25 K soğutma sıcaklığında FC rejimi altında mıknatıs;  x = 
+0 mm  +10 mm  -10  mm  0 mm  +10 mm (z =1.5 
+mm) döngüsü olacak şekilde harekete başlandı. 
+
+F=m dH/dz and  m=M.V=(AJc r)V  	
+ (1)
+
+Burada m, süperiletkenin manyetik momenti; PM tarafın-
+dan üretilmiş alan gradyenti (dH/dz) dir. Süperiletkenin 
+manyetizasyonu M = AJcr dir. Burada birim hacim (V) başına 
+manyetizasyon, m = MV olarak tanımlanır, A örnek geomet-
+risine bağlı sabittir, Jc  süperiletkenin kritik akım yoğunlu-
+ğudur, r ise perdeleme akım halkasının yarıçapıdır (Ozturk 
+vd., 2009; Murakami vd., 1991). Bu eşitlik, yüksek kaldırma 
+kuvveti için mümkün olduğunca büyük r, Jc ve dH/dz’ ye sa-
+hip olmak gerektiğini gösterir. 
+
+Örneklerin direnç ölçümü için; Cryogenic Q–3398 Vib-
+rating Sample Magnetometer (VSM) sistemi ve Leybold 
+LT–10 kapalı devre He croyostat sistemi kullanılmıştır. 
+Her iki sistemde tamamen bilgisayar kontrollü ve kontak 
+noktalarında ısınmayı önlemek için belirli aralıklarla ± 1-10 
+mA (örneklerin oda sıcaklıklarındaki dirençlerine göre 
+değişmektedir) mertebesinde DC akım verilerek dirençler 
+ölçüldü.
+
+Literatürde MgB2 süperiletkeninde; Mg, B konumlarına 
+veya sistemin geneline yapılan çeşitli katkılamalarla süpe-
+riletkende varolan çivileme merkezlerini arttırarak sistemin 
+kritik akım yoğunluğunda artış sağlayabilmek için yapılan 
+pek çok çalışma mevcuttur. Karbon (C), MgB2 sistemi için-
+
+4. Sonuçlar
+
+Saf ve ve SiC eklenmiş MgB2 örneklerinin XRD kırınım 
+desenleri, Şekil 2’de verilmiştir. Şekilde görüldüğü gibi tüm 
+
+Şekil 1: Manyetik kaldırma 
+kuvveti ölçüm sistemi. 
+Manyetik kaldırma 
+kuvveti deney geometrisi 
+ve süperiletken ile sürekli 
+mıknatısın birbirine göre 
+konumları (Celik, 2016).
+
+Karaelmas Fen Müh. Derg., 2018; 8(2):595-601
+597
+
+Savaşkan, Güner, Taylan Koparan / MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama Kuvvetinin İyileştirilmesi
+
+Şekil 2: MgB2 ve SiC katkılı MgB2 numunelerinin 
+x-ışını kırınım deseni.
+
+de B ile yerdeğiştirebilen tek elementtir ve özellikle C ve 
+C- li bileşikler ve bu bileşikler içerisinde de özellikle SiC 
+kritik akım yoğunluğunu arttıran bir bileşiktir. MgB2 sü-
+periletkenine yapılan SiC katkılamalarında; nano-SiC’nin 
+çivileme merkezi gibi davrandığı ve Jc’de belirgin bir artışa 
+neden olduğu bulunmuştur (Wang vd., 2004; Gozzelino vd., 
+2007; Shcherbakova vd., 2007; Zhang Xion Ping vd., 2007). 
+Ancak yapılan çalışmalar SiC eklenmesinin süperiletkenin 
+yapısal ve manyetik özellikleri üzerine etkisi ile sınırlı olup, 
+manyetik kaldırma ve özellikle de yanal manyetik kuvvete 
+etkisi araştırılmamıştır.
+
+dış alan azalır. Şekil 3’te görüldüğü gibi mıknatıs, MgB2 
+örneklerin yüzeyine doğru hareket ettiğinde dikey kaldırma 
+kuvveti artar. Şekilde görüldüğü gibi, örnek ile mıknatıs 
+arasındaki uzaklık değiştikçe kaldırma kuvvetinin değişimi 
+histeresis bir davranış sergiler. Histeresis eğrisi manyetik 
+kaldırmanın en yaygın özelliği olarak bilinir ve süperiletken 
+örneğin sahip olduğu çivileme (pinning) potansiyelini işaret 
+eder (Savaskan vd., 2014). Mıknatıs ile örnek arasındaki 
+uzaklık minimum olduğunda (mıknatıs ve örnek arasındaki 
+mesafe 1,5 mm) elde edilen maksimum kaldırma kuvveti 
+değerleri (Fz,max) grafiğin içerisinde büyütülerek tekrar 
+çizildi. Saf, %5, %10, %15, %20 ve %25 SiC eklenmiş külçe 
+MgB2 örneklerinde maksimum manyetik kaldırma (itici) 
+kuvvet değerleri sırasıyla; 10.45, 11.18, 11.55, 10.57 ve 8.93 
+N olarak bulundu. ZFC rejiminde en yüksek maksimum 
+kaldırma (itici) kuvveti %10 SiC eklenmiş MgB2 örneğinde 
+elde edildi. % 25 SiC eklemiş örnekte ise manyetik kaldırma 
+kuvvetinin keskin şekilde azaldığı gözlendi. 
+
+Katkısız ve SiC eklenmiş külçe MgB2 örneklerin 20 K 
+sıcaklığında ZFC rejiminde, manyetik kaldırma kuvvetinin 
+dikey harekete göre değişim grafikleri Şekil 3’te verildi. Şekil 
+3’teki 1 ve 2 işaretleri sırasıyla, mıknatısın örneğe ve örnekten 
+uzağa doğru hareketini gösterir. Mıknatıs süperiletkene doğru 
+hareket ettiğinde, süperiletkenin hissettiği manyetik alan 
+artar ve bu durum  manyetizasyonu (M) arttırarak  kaldırma 
+kuvvetini eksponansiyel olarak arttırır (Murakami vd., 1991). 
+Diğer bir deyişle mıknatıs örnekten uzağa hareket ettiğinde, 
+
+Saf ve  %5, %10, %15, %20, %25 SiC eklenmiş külçe MgB2 
+örneklerinin 20 K sıcaklığında FC rejiminde, manyetik 
+
+Karaelmas Fen Müh. Derg., 2018; 8(2):595-601
+598
+
+Savaşkan, Güner, Taylan Koparan / MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama Kuvvetinin İyileştirilmesi
+
+kaldırma kuvvetinin dikey harekete göre değişim grafikleri 
+Şekil 4’te verildi. FC rejimi altında yapılan ölçümlerde 
+manyetik akı, akı çivileme merkezleri içerisinde tuzaklanır. 
+Çekici kuvvet FC rejiminde ZFC rejiminden daha 
+güçlüyken, itici kuvvet ZFC rejiminde FC rejiminden daha 
+güçlüdür (Sergeenkov vd., 2012). Maksimum çekici kuvvet 
+değerleri,  saf, %5, %10, %15, %20 ve %25 SiC eklenmiş 
+MgB2 örneklerinde sırasıyla -3.09,   -3.30, -3.44, -3.83, -3.31 
+ve -2.80 N olarak bulundu. FC ölçümünde, 20 K sıcaklıkta 
+en yüksek çekici kuvvet ZFC ölçümündeki gibi % 10 SiC 
+eklenmiş MgB2 örneğinde elde edildi.
+
+Şekil 6,  saf, %5, %10, %15, %20 ve % 25 SiC eklenmiş külçe 
+MgB2 örneklerinin sıfır manyetik alan altında direncin 
+sıcaklığa göre değişimini göstermektedir. SiC eklenmiş 
+örneklerin hem Tc, başlangıç hem de Tc, sıfır değerlerinin düştüğü 
+ve geçiş sıcaklığı aralığının genişlediği (ΔT = Tc, baslangıç – Tc, 
+
+sıfır) açıkça görülür. Saf MgB2 örneği SiC eklenmiş örneklere 
+kıyasla daha keskin bir geçiş sıcaklık aralığına sahiptir ve 
+Tc ,başlangıç değeri 38,29 K olduğu ölçüldü. SiC eklenmiş 
+örneklerde geçiş sıcaklık aralığının artması, geçiş sıcaklığının 
+
+Yatay manyetik kuvvet, Maglev (Manyetik Olarak Havalan-
+mış Ulaşım Araçları) araçlarında kılavuzlayıcı kuvvettir ve 
+Maglev araçlarında yatay dengeyi sağlar (Yang vd., 2008). 
+Maglev sistemlerinin teknolojik uygulamaları için manye-
+tik kaldırma kuvvetinin yanında, kılavuzlama kuvvetininde 
+arttırılması gerekmektedir. Literatür incelendiğinde MgB2 
+süperiletkeninde kılavuzlayıcı kuvvet ile ilgili çalışmalar 
+dikey kaldırma kuvveti ile kıyaslandığında oldukça az oldu-
+ğu görülür (Savaşkan vd., 2014; Erdem vd., 2014; Savaşkan 
+vd., 2016). 25 K ölçüm sıcaklığında, en büyük kılavuzlayıcı 
+kuvvet %10 SiC eklenmiş MgB2 örneğinde elde edildi. 
+%5, %10, %15 ve %20 SiC eklenmiş örneklerde saf örneğe 
+kıyasla daha yüksek manyetik kaldırma ve yanal kuvvet elde 
+edilmesi, SiC katkısının yapı içerisinde yabancı faz gibi 
+davranarak tuzaklama merkezi sayısını arttırdığını gösterir. 
+Bu durum kritik akım yoğunluğunu ve dolayısıyla manyetik 
+kaldırma kuvvetini arttırmıştır.
+
+Şekil  4: Katkısız, %5, %10, %15, %20 ve %25 SiC eklenmiş külçe 
+MgB2 örneklerinin FC rejiminde 20 K sıcaklıkta ölçülmüş, kalıcı 
+mıknatıs ve örnekler arasında dikey mesafeye (z) karşı dikey 
+kaldırma kuvveti (Fz) grafikleri.
+
+Şekil 3: Katkısız, %5, %10, %15, %20 ve %25 SiC eklenmiş külçe 
+MgB2 örneklerinin ZFC rejiminde 20 K sıcaklıkta ölçülmüş, 
+kalıcı mıknatıs ve örnekler arasında dikey mesafeye (z) karşı dikey 
+kaldırma kuvveti (Fz) grafikleri.
+
+Şekil 5: Katkısız, %5, %10, %15, %20 ve %25 SiC eklenmiş külçe 
+MgB2 örneklerinin FC rejiminde 25 K sıcaklıkta ölçülmüş, kalıcı 
+mıknatıs ve örnekler arasında yanal mesafeye (x) karşı kılavuzlayıcı 
+kuvvet (Fx) grafikleri.
+
+Karaelmas Fen Müh. Derg., 2018; 8(2):595-601
+599
+
+Savaşkan, Güner, Taylan Koparan / MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama Kuvvetinin İyileştirilmesi
+
+kadar SiC eklenmesinin hem manyetik kaldırma hem de 
+kılavuzlama kuvvetini arttırdığı gözlendi.
+
+6.Teşekkür
+
+Bu çalışma Karadeniz Teknik Üniversitesi Bilimsel Araştır-
+ma Proje Birimi FBA-2016-5450 no’lu proje kapsamında 
+yapılmış olup, bu projenin maddi olanakları kullanılmıştır.
+
+7. Kaynaklar
+
+Akimitsu, J., 2001. Superconductivity of metallic boron in MgB2, 
+Symposium on Transition Metal Oxides, January, Sendai, 
+Japan.
+
+Celik, S. 2016. Design of magnetic levitation force measurement 
+system at any low temperatures from 20 K to room temperature. 
+J. Alloys and Compd,. 662: 546-556.Deng, Z., Izumi, M., 
+Felder, B., Tsuzuki, K., Hara, S., Uetake, T., Floegel,-
+Delor, U., Werfel, F. N., 2012. Trapped Flux and Levitation 
+Properties of Multiseeded YBCO Bulks for HTS Magnetic 
+Device  Applications-Part I: Grain and Current Features. 
+IEEE Trans. Appl. Supercond., 6800110: 1-10.
+
+Şekil 6: Katkısız , %5, %10, %15, %20 ve %25 SiC eklenmiş külçe 
+MgB2 örneklerinin sıfır manyetik alanda direnç sıcaklık eğrisi.
+
+daha düşük sıcaklık değerlerine düşmesi, yapı içerisinde 
+iletkenliği engelleyen Mg2Si ve MgO fazlarına işaret eder. 
+Bu sonuç örneklerin XRD analizinde ortaya çıkan ve taneler 
+arasında zayıf bağ görevi yapan safsızlık fazlarının varlığını 
+doğrular. 
+
+Dou, S. X. et al 2007. Mechanism of Enhancement in 
+Electromagnetic Properties of MgB2 by Nano SiC Doping. 
+Physical Review Letters, 98: 097002.
+
+5. Tartışma ve Öneriler
+
+Erdem, O., Ozturk, K., Guner, S. B., Celik, S., Yanmaz, E. 
+2014. Effects of Initial Cooling Conditions and Measurement 
+Heights on the Levitation Performance of Bulk MgB2Super-
+conductor at Different Measurement Temperatures. J Low-
+Temp Phys, 177: 28-39.
+
+Bu çalışmada manyetik olarak havalanmış ulaşım araçları 
+(Maglev Trenleri) için gerekli olan yüksek manyetik 
+kaldırma kuvveti ve yüksek kılavuzlayıcı kuvvete sahip 
+silindirik külçe MgB2 örneklerinin üretimi amaçlanmıştır. 
+Bu amaçla MgB2 örneği içerisine ağırlıkça farklı oranlarda 
+SiC (%5, %10, %15, %20 ve % 25) eklemesi yapıldı ve dikey 
+kaldırma kuvveti, kılavuzlayıcı kuvvet ile kritik sıcaklık (Tc) 
+üzerine etkileri araştırıldı. Çalışmadan elde edilen sonuçlar 
+aşağıda sıralandı:
+
+Gozzelino, L., Minetti, B., Gerbaldo, R., Ghigo, G., Laviano, 
+F., Lopardo, G., Giunchi, G., Perini, E., Cavallin, T. ve 
+Mezzetti E., 2007. Pinning properties in pure and SiC 
+doped MgB2 bulk obtained by reactive Mg liquid infiltration 
+technique. Physica C, 1: 604–605. 
+
+Ø ZFC rejiminde, 20 K sıcaklıktaki 1,5 mm mesafedeki 
+maksimum dikey itici kuvvet, saf örnek için 10,45 N ve 
+ağırlıkça % 10 SiC eklenmiş MgB2 örneği için 11. 53 N 
+olarak bulundu.
+
+Murakami, M., Oyama, T., Fujimoto, H., Gotoh, S., Yamaguchi, 
+K., Shiohara, Y., Koshizuoka, N., Tanaka, S. 1991. Melt 
+Processing Of Bulk High Tc Superconductors and Their 
+Application. IEEE Transactions on Magnetics 27: 1479-1486.
+
+Nagamatsu, J., Nakagawa, N., Muranaka, T., . Zenitani, Y. and 
+Akimitsu, J., 2001. Superconductivity at 39 K in magnesium 
+diboride. Nature, 410: 63-64.
+
+Ø FC rejiminde 20 K sıcaklıktaki 1,5 mm mesafedeki 
+maksimum dikey çekici kuvvet kuvvet, saf örnek için 
+-3.11 N ve ağırlıkça % 10 SiC eklenmiş MgB2 örneği 
+için -3.43 N olarak bulundu.
+
+Ozturk, K., Celik, S. ve Cansız, A., 2009. Determination of 
+levitation force and pinning properties of (Sm123)1-x(Yb211)X 
+bulk superconductor depending on Yb211 doping ratio. Phys. 
+Status Solidi A, 11: 2569-2575.
+
+Ø Dikey manyetik kaldırma kuvveti ölçüm sonuçları 
+ile benzer şekilde, %10 SiC eklenmiş MgB2 örneğin 
+en yüksek kılavuzlayıcı kuvvet değerine sahip olduğu 
+görüldü.
+
+Ozturk, K., Celik, S., Cansız, A., 2009. Determination of 
+levitation force and pinning properties of (Sm123)1−x(Yb211)
+x bulk superconductor depending on Yb211 doping ratio. Phys. 
+Status Solidi A, 206: 2569–2575.
+
+Ø Yüksek manyetik kaldırma ve kılavuzlama kuvveti için en 
+iyi SiC ekleme oranı %10 olarak bulundu. % 20 oranına 
+
+Karaelmas Fen Müh. Derg., 2018; 8(2):595-601
+600
+
+Savaşkan, Güner, Taylan Koparan / MgB2 Külçe Örneklerine SiC Eklenmesi ile Manyetik Kaldırma ve Kılavuzlama Kuvvetinin İyileştirilmesi
+
+Ozturk, K., Akbulut, S., Kutuk, S., Bolat, S., Celik, S. ve 
+Başoğlu, M., 2012. Comparative study of critical current 
+density, pinning force and levitation force behavior in Yb211 
+doped -Sm123 bulk superconductors. J. Alloys. Comp., 516: 
+167-171.
+
+Sotelo, G., G., de Oliveira, R. A. H., Costa, F. S., Dias, D. 
+H. N., de An Jr, R. ve Stephan, R. M., 2015. A Full Scale 
+Superconducting Magnetic Levitation (MagLev) Vehicle. 
+IEEE Trans. Appl. Supercond., 3601005,:1-5.
+
+Wang, J., Wang, S., Zeng, Y., Huang, H., Luo, F., Xu, Z., Tang, 
+Q., Lin, G., Zhang, C.,Ren, Z., Zhao, G., Zhu, D., Wang, 
+S., Jiang, H., Zhu, M., Deng, C., Hu, P., Li,C., Liu, F., Lian, 
+J., Wang, X., Wang, L., Shen, X. ve Dong, X., 2002. The First 
+Man-Loading High Temperature Superconducting Maglev 
+Test Vehicle in the World. Physica C, 378-381, 809-814.
+
+Savaskan, B., Taylan Koparan, E., Güner, S. B., Celik, S., 
+Öztürk, K. and Yanmaz, E. 2015. Effect of C4H6O5 Adding 
+on the Critical Current Density and Lateral Levitation Force 
+of Bulk MgB2. J. Low Temp.Phys. 181: 38-48.
+
+Savaskan, B. , Taylan Koparan, E., Çelik, Ş. , Öztürk,  K. ve 
+Yanmaz, E. 2014. Investigation on the Levitation Force 
+Behaviour of Malic Acid Added Bulk MgB2 Superconductors. 
+Physica C, 502: 63–69.
+
+Wang, X. L., Soltanian, S., James, M., Qin, M. J., Horvat, J., 
+Yao, Q. W., Liu, H. K. ve Dou, S. X., 2004. Significant 
+enhancement of critical current density and flux pinning in 
+MgB2 with nano-SiC, Si, and C doping. Physica C, 408: 63–
+67.
+
+Savaskan, B. , Taylan Koparan, E., Güner, S. B., Celik, S., 
+Yanmaz, E. 2014. The size effect on the magnetic levitation 
+force of MgB2 bulk superconductors , Physica C, 502: 63–69.
+
+Sergeenkov, S., Sanchez, E. S., Salla, R. V. F., Rivera, V. A. G., 
+Cichetto Jr., L., Araujo-Moreira, F. M., 2012. Journal of 
+Applied Physics, 112: 033908.
+
+Yamamoto, A., Shimoyama, J., Ueda, S., Iwayama, I., Horii, S., 
+Kishio, K. 2005. Effects of B4C doping on critical current 
+properties of MgB2 .Supercond. Sci. Technol., 18: 1323-1328.
+
+Serquis, A., Liao, X. Z., Civale, L., Zhu, Y. T., Coulter, J. Y., 
+Peterson, D. E. ve Mueller, F. M. 2003. The Influence of 
+Structural Defects on Intra-Granular Critical Currents of 
+Bulk MgB2. IEEE Trans. Appl. Supercond., 2: 3068-3071.
+
+Yıldızer, I., Cansız A., Ozturk K. 2016. Optimization of 
+levitation and guidance forces in a superconducting Maglev 
+system. Cryogenics, 78: 57-65.
+
+Zhang, X. P., Ma, Y. W., Gao, Z. S., Yu, Z. G., Wang, D. 
+L., Watanabe, K. ve Guo, J. D., 2007. Fabrication and 
+superconducting properties of nano-SiC doped MgB2 tapes. 
+Chinese Science Bulletin, 18: 2477-2480.
+
+Shcherbakova, O.V., Pan, A. V., Soltanian, S. ve Dou, S. X. 2007. 
+Cooling rate effect on microstructure and superconducting 
+properties of pure and SiC doped MgB2 superconductors, 
+Physica C, 460: 579–580.
+
+Karaelmas Fen Müh. Derg., 2018; 8(2):595-601
+601
+

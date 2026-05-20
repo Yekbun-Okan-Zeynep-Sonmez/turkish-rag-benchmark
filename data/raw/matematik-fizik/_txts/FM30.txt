@@ -1,0 +1,1465 @@
+Gazi Üniversitesi Fen Bilimleri Dergisi 
+Part:C, Tasarım Ve Teknoloji 
+GU J Sci Part:C  
+4(3):115-126 (2016)                                                  
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Akış Problemleri İçin Lattice Boltzmann Yöntemi ve 
+
+Uygulamaları 
+
+ 
+
+Zekeriya Özcan1, Özgür Ekici2,* 
+
+2 Makina Mühendisliği Bölümü, Hacettepe Üniversitesi, Ankara 
+
+1 Mercedes-Benz Türk A.Ş. Kamyon Fabrikası, Aksaray 
+
+ 
+
+Başvuru: 29/04/2016      Düzeltme: 15/06/2016    Kabul: 27/06/2016 
+
+ÖZ 
+
+Bu çalışmada Hesaplamalı Akışkanlar Dinamiği (HAD) içerisinde yer alan bir sayısal yöntem olan Lattice Boltzmann 
+Yöntemi (LBM) ele alınmıştır. Lattice Boltzmann yönteminin diğer geleneksel HAD yöntemlerinden temel farklılığı, 
+bir akış probleminde gerçekleşen fiziksel olayları hangi düzeyde incelediğiyle ilgilidir. Söz konusu yöntemde akış 
+problemleri, “mezoskobik” olarak adlandırılan bir ara ölçekte istatistiksel mekanik teknikleri kullanılmak suretiyle, 
+aslında fiziksel olarak bir arada bulunmayan akışkana ait partiküllerin topluluklar halinde hareket ettiği ve bu hayali 
+partikül topluluklarının akış süreci boyunca birbirini takip eden “serbest akış” ve “çarpışma” evrelerinden geçtiği 
+varsayımına göre modellenir.  Bu çalışmada Lattice Boltzmann yöntemi kullanılarak bazı temel akış problemlerinin 
+modellemeleri gerçekleştirilmiş ve bu çalışma kapsamında oluşturulan orijinal kod kullanılarak çözülmüştür. Elde 
+edilen sonuçlardan, Lattice Boltzmann yönteminin düşük Mach sayısı yaklaşımıyla, sıkıştırılamaz akışları yeterli bir 
+hassasiyetle benzeştirdiği görülmüştür. Ek olarak gevşeme parametresinin literatürde de önerilen 0,6 ile 1,9 aralığında 
+olmaması durumunda geçerli sonuçlar elde edilemediği anlaşılmıştır. Ayrıca teorik olarak ikinci dereceden 
+yakınsaklığa sahip Lattice Boltzmann yönteminin çözümlerdeki genel yakınsaklık derecesinin uygulanan sınır 
+koşullarından direkt olarak etkilendiği ve 1 ile 2 arasında değerler verdiği görülmüştür.  
+
+Anahtar Kelimeler: Partikül Mekaniği, İstatistiksel Mekanik, Maxwell-Boltzmann Dağılımı, Oyuk Akışı, Kanal 
+Akışı, Basamak Üzerinden Kanal Akışı. 
+
+ 
+
+The Lattice Boltzmann Method for Fluid Flows and Its Applications 
+
+ABSTRACT 
+
+A numerical method in Computational Fluid Dynamics (CFD), which is called “Lattice Boltzmann Method (LBM)”, 
+is studied in this paper. The main difference between LBM and conventional CFD methods is how they investigate 
+physical phenomena occurring in a flow problem. In Lattice Boltzmann method, flow problems are simulated in a mid-
+scale, called “mesoscopic”, by using the statistical mechanic techniques to form fictive particle groups. Then, these 
+particle groups are considered to be moving (free streaming) and colliding (collision) where these consecutive 
+behaviors of particle groups represent the fluid flow. In this study, some benchmark CFD problems are modelled and 
+solved by the utilization of LBM with an in-house code generated for this study. It is observed that the Lattice 
+Boltzmann solvers can simulate incompressible fluid flows accurately by taking the “Low Mach Number 
+Approximation” into consideration. In addition, it is found that no reasonable results are achieved if the relaxation 
+parameter is out of the suggested range, which is in between 0,6 and 1.9. Furthermore, it is shown that the theoretical 
+order of convergence of Lattice Boltzmann Method is directly affected by the applied boundary conditions, resulting 
+in the order of convergence between 1 and 2.  
+
+Keywords: Particle Mechanics, Statistical Mechanics, Maxwell-Boltzmann Distribution, Lid-Driven Cavity Flow, 
+Channel Flow, Backward Facing Step Flow. 
+
+ 
+
+İletişim yazarı, e-mail: ozgur.ekici@hacettepe.edu.tr 
+ 
+ 
+
+ 
+
+116 
+ 
+ 
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+
+ 
+
+1. 
+GİRİŞ (INTRODUCTION) 
+
+Akışkanlar mekaniği problemleri, doğaları gereği 
+çoğunlukla doğrusal değildirler. Bu sebeple böylesine 
+problemlerde analitik çözüm ancak belirli kabuller ve 
+sınır 
+koşulları 
+altında 
+(Örn: 
+Navier-Stokes 
+Denklemlerinin analitik çözümleri: Couette Akışı, 
+Pouiseulle Akışı gibi görece basit akışlar için) mümkün 
+olabilmektedir. Analitik yöntemlerin çözüm alanının 
+kısıtlı olması ve deneysel yöntemlerin maliyeti göz 
+önüne alındığında sayısal yöntemlerin kullanılmasına 
+yönelik bir motivasyon ortaya çıkmaktadır. Sayısal 
+yöntemlerin Akışkanlar Mekaniği alanındaki uygulaması 
+çözümün gerçekleştirildiği ölçeklere göre iki ana gruba 
+ayrılabilir: makroskobik yöntemler ve mikroskobik 
+yöntemler. 
+
+ 
+
+konu hakkında ulusal literatüre katkı sağlamak, hem de 
+klasik Navier-Stokes çözümlerine alternatif bir nümerik 
+yöntem 
+olan 
+Lattice 
+Boltzmann 
+yönteminin 
+uygulanmasını çalışma kapsamında oluşturulan orijinal 
+kod kullanılarak test etmek amaçlanmıştır.     
+
+2. 
+TEORİK 
+ÖZET 
+(THEORETICAL 
+SUMMARY) 
+
+Lattice Boltzmann yönteminde varsayılan partikül 
+topluluklarının 
+hareketlerini 
+tanımlayan 
+dağılım 
+fonksiyonları söz konusudur. Dağılım fonksiyonlarının 
+kökeni ise Maxwell’in gaz mekaniğine dair yaptığı 
+çalışmalara dayanmaktadır. 
+
+Makroskobik 
+yöntemde 
+esas 
+olan 
+süreklilik 
+yaklaşımıdır. Süreklilik yaklaşımında enerji, kütle ve 
+momentumun korunumu kanunlarını sonsuz küçüklükte 
+bir kontrol hacmine uygulayarak adi veya kısmi 
+diferansiyel denklemler elde edebilmek ve sonrasında 
+farklı sayısal yöntemler kullanılarak bu denklemleri 
+çözmek 
+mümkündür. Mikroskobik yöntemde ise 
+Moleküler Dinamik (MD) prensipleri uyarınca akışkanı 
+oluşturan her bir partikülün hareketinin izlenmesi esastır. 
+Özellikle küçük ölçeklerde, makro yaklaşıma göre 
+gerçek sonuçlara yaklaşım açısından daha hassas bir 
+yöntem olsa da moleküler dinamik yöntemlerinin veriler 
+için kaynak gereksinimlerinin çok daha fazla olması 
+dolayısıyla standart bir akışkanlar mekaniği problemini 
+MD yöntemleriyle çözebilecek sistemler henüz mevcut 
+değildir.  
+
+2.1 Maxwell-Boltzmann 
+Dağılım 
+Fonksiyonu 
+(Maxwell Boltzmann Distribution) 
+
+Önceki bölümde de belirtildiği üzere Moleküler Dinamik 
+(MD) yöntemleriyle her bir partikülün izlenmesi 
+suretiyle çözümün elde edilmesi, makro bir sistem için 
+olanak dışıdır. Dolayısıyla ortalama değerler gündeme 
+gelmektedir. Maxwell’in burada ileri sürdüğü tez, her bir 
+partikülün her bir zaman aralığındaki konum ve 
+hızlarının bilinmesinin gerekli olmadığı üzerinedir [10]. 
+Maxwell gaz dinamiğine ilişkin çalışmaları sonucu ideal 
+bir gazın denge halinde özel bir dağılım fonksiyonuna 
+sahip olduğunu ortaya koymuştur. Maxwell dağılım 
+fonksiyonu aslında bir olasılık fonksiyonu olup, parçacık 
+grubunun belirli bir zaman aralığındaki hız dağılım 
+olasılığını hesaplar. Matematiksel olarak, 
+
+  𝑓(𝑐) = 4𝜋(
+
+2𝜋𝑘𝑇)3/2𝑐2𝑒
+
+𝑚
+
+−𝑚𝑐2
+
+2𝑘𝑇                                     (1) 
+
+Moleküler/mikro düzey ile makro düzey arasında geçişin 
+sağlanabilmesi 
+için 
+“İstatistiksel 
+Mekanik” 
+yöntemlerinin kullanılması bu noktada makul bir 
+seçenek oluşturmaktadır. Çünkü makro düzeyde, tekil 
+partiküllerin davranışlarının bir önemi yoktur, önemli 
+olan sonuçta ortaya çıkan etkilerdir. Dolayısıyla her bir 
+partikülün konum ve hızlarının bilinmesine gerek yoktur. 
+Lattice Boltzmann yöntemi, ölçek olarak sözü edilen iki 
+yöntemin arasında kabul edilebilir. Yöntemin temel 
+prensibi, mikro ölçek ile makro ölçek arasında, her bir 
+partikülün davranışını değil bir partiküller topluluğunun 
+davranışını ele almak suretiyle bir bağ oluşturmaktır. 
+Makro ile mikro ölçek arasındaki bu ölçeğe de “Mezo 
+Ölçek (İng. Meso-scale)” adı verilmektedir. Bunu 
+sağlayan da “Dağılım Fonksiyonu (İng. Distribution 
+Function)”’dur. Dağılım fonksiyonu bu partiküller 
+topluluğunun davranışlarını tanımlayan bir fonksiyondur 
+[1-2]. 
+
+şeklindedir. 
+Bu 
+fonksiyon 
+bir 
+dağılım 
+olasılık 
+fonksiyonudur ve fiziksel uygulamalarda sıcaklık 
+dağılımı, basınç dağılımı şeklinde uygulama alanları da 
+bulabilmektedir. Böyle bir hız dağılımında tekil bir 
+partikülün anlık spesifik hızını tespit etmek imkansızdır, 
+çünkü partikül hızları geniş bir aralıkta sürekli olarak 
+değişim göstermektedirler. Burada daha anlamlı olacak 
+şey, anlık bir hızdan ziyade belli bir hız aralığındaki 
+parçacıkların tespit edilmesidir. Dolayısıyla eşitlik (1)’de 
+verilen Maxwell dağılım denkleminin belli bir hız 
+aralığında integrasyonu gereklidir. Ludwig Boltzmann 
+daha sonra yaptığı çalışmalarla Maxwell denklemini 
+genelleştirmiş ve ideal gazın denge durumuna ulaşması 
+konusunu 
+açıklamıştır 
+[11]. 
+Maxwell 
+dağılım 
+denkleminin özel bir formu olan Boltzmann dağılım 
+denklemi aşağıda yer almaktadır:  
+
+Hesaplamalı Akışkanlar Dinamiği (HAD) konusunda 
+kod verifikasyonu ve validasyonu bakımından referans 
+kabul edilen Oyuk Akışı (İng. Cavity Flow) ve Basamak 
+Üzerinden Kanal Akışı (İng. Backward Facing Step 
+Flow) için uluslararası literatürde Navier-Stokes bazlı 
+çalışmaların [3-5] yanı sıra Lattice Boltzmann Yöntemi 
+ile 
+çeşitli 
+tarihlerde 
+gerçekleştirilmiş 
+çalışmalar 
+bulunmaktadır [6-9]. Ancak sözü edilen referans HAD 
+problemlerinin LBM ile çözümüne ilişkin ulusal 
+literatürde yazarların bilgisi dâhilinde bir çalışma 
+olmamakta, yalnızca Navier-Stokes bazlı çözümler 
+olarak ön plana çıkmaktadır [4]. Mevcut çalışma ile hem  
+
+𝑓(𝑐) = (
+
+2𝜋𝑘𝑇)3/2𝑒−𝑚𝑐2
+
+𝑚
+
+2𝑘𝑇                                                (2) 
+
+2.2 Boltzmann 
+Taşınım 
+Denklemi 
+(Boltzmann 
+Transport Equation) 
+
+Dağılım fonksiyonu, bir önceki bölümde bahsedildiği 
+gibi, akışkan partiküllerinin belirli bir zamanda (t) belirli 
+bir hızla (c) belirli bir yönde hareket edebilme 
+olasılıklarını temsil eder. Yani; 𝑓(𝑟, 𝑐, 𝑡) dağılım 
+fonksiyonu olmak üzere söz konusu fonksiyon bir t 
+zamanında, r ile r+dr konum aralığında c ile c+dc 
+aralığındaki hızlarla bulunma ihtimali olan partiküllerin 
+sayısını ifade etmektedir. Eğer bu partikül sistemine 
+
+ 
+ 
+ 
+
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+ 
+ 
+117 
+
+dışarıdan bir F kuvveti uygulanırsa, birim kütleli gaz 
+molekülünün hızı c’den c+ Fdt’ye, konumu ise r’den r+ 
+cdt’ye ulaşacaktır. Eğer gaz molekülleri arasında 
+herhangi bir çarpışma olmazsa, dışarıdan kuvvet 
+uygulanmadan önceki gaz moleküllerinin sayısı ile 
+kuvvet uygulandıktan sonraki gaz molekülleri sayısı eşit 
+olacaktır. Dolayısıyla da matematiksel olarak, 
+
+“Serbest Akış (İng. Free Streaming)” evresi adı 
+verilmektedir [12]. Bu evrede partiküller arasında 
+herhangi 
+bir 
+çarpışmanın 
+vuku 
+bulmadığı 
+varsayılmaktadır. 
+
+Eğer moleküller arasında çarpışma da gerçekleşirse 𝑑𝑟𝑑𝑐 
+aralığında partikül sayıları bakımından bir fark 
+oluşacaktır. Dağılım fonksiyonunun başlangıç ve bitiş 
+durumu 
+arasındaki 
+değişim 
+oranına 
+“Çarpışma 
+Operatörü (İng. Collision Operator)” adı verilir ve Ω 
+simgesi ile gösterilir. Sonuç olarak partikül sayısının 
+hesaplanmasında kullanılan genel denklem aşağıdaki 
+şekilde yazılabilir [1-2, 12]: 
+
+𝑓(𝑟+ 𝑐𝑑𝑡, 𝑐+ 𝐹𝑑𝑡, 𝑡+ 𝑑𝑡) −𝑓(𝑟, 𝑐, 𝑡)𝑑𝑟𝑑𝑐= 0       (3) 
+
+şeklinde ifade edilebilir. Burada 𝑓(𝑟, 𝑐, 𝑡) kuvvet 
+uygulanmadan önceki partikül sayısını, 𝑓(𝑟+ 𝑐𝑑𝑡, 𝑐+
+𝐹𝑑𝑡, 𝑡+ 𝑑𝑡) terimi ise kuvvetten sonraki partikül 
+sayısını ifade etmektedir. Denklemin bu haline akışın 
+
+ 
+
+ 
+
+     𝑓(𝑟+ 𝑐𝑑𝑡, 𝑐+ 𝐹𝑑𝑡, 𝑡+ 𝑑𝑡) −𝑓(𝑟, 𝑐, 𝑡)𝑑𝑟𝑑𝑐= 𝛺(𝑓)𝑑𝑟𝑑𝑐𝑑𝑡                                                                 (4) 
+
+ 
+
+Bu eşitlik, fiziksel olarak şöyle yorumlanabilir: Dağılım 
+fonksiyonundaki toplam değişim miktarı, moleküllerin 
+çarpışma oranlarına eşittir. Dışarıdan kuvvet etkisinin 
+olmadığı bir sistem için Boltzmann denklemi eşitlik (4) 
+aşağıdaki şekilde yazılabilir: 
+
+2.3 Bhatnagar-Gross-Krook 
+Modeli 
+(Bhatnagar 
+Gross Krook Model) 
+
+Çıktılarda büyük sapmalara yol açmaksızın çarpışma 
+operatörü (Ω) terimine basit bir modelle yaklaşmanın söz 
+konusu olabileceği düşüncesiyle bir model ilk defa 
+Bhatnagar-Gross ve Krook (BGK) tarafından 1954 
+yılında ortaya konulmuştur [13]. Bu modele göre 
+çarpışma operatörü 𝛺 
+
+𝜕𝑓
+
+𝜕𝑡+ 𝑐 . 𝛻𝑓= 𝛺                                                           (5) 
+
+Burada c ve 𝛻𝑓 birer vektördür. Buradaki problem, 
+denklemden de anlaşılabileceği üzere 𝛺’nın f’in bir 
+fonksiyonu olması, dolayısıyla eşitlik (5) ile verilen 
+denklemin analitik çözümü mümkün olmayan bir 
+integro-diferansiyel denklem haline gelmesidir [2]. Bu 
+sebeple çarpışma durumunu modellemek için, teorinin 
+geliştirilmeye 
+başlanmasından 
+itibaren, 
+çeşitli 
+matematiksel modeller ortaya konmuştur. Bu modeller 
+fiziksel olarak gerçekleştiği varsayılan çarpışma olayının 
+benzetimi için kullanılırlar. Kullanılan çarpışma modeli, 
+benzetimin (simülasyonun) kararlılığı ve hassasiyetini 
+doğrudan etkilemektedir. Bu bağlamda süreç içerisinde 
+kararlılık ve hassasiyet düzeyi yüksek fakat kompleks 
+modeller geliştirildiği gibi (Ör. Çoklu gevşeme zamanı 
+içeren model – İng. Multiple Relaxation Time) görece 
+daha basit fakat daha efektif ve yaygın kullanılan 
+modeller de geliştirilmiştir. Bu çalışma yapılırken tek 
+“Relaxation 
+Time” 
+içeren 
+Bhatnagar-Gross-Krook 
+çarpışma modeli kullanılmıştır. 
+
+𝛺= 𝜔(𝑓𝑒𝑞−𝑓) =
+
+1
+
+𝜏(𝑓𝑒𝑞−𝑓)                                  (6) 
+
+şeklinde tanımlanır. Burada 𝜔 çarpışma frekansı veya 
+sıklığı, 
+𝜏 
+ise 
+gevşeme 
+(İng. 
+Relaxation) 
+süresi/faktörüdür. Yerel denge dağılım fonksiyonu (İng. 
+Equilibrium 
+distribution 
+function) 
+𝑓𝑒𝑞 
+olarak 
+gösterilmiştir ve temeli Maxwell-Boltzmann dağılım 
+fonksiyonudur [13]. 𝛺 çarpışma operatörü BGK Modeli 
+ile yeniden ele alınırsa, harici kuvvetlerin olmadığı 
+Boltzmann denklemi (5) aşağıdaki hali alır: 
+
+𝜕𝑓
+
+𝜕𝑡+ 𝑐 . 𝛻𝑓=
+
+1
+
+𝜏(𝑓𝑒𝑞−𝑓)                                            (7) 
+
+2.4 BGK Lattice Boltzmann Denklemi ve Kafes 
+
+(Lattice) 
+Yerleşimleri 
+(Lattice 
+Boltzmann 
+Equation with BGK Model and Lattice 
+Arrangements) 
+
+ 
+
+Lattice Boltzmann Yöntemi’nde (7) denklemi süreksiz 
+hale getirilip (İng. Discretization) belirli bir kafes (İng. 
+Lattice) modeli üzerinde tanımlanmış yönlerde geçerli 
+kabul edilirse, aşağıdaki şekilde yazılabilir [6]:  
+
+ 
+
+ 
+
+𝑓𝑖(𝑟+ 𝑐𝑖𝛥𝑡, 𝑡+ 𝛥𝑡) −𝑓𝑖(𝑟, 𝑡) =
+
+𝛥𝑡
+
+𝜏[𝑓𝑖
+
+𝑒𝑞(𝑟, 𝑡) −𝑓𝑖(𝑟, 𝑡)]                                                   (8) 
+
+ 
+
+Eşitlik (8) zamana bağlı serbest akış ve çarpışmayı temsil 
+eden terimlerin sayısal olarak açılmasıyla elde edilmiş 
+Lattice-Boltzmann denklemidir, i indisi yönleri temsil 
+etmektedir. Bu temel denklem Lattice-Boltzmann 
+yöntemine dayanan sayısal çözümlerde Navier-Stokes 
+denklemleri yerine kullanılır. Boltzmann denkleminden 
+çoklu ölçek açılımları (İng. Multi-scale expansion, 
+
+örneğin 
+Chapman-Enskog 
+açılımı) 
+kullanılarak 
+süreklilik yaklaşımını yani Navier-Stokes denklemlerini 
+türetmek de mümkündür [2]. Bu denklemin avantajı, 
+basitliği ve pek çok farklı fiziksel durumda sadece bir 
+denge dağılım fonksiyonu ve kaynak terimi tanımlama 
+yoluyla uygulanabilir olmasıdır. Gerekli durumlarda (8) 
+
+118 
+ 
+ 
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+ 
+ 
+  
+
+ 
+
+denklemine bir kaynak veya dış kuvvet terimi eklemek 
+oldukça basittir [1-2].  
+
+2.5 Denge 
+Dağılım 
+Denklemi 
+(Equilibrium 
+Distribution Function) 
+
+Lattice Boltzmann yönteminde çözüm alanının “Lattice” 
+adı verilen hücresel kafes yapılarına bölünmesi 
+gerekmektedir. Her bir kafes noktasında bir arada 
+oldukları varsayılan hayali parçacık toplulukları, yani 
+dağılım fonksiyonları yerleşik durumdadır. Bu kafes 
+noktalarının sayısı, birbirine bağlanma biçimleri gibi 
+faktörler kafes yerleşimlerine bağlıdır [1-2]. Lattice 
+Boltzmann yönteminde problemin kaç boyutlu olarak ele 
+alındığını ve modeldeki hızların sayısını göstermekte 
+kullanılan terminoloji 𝐷𝑛𝑄𝑚 şeklindedir. Burada “n” 
+boyut sayısını (1-D, 2-D, 3-D gibi)  m ise kullanılan hız 
+modelini ve bağlantı sayısını (3 bağlantı, 5 bağlantı, 9 
+bağlantı gibi), ortaya koyar. Lattice Boltzmann 
+simülasyonlarında genelde iki boyutlu D2Q5 ve D2Q9 
+ile üç boyutlu D3Q19 ve D3Q27 gibi modeller 
+kullanılmaktadır. Kullanılan en yaygın modellerden 
+birisi olması ve mevcut çalışma da kullanılması 
+sebebiyle D2Q9 (İki boyutlu, 9 hızlı) modeli kısaca ele 
+alınacaktır.  
+
+Bir akış problemi için, Lattice-Boltzmann yöntemi 
+kullanılarak difüzyon, adveksiyon, momentum ve enerji 
+denklemleri çözülebilir. Yöntemin farklı problemlere 
+uygulanmasını sağlayan şey, kullanılan 𝑓𝑒𝑞 denge 
+dağılım fonksiyonlarının farklı olmasıdır.  
+
+𝑓𝑖
+
+𝑒𝑞= 𝛷𝜔𝑖[𝐴+ 𝐵𝑐𝑖 . 𝑢+ 𝐶(𝑐𝑖. 𝑢)2 + 𝐷𝑢2]            (10) 
+
+Burada u makroskobik akış hızı vektörü olup, A,B,C,D 
+ise sırasıyla kütle, momentum ve enerjinin korunumu 
+denklemleri uyarınca belirlenmesi gereken sabitlerdir. 𝛷 
+ise yoğunluk, sıcaklık veya karışım oranları gibi sayısal 
+büyüklükleri temsil eder ve tüm dağılım fonksiyonlarının 
+toplamına eşittir. Matematiksel olarak ifade etmek 
+gerekirse: 
+
+𝛷 = ∑
+𝑓𝑖
+
+𝑒𝑞
+𝑖=𝑛
+𝑖=0
+                                                          (11) 
+
+Burada ise n kullanılan modeldeki kafes bağlantılarının 
+sayısını gösterir [1-2]. D2Q9 modeli için denge dağılım 
+fonksiyonu aşağıda verilmiştir [7]: 
+
+Merkezinde bir hareketsiz nokta ihtiva eden bu modelde 
+ek olarak 8 hız vektörü bulunmaktadır, modelin şematik 
+gösterimi Şekil 1’de yer almaktadır: 
+
+𝑐𝑘.𝑢
+
+1
+
+(𝑐𝑘.𝑢)2
+
+1
+
+𝑢2
+
+𝑓𝑘
+
+𝑒𝑞= 𝑤𝑘𝜌(𝑥, 𝑡) [1 +
+
+𝑐𝑠2 +
+
+2
+
+𝑐𝑠4
+−
+
+2
+
+𝑐𝑠2]            (12) 
+
+Burada 𝜌(𝑥, 𝑡) kütlenin korunması prensibi uyarınca 
+elde edilmiş yoğunluk fonksiyonunu, 𝑐𝑘 hız vektörünü,𝑐𝑠 
+mezo ölçekteki kafes ses hızı’nı, u ise makroskobik hız 
+vektörünü temsil etmektedir. Eşitlik (12) ile verilen 
+denge dağılım fonksiyonunun ancak Mach sayısı düşük 
+tutulduğunda geçerli olduğunu belirtmek gerekir. Lattice 
+Boltzmann yöntemine ilişkin literatürde buna düşük 
+Mach sayısı yaklaşımı (İng. Low Mach Number 
+Approximation) adı verilmektedir. Bu durum yöntemin 
+hata miktarının mezo ölçek için tanımlanan Mach 
+sayısının 
+karesiyle 
+orantılı 
+olmasından 
+kaynaklanmaktadır.  Bu konuda ayrıntılı bilgi için 
+Lattice Boltzmann yönteminin çok boyutlu bir hata 
+analizi olan ve aynı zamanda LBM’den Navier-Stokes 
+denklemlerinin türetilmesi için kullanılan Chapman-
+Enskog analizi incelenebilir [15].  
+
+ 
+
+Şekil 1: D2Q9 Modelinin şematik gösterimi (D2Q9 
+Model - Schematic)  
+
+Şekil incelendiğinde, modelin orijin (0,0) noktası olarak 
+0 numaralı parçacık alınırsa, her bir hız vektörünün x ve 
+y koordinatları aşağıdaki şekilde olacaktır: 
+
+ 𝑐𝑖(𝑥) = {0,1, −1,1,0,1, −1, −1, 1} 
+
+2.6 Lattice 
+Boltzmann 
+Yönteminde 
+Mach 
+ve 
+Reynolds Sayıları (Mach and Reynolds Numbers 
+in Lattice Boltzmann Method) 
+
+ 𝑐𝑖(𝑦) = {0,0,0,0, −1,1,1, −1, −1}                              (9) 
+
+Yani örneğin 1 numaralı vektör 𝑐1(1,0) şeklinde, 4 
+numaralı vektör 𝑐4(0, −1) şeklinde hız vektörleri olarak 
+tanımlanmıştır. Bu vektörler ağırlık faktörü (İng. 
+Weighting 
+Factor) 
+adı 
+verilen 
+katsayılarla 
+ağırlıklandırılırlar. Dağılım fonksiyonu son tahlilde bir 
+olasılık fonksiyonu olduğundan, bu ağırlık faktörleri 
+aslında belirli çalışmalar sonucunda belirlenmiş ve 
+parçacık gruplarının modeldeki 9 farklı noktaya hareket 
+etme ihtimallerine göre tespit edilmişlerdir. D2Q9 için 
+partikül grubunun ağırlık faktörleri sırasıyla; merkezde 
+kalabilmesi ihtimali için 𝑤0 = 4 9
+⁄ , doğu-batı-kuzey ve 
+
+Lattice Boltzmann Yönteminin kararlılığı ve elde 
+edilecek sonuçların hassasiyetini kontrol edebilmek için 
+çeşitli akış parametreleri arasında makro ölçek ve kafes 
+düzeyindeki ilişkiyi kurmak gerekmektedir. Lattice 
+Boltzmann 
+Yöntemi’nde 
+makroskobik 
+akışkan 
+viskozitesi, gevşeme sıklığı (İng. Relaxation Frequency) 
+parametresine bağlı olarak aşağıdaki gibi tanımlanır [1-
+2]: 
+
+𝜈= 
+
+𝛥𝑥2
+
+3𝛥𝑡(𝜔−0.5)                                                     (13) 
+
+güney yönlere hareketi ihtimalleri için 𝑤1−4 = 1 9
+⁄ , 
+kuzeydoğu-kuzeybatı-güneydoğu-güneybatı 
+yönlerine 
+hareket 
+ihtimaline 
+içinse 
+𝑤5−8 = 1 36
+⁄
+ 
+olarak 
+belirlenmiştir [14].  
+
+Burada 𝛥𝑥 hücreler veya kafes noktaları arası uzaklık, 𝛥𝑡 
+ise iki zaman adımı arasında geçen süredir. Pratikteki 
+uygulamalarda 𝛥𝑥 ve 𝛥𝑡 birim büyüklük kabul 
+edilmektedir. Bu çalışma kapsamında da 𝛥𝑥 ve 𝛥𝑡 
+değerleri birim büyüklük olarak ele alınacaktır.  
+
+Reynolds sayısı,  
+
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+ 
+ 
+119 
+
+𝑅𝑒= 𝑈𝐿/𝜈                                                                (14) 
+
+Serbest akış evresinde hayali olarak tek bir parçacık gibi 
+kabul edilen partikül topluluğunun denge halinde 
+bulunduğu varsayılan merkez noktasından dağılım 
+vektörlerinin yönleri doğrultusunda herhangi bir engelle 
+karşılaşmaksızın yayılmaya başladıkları kabul edilir. 
+Şekilde D2Q9 modeli için serbest akış evresi şematik 
+olarak gösterilmiştir.  
+
+olarak hesaplanırken, U ve L’nin makro ölçekte sırasıyla 
+karakteristik hız ve karakteristik uzunluk olduğu 
+bilinmektedir. Eşitlik (13)’de her iki taraf da “𝑈𝐿” ile 
+bölünerek matematiksel bir manipülasyon yapılırsa 
+Mach sayısı veya “Lattice Mach sayısı”: 
+
+𝛥𝑥
+
+𝑀𝑎=
+
+𝐿√3 (𝜔−0.5) 𝑅𝑒                                             (15) 
+
+şeklinde elde edilir [1-2].  
+
+L/Δx değeri, karakteristik uzunluk yönündeki “N” adet 
+kafes noktası sayısını ortaya koyar. Δx birim uzunluk 
+olduğu için LBM uygulamalarında genellikle L=N 
+alınarak işlem yapılır, bu durumda “Lattice Reynolds 
+Sayısı”, makro Re sayısı ile aynı değere sahip olacaktır.  
+
+Yeterli hassasiyette bir çözüm için Mach sayısının düşük 
+tutulması gerektiğinden eşitlik (15) içinde görülen 𝜔 
+veya 𝐿 değerleri düşük bir Mach sayısını temin edecek 
+şekilde seçilmelidir. Genel olarak U’nun, LBM 
+konusunda yapılan kararlılık çalışmalarına dayalı olarak 
+0.2 birimi aşmayacak şekilde seçilmesi istenmektedir [1-
+2]. Hassasiyet için düşük Mach sayısını veren 
+parametrelerin seçiminin ardından 𝑈 ve 𝜈 değerleri 
+çözümün kararlılığını sağlayacak bir aralıkta olmak 
+kaydıyla rahatlıkla seçilebilir. Lattice Boltzmann 
+Yöntemi kullanılarak elde edilen sayısal çözümlerin 
+hassasiyeti 
+ve 
+doğrulaması 
+“sayısal 
+sonuçlar” 
+bölümünde irdelenecektir.  
+
+ 
+
+Şekil 2: D2Q9 Modelinde serbest akış evresi (Free 
+Streaming in D2Q9 Model) 
+
+Parçacıklar herhangi bir çarpışma yaşamadıkları için bir 
+önceki kafes noktasındaki dağılım fonksiyonu ile bir 
+sonraki kafes noktasındaki dağılım fonksiyonunun 
+büyüklüğü arasında bir fark olmayacaktır. Matematiksel 
+olarak göstermek gerekirse: 
+
+𝑓𝑖(𝑟+ 𝑐𝑖𝛥𝑡, 𝑡+ 𝛥𝑡) −𝑓𝑖(𝑟, 𝑡) = 0                            (19) 
+
+Çarpışma evresi ise aynı noktaya hareketlenmiş iki 
+parçacık topluluğunun yani bir diğer deyişle onları temsil 
+eden iki dağılım fonksiyonunun o noktada buluşması 
+olarak kabul edilir. Çarpışmanın gerçekleştiği noktada 
+bir yerel denge dağılım fonksiyonu (İng. Local 
+Equilibrium Distribution Function) tanımlanır ve bir 
+araya gelip yeni bir hayali parçacık oluşturmuş iki 
+parçacık topluluğunun bu denge noktasından başlayarak 
+dağılım vektörlerinin yönlerinde yeniden serbest akışa 
+geçmesiyle sona erer. 
+
+2.7 Lattice 
+Boltzmann 
+Yönteminde 
+Kütle 
+ve 
+Momentum’un Korunumu (Conservation of the 
+Mass and Momentum in Lattice Boltzmann 
+Method) 
+
+Makroskobik akışkan 
+yoğunluğu, her bir kafes 
+noktasındaki dağılım fonksiyonlarının toplamına eşittir. 
+D2Q9 modeli için makroskobik yoğunluk [1-2, 12]: 
+
+𝜌= ∑
+𝑓𝑘
+8
+𝑘=0
+                                                                (16) 
+
+olacaktır. Makroskobik momentum ise 𝑐𝑘 kafes 
+hızlarının dağılım fonksiyonlarıyla ağırlıklandırılmış 
+ortalamaları olarak düşünülebilir [1-2, 12]: 
+
+𝜌𝑢= ∑
+𝑓𝑘𝑐𝑘
+8
+𝑘=0
+                                                          (17) 
+
+Buradan makroskobik hız: 
+
+𝑢=
+
+𝜌∑
+𝑓𝑘𝑐𝑘
+8
+𝑘=0
+                                                         (18) 
+
+1
+
+şeklinde elde edilir. 
+
+Şekil 3: D2Q9 Modelinde çarpışma evresi (Collision in 
+D2Q9 Model) 
+
+ 
+
+2.8 Lattice Boltzmann Yöntemiyle Sıkıştırılamaz 
+
+Akışın Modellenmesi (Incompressible Fluid 
+Flow Modelling by Lattice Boltzmann Method) 
+
+Çarpışmanın matematiksel ifadesi: 
+
+Lattice Boltzmann yönteminde hangi model kullanılırsa 
+kullanılsın, akışın iki temel evreden geçerek devam ettiği 
+varsayılır. Bu evreler birbirini izleyen serbest akış (İng. 
+Free Streaming) ve çarpışma (İng.collision) evreleridir. 
+Merkezde bulunduğu kabul edilen parçacık topluluğunun 
+çevre düğüm noktalarına hareketleri bu eksende ele 
+alınır.  
+
+𝑓𝑖(𝑟+ 𝑐𝑖𝛥𝑡, 𝑡+ 𝛥𝑡) −𝑓𝑖(𝑟, 𝑡) = 𝛺                           (20) 
+
+olacaktır. BGK ile modellenmiş çarpışma operatörü ve 
+dolayısıyla çarpışma evresi de eklendiğinde serbest akış-
+çarpışma evrelerini takip ederek gelişen akışın genel 
+denklemi eşitlik (8)’de verilenin bir başka gösterimiyle 
+aşağıdaki gibi verilebilir:  
+
+  𝑓𝑖(𝑟+ 𝑐𝑖𝛥𝑡, 𝑡+ 𝛥𝑡) −𝑓𝑖(𝑟, 𝑡) =
+
+1
+
+𝜏(𝑓𝑖
+
+𝑒𝑞(𝑟, 𝑡) −𝑓𝑖(𝑟, 𝑡))                                                  (21) 
+
+120 
+ 
+ 
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+
+ 
+
+2.9 Sınır Koşulları (Boundary Conditions) 
+
+Lattice Boltzmann yönteminin Navier-Stokes tabanlı 
+çözücülere 
+göre 
+dezavantajlarından 
+birisi, 
+sınır 
+koşullarının Navier-Stokes çözümlerindeki gibi kolayca 
+uygulanamamasıdır. Lattice Boltzmann yönteminde sınır 
+noktalarındaki dâhili dağılım fonksiyonlarının doğru bir 
+biçimde belirlenmesi gerekmektedir.  Bir diğer deyişle 
+Lattice-Boltzmann yöntemiyle çözüm yaparken, örneğin 
+her bir “serbest akış” evresinden sonra sınır bölgelerinin 
+hemen 
+yanındaki noktalar için dâhili yoğunluk 
+dağılımları 
+bilinememektedir. 
+Dolayısıyla 
+verilen 
+makroskobik 
+sınır 
+koşullarının 
+bu 
+dağılım 
+fonksiyonlarına uyarlanması gerekmektedir 
+
+bir serbest akış evresinden sonraki iç dağılım 
+fonksiyonları bilinmeyen durumunda olacaktır.  
+
+Kaymazlık koşulu, en basit sınır koşullarından biri olup, 
+duvar yüzeyi üzerinde akışkan hızının sıfır olduğunu 
+belirtir. LBM’de dilimizde “yansıma” olarak ifade 
+edilebilecek olan “Bounce-Back” prensibi, kaymazlık 
+koşulunun geçerli olduğu yüzeylerde akışı modellemek 
+için rahatlıkla uygulanabilir. Yansıma prensibini başarılı 
+bir biçimde uygulamanın en basit yolu söz konusu 
+geometrinin fiziksel sınırları ile kafes yapısının 
+sınırlarını örtüştürmekten geçer [1-2]. Örneğin Şekil 4 
+incelenirse, 
+sınır 
+koşulları 
+olmadığında 
+akışkan 
+partikülünün duvara çarptıktan sonra 𝑓8, 𝑓4 ve 𝑓7 dağılım 
+fonksiyonlarının ne olacağı bilinememektedir.   
+
+Şekil 5: Serbest akış evresinden sonra sınırlardaki 
+bilinmeyen dağılım fonksiyonları (kesikli çizgiler) 
+(alıntıdır [2]) (Unknown Distribution Functions at 
+Boundaries After the Free Streaming Phase, adapted 
+from [2])  
+
+ 
+
+Örneğin kuzey sınırı 𝑈= [𝑢𝑛
+
+𝑣𝑛] şeklinde hareketli olarak 
+
+tanımlanırsa, yukarıda sözü edilen dörtlü denklem 
+sistemi aşağıdaki şekilde yazılarak bilinmeyen dağılım 
+fonksiyonları elde edilebilir: 
+
+𝜌𝑛= 𝑓1 + 𝑓2 + 𝑓3 + 𝑓4 + 𝑓5 + 𝑓6 + 𝑓7 + 𝑓8               (22) 
+
+𝜌𝑛𝑢𝑛= 𝑓1 + 𝑓5 + 𝑓8 −𝑓6 −𝑓3 −𝑓7                           (23) 
+
+𝜌𝑛𝑣𝑛= 𝑓2 + 𝑓5 + 𝑓6 −𝑓7 −𝑓4 −𝑓8                           (24) 
+
+𝑒𝑞= 𝑓2 −𝑓2
+
+𝑒𝑞                                                   (25) 
+
+ 
+
+𝑓4 −𝑓4
+
+Burada denge dağılım denklemleri yerine Maxwell-
+Boltzmann genel dağılım denklemi yazılıp gerekli 
+cebirsel 
+manipülasyonlar 
+yapıldığında, 
+kuzeydeki 
+hareketli sınırın bilinmeyenleri aşağıdaki şekilde 
+hesaplanmıştır [17]: 
+
+Şekil 4: Yansıma sınır koşulu (alıntıdır [16]) (Bounce 
+Back Boundary Condition, adapted from [16]) 
+
+Burada yansıma prensibi uygulanırsa, bu dağılım 
+fonksiyonları 𝑓6 = 𝑓8, 𝑓4 = 𝑓2, 𝑓7 = 𝑓5 olarak tespit 
+edilecektir. 
+Yapılan 
+çalışmalarda 
+yansıma 
+sınır 
+koşulunun birinci dereceden yakınsaklığa sahip olduğu 
+tespit edilmiştir [1-2, 16]. Sınırlardaki bu durum teorik 
+olarak ikinci dereceden yakınsaklığa sahip olduğu 
+bilinen [1-2] Lattice Boltzmann yönteminin toplam 
+yakınsaklık derecesini, yansıma uygulandığında 2’nin 
+altına düşürmektedir.  
+
+Kuzey sınırı için: 
+
+𝜌𝑛=
+
+1+𝑣𝑛[𝑓0 + 𝑓1 + 𝑓3 + 2(𝑓2 + 𝑓6 + 𝑓5)]               (26) 
+
+1
+
+𝑓4 = 𝑓2 −
+
+2
+
+3 𝜌𝑛𝑣𝑛                                                         (27) 
+
+𝑓7 = 𝑓5 +
+
+1
+
+2 (𝑓1 −𝑓3) −
+
+1
+
+6 𝜌𝑛𝑣𝑛−
+
+1
+
+2 𝜌𝑛𝑢𝑛                   (28) 
+
+Sayısal uygulamalarda bazen bir alanın sınırları belirli 
+bir hızla hareket halinde olabilir. Sınırların bu hareketli 
+hali akışkana da belirli bir momentum kazandıracaktır ki 
+bu durumu yansımanın durağan yapısıyla açıklamak 
+mümkün değildir. Dolayısıyla yansıma denilen sınır 
+koşulunda bu momentum etkisini de içerecek şekilde 
+bazı değişiklikler yapılması gerekmiştir. Zou ve He 1997 
+yılında yansıma koşulunu sınırların normali yönünde 
+genişletecek bir öneride bulunmuşlardır [17].  
+
+𝑓8 = 𝑓6 −
+
+1
+
+2 (𝑓1 −𝑓3) −
+
+1
+
+6 𝜌𝑛𝑣𝑛+
+
+1
+
+2 𝜌𝑛𝑢𝑛                   (29) 
+
+Diğer yönlerdeki sınırlar için de aynı yöntem 
+kullanılabilir. 
+
+3. 
+SAYISAL 
+SONUÇLAR 
+(NUMERICAL 
+RESULTS) 
+
+Bu bölümde Lattice Boltzmann yöntemi kullanılarak 
+elde edilen çözümlerden alınan sonuçlar sunulmaktadır. 
+Yapılan 
+çalışmada 
+Hesaplamalı 
+Akışkanlar 
+Dinamiği’nin iki boyutlu iki temel problemi üzerinde 
+durulmuştur. 
+İlk 
+olarak 
+kapak 
+tarafından 
+hareketlendirilen oyuk akışı (İng. Lid Driven Cavity 
+Flow), ikinci olarak da Basamak Üzerinden Kanal Akışı 
+(İng. Backward Facing Step Flow).   
+
+Bu çalışmada Zou ve He, sırasıyla makroskobik 
+yoğunluk ve momentumu temsil eden (16) ve (17) 
+denklemlerini dört bilinmeyen ve dört denklem elde 
+etmek amacıyla sınıra normal denge koşullarıyla birlikte 
+uygulamışlardır. Burada, Şekil 5’te gösterildiği üzere her 
+
+ 
+ 
+ 
+
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+ 
+ 
+121 
+
+3.1 Kapak Tarafından Hareketlendirilen Oyuk Akışı 
+(Lid-Driven Cavity Flow) 
+
+Oyuk akışı problemi aslen iki boyutlu kare bir oyuk 
+içerisinde gerçekleşen viskoz bir akıştır. Söz konusu kare 
+oyuk içerisinde yer alan sıkıştırılamaz akışkan karenin 
+üst kenarı konumunda olan ve sabit bir hızla bir yöne 
+hareket eden kapak vasıtasıyla hareketlendirilmektedir. 
+Bu problem özelinde farklı Reynolds sayılarında 
+(Re=100, 400, 1000, 3200, 5000 ve 7500) çözümler 
+gerçekleştirilmiştir. İlk olarak çözümlerde elde edilen 
+sonuçların kullanılan kafes sayısından bağımsız olup 
+olmadığını görebilmek için çeşitli Reynolds sayıları için 
+kullanılan ağ nokta sayısı artırılarak sonuçların değişimi 
+incelenmiş, belirli bir kafes sayısından sonra sonuçların 
+ihmal edilecek düzeyde değiştiği anlaşılmıştır. Referans 
+parametre olarak oyuğun merkezinde oluşan birincil 
+(ana) vorteksin koordinatları incelenmiştir. Re=100 ve 
+1000 için alınan sonuçlar aşağıdaki Şekil 6’da yer 
+almaktadır.   
+
+Şekil 7: Re=100,400,1000,3200,5000 ve 7500 için Ana 
+Vorteks’in Koordinatları (Coordinates of Primary 
+Vortex for Re=100,400,1000,3200,5000 and 7500) 
+
+ 
+
+Ağ sayısının çözüme etkisi incelendikten sonra, oyuk 
+akışı problemi için Lattice Boltzmann yöntemiyle elde 
+edilen farklı sonuç çıktıları literatür sonuçlarıyla 
+kıyaslanmıştır. Probleme ilişkin literatürde Ghia ve 
+arkadaşlarının 1982 [3] tarihli makalesi önemli bir yer 
+teşkil etmekte olduğundan elde edilen sonuçlar bu 
+kaynak sonuçlarıyla karşılaştırılmıştır. Literatürde oyuk 
+akışı problemiyle ilgili referans parametrelerden ilki 
+kapağın hareketiyle kare şeklindeki boşluk içerisinde 
+oluşan girdaplardan (İng. Vortex) boşluğun içerisinde yer 
+alan birincil (ana) girdap (İng. Primary Vortex)’ın 
+merkez koordinatlarıdır. Çözümün gerçekleştirildiği 
+aralıktaki Ghia ve LBM sonuçları aşağıdaki Şekil 7’de 
+yer almaktadır. LBM ile elde edilen sonuçlar referans 
+sonuçlardan maksimum %1 civarında sapmalarla 
+örtüşmektedir. 
+
+Oyuk akışı problemi için literatürde yer alan bir diğer 
+karakteristik sonuç çıktısı ise, boşluğun geometrik 
+merkez noktasında farklı Reynolds sayıları için hız 
+bileşenlerinin (u ve v hızları) sırasıyla dikey ve yatay 
+yönlerdeki profilleridir. Çalışmanın yapıldığı Re=100, 
+400, 1000, 3200, 5000 ve 7500 sayıları için boşluğun 
+geometrik merkezinde dikey ve yatay yönlerdeki 
+normalize edilmiş hız profilleri (𝑣/𝑢0 vs 𝑥 ve 𝑢/𝑢0 vs 𝑦)   
+çıkarılmış ve Ghia ve diğerlerinin 1982 tarihli 
+sonuçlarıyla [3] karşılaştırılmıştır. 
+
+Şekil 8’deki iki grafikten de görüldüğü üzere nispeten 
+düşük Reynolds sayıları olarak nitelendirebileceğimiz 
+Re=100, 400 ve 1000 için geometrik merkezdeki u ve v 
+hız profilleri, Ghia ve diğerlerinin 1982 tarihli 
+çalışmasındaki hız profilleriyle yakın bir uyum 
+göstermektedir. 
+Bu, 
+LBM’nin 
+düşük 
+Reynolds 
+sayılarında Navier-Stokes denklemlerini iyi temsil ettiği 
+tezini destekleyen bir bulgudur. 
+
+Şekil 9’da Re=3200, 5000 ve 7500 için sonuçların 
+birbirine yakın olması ve grafiklerin nispeten üst üste 
+binmesi dolayısıyla net olarak anlaşılamasa da veriler 
+incelendiğinde Ghia 1982 [3] tarihli sonuçlarla aradaki 
+farkın düşük Reynolds sayılarına kıyasla biraz daha fazla 
+olduğu anlaşılmaktadır. Ancak hata miktarları yüksek 
+Reynolds sayıları için de kabul edilebilir düzeylerdedir. 
+
+ 
+
+ 
+
+Şekil 6: Re=100 ve 1000 için artan kafes/hücre sayısına 
+karşı mutlak hatanın değişimi (Change in Absolute 
+Error at Re=100 and 1000 versus Increasing Cell 
+Number) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+122 
+ 
+ 
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+ 
+ 
+  
+
+ 
+
+ 
+ 
+
+(a) 
+(b) 
+
+Şekil 8 (a), (b): Re=100,400 ve 1000 için geometrik merkezde v ve u hız profilleri (v and u velocity profiles at the 
+geometrical center of cavity for Re=100,400 and 1000) 
+
+ 
+
+(b) 
+
+(a) 
+
+Şekil 9 (a), (b): Re=3200, 5000 ve 7500 için geometrik merkezde v ve u hız profilleri (v and u velocity profiles at the 
+geometrical center of cavity for Re=3200,5000 and 7500) 
+
+ 
+
+Lattice Boltzmann yönteminde çözümün yakınsaklık 
+derecesini (İng. Order of Convergence) belirlemek için 
+literatürde önerilmiş bir formülasyon kullanılmıştır [6]. 
+İlgili formülasyon aşağıda yer almaktadır: 
+
+formülasyonun kullanılabilmesi için her bir çözümde 
+hücre sayılarının 2 kat artırılmış olması gerekmektedir. 
+Dolayısıyla h, 2h ve 4h indisi sırasıyla en kabadan en 
+inceye hücresel ağ yapılarını temsil etmektedir. Oyuk 
+akışı için yakınsaklık derecesi hesaplanırken oyuğun 
+geometrik merkez noktasındaki 𝑢 hızı kullanılır ve buna 
+göre Re=1000 için farklı ağ yapılarından elde edilen 
+yakınsaklık derecesi hesaplanırsa: 
+
+𝑛~
+
+log [(∑|𝛷4ℎ−𝛷2ℎ|/𝑁)/(∑|𝛷2ℎ−𝛷ℎ|/𝑁)]
+
+log (2)
+           
+     (30) 
+
+Bu denklemde 𝛷 hesaplamada kullanılan değişkeni, 𝑁 
+ise hesaplama yapılan nokta sayısını ifade etmektedir. Bu 
+
+ 
+
+𝑛~
+
+log [(∑|𝛷4ℎ−𝛷2ℎ|/𝑁)/(∑|𝛷2ℎ−𝛷ℎ|/𝑁)]
+
+log (2)
+=
+
+log [|−0,06390+0,06605|/|−0,06605+0,07351|
+
+log (2)
+= 𝟏. 𝟕𝟗                                                    
+
+ 
+
+Lattice Boltzmann yöntemi, teorik bölümde de 
+anlatıldığı üzere ikinci dereceden yakınsaklığa sahiptir 
+Konuya ilişkin detaylı bilgi için literatürde yer alan 
+Chapman-Enskog analizi incelenebilir [15]. Bunun yanı 
+sıra uygulanan sınır koşullarının da toplam yakınsaklık 
+derecesini etkilediği bilinmektedir ve literatürde yer alan 
+
+çalışmalarda [2, 18-19] uygulanan yansıma sınır 
+koşulunun 
+birinci 
+dereceden 
+yakınsaklığa 
+sahip 
+olduğundan söz edilmektedir. Lattice Boltzmann 
+yönteminin yakınsaklık derecesini ve etkinliğini analiz 
+eden kapsamlı bir makalede [6] yansıma sınır koşulunun 
+kullanıldığı çözümlerde yakınsaklık derecesinin 1 ile 2 
+
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+ 
+ 
+123 
+
+arasında olduğu söylenmektedir. Mevcut çalışma 
+kapsamında elde edilen sonuçlar da (1.79) bu savı 
+doğrular niteliktedir. 
+
+sirkülasyon bölgesinin oluşumu gibi zengin bir akış fiziği 
+ortamı barındırmasıyla literatürde pek çok çalışmaya 
+konu olmuştur [4-5]. 
+
+3.2 Basamak Üzerinden Kanal Akışı (Flow Over 
+Backward Facing Step) 
+
+Basamak üzerinden kanal akışı problemi için Lattice 
+Boltzmann yöntemi ile Reynolds 200 ve 600 için iki 
+çözüm gerçekleştirilmiş ve elde edilen sonuçlar Armaly 
+ve diğerlerinin 1983 tarihli deneysel çalışması [5] ve 
+Ercan Ertürk tarafından yapılan 2007 tarihli 2 boyutlu 
+sonlu 
+farklar 
+Navier-Stokes 
+çözümünü 
+içeren 
+çalışmadaki [4] sonuçlarla karşılaştırılmıştır. Basamak 
+üzerinden kanal akışı probleminde kanala giren 
+akışkanın hız profili paraboliktir ve problem fiziğine 
+ilişkin önemle parametreler Şekil 10’da verilmiştir. 
+
+Akışkanlar mekaniğinde pek çok akışta ayrılma (İng. 
+separation) ve yeniden sınır tabaka oluşumu gibi 
+olaylarla karşılaşılır. Bu tip akışlara tipik örnekler olarak 
+ısı eşanjörlerinde ve kanallarda gerçekleşen akışlar 
+verilebilir. Bu tür problemler arasında basamak 
+üzerinden kanal akışı problemi (İng. Backward Facing 
+Step Flow) geometrisinin basitliğine rağmen Reynolds 
+sayısı, kanal yüksekliği ve basamak yüksekliği gibi 
+parametrelere bağlı olarak içerisinde akış ayrılması, 
+yeniden sınır tabaka oluşumu ve birden çok re-
+
+ 
+
+ 
+
+x3 
+
+x2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+H=2h 
+
+ 
+
+h 
+
+ 
+
+x1 
+
+ 
+
+ 
+
+Şekil 10: Basamak üzerinden kanal akışının şematik gösterimi (ölçeklendirilmemiştir) (Schematic Wiew of Backward 
+Facing Step Flow – not scaled) 
+
+L1=20h 
+L2=300h 
+
+Sonuçları sunmadan belirtilmesi gereken bir nokta; 
+Armaly ve diğerlerinin yaptığı çalışmada deneysel 
+düzenek kurulurken kanal giriş çapı 5.2 birim, toplam 
+kanal çapı ise 10.1 birim olarak seçildiğinden genişlik 
+oranı 
+(H/h) 
+yaklaşık 
+1.942 
+olmaktadır. 
+Lattice 
+Boltzmann çözümünde hücresel ağ yapısı kurulurken 
+tamsayılar dışında hücre sayısı kullanmak mümkün 
+olmadığından, 1.942 genişlik oranını sağlamak mümkün 
+olamamıştır. Dolayısıyla Armaly’den alınan sonuçlar 
+referans olarak kullanılırken bu durum * simgesiyle 
+vurgulanmıştır. 
+
+basamağın hemen yanındaki sirkülasyon bölgesinin 
+genişliğini 
+tayin 
+eden 
+X1 
+değerini 
+basamak 
+yüksekliğiyle 
+normalize 
+ederek 
+sunmuştur. 
+Ana 
+sirkülasyon bölgesi için LBM ve Ertürk’ün sonuçları 
+karşılaştırmalı olarak çizelge 1’de yer almaktadır: 
+
+Çizelge 1: Re=200 ana sirkülasyon bölgesinin genişliği 
+(Width of Main Re-circulation Region at Re=200) 
+
+Reynolds 
+
+Sayısı 
+
+LBM x1 
+
+(x1/h) 
+
+Ertürk x1 
+
+(x1/h) 
+
+Yüzde 
+
+Hata  
+
+200 
+5.1 
+4.982 
+% 2.37 
+
+Çözümün 
+gerçekleştirildiği 
+Reynolds 
+sayılarından 
+Re=200 için yalnızca basamağın yanındaki genişliği (x1) 
+olan re-sirkülasyon bölgesi görülmekte, Re=600 için ise 
+genişliği (x3-x2) şeklinde hesaplanan ikinci bir re-
+sirkülasyon bölgesi daha ortaya çıkmaktadır. Bu re-
+sirkülasyon bölgelerinin genişliği problemin fiziğinde 
+genleşme oranı (İng. Expansion Ratio) denilen ve toplam 
+kanal yüksekliğinin (H) basamak yüksekliğine (h) oranı 
+şeklinde tanımlanan parametreye göre değişiklik arz 
+etmektedir. 
+
+ 
+
+Reynolds sayısı 200 iken kanal içerisinde akış çizgileri 
+(İng. Streamlines) Şekil 11’deki gibi oluşmaktadır. 
+Şekilden de anlaşılacağı üzere Re=200 için yalnızca x1 
+genişliği 5.1 olarak verilen ana sirkülasyon bölgesinden 
+söz edilebilmektedir. Bu durum da Armaly ve Ertürk 
+tarafından verilen sonuçlarla paralellik arz etmektedir. 
+Reynolds 600 için ana sirkülasyon bölgesinden başka bir 
+sirkülasyon bölgesi daha mevcuttur. 
+
+Ertürk 2007 tarihli Navier-Stokes sonlu farklar 
+çözümünde [4] 2.0 genleşme oranı için Reynolds sayısı 
+200 iken ana sirkülasyon bölgesi olarak da tanımlanan 
+
+124 
+ 
+ 
+  GU J Sci, Part C, 4(3):115-126 (2016)/ Zekeriya Özcan, Özgür Ekici 
+
+ 
+
+Şekil 11: Re=200 için kanal içerisindeki akış çizgileri (Streamlines in Channel for Re=200) 
+
+ 
+
+ 
+
+ 
+
+Ana sirkülasyon bölgesinin genişliği veya bir diğer 
+deyişle 
+ilk 
+sınır 
+tabaka 
+oluşum 
+noktası 
+için 
+karşılaştırmalı sonuçlar Çizelge 2’de yer almaktadır: 
+
+ve üçüncü sınır tabaka oluşum noktaları yani x2 ve x3 için 
+karşılaştırmalı sonuçlar ise Çizelge 3’te yer almaktadır: 
+
+Çizelge 3: Re=600 için x2 ve x3 sınır tabaka oluşum 
+noktaları (Re-attachment Points for Re=600) 
+
+Çizelge 2: Re=600 için ana sirkülasyon bölgesinin 
+genişliği (Width of Main Re-Circulation Region at 
+Re=600) 
+
+Çalışmalar 
+x2/h 
+x3/h 
+Yüzde 
+
+Hata  
+
+Yüzde 
+
+Hata  
+
+Çalışmalar 
+Genişlik oranı 
+
+(H/h) 
+x1/h 
+
+Mevcut 
+Çalışma 
+7.95 
+16.28 
+ 
+
+ 
+
+Mevcut 
+Çalışma 
+2.0 
+
+ 
+
+%2.74 
+Ertürk 
+8.486 
+15.833 
+
+%6.32 
+
+10.07 
+
+ 
+
+Ertürk 
+2.0 
+10.349 
+
+Navier-Stokes sonlu farklar modeline göre çözüm yapan 
+Ertürk’ün sonuçları ile LBM içeren mevcut çalışmanın 
+sonuçları arasında genel olarak %2 ile %6 arasında 
+değişen sapmalar görülmektedir. 
+
+ 
+
+Armaly 
+1.942* 
+11.4 
+
+Çizelge 2 incelendiğinde deneysel ve farklı genişlik 
+oranına sahip bir çalışma olan Armaly [5] ayrı 
+tutulduğunda Ertürk’ün Navier-Stokes sonlu farklar 
+çözümü ile mevcut LBM çalışması arasında yalnızca 
+%2,7 civarında bir sapma olduğu görülmektedir. İkinci  
+
+Şekil 12’te, Reynolds sayısı 600 iken kanal içerisindeki 
+akış çizgileri verilmiştir. Üst duvar sınırına yakın akış 
+çizgileri incelendiğinde, Re=6

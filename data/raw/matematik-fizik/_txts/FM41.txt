@@ -1,0 +1,1121 @@
+Uluslararası Teknolojik Bilimler Dergisi, 12(2), 77-83, 2020 
+
+Uluslararası Teknolojik Bilimler Dergisi 
+
+ 
+International Journal of Technological Sciences 
+
+Orijinal Makale/Research Article 
+ 
+
+R32 Soğutkanlı bir ısı pompasının termodinamik analizi 
+ 
+Arif Emre Özgür1
+, Melih Manır2
+ 
+ 
+1Isparta Uygulamalı Bilimler Üniversitesi, Teknoloji Fakültesi, Makine Mühendisliği Bölümü, 32200, Isparta, Türkiye 
+2Recep Tayyip Erdoğan Üniversitesi, Mühendislik Fakültesi, Enerji Sistemleri Mühendisliği Bölümü, 53100, Rize, Türkiye 
+ 
+ 
+Anahtar Kelimeler  
+R32 
+Isı Pompası 
+Enerji 
+Ekserji   
+ 
+Makale geçmişi: 
+Geliş Tarihi: 03.09.2019 
+Kabul Tarihi: 30.09.2020 
+ 
+
+Özet: Yüksek küresel ısınma etkisine sahip soğutkanların, çevresel kriterler göz önüne 
+alınarak, uluslararası ölçekte kullanımları sınırlandırılmaktadır. Avrupa Birliğinin 
+uyguladığı F-gaz yönetmeliği gibi ülkemizde F-Gaz kullanımına sınırlama getiren bir 
+yönetmelik hazırlamıştır. Bu kapsamda, R32 soğutkanı nispeten düşük küresel ısınma 
+potansiyeli ile ön plana çıkmaktadır. R32, R410A soğutkanına kıyasla daha düşük küresel 
+ısınma potansiyeline sahiptir. Bunun yanında yüksek enerji verimliliği ve düşük yanıcılığa 
+sahip olduğundan birçok uygulamada güvenle kullanılabileceği düşünülmektedir. Geri 
+dönüşümü açısından değerlendirildiğinde tek bileşenli bir soğutkan olduğu için ısı 
+pompaları için cazip bir alternatif olabileceği değerlendirilmektedir. Bu sebeple ısı pompası 
+uygulamalarında R32 kullanımı giderek artmaktadır. Bu çalışmada R32 soğutkanlı hava-su-
+hava kaynaklı bir ısı pompasının termodinamiğin 1. ve 2. kanununun analizi EES programı 
+kullanılarak yapılmıştır ve elde edilen sonuçlar grafikler ve tablolar halinde sunulmuştur. 
+Grafiklerden buharlaşma sıcaklığının -10°C' den +5°C' ye çıkmasıyla ve yoğuşma 
+sıcaklığınında 45°C' den 35°C' ye düşmesiyle COPIP değerinin arttığı görülmüştür. Artan 
+buharlaşma sıcaklığıyla ve azalan yoğuşma sıcaklığıyla kompresörde, kondanserde, 
+evoparatörde ve genleşme valfinde tersinmezliklerin azaldığı görülmüştür. İkinci yasa 
+veriminin bu koşullarda arttığı görülmüştür. 
+ 
+ 
+
+Atıf için/To Cite: 
+Özgür A.E. Manır M. R32 Soğutkanlı Bir Isı Pompasının Termodinamik Analizi. Uluslararası 
+Teknolojik Bilimler Dergisi, 12(2), 77-83, 2020. 
+ 
+ 
+ 
+ 
+Thermodynamic Analysis of a Heat Pump Using R32 
+ 
+ 
+ 
+Keywords 
+R32 
+Heat Pump 
+Energy 
+Exergy  
+ 
+Article history: 
+Received: 03.09.2019 
+Accepted: 30.09.2020 
+ 
+
+Abstract: Refrigerants with a high global warming effect are limited in their use on an 
+international scale, taking into consideration environmental criteria. Like the F-gas 
+regulation implemented by the European Union, a regulation has been drafted in our country 
+that restricts the use of F-Gas. In this context, R32 refrigerant is at the forefront with its 
+relatively low global warming potential. R32 has a lower global warming potential compared 
+to R410A refrigerant. In addition, it is considered that it can be used safely in many 
+applications since it has high energy efficiency and low flammability. It is considered that it 
+can be an attractive alternative to heat pumps since it is a single component refrigerant when 
+it is evaluated in terms of recycling. Therefore, the use of R32 in heat pump applications is 
+gradually increasing. In this study, the analysis of the first and second laws of 
+thermodynamics of a R32 refrigerated air-water-air source heat pump was performed using 
+the EES program and the results obtained are presented in graphs and tables. Graphs show 
+that the COPIP value increases with the evaporation temperature rising from -10°C to +5°C 
+and falling to 45°C to 35°C at the condensation temperature. With increasing evaporation 
+temperature and decreasing condensation temperature, irreversibility has decreased in 
+compressor, condenser, evaporator and expansion valve. The efficiency of the second law is 
+seen to increase under these conditions. 
+ 
+ 
+
+ 
+
+* İlgili yazar/Corresponding author: emreozgur@isparta.edu.tr 
+
+Arif Emre ÖZGÜR, Melih MANIR, R32 soğutkanlı bir ısı pompasının termodinamik analizi 
+
+1. Giriş 
+ 
+Günümüzde enerjinin verimli kullanımı ve çevreye olan 
+zararın minimum düzeyde tutulması önem kazanmıştır. 
+Bu 
+nedenle 
+araştırmacılar 
+enerjinin 
+verimli 
+kullanılacağı 
+ekipmanlar 
+geliştirmektedir. 
+Klima, 
+soğutma ve ısı pompası uygulamaları enerjinin yoğun 
+tüketildiği alanlar olduğu için dikkat çekmektedir. İlk 
+başlarda soğutucu akışkan olarak karbondioksit, hava 
+ve 
+amonyak 
+gibi 
+maddeler 
+soğutucu 
+olarak 
+kullanılmıştır. Daha sonraları yapay olarak elde edilen 
+kloroflorokarbon (CFC) ve hidrokloroflorokarbonlar 
+(HCFC) yoğun Şekilde kullanılmaya başlanmıştır. 
+Kloroflorokarbonlar (CFC) ve hidrokloroflorokarbonlar 
+(HCFC) 1920' lerden itibaren klima ve soğutucu 
+sanayinde yaygın olarak kullanılmıştır [1]. Ancak CFC' 
+ler strotosferde ozon tabakasının tükenmesine neden 
+olabileceği belirtilmiştir [2]. Yoğun kullanımlar sonucu 
+CFC ve HCFC soğutucu akışkanları atmosfere karışarak 
+küresel ısınmaya neden olmaktadır [3]. Sera gazı 
+emisyonları dünya sıcaklığını 2100 yılına kadar 
+ortalama 5°C' ye kadar artıracağı düşünülmektedir [3]. 
+CFC soğutucu akışkanlar kimyasal yapılarını koruyarak 
+75 ila 120 yıl atmosferde kalabilirler [4]. CFC' ler gibi 
+HCFC' lerde klor içerdikleri için ozon tabakasıyla 
+reaksiyona girer. Bu sebeple 1987' de Montreal 
+Sözleşmesinin 
+yürürlüğe 
+girmesiyle 
+CFC' 
+lerin 
+kullanımına sınırlama [5]. 1997 yılında küresel ısınma 
+potansiyeli yüksek maddelerle mücadele için Kyoto 
+Protokolü 
+hazırlanmıştır 
+[5]. 
+R410A, 
+Montreal 
+Protokolünün ardından piyasaya sürülmüş ve yaygın 
+olarak kullanılmıştır. Ancak R410A' nın GWP' si 2088 
+gibi yüksek bir değer olduğu için alternatifleri 
+araştırılmaktadır [5].  
+ 
+Avrupa 
+Birliği 
+(AB) 
+tarafından 
+yayınlanan 
+ve 
+01/01/2015 tarihinde yürürlüğe giren Florlu Gazlar 
+Yönetmeliği (F-Gaz), hidroflorokarbon (HFC) türü sera 
+gazları bulunduran cihazlar için bir dizi kontrol ve 
+düzenlemeler getirmektedir. Florlu gazların küresel 
+ısınmaya katkısının, olağan bir yaklaşımla toplam 
+antropojenik CO2 emisyonunu yaklaşık %1.3 den 
+(2004) %7.9' a (2050) çıkacağı belirtilmiştir [6]. Sera 
+gazları olarak tanımlanan R22 ve R410A buhar 
+sıkıştırmalı soğutma sistemlerinden sızarak iklim 
+değişikliğine büyük ölçüde katkı sağlar [7]. F-Gaz 
+Yönetmeliği gereği 2025 yılından geçerli olmak üzere 3 
+kg dan daha az soğutkan bulunduran split klimalarda, 
+küresel ısınma potansiyeli (GWP) değerinin 750' den 
+küçük olması gerektiği için R410A kullanılamayacaktır. 
+Bunun için R410 için alternatifler aranmaktadır.  
+ 
+R410A' ya alternatif olarak R32 soğutucu akışkanı 
+kullanılmaya başlanmıştır. Bunun nedeni R410A 'nın 
+GWP' si 2088 iken R32' nin 675 olmasıdır [8]. Xu vd., 
+2013, buhar enjeksiyonlu ısı pompasında R410A ve 
+
+R32' yi karşılaştırmıştır ve R32 kullanıldığında 
+kapasitede %10 ve Isıtma Performans Katsayısı (COPIP) 
+değerinde %9 a varan iyileşmeler görülmüştür. R410A 
+ve R32' yi bir klima sisteminde karşılaştırmış ve R32' 
+nin R410' dan %25 daha düşük yüke sahip olduğunu 
+görmüştür [9]. Bir konut ısı pompası sisteminde 
+kullanılan üç soğutucu akışkanın (R32, R410A ve 
+R410B) performanslarının R22 ile karşılaştırıldığı bir 
+çalışmayı değerlendirmişlerdir. R32' nin en iyi 
+performans sergilediğini görmüştür [10]. Cho vd. 
+(2016), yaptıkları çalışmada buhar enjeksiyonlu R410A 
+ve R32 soğutkanlı çoklu ısı pompalarının performansını 
+dış ortam sıcaklığı, kompresör hızı ve enjeksiyona bağlı 
+olarak incelemişlerdir. Optimum şarj miktarının R32 
+soğutkanlı ısı pompasında R410A' ya kıyasla %26 daha 
+düşük olduğu görülmüştür [11]. 
+ 
+Bu çalışmada düşük küresel ısınma potansiyeline sahip 
+R32 soğutkanı kullanılan hava-su-hava kaynaklı bir ısı 
+pompasının termodinamik analizi yapılmış ve elde 
+edilen veriler 3 boyutlu grafikler ile sunulmuştur.  
+ 
+2.  Materyal ve Metot 
+ 
+Analizi 
+yapılan 
+hava–su–hava 
+kaynaklı 
+buhar 
+sıkıştırmalı soğutma çevrimine göre çalışan ısı pompası 
+Şekil 1’de gösterilmiştir. Isı pompasında düşük 
+basınçtaki 
+soğutucu 
+akışkan, 
+buharlaştırıcıda 
+buharlaşarak düşük sıcaklıktaki bir havadan ısı çeker. 
+Böylece havayı soğutmuş olur. Buharlaştırıcı çıkışında 
+kızgın 
+buhar 
+fazına 
+gelen 
+soğutucu 
+akışkan, 
+kompresörde sıkıştırılarak basıncı ve sıcaklığı artmış 
+bir 
+Şekilde 
+yoğuşturucuya 
+gönderilir. 
+Sulu 
+yoğuşturucuda yüksek basınçtaki soğutucu akışkan, 
+soğutma suyuna ısısını aktarır ve yoğuşur. Sulu 
+yoğuşturucuda 
+ısınan 
+su, 
+serpantine 
+gönderilir. 
+Serpantinden geçen sıcak su, ısısını dışarı atarak 
+havanın ısıtılmasını sağlar [12]. 
+ 
+Temel bir buhar sıkıştırmalı ısı pompası elemanları 
+kompresör, yoğuşturucu (kondenser), genleşme valfi ve 
+buharlaştırıcıdır 
+(evaporatör). 
+İdeal 
+çevrim 
+hesaplarında 
+kompresörde 
+izentropik 
+sıkıştırma, 
+yoğuşturucuda sabit basınçta ısı transferi, genleşme 
+valfinde sabit entropide genişleme ve yoğuşturucuda 
+sabit basınçta ısı transferi olduğu kabul edilir. Gerçek 
+durumda ise basınç kayıpları ve kompresörün 
+izentropik 
+verimi 
+nedeniyle 
+durum 
+farklılık 
+göstermektedir. Kompresör girişindeki hal 1 olarak 
+numaralandırılırsa ideal çevrime göre kompresör çıkışı 
+2s (gerçek çevrimde 2), yoğuşturucu çıkışı 3, genleşme 
+valfi çıkışı 4 ve buharlaştırıcı çıkışı 1 olacaktır. Bu 
+durumda 
+ideal 
+çevrimde 
+kompresör 
+girişi 
+ve 
+çıkışındaki özgül entropiler denklem 1' de görüldüğü 
+gibi eşit olacaktır. Kompresörün izentropik verimi ise 
+denklem 2'de belirtildiği gibi ideal kompresör işinin 
+
+78 
+International Journal of Technological Sciences                                                                                                                                                              e-ISSN 1309-1220 
+ 
+
+Arif Emre ÖZGÜR, Melih MANIR, R32 soğutkanlı bir ısı pompasının termodinamik analizi 
+
+gerçek kompresör işine oranıdır. Bu durumda gerçek 
+çevrimde kompresör çıkışında entalpi, h2, denklem 2 ile 
+hesaplanabilir [13]. 
+ 
+
+Burada, m ̇ kütlesel debiyi göstermektedir. Sürekli akışlı 
+açık sistem için, ∆𝑚𝑚̇ 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠= 0 olur ve Denklem 5 elde 
+edilir.  
+ 
+
+෍𝑚𝑚̇ 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔= ෍𝑚𝑚̇ ç𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤 
+   (5) 
+
+ 
+2.2. Enerjinin Korunumu 
+ 
+Buhar sıkıştırmalı bir soğutma sisteminde sürekli 
+akışın olduğu elemanlar bulunur, bu sebeple çevrimi 
+meydana getiren dört hal değişimi de sürekli akışlı açık 
+sistem olarak değerlendirilebilir. Soğutucu akışkanın 
+potansiyel ve kinetik enerji değişimleri, ısıya ve işe 
+kıyasla küçük olduğu için ihmal edilebilir. Buna göre 
+sürekli akışlı açık sistemin enerji korunumu denklemi 
+birim akışkan kütlesi için gösterilirse denklem 6 elde 
+edilir.  
+ 
+
+𝑞𝑞−𝑤𝑤= ℎç −ℎ𝑔𝑔      
+   (6) 
+
+ 
+Enerjinin korunumu kanununu termodinamiğin birinci 
+yasası ile ifade edilmektedir. Bir hal değişimine uğrayan 
+sistemin genel enerji dengesi denklem 7'de gösterildiği 
+gibidir [16].  
+ 
+
+ 
+Şekil 1. Hava-su-hava kaynaklı ısı pompası sistemi 
+ 
+
+𝑠𝑠1 = 𝑠𝑠2𝑠𝑠 
+   (1) 
+
+ɳ𝑘𝑘= (ℎ2𝑠𝑠−ℎ1)
+
+(ℎ2 −ℎ1)  
+   (2) 
+
+𝑄𝑄̇ + ∑(𝑚𝑚̇ ℎ)𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔= 𝑊𝑊̇ + ∑(𝑚𝑚̇ ℎ)ç𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤 
+   (7) 
+
+ 
+İzentropik verim denklem 3' de gösterildiği gibi 
+deneysel verilerden elde edilmiş şekli ile hesaplanabilir 
+[14].  
+
+ 
+Bir ısı pompasının performansı, COPIP ile ifade edilir. Isı 
+pompasının amacı, ılık ortama ısı vermektir (𝑄𝑄̇𝐻𝐻). Bu 
+amacı gerçekleştirmek için bir iş yapılması gerekir 
+(𝑊𝑊̇ 𝑛𝑛𝑛𝑛𝑛𝑛,𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔). Bu durumda soğutma makinesinin etkinlik 
+katsayısı denklem 8' deki gibi ifade edilir.  
+
+ 
+(3) 
+
+𝑃𝑃2 𝑃𝑃1
+ൗ
+−0,30
+
+ɳ𝑖𝑖𝑖𝑖= 1,41 ቌ1 −𝑒𝑒
+
+−
+
+0,21
+ቍ−0,52𝑙𝑙𝑙𝑙൬𝑃𝑃2
+
+𝑃𝑃1
+
++ 1൰ 
+   (3) 
+
+𝐶𝐶𝐶𝐶𝐶𝐶𝐼𝐼𝐼𝐼= 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 
+
+ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔 =
+𝑄𝑄̇𝐻𝐻
+𝑊𝑊̇ 𝑛𝑛𝑛𝑛𝑛𝑛,𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔
+
+ 
+Burada P2 kompresör çıkış basıncını, P1 ise kompresör 
+giriş basıncını göstermektedir.  
+ 
+2.1. Kütlenin Korunumu 
+ 
+Bu kanun bir hal değişimi süresince sistemde olan net 
+kütle geçişinin, aynı hal değişiminde sistemde meydana 
+gelen toplam kütle değişimine eşit olduğunu gösterir. 
+Genel olarak kütle dengesi denklem 4' de ifade 
+edilmiştir [15].  
+ 
+
+ 
+   (8) 
+
+Kondanser ve evaporatörde iş etkileşimi meydana 
+gelmez. Kompresör adyabatik olarak kabul edilebilir. 
+Buna göre buhar sıkıştırmalı soğutma çevrimine göre 
+çalışan ısı pompasının etkinlik katsayısı denklem 9' 
+deki gibi yazılabilir.  
+ 
+
+𝐶𝐶𝐶𝐶𝐶𝐶𝐼𝐼𝐼𝐼= 𝑄𝑄𝐻𝐻
+
+𝑊𝑊𝑒𝑒𝑒𝑒
+
+ 
+   (9) 
+
+ 
+Denklem 9' da 𝑊𝑊𝑒𝑒𝑒𝑒 kompresörün elektrik motor gücünü 
+ifade etmektedir ve denklem 10' da gösterildiği Şekilde 
+bulunur.  
+ 
+
+෍𝑚𝑚̇ 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔−෍𝑚𝑚̇ ç𝚤𝚤𝚤𝚤𝚤𝚤𝚤𝚤= ∆𝑚𝑚̇ 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 
+   (4) 
+
+ 
+
+𝑊𝑊𝑒𝑒𝑒𝑒=
+𝑊𝑊𝑐𝑐
+ɳ𝑚𝑚𝑚𝑚𝑚𝑚ℎɳ𝑒𝑒𝑒𝑒
+
+ 
+(10) 
+
+79 
+International Journal of Technological Sciences                                                                                                                                                              e-ISSN 1309-1220 
+ 
+
+Arif Emre ÖZGÜR, Melih MANIR, R32 soğutkanlı bir ısı pompasının termodinamik analizi 
+
+Isı pompası için ekserji verimi Denklem 18 ile 
+hesaplanır [15].  
+ 
+
+İdeal çevrimde, h1 evaporatör basıncında doymuş 
+buharın entalpisi, h3 ise kondanser basıncında doymuş 
+sıvının entalpisi olur. Carnot ısı pompası etkinlik 
+katsayısı denklem 11' den hesaplanır.  
+ 
+
+ɳ𝐼𝐼𝐼𝐼= 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 
+
+𝑆𝑆𝑆𝑆ğ𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+ 
+(18) 
+
+ 
+Isı pompasının ekserji verimi denklem 19' dan bulunur 
+[13]. 
+ 
+
+𝐶𝐶𝐶𝐶𝐶𝐶𝐼𝐼𝐼𝐼,𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶=
+1
+
+ 
+(11) 
+
+1 −𝑇𝑇𝐿𝐿
+
+𝑇𝑇𝐻𝐻
+
+ 
+2.3. Termodinamiğin 2.Kanun Analizi 
+ 
+Termodinamiğin 
+ikinci 
+kanunu, 
+tersinmezlikler 
+sebebiyle 
+daima 
+azalan 
+ekserji 
+kavramını 
+türetmektedir. Ekserji, değişime neden olan bir akımın 
+faydalılığının, kalitesinin veya potansiyelinin ölçüsü ve 
+çevreyi etkileyecek bir maddenin potansiyelinin etkili 
+bir ölçüsü olarak tanımlanmaktadır [17].  
+ 
+Isı pompası sisteminin, ekserji analizi yapılırken 
+potansiyel, kinetik ve kimyasal ekserji terimleri ihmal 
+edilir ise denklem 12 aşağıdaki gibi yazılabilir [18, 19].  
+
+ɳ𝑒𝑒𝑒𝑒,𝐼𝐼𝐼𝐼= 𝐸𝐸̇𝑥𝑥𝚤𝚤𝚤𝚤𝚤𝚤
+
+ 
+(19) 
+
+ 
+Burada 𝐸𝐸̇𝑥𝑥𝚤𝚤𝚤𝚤𝚤𝚤 denklem 20' den bulunur. 
+ 
+
+𝑊𝑊𝑒𝑒𝑒𝑒
+
+𝐸𝐸̇𝑥𝑥𝚤𝚤𝚤𝚤𝚤𝚤= ൬1 −𝑇𝑇0
+
+𝑇𝑇𝐻𝐻
+
+൰∗𝑄𝑄𝑘𝑘 
+(20) 
+
+ 
+Tablo 1 de ısı pompası sisteminin kütle, enerji, ekserji 
+denge denklemleri ile ekserji verimi denklemleri 
+çıkarılmıştır. 
+ 
+Isı pompası sistemi için yapılan hesaplama ve 
+analizlerde aşağıda ifade edilen kabuller yapılmıştır: 
+ 
+• 
+Kompresörde adyabatik sıkıştırma yapılmaktadır. 
+• 
+Sistemde dolaşan soğutkanın debisi sabittir. 
+• 
+Evaporatör etkinliği 0,80 alınmıştır. 
+• 
+Serpantin etkinliği 0,80 alınmıştır. 
+• 
+Boru hatlarındaki ve kompresördeki basınç 
+kayıpları ihmal edilmiştir. 
+• 
+ 4 °C aşırı soğutma yapılmıştır. 
+• 
+ 3°C aşırı kızdırma yapılmıştır. 
+• 
+Yoğuşturucudan çıkan soğutma suyu sıcaklığı 
+30°C’dir. 
+• 
+Evaporatöre hava giriş sıcaklığı 4 °C ile – 10 °C 
+aralığında değişkendir. 
+• 
+T0=20°C alınmıştır. 
+• 
+𝑄𝑄̇𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 = 100 kW alınmıştır. 
+ 
+3. Bulgular 
+ 
+Tablo 2' de R32 soğutkanlı ısı pompasının her bir 
+noktasındaki basınç, sıcaklık, entalpi, entropi ve 
+kütlesel debi değerleri görülmektedir. 
+ 
+R32 soğutkanlı hava-su-hava kaynaklı ısı pompasının 
+ekserji analizi EES programı kullanılarak yapılmıştır. 
+Isıtma kapasitesi 157 kW olan ısı pompası sisteminde 
+kullanılan kompresörün elektrik verimi 0,97, mekanik 
+verimi 0,96 alınmıştır. Kompresörün izentropik verimi 
+0,496 ve volümetrik verimi 0,90 olarak hesaplanmıştır. 
+35 ile 45°C arasındaki yoğuşma ve -10 °C ile +5 °C 
+arasındaki 
+buharlaşma 
+sıcaklıklarında 
+yapılan 
+
+ 
+(12) 
+
+𝐸𝐸𝐸𝐸𝑄𝑄−𝐸𝐸𝐸𝐸𝑊𝑊= ∑(𝑚𝑚̇ 𝜀𝜀)ç − ∑(𝑚𝑚̇ 𝜀𝜀)𝑔𝑔+ 𝑇𝑇0 ∗𝑆𝑆̇ü𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 
+(12) 
+
+ 
+Burada; 
+ 
+
+𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦=𝑇𝑇0 ∗𝑆𝑆ü𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 
+(13) 
+
+ 
+şeklindedir. 
+ 
+Kinetik ve potansiyel enerji terimlerinin ihmal edildiği 
+durumda, bir akışkanın spesifik ekserjisi ise denklem 
+14' de ifade edilmiştir.  
+ 
+
+𝑒𝑒= (ℎ−ℎ0) −𝑇𝑇0(𝑠𝑠−𝑠𝑠0) 
+(14) 
+
+ 
+Denklem 15’de  𝐸𝐸̇𝑥𝑥𝑄𝑄 ısının ekserjisini, denklem 16'da 
+𝐸𝐸̇𝑥𝑥𝑊𝑊, işin ekserjisini ve denklem 17'de ε ise 
+termomekaniksel ekserji olarak da gösterilen akış 
+ekserjisidir [15].  
+ 
+
+𝐸𝐸̇𝑥𝑥𝑄𝑄= 𝑄𝑄̇ ∗൬𝑇𝑇−𝑇𝑇0
+
+𝑇𝑇
+൰ 
+(15) 
+
+𝐸𝐸̇𝑥𝑥𝑊𝑊= 𝑊𝑊̇  
+(16) 
+
+𝜀𝜀= (ℎ−𝑇𝑇0 ∗𝑠𝑠) −(ℎ0 −𝑇𝑇0 ∗𝑠𝑠0) 
+(17) 
+
+ 
+Burada 0 indisi referans şartları göstermektedir.  
+ 
+
+80 
+International Journal of Technological Sciences                                                                                                                                                              e-ISSN 1309-1220 
+ 
+
+Arif Emre ÖZGÜR, Melih MANIR, R32 soğutkanlı bir ısı pompasının termodinamik analizi 
+
+incelemeler sonucu COPIP, ɳII ve toplam tersinmezlik 
+(∑I) değerlerinin değişimi grafiksel olarak verilmiştir. 
+
+ 
+
+Tablo 1. Isı Pompası Sistemi Denge Denklemleri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Sistem 
+Elemanları 
+
+Kütle Denge 
+Denklemleri 
+
+Enerji Denge 
+
+Denklemleri 
+
+Ekserji Denge Denklemleri 
+Ekserji Verimi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Kompresör 
+𝑚𝑚̇ 1 = 𝑚𝑚̇ 2 = 𝑚𝑚̇ 𝑟𝑟 
+𝑊𝑊̇ 𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘
+= 𝑚𝑚̇ 𝑟𝑟(ℎ2 −ℎ1) 
+
+𝐸𝐸̇𝑥𝑥1 + 𝑊𝑊̇ 𝐶𝐶
+= 𝐸𝐸̇𝑥𝑥2 + 𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦,𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘 
+
+ɳ𝐼𝐼𝐼𝐼,𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘
+
+ 
+
+= (𝐸𝐸𝐸𝐸2 −𝐸𝐸𝐸𝐸1)
+
+𝑊𝑊𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘,𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+
+ 
+
+ 
+Kondanser 
+𝑚𝑚̇ 2 = 𝑚𝑚̇ 3 = 𝑚𝑚̇ 𝑟𝑟 
+𝑚𝑚̇ 6 = 𝑚𝑚̇ 7 = 𝑚𝑚̇ 𝑤𝑤 
+
+𝑄𝑄̇𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘
+= 𝑚𝑚̇ 𝑟𝑟(ℎ2 −ℎ3) 
+ 
+
+𝐸𝐸̇𝑥𝑥2 + 𝐸𝐸̇𝑥𝑥6
+= 𝐸𝐸̇𝑥𝑥3 + 𝐸𝐸̇𝑥𝑥7
++ 𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦,𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘 
+
+ɳ𝐼𝐼𝐼𝐼,𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘
+
+= (𝐸𝐸𝐸𝐸7 −𝐸𝐸𝐸𝐸6)
+
+(𝐸𝐸𝐸𝐸2 −𝐸𝐸𝐸𝐸3) 
+
+ 
+Genleşme 
+
+𝑚𝑚̇ 3=𝑚𝑚̇ 4 = 𝑚𝑚̇ 𝑟𝑟 
+ℎ3 = ℎ4 
+𝐸𝐸̇𝑥𝑥3 = 𝐸𝐸̇𝑥𝑥4 + 𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦,𝑔𝑔𝑔𝑔 
+ɳ𝐼𝐼𝐼𝐼,𝑔𝑔𝑔𝑔= (𝐸𝐸𝐸𝐸4)
+
+(𝐸𝐸𝐸𝐸3) 
+
+ 
+Evaporatör 
+𝑚𝑚̇ 4=𝑚𝑚̇ 1 = 𝑚𝑚̇ 𝑟𝑟 
+𝑚𝑚̇ 8=𝑚𝑚̇ 9 = 𝑚𝑚̇ 𝑎𝑎𝑎𝑎𝑎𝑎 
+
+Valfi 
+
+𝑄𝑄̇𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+= 𝑚𝑚̇ 𝑟𝑟(ℎ1 −ℎ4) 
+
+𝐸𝐸̇𝑥𝑥4 + 𝐸𝐸̇𝑥𝑥8
+= 𝐸𝐸̇𝑥𝑥1 + 𝐸𝐸̇𝑥𝑥9
++ 𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦,𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 
+
+ɳ𝐼𝐼𝐼𝐼,𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+
+(𝐸𝐸𝐸𝐸8 −𝐸𝐸𝐸𝐸9)
+(𝐸𝐸𝐸𝐸4 −𝐸𝐸𝐸𝐸1) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tablo 2. R32 soğutkanı termodinamik özellikleri 
+
+=
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Termodinamik analizlerde ve hesaplamalarda EES 
+(Engineering Equation Solver) programı kullanılmıştır 
+[20]. EES, belirlenen çalışma şartlarındaki sistemin 
+akışkan özelliklerini kendi veri tabanından almaktadır. 
+R32 soğutucu akışkanı için çalışma basıncı ve 
+sıcaklığına karşılık gelen, entropi ve entalpi değerleri 
+EES programında otomatik olarak elde edilmiştir. 
+Sistemdeki tüm elemanların tersinmezliği, ekserji 
+verimi ve sistemin COP değeri hesaplanmıştır. Ayrıca 
+sistem 
+elemanları 
+tersinmezlik 
+açısından 
+değerlendirildiğinde, en büyük tersinmezlik değerinin 
+kompresörde 
+olduğu 
+görülmüştür. 
+Kompresörü, 
+kondenser, kısma valfi ve evaporatör takip etmektedir. 
+ 
+Isı 
+pompasının 
+performansının, 
+buharlaşma 
+ve 
+yoğuşma sıcaklıkları ile değişimi, 3 boyutlu grafikler ile 
+sunulmuştur. Elde edilen bulgulara göre azalan 
+yoğuşma sıcaklığında ve artan buharlaşma sıcaklığında 
+COPIP değeri Şekil 1'de görüldüğü gibi artmaktadır. Isı 
+pompası sitemlerinde buharlaşma sıcaklığı artıkça 
+COPIP değeri artmakta ve yoğuşma sıcaklığı artıkça da 
+
+ 
+ 
+
+ 
+
+Sirkülasyon 
+
+Pompası 
+
+𝑚𝑚̇ 5 = 𝑚𝑚̇ 6 = 𝑚𝑚̇ 𝑤𝑤 
+𝑊𝑊̇𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+= 𝑚𝑚̇ 𝑤𝑤(ℎ6 −ℎ5) 
+
+𝐸𝐸̇𝑥𝑥5 = 𝐸𝐸̇𝑥𝑥6 + 𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦,𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 
+ɳ𝐼𝐼𝐼𝐼,𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+
+ 
+
+= (𝐸𝐸𝐸𝐸6 −𝐸𝐸𝐸𝐸5)
+
+𝑊𝑊𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+
+ 
+
+ 
+Serpantin 
+𝑚𝑚̇ 7=𝑚𝑚̇ 5 = 𝑚𝑚̇ 𝑤𝑤 
+𝑄𝑄̇𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+= 𝑚𝑚̇ 𝑤𝑤(ℎ7 −ℎ5) 
+
+𝐸𝐸̇𝑥𝑥7
+= 𝐸𝐸̇𝑥𝑥5 + 𝐸𝐸̇𝑥𝑥𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦,𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+m 
+(kg/s) 
+1 
+582,6 
+-7 
+516,4 
+2,204 
+0,4184 
+2 
+2795 
+149,3 
+651,6 
+2,378 
+0,4184 
+3 
+2795 
+41 
+277,4 
+1,257 
+0,4184 
+4 
+582,5 
+-10 
+277,4 
+1,296 
+0,4184 
+5 
+100 
+30 
+125,8 
+0,4365 
+0,03 
+6 
+100 
+30,1 
+126,2 
+0,4379 
+0,03 
+7 
+100 
+125,4 
+2727 
+7,494 
+0,03 
+8 
+100 
+-4 
+269,5 
+5,597 
+19,66 
+9 
+100 
+-8,8 
+264,4 
+5,579 
+19,66 
+0 
+100 
+20 
+556 
+2,615 
+- 
+ 
+Tablo 3' de hesaplanan tersinmezlik değerleri ve ekserji 
+verimleri görülmektedir. 
+ 
+Tablo 3. Hesaplanan tersinmezlik değerleri ve ekserji 
+verimleri 
+
+Referans 
+
+Noktası 
+
+P 
+(kPa) 
+
+T 
+(°C) 
+
+h 
+(kJ/kg) 
+
+s 
+(kJ/kg.K) 
+
+Sistem Elemanı 
+Tersinmezlik 
+
+Ekserji Verimi 
+
+Kompresör 
+32,16 
+0,219 
+Komdenser 
+19,06 
+0,838 
+Genleşme Valfi 
+4,86 
+0,903 
+Evaporatör 
+2,474 
+0,3551 
+Pompa 
+0,04044 
+0,03315 
+ 
+ 
+
+Değeri 
+
+81 
+International Journal of Technological Sciences                                                                                                                                                              e-ISSN 1309-1220 
+ 
+
+Arif Emre ÖZGÜR, Melih MANIR, R32 soğutkanlı bir ısı pompasının termodinamik analizi 
+
+COPIP değeri azalmaktadır. Sistemin ekserji verimi ise 
+azalan yoğuşma sıcaklığında ve artan buharlaşma 
+sıcaklığında Şekil 2' de görüldüğü gibi artmaktadır. Isı 
+pompası sistemlerinde buharlaşma sıcaklığı arttıkça 
+ikinci yasa verimi artmakta ve yoğuşma sıcaklığı artıkça 
+da ikinci yasa verimi azalmaktadır. Aynı Şekilde azalan 
+yoğuşma sıcaklığında ve artan buharlaşma sıcaklığında 
+Şekil 
+3' 
+de 
+görüldüğü 
+gibi 
+sistemin 
+toplam 
+tersinmezliğinin 
+azalmaktadır. 
+Isı 
+pompası 
+sistemlerinde 
+buharlaşma 
+sıcaklığı 
+artıkça 
+tersinmezlikler azalmakta ve yoğuşma sıcaklığı artıkça 
+da tersinmezlikler artmaktadır. 
+
+ 
+
+ 
+Şekil 3. Artan buharlaşma sıcaklığında ve azalan 
+yoğuşma sıcaklığında IToplam değişimi 
+ 
+4. Sonuçlar 
+ 
+Sonuç olarak R32 soğutkanlı hava-su-hava kaynaklı bir 
+ısı pompasının termodinamik analizi EES programı 
+kullanılarak yapılmış ve elde edilen veriler DataFit 
+programı kullanılarak 3 boyutlu grafikler olarak 
+sunulmuştur. Bu çalışmada, kompresörün tükettiği güç, 
+kompresör giriş-çıkış basıncı, iç ünitenin ısıtma 
+kapasitesi, tek kademeli ısıtma durumunda çalışan ısı 
+pompasının COPIP değeri, dış ünite, iç ünite, kompresör, 
+genleşme vanası tersinmezliği ile toplam tersinmezlik 
+değerleri hesaplanmıştır. Ayrıca iç ünite, dış ünite, 
+kompresör ve genleşme vanası ikinci yasa verimleri 
+hesaplanmıştır. Elde edilen sonuçlardan buharlaşma 
+sıcaklığının -10°C' den +5°C' ye çıkmasıyla ve yoğuşma 
+sıcaklığının 
+45°C' 
+den 
+35°C 
+düşmesiyle 
+COPIP 
+değerinin %178 arttığı görülmüştür. Artan buharlaşma 
+sıcaklığı ve azalan yoğuşma sıcaklığıyla toplam 
+tersinmezliğin %75 azaldığı görülmüştür. İkinci yasa 
+verimi ise artan buharlaşma sıcaklığı ve azalan 
+yoğuşma sıcaklığıyla %73 arttığı görülmüştür. 
+ 
+Hesap sonuçlarından ve grafiklerden görüldüğü üzere 
+buharlaşma sıcaklığı arttıkça ve yoğuşma sıcaklığı 
+azaldıkça COPIP ve ɳII değerinin arttığı ve herbir 
+elemanın tersinmezliğinin azaldığı görülmektedir. 
+ 
+Kaynaklar 
+ 
+[1] Xu X, Radermacher R, Pham MH. Performance 
+Measurement of R32 in Vapor Injection Heat Pump 
+System. International Refrigeration and Air Conditioning 
+Conference, 2328, 110, 2012. 
+[2] Monica MJ, Rowland FS. Stratsperic Sink for 
+Chlorofluoromethanes: Chlorinme Atom Catalysed 
+Distraction of Ozone. Nature, 249, 810-812, 1974. 
+[3]  Berchin II, Valduga BI, Garcia J, Osorio SBJ, Guerra A. 
+Climate Change and Forced Migrations: An Effort 
+Towards Recognizing Climate Refugees. Geoforum, 84, 
+147-150, 2017. 
+
+ 
+ 
+Şekil 1. Artan buharlaşma sıcaklığında ve azalan 
+yoğuşma sıcaklığında COPIP değişimi 
+ 
+
+ 
+ 
+Şekil 2. Artan buharlaşma sıcaklığında ve azalan 
+yoğuşma sıcaklığında ɳII değişimi 
+ 
+
+82 
+International Journal of Technological Sciences                                                                                                                                                              e-ISSN 1309-1220 
+ 
+
+Arif Emre ÖZGÜR, Melih MANIR, R32 soğutkanlı bir ısı pompasının termodinamik analizi 
+
+[4] Yıldırım C, Özkan BD, Onan C. Theoretical Study of 
+R32 to Replace R410A in Variable Refrigerant Flow 
+Systems. International Journal of Ambient Energy, 39(1), 
+87-92, 2017. 
+[5]  Alabdulkarem A, Eldeeb R, Hwang Y, Aute V, 
+Radermacher 
+R. 
+Testing, 
+Simulation 
+and 
+Soft 
+Optimization of R410A Low-GWP Alternatives in Heat 
+Pump System. International Journal of Refrigeration, 60, 
+106-107, 2015. 
+[6]  Gschrey B, Schwarz W, Elsner C, Engelhardt R. 
+High increase of Global F-gas Emissions Until 2050. 
+Greenhouse Gas Measurement & Management, 1(2), 85–
+92, 2011. 
+[7]  United Nations (UN). Kyoto protocol to the United 
+Nations Framework Convention on Climate Change. New 
+York, NY, USA, 1997. 
+[8]  Belchi LA, Gomez IF. Evaluation of a Condenser 
+Based on Mini-Channels Technology Working with 
+R410A and R32. Experimental Data and Performance 
+Estimate. Applied Energy, 202, 112-124, 2017. 
+[9] Tu X, Liang X, Zhuang R. Study of R32 Refrigerant for 
+Residential 
+Air-conditioning 
+Applications. 
+The 
+International Congress of Refrigeration, Paris, 2011. 
+[10]  Xu X, Hwang Y, Radermacher R. Performance 
+Comparison of R10A and R32 in Vapour İnjection Cycles. 
+International Journal of Refrigeration, 36, 892–903, 
+2013. 
+[11] Cho IY, Seo H, Kim D, Kim Y. Performance 
+Comparison Between R410A and R32 Multi-Heat 
+Pumps with a Sub-Cooler Vapor İnjection in the Heating 
+and 
+Cooling 
+Modes. 
+International 
+Journal 
+of 
+Refrigeration, 112, 179-187, 2016. 
+
+[12] Erdoğan Ş, Karaçaylı İ, Mutlu İ. Farklı Koşullardaki 
+Hava–Su–Hava 
+Kaynaklı 
+Isı 
+Pompasının 
+Farklı 
+Soğutucu Akışkanlarla Termodinamik Analizi. BAUN 
+Fen Bil. Enst. Dergisi, 112, 2017. 
+[13] Çifci M, Yılmazoğlu MZ. Hava Kaynaklı Bir Isı 
+Pompasının Deneysel Termodinamik Analizi. 11. Ulusal 
+Tesisat Mühendisliği Kongresi, 17-20 Nisan, İzmir, 1015-
+1022, 2013. 
+[14] Redon A, Peris-Navara E, Pitarch M, Macia-
+Gonzalvez J, Corberan MJ. Analysis and Optimization of 
+Subcritical Two-Stage Vapor İnjection Heat Pump 
+Systems. Applied Energy, 124, 231-240, 2014. 
+[15] Çengel YA, Boles MA. Mühendislik Yaklaşımıyla 
+Termodinamik. Güven Bilimsel Yayınevi (Beşinci Baskı), 
+946s, İzmir, 2007. 
+[16] Hepbaşlı A, Kalıncı Y. A Review of Heat Pump 
+Water Heating Systems. Renewable and Sustainable 
+Energy Reviews, 13, 1211–1229, 2009. 
+[17] Dincer I. Refrigeration Systems and Applications. 
+Wiley: UK, 26, 2003. 
+[18] Bejan A. Advanced Engineering Thermodynamics. 
+John Wiley and Sons, 896p, New York, 1997. 
+[19]  Bejan A. Fundamentals of Exergy Analysis, 
+Entropy Generation Minimization, and The Generation 
+of Flow Architecture. International Journal of Energy 
+Research, 26, 545-565, 2002. 
+[20] Klein 
+SA. 
+Engineering 
+Equation 
+Solver. 
+F-
+ChartSoftware, V10-644-3D, 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+83 
+International Journal of Technological Sciences                                                                                                                                                              e-ISSN 1309-1220 
+ 
+

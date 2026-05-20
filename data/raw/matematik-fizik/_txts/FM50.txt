@@ -1,0 +1,872 @@
+Araştırma Makalesi 
+
+ 
+DOI:10.25092/baunfbed. 1556787 
+J. BAUN Inst. Sci. Technol., 27(2), 609-625, (2025) 
+ 
+
+ 
+   BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+
+ 
+ 
+ 
+ 
+
+Üleksit, kolemanit, klinoptiloit zeolitli sıvaların 
+
+radyoaktif ışınım soğurumu, basınç 
+mukavameti, ısı yalıtımı ve antibakteriyel 
+
+özelliklerinin karşılaştırılması 
+
+ 
+
+Ali Deniz KÜÇÜKÖZER1, Tuana KAYA1, İrem YALÇIN1, N. Sibel ÖZATLI1* 
+
+ 
+
+ 
+Geliş Tarihi (Received Date): 26.09.2024 
+Kabul Tarihi (Accepted Date): 19.04.2025 
+ 
+Öz 
+ 
+Bu çalışmada, üleksit, kolemanit ve klinoptiloit zeolitli sıvaların radyoaktif ışınım 
+soğurumu, ısı yalıtkanlığı, su tutma kapasitesi, ses yalıtkanlığı, antibakteriyel özellik ve 
+basınç dayanım açısından inşaat malzemesi olarak kullanılabilirliğinin incelenmesi 
+amaçlanmıştır.  Klinoptiloit zeolit, üleksit ve kolemanit temin edilip, belirli oranlarda 
+karıştırılarak gaz beton üzerine uygulanmıştır.  Sıva örnekleri onar tekrar ile Geiger 
+Müller dedektörü kullanılarak radyoaktif ışınım soğurumu için değerler alınmıştır.  
+Çalışma sonucunda klinoptiloit zeolit-sıva harcı karışımlarında; %30 klinoptiloit zeolit 
+örneğinde 0.48 Bq ile en yüksek radyoaktif ışınım soğurumu değerine sahip olduğu 
+tespit edilmiştir.  Klinoptiloit zeolitli sıvanın radyoaktif ışınım soğurum değerinin 
+üleksitli ve kolemanitli sıvalara göre daha yüksek olduğu tespit edilmiştir.  Bu 
+bağlamda klinoptiloit zeolitli sıvaların radyoaktif ışınım olan ortamlarda kullanımı 
+önerilmektedir.  Ayrıca klinoptiolit zeolitin en iyi soğurum değerini verdiği %30 
+malzeme-%70 sıva harcı oranında klinoptiloit zeolit, üleksit ve kolemanit için ısı 
+yalıtkanlığı, su emme, ses iletim, basınç mukavamet ölçümleri yapılarak ve 
+antibakteriyel özellikler incelenerek inşaat malzemesi olarak kullanımları açısından 
+veriler değerlendirilmiştir.  Su emme ölçümlerinde %20.35 ile kolemanitli sıva; en 
+düşük ısı iletkenliğine 0.3384 W/mK ile üleksitli sıva; en az ses iletkenliğine 46.55 dB 
+ile klinoplitoitli sıvanın sahip olduğu ölçülmüştür.  Basınç mukavameti ölçümlerinde 
+%100 sıva harcının 4.028 mPa ile en yüksek dayanıma sahip olduğu tespit edilmiştir.   
+ 
+Anahtar kelimeler: Radyoaktif ışınım, basınç mukavameti, ısı yalıtımı, ses iletimi 
+
+1 Şehit Turgut Solak Fen Lisesi, Balıkesir 
+
+ 
+
+ 
+ Ali Deniz Küçüközer, alidenizkucukozer@gmail.com, https://orcid.org/0009-0006-6831-2889 
+ Tuana Kaya, tkaya7749@gmail.com, https://orcid.org/0009-0007-2870-5650 
+ İrem Yalçın, iremylcn798@gmail.com, https://orcid.org/0009-0009-0779-5612 
+*Nuriye Sibel ÖZATLI, nozatli@hotmail.com, https://orcid.org/0000-0001-9652-1780 
+
+609 
+
+KÜÇÜKÖZER et al. 
+ 
+
+Comparison of radioactive radiation absorption, 
+compressive strength,thermal insulation and antibacterial 
+
+properties of ulexite, colemanite, clinoptiloite zeolite 
+
+plasters 
+ 
+ 
+Abstract 
+ 
+In this study, it was aimed to investigate the usability of plasters with urexite, 
+colemanite and clinoptiloid zeolite as construction materials in terms of radioactive 
+radiation absorption, thermal insulation, water retention capacity, sound insulation, 
+antibacterial properties and compressive strength.  Clinoptiloite zeolite, urexite and 
+colemanite were obtained and mixed in certain proportions and applied on aerated 
+concrete.  The plaster samples were repeated ten times and values were taken for 
+radioactive radiation absorption using a Geiger Müller detector.  As a result of the 
+study, it was determined that the highest radioactive radiation absorption value with 
+0.48 Bq in 30% clinoptiloite zeolite-render mortar mixtures was found in the 
+clinoptiloite zeolite sample.  It was determined that the radioactive radiation 
+absorption value of the plaster with clinoptiloite zeolite was higher than the plasters 
+with urlexite and colemanite.  In this context, it is recommended to use clinoptiloite 
+zeolite plasters in environments with radioactive radiation.  In addition, thermal 
+insulation, water absorption, sound transmission, compressive strength measurements 
+and antibacterial properties were made for clinoptiloid zeolite, urexite and colemanite 
+at 30% material-70% plaster mortar ratio where clinoptiloid zeolite gives the best 
+absorption value and the data were evaluated in terms of their use as construction 
+materials.  In water absorption measurements, the lowest thermal conductivity was 
+20.35% for colemanite plaster; the lowest thermal conductivity was 0.3384 W/mK for 
+urlexite plaster; and the lowest sound conductivity was 46.55 dB for clinoplitoite 
+plaster.  In compressive strength measurements, it was determined that 100% plaster 
+mortar had the highest strength with 4.028mPa.   
+ 
+Keywords: Radioactive radiation, compressive strength, thermal insulation, sound 
+transmission 
+ 
+ 
+1.  Giriş 
+ 
+Deniz kıyısındaki volkanların patlaması ve yüzeye çıkan lavların deniz suyuyla 
+karışmasıyla milyonlarca yıl önce mikro gözenekli bir kaya yani zeolit oluşmuştur.  
+Zeolitin keşfinden yaklaşık 200 yıl sonra kimyacılar Weigel ve Steinhoff’ın 
+araştırmalarında kullanmışlardır.  Çalışmalarında zeolitin küçük molekülleri emme 
+özelliğinin oldukça gelişmiş olduğunu görmüşlerdir.  Bu özelliğin kaynağı ise 
+yapısındaki kanala benzer boşluklardır.  Zeolitin gelişmiş emme özelliğinin ortaya 
+konulması da endüstriyel alanda bolca kullanılmasına yol açmıştır.  Ülkemizin zeolit 
+rezervi yaklaşık 50 milyar tondur [1].   
+ 
+Zeolitlerin ağır olmaması, gözenekli yapısı, iyon değişikliği yapabilmesi, absorbsiyon 
+özelliğinin yüksek olması ve açık renkli olmaları farklı endüstriyel alanlarda ham 
+madde olarak kullanılmasına neden olmuştur.  Bu alanlardan bazıları kirlilik kontrolü, 
+
+610 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+enerji, tarım, hayvancılık, maden ve metalürjidir [2].  Zeolitin inşaat sektöründe, boyar 
+madde giderimi ve derin sulardaki radyoaktivite seviyesine etkisi araştırılmıştır [3-6].   
+ 
+Teknolojinin gelişmesiyle elektronik aletler gelişmiş ve hayatımızın her alanına 
+girmiştir.  Bununla birlikte maruz kaldığımız radyasyon miktarı da artmıştır.  
+Radyasyon, canlılarda hücresel ve moleküler düzeylerde kimyasal, biyolojik ve fiziksel 
+çeşitli değişikliklere yol açar [7].   
+ 
+Radyasyon, elektromanyetik dalgalar veya parçacıklar biçimindeki enerji yayılımıdır.  
+İyonlaştırıcı olan ve iyonlaştırıcı olmayan radyasyon olmak üzere iki türü vardır.  
+İyonlaştırıcı olmayan radyasyonun enerjisi düşük ve giriciliği çok azdır, kızılötesi 
+dalgalar, mikrodalga, radyo dalgaları örnek olarak verilebilir.  İyonlaştırıcı radyasyonun 
+ise enerjisi ve giriciliği yüksektir.  Buna örnek olan X ve gamma ışınları yüksek enerjili 
+elektromanyetik radyasyon; alfa ve beta ışınları ise yüksek enerjili parçacık 
+radyasyonudur.  Alfa ve beta radyoaktif elementlerin atom çekirdeğinin parçalanmasıyla 
+oluşan radyoaktif parçacıklardır.  Bazı elementlerin çekirdeği kararsız yapıya sahiptir, 
+yani nötron sayısının proton sayısına oranı büyüktür.  Bu kararsız çekirdekler kararlı 
+hale gelebilmek için kendiliğinden alfa(α), beta(β) gibi yüklü parçacıklar ve gamma(γ) 
+ışını yayarlar.  Bu olaya radyoaktiflik veya radyoaktif bozunma denir [8].   
+ 
+Maruz kalınacak radyasyon etkilerinin gözden geçirilerek net bir yarar sağlamayan 
+radyasyon uygulamalarına izin verilmemesi günümüzde radyasyondan korunmak için 
+kullanılan yöntemlerden biridir.  Uygulamanın sağlayacağı yararın ortaya çıkacak zarara 
+değeceğine karar verilmesiyle maruz kalınacak radyasyon miktarının en az seviyeye 
+indirilmesi sağlanmaktadır [9].  Dış radyasyondan korunmanın üç ana kuralı vardır.  
+Bunlar; zaman, mesafe ve zırhlamadır.  Zırhlama, radyasyon kaynağı ile korunmak 
+istenen kişiler arasına kurşun, tuğla, beton gibi malzemelerin konulmasıdır.  Zırhlama 
+malzemesi radyasyon miktarını azaltan malzemedir.  Zırhlama işlemi, cihazın 
+zırhlanması ve cihazın içinde bulunduğu odanın zırhlanması olmak üzere iki şekilde 
+yapılır.  Genellikle zırhlama, radyasyon tehlikesini önlemede en etkin yoldur.  
+Radyasyon türüne göre zırhlama malzemesi değişkenlik gösterir.  Alfa ışınları bir 
+kâğıttan, beta ışınları ise alüminyumdan geçemezken x ve gama ışınlarından korunmak 
+için kurşun kullanılır [10-11].  Örneğin, hastanelerdeki röntgen odaları gibi 
+radyasyonun yoğun olduğu bölgelerde duvarlar arasında zırh malzemesi olarak kurşun 
+bulunmaktadır.  Kurşun günümüzde çok tercih edilmesine rağmen pratik bir çözüm 
+olmaması, çevreye zararlı olması, ağır olması ve pahalı olması nedeniyle; yapıya ek yük 
+getirmeyecek, elverişli, canlı sağlığına zararı olmayan kurşuna alternatif seçeneklere 
+ihtiyaç vardır [12].  Bu amaçla nükleer reaktörlerde kullanılan malzemelerden birisi de 
+bordur.  Borla malzemelerin zırhlanması sonucu ortama geçen radyasyon miktarının 
+azaldığı ortaya konulmuştur [13].  Fakat bor türevleri de mali açıdan uygun değildir.   
+ 
+Son yıllarda bakteri ve virüslerin dirençli hale gelmesiyle yapı malzemelerinde 
+kullanılan bakteri karşıtı uygulamalar yetersiz kalmış ve antibakteriyel uygulamalarda 
+yeni yöntemlerin geliştirilmesini gerekli kılmıştır [14].  Mikroorganizmaların tekrar 
+çoğalmasını önlemek için betonun iç yapısının değiştirilmesi ile çeşitli alanlarda 
+kullanılan antibakteriyel özelliklerin betona kazandırılması istenmiştir.  Bu doğrultuda  
+çimento katkılı bileşim malzemelerine üretim aşamasında TiO2 eklenerek kendi kendini 
+temizleme özelliği kazanmaları ve yüzey kirleticilerinden arınmalarını sağlayan 
+çalışmalar bulunmaktadır.  Bu alanda zeolitler; iyon değişimi, adsorpsiyon yetenekleri 
+ve katalizör olarak kullanılabildikleri için tercih edilmiştir.  Literatürde zeolit ile 
+
+611 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+tekstilde, kimyasallarda ve film kaplamada antibakteriyel özellik kazandırma 
+çalışmaları yapılmıştır ama doğrudan inşaat sektöründeki yapı malzemelerinde 
+yapılmamıştır [15].   
+ 
+Betonarme yapılar ve yapı elemanları kullanıldıkları süre boyunca eğilme bükülme, 
+basınç gibi farklı dış yüklerle karşı karşıya kalırlar.  Söz konusu yapıların kullanım 
+ömrünü uzatmak için dış yüklere karşı basınç dayanım değerinin artması gerekmektedir.  
+Basınç dayanımı, betonların sertleştikten sonra üzerlerine etki eden yüklere karşı 
+gösterdiği maksimum dirençtir.  Basınç dayanımının liman, baraj, köprü, viyadük, uçak 
+pistleri gibi yapılarda yüksek olmasına dikkat edilir [16].  Fakat gelişen silah 
+teknolojisiyle birlikte özellik de konu nükleer tehdit olduğunda uzmanlar ancak yer 
+altındaki sığınak türü yapıların tamamen koruma sağlayabileceğini öngörmektedir.  Bu 
+durum sığınaklarda kullanılan betonarme yapı ve yapı malzemelerinin basınç dayanımın 
+önemini vurgulamaktadır [17].   
+ 
+Gürültü kirliliği, insanlarda hipertansiyon, stres, uyku bozuklukları, kulak uğuldaması 
+gibi çeşitli sorunlara yol açabilir.  Gürültü kontrolünü sağlamak için ses emici paneller 
+olarak sentetik, gözenekli ve elyaflı akustik malzemeler kullanılmaktadır.  Ancak bu iş 
+için sıklıkla tercih edilen köpük, taş yünü ve cam yünü gibi ürünler hem insan sağlığına 
+hem de çevreye zarar vermektedir [18-19].   
+ 
+Günümüzde sınırlı enerji kaynakları nedeniyle enerjinin verimli kullanılması büyük 
+önem taşımaktadır.  Son yıllarda yükselen enerji maliyetleri, enerji verimli yapılar 
+kavramına yönelik taleplerde belirgin bir artışa sebep olmuştur.  Binaların dış 
+duvarlarının uygun tasarımı ve seçimi enerji verimliliğini arttırabilmektedir [20].  
+Uygun yapı malzemenin seçilebilmesi için kullanılan malzemelerin ısı iletkenlik 
+katsayılarının bilinmesi gerekmektedir.  Bir malzemenin ısı iletkenlik katsayısı 
+küçüldükçe ısı yalıtım performansı artış gösterir [21].   
+ 
+Bir yapının yüzey kaplamasındaki gözenekli bir yapı taşı, yağmur ya da yüzey suları ile 
+teması sonucunda kılcallık olayı etkisiyle suyu emer.  Bu olay sonucunda yapı içine 
+giren su; yapı malzemesinin nem içeriği ile sıcaklığının değişmesine sebep olmakta ve 
+malzemede büzülme, şişme gibi hacimsel sorunlara yol açmaktadır [22].  Hâlihazırda 
+inşa edilmiş yapılarda da kılcallık ile su emmeye bağlı olarak bozulmalar meydana 
+gelebilir.  Özellikle tarihi yapılarda bulunan sanat değeri yüksek motiflerin önemli 
+derecede bozulduğu gözlemlenmiştir.  Gelişen bu tarz nemlenme zararlarının azaltılması 
+için uygun malzeme seçiminin yapılması gerekmektedir [23].   
+ 
+İnşaat sektöründe kullanılacak malzemelerin sadece bir özellik açısından değil, birkaç 
+özellik açısından yüksek değerlere sahip olması çevresel etkileri azaltması, yapısal ve 
+maliyet açısından önem arz etmektedir.  İnşaat malzemelerinde basınç dayanımı, ses ve 
+ısı izolasyonunun yanı sıra son yıllarda antibakteriyel özellikte ön plana çıkmıştır.   
+ 
+Geçmişten günümüze tıp, tarım, endüstri ve askeri gibi birçok alanda kullanılan yöntem 
+ve araçlar gelişme göstermiş buna bağlı olarak canlıların maruz kaldığı radyasyon 
+miktarı gün geçtikçe artmıştır. Radyasyondan korunmak için kullanılan yöntemlerden 
+en çok tercih edileni zırhlama yöntemidir. Günümüzde kullanılan zırhlama 
+malzemelerinin ekonomik olmamasından ve bu alanda daha etkili bir alternatifin 
+bulunmamasından kaynaklanan soruna bu çalışmada tasarlanan sıva harcının çözüm 
+üreteceği düşünülmektedir. Çalışmamızda Klinoptiloit zeolit, Üleksit, Kolemanit 
+
+612 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+uygulama kolaylığı sağlaması açısından hazır sıva harcıyla belirli oranlarda yer 
+değiştirilmiştir. Ülkemizde rezervi bulunan klinoptiloit zeolit, üleksit ve kolemanit 
+karışımları ile geliştirilen sıvaların radyoaktif ışınım soğurumu, ısı yalıtkanlığı, su 
+emme, ses iletim, antibakteriyel özellik ve basınç dayanımı deneysel çalışmalarla tespit 
+edilerek inşaat sektöründe kullanılabilirliği incelenmiştir. Eski ve yeni binalarda 
+kullanılabilecek Türkiye’de rezervi bulunan bir sıva malzemesinin tespit edilmesinin 
+halk sağlığının korunmasının yanı sıra milli sermayeye ve literatüre katkı sağlayacağını 
+düşünmekteyiz. 
+ 
+ 
+2.  Malzeme ve methodlar 
+ 
+Bu bölümde yapılan çalışmada kullanılan cihazların, malzemelerin ve yöntemin tanıtımı 
+yapılmıştır.   
+ 
+2.1. Malzemeler ve sıvaların hazırlanması 
+ 
+2.1.1. Klinoptiloit zeolit 
+Klinoptiloit zeolitler (Şekil 1, Şekil 2); yapısında Na, K gibi alkali ve Mg, Ca, Ba, St 
+gibi toprak alkali elementler bulunduran, kristal yapıda sulu alümina silikatlardan, üç 
+boyutlu kristal bir yapıdadır [1].   
+ 
+
+ 
+ Şekil 1.  Toz halinde klinoptiloit zeolit              Şekil 2.  Taş halinde klinoptiloit  zeolit 
+ 
+2.1.2. Kolemanit 
+Kristalize, özellikleri açısından elmasla benzerlik gösteren ve elmas kadar sert olan 
+kolemanit bor bileşikleri içinde en yaygın olanıdır (Şekil 3).  Dünyada ABD’de; 
+Türkiye'de ise Balıkesir, Kütahya ve Bursa’da bulunur [24].   
+ 
+2.1.3. Üleksit 
+Doğada sütun, lifsi ve masif şeklinde bulunur(Şekil 4).  Üleksit sıcak su içerisinde daha 
+kolay çözünür.  Dünya bor rezervinin %73'üne sahip olan Türkiye'de zengin bor yatağı 
+Balıkesir, Eskişehir ve Kütahya’da bulunmaktadır.  Üleksit mineralinin kullanıldığı 
+birçok alana boraks ve borik asit üretimi, ses ve ısı izolasyonu, seramik, cam ve gübre 
+endüstrisi örnek olarak verilebilir [24-26].   
+ 
+ 
+2.1.4. Gaz beton 
+Gaz beton, kolay işlenebilir, gözenekli yapıya sahip ve ısı yalıtkanlığı yüksek bir yapı 
+malzemesidir (Şekil 5).  Sönmemiş kireç, yüksek silisli bir dolgu maddesi, çimento ve 
+alüminyum tozu içerir.  Gözenekli olmasını sağlayan alüminyum tozudur.  Yapısındaki 
+maddelerin; %59’u uçucu kül, %33’ü çimento, %8’i kireç ve %0,07’si alüminyum 
+
+613 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+şeklindedir.  En önemli ve en ayırıcı özelliği gözenekli bir yapıda olmasıdır.  Toplam 
+gözeneklikleri hacimsel olarak %75- %90 arasında değişen gaz betonlar en fazla 
+kullanılan gaz beton tipleridir [27].   
+ 
+
+Şekil 3.  Kolemanit                    Şekil 4.  Üleksit                Şekil 5.  Kullanılan gaz beton 
+ 
+2.1.5. Hazır sıva harcı 
+Dış ve iç cephelerde yüzeyde ısı yalıtım amaçlı kullanılan mantolama sıvısıdır.  
+Çimento esaslıdır [28].  Hazır sıva harcının teknik özellikleri Tablo 1’de verilmiştir.  
+  
+
+Tablo 1.  Hazır Sıva Harcının Özellikleri 
+ 
+
+ 
+ 
+2.1.6.  Sıvaların hazırlanışı 
+Klinoptiloit zeolit, üleksit ve kolemanit farklı oranlarda hazır sıva harcı ve suyla 
+karıştırılmıştır.  Elde edilen sıva harçları gaz betonlara uygulanmış ve farklı 
+boyutlardaki iki kalıba dökülmüştür.  Sıva uygulanan gaz betonlar; radyoaktif ışınım 
+geçişi, ısı iletimi ve ses yutumu ölçümlerinde kullanılmıştır.  5x5x5 boyutundaki kalıba 
+dökülen sıvalar basınç dayanım ve su emme ölçümlerinde kullanılmıştır.  2x2x2 
+boyutundaki 
+kalıba 
+dökülen 
+sıvalar 
+antibakteriyel 
+özelliğin 
+araştırılmasında 
+kullanılmıştır.  Hazırlık aşamaları Şekil 10,11 ve 12’de gösterilmiştir.   
+ 
+
+Şekil 6.  Malzemelerin karıştırılması 
+Şekil 7.  Sıvaların gaz betonlara uygulanması 
+ 
+ 
+ 
+             
+ 
+ 
+
+Şekil 8.  Sıva uygulanan gaz beton 
+ 
+Gaz betonlara uygulanan sıvaların malzeme miktarı, malzeme oranları, su miktarı ve 
+kalınlıkları Tablo 2’de verilmiştir.  Uygulamanın yapıldığı gaz betonların eni 10 cm, 
+boyu 25 cm’dir.  Sıvaların hazırlanması esnasında kullanılan su ve malzeme miktarları, 
+
+614 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+uygulanacak sıva kalınlıkları yapı sektöründe çalışan sıvacılar ile görüşüldükten sonra 
+belirlenmiştir.   
+
+Tablo 2.  Gaz betonlara uygulanan sıvalarda kullanılan malzemeler ve oranları 
+
+ 
+ 
+Basınç dayanımı ve su emme ölçümleri için hazırlanan sıvaların kalıplara dökülmesi 
+gerekmektedir.  Bu 5x5x5’lik kalıplar Şekil 13’de görüldüğü gibidir.  Kalıplara dökülen 
+sıvalarda kullanılan malzemeler miktarları ve oranları, su miktarları Tablo 3’de 
+verilmiştir.   
+ 
+
+Tablo 3.  5x5x5 Boyutundaki sıvalarda kullanılan malzemeler ve oranları 
+
+ 
+ 
+Kalıplara dökülen sıvalar kalıp içinde 1 gün kalıptan çıkarıldıktan sonra da 14 gün 
+boyunca bekletilmiştir.  Elde edilen numune örneği Şekil 14’te gösterilmiştir.   
+ 
+
+     Şekil 9.  Sıvaların kalıplara dökülmesi     Şekil 10.  5x5x5 boyutundaki sıva 
+ 
+Antibakteriyel özelliklerin araştırılması için hazırlanan sıvalar 2x2x2 boyutundaki 
+kalıplara dökülmüştür (Şekil 15, 16).  Kalıplara dökülen sıvalarda kullanılan 
+malzemelerin miktarları ve oranları, su miktarları Tablo 4’de verilmiştir.   
+ 
+
+ 
+ 
+ 
+ 
+
+615 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+Tablo 4.  2x2x2 Boyutundaki sıvalarda kullanılan malzemeler ve oranlar
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şekil 11.  Sıvaların kalıplara dökülmesi              Şekil 12.  2x2x2 boyutundaki sıvalar 
+ 
+2.2. 
+Test ve ölçüm yöntemleri 
+Toz malzemelerin ölçümlerinde hassas terazi kullanılmıştır.  Taş halindeki klinoptiloit 
+zeolitler havanlarda ezilerek toz haline getirilmiştir.  Toz haline getirilen malzemeler 
+(klinoptiloit zeolit, üleksit ve kolemanit) su ve sıva harcı ile belirlenen oranlarda 
+karıştırılmıştır.  Elde edilen sıva karışımları gaz betonlar üzerine uygulanmıştır.   
+ 
+2.2.1. QTM-500 cihazı 
+Seramik, tuğla, plastik ve beton gibi çeşitli yalıtım malzemelerinin ısı iletim 
+katsayılarını ölçmede kullanılır.  Bu cihazda prensip olarak sıcak tel metodunu 
+kullanılmaktadır.  Sıcak tel metodunda maddelerin ısı iletkenliği, metal bir tel ısıtılarak 
+maddenin zaman içindeki sıcaklığındaki artışa göre belirlenir.  QTM-500 cihazının 
+teknik özellikleri; 0.023-11.63 W/mK ölçüm aralığı, %5 ölçüm hassasiyeti, (-10)- 200ºC 
+sıcaklık aralığı, 120x60x20mm minimum örnek boyutu şeklindedir (Şekil 6) [29].   
+ 
+2.2.2. Geiger Müller detektörü 
+Bilimsel araştırmalarda parçacık sayısının tespit edilmesi için kullanılır ve birçok çeşidi 
+vardır.  Çeşitlerine gazlı detektörler, sintilasyon detektörleri, yarı iletken detektörler 
+örnek verilebilir.  Bu projede gazlı detektör olan Geiger Müller detektörü kullanılmıştır.  
+Geiger Müller detektörü (Şekil 7) alfa, beta, gama olarak bilinen rasyasyon ışınları 
+tespit eder ve sayar.  Yüksek gerilim kullanarak çalışır.  Geiger Müller detektöründe 
+parçacık enerjisinin ölçülmesi veya parçacık cinslerinin birbirinden ayrılması mümkün 
+değildir.  Bu çalışmada kullanılan Geiger Müller detektörünün özellikleri; 9 V besleme 
+gerilimi, 315 mW gücü ve 250-600 V tüp voltajı bulunmaktadır.  Geiger Müller 
+sayacıyla Bekerel (Bq) biriminden ölçüm yapılır.  Bekerel (Bq) birimi ile çekirdeğin 
+birim zamandaki bozunma sayısı tespit edilir [30].   
+ 
+2.2.3. Desibelmetre 
+Ses iletkenlik ölçümünde kullanılan cihaz desibel metredir.  Desibelmetreler (Şekil 8) 
+ses basıncını ölçerek sesin seviyesini belirleyen cihazlardır.  Ses desibelmetrenin 
+içerisine mikrofon sayesinde alındıktan sonra cihaz içerisinde değerlendirilir ve ölçüm 
+sonuçları cihaz ekranında desibel cinsinden görüntülenir.  Hata payı: ±1.  4dB 
+
+616 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+ 
+
+Şekil 13.QTM 500 cihazı    Şekil 14.Geiger müller dedektörü     Şekil 15.  Desibelmetre 
+ 
+2.2.4. Otomatik çimento basma deney presi 
+Basınç mukavamet ölçümlerinde kullanılan cihaz çimento basma deney presidir (Şekil 
+9).  Bu cihazda, küp şeklindeki numunelerde bozulmalar gözlenene kadar sabit bir 
+yükleme hızıyla kuvvet uygulanır bu sayede mm2 başına düşen mPa değeri 
+hesaplanmaktadır.  Çimento basma deney pres cihazının teknik özellikleri: Kapasite: 
+250kN, Yükleme hızı: 0,5kN/sn.   
+ 
+
+ 
+
+Şekil 16.  Otomatik çimento basma deney presi 
+ 
+2.2.5. Radyoaktif ışınım geçiş ölçümü 
+Radyoaktif ışın geçiş ölçümleri ilimizdeki üniversitenin fizik laboratuvarında uzman 
+gözetiminde yapılmıştır.  Öncelikle radyoaktif ışınım soğurulmasında klinoptiloit 
+zeolitin etkili olup olmadığını belirlemek amacıyla yirmi saniyelik periyotlarda Geiger 
+Müller detektörü kullanılarak ölçümler yapılmıştır (Şekil 17, Şekil 18).  Kaynak- 
+dedektör arası madde yokken ölçülen değer 5.35 Bq, saf klinoptiloit zeolit kullanılan ön 
+ölçümde elde edilen değer ise 1.7Bq’dir.  Yapılan ön ölçümlerle saf klinoptiloit zeolitin 
+radyoaktif ışınım soğurumunda etkili olduğu tespit edilmiştir.   
+ 
+
+Şekil 17.  Zeolitile ön ölçümün yapılması    Şekil 18.  Zeolitile ön ölçümün yapılması 
+
+617 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+Gaz beton üzerine uygulanmış sıvalar Geiger Müller dedektörü ve kullanılan radyoaktif 
+kaynak olan Radyum 226 arasına yerleştirilmiştir.  Her oran için 30 saniyelik onar 
+ölçüm yapılmıştır.  Her ölçümde Radyum ile dedektör arasındaki mesafe ve sıvaların 
+kalınlığı sabit tutulmuştur.  Bu ölçümlere ek olarak radyoaktif kaynak ve dedektör 
+arasında malzeme yokken ve gaz beton sıvasız iken kontrollü deneyler için ölçümler 
+yapılmıştır (Şekil 19).   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Şekil 19.  Radyoaktif ışınım geçiş ölçümü 
+ 
+2.2.6.  Isı iletkenlik katsayısının ölçümü 
+%30 malzeme-%70 sıva harcı oranındaki sıvaların gaz betona uygulanmasıyla elde 
+edilen örneklerin ve %100 sıva harcı uygulanmış gaz betonun termal iletkenlik 
+katsayıları QTM-500 ısı iletkenliği ölçme cihazı ile ölçülmüştür.  Her örnek için 1 
+dakikalık üçer ölçüm yapılmıştır.  Isı iletkenlik katsayısı ölçümleri ilimizdeki 
+üniversitenin kimya bölümünde yapılmıştır (Şekil 20, Şekil 21).  
+ 
+
+ 
+Şekil 20.  Isı iletkenlik katsayısının ölçümü Şekil 21.  Isı iletkenlik katsayısının ölçümü 
+ 
+2.2.7.  Basınç mukavamet ölçümü 
+5x5x5 boyutunda%30 malzeme-%70 sıva harcı oranındaki örneklerin beton pres cihazı 
+ile basınç mukavametleri ölçülmüştür.  Her örnek için üçer kez ölçüm alınmıştır.  Aynı 
+ölçüm %100 sıva harcı kullanılarak elde edilen örnekle de yapılmıştır.  Basınç 
+mukavamet ölçümleri ilimizdeki üniversitenin inşaat mühendisliği bölümünde 
+yapılmıştır (Şekil 22).   
+ 
+ 
+ 
+ 
+ 
+ 
+
+618 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+Şekil 22.  Basınç mukavamet ölçümü 
+ 
+2.2.8.  Su emme ölçümü 
+5x5x5 boyutunda hazırlanmış örnekler hassas terazide tartılarak kuru kütleleri 
+belirlenmiştir.  Ardından 500 ml su içinde 24, 48 ve 72 saat boyunca bekletilmiştir 
+(Şekil 23).  Belirtilen süreler sonunda tekrardan kütleleri ölçülerek sıvaların ne kadar su 
+emdikleri ölçülmüştür (Şekil 24).   
+
+     Şekil 23.  Sıvaların suda bekletilmesi                 Şekil 24.  Sıvaların tartılması 
+ 
+2.2.9.  Ses iletkenliği özelliklerinin incelenmesi 
+%30 malzeme-%70 sıva harcı oranındaki sıvaların gaz betona uygulanmasıyla elde 
+edilen örneklerin beşer adeti, %100 sıva harcı ile yapılan örneklerin 5 adeti ve sıvasız 
+gaz betonların 5 adeti ses yutum özellikleri ölçümünde kullanılmıştır.  Gaz betonlar 
+sıvalı kısmı dışarıda kalacak, aralarında boşluk kalmayacak şekilde ve arasına sabit 
+şiddetli ses kaynağı konularak Şekil 25’deki gibi yerleştirilmiştir.   
+ 
+
+ 
+     Şekil 25.  Gaz betonların yerleştirilmesi            Şekil 26.  Ses iletkenliği ölçümü 
+ 
+Ses kaynağı ile aynı hizada, kaynağa 1.5 metre mesafede bulunan bir desibelmetre ile 
+ölçümler alınmıştır.  Kaynak ve desibelmetre arasında engel yokken de ölçüm 
+alınmıştır.  Her malzeme için 30 saniyede 10 ölçüm alınmış ve ortalamaları 
+hesaplanmıştır (Şekil 25, Şekil 26).   
+ 
+2.2.10.  Antibakteriyel özelliğin araştırılması 
+2x2x2 boyutunda %30 malzeme-%70 sıva harcı ve %100 sıva harcı oranındaki 
+örneklerin antibakteriyel özellikleri incelenmiştir.  Malzemelerimizin antibakteriyel 
+etkinliklerinin sayısal olarak tespitinde, ASTM E2149 test yöntemi kullanılmıştır.  
+Deneysel süreçte, Staphylococcusaureus (ATCC 6538) Gram-pozitif bakteri suşu olarak 
+seçilmiştir.  Numunelere, 2x105 cfu/mL yoğunlukta Staphylococcusaureus bakteri 
+çözeltisi ilave edilmiş, 37ºC’de 100 devir/dakika çalkalama hızında ilk olarak 2.  5 saat, 
+devamında 24 saat süre ile inkübe edildikten sonra seri sulandırmalar yapılarak besi 
+yerlerine ekimler yapılmış ve antibakteriyel etkinlik değeri tespit edilmiştir.   
+
+619 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+3.   Sonuç ve tartışma 
+ 
+Çalışmanın amacı doğrultusunda farklı miktarlarda ve oranlarda sıva harcıyla 
+karıştırılan klinoptiloit zeolit, kolemanit, üleksitle elde edilen örneklerin radyoaktif 
+ışınım geçiş, ısı iletkenlik katsayısı, basınç dayanımı, ses iletkenliği, su emme ölçümleri 
+ve antibakteriyel özellikleri incelenmiştir.  Bu kısımda çalışmanın sonuçları sunularak 
+tartışılmıştır.   
+ 
+3.1.  Su emme ölçümü sonuçları 
+Sıvaların kütlece su emme yüzdeleri hesaplanırken %100 sıva harcı ve %30 malzeme- 
+%70 sıva harcı oranında 5x5x5 küp şeklinde numuneler hazırlanmıştır.  Numunelerin 
+24,48 ve 72 saat suda bekletilmesiyle ölçümler tamamlanmıştır.  Zaman geçtikçe her 
+malzeme için su emme yüzdeleri çok az artmakla birlikte ölçümler sonunda kütlece su 
+emme yüzdesi en yüksek olan sıva yaklaşık %30 ile klinoptiloit zeolitli sıva en az olan 
+sıva ise yaklaşık %17 ile üleksitli sıva olmuştur.  Tablo 5’de sıvaların 24, 48 ve 72 saat 
+sonraki su emme ölçümlerine ait sonuçlar sunulmuştur.   
+ 
+                  Tablo 5.  Su emme ölçümleri sonucunda elde edilen bulgular 
+ 
+
+ 
+ 
+Tablo 5’de görüldüğü gibi %30 malzeme - %70 sıva harcı oranındaki sıvaların su emme 
+yüzdeleri %100 sıva harcının su emme yüzdesi ile karşılaştırıldığında ise %70 sıva harcı 
+- %30 klinoptiloit zeolit oranındaki sıvanın %100 sıva harcına göre daha çok su emdiği, 
+%30 üleksit - %70 sıva harcı ve %30 kolemanit - %70 sıva harcı oranındaki sıvaların ise 
+daha az su emdiği tespit edilmiştir.  Bunun sebebinin zeolitin gözenekli yapısından 
+kaynaklandığı düşünülmektedir.  Bu bağlamda nem yüzdesi yüksek olan bölgelerde ve 
+binaların dış cephesinde kullanılmasının uygun olmadığı düşünülmektedir.  Literatürde 
+zeolit miktarının artmasına bağlı olarak su emme miktarında artış gözlemlenen çalışma 
+bulunmaktadır [31].   
+ 
+3.2.  Radyoaktif ışınım geçiş ölçümü sonuçları 
+Hazırlanan harçlar gaz beton üzerine 1 cm’lik tabaka halinde sıvandıktan sonra 
+ölçümler alınmıştır.  Tablo 6’da  %50 klinoptiloit zeolit - %50 sıva harcı, %40 
+klinoptiloit zeolit - %60 sıva harcı,  %60 klinoptiloit zeolit - %40 sıva harcı içeren 
+sıvaların; Tablo 7’de sıvasız gaz beton %100 sıva harçlı gaz beton %30 Malzeme - %70 
+sıva harçlı sıvaların radyoaktif ışınım geçiş ölçüm sonuçları sunulmuştur.   
+ 
+
+Tablo 6.  %50- %40- %60 Klinoptiloit Zeolit içeren sıvaların radyoaktif ışınım geçiş 
+
+bulguları 
+
+620 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+Tablo 6’da görüldüğü gibi %50 klinoptiloit zeolit - %50 sıva harcında 0,61 Bq, %40 
+klinoptiloit zeolit - %60 sıva harcında 0,63 Bq, %20 klinoptiloit zeolit - %80 sıva 
+harcında 0,53 Bq ölçülmüştür.  Yapılan ölçümler sonucu kaynak ile detektör arası 
+madde yokken 1,06 Bq geçiş değeri elde edilmiştir.  Bu değerin sıvasız gaz betonda 
+0,64 Bq olmasından dolayı gaz betonun yapısındaki maddelerin de radyoaktif ışınları 
+soğurduğu anlaşılmıştır.  Aynı şekilde hazır sıva harcı için 0,56 Bq ölçülmesi hazır sıva 
+harcının radyoaktif ışınım soğurum özelliğinin olduğunu göstermektedir.  Klinoptiloit 
+zeolit oranı farklı sıvalar arasında %30 klinoptiloit zeolit - %70 sıva harcı oranın en iyi 
+soğurum değerine sahip olduğu görülmüştür (Tablo 7).  Bunu sebebinin klinoptiloit 
+zeolitin miktarı azaldıkça kafesli yapısının tutuculuğunun artmasından kaynaklandığı 
+düşünülmektedir.   
+
+%30 malzeme - %70 sıva harcı oranında farklı malzemelerle yapılan sıvalar arasında en 
+iyi değer 0.48 Bq ile klinoptiloit zeolitli sıvada elde edilmiştir.  Üleksitli ve kolemanitli 
+sıvalarda ise soğurum değerinin sırasıyla 0,63 Bq ve 0,61 Bq olduğu görülmüştür.  Bu 
+sonuçlar “ İnşaatlarda sıva malzemesi olarak klinoptiloit zeolit, üleksit ve kolemanite 
+göre zırhlama açısından alternatif bir malzeme midir? ” sorumuzu desteklemektedir.   
+ 
+Zeolitin, kirli suların arıtılması[32], enerji tasarrufu sağlanması[33] ile ilgili araştırmalar 
+literatürde yer almaktadır.  Ancak inşaat sektöründe zeolitin sıva harcı ile karıştırılarak 
+radyoaktif ışınım soğurumunda kullanılmasıyla ilgili çalışma bulunamamıştır.  Bu 
+çalışmanın diğer çalışmalardan farklı olmasını sağlayan niteliği de buradan gelmektedir.  
+Bu çalışmanın sonucuna göre zeolitli sıva harçları radyoaktif ışınım soğurumu 
+ölçümleri sonucunda üleksit ve kolemanitli sıvalara göre daha kullanıma uygun olduğu 
+tespit edilmiştir.  Sonuç olarak zeolitin bor türevlerine kıyasla daha ekonomik oluşu ve 
+daha iyi sonuç vermesi ayrıca kurşuna kıyasla da binalara yük getirmemesi ve zeolitli 
+sıvaların eski binalara da uygulanabilecek oluşu zeolitin bu alanda kullanılabileceğini 
+göstermektedir.   
+ 
+3.3. Isı iletkenlik katsayısı ölçümü sonuçları 
+QTM-500 cihazı ile %30 Malzeme - %70 sıva harcı oranındaki farklı malzemeler için 
+gerçekleştirilen ölçümler en düşük ısı iletimine sahip olan sıvanın üleksitli sıva 
+olduğunu ortaya koymuştur.  Ancak üleksitli ve zeolitli sıvaların da %100 sıva harcına 
+göre ısı iletiminin yaklaşık %50 oranında daha düşük olması ve zeolitli sıvanın 
+maliyetinin üleksitli ve kolemanitli sıvalara göre daha düşük olması gibi kıstaslar göz 
+önüne alınınca zeolitli sıva daha avantajlıdır.  Ayrıca literatürde doğal klinoptiloit zeolit 
+içeren harçların iyi bir yalıtım malzemesi olarak kullanabileceğini belirten çalışmalar da 
+bulunmaktadır [34].  Tablo 7’de sıvasız gaz beton %100 sıva harçlı gaz beton %30 
+Malzeme - %70 sıva harçlı sıvaların ısı iletkenlik ölçüm sonuçları verilmiştir.   
+ 
+3.4. Basınç mukavamet ölçümü sonuçları 
+Hazırlanan 5x5x5 küp şeklindeki sıvaların UTCM-6431 cihazı ile basınç dayanım 
+ölçümlerine bakılmıştır.  %100 hazır sıva harcı ile %70 sıva harcı - %30 malzeme 
+oranındaki sıvalar arasından en iyi ölçüm değerini 4.  028 mPa ile %100 sıva harcı 
+vermiştir.  Ardından 1.789 ile üleksit katkılı sıva harcı gelmektedir.  Literatürde zeolit 
+katkılı harçlarda basınç mukavemet değerinin %100 sıva harcına göre daha düşük 
+olduğunu belirten çalışma bulunmaktadır [35].  Tablo 7’de sıvasız gaz beton %100 sıva 
+harçlı gaz beton %30 Malzeme - %70 sıva harçlı sıvaların ses iletkenlik ölçüm sonuçları 
+verilmiştir.   
+ 
+ 
+
+621 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+3.5. Ses iletkenlik ölçümü sonuçları 
+Ses iletkenlik ölçümleri, aynı malzeme ile sıvanan 5 gaz betonun aralarında boşluk 
+kalmayacak ve ses kaynağı oluşturulan yapının içinde kalacak şekilde yerleştirilmesiyle 
+yapılmıştır.  Ölçümler sonucu ses iletkenliği en fazla olan maddenin 48,33 dB ile %100 
+sıva harcı oranındaki sıva olduğu görülmüştür.  Sıvasız gaz betonun ölçüm yapılan 
+malzemeler arasında en iyi yalıtım malzemesi olmasının nedeninin gözenekli bir yapıda 
+olmasından kaynaklandığı düşünülmektedir.  En iyi soğurum değerinin sıvasız gaz 
+betonda olmasına rağmen binalarda üzerine sıva uygulanmadan kullanılamaması gaz 
+betonu bu alanda işlevsiz hale getirmektedir.  İkinci en iyi soğurum değerine sahip %70 
+sıva harcı -%30 klinoptiloit zeolit oranındaki sıvanın ise ses yalıtımında alternatiflerine 
+göre daha etkili olduğu yapılan ölçümlerle gösterilmiştir.  Tablo 7’de sıvasız gaz beton 
+%100 sıva harçlı gaz beton %30 Malzeme - %70 sıva harçlı sıvaların ses iletkenlik 
+ölçüm sonuçları verilmiştir.   
+ 
+
+Tablo 7.  Sıvasız gaz beton %100 sıva harçlı gaz beton %30 Malzeme - %70 sıva harçlı 
+
+sıvaların radyoaktif ışınım geçiş, ısı iletkenlik, ses iletkenlik ve gerilme değerleri 
+
+bulguları 
+
+ 
+
+3.6. Antibakteriyel özelliğin incelenmesi 
+ 
+Sıvaların ASTM E2149 test yöntemine göre antibakteriyel özellikleri incelenmiştir.  Bu 
+inceleme sonucu %100 sıva harcı kullanılarak yapılan sıvada herhangi bir antibakteriyel 
+etkinlik tespit edilmemiştir.  %30 malzeme - %70 sıva harcı kullanılarak yapılan 
+sıvaların hepsi bakteri gelişimi üzerinde negatif etki göstermiştir.  Yapılan ölçümlerin 
+devamında inhibisyon etkisinin 24 saat boyunca sürdüğü ve neredeyse hiç bakteri 
+kalmadığı görülmüştür.  En fazla antibakteriyel özellik sırasıyla zeolitli, üleksitli ve 
+kolemanitli sıvada gözlenmiştir.  Bunun nedeni kullanılan maddelerin kimyasal 
+özelliklerine bağlanmaktadır.   
+ 
+Önceki yıllarda zeolitin sıva harcı, antibakteriyel katkı ve TiO2 ile karıştırılarak 
+antibakteriyel etkinliğinin ve kendi kendini temizleme özelliğinin incelendiği bir 
+çalışma yapılmıştır [36].  Ancak literatürde sadece hazır sıva harcı ve klinoptiloit 
+zeolitin karıştırılmasıyla elde edilen sıvanın antibakteriyel etkinliği ile ilgili herhangi bir 
+çalışmaya rastlanmamıştır.   
+ 
+Çalışmamız inşaatlarda kullanılan hazır sıva harçları belirli oranlarda klinoptiloit zeolit, 
+üleksit ve kolemanit ile yer değiştirilirse radyoaktif ışınım geçişini ne kadar 
+engelleyebileceği üzerine yapılandırılmıştır.  Yapılan radyoaktif ışınım geçiş ölçüm 
+sonuçlarından en iyi ölçüm %30 klinoptiloit zeolit - %70 sıva harcında (0,48 Bq) elde 
+edildikten sonra inşaat sektöründe önemli olan ısı iletkenlik, ses iletkenlik, basınç 
+
+622 
+ 
+
+BAUN Fen Bil. Enst. Dergisi, 27(2), 609-625, (2025) 
+ 
+
+mukavemeti, su emme ve antibakteriyel özelliklere ait deneysel çalışmalar 
+yürütülmüştür.  Sonuç olarak; radyoaktif ışınım geçişine ait en iyi değer 0,48 Bq ile 
+klinoptiloit zeoitli sıvada elde edilmiştir.  Su emme ölçümlerinde 72 saatlik ölçüm 
+sonucunda %20,35 ile kolemanitli sıvanın en iyi olduğu tespit edilmiştir.  Isı iletkenlik 
+ölçümünde en düşük ısı iletimine sahip sıvanın üleksitli sıva olduğu ölçülmüştür  
+(0,3384 W/mK).  Basınç mukavemeti ölçümlerinde %100 sıva harcının (4,028 mPa) en 
+dayanıklı olduğu tespit edilmiştir.  Ses iletkenlik ölçümlerinde 46,55 dB ile klinoptiloit 
+zeoitli sıvanın en az ses iletkenliğine neden olduğu saptanmıştır.  Sıvaların ASTM 
+E2149 test yöntemi ile incelenen antibakteriyel özelliğe en fazla sahip olan sıvanın 
+zeoitli sıva olduğu tespit edilmiştir.   
+ 
+Çalışmamızdan elde edilen deneysel sonuçlar; “ Klinoptiloit zeolit, üleksit ve kolemanit 
+katkılı sıva harçlarının ses ve ısı iletimi, antibakteriyel özellik, su emme ve basınç 
+mukavamet özellikleri birbirinden farklı mıdır? ”  “ Klinoptiloit zeolit radyoaktif ışınım 
+soğurulması ve maliyet açısından inşaat sektöründe kullanılacak alternatif bir malzeme 
+midir?” sorularımızı desteklemiştir.   
+ 
+Günümüzde kullanılan zırhlama malzemelerinin ekonomik olmamasından ve bu alanda 
+daha etkili bir alternatifin bulunmamasından kaynaklanan soruna bu çalışmada 
+tasarlanan sıva harcının çözüm üreteceği düşünülmektedir.  Geliştirilen sıvanın ısı ve 
+ses yalıtımında kullanılabilir olması ve antibakteriyel özelliğinin bulunması kullanım 
+kolaylığının yanı sıra daha avantajlı bir zırh malzeme olmasını sağlamaktadır.   
+ 
+Ayrıca klinoptiloit zeolit ülkemizde çıkarıldığından bu alanda kullanımının 
+yaygınlaşması ülke ekonomisine de katkı sağlayacaktır.   
+ 
+Bu çalışmanın klinoptiloit zeolitin radyoaktif ışınım soğurumunda kullanılabilirliği ile 
+ilgili Türk Patentve Marka Kurumuna 2022/005112 dosya numarası ile “Faydalı 
+Model” başvurusu yapılmış ve inceleme aşamasına gelmiştir.   
+ 
+Yapılan deneysel çalışmalar sonucunda klinoptiloit zeolit katkılı sıva harcının 
+radyoaktif ışınımı soğurma özelliğinden aşağıda belirtilen alanlarda kullanılması 
+önerilmektedir.   
+ 
+1) 
+Hava savunma silahlarının yaydığı radyasyonun önlenmesi için klinoptiloit zeolitli 
+sıva harcı kullanılabilir.   
+2) 
+Hastanelerde bulunan radyasyon yayan cihazların bulunduğu odaların duvarları 
+antibakteriyel özelliğinin de olmasından faydalanılarak klinoptiloit zeolitli sıva ile 
+sıvanabilir.   
+3) 
+Askeri alanda hava radarlarının bulunduğu odalarda ve genelde alıcı cihazların 
+bloklanmasında kullanılan jammerlarda da kullanılabilir.   
+4) 
+Nükleer fizik laboratuvarlarında dışarıya yayılan radyasyon miktarının azaltılması 
+için klinoptiloit zeolit içeren sıvalar kullanılabilir.   
+5) 
+Radyoaktif kirliliğin olduğu bölgelerde evlerde kullanıma uygundur.   
+ 
+ 
+Kaynaklar 
+ 
+[1] 
+Fakı, A., Reaktif tekstil boyar maddelerinin zeolit kolonda adsorpsiyon yolu ile 
+
+giderilmesi, Yüksek Lisans Tezi, İstanbul Teknik Üniversitesi, Fen Bilimleri 
+Enstitüsü, İstanbul, (2007). 
+
+623 
+ 
+
+KÜÇÜKÖZER et al. 
+ 
+
+[2] 
+Gülen, J., Zorbay, F.ve Arslan, S., Zeolitler ve kullanım alanları, Karaelmas 
+
+Fen ve Mühendislik Dergisi, 2(1), 63-68, (2012). 
+[3] 
+Turanlı, L., Yücel, H., Göncüoğlu, C., Çulfaz, A., Uzal, B., Doğal zeolitlerin 
+
+inşaat endüstrisinde kullanımı.  TÜBİTAK Araştırma Projesi, Proje No: 
+104M393,Ankara, (2007). 
+[4] 
+Bideci, Ö.S., Bideci, A.ve Oymael, S., Zeolit katkılı çimentoların özelliklerinin 
+
+incelenmesi, SDÜ Uluslararası Teknolojik Bilimler Dergisi, 5(3), 70-76, 
+(2013). 
+[5] 
+Zal, B., Zeolit, tras ve uçucu kül ile tuğla üretimi ve standart tuğla ile 
+
+karşılaştırılması, Yüksek Lisans Tezi, Çukurova Üniversitesi, Fen Bilimleri 
+Enstitüsü, Adana, (2010). 
+[6] 
+Küçükönder, E. ve Çetin, N.B., Zeolit mineralli filtrelerin derin kuyu sularındaki 
+
+radyoaktivite seviyesine etkisinin araştırılması, Kahramanmaraş Sütçü İmam 
+Üniversitesi Mühendislik Bilimleri Dergisi, 23(1), 22-36, (2020). 
+[7] 
+Kuş, K., Radyasyon nedir?, 
+(2011).http://bilheal.bilkent.edu.tr/aykonu/ay2011/radyasyonturk.htm, 
+
+(25.11.2022) 
+[8] 
+Taylor, J.R., Zafiratos, C.D.ve Dubson, M.A., Fen ve Mühendislikte Modern 
+
+Fizik Kitabı, Okutman Yayıncılık, Ankara, (2008). 
+[9] 
+AFAD, 
+Radyasyondan 
+korunmada 
+temel 
+prensipler, 
+(2021).https://www.afad.gov.tr/kbrn/radyasyondan-korunmada-temel-prensipler, 
+(22.11.2022) 
+[10] 
+AFAD, 
+İçsel 
+ve 
+dışsal 
+radyasyondan 
+korunma, 
+(2021).https://www.afad.gov.tr/kbrn/icsel-ve-dissal-radyasyondan-korunma, 
+(22.11.2022) 
+[11] 
+Akkurt I., Başyiğit C., Mavi B., Günoğlu K., Kılınçarslan Ş.ve Akkaş A., Ağır 
+agregaların radyasyon zırhlama özellikleri, Engineering Sciences, 6(4), 1481-
+1485, (2011). 
+[12] 
+Seven, A., Baritli hazır sıva kaplamalarının radyasyon zırh elemanı olarak 
+kullanılabilirliğinin görüntü işleme yöntemi ile araştırılması, Yüksek Lisans 
+Tezi, Süleyman Demirel Üniversitesi, Fen Bilimleri Enstitüsü, Isparta, (2011). 
+[13] 
+Çalık, A., Akkurt, I., Akyıldırım, H. ve Günoğlu, K., Borun radyasyon zırh 
+malzemesi 
+olarak 
+kullanılmasının 
+araştırılması, 
+5.Uluslararası 
+İleri 
+Teknolojiler Sempozyumu (IATS’09), Karabük, (2009). 
+[14] 
+Sakarya, G.K., ve Ubay, E., Antibakteriyel özellikli duvar karolarının 
+geliştirilmesi,Bayburt Üniversitesi Fen Bilimleri Dergisi, 4(2), 106-112, 
+(2021). 
+[15] 
+Canbaz, M., Güldaş, M.ve Orhan, M., Zeolit katkısının antibakteriyel ve kendi 
+kendini temizleyen harç özelliklerine etkisi, Bitlis Eren Üniversitesi Fen 
+Bilimleri Dergisi, 10(3), 987-998, (2021). 
+[16] 
+Oltulu, M. Ve Altun, G.M., Betonun darbe yönlendirmesinin tespitinde ağırlık 
+düşürme deneme yöntemi ve yapı
