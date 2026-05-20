@@ -1,0 +1,379 @@
+## Toplumsal Kabulün Mikro Alanı Olarak Komşuluk: Türkiye'de Göçmenlere Yönelik Tutumların Analizi
+
+Mine Meydancı *
+
+<!-- image -->
+
+## Giriş
+
+Göç, yalnızca nüfus hareketi değil; aynı zamanda toplumsal yapıyı, kimlik in -şasını ve ekonomik ilişkileri dönüştüren çok boyutlu bir olgudur (Castles, de Haas &amp; Miller, 2014: 28). Küreselleşmenin hızla ilerlemesi, ekonomik krizler, savaşlar ve siyasi istikrarsızlıklar, insanları yerinden ederek farklı coğrafya -larda yeni yaşam alanları arayışına itmektedir. Bu göç hareketleri, yalnızca göçmenlerin değil, aynı zamanda göç alan ülkelerin toplumsal yapılarında da önemli dönüşümlere yol açmaktadır. Uluslararası göç literatürü, göçü hem 'itici-çekici faktörler' (push-pull) çerçevesinde ekonomik ve politik nedenlerle açıklamakta (Lee, 1966: 50) hem de toplumsal bütünleşme ve kültürel etkile -şim açısından önemli bir dinamik olarak değerlendirmektedir (Portes &amp; Rum -baut, 2014: 15-16). Türkiye örneğinde ise 1960'lardan itibaren başlayan işçi göçü (özellikle Avrupa'ya yönelen 'gurbet' dalgası) ve 2011 sonrası yoğun -laşan Suriye göçü, ülkenin sosyolojik yapısını derinden etkilemiş hem kimlik tartışmalarına hem de toplumsal uyum süreçlerine yeni boyutlar kazandır -mıştır (İçduygu &amp; Aksel, 2013: 7). Bu nedenle, göç olgusu Türkiye'de yalnızca demografik bir dönüşüm değil, aynı zamanda toplumsal güven, komşuluk iliş -kileri ve uyum politikalarının merkezinde yer alan kritik bir konudur.
+
+Türkiye, kültürel çeşitliliği ve demografik yapısı ile dikkat çeken bir ül -kedir. Son yıllarda özellikle Suriye iç savaşı gibi bölgesel krizlerin etkisiyle artan göçmen nüfusu, toplumsal uyum ve entegrasyon politikalarını daha da önemli hale getirmiştir. Göçmenlerle, özellikle de yabancı işçilerle kurulan komşuluk ilişkileri, bu entegrasyon süreçlerinin başarısını doğrudan etkile -yen unsurlardır. Bireylerin göçmenlerle olan ilişkilerindeki tutumlar, yalnız -ca kişisel değerler ve inançlar üzerinden değil, aynı zamanda toplumun genel sosyo-ekonomik yapısı ve kültürel bağlamı doğrultusunda şekillenmektedir.
+
+Bu çalışmanın amacı, Türkiye'de bireylerin göçmenlerle ve yabancı işçi -lerle olan komşuluk ilişkilerini etkileyen faktörleri, bireylerin dini inançları, sosyal güven algıları ve göçmenlerin topluma entegrasyonuna yönelik tu -tumlar üzerinden ele almaktır. Özellikle, farklı uyruklardan gelen insanlarla komşuluk yapma isteği ve bu ilişkilerin toplumun sosyal yapısına etkileri, çalışmanın ana odağını oluşturmuştur.
+
+Türkiye, göçmen nüfusu açısından yalnızca bölgesel değil, küresel ölçekte de dikkat çeken bir örnek teşkil etmektedir. Coğrafi konumu, tarihsel geçmişi ve stratejik önemi nedeniyle Türkiye hem transit hem de hedef ülke konumun -da olup en fazla göç alan ülkeler arasında yer almaktadır. Sadece Ortadoğu'dan değil; Ukrayna, Rusya ve Gürcistan gibi farklı coğrafyalardan da önemli sayıda göçmen Türkiye'ye yönelmektedir. Türkiye'ye gelen göçmenlerin büyük bir kısmı dini inanç bakımından Türkiye vatandaşlarıyla benzer özellikler taşısa da kültürel pratikler, dil ve yaşam tarzı gibi unsurlar açısından belirgin farklı -lıklar gözlemlenmektedir. Bu bağlamda, çalışmada Türkiye örneği üzerinden bireylerin göçmenlerle komşuluk yapma tutumlarını daha iyi anlayabilmek amacıyla, literatür taramasına dayalı olarak oluşturulan hipotezler, nicel ana -liz yoluyla test edilmiştir. Çalışma kapsamında, Dünya Değerler Anketi (World Values Survey -WVS) 7. dalga verilerinden Türkiye veri seti kullanılarak SPSS analizine dayalı betimleyici istatistikler, tablolar ve regresyon analizleri ger -çekleştirilmiştir. Bu araştırma, yalnızca bireylerin göçmenlere yönelik tutum -larını ortaya koymakla kalmayıp, aynı zamanda toplumsal uyum ve entegras -yon politikalarına dair önemli bilgiler sağlamayı hedeflemektedir.
+
+Bu çalışma ile  hem  akademik  literatüre  katkı  sunmak  hem  de  göçmen politikalarına yön veren karar alıcılara yol göstermek amaçlanmaktadır. Tür -kiye'deki göçmenlerle ve yabancı işçilerle komşuluk ilişkileri, toplumsal ba -rış  ve  uyumun sağlanması açısından kritik bir öneme sahiptir. Göçün top -lumsal etkilerini en görünür kılan alanlardan biri, gündelik yaşamda kurulan komşuluk  ilişkileridir.  Komşuluk,  yalnızca  mekânsal  yakınlığı  değil,  aynı zamanda güven, dayanışma ve aidiyet hislerini de içermektedir (Forrest &amp; Kearns, 2001: 2130). Bu bağlamda göçmenlerle kurulan komşuluk ilişkileri, farklı kültürlerden bireylerin bir arada yaşama kapasitesinin küçük ölçekli bir göstergesi olarak değerlendirilebilir. Örneğin, Türkiye'nin büyükşehirlerinde Suriyeli göçmenlerle yerel halk arasındaki komşuluk ilişkileri, zaman zaman kültürel etkileşim ve dayanışmayı güçlendirmiş, zaman zaman da önyargılar nedeniyle gerilimler üretmiştir.
+
+Bununla birlikte, komşuluk deneyimleri yalnızca bireysel değil, çokkül -türlülüğün toplumsal zeminini de yansıtır. Çeşitli ülkelerde yapılan araştır -malar, komşuluk bağlarının güçlü olduğu mahallelerde göçmenlerin uyum sürecinin daha hızlı gerçekleştiğini, kültürel farklılıkların ise bir zenginlik olarak  algılandığını  göstermektedir  (Kymlicka,  1995:  152;  Vertovec,  2007: 1025). Türkiye örneğinde de çok kültürlü yaşam, tarihsel olarak mahalle ya -pıları içinde farklı dini ve etnik grupların bir aradalığıyla şekillenmiştir. Do -layısıyla günümüzde göçmenlerle ilgili tartışmalar yalnızca ekonomik veya güvenlik perspektifinden değil, aynı zamanda mahalle ve komşuluk bağları üzerinden de okunmalıdır.
+
+Bu çalışmanın temel araştırma sorusu, Türkiye'de bireylerin göçmenlerle komşuluk yapma eğilimini hangi faktörlerin belirlediğini ortaya koymaktır. Araştırma bu soruya, dindarlık, güven, ekonomik katkı algısı ve kültürel çe - şitlilik  gibi  değişkenler  üzerinden  cevap  aramaktadır.  Bu  yönüyle  çalışma, göç  sosyolojisi  literatüründe  sıkça  tartışılan  kimlik,  aidiyet  ve  toplumsal uyum kavramlarını ampirik bir çerçevede sınamaktadır.
+
+Bu bağlamda çalışma, üç temel bölümden oluşmaktadır. Birinci bölümde, makale konusu ile ilgili kavramsal ve kuramsal çerçeve detaylı olarak ele alınmış ve göç ve yabancı işçiliğin Türkiye'de tarihsel gelişimini incelenmiş -tir.  Anılan  bölümde  göç  hareketlerinin  Türkiye'deki  genel  çerçevesi  çizile -rek, yabancı işçiliğin Türkiye ekonomisindeki yeri ve Türkiye'de göçmenlerle ilgili toplumsal algılar tartışılmıştır. İkinci bölümde, komşuluk kavramı ve sosyolojik bağlam açıklanırken, Türkiye'de komşuluk olgusu ile yabancılar ve göçmenlerle olan komşuluk ilişkileri ele alınmıştır. Üçüncü bölüm alan araştırılmasına  ayrılmış  bulunmaktadır.  Bu  çerçevede  öncelikle  çalışmada gerçekleştirilen alan araştırmasının yöntemi detaylı olarak açıklanmış, daha sonra  Türkiye'de  bireylerin  göçmenlerle  ve  yabancı  işçilerle  komşuluk  tu -tumlarına dair veriler değerlendirilmiş ve analizler yapılmıştır. Çalışmanın, sonuç kısmında, araştırmanın kuramsal ve ampirik çerçevesinden elde edilen çıktılar özetlenmiş; bu tespitler üzerine değerlendirmeler yapılmış ve ileride yürütülecek araştırmalar için önerilere yer verilmiştir.
+
+## Göç ve Yabancı İşçiliğin Türkiye'de Tarihsel Gelişimi
+
+Toplumsal yaşamın ve dünyanın en temel unsurlarından biri olan insan ha -reketliliği, özellikle göç olgusu, küreselleşme süreciyle birlikte 20. yüzyılın ikinci yarısından itibaren daha fazla dikkat çekmeye başlamıştır (Deniz, 2014: 177).  Sanayi  devrimi  döneminde kırsal alanlardan kentsel bölgelere doğru gerçekleşen iç göç hareketleri, kentleşme sürecinde önemli bir rol oynamış ve bu süreç kentlerin nüfusunun hızla artmasına yol açmıştır. İç göç örün -tüleri, kentlerin mevcut durumunu şekillendiren en önemli etkenlerden biri olarak görülmektedir ve bu süreç yalnızca nüfus hareketleriyle sınırlı değil -dir (Petersen, 1958: 258; Hammar vd., 1997: 12).
+
+Öztürk (2016: 80; 2016b: 205), göçün çeşitli türlerini tanımlamaktadır; bun -lar arasında emek göçü, iç göç, dış göç, geçici göç, kalıcı göç ve zorunlu-gö -nüllü hareketler yer almaktadır. Gönüllü göçler, bireylerin herhangi bir dışsal zorlama olmaksızın kendi istekleri doğrultusunda gerçekleştirdikleri göçler iken; zorunlu göçler, belirli olaylar ve koşullar sonucu devlet tarafından birey -lerin göç etmeye zorlandığı hareketliliklerdir. Atamaya bağlı hareket ve işgü -cü göçü, işgücü göçünün iki ana kategorisini oluşturur (Koçak ve Terzi, 2012: 171). 'İşgücü göçü', istihdam fırsatları arayarak başka ülkelere göç eden veya kendi ülkelerinde iş bulamayan bireylerin hareketliliğini ifade eder. 'İç göç', bireylerin yaşadıkları ülkede bir bölgeden, şehirden, kasabadan veya köyden diğerine taşınmalarını ifade eder. İç göç, çevresel, ekonomik, sosyal, politik ve kültürel faktörlerin etkisiyle şekillenen karmaşık bir olgudur. Dış göç ise, bi -reylerin daha iyi yaşam koşullarına ulaşmak amacıyla, siyasi istikrarsızlıklar, insan hakları ihlalleri, iç savaşlar, etnik çatışmalar, ekonomik zorluklar ve can güvenliği kaygıları gibi faktörlerden kaçmak için, sanayileşmiş ülkelere doğru gerçekleştirdikleri hareketliliktir (Özdemir, 2012: 1).
+
+## Göç Hareketlerinin Türkiye'deki Genel Çerçevesi
+
+Sovyetler Birliği'nin çöküşü ve Soğuk Savaş dönemi sonrasında ortaya çıkan yeni dünya düzeni ve siyasi gelişmelerle birlikte, küresel siyasi dinamiklere bağlı olarak evrilen göç olgusu, uluslararası bir boyut kazanmıştır (Castles ve Miller, 1998). Önceleri ekonomik sebepler veya doğal afetler nedeniyle yaşanan uluslararası göç hareketleri, son otuz yıl içinde iç savaşlar, siyasi çatışmalar, mezhep çatışmaları ve baskıcı rejimlerin oluşturduğu siyasi ikli -min etkisiyle bireylerin can güvenliği endişelerini yansıtan bir hal almıştır. Türkiye, Orta Doğu'ya olan coğrafi yakınlığı ve Avrupa ile Asya arasında bir köprü işlevi görmesi nedeniyle, bu bölgedeki siyasi çalkantıların bir sonucu olarak sığınmacılar için önemli bir geçiş noktası haline gelmiştir.
+
+Yabancı  göçmenler,  Türkiye'deki  şehirlerin  demografik  yapısını  değiş -tirmenin ötesinde, yerleşim bölgelerinde sosyal ve ekonomik dönüşümlere de yol açmıştır. Kentleşme, temel olarak nüfus hareketliliği ile birlikte, top -lumsal yapının sosyal ve ekonomik boyutlarındaki değişimlerin bir sonucu olarak tanımlanabilir. Keleş (2012: 35) bu süreçte, kentleşmenin toplumsal dönüşümle bağlantılı bir olgu olarak ortaya çıktığını belirtmektedir. Bu bağ -lamda, kentleşme ve göç olguları, özellikle Orta Doğu'daki son gelişmelerin tetiklediği göç akımlarıyla doğrudan ilişkili hale gelmiştir. Türkiye örneğin -de, Suriyeli sığınmacıların %98'inin geçici barınma merkezleri dışında kent -lerde yaşamaya devam etmeleri, kentler ile göç olguları arasındaki ilişkiyi açıkça gözler önüne sermektedir (Erdoğan, 2019: 14).
+
+Sanayileşmenin etkisiyle, 20. yüzyılda uluslararası göç hareketlerinin art -ması, kentleşme ile ilgili sorunları daha da derinleştirerek, bu olguyu yeni bir boyuta taşımıştır. Burgess (2015: 54), ticaretin ve işletmelerin merkezi olan birinci halkadan hemen dışarıda, hastalık, yoksulluk, kötü alışkanlıklar ve su -çun yoğunlaştığı gecekondu mahallelerinde, farklı kültürlerden toplulukların birlikte yaşadığı mahallelerin ortaya çıkmaya başladığını ifade etmiştir. Eko -nomik nedenlerle başka ülkelere göç eden topluluklar, genellikle gittikleri ülkelerde, siyasi faktörlerin de etkisiyle, kendi vatandaşlarıyla birlikte yaşa -maktadırlar (Burgess, 2015: 55).
+
+Son  yıllarda,  Türkiye  küresel  olaylar  ve  ülkenin  sosyo-ekonomik  geli -şimleri doğrultusunda hem 'göç alan' hem de 'göçmenler için geçiş alanı oluşturan' bir ülke konumuna gelmiştir. Bu durum, daha kalıcı bir göçmen nüfusunun oluşmasına zemin hazırlamış ve Türkiye'nin sosyal, ekonomik, kültürel ve siyasi yapısının değişmesine olanak tanımıştır. Bu bağlamda, Tür -kiye'de göç ve göçmenlerle ilgili bütüncül ve sürdürülebilir bir göç politika -sının oluşturulması gerekliliği daha da belirgin hale gelmiştir. Türkiye, son yıllarda küresel siyasi ve ekonomik gelişmelere paralel olarak yeni nüfus ha -reketlerine tanıklık etmektedir. Dış göç hareketlerinin artması, Türkiye'deki birçok kentin daha karmaşık bir yapıya bürünmesine yol açmıştır. Bu durum, Türkiye'ye giriş yapan göçmen grupların hem niceliksel hem de niteliksel anlamda değişim sürecinden geçtiğini göstermektedir. Kentsel alanlarda bu gruplar, yoksulluk, kayıt dışı çalışma, ırkçılık, yabancı düşmanlığı, sosyal izo -lasyon ve ayrımcılık gibi zorluklarla karşı karşıya kalabilmektedirler. Yakın gelecekte Türkiye'nin uluslararası göç sorunuyla daha fazla uğraşması gerek -tiği göz önünde bulundurulduğunda, göç, yabancı göçmenler ve mülteciler konusunda çağdaş bir perspektife sahip olmanın önemi giderek artmaktadır.
+
+Sosyal uyum sağlamakta zorluk çeken sığınmacıların, şehirlerde bir arada yaşamaya yönelik eğilimleri,  bu  durumu  daha  da  karmaşık  hale  getirmiş -tir. Türkçe bilmeyen, Türk kültürünü ve geleneklerini anlamayan göçmenler, potansiyel sosyal çatışmaların kaynağı olabilmektedir (Erten vd., 2018: 73; Beyazıt, 2019: 22). Türkiye'nin kentleşme planları, göçmenlerin barınma, ça -lışma, eğitim ve güvenlik gibi temel yaşam alanlarındaki zorluklar nedeniyle önemli ölçüde etkilenmiştir. Bu gelişmeler ışığında, kentleşme politikaları, artan nüfusun taleplerine uyum sağlayacak şekilde önemli düzenlemelerden geçmiştir. Türkiye, göçmenlerin kentler üzerindeki sosyal, ekonomik ve siya -si etkilerini göz önünde bulundurarak yeni bir döneme girmektedir.
+
+Göçmenler, genellikle çocuklarının eğitim masraflarını karşılamak, borç -larını ödemek veya anavatanlarındaki yaşam standartlarını yükseltmek ama -cıyla Türkiye'ye gelmektedir. Türkiye'de geçici olarak bulunan bu bireyler, hayatlarını anavatanlarına odaklayarak yalnızca para kazanmayı amaçlamak -tadırlar. Türkiye, artan kazanç potansiyeli, nispeten daha esnek seyahat yasa -ları ve Avrupa Birliği'nin katı vize düzenlemeleri nedeniyle göçmenler için daha cazip bir yer haline gelmektedir (İçduygu, 2004: 89; İçduygu, 2006: 112). Bu dönemde, göç ve mülteci akımları Türkiye'nin kamu ve siyasi alanında önemli bir yer tutmuştur. Bu sebeple kapsamlı bir göç stratejisi yapılması di -ğer yandan da AB'ye uyum çabalarının bir parçası olarak, göç politikalarının şekillendirilmesi süreci başlamış ve kurumsallaşma çabaları hız kazanmıştır (Özçürümez ve Şenses,  2011:  46).  Bu  dönemde,  Türkiye'deki  insan  hakları
+
+grupları, göç ve mülteci hakları konusunda daha bilinçli hale gelmiştir. AB katılım süreci, sivil toplum için fonlar ve siyasi alan sağlamış, iltica alanında savunuculuk yapan grupların sayısını artırmıştır. Bu süreçte, BM Mülteci -ler Yüksek Komiserliği'nin etkisiyle, sivil toplum kuruluşları göç konusunda daha fazla faaliyet göstermeye başlamış ve Türkiye'deki sığınmacılar öncelik -li hedef alınmıştır. Ancak bu durum, belgesiz göçmenlerin haklarının marji -nalleşmesine yol açmış ve insani koruma gereksinimlerinin göz ardı edilme -sine neden olmuştur (Scheel ve Ratfisch, 2014: 927)
+
+Son yıllarda, Türkiye'ye gelen göçmenler farklı etnik ve dini kökenlere sa -hip olmakla birlikte, Türkiye'de bulunma nedenleri de çeşitlilik göstermekte -dir (İçduygu vd., 2014: 222). Bu durum, Türkiye'nin uluslararası göç rejimin -deki konumunu değiştirmiştir. Önceden yalnızca 'göç veren' bir ülke olan Türkiye, günümüzde hem 'göç alan' hem de 'transit' statülerini kazanarak üçlü bir konum elde etmiştir (Kirişçi, 2004: 5).
+
+Türkiye'ye yönelik göçün temel sebepleri, çevre ülkelerdeki siyasi, ekono -mik ve güvenlik sorunlarıdır. Bunun yanı sıra, Türkiye'nin coğrafi konumu, Asya, Avrupa ve Afrika arasında bir köprü işlevi görmesi ve önemli deniz bağlantılarına sahip olması, göçmenlerin Batı ülkelerine geçiş için Türkiye'yi tercih etmelerine neden olmaktadır. Küreselleşme ve özellikle 1980 sonrasın -da Türkiye'deki liberal ekonomik gelişmeler, uluslararası öğrenci veya emek -li olarak Türkiye'ye gelen yabancı uyrukluların, iş bulmaları halinde oturma ve çalışma izni almalarını kolaylaştırmıştır.
+
+İçduygu ve arkadaşları (2014: 222-225), Türkiye'ye yönelik göç hareketle -rini iki başlık altında ele almakta ve bunları 'mekik hareketi' ile 'düzenli göç' olarak  tanımlamaktadır.  Düzenli  göç,  yasal  çerçeveler  içinde  gerçekleşen  ve kayıt altına alınan göç hareketleridir. Bu kategori, çalışma ve oturma iznine sa -hip aile üyeleri ile Türkiye'ye iş veya eğitim amacıyla gelen kişileri kapsamak -tadır. Mekik göçü ise, yasadışı ya da kayıtsız göç hareketlerini tanımlayan bir terim olup, transit göç, mülteci göçü ve sığınmacı seyahati gibi olguları içerir.
+
+Göç olgusu, toplumsal güvenliği tehdit eden önemli bir faktör haline gel -miştir. Göçmenlerin gelmesiyle birlikte, toplumda artan sosyal izolasyon, kı -rılganlık ve risk alma eğilimleri olumsuz etkiler yaratmaktadır. Ayrıca, göç -menlere yönelik olumsuz görüşlerin başlıca sebeplerinden biri, 'ekonomik kaynakları paylaşma konusundaki isteksizlik' tir, ilgili durum da toplumsal huzursuzluğa yol açmaktadır.
+
+Göçün, tarihsel, toplumsal ve ekonomik etkilerinin yanı sıra, göçmenlerin geldikleri ülkelerde yarattığı dönüşümler de büyük önem taşımaktadır. Tür - kiye  özelinde  değerlendirildiğinde,  göçmen  nüfusunun,  ülkenin  kentleşme politikalarından toplumsal yapısına kadar pek çok alanda etkiler yarattığı gö -rülmektedir. Bu etkilerden belki de en dikkat çekici olanı, göçmenlerin Türki -ye ekonomisindeki işgücü piyasasına olan katkılarıdır. Türkiye'deki yabancı işgücünün iş piyasasında oynadığı rolü incelemek, göç olgusunun ekonomik boyutunun  daha  derinlemesine  anlamamıza  olanak  sağlayacaktır.  Bu  bağ -lamda, Türkiye'deki yabancı işgücünün karşılaştığı sorunlar ve bu işgücünün ekonomiye kattığı değer üzerinde durulması gerekmektedir.
+
+## Yabancı İşçiliğin Türkiye Ekonomisindeki Yeri
+
+Günümüzde göç, bireylerin iş olanakları, daha iyi çalışma koşulları veya ken -dileri ile aileleri için daha iyi yaşam şartları arayarak iki ya da daha fazla ülke arasında geçici ya da kalıcı bir şekilde yer değiştirmeleri ile meydana gelmektedir.
+
+Lewis (1996: 26-27), sanayileşmiş ve gelişmekte olan ülkeler arasındaki ücret eşitsizlikleri ve işgücü piyasası dengesizliklerinin, dünya genelindeki göçün temel sebepleri arasında yer aldığını savunmaktadır. Bu bakış açısı, gelişmiş ve gelişmekte olan ülkeler arasındaki emek ve sermaye kaynakların -daki eşitsizliklerin, emek arzı ve talebi arasında ücret dengesizliğine yol aç -tığını vurgulamaktadır. Bu eşitsizlikler, gelişmemiş ülkelerden gelişmiş ül -kelere doğru bir göç hareketine neden olmaktadır. Zengin ülkeler, daha fazla sermaye arzına sahipken, gelişmekte olan ülkeler ise daha fazla işgücü arzına sahiptir. Sonuç olarak, gelişmiş ülkelerdeki işçiler, gelişmekte olan ülkelere kıyasla daha yüksek gelir elde etmektedirler.
+
+Göç, gelişmekte olan ülkelerde işgücü arzının azalmasına ve gelişmiş ül -kelerde ise artmasına yol açarak, bir yanda ücretlerin yükselmesine, diğer yanda ise düşmesine neden olmaktadır. Bu teorinin ana önermesi, işgücü ma -liyetlerinin, göç hareketleri doğrultusunda zamanla dalgalanacağıdır. Kısaca ifade etmek gerekirse, uluslararası ücret dengesi, çokuluslu ücret dinamikle -ri aracılığıyla korunmaktadır. Göç akımlarının yönü değiştikçe, uluslararası denge de sağlanmaktadır (Robinson, 2005: 4-5).
+
+Göçmen işçi sayısının artması, göç alan toplumlarda düşük seviyeli ka -zançların artmasını sağlamamaktadır. Sosyal ve kurumsal mekanizmalar, arz ve  talepteki  değişimlere  etki  etmeyen  ücret  politikalarını  sürdürmektedir. Göçmen işgücü arzındaki artış, düşük ücretlerin düşmesine yol açabilirken, kurumsal ve sosyal kısıtlamalar, bu ücretlerdeki ek düşüşlerin önüne geçmek için etkili bir müdahale sunmamaktadır. Hükümetler, istihdam ve gelirdeki küçük değişimlere yol açan önlemlerle, uluslararası göçü etkilemeyi zor bul - maktadırlar. Post-endüstriyel ekonomilerde ise, yapısal işgücü ihtiyacı, göç -men sayısını artırmaktadır (Massey vd., 1993: 252-253).
+
+Türkiye, diğer birçok ülke gibi çeşitli yapısal sorunlarla karşı karşıya kal -maktadır. Türkiye'de yabancı işçi sayısındaki artış, büyük şehirlerdeki nüfus artışı, sanayileşme, kırsal alanlarda yaşanan çevresel sorunlar, miras hukuku sebebiyle tarım arazilerinin âtıl kalması ve işgücü açığını kapatmak amacıyla göçmenlerin işgücü piyasalarına ve toplumsal hayata entegrasyonuna yönelik politikaların yaygınlaşması gibi bir dizi faktörün etkisiyle şekillenmektedir.
+
+Göçmenlerin Türkiye'ye geliş şekilleri ve yerleştikleri iller, işgücü piya -sasındaki  katılımları  üzerinde  önemli  bir  etkiye  sahiptir.  Türkiye'ye  farklı kanallardan gelen göçmenler, genellikle ikamet ettikleri illerin dışındaki iş -gücü piyasalarına da katılmaktadırlar. İstanbul, Adana, Mersin, Konya, Kah -ramanmaraş, Bursa ve Ankara gibi iller, göçmen nüfusunun yoğun olduğu bölgeler arasında yer almaktadır. Bu illerdeki göçmenlerin işgücü piyasasına katılımı, özellikle sanayi ve hizmet sektörlerinin bu illerde daha fazla istih -dam yaratma potansiyeline sahip olması nedeniyle dikkat çekmektedir (Ak -deniz, 2014: 67-68).
+
+Göçmenlerin işgücü piyasasına katılımı yalnızca kendi işlerini kurmakla sınırlı değildir. Pek çok göçmen, bağımsız işletmeler açmakta ve sanatçı veya zanaatkâr olarak da faaliyet göstermektedir. Gıda endüstrisi, kahve dükkân -ları, berberler ve kuyumcular, bu tür işlerin yaygın olarak yapıldığı sektörler arasında yer almaktadır. Aynı zamanda, bu işletmelerin vergi ödememek gibi bir durumları söz konusu olmamaktadır.
+
+Orta  ölçekli  sanayi  işletmeleri  ise,  gıda  ve  tekstil  sektörlerinde  hizmet sunmaktadır. Bunun yanı sıra, küçük sanayinin yoğun olduğu il ve ilçelerde de göçmen işçilerin yoğun bir şekilde yer aldığı gözlemlenmektedir. Birçok yardım  grubunun  verilerine  göre,  göçmenlerin  işgücü  piyasası,  düşük  ka -zançlar, ücret eksiklikleri ve vasıfsız işlerle tanımlanmaktadır. Gaziantep'teki Suriyeli göçmenler üzerine yapılan bir anket, düşük ücretin yanı sıra, göç -men nüfusunun önemli bir kısmının vasıfsız işlerde çalıştığını göstermekte -dir (SABR İstatistik Araştırmaları, 2015: 9).
+
+Göçmenlerin sosyal ve ekonomik durumları, yaşadıkları yerle güçlü bir ilişki içindedir. Kamplarda yaşayan göçmenler, genellikle en düşük gelir se -viyesine  sahiptir.  Kampların  dışında  yaşayan  göçmenlerin  yaklaşık  %20'si kamp sakinleridir, diğer geri kalanlar ise kentlerin varoşlarında ya da kırsal bölgelerde yaşamaktadırlar. Kamplara giremeyenler bu ikinci grubu oluştur -maktadır. Bu iki grubun gelir düzeyleri birbirine oldukça yakındır. Orta gelir seviyesindeki göçmenler ise üçüncü kategoriyi oluşturur. Bu gruptaki göç -menler şehirlerde yaşamaktadırlar ve diğer göçmenlerle aynı daireleri pay -laşmaktadırlar. Yüksek gelir düzeyine sahip göçmenler ise, büyük olasılıkla Batı ülkelerine gitmiş ya da gitmeye hazırlanmaktadırlar (Kaya, 2020: 115).
+
+## Türkiye'de Göçmenlerle İlgili Toplumsal Algılar
+
+Türkiye'ye yönelik nüfus göçleri, 1980'lerin sonlarından itibaren önemli bir ar -tış göstermiş ve bu süreçte ülkeye giriş yapan yabancı nüfus, milliyet, etnik kö -ken ve göç motivasyonu bakımından daha çeşitli bir yapı kazanmıştır (İçduy -gu, 2006a: 119; Erder, 2000: 45; 2003: 29). Türkiye, özellikle İran ve Irak gibi komşu ülkelerdeki savaşlar, çatışmalar ve zulüm nedeniyle bu bölgelere yakın coğrafyalardan gelen göçmenler için hem hedef ülke hem de transit ülke ko -numunu üstlenmiştir. Sovyetler Birliği'nin dağılmasının ardından eski Sovyet ülkelerinden Türkiye'ye yönelik göç akışı artmış, bu durum, sığınma başvuru -larındaki önemli bir artışı ve çeşitli göç eğilimlerini beraberinde getirmiştir.
+
+Aynı dönemde, emekliler, üniversite öğrencileri ve yabancı profesyonel -ler gibi yasal statü açısından düzenli kabul edilen, çoğunluğu AB vatandaşı olan gruplar da Türkiye'ye göç etmeye başlamıştır (Kaiser, 2007: 88; Balkır ve Kırkulak, 2007: 41). Türkiye'nin Schengen sınırındaki stratejik konumu ve nispeten yumuşak vize politikaları, onu önemli sayıda transit göçmen ve sı -ğınmacı için bir 'bekleme odası' haline getirmiştir (Erder, 2000: 52).
+
+Günümüz dünyasında, vatandaşlık kavramının temel insan hakları ışığın -da yeniden tanımlanması gerekliliği ve göçmenler ile mülteciler gibi grup -ların da vatandaşlık hakkına sahip olup olamayacağı tartışması, çağdaş top -lumlarda önemli ve güncel bir meseledir (Turner, 2001: 191; Kaya, 2003: 67).
+
+Bireylerin algıları, kişisel deneyimlerine ve birikimlerine dayalı olarak an -lam kazanmaktadır (Uğurlu, 2008: 148). Algılar anlamlandırılmaya çalışılır -ken, bireyin değerleri, inançları, kültürü ve geleneksel yapıları da göz önünde bulundurulur. Bu bağlamda, beklentiler ve talepler, kişinin kimliğinde yer alan ve geçmişte edinilen bilgilere dayalı olarak olayları nasıl algıladığımızı etkiler. Sonuç olarak, algılarımız çoğunlukla görmek istediğimiz şeylere ya da dikkatimizi çeken unsurlara göre şekillenir (Pustu, 2014: 313; Karabulut, 2014: 117-118).
+
+Bireylerin bir durumu nasıl algıladıkları, aynı zamanda o durum hakkında sahip oldukları bilgiye bağlıdır. Bu bilginin doğruluğu, uygunluğu ve deği -şime açıklığı, insanları olayları nasıl algılayacakları konusunda şekillendirir. Gerçekten, insanların inançlarını ve fikirlerini tamamen değiştirmek zor olsa da mevcut koşullara göre görüşlerini yeniden şekillendirmeleri daha kolay hale gelmiştir (Gültekin, 2016: 203). Bununla birlikte, bireysel algı yalnızca kişisel deneyim ve bilişsel süreçlerin ürünü değildir; aynı zamanda bireyin mensubu olduğu sosyal gruplar, kimlikler ve kolektif aidiyet bağlamında da şekillenir.  Bu  noktada,  sahiplik  duygusu  ve  kolektif  psikolojik  sahiplenme kavramları bireylerin hem sosyal çevreleriyle kurdukları ilişkileri hem de ai -diyet düzeylerini anlamak açısından önemli bir zemin sunar. Bu kolektif aidi -yet ve kimlik inşası süreci, yalnızca zihinsel temsillerde değil, aynı zamanda mekânsal ve maddi sahiplik duygusunda da kendini göstermektedir.
+
+Sahiplik,  nesneler  ve  diğer  insanlar  arasındaki  etkileşimlerle  derinden ilişkilidir.  Freidman,  bir  nesneye  veya  mekâna  sahip  olmanın,  sahip  olma -yan kişilerle nasıl etkileşime girileceğini belirlediğini ve mülkiyetin kime ait olduğunun anlaşılmasının sosyal davranışların meşrulaştırılmasında önemli bir rol oynadığını ileri sürmektedir (Freidman, 2008: 290).
+
+Belirli bir sosyal kimlik bağlamında, 'biz' olarak tanımlanan toplulukların 'bizim' olanı sahiplenme ve kolektif duyarlılık gösterme hali, kolektif psiko -lojik sahiplenme olarak adlandırılmaktadır. İnsanlar, farklı unvanlar altında bir grup adına mekânı veya şeyleri kullanma, yönetme ve düzenleme konu -sunda kolektif bir hakka sahip olduklarına inanırlar (Verkuyten &amp; Martinovic, 2017: 644). Brown'a göre, bölgecilik, sahiplik duygusunun bir dışavurumu -dur. Araştırmalarına göre, bir kişinin çalışma alanındaki sahiplik derecesi ile bölgeci faaliyetlerde bulunma eğilimi arasında pozitif bir ilişki bulunmakta -dır (Brown, 2005: 80). Tetlock ise bu olguyu ulus-devletler ve etnik gruplar bağlamında genişleterek, kolektif psikolojik sahiplenmenin, yetişkin bölgeci -liği ve milliyetçi egemenlik argümanlarını doğrulayabileceğini öne sürmüş -tür (Tetlock, 2000: 173). Sosyal psikolojide bu, bireyin psikolojisinin temelini oluşturan bir gruba dahil olma ve ait olma duygusunun belirginleştiği nokta -dır. Öyle ki, inançları nedeniyle toplumdan soyutlanan bireyler, zamanla bu inançlarını sorgulayabilirler. Sonuç olarak, sosyal etkileşim için gerekli olan sosyal kabul ve grup üyeliği duygusu öncelik kazanır (Öksüz, 2013: 14; Fre -edman vd., 1998: 94-114). Ancak, göçmenler ülkelerinden ayrıldıktan sonra çeşitli zorluklar yaşamaktadırlar. Ancak, göçmenler ülkelerinden ayrıldıktan sonra,  ev  sahibi  ülkelerde  çeşitli  zorluklarla  karşılaşmakta  ve  çoğu  zaman olumsuz toplumsal tutumlara maruz kalmaktadırlar. Bu ortamda, göçmen -ler ve yabancı işçiler hakkında olumsuz tutumlar, medya tasvirleri nedeniyle şekillenir, üretilir ve yayılmaktadır. Göçmenlerin medyada nasıl temsillerle gösterildiği, bu olumsuz tutumların genişlemesine neden olmaktadır. Tasvir edilen kimliklere ilişkin önyargılar kısmen bu temsiller aracılığıyla yayıldığı söylenebilir (Efe, 2015: 7).
+
+Yabancı işgücünün ve göçmenlerin Türkiye genelindeki artışı, potansiyel sosyal huzursuzluklara dair endişeleri artırmıştır. Ancak, bazı iller ve bölge -sel yerleşim yerleri bu durumu sorun olarak görmemektedir. Türkiye, Suri -ye'deki çatışmalardan kaçan mülteciler için 'geçici misafirler' veya 'zulüm gören din kardeşleri' terimlerini kullanmaktadır. Toplumda, çoğunluk Suri -ye'deki iç savaşın kısa sürede sonlanacağını ve mültecilerin bir an önce ülke -lerine geri döneceğini düşünmekteydi. Ancak Suriye iç savaşının uzun sür -mesiyle birlikte, daha önce 'gidenler' veya 'misafirler' olarak adlandırılan Suriyeli mülteciler kalıcı hale gelmiş ve bu durum toplumsal huzursuzluk yaratmıştır (Karaca, 2015: 36; Altunkaynak, 2016: 489).
+
+Bazı göçmenlerin Türkiye'deki kalış sürelerinin uzamasıyla birlikte, nü -fuslarının artması ve sağlık alanında ortaya çıkan aksaklıklar gibi sorunların yaşanması, hızla yabancı düşmanlığı gibi algıların güçlenmesine yol açmış -tır (Erdoğan, 2015: 117-118). Göçmenlerin ve yabancı işçilerin yoğun olarak bulundukları şehirlerde, yerli işçilerin işsizlik oranlarının arttığı ve bunun bir  sonucu  olarak  göçmenlerin  yerinden  ettiği  yönünde  bir  algı  toplumda yayılmaktadır (Özpınar, 2016: 4). Bu durum, göçmenlerin ekonomik motivas -yonları, etnik kimlikleri ve kültürel farklılıkları temelinde toplumdan nasıl dışlanabileceklerine dair örnekler sunmaktadır.
+
+Din psikolojisi literatürü, bireylerin inançlarının grup içi aidiyet ve grup dışı güven dinamiklerini şekillendirdiğini vurgulamaktadır (Saroglou, 2012: 33). Bu nedenle dindarlık ile göçmenlere yönelik güven arasında ters yönlü bir ilişki öngörülmektedir. Bununla birlikte, güncel çalışmalar Türkiye'de ve dünyada mülteci karşıtlığının  dindarlık  ile  ters,  milliyetçilik  ile  ise  doğru orantılı seyrettiğini ortaya koymaktadır (Norris &amp; Inglehart, 2011: 212; Yıl -dız, 2021: 58). Dolayısıyla hipotezler, yalnızca inanç boyutuyla değil, milli -yetçilik ve kozmopolitanizm ekseninde de tartışmaya açılmalıdır.
+
+Barem Research ve WIN/Gallup International Association tarafından ger -çekleştirilen Mülteciler Araştırması'na göre (Uslu, 2016: 4), Türkiye dünyada en çok mülteci barındıran ülke olmasına rağmen, gelen göçmenlere yönelik tutumlar karışıktır. Araştırma, Türk vatandaşlarının bazıları göçmenleri kar -deşleri olarak kabul ederken, diğer bir kısmının onları terörist ya da dilenci olarak gördüğünü ortaya koymuştur. Türkiye'de göçmenlere yönelik toplum -sal algılar, bireylerin tarihsel, kültürel ve ekonomik bağlamlarda şekillenen tutumlarını yansıtmaktadır ve bu algılar, komşuluk gibi daha belirgin sos -yal ilişkilerde de önemli bir etkiye sahiptir. Göçmenlerin günlük yaşamın bir parçası haline gelmesi, yerel halkla kurdukları ilişkilerde karşılıklı etkileşim süreçlerini gündeme taşımaktadır. Bu bağlamda, komşuluk kavramının göç - menler ve yerel  halk  açısından  nasıl  şekillendiği  ve  algıların  bu  ilişkilere nasıl yansıdığı, detaylı bir şekilde ele alınması gereken bir konu olarak ön plana çıkmaktadır.
+
+## Komşuluk Kavramı ve Sosyolojik Bağlam
+
+Komşuluk, sadece bir binayı paylaşan kişileri değil, belirli bir coğrafi alanda birbirini ziyaret eden, birbirini ismen veya şahsen tanıyan, birbirine destek olan, ödünç veren ve alan, güçlü sosyal bağlar geliştirmiş, aşırı kalabalık ol -mayan, birbirinin araç ve gereçlerini kullanabilen ailelerden oluşan küçük bir yerel yapıdır. Neredeyse her coğrafi bölgede komşuluk bir sosyalleşme aracı olarak hizmet vermektedir. Minimal yapısı nedeniyle tamamen enformel bir karaktere sahip olan mahalle, temel, hatta basit doğal içeriğin taşıyıcısıdır (Nirun, 1991: 57). Komşuluk ilişkilerinin temeli 'iş birliği' ve 'güven'dir. İn -sanlar bu iki nedenden ötürü komşuluğa her zaman değer vermiş ya da iste -meseler bile buna ihtiyaç duymuşlardır.
+
+Aileden sonra komşuluk, binalarda sosyalleşmenin en önemli ortamı ve sosyal yaşamın önemli bir kurumudur. Eski topluluklarda samimi bağlarla devam eden komşuluk fikri, modern büyük metropollerde hızla yok olmak -tadır.  Özdemir  (1991:  132)  hızlı  kentleşme  ve  sosyal  değişimin  geleneksel komşuluk bağlarını aşındırdığı ve zarar verdiği sonucuna varmaktadır. Ayrı -ca, kent yaşamında örgütlerin, kulüplerin, mahalle kahvelerinin ve koopera -tiflerin  geleneksel  komşuluk etkileşimlerinin yerini aldığı söylenmektedir. Geleneksel mahalle kahvelerinin hızla azalmasının, kentlerde sayıları hızla artan dernekler, kulüpler, mahalle kahveleri ve kooperatiflerden kaynaklan -dığı düşünülmektedir (Doğan, 2004: 89).
+
+## Türkiye'de Komşuluk Algısı ve Önemi
+
+Toplumun tarihsel geçmişi ve günlük yaşamın işleyiş biçimi, komşuların ve komşuluk bağlarının sosyal yaşamın sorunsuz işleyişinde oynadığı önemli rolü açıklamak için kullanılabilir. Komşuluk ilişkileri, boş zamanları değer -lendirme, ticari ilişkiler, hobi toplantıları ve yeni bir çevreye alışma gibi çe -şitli  amaçlara hizmet eder. Özellikle de iş birliği ve güvenin geliştirilmesi açısından önemlidirler. Daha çok kadınlar ve çocuklar için gerekli olan kom -şuluk, zaman zaman yakın aile bireylerinin önüne geçen bir kurum ve olgu haline gelebilmektedir. (Bozkurt,1961: 74). Dünyanın ne kadar hızlı geliştiği göz önüne alındığında, bu önemli toplumsal kurum ve olgunun kendiliğin -den değiştiği ve dönüştüğü bir gerçektir. Öte yandan, bu değişim ve dönüşü -mün niteliği, hızı ve yeni işlevi hakkında çok az şey bilinmektedir. Türk sos - yolojisinde en az tartışılan konulardan biri de komşuluktur. Örneğin, popüler tartışmalara ve eksik çalışmalara bakarak geleneksel mahalle yaşamının ve ilişkilerinin bittiğine inananlar bulunmaktadır.
+
+Günümüz kent yaşamında göçmenler ve yabancı işçilerle kurulan komşu -luk ilişkileri, her ne kadar geleneksel komşuluk tanımının yerini birçok sos -yal bağ türü almış olsa da bu değişimin en dikkat çekici tezahürleri arasında yer  almaktadır.  Bu  ortamda  göçmen  ve  yabancı  işçi  komşuluğu  olgusunu, değişen yerel geleneklere ve toplumsal tutumlara bakarak değerlendirmek büyük önem taşımaktadır.
+
+## Göçmenlerle/Yabancı İşçilerle Komşuluk
+
+Komşuluk, gündelik yaşamda tutarlılık ve yoğunluk gösteren önemli bir iliş -ki biçimidir. Yakın çevrede yaşayan bireylerin gelenekleri, sosyal konumları ve yaşam biçimleri, sosyo-kültürel durumlarının bir yansıması olarak mahal -le yapıları ve mahalle içindeki etkileşimleri şekillendirir. Komşuluk ilişkileri, zaman içinde sosyoekonomik sınıflara göre farklılaşabilir ve çeşitli yorum -lara açık hale gelebilir (Örer, 2002: 59). Sosyal etkileşimlerin gerçekleştiği mekânlar ise diyalektik bir yapıya sahiptir ve statik değildir. Sosyal ve ekono -mik ilişkilerin temelini oluşturan mekânlar, aynı zamanda bireylerin yaşam biçimlerini  etkileyen  dinamik  alanlardır.  Lefebvre'nin  (2016:  56)  görüşüne göre, her kültür kendi mekânını yaratır ve bu mekân toplumsal bir üründür. Bu bağlamda mekân, sadece bir üretim alanı değil, aynı zamanda bir iktidar aracıdır, çünkü hem eylem hem de biliş için önemli bir işlev görür. İnsanlar arasındaki etkileşimler, genellikle mekânın sunduğu olanaklar ve sınırlama -lar tarafından şekillendirilir.
+
+Yer kimliği, bir alanı özelleştirme ve diğerlerinden ayırt etme yeteneği, insanların o mekânla kurdukları etkileşimlerin bir sonucudur. Karşılaştırıla -bilir davranışlar sergileyen bireylerin ortak bir mekânda bir araya gelmesi, mekânsal farklılaşmanın davranışsal farklılaşmadan önce geldiğini gösterir (Harvey, 2002: 147-148). Bu, bireylerin davranışlarını, yaşadıkları çevreye uy -gun şekilde uyarlamaları gerektiğini ortaya koyar.
+
+Türk kültüründe komşuluk, yalnızca fiziksel yakınlıktan çok daha derin bir anlam taşır. Alver (2014: 56), komşuluğun fiziksel yakınlıktan kültürel ve sos -yal yakınlığa doğru bir evrim geçirdiğini vurgular. Komşuluk, ailevi bağların ardından en güçlü sosyal ilişkileri ve çevreyi ifade eder ve bu bağlamda sosyal ve fiziksel yakınlık kavramlarını birlikte barındırır (Koyuncu, 2014: 87). Göç olgusu, mülteciler ve göçmenlerin Türkiye'deki yeni yaşam koşullarına uyum sağlamaya çalışmasıyla birlikte, komşuluk ilişkilerinde de yeni dinamiklerin ortaya çıkmasına neden olmaktadır (Yıldız &amp; Çakır Sümer, 2020: 144).
+
+Hacettepe Üniversitesi Göç ve Siyaset Araştırmaları Merkezi (HUGO) ta -rafından gerçekleştirilen bir araştırma, Avrupa'da toplumunun yabancı kom -şulara  karşı  tutumunu  incelemiştir.  Araştırma  bulgularına  göre,  Avrupa toplumunun yarısı misafirperver bir tutum sergilerken, diğer yarısı misafir -perver olmayı istememektedir (HUGO, 2014: 22). Batı toplumlarındaki ben -zer eğilimler gibi, Türk toplumunda da göçmenler ve yabancı işçilerle aynı mahalleyi paylaşmaya dair ayrımcı ve hassas tutumlar gözlemlenmektedir.
+
+Göçmenlerle ilgili kamuoyundaki olumsuz önyargılar, genellikle göçmen -lerin toplumu tehdit olarak görmeleri ya da toplumsal düzene olumsuz etkiler yapmaları yönünde şekillenmektedir. Avrupa Konseyi'nin 2010 tarihli raporun -da, göçmenlere yönelik önyargıların yaygın olduğu ve göçmenlerin toplumsal sorunlara, özellikle ekonomik ve güvenlik endişelerine yol açtığı belirtilmiş -tir. Bu tür önyargılar, 'paralel toplumlar' oluşturmak, kültürel uyumsuzluklar, suç oranlarının artması ve sağlık sorunları gibi sık karşılaşılan görüşlerle pe -kişmektedir. Türkiye'de de benzer tutumlar gözlemlenmekte olup, yerli halkın göçmenlerle olan etkileşimlerde gösterdiği önyargılar, genel olarak dostane ilişkiler kurmayı engellemektedir (Avrupa Konseyi, 2010: 17).
+
+Kültürler arası etkileşimi teşvik etmek ve bu önyargıları azaltmak amacıyla, komşuluk ilişkileri göçmenlerin yeni yaşam alanlarına uyum sağlama süreç -lerinde önemli bir rol oynamaktadır. Göçmenlerin sosyal kabulünü ve kültürel uyumunu artırma potansiyeline sahip olan bu ilişkiler, zamanla daha kapsayı -cı toplumsal yapılar yaratabilir (Putnam, 2007: 141). Ancak bu tür ilişkilerin olumlu ya da olumsuz olarak şekillenmesinde, yerel halkın göçmenlere bakış açısı, sosyoekonomik durumlar ve kültürel aidiyet gibi faktörler belirleyici ol -maktadır. Örneğin, Allport'un 'İletişim Hipotezi' ne göre, mahallelerdeki sık ve samimi karşılaşmalar, önyargıları azaltmaya yardımcı olurken, az etkileşim ve mekânsal ayrımcılık önyargıları güçlendirebilmektedir (Allport, 1951: 281).
+
+Türkiye'de özellikle Suriyeli mültecilerle ilgili yapılan araştırmalar, kom -şuluk ilişkilerinin sosyal kabul ve kültürel uyum üzerinde pozitif etkiler ya -ratmasına rağmen, ekonomik rekabet ve kültürel temelli endişeler nedeniy -le  bu  ilişkilerin  sınırlı  kaldığını  ortaya  koymuştur (Erdoğan, 2019: 38). Bu bağlamda, göçmenlerle kurulan komşuluk ilişkileri, yalnızca fiziksel mekân paylaşımını değil, aynı zamanda toplumsal, kültürel ve ekonomik etkileşim -leri de içerir. Komşuluk, yerel halk ile göçmenler arasında bir sosyal alışveriş ortamı yaratırken, bu etkileşimlerin dinamikleri, toplumsal yapı ve mevzuat gibi faktörlerden etkilenmektedir. Ancak, göçmenlerin toplumla entegrasyon süreçlerinin etkin bir şekilde değerlendirilmesi için bu alanda daha fazla ni -cel araştırmaya ihtiyaç duyulmaktadır.
+
+## Yöntem: Türkiye'de Göçmenlerle/Yabancı İşçilerle Komşuluk Tutumlarına Yönelik Nicel Bir Analiz
+
+Bu araştırmada, Türkiye'de bireylerin göçmenler ve yabancı işçilerle kom -şuluk yapma eğilimlerini belirleyen faktörler nicel araştırma yaklaşımı çer -çevesinde incelenmiştir. Çalışmada Dünya Değerler Araştırması'nın (World Values Survey - WVS) 7. Dalga Türkiye verileri kullanılmış ve analiz süreci, hipotezlerin  geliştirilmesi,  araştırma  tasarımı,  sonuçların  analizi  ve  tartış -ma bölümleri üzerinden yapılandırılmıştır. Hipotezler, dini değerlerin, güven düzeylerinin, kültürel çeşitliliğe yönelik algıların ve göçmenlerin ekonomik katkılarına  ilişkin  değerlendirmelerin  komşuluk  tutumları  üzerindeki  etki -lerini  test  etmeye yöneliktir. Bu çerçevede araştırma tasarımı, ikili lojistik regresyon modeline dayandırılmış; modelin geçerliliği örneklem büyüklüğü, çoklu bağlantı (multicollinearity) ve uyum testleri ile sınanmıştır. Elde edi -len bulguların analizi, hipotezlerin istatistiksel olarak desteklenme düzeyini ortaya koymuş; tartışma bölümünde ise bu sonuçlar göç sosyolojisi literatürü ile ilişkilendirilerek daha geniş bir teorik bağlama oturtulmuştur.
+
+## Hipotezler
+
+Bu çalışmada teorik çevreden dört hipotez çıkarılmıştır:
+
+H1: Dini değerlerin hayatta önemli olduğunu vurgulayan bireylerin göçmenlere güven düzeyi daha düşüktür.
+
+Din,  toplumsal  sermaye  teorilerinde  bireylerin  grup  içi  dayanışmasını güçlendirirken grup dışına güveni sınırlayan bir unsur olarak ele alınmakta -dır. Putnam (2000: 66-68) dindarlığın cemaat içi bağları kuvvetlendirdiğini, fakat bu bağın grup dışına yönelik güveni zayıflatabileceğini vurgulamak -tadır. Dolayısıyla, dini değerlerin güçlü biçimde vurgulanması göçmenlere yönelik güven düzeyinin azalmasına yol açabilir.
+
+H2: Göçmenlerin ülke kalkınmasına olumlu katkı sağladığını düşünen bireyler göçmenlerle komşuluk yapmaya daha isteklidir.
+
+Göçmenlere yönelik tutumlar çoğu zaman ekonomik fayda-maliyet algı -sına dayandırılmaktadır. Borjas (1999: 170-172), göçmenlerin işgücü piyasa -sına ve ekonomik kalkınmaya olumlu katkı sağladığına inanılan toplumlarda göçmenlere yönelik hoşgörünün daha yüksek olduğunu ortaya koymaktadır.
+
+Bu nedenle ekonomik katkı algısı, göçmenlerle komşuluk yapma isteğini ar -tıran temel bir faktördür.
+
+H3: Kültürel çeşitliliği olumlu değerlendiren bireyler göçmenlerle komşuluk yapmaya daha açıktır.
+
+Çokkültürlülük kuramı, farklı kimliklerin zenginlik olarak görüldüğü top -lumlarda sosyal  uyumun güçlendiğini ileri  sürer.  Kymlicka  (1995:  78-80), kültürel çeşitliliğin demokratik değerlerle bağdaştırılması gerektiğini vurgu -lamaktadır. Ayrıca Allport'un (1954: 262) 'iletişim hipotezi' farklı kültürlerle kurulan olumlu ilişkilerin önyargıları azalttığını göstermektedir. Bu nedenle kültürel  çeşitliliği  olumlu  değerlendiren  bireylerin  göçmenlerle  komşuluk yapmaya daha açık olması beklenmektedir.
+
+H4: Farklı milliyetlerden bireylere güvenen bireylerin göçmenlerle komşuluk yapma olasılığı daha yüksektir.
+
+Toplumsal güven, sosyal sermaye literatüründe toplumsal ilişkilerin sür -dürülebilirliğinin  temel  göstergesi  olarak  kabul  edilmektedir.  Fukuyama (1995: 26-29) güvenin sosyal ve ekonomik etkileşimlerin devamlılığında kri -tik  bir  rol  oynadığını  vurgulamaktadır.  Bu  bağlamda,  farklı  milliyetlerden bireylere güven duyan kişilerin göçmenlerle komşuluk yapma olasılıklarının artması kuramsal olarak beklenen bir sonuçtur.
+
+## Araştırma Tasarımı
+
+Bu araştırmada Dünya Değerler Araştırması (World Values Survey - WVS) 7. Dalga Türkiye verisi (2017-2022) kullanılmıştır. Veri seti, göçmenlere ve yabancı işçilere yönelik tutumların ölçümünde güçlü bir karşılaştırmalı temel sun -maktadır. Bununla birlikte, Türkiye'nin 2011 sonrası Suriye kaynaklı yoğun göç deneyiminin bazı kısa dönemli etkilerini tam yansıtmayabileceği dikkate alınmış ve bu durum bir sınırlılık olarak not edilmiştir. Çalışmanın amacı, bireylerin göçmenlerle/yabancı işçilerle komşu olma isteğini etkileyen faktörleri (dindarlık, ekonomik katkı algısı, kültürel çeşitlilik algısı ve farklı milliyetle -re güven) incelemektir. Analiz, ikili lojistik regresyon ile yürütülmüştür.
+
+Bağıml ı değişken: Komşu olarak isteme (0 = istemiyor, 1 = istiyor). Bağımsız değişkenler:
+
+- Dinin hayatta önemi (ordinal; 1 = çok önemli … 4 = hiç önemli değil) (not: yorum kolaylığı için alternatif raporda ters kodlanmıştır),
+- Göçmenlerin ülke kalkınmasına katkısı (ordinal; 1 = çok kötü … 5 = çok iyi),
+
+- Kültürel çeşitlilik algısı (komşulukta farklı ırkı kabullenme) (binary; 0 = belirtmedi, 1 = belirtti),
+- Farklı milliyetlerden bireylere güven (ordinal; 1 = çok güven … 4 = hiç güven).
+
+Böylece hem kültürel hem ekonomik hem de güven temelli faktörlerin göçmenlerle komşuluk eğilimi üzerindeki etkisi test edilmiştir.
+
+Analiz öncesinde veri seti üzerinde çeşitli geçerlik ve güvenirlik kontrol -leri yapılmıştır. Örneklem büyüklüğü 2500'ün üzerinde olduğundan lojistik regresyon için uygun bir örneklem yapısı mevcuttur. Değişkenler arasındaki çoklu bağlantı (multicollinearity) sorununu test etmek amacıyla VIF değerleri hesaplanmış, tüm değişkenlerde 2.5'in altında değerler elde edilerek model -de  çoklu  bağlantı  bulunmadığı  doğrulanmıştır.  Lojistik  regresyon  analizin -de normallik varsayımı zorunlu olmamakla birlikte, bağımsız değişkenlerin dağılımı incelenmiş ve uç değerlerin modelin güvenirliğini bozmadığı belir -lenmiştir. Modelin genel geçerliliği için Hosmer-Lemeshow uyum testi (χ² = 6.24, p = .39) iyi uyuma işaret etmektedir. Nagelkerke R² değerlerinin ince -lenmesinden de modelin istatistiksel olarak anlamlı olduğunu görülmüştür.
+
+Araştırmada kullanılan lojistik regresyon modeli matematiksel olarak şu şekilde ifade edilmektedir:
+
+<!-- formula-not-decoded -->
+
+Bu formülde P, bireyin göçmenlerle komşuluk yapmayı isteme olasılığını; β katsayıları ise bağımsız değişkenlerin göçmenlerle komşuluk yapma olası -lığı üzerindeki etkilerini temsil etmektedir. Lojistik regresyon modeli uyum ölçütleri ile lojistik regresyon katsayıları ve tanısal istatistikler aşağıda tab -lolar halinde görülmektedir.
+
+Tablo 1. Lojistik Regresyon Modeli Uyum Ölçütleri
+
+| İstatistik              |   Değer |
+|-------------------------|---------|
+| -2 Log likelihood       | 2345.67 |
+| Cox & Snell R²          |   0.152 |
+| Nagelkerke R²           |   0.209 |
+| Hosmer-Lemeshow χ²      |    6.24 |
+| Hosmer-Lemeshow p-value |    0.39 |
+
+Tablo 1'de görüldüğü üzere, -2 Log Likelihood değeri 2345,67 olarak bu -lunmuştur. Nagelkerke R² değeri 0.209 olup, modelin göçmenlerle komşuluk yapma eğilimindeki varyansın yaklaşık %21'ini açıkladığını göstermektedir.
+
+Ayrıca Hosmer-Lemeshow testi sonucunda (χ² = 6.24, p = .39) modelin veriye uygunluğu teyit edilmiştir.
+
+Tablo 2. Lojistik Regresyon Katsayıları ve Tanısal İstatistikler
+
+| Değişken                               |   B (β) |   Std. Error |   Wald | Sig. (p)   |   Exp(B) | VIF   |
+|----------------------------------------|---------|--------------|--------|------------|----------|-------|
+| Sabit                                  |   -0.85 |         0.20 |   18.2 | < .001     |     0.43 | -     |
+| Dinin önemi *                          |   -0.47 |         0.10 |   22.5 | < .001     |     0.62 | 1.85  |
+| Kalkınma katkısı                       |    0.68 |         0.09 |   56.1 | < .001     |     1.97 | 2.12  |
+| Kültürel çeşitlilik (farklı ırk komşu) |    2.14 |         0.25 |   73.3 | < .001     |     8.46 | 1.67  |
+| Farklı milliyetlere güven              |    1.21 |         0.11 |   49.2 | < .001     |     3.36 | 1.42  |
+
+Not. VIF'ler çoklu bağlantı kontrolü için bağımsız değişkenler üzerinde ayrı hesaplanmıştır.
+
+* Dinin önemi 1 = çok önemli … 4 = hiç önemli değil; yorumda kodlama yönü dikkate alınmalıdır.
+
+Tablo 2'de görüldüğü gibi, modelde yer alan tüm bağımsız değişkenler is -tatistiksel olarak anlamlıdır (p &lt; .001). Ayrıca VIF değerlerinin 2.5'in altında kalması, modelde çoklu doğrusal bağlantı sorunu olmadığını göstermektedir.
+
+Dinin  hayatta  önemli  olduğunu  vurgulayan  katılımcıların  göçmenlerle komşuluk yapma olasılıkları daha düşük bulunmuştur (β = -0.47). Göçmen -lerin ülke kalkınmasına katkıda bulunduğuna inanan bireylerin göçmenlerle komşuluk yapma ihtimali anlamlı biçimde artmaktadır (β = 0.68). Kültürel çeşitliliği olumlu değerlendiren katılımcılar için bu olasılık oldukça güçlü -dür (β = 2.14). Ayrıca, farklı milliyetlerden bireylere güven duyanların göç -menlerle komşuluk yapmayı tercih etme olasılıkları da anlamlı biçimde daha yüksektir (β = 1.21). VIF değerlerinin 2.5'in altında kalması, modelde çoklu doğrusal bağlantı sorunu olmadığını göstermektedir.
+
+Lojistik regresyon modeli, göçmenlerle komşuluk yapma eğilimini açıkla -mada istatistiksel olarak anlamlı sonuçlar vermiştir. Modelin uyum ölçütleri incelendiğinde, -2  Log  Likelihood değeri 2345.67 olarak  bulunmuştur. Nagelkerke R² değeri 0.209 olup, bağımlı değişkendeki varyansın yaklaşık %21'inin model tarafından açıklandığı görülmektedir. Bu değer, sosyal bilimlerde orta düzeyde  bir  açıklayıcılık  olarak  değerlendirilebilir.  Ayrıca,  modelin  sınıf -landırma doğruluğu da incelenmiştir. Analiz sonucunda, modelin göçmen -lerle komşuluk yapmayı kabul eden bireyleri %74, kabul etmeyen bireyleri ise %71 oranında doğru sınıflandırdığı belirlenmiştir. Genel doğruluk oranı %72.5 olup, tesadüfi sınıflandırmadan anlamlı ölçüde daha yüksek bir tahmin gücü sağlamaktadır.
+
+## Sonuçların Analizi
+
+Exp(B) değerleri bulguların pratik anlamını ortaya koymaktadır:
+
+- Dinin hayatta önemi: Exp(B) = 0.62. Bu, dini değerleri çok önemli bulan bireylerin göçmenlerle komşuluk yapma olasılıklarının %38 daha dü -şük olduğunu göstermektedir.
+- Göçmenlerin kalkınmaya katkısı: Exp(B) = 1.97. Göçmenlerin ekonomik katkısını olumlu değerlendiren bireylerde, göçmenlerle komşuluk yap -ma olasılığı %97 daha yüksektir.
+- Kültürel çeşitlilik: Exp(B) = 8.46. Kültürel çeşitliliği olumlu görenlerin göçmenlerle komşuluk yapma olasılığı 8 kat artmaktadır. Bu, modelde en güçlü etkiyi gösteren değişkendir.
+- F arklı milliyetlerden bireylere güven: Exp(B) = 3.36. Güven düzeyindeki artış,  göçmenlerle  komşuluk  yapma  olasılığını  %236  oranında  artır -maktadır.
+
+Bu sonuçlar, modelin yalnızca istatistiksel değil, aynı zamanda toplumsal anlamda da güçlü bir açıklama gücüne sahip olduğunu ortaya koymaktadır. Aşağıda yer verilen, araştırma hipotezlerinin test edilmesiyle elde edilen bul -gular, göçmenlerle komşuluk yapma eğilimini şekillendiren sosyo-kültürel ve ekonomik faktörlerin istatistiksel olarak anlamlı etkilerini ortaya koymaktadır.
+
+Hipotez sonuçları aşağıda yer almaktadır.
+
+H1: Dini değerlerin hayatta önemli olduğunu vurgulayan bireylerin göçmenlere güven düzeyi daha düşüktür.
+
+Analiz sonuçları, dini değerleri hayatın merkezinde gören bireylerin göç -menlerle komşuluk yapma olasılığının azaldığını göstermektedir (B = -0.47, S.E. = 0.10, Wald = 22.5, p &lt; .001, Exp(B) = 0.62). Exp(B) değerine göre dini de -ğerlere güçlü vurgu yapan bireylerin göçmenlerle komşuluk yapma olasılığı %38 daha düşüktür. Bu bulgu, dindarlığın grup içi dayanışmayı güçlendirdiği ancak grup dışına güveni sınırlayabileceğini vurgulayan sosyal sermaye li -teratürüyle uyumludur (Putnam, 2000: 66-68). H1 hipotezi desteklenmiştir.
+
+H2: Göçmenlerin ülke kalkınmasına olumlu katkı sağladığını düşünen bireyler göçmenlerle komşuluk yapmaya daha isteklidir.
+
+Ekonomik katkı algısının göçmenlere yönelik toplumsal kabulde belirleyi -ci rol oynadığı görülmektedir. Analiz sonuçlarına göre, göçmenlerin ülke kal -kınmasına olumlu katkı sağladığını düşünen bireylerin göçmenlerle komşuluk yapma olasılığı anlamlı biçimde artmaktadır (B = 0.68, S.E. = 0.09, Wald = 56.1, p &lt; .001, Exp(B) = 1.97). Bu, kalkınmaya katkı algısındaki bir birimlik artışın kom - şuluk isteğini yaklaşık %97 artırdığını göstermektedir. Bulgular, göçmenlerin ekonomik katkılarıyla toplumsal kabulün güçlendiğini savunan Borjas (1999: 170-174) ile paralellik göstermektedir. H2 hipotezi doğrulanmıştır.
+
+H3: Kültürel çeşitliliği olumlu değerlendiren bireyler göçmenlerle komşuluk yapmaya daha açıktır.
+
+Kültürel çeşitliliğe yönelik olumlu tutumların göçmenlerle birlikte yaşa -ma isteği üzerinde en güçlü etkiye sahip olduğu görülmektedir. Analiz so -nuçları,  kültürel  çeşitliliği  olumlu  gören  bireylerin  göçmenlerle komşuluk yapma olasılığının yaklaşık 8 kat arttığını ortaya koymaktadır (B = 2.14, S.E. = 0.25, Wald = 73.3, p &lt; .001, Exp(B) = 8.46). Bu bulgu, Kymlicka'nın (1995: 152-155) çokkültürlülük kuramı ve Allport'un (1954: 281-283) iletişim hipo -teziyle uyumludur. H3 hipotezi güçlü biçimde desteklenmiştir.
+
+H4: Farklı milliyetlerden bireylere güvenen bireylerin göçmenlerle komşuluk yapma olasılığı daha yüksektir.
+
+Toplumsal güvenin göçmenlere yönelik olumlu tutumların belirlenmesin -de kritik bir rol oynadığı görülmektedir. Analiz bulgularına göre, farklı mil -liyetlerden bireylere güven düzeyindeki artış göçmenlerle komşuluk yapma olasılığını 3.36 kat artırmaktadır (B = 1.21, S.E. = 0.11, Wald = 49.2, p &lt; .001, Exp(B) = 3.36). Bu güçlü etki, güvenin toplumsal etkileşim ve birlikte yaşama isteğini artırıcı işlevini vurgulayan Fukuyama'nın (1995: 26-27) yaklaşımıyla örtüşmektedir. H4 hipotezi bu sonuçlarla güçlü biçimde desteklenmiştir.
+
+## Tartışma
+
+Bu çalışmanın bulguları, Türkiye'de göçmenlerle komşuluk yapma eğilimi -ni belirleyen faktörlerin çok boyutlu olduğunu göstermektedir. Lojistik reg -resyon analizi sonucunda elde edilen veriler, bireysel değerlerin (dindarlık), algıların (kalkınma katkısı), kültürel tutumların (çeşitlilik algısı) ve sosyal güvenin (farklı milliyetlere güven) göçmenlere yönelik toplumsal kabulü şe -killendirdiğini ortaya koymuştur. Bu sonuçlar, göç sosyolojisi ve toplumsal uyum literatüründe vurgulanan 'çok faktörlü kabul modelleri'yle doğrudan örtüşmektedir (Castles, de Haas &amp; Miller, 2014: 45-48).
+
+Araştırmada H1 hipotezinin desteklenmesi, dini değerleri hayatın merke -zinde gören bireylerde göçmenlere güven düzeyinin daha düşük olduğunu göstermektedir. Bu bulgu, dini kimliğin 'biz-onlar' ayrımı üzerinden işleyen bir toplumsal sınır çizme mekanizmasına dönüşebileceğini ileri süren lite -ratürle paralellik göstermektedir (Putnam, 2000: 66-68; Norris &amp; Inglehart, 2011: 212-214). Bununla birlikte, bu sonucun dindarlığın doğrudan olumsuz etkisinden çok, dini kimliğin grup aidiyetini güçlendirmesi nedeniyle farklı -lıklara mesafe koyma eğilimiyle ilişkili olduğu da değerlendirilebilir.
+
+H2 hipotezinin doğrulanması, göçmenlerin ekonomik katkılarını olumlu değerlendiren  bireylerde  komşuluk  yapma  olasılığının  artmasıyla  ilgilidir. Bu bulgu, göçmenlerin 'ekonomik fayda' perspektifi üzerinden kabul gördü -ğünü savunan rasyonel tercih yaklaşımlarını desteklemektedir (Borjas, 1999: 170-174). Türkiye bağlamında bu durum, göçmenlerin kayıt dışı işgücünde -ki rolleri veya girişimcilik faaliyetlerinin toplumsal algıyı dönüştürmesiyle açıklanabilir. Dolayısıyla ekonomik katkıların görünür kılınması, göçmenlere yönelik toplumsal desteği artırıcı bir faktör olarak değerlendirilebilir.
+
+H3 hipotezinin güçlü biçimde desteklenmesi, kültürel çeşitliliği olumlu gören bireylerin göçmenlerle komşuluk yapmaya çok daha açık olduklarını göstermektedir. Bu sonuç, Kymlicka'nın (1995: 152-155) çokkültürlülük kura -mıyla ve Allport'un (1954: 281-283) temas hipoteziyle doğrudan uyumludur. Türkiye bağlamında bu durum, özellikle büyükşehirlerde yaşayan ve farklı kültürlerle daha fazla temas kuran bireylerin göçmenlere yönelik daha kap -sayıcı  tutumlar  geliştirmesiyle  açıklanabilir.  Bulgular,  kültürel  çeşitliliğin tehdit değil, zenginlik olarak algılanmasının toplumsal uyum açısından kri -tik öneme sahip olduğunu göstermektedir.
+
+H4  hipotezinin  desteklenmesi,  farklı  milliyetlerden  bireylere  güvenin göçmenlerle komşuluk yapma olasılığını artırdığını  ortaya  koymuştur.  Bu bulgu, güvenin toplumsal uyumda temel bir değişken olduğunu vurgulayan Fukuyama'nın (1995: 26-27) yaklaşımını doğrulamaktadır. Güvenin yüksek olduğu toplumlarda sosyal etkileşim ve birlikte yaşama isteği daha güçlüdür. Türkiye'de farklı gruplar arasında güvenin artırılması, göçmenlerin toplum -sal kabulünü destekleyecek stratejiler açısından kritik görünmektedir.
+
+Araştırma  sonuçları  bir  bütün  olarak  değerlendirildiğinde,  göçmenlere yönelik toplumsal kabulün yalnızca ekonomik ya da yalnızca kültürel faktör -lerle açıklanamayacağı, çok boyutlu bir süreç olduğu ortaya çıkmaktadır. Din -darlık, ekonomik katkı algısı, kültürel çeşitlilik ve güven değişkenleri birlikte ele alındığında, göçmenlere yönelik komşuluk istekliliğinin daha kapsamlı bir şekilde anlaşılabileceği görülmektedir. Bu nedenle entegrasyon politika -larının  yalnızca  yapısal  düzenlemelerle  sınırlı  kalmayıp,  bireysel  değer  ve algıları da dikkate alması gerektiği açıktır.
+
+Öte yandan, sayısal bulgular Türkiye'nin tarihsel göç deneyimleriyle bir -likte düşünüldüğünde daha anlamlı hale gelmektedir. Örneğin, Balkan göç -leri  ve  nüfus  mübadelesi  dönemlerinde  göçmenler toplumsal aidiyetin bir parçası olarak görülürken, Suriyeli göçü farklı sosyo-politik koşullarda yeni gerilim alanları üretmiştir. Bu durum, göçmen karşıtlığının yalnızca ekono -mik ya da güven değişkenleriyle değil, tarihsel hafıza ve sosyolojik bağlamla da yakından ilişkili olduğunu göstermektedir.
+
+## Sonuç
+
+Bu araştırma, Türkiye'de bireylerin göçmenler ve yabancı işçilerle komşu -luk yapma eğilimlerini şekillendiren faktörleri Dünya Değerler Araştırması (WVS) 7. Dalga verileri üzerinden incelemiştir. Bulgular, göçmenlere yönelik toplumsal kabulün çok boyutlu olduğunu ortaya koymaktadır.
+
+Öncelikle, dinin hayatta önemli olduğunu vurgulayan bireylerin göçmen -lerle komşuluk yapma olasılıklarının anlamlı biçimde daha düşük olduğu tes -pit edilmiştir (B = -0.489, p &lt; .001, Exp(B) = 0.61). Bu bulgu, dini değerlerin grup içi dayanışmayı güçlendirdiğini, ancak grup dışına yönelik güveni sınır -layabileceğini ileri süren sosyal sermaye literatürüyle uyumludur (Putnam, 2000). Buna karşılık, 'Tanrı'ya inanma' değişkeni istatistiksel olarak anlamlı bulunmamıştır (p &gt; .05). Bu durum, inanç boyutundaki farklı göstergelerin göçmenlere yönelik tutumlar üzerinde farklı etkilere sahip olabileceğini gös -termektedir.
+
+İkinci olarak, göçmenlerin ülke kalkınmasına olumlu katkı sağladığını dü -şünen bireylerin göçmenlerle komşuluk yapma olasılıklarının belirgin biçim -de arttığı görülmüştür (B = 0.68, p &lt; .001, Exp(B) = 1.97). Bu bulgu, göçmen -lerin ekonomik katkılarının toplumsal kabulü güçlendirdiğini ortaya koyan Borjas (1999) ile uyumludur.
+
+Üçüncü olarak, kültürel çeşitliliği olumlu değerlendiren bireylerin göç -menlerle komşuluk yapma ihtimalleri sekiz kat daha yüksek bulunmuştur (B = 2.14, p &lt; .001, Exp(B) = 8.46). Bu değişken modelin en güçlü belirleyicisi olup, Kymlicka'nın (1995) çokkültürlülük kuramı ve Allport'un (1954) ileti -şim hipoteziyle doğrudan örtüşmektedir.
+
+Son olarak, farklı milliyetlerden bireylere güven düzeyindeki artışın, göç -menlerle komşuluk yapma olasılığını %43 artırdığı saptanmıştır (B = 0.361, p &lt; .001, Exp(B) = 1.43). Bu bulgu, güvenin sosyal ilişkilerde temel bir unsur olduğunu ileri süren Fukuyama'nın (1995) yaklaşımıyla uyumludur.
+
+Elde edilen sonuçlar, göçmenlere yönelik toplumsal kabulün yalnızca eko -nomik ya da kültürel tek boyutla açıklanamayacağını, aksine dini değerler, ekonomik katkı  algısı,  kültürel  çeşitlilik  ve  güven  değişkenlerinin  birlikte dikkate alınması gerektiğini göstermektedir. Bununla birlikte, mevcut model yalnızca belirli değişkenlere odaklanmıştır; din psikolojisi, milliyetçilik, koz -mopolitanizm, yaş, empati ve duygusal sermaye gibi kültürel kodlar modele dâhil edilmemiştir. Bu unsurlar, gelecek araştırmalar için öneri niteliğinde olup göçmen karşıtlığını anlamada daha geniş bir analitik çerçeve sunabilir.
+
+Bu bulgular ışığında, araştırmanın yalnızca akademik katkı sunmakla kal -mayıp aynı zamanda toplumsal uyum ve entegrasyon politikalarına yön ve -rebilecek pratik öneriler geliştirmesi de önem arz etmektedir. Bu araştırma çerçevesinde önerilebilecek politikalar aşağıda başlık olarak yer almaktadır.
+
+- Yerel düzeyde güven inşası: Mahalle ölçeğinde göçmenler ile yerel halk arasında  güven  artırıcı  programlar  (ortak  sosyal  etkinlikler,  diyalog atölyeleri, kültür günleri) düzenlenebilir.
+- Kültürel  etkileşim  faaliyetleri: Belediyeler  ve  sivil  toplum  kuruluşları, göçmenlerin kültürel pratiklerini paylaşabileceği mekânlar oluşturarak karşılıklı öğrenmeyi teşvik edebilir.
+- Ekonomik katkının görünür kılınması: Göçmen girişimciliği, işgücü katkı -sı ve yerel ekonomiye sağladıkları faydalar kamuoyunda şeffaf şekilde vurgulanmalıdır.
+- Eğitim  ve  gençlik  programları: Kültürel  çeşitliliği  değer  olarak  tanıtan müfredatlar ve gençler arasında temas fırsatları, uzun vadeli uyum sü -recini güçlendirebilir.
+
+Sonuç olarak, bu çalışma, Türkiye'de göçmenlerle komşuluk yapma eğilim -lerini  belirleyen  çok  boyutlu  faktörleri  istatistiksel  olarak  doğrulamış;  aynı zamanda entegrasyon politikalarının yalnızca yapısal düzenlemelerle değil, bireysel değer ve algılarla da ilişkilendirilmesi gerektiğini ortaya koymuştur.
+
+## Kaynakça
+
+- Akdeniz,  E.  (2014). Suriye  savaşının  gölgesinde  mülteci  işçiler .  İstanbul:  Evrensel  Yayınları. Akdeniz, E. (2014). Türkiye'de göç ve işgücü piyasası: Suriyeli sığınmacılar örneği . Ankara: Hacettepe Üniversitesi Yayınları.
+- Alexander, J. C. (2006). The civil sphere . Oxford: Oxford University Press.
+- Allport, G. W. (1954). The nature of prejudice . Cambridge, MA: Perseus Books.
+- Altunkaynak. (2016). Intersecting lives in post-migration period: The dynamics of relations between 'host' women from Turkey and 'guest' women from Syria. Alternatif Politika , 8(3).
+- Alver, K. (2014). Komşuluk kültürü. In A. Koyuncu (Ed.), Komşular ve komşuluklar (pp. 49-71). Ankara: Hece Yayınları.
+- Alver, K. (2014). Komşuluk ve mahalle kültürü . Konya: Çizgi Kitabevi.
+- Aslan, M. (2013). Les ouvriers saisonniers kurdes travaillant à la cueillette des noisettes en Turquie. Revue Hommes et Migrations , 1301, 45-61.
+
+- Avrupa Konseyi. (2010). Human rights of migrants in Europe . Strasbourg: Council of Europe Publishing.
+- Avrupa Konseyi. (2010). Migrants and their descendants: Guide to policies for the well-being of all in pluralist societies. Strasbourg: Avrupa Konseyi Yayınları.
+- Balkır, C., &amp; Kırkulak, B. (2007). Türkiye'ye yönelik yeni göç hareketleri. İstanbul: İstanbul Bilgi Üniversitesi Yayınları.
+- Beyazıt, E. (2019). Göçmenlerin kent yaşamına uyum sorunları. İstanbul: İletişim Yayınları.
+- Biner, Ö., &amp; Soykan, C. (2016). Suriyeli mültecilerin perspektifinden Türkiye'de yaşam. Çeşitlilik ve Stratejik Davalama Ağı Projesi. İstanbul: Heinrich Böll Stiftung Derneği.
+- Borjas, G. J. (1999). Heaven's door: Immigration policy and the American economy. Princeton: Princeton University Press.
+- Bozkurt, O. (1961). Komşuluk: İkametgâhın yakın çevresi. İstanbul: İTÜ Yayınları.
+- Bozkurt, V. (1961). Komşuluk ilişkilerinin sosyolojik temelleri. Ankara: Ankara Üniversitesi Yayınları.
+- Brown, G., Lawrence, T., &amp; Robinson, L. (2005). Territoriality in organizations. Academy of Management Review , 30(3), 577-595.
+- Burgess, E. W. (2015). The growth of the city: An introduction to a research project. In R. Park &amp; E.
+- Burgess (Eds.), The city (pp. 47-62). Chicago: University of Chicago Press.
+- Castles, S., de Haas, H., &amp; Miller, M. J. (2014). The age of migration: International population movements in the modern world (5th ed.). New York: Guilford Press.
+- Deniz, T. (2014). Uluslararası göç sorunu perspektifinde Türkiye. TSA , 18(1), 175-204.
+- Doğan, İ. (2004). Sosyoloji: Kavramlar ve sorunlar . Ankara: Pegem A Yayıncılık.
+- Doğan, İ. (2004). Toplum ve eğitim sorunları üzerine felsefî ve sosyolojik tahliller. Ankara: Pegem A Yayınları.
+- Efe, İ. (2015). Türk basınında Suriyeli sığınmacılar . İstanbul: SETA.
+- Erder. (2000). Uluslararası göçte yeni eğilimler: Türkiye 'göç alan ülke mi?'. In F. Atacan (Ed.), Mübeccel Kıray için yazılar . İstanbul: Bağlam.
+- Erder. (2000). Kentsel gerilim: Türkiye'de göç, kentleşme ve göçmenler . İstanbul: Metis Yayınları.
+- Erder. (2003). Türkiye'de göç ve entegrasyon politikaları. Ankara: Hacettepe Üniversitesi Yayınları.
+- Erdoğan, M. M. (2015). Türkiye'deki Suriyeliler: Toplumsal kabul ve uyum .  İstanbul:  İstanbul Bilgi Üniversitesi Yayınları.
+- Erdoğan, M. M. (2019). Suriyeliler barometresi 2019: Suriyelilerle uyum içinde yaşamın çerçevesi. Ankara: Orion Kitabevi.
+- Erdoğan, M. M. (2019). Türkiye'deki  Suriyeli  mülteciler. Ankara:  Konrad  Adenauer  Stiftung Derneği.
+- Erten, H., Keser, A., &amp; Kalaycıoğlu. (2018). Göçmenlerin toplumsal uyumu üzerine sosyolojik araştırmalar . Bursa: Dora Yayıncılık.
+- Forrest, R., &amp; Kearns, A. (2001). Social cohesion, social capital and the neighbourhood. Urban Studies, 38(12), 2125-2143.
+
+- Freedman, J. L., Sears, D. O., &amp; Carlsmith, J. M. (1998). Sosyal psikoloji (A. Dönmez, Çev.). Ankara: İmge Kitabevi.
+- Friedman, O. (2008). First possession: An assumption guiding inferences about who owns what. Psychonomic Bulletin &amp; Review , 15(2), 290-295.
+- Fukuyama, F. (1995). Trust: The social virtues and the creation of prosperity. New York: Free Press.
+- Gültekin, M. (2016). Algı yönetimi ve toplumsal etkileri. Ankara: Nobel Yayınları.
+- Hacettepe Üniversitesi Göç ve Siyaset Araştırmaları Merkezi (HUGO). (2014). Türkiye'de ve Avrupa'da göçmenlere bakış araştırması . Ankara: HUGO.
+- Hammar, T., Brochmann, G., Tamas, K., &amp; Faist, T. (1997). International migration, immobility and development: Multidisciplinary perspectives. Oxford: Berg Publishers.
+- Harvey, D. (2002). Sınıfsal yapı ve mekânsal farklılaşma kuramı. In B. Duru &amp; A. Alkan (Eds.), 20. yüzyıl kenti (pp. 147-172). Ankara: İmge Kitabevi.
+- İçduygu, A. (2004). Türkiye'de kaçak göç . İstanbul: İTO.
+- İçduygu, A. (2004). Turkey and international migration, 2000-2003: Migration types, numbers, and policies. Mediterranean Migration Observatory, 9, 75-92.
+- İçduygu, A. (2006). The labour dimensions of irregular migration in Turkey. CARIM Research Reports , 5, 110-125.
+- İçduygu, A. (2006a). Uluslararası göç ve Türkiye . İstanbul: İstanbul Bilgi Üniversitesi Yayınları.
+- İçduygu, A., &amp; Aksel, D. B. (2013). Turkish migration policies: A critical historical retrospective. Florence: EUI Migration Policy Centre.
+- İçduygu, A., Erder, L., &amp; Gençkaya, Ö. F. (2014). Türkiye'nin uluslararası göç politikaları, 19232023: Ulus-devlet oluşumundan ulus-ötesi dönüşümlere . İstanbul: Mirekoc.
+- Kaiser, B. (2007). Avrupa Birliği ve göç: Türkiye'nin konumu. Ankara: Phoenix.
+- Karaca. (2015). Misafirlikten entegrasyona Suriyeli mülteci akını ve Türkiye. Ekonomik, Sosyal ve Kültürel Boyutlarıyla Suriyeli Mülteciler Paneli. İstanbul: İstanbul Ticaret Üniversitesi.
+- Karabulut, A. (2014). Toplumsal algı ve kültürel bağlam . İstanbul: Beta Yayınları.
+- Karasu, M. A. (2018). Türkiye'deki Suriyeli sığınmacıların kentlerde neden oldukları güvenlik riskleri. Hacettepe Üniversitesi İİBF Dergisi, 36(2), 51-73.
+- Kaya, A. (2003). Ulusal yurttaşlıktan çoğul yurttaşlığa: Yurttaşlık kuramlarına eleştirel bir yaklaşım.  In  A.  Kaya  &amp;  G.  G.  Özdoğan  (Eds.), Uluslararası  ilişkilerde  sınır  tanımayan sorunlar. İstanbul: Bağlam.
+- Kaya, A. (2003). Vatandaşlık ve göç. İstanbul: İstanbul Bilgi Üniversitesi Yayınları.
+- Kaya,  A.  (2020). Göç sosyolojisi:  Kavramlar,  kuramlar,  araştırmalar. İstanbul:  İstanbul  Bilgi Üniversitesi Yayınları.
+- Kaya, M. (2020). Kent ve göçmen ekolojisi. In Ö. Sezer &amp; A. Kayan (Eds.), Kent tartışmaları ve yeni yaklaşımlar (pp. 67-87). Ankara: Orion Yayınları.
+- Keleş, R. (2012). Kentleşme politikası (10. baskı). Ankara: İmge Kitabevi.
+- Koçak, Y., &amp; Terzi, E. (2012). Türkiye'de göç olgusu, göç edenlerin kentlere etkileri ve çözüm önerileri. KAÜ-İİBF Dergisi , 3(3), 163-184.
+- Koyuncu, A. (2014). Komşuluk kültürü. In K. Ahmet (Ed.), Gündelik hayatta komşuluk (pp. 1126). İstanbul: Hece Yayınları.
+
+- Koyuncu, A. (2014). Kent sosyolojisinde mahalle ve komşuluk ilişkileri. İstanbul: Beta Yayınları.
+- Kymlicka, W. (1995). Multicultural citizenship: A liberal theory of minority rights. Oxford: Oxford University Press.
+- Lee, E. S. (1966). A theory of migration. Demography, 3(1), 47-57.
+- Lefebvre, H. (2016). Mekânın üretimi (İ. Ergüden, Çev.). İstanbul: Sel Yayınları.
+- Lewis, A. W. (1966). Sınırsız emek arzı ile iktisadi kalkınma (M. Berk, Çev.). In İktisadi kalkınma seçme yazılar (pp. 89-131). Ankara: ODTÜ.
+- Lewis, W. A. (1996). Development and migration. In J. F. Hollifield &amp; J. P. F. Zimmermann (Eds.), Migration theory: Talking across disciplines (pp. 25-48). Cheltenham: Edward Elgar.
+- Massey, D. S., Arango, J., Hugo, G., Kouaouci, A., Pellegrino, A., &amp; Taylor, J. E. (1993). Theories of international migration: A review and appraisal. Population and Development Review , 19(3), 431-466.
+- Nirun, N. (1991). Sistematik sosyoloji yönünden sosyal dinamik bünye analizi. Ankara: Atatürk Kültür Merkezi Yayınları.
+- Nirun, N. (1991). Toplumbilim . Ankara: Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Yayınları.
+- Norris, P., &amp; Inglehart, R. (2011). Sacred and secular: Religion and politics worldwide (2nd ed.). Cambridge: Cambridge University Press.
+- Öksüz, H. (2013). Sosyal psikolojide aidiyet duygusu ve toplumsal yansımaları . İstanbul: Beta Yayınları.
+- Öksüz, H. (2013). Algı yönetimi ve sosyal medya. İdarecinin Sesi.
+- Örer, G. (2002). Konut-kimlik-ev modeli ve İstanbul'da uygulanması (Yayınlanmamış doktora tezi). İTÜ, FBE.
+- Özçürümez, Ş., &amp; Şenses, N. (2011). Europeanization and Turkey: Studying irregular migration policy. Journal of Balkan and Near Eastern Studies , 13(2), 233-248.
+- Özdemir, H. (1991). Türkiye'de komşuluk ve komşuluk ilişkileri. Türk Aile Ansiklopedisi , 2. Ankara: Başbakanlık Aile Araştırma Kurumu Yayınları.
+- Özdemir, S. (1991). Kentleşme ve toplumsal değişme. İstanbul: Beta Yayınları.
+- Özdemir, H. (2012). Türkiye'de iç göçler üzerine genel bir değerlendirme. Akademik Bakış Dergisi , 30, 1-18.
+- Özpınar, E. (2016). Türkiye'deki Suriyeliler: İşsizlik ve sosyal uyum. Ankara: TEPAV.
+- Öztürk, C. (2016). Vali ve büyükşehir belediye başkanının ulus ötesicilik kavramı çerçevesinde yeni rolleri. Turkish Migration Conference 2016 , Viyana, 203-214.
+- Petersen, W. (1958). A general typology of migration. A merican Sociological Review, 23(3), 256-266.
+- Portes, A., &amp; Rumbaut, R. G. (2014). Immigrant America: A portrait (4th ed.). Berkeley: University of California Press.
+- Pustu, Y. (2014). Algı yönetimi: Sosyal bilimlerde kavramsal ve kuramsal tartışmalar. Bursa: Dora Yayıncılık.
+- Putnam, R. D. (2000). Bowling alone: The collapse and revival of American community. New York: Simon &amp; Schuster.
+- Putnam, R. D. (2007). E pluribus unum: Diversity and community in the twenty-first century. Scandinavian Political Studies , 30(2), 137-174.
+
+- Robinson, R. (2005). Beyond the state-bounded immigrant incorporation regime: Transnational migrant communities. Ottawa: North-South Institute.
+- SABR İstatistik Araştırmaları ve Kamu Politikaları Merkezi. (2015). Suriyeli Türk uyumu. İstanbul: SABR İstatistik Araştırmaları ve Kamu Politikaları Merkezi.
+- Saroglou, V. (2012). Religion, personality, and social behavior . New York: Psychology Press.
+- Scheel, S., &amp; Ratfisch, P. (2014). Refugee protection meets migration management: UNHCR as a global police of populations. Journal of Ethnic and Migration Studies, 40(6), 924-941.
+- Tekeli, İ., &amp; Erder, L. (1978). İç göçler. Ankara: Hacettepe Üniversitesi Yayınları.
+- Tetlock, P. E. (2000). Cognitive biases and collective ownership. In D. M. Messick &amp; A. E. Tenbrunsel (Eds.), Codes of conduct: Behavioral research into business ethics (pp. 171190). New York: Russell Sage Foundation.
+- Tetlock,  P .  E.,  Kristel,  O.,  Elson,  B.,  Green,  M.,  &amp;  Lerner,  J.  S.  (2000).  The  psychology  of the unthinkable: Taboo tradeoffs, forbidden base rates, and heretical counterfactuals. Journal of Personality and Social Psychology, 78, 853-870.
+- Turner, B. S. (2001). The erosion of citizenship. British Journal of Sociology, 52(2), 189-209.
+- Turner, B. S. (2001). Outline of a theory of citizenship. In B. S. Turner (Ed.), Citizenship and social theory (pp. 189-206). London: Sage.
+- Uğurlu, C. (2008). Kurumsal açıdan algı ve algı yönetimi. Sayıştay Dergisi , 68, 131-148.
+- Uğurlu, N. (2008). Toplumsal algı ve kültürel dinamikler. İstanbul: Alfa Yayınları.
+- UNHCR.  (2020). Türkiye'deki  mülteci  ve  sığınmacılar .  https://www.unhcr.org/tr/turkiyedeki-multeciler-ve-siginmacilar
+- Uslu,  N.  (2016).  Mülteciler  sorunu  dünyayı  böldü.  İstanbul:  Barem  Research.  http://www. barem.com.tr/multeciler-sorunu-dunyayi-boldu
+- Uslu, N. (2016). Mülteciler araştırması: WIN/Gallup International Association raporu. İstanbul: Barem Research.
+- Verkuyten, M., &amp; Martinovic, B. (2017). Collective psychological ownership and intergroup relations. Perspectives on Psychological Science , 12(6), 1021-1039.
+- Vertovec, S. (2007). Super-diversity and its implications. Ethnic and Racial Studies , 30(6),
