@@ -1,0 +1,2702 @@
+﻿[
+  {
+    "question": "Psikolojik iyi oluÅŸ nedir ve Ryff'e gÃ¶re nasÄ±l tanÄ±mlanmÄ±ÅŸtÄ±r?",
+    "ground_truth": "Psikolojik iyi oluÅŸ, iÃ§inde doyumlu bir yaÅŸam ve Ã¶z deÄŸeri barÄ±ndÄ±ran duygu ve dÃ¼ÅŸÃ¼ncelerle iliÅŸkilendirilmiÅŸ bir kavramdÄ±r. Ryff'e gÃ¶re psikolojik iyi oluÅŸ, yaÅŸam boyu karÅŸÄ±laÅŸÄ±labilecek zorluklarÄ±n idare edilebilmesi ve yÃ¶netilebilmesidir.",
+    "source_file": "SOS01.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "SaÄŸlÄ±k kaygÄ±sÄ±nÄ±n biliÅŸsel boyutunda gÃ¶rÃ¼len en temel iÅŸlevsel olmayan inanÃ§ nedir?",
+    "ground_truth": "Otonom sinir sisteminin uyarÄ±lmasÄ±yla ortaya Ã§Ä±kan bedensel belirtilerin veya bedendeki hafif rahatsÄ±zlÄ±klarÄ±n daha ciddi bir hastalÄ±k belirtisi ÅŸeklinde yorumlanmasÄ±dÄ±r.",
+    "source_file": "SOS01.md",
+    "source_section": "## SaÄŸlÄ±k KaygÄ±sÄ±"
+  },
+  {
+    "question": "Uyumlu ve uyumsuz duygu dÃ¼zenleme stratejileri nelerdir?",
+    "ground_truth": "Yeniden deÄŸerlendirme, kabullenme, problem Ã§Ã¶zme gibi stratejiler uyumlu; kaÃ§Ä±nma, ruminasyon, bastÄ±rma gibi stratejiler ise uyumsuz duygu dÃ¼zenleme stratejileridir.",
+    "source_file": "SOS01.md",
+    "source_section": "## Duygu DÃ¼zenleme"
+  },
+  {
+    "question": "Foa ve Kozak'a gÃ¶re uyumsuz duygu dÃ¼zenleme stratejileri nasÄ±l bir etki yaratÄ±r?",
+    "ground_truth": "Foa ve Kozak'a gÃ¶re uyumsuz duygu dÃ¼zenleme stratejileri, Ã¶zellikle biliÅŸsel kaÃ§Ä±nma, duygusal iÅŸlemeyi engellemektedir.",
+    "source_file": "SOS01.md",
+    "source_section": "## Duygu DÃ¼zenleme"
+  },
+  {
+    "question": "SaÄŸlÄ±k kontrol odaÄŸÄ± (SKO) kavramÄ± hangi Ã¼Ã§ boyuttan oluÅŸur?",
+    "ground_truth": "Ä°Ã§sel SKO, ÅŸansa baÄŸlÄ± SKO ve gÃ¼Ã§lÃ¼ diÄŸerleri SKO olmak Ã¼zere Ã¼Ã§ boyuttan oluÅŸur.",
+    "source_file": "SOS01.md",
+    "source_section": "## SaÄŸlÄ±k Kontrol OdaÄŸÄ±"
+  },
+  {
+    "question": "Ä°Ã§ kontrol odaÄŸÄ± hangi faktÃ¶rlerle iliÅŸkilendirilmiÅŸtir?",
+    "ground_truth": "Ä°Ã§ kontrol odaÄŸÄ± daha Ã§ok psikolojik iyi oluÅŸ, uyumlu duygu dÃ¼zenleme stratejileri, baÅŸ etme becerileri, stres toleransÄ± ile iliÅŸkilendirilmiÅŸ ve Ã¶zellikle depresyon iÃ§in koruyucu bir faktÃ¶r olduÄŸu saptanmÄ±ÅŸtÄ±r.",
+    "source_file": "SOS01.md",
+    "source_section": "## SaÄŸlÄ±k Kontrol OdaÄŸÄ±"
+  },
+  {
+    "question": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklemine dahil edilen katÄ±lÄ±mcÄ±larÄ±n Ã¶zellikleri nelerdir?",
+    "ground_truth": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklemini 18-53 yaÅŸ aralÄ±ÄŸÄ±nda, Ã§evrimiÃ§i Ã§alÄ±ÅŸmaya gÃ¶nÃ¼llÃ¼ katÄ±lmayÄ± kabul eden ve psikiyatrik bir tanÄ± almamÄ±ÅŸ, tedavi gÃ¶rmeyen 475'i kadÄ±n, 35'i erkek toplam 510 yetiÅŸkin oluÅŸturmuÅŸtur.",
+    "source_file": "SOS01.md",
+    "source_section": "## Ã–rneklem"
+  },
+  {
+    "question": "SaÄŸlÄ±k Anksiyetesi Ã–lÃ§eÄŸi (SAÃ–) kaÃ§ maddeden oluÅŸur ve alt boyutlarÄ± nelerdir?",
+    "ground_truth": "DÃ¶rtlÃ¼ Likert tipindeki 18 maddeden oluÅŸur. Ä°lk 14 madde bedensel belirtilere aÅŸÄ±rÄ± duyarlÄ±lÄ±k ve kaygÄ± dÃ¼zeyini, diÄŸer 4 madde ise hastalÄ±ÄŸÄ±n sonuÃ§larÄ±na dair olumsuz algÄ±yÄ± deÄŸerlendirmektedir.",
+    "source_file": "SOS01.md",
+    "source_section": "## Veri toplama araÃ§larÄ±"
+  },
+  {
+    "question": "Duygu DÃ¼zenleme GÃ¼Ã§lÃ¼ÄŸÃ¼ Ã–lÃ§eÄŸi'nin (DDGÃ–) alt boyutlarÄ± nelerdir?",
+    "ground_truth": "FarkÄ±ndalÄ±k, aÃ§Ä±klÄ±k, kabul etmeme, stratejiler, dÃ¼rtÃ¼ ve amaÃ§lar olmak Ã¼zere 6 alt boyutu vardÄ±r.",
+    "source_file": "SOS01.md",
+    "source_section": "## Veri toplama araÃ§larÄ±"
+  },
+  {
+    "question": "Regresyon analizi bulgularÄ±na gÃ¶re saÄŸlÄ±k kaygÄ±sÄ± ve duygu dÃ¼zenleme gÃ¼Ã§lÃ¼ÄŸÃ¼ iyi oluÅŸu nasÄ±l yordamaktadÄ±r?",
+    "ground_truth": "SaÄŸlÄ±k kaygÄ±sÄ± ve duygu dÃ¼zenleme gÃ¼Ã§lÃ¼ÄŸÃ¼ psikolojik iyi oluÅŸu olumsuz yÃ¶nde ve anlamlÄ± olarak yordamaktadÄ±r.",
+    "source_file": "SOS01.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Depresyon nedir ve diÄŸer bozukluklardan ayÄ±ran en Ã¶nemli fark nedir?",
+    "ground_truth": "Depresyon, bireylerin duygudurumlarÄ±nda deÄŸiÅŸimlere neden olan, Ã¶z eleÅŸtiri yaptÄ±ÄŸÄ±, kendini suÃ§ladÄ±ÄŸÄ±, uyku ve iÅŸtah deÄŸiÅŸimlerinin yaÅŸandÄ±ÄŸÄ± ruhsal bir bozukluktur. Normal Ã¼zÃ¼ntÃ¼den en Ã¶nemli farkÄ±, depresyonda rastlanan karamsarlÄ±k duygusudur.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "DÃ¼nya SaÄŸlÄ±k Ã–rgÃ¼tÃ¼'nÃ¼n 2017 raporuna gÃ¶re dÃ¼nyada kaÃ§ kiÅŸi depresif bozukluk yaÅŸamaktadÄ±r?",
+    "ground_truth": "DÃ¼nyada 322 milyon kiÅŸinin depresif bozukluk yaÅŸadÄ±ÄŸÄ± belirtilmiÅŸtir.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "AlgÄ±lanan sosyal destek kavramÄ± nasÄ±l tanÄ±mlanmaktadÄ±r?",
+    "ground_truth": "Bireyin kendisi ve Ã§evresindeki kiÅŸilerle oluÅŸturulan sosyal aÄŸÄ±n yeterli bir biÃ§imde destekleyici olduÄŸuna dair algÄ±sÄ± ve ihtiyaÃ§ hissettiÄŸinde diÄŸerlerinden yardÄ±m alabileceÄŸine iliÅŸkin inancÄ±dÄ±r.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "MinnettarlÄ±k ve depresyon arasÄ±nda nasÄ±l bir iliÅŸki bulunmuÅŸtur?",
+    "ground_truth": "YapÄ±lan Ã§alÄ±ÅŸmalarda, minnettarlÄ±ÄŸÄ±n depresyonla negatif yÃ¶nde iliÅŸkili olduÄŸu tespit edilmiÅŸtir.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "Ã–znel iyi oluÅŸ hangi bileÅŸenlerden oluÅŸur ve nasÄ±l tanÄ±mlanÄ±r?",
+    "ground_truth": "YaÅŸam doyumu, olumlu ve olumsuz duygu bileÅŸenlerinden oluÅŸur. Bireyin hayatÄ±yla ilgili duygusal ve biliÅŸsel deÄŸerlendirmesidir.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "Ontolojik iyi oluÅŸ neyi ifade eder?",
+    "ground_truth": "Bireyin geÃ§miÅŸi, ÅŸimdiyi ve geleceÄŸini dÃ¼ÅŸÃ¼nerek kendi yaÅŸam projesini deÄŸerlendirmesidir.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "AraÅŸtÄ±rmanÄ±n temel hipotezleri nelerdir?",
+    "ground_truth": "1) AlgÄ±lanan sosyal destek, minnettarlÄ±k dÄ±ÅŸavurumu, ontolojik iyi oluÅŸ ve depresyonun birbirleriyle anlamlÄ± iliÅŸkilere sahip olacaÄŸÄ±, 2) AlgÄ±lanan sosyal destek ve depresyon arasÄ±ndaki iliÅŸkide minnettarlÄ±k dÄ±ÅŸavurumu ve ontolojik iyi oluÅŸun seri aracÄ±lÄ±k rollerine sahip olacaÄŸÄ±.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–z / GiriÅŸ"
+  },
+  {
+    "question": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklemi kaÃ§ kiÅŸiden oluÅŸmaktadÄ±r ve yaÅŸ aralÄ±ÄŸÄ± nedir?",
+    "ground_truth": "Ã‡alÄ±ÅŸmaya 18 ile 64 yaÅŸ arasÄ±nda deÄŸiÅŸen 177 kadÄ±n ve 93 erkek olmak Ã¼zere toplam 270 kiÅŸi dahil edilmiÅŸtir.",
+    "source_file": "SOS02.md",
+    "source_section": "## Ã–rneklem"
+  },
+  {
+    "question": "Beck Depresyon Ã–lÃ§eÄŸi'nin (BDÃ–) amacÄ± nedir ve kesme puanÄ± kaÃ§tÄ±r?",
+    "ground_truth": "KiÅŸilerin depresyon risklerini belirlemek ve depresyonun derecesini objektif bir ÅŸekilde sayÄ±lara dÃ¶kmek iÃ§in geliÅŸtirilmiÅŸtir. Kesme puanÄ± 17 olarak belirlenmiÅŸtir.",
+    "source_file": "SOS02.md",
+    "source_section": "## Veri Toplama AraÃ§larÄ±"
+  },
+  {
+    "question": "Seri aracÄ±lÄ±k analizi sonuÃ§larÄ±na gÃ¶re algÄ±lanan sosyal desteÄŸin depresyon Ã¼zerindeki etkisi hangi deÄŸiÅŸkenler Ã¼zerinden gerÃ§ekleÅŸir?",
+    "ground_truth": "AlgÄ±lanan sosyal desteÄŸin depresyon Ã¼zerindeki etkisi, hem minnettarlÄ±k dÄ±ÅŸavurumu hem de ontolojik iyi oluÅŸ aracÄ±lÄ±ÄŸÄ±yla gerÃ§ekleÅŸmektedir.",
+    "source_file": "SOS02.md",
+    "source_section": "## TartÄ±ÅŸma"
+  },
+  {
+    "question": "YalnÄ±zlÄ±k kavramÄ± nasÄ±l tanÄ±mlanmaktadÄ±r?",
+    "ground_truth": "Bireyin, sahip olduÄŸu sosyal Ã§evrenin geniÅŸliÄŸi ve kalitesine iliÅŸkin Ã¶znel algÄ±sÄ± ile sahip olmayÄ± arzu ettiÄŸi sosyal Ã§evrenin nitelik ve nicelik aÃ§Ä±sÄ±ndan Ã¶rtÃ¼ÅŸmemesi durumunda yaÅŸadÄ±ÄŸÄ± olumsuz deneyimlerdir.",
+    "source_file": "SOS03.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "YalnÄ±zlÄ±ÄŸÄ±n kavramsallaÅŸtÄ±rÄ±lmasÄ±nda hangi Ã¼Ã§ temel bileÅŸen Ã¼zerinde durulmaktadÄ±r?",
+    "ground_truth": "1) YakÄ±n baÄŸlanmanÄ±n bulunmamasÄ±ndan kaynaklanan yoksunluk durumu, 2) GeleceÄŸe yÃ¶nelik iyimser/kÃ¶tÃ¼mser yorumlar iÃ§eren zaman perspektifi, 3) ÃœzÃ¼ntÃ¼, keder, umutsuzluk gibi duygusal deneyimler.",
+    "source_file": "SOS03.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "Ä°Ã§sel, geliÅŸimsel ve durumsal yalnÄ±zlÄ±k arasÄ±ndaki farklar nelerdir?",
+    "ground_truth": "Ä°Ã§sel yalnÄ±zlÄ±k kiÅŸilik Ã¶zellikleri ve kontrol odaÄŸÄ± ile; geliÅŸimsel yalnÄ±zlÄ±k kiÅŸisel yetersizlikler, geliÅŸimsel bozukluklar ve yoksulluk ile; durumsal yalnÄ±zlÄ±k ise Ã§atÄ±ÅŸmalar, gÃ¶Ã§ler, kazalar ve felaketlerle iliÅŸkilidir.",
+    "source_file": "SOS03.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "Sosyal yalnÄ±zlÄ±k ve duygusal yalnÄ±zlÄ±k nasÄ±l ayrÄ±lÄ±r?",
+    "ground_truth": "Sosyal yalnÄ±zlÄ±k sosyal iletiÅŸim aÄŸÄ±nÄ±n yetersizliÄŸinden kaynaklanan izolasyonu ifade ederken, duygusal yalnÄ±zlÄ±k baÄŸlanma nesnesinin yokluÄŸundan kaynaklanan hoÅŸnutsuzluk duygusunu ifade eder.",
+    "source_file": "SOS03.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "YalnÄ±zlÄ±ÄŸÄ±n duygusal zeka ile iliÅŸkisi nasÄ±ldÄ±r?",
+    "ground_truth": "YalnÄ±zlÄ±ÄŸÄ±n, duygusal zeka ve pozitif duygulanÄ±m ile ters, aleksitimi ile pozitif yÃ¶nde iliÅŸki gÃ¶sterdiÄŸi bildirilmektedir.",
+    "source_file": "SOS03.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklem grubu kimlerden oluÅŸmaktadÄ±r?",
+    "ground_truth": "18-25 yaÅŸlarÄ± arasÄ±nda, 213'Ã¼ kadÄ±n ve 226'sÄ± erkek olmak Ã¼zere toplam 439 genÃ§ yetiÅŸkinden oluÅŸmaktadÄ±r.",
+    "source_file": "SOS03.md",
+    "source_section": "## KatÄ±lÄ±mcÄ±lar"
+  },
+  {
+    "question": "AraÅŸtÄ±rmada kullanÄ±lan UCLA YalnÄ±zlÄ±k Ã–lÃ§eÄŸi nasÄ±l puanlanÄ±r?",
+    "ground_truth": "4'lÃ¼ Likert tipi (1 = Ben Bu Durumu HiÃ§ YaÅŸamadÄ±m, 4 = Ben Bu Durumu SÄ±k SÄ±k YaÅŸarÄ±m) cevaplama seÃ§eneÄŸi iÃ§eren 20 maddeden oluÅŸur, yÃ¼ksek puan yalnÄ±zlÄ±k duygusunun yoÄŸunluÄŸunu gÃ¶sterir.",
+    "source_file": "SOS03.md",
+    "source_section": "## GereÃ§ler"
+  },
+  {
+    "question": "Ã‡ok Boyutlu AlgÄ±lanan Sosyal Destek Ã–lÃ§eÄŸi'nde hangi alt boyutlar yer alÄ±r?",
+    "ground_truth": "Ã–lÃ§ekte sosyal desteÄŸin kaynaÄŸÄ±nÄ± belirten 'Aile', 'ArkadaÅŸ' ve 'Ã–zel Bir Ä°nsan' alt boyutlarÄ± yer alÄ±r.",
+    "source_file": "SOS03.md",
+    "source_section": "## GereÃ§ler"
+  },
+  {
+    "question": "Ã‡oklu doÄŸrusal regresyon analizi sonucuna gÃ¶re UCLA YalnÄ±zlÄ±k Ã–lÃ§eÄŸi puanÄ±nÄ± hangi deÄŸiÅŸkenler yordamaktadÄ±r?",
+    "ground_truth": "Durumluk KaygÄ±, SÃ¼rekli KaygÄ±, Depresyon, Duygusal Zeka Testi Olumlu Ä°fade alt boyutu ve AlgÄ±lanan Sosyal Destek Ã–lÃ§eÄŸi ArkadaÅŸ alt boyutu yalnÄ±zlÄ±k puanÄ±nÄ±n %66'sÄ±nÄ± yordamaktadÄ±r.",
+    "source_file": "SOS03.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Sosyo-demografik gruplarÄ±n yalnÄ±zlÄ±k dÃ¼zeyleri karÅŸÄ±laÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda hangi gruplar arasÄ±nda anlamlÄ± etkileÅŸim bulunmuÅŸtur?",
+    "ground_truth": "Cinsiyet ve eÄŸitim dÃ¼zeyi gruplarÄ± arasÄ±nda anlamlÄ± bir etkileÅŸim bulunmuÅŸtur. KadÄ±nlarda lise ve altÄ± eÄŸitim dÃ¼zeyinin yalnÄ±zlÄ±ÄŸÄ± daha yÃ¼ksekken, erkeklerde Ã¼niversite Ã¶ÄŸrencilerinin yalnÄ±zlÄ±k puanÄ± daha yÃ¼ksektir.",
+    "source_file": "SOS03.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Beden imajÄ± nedir ve kiÅŸilikle iliÅŸkisi nasÄ±ldÄ±r?",
+    "ground_truth": "Beden imajÄ±, kiÅŸinin kendisine ve bedenine yÃ¶nelik geliÅŸtirdiÄŸi duygu, dÃ¼ÅŸÃ¼nce ve algÄ±larÄ±n sonucudur. KendiliÄŸin gÃ¶zle gÃ¶rÃ¼len bÃ¶lÃ¼mÃ¼ beden imgesi ile Ã¶zdeÅŸleÅŸtirilir ve kiÅŸiliÄŸin temel unsurlarÄ±ndan biridir.",
+    "source_file": "SOS04.md",
+    "source_section": "## GÄ°RÄ°Å"
+  },
+  {
+    "question": "Sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± nasÄ±l tanÄ±mlanÄ±r?",
+    "ground_truth": "Bireyin dÄ±ÅŸ gÃ¶rÃ¼nÃ¼mÃ¼ ile ilgili kaygÄ±larÄ±nÄ± ve baÅŸkalarÄ±nÄ±n onun hakkÄ±ndaki deÄŸerlendirmesine yÃ¶nelik oluÅŸan kaygÄ±larÄ±n toplamÄ±dÄ±r.",
+    "source_file": "SOS04.md",
+    "source_section": "## GÄ°RÄ°Å"
+  },
+  {
+    "question": "Ergenlik dÃ¶neminde beden algÄ±sÄ±nÄ±n Ã¶nemi nedir?",
+    "ground_truth": "Ergenlik dÃ¶neminde kazanÄ±lacak iyi bir beden algÄ±sÄ±nÄ±n, ergenin saÄŸlam Ã¶zgÃ¼ven kazanabilmesinde etkisi bÃ¼yÃ¼ktÃ¼r. Olumsuz beden algÄ±sÄ± ise depresyon, kendilik algÄ±larÄ±nda dÃ¼ÅŸme ve deÄŸerlendirilme korkusuna sebep olur.",
+    "source_file": "SOS04.md",
+    "source_section": "## GÄ°RÄ°Å"
+  },
+  {
+    "question": "Pozitif psikoloji hangi kavramlar Ã¼zerine yoÄŸunlaÅŸÄ±r?",
+    "ground_truth": "Huzur, iyi olma hali, mutluluk, iyimserlik, umut, yaÅŸam doyumu, pozitif dÃ¼ÅŸÃ¼nebilme gibi pozitif insan davranÄ±ÅŸlarÄ± ve duygularÄ± Ã¼zerine yoÄŸunlaÅŸÄ±r.",
+    "source_file": "SOS04.md",
+    "source_section": "## GÄ°RÄ°Å"
+  },
+  {
+    "question": "Ã–znel iyi oluÅŸun Ã¼Ã§ temel bileÅŸeni nelerdir?",
+    "ground_truth": "Olumsuz duygulanÄ±m, olumlu duygulanÄ±m ve yaÅŸam memnuniyeti ile biliÅŸsel deÄŸerlendirmedir.",
+    "source_file": "SOS04.md",
+    "source_section": "## GÄ°RÄ°Å"
+  },
+  {
+    "question": "Sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ±nÄ± aÃ§Ä±klamada kullanÄ±lan BiliÅŸsel YaklaÅŸÄ±m kuramÄ± nedir?",
+    "ground_truth": "BiliÅŸsel yaklaÅŸÄ±ma gÃ¶re, sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± yaÅŸayan bireyler sosyal bir ortamda utandÄ±rÄ±lacaklarÄ±na veya istenmeyeceklerine dair iÅŸlevsiz dÃ¼ÅŸÃ¼ncelere sahiptirler ve sosyal ortamlarÄ± tehdit olarak gÃ¶rÃ¼rler.",
+    "source_file": "SOS04.md",
+    "source_section": "## BiliÅŸsel YaklaÅŸÄ±m"
+  },
+  {
+    "question": "Sosyal Beceri YaklaÅŸÄ±mÄ± sosyal kaygÄ±yÄ± nasÄ±l aÃ§Ä±klar?",
+    "ground_truth": "Sosyal kaygÄ±nÄ±n sosyal beceri eksikliÄŸi (gÃ¶z temasÄ±, jest ve mimik kullanÄ±mÄ±, iletiÅŸim baÅŸlatma vb.) sonucunda yaÅŸandÄ±ÄŸÄ±nÄ±, bu becerileri kullanamamanÄ±n yetersizlik ve kaygÄ± yarattÄ±ÄŸÄ±nÄ± savunur.",
+    "source_file": "SOS04.md",
+    "source_section": "## Sosyal Beceri YaklaÅŸÄ±mÄ±"
+  },
+  {
+    "question": "Ã–znel iyi oluÅŸu aÃ§Ä±klayan Erek KuramÄ±'nÄ±n temel varsayÄ±mÄ± nedir?",
+    "ground_truth": "KiÅŸinin bir amaca ulaÅŸtÄ±ÄŸÄ±nda veya psikolojik ihtiyacÄ± doyurulduÄŸunda, aynÄ± zamanda gerginliÄŸi azaldÄ±ÄŸÄ±nda mutluluÄŸa ve Ã¶znel iyi oluÅŸa ulaÅŸabileceÄŸini savunur.",
+    "source_file": "SOS04.md",
+    "source_section": "## Erek KuramÄ±"
+  },
+  {
+    "question": "Etkinlik KuramÄ± mutluluÄŸu nasÄ±l tanÄ±mlar?",
+    "ground_truth": "MutluluÄŸun amaca ulaÅŸmaktan ziyade, o yolda harcanan emek ve yapÄ±lan faaliyetlerin bir Ã¼rÃ¼nÃ¼ olduÄŸunu, bireylerin yetenekleri doÄŸrultusunda yaptÄ±klarÄ± etkinliklerin Ã¶znel iyi oluÅŸu saÄŸladÄ±ÄŸÄ±nÄ± savunur.",
+    "source_file": "SOS04.md",
+    "source_section": "## E tkinlik KuramÄ±"
+  },
+  {
+    "question": "AraÅŸtÄ±rmanÄ±n sonuÃ§larÄ±na gÃ¶re sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± ile Ã¶znel iyi oluÅŸ arasÄ±nda nasÄ±l bir iliÅŸki bulunmuÅŸtur?",
+    "ground_truth": "Ã–ÄŸrencilerin sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± ile Ã¶znel iyi oluÅŸlarÄ± arasÄ±nda orta dÃ¼zeyde negatif yÃ¶nde anlamlÄ± bir iliÅŸkinin olduÄŸu bulunmuÅŸtur.",
+    "source_file": "SOS04.md",
+    "source_section": "## Ã– Z"
+  },
+  {
+    "question": "Meslek seÃ§imi bireyin hayatÄ±nda nasÄ±l bir role sahiptir?",
+    "ground_truth": "Meslek seÃ§imi, bireye sosyal bir kimlik saÄŸlayarak geÃ§imini sÃ¼rdÃ¼rmesine, Ã¼retken olmasÄ±na, toplumda saygÄ± gÃ¶rmesine ve geleceÄŸini planlamasÄ±na yardÄ±m eder; bireyin kiÅŸiliÄŸini ve yaÅŸam tarzÄ±nÄ± Ã¶nemli Ã¶lÃ§Ã¼de etkiler.",
+    "source_file": "SOS05.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "Benlik nedir ve nasÄ±l bir yapÄ±ya sahiptir?",
+    "ground_truth": "Benlik, bireyin kendi Ã¶z varlÄ±ÄŸÄ±na yÃ¶nelik algÄ±ladÄ±ÄŸÄ± Ã¶ÄŸrenilmiÅŸ dÃ¼ÅŸÃ¼nce, duygu ve davranÄ±ÅŸlardan oluÅŸan dinamik bir sistemdir. GerÃ§ekÃ§i benlik ve olmak istediÄŸi ideal benlik olarak iki yapÄ±da ele alÄ±nÄ±r.",
+    "source_file": "SOS05.md",
+    "source_section": "## GiriÅŸ"
+  },
+  {
+    "question": "Mesleki benlik saygÄ±sÄ± nasÄ±l tanÄ±mlanmaktadÄ±r?",
+    "ground_truth": "KiÅŸinin kendi alanÄ±ndaki yeteneÄŸine dayalÄ± kendi kabiliyetlerine, becerilerine duyduÄŸu gÃ¼ven duygusu ve yetkinlik anlayÄ±ÅŸÄ±dÄ±r.",
+    "source_file": "SOS05.md",
+    "source_section": "## Mesleki benlik saygÄ±sÄ±"
+  },
+  {
+    "question": "Freud'un psikanalitik teorisinde tanÄ±mladÄ±ÄŸÄ± Ã¼Ã§ farklÄ± kaygÄ± tÃ¼rÃ¼ nelerdir?",
+    "ground_truth": "GerÃ§eklik kaygÄ±sÄ±, nevrotik kaygÄ± ve suÃ§luluk kaygÄ±sÄ±dÄ±r.",
+    "source_file": "SOS05.md",
+    "source_section": "## KaygÄ±"
+  },
+  {
+    "question": "YaÅŸam doyumu kavramÄ± nedir ve hangi faktÃ¶rlerden etkilenir?",
+    "ground_truth": "KiÅŸinin Ã¶z iyilik halinin biliÅŸsel bir deÄŸerlendirmesi ve yaÅŸamÄ±yla alakalÄ± yargÄ±larÄ±dÄ±r. Bireyin saÄŸlÄ±klÄ± olmasÄ±, Ã§evresiyle iyi iliÅŸkiler kurmasÄ±, evli olmasÄ±, gÃ¼venli bir Ã§evrede yaÅŸamasÄ± gibi faktÃ¶rlerden etkilenir.",
+    "source_file": "SOS05.md",
+    "source_section": "## YaÅŸam doyumu"
+  },
+  {
+    "question": "AraÅŸtÄ±rmaya hangi fakÃ¼ltelerden Ã¶ÄŸrenciler katÄ±lmÄ±ÅŸtÄ±r?",
+    "ground_truth": "Ä°letiÅŸim, Ä°ktisadi ve Ä°dari Bilimler, EÄŸitim, Hukuk, MÃ¼hendislik ve Edebiyat fakÃ¼ltelerinden Ã¶ÄŸrenciler katÄ±lmÄ±ÅŸtÄ±r.",
+    "source_file": "SOS05.md",
+    "source_section": "## YÃ¶ntem"
+  },
+  {
+    "question": "AraÅŸtÄ±rmada kadÄ±n ve erkek Ã¶ÄŸrenciler sÃ¼rekli kaygÄ± dÃ¼zeyleri aÃ§Ä±sÄ±ndan karÅŸÄ±laÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda nasÄ±l bir sonuÃ§ bulunmuÅŸtur?",
+    "ground_truth": "KadÄ±n Ã¶ÄŸrencilerin sÃ¼rekli kaygÄ± puanlarÄ±nÄ±n erkek Ã¶ÄŸrencilere gÃ¶re anlamlÄ± dÃ¼zeyde daha yÃ¼ksek olduÄŸu bulunmuÅŸtur.",
+    "source_file": "SOS05.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "FakÃ¼lte deÄŸiÅŸkeni mesleki benlik saygÄ±sÄ± Ã¼zerinde nasÄ±l bir farklÄ±lÄ±k yaratmÄ±ÅŸtÄ±r?",
+    "ground_truth": "Hukuk fakÃ¼ltesinde okuyan Ã¶ÄŸrencilerin mesleki benlik saygÄ±sÄ±nÄ±n, diÄŸer fakÃ¼ltelerde okuyan Ã¶ÄŸrencilere gÃ¶re anlamlÄ± dÃ¼zeyde daha yÃ¼ksek olduÄŸu bulunmuÅŸtur.",
+    "source_file": "SOS05.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Ã‡oklu regresyon analizi sonuÃ§larÄ±na gÃ¶re yaÅŸam doyumunu yordayan anlamlÄ± deÄŸiÅŸkenler hangileridir?",
+    "ground_truth": "SÃ¼rekli kaygÄ±, mesleki benlik saygÄ±sÄ± ve cinsiyet deÄŸiÅŸkenleri yaÅŸam doyumu Ã¼zerinde anlamlÄ± yordayÄ±cÄ±lar olarak bulunmuÅŸtur.",
+    "source_file": "SOS05.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "AraÅŸtÄ±rmada kullanÄ±lan Mesleki Benlik SaygÄ±sÄ± Ã–lÃ§eÄŸi (MBSÃ–) kim tarafÄ±ndan geliÅŸtirilmiÅŸtir?",
+    "ground_truth": "ArÄ±cak (2001) tarafÄ±ndan geliÅŸtirilmiÅŸtir.",
+    "source_file": "SOS05.md",
+    "source_section": "## Veri toplama araÃ§larÄ±"
+  },
+  {
+    "question": "Araştırmanın temel amacı nedir?",
+    "ground_truth": "Lojistik öğrencilerinin sahip olduğu benlik saygısının yaşam doyumlarına ve akademik başarılarına olan etkisi ile bu etkide cinsiyetin düzenleyici rolünün tespit edilmesidir.",
+    "source_file": "SOS06.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "Benlik saygısı nasıl tanımlanmaktadır?",
+    "ground_truth": "Kişinin kendini değerlendirme sonucunda kazandığı bir hayranlık halidir. Kişinin kendine güvenmesini ve olumlu duygusal bir durumda olmasını sağlayan bir haldir.",
+    "source_file": "SOS06.md",
+    "source_section": "## 2. BENLİK SAYGISI"
+  },
+  {
+    "question": "Yaşam doyumu kavramı genel olarak ne anlama gelir?",
+    "ground_truth": "Bireyin kendisinin tespit ettiği öznel ölçütlerine göre yaşamını pozitif yönde ele alması ve beklentilerinin karşılanmasına dönük değerlendirmeleridir.",
+    "source_file": "SOS06.md",
+    "source_section": "## 3. YAŞAM DOYUMU"
+  },
+  {
+    "question": "Çalışmada kullanılan örneklem grubu kimlerden oluşmaktadır?",
+    "ground_truth": "Isparta Uygulamalı Bilimler Üniversitesinde öğrenim gören, 125'i kız ve 153'ü erkek olmak üzere toplam 278 lojistik bölümü öğrencisinden oluşmaktadır.",
+    "source_file": "SOS06.md",
+    "source_section": "## 5.2. Örneklem"
+  },
+  {
+    "question": "Araştırmada kullanılan Rosenberg Benlik Saygısı Ölçeği'nin özellikleri nelerdir?",
+    "ground_truth": "Rosenberg (1963) tarafından geliştirilmiş, Türkçe uyarlaması Çuhadaroğlu (1986) tarafından yapılmıştır. Çok doğru ile çok yanlış arasında değişen 10 ifadeden oluşur.",
+    "source_file": "SOS06.md",
+    "source_section": "## 5.3. Araştırmanın Yöntemi ve Ölçüm Araçları"
+  },
+  {
+    "question": "Yapısal Eşitlik Modeli (YEM) sonuçlarına göre benlik saygısının yaşam doyumu üzerindeki etkisi nasıldır?",
+    "ground_truth": "Katılımcıların sahip oldukları benlik saygılarının yaşam doyumu düzeylerini pozitif yönde ve anlamlı olarak etkilediği belirlenmiştir (β=0,325; p<0,001).",
+    "source_file": "SOS06.md",
+    "source_section": "## 6. ARAŞTIRMA BULGULARI"
+  },
+  {
+    "question": "Benlik saygısının akademik başarı üzerindeki etkisi nedir?",
+    "ground_truth": "Öğrencilerin benlik saygıları akademik başarılarını pozitif yönde etkilemektedir (β=0,153; p=0,021).",
+    "source_file": "SOS06.md",
+    "source_section": "## 6. ARAŞTIRMA BULGULARI"
+  },
+  {
+    "question": "1. ve 2. sınıf öğrencileri karşılaştırıldığında benlik saygısının etkilerinde nasıl bir farklılık bulunmuştur?",
+    "ground_truth": "1. sınıf öğrencilerinin benlik saygılarının yaşam doyumu ve akademik başarı üzerinde anlamlı bir etkisi bulunmazken, 2. sınıf öğrencilerinde her ikisi üzerinde de pozitif yönlü ve anlamlı bir etki bulunmuştur.",
+    "source_file": "SOS06.md",
+    "source_section": "## 6. ARAŞTIRMA BULGULARI"
+  },
+  {
+    "question": "Cinsiyetin benlik saygısı ve yaşam doyumu ilişkisindeki düzenleyici rolü hakkında ne bulunmuştur?",
+    "ground_truth": "Erkek öğrencilerin benlik saygısı düzeyleri arttıkça yaşam doyumu seviyelerinin de arttığı tespit edilmişken, kız öğrencilerde benlik saygısının yaşam doyumu üzerinde anlamlı bir etkisi bulunmamıştır.",
+    "source_file": "SOS06.md",
+    "source_section": "## 6. ARAŞTIRMA BULGULARI"
+  },
+  {
+    "question": "Araştırma sonuçlarına göre üniversitelere düşen sorumluluk nedir?",
+    "ground_truth": "Öğrencilerin kaygı düzeylerinin kontrol altına alınması için rehberlik ve sosyal destek hizmetlerine ağırlık verilmesi, öğrencilerin benlik saygılarını arttırmaları için bilgilendirme materyalleri ve programları hazırlanması önerilmektedir.",
+    "source_file": "SOS06.md",
+    "source_section": "## 7. SONUÇ"
+  },
+  {
+    "question": "Psikolojik semptomların yordanmasında aileden algılanan sosyal desteğin rolü nedir?",
+    "ground_truth": "Aileden algılanan sosyal destek, anksiyete, depresyon, olumsuz benlik, somatizasyon ve düşmanlık semptomları ile negatif ilişkili olan en önemli değişkendir ve bu değişkenlerin en güçlü yordayıcısıdır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Tartışma, Sonuç ve Öneriler"
+  },
+  {
+    "question": "Kadın ve erkek katılımcıların depresyon ve anksiyete düzeyleri açısından farklılıkları nelerdir?",
+    "ground_truth": "Kadın katılımcıların hem anksiyete hem de depresyon düzeylerinin erkek katılımcılara göre istatistiksel olarak daha yüksek olduğu saptanmıştır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Bulgular Psikolojik Semptom ve Dindarlık Düzeyinin Cinsiyete Göre Farklılaşmalarına İlişkin Bulgular"
+  },
+  {
+    "question": "Özel bir insandan algılanan sosyal destek hangi semptomlarla ilişkilidir?",
+    "ground_truth": "Anksiyete, depresyon, olumsuz benlik, somatizasyon ve düşmanlık semptomları arasında negatif yönlü bir ilişki söz konusudur. Ayrıca depresyon düzeyinin yordayıcıları arasındadır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Tartışma, Sonuç ve Öneriler"
+  },
+  {
+    "question": "Arkadaşlardan algılanan sosyal desteğin psikolojik semptomlar üzerindeki etkisi nedir?",
+    "ground_truth": "Arkadaştan algılanan sosyal destek ile depresyon ve olumsuz benlik düzeyi arasında negatif yönlü bir ilişki bulunmuştur.",
+    "source_file": "SOS07.md",
+    "source_section": "## Tartışma, Sonuç ve Öneriler"
+  },
+  {
+    "question": "Dindarlık düzeyi ile psikolojik belirti düzeyleri arasında nasıl bir ilişki bulunmuştur?",
+    "ground_truth": "Araştırmadan elde edilen bulgulara göre, dindarlık düzeyi ile psikolojik belirti düzeyi arasında herhangi bir anlamlı ilişki bulunmamıştır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Tartışma, Sonuç ve Öneriler"
+  },
+  {
+    "question": "Çalışmanın örneklemi kimlerden oluşmaktadır?",
+    "ground_truth": "2018-2019 eğitim öğretim yılında Fırat ve Dicle Üniversitelerinde eğitim gören, yaş ortalaması 22.10 olan 155 kadın ve 85 erkek toplam 250 kişiden oluşmaktadır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Çalışma Grubu"
+  },
+  {
+    "question": "Araştırmada psikolojik belirti düzeyini belirlemek için hangi ölçek kullanılmıştır?",
+    "ground_truth": "Derogatis (1992) tarafından geliştirilen ve Şahin ve Durak (1994) tarafından Türkçeye uyarlanan Kısa Semptom Envanteri kullanılmıştır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Veri Toplama Araçları"
+  },
+  {
+    "question": "Algılanan sosyal destek düzeyi hangi ölçek ile ölçülmüştür ve alt boyutları nelerdir?",
+    "ground_truth": "Çok Boyutlu Algılanan Sosyal Destek Ölçeği kullanılmıştır. Aile, arkadaş ve özel bir insan olmak üzere 3 alt boyutu vardır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Veri Toplama Araçları"
+  },
+  {
+    "question": "Sosyal desteğin ruh sağlığı üzerindeki etkisini açıklayan Tampon Etkisi Modeli nedir?",
+    "ground_truth": "Bu modele göre, sosyal destek, stresin zararlı etkilerine karşı bir tampon işlevi görerek kişileri korumaktadır.",
+    "source_file": "SOS07.md",
+    "source_section": "## Algılanan Sosyal Destek ve Dindarlık Düzeyinin Psikolojik Semptomlar Üzerindeki Etkisi"
+  },
+  {
+    "question": "Araştırmada önerilen önleyici ruh sağlığı hizmetleri nelerdir?",
+    "ground_truth": "Okula başlangıç yıllarından itibaren psikolojik danışma ve rehberlik uygulamaları kapsamında sosyal beceri geliştirme, aile ve arkadaş ilişkilerini güçlendirme gibi psiko-eğitim programlarına ağırlık verilmesi önerilmektedir.",
+    "source_file": "SOS07.md",
+    "source_section": "## Tartışma, Sonuç ve Öneriler"
+  },
+  {
+    "question": "Çalışmanın temel amacı nedir?",
+    "ground_truth": "5-6 yaş çocuklarında psikolojik iyi oluş hakkında bütüncül bir bakış açısı sunan bir model önermek ve bu model temelinde geçerli, güvenilir, kapsamlı ve kullanışlı bir ölçme aracı geliştirmektir.",
+    "source_file": "SOS08.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "5/6 Yaş ÇOPİO Modeli'nde çocuklarda psikolojik iyi oluş nasıl tanımlanmıştır?",
+    "ground_truth": "İçinde bulunulan dönemin gerektirdiği sosyal, duygusal, bilişsel ve fiziksel yetkinliklere sahip olma, bu kapasiteyi kullanarak kendini ve çevresini düzenleyebilme ve sağlıklı bir şekilde gelişimini sürdürebilme gücü olarak tanımlanmıştır.",
+    "source_file": "SOS08.md",
+    "source_section": "## Çocuklarda Psikolojik İyi Oluş: Bir Model Önerisi"
+  },
+  {
+    "question": "Geliştirilen 5/6 Yaş Çocukları İçin Psikolojik İyi Oluş Ölçeği kaç alt boyuttan oluşmaktadır ve bunlar nelerdir?",
+    "ground_truth": "Fiziksel sağlık, düşük içselleştirme, düşük dışsallaştırma, öz düzenleme, sosyal yetkinlik-girişkenlik, bilişsel yetkinlik, değer davranışları, psikolojik dayanıklılık ve yaşam doyumu olmak üzere 9 alt boyuttan oluşmaktadır.",
+    "source_file": "SOS08.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Fiziksel sağlık alt boyutu modelde nasıl tanımlanmıştır?",
+    "ground_truth": "Dengeli ve sağlıklı beslenme, fiziksel/devinimsel aktiviteleri zorlanmadan yapma ve fiziksel olarak iyi hissetme şeklinde tanımlanmıştır.",
+    "source_file": "SOS08.md",
+    "source_section": "## 5/6 Yaş ÇOPİO Modeli Boyutları"
+  },
+  {
+    "question": "Düşük içselleştirme ve düşük dışsallaştırma boyutları neleri ifade eder?",
+    "ground_truth": "Düşük içselleştirme, kaygı ve içe kapanıklık gibi içe yönelimli durumlarda çocuğun duygularını kontrol etmesi; düşük dışsallaştırma ise kızgınlık ve saldırganlık gibi dışa yönelimli negatif durumları kontrol altına almasıdır.",
+    "source_file": "SOS08.md",
+    "source_section": "## 5/6 Yaş ÇOPİO Modeli Boyutları"
+  },
+  {
+    "question": "Sosyal yetkinlik-girişkenlik boyutu çocuklarda neleri kapsar?",
+    "ground_truth": "Yetişkin onayı beklemeden bağımsız karar alabilme, yetişkinler ve diğer çocuklarla olumlu etkileşim kurabilme, etrafındakileri dinleme ve rahatlıkla etkileşim başlatabilmeyi kapsar.",
+    "source_file": "SOS08.md",
+    "source_section": "## 5/6 Yaş ÇOPİO Modeli Boyutları"
+  },
+  {
+    "question": "Araştırmada çalışma grubunun verileri kimlerden toplanmıştır?",
+    "ground_truth": "Çocukları değerlendirmek üzere 943 öğretmen, 726 anne ve 523 baba olmak üzere toplam 2208 kişiden toplanmıştır.",
+    "source_file": "SOS08.md",
+    "source_section": "## Çalışma Grubu"
+  },
+  {
+    "question": "Ölçüt geçerliği için hangi ölçek kullanılmıştır?",
+    "ground_truth": "Mayr ve Ulich (2009) tarafından geliştirilen Sosyal Duygusal İyi Oluş ve Psikolojk Sağlamlık Ölçeği (PERİK) kullanılmıştır.",
+    "source_file": "SOS08.md",
+    "source_section": "## Sosyal Duygusal İyi Oluş ve Psikolojik Sağlamlık Ölçeği"
+  },
+  {
+    "question": "Açımlayıcı faktör analizinde (AFA) hangi yöntemler kullanılmıştır?",
+    "ground_truth": "Temel Bileşenler Analizi (TBA) ve Varimax dik döndürme yöntemi kullanılmıştır.",
+    "source_file": "SOS08.md",
+    "source_section": "## Yapı Geçerliği"
+  },
+  {
+    "question": "Psikolojik dayanıklılık boyutu erken çocukluk döneminde nasıl tanımlanmıştır?",
+    "ground_truth": "Günlük yaşam stresörleri ile mücadele ederek başa çıkabilme ve yaşama etkili uyum şeklinde tanımlanmıştır.",
+    "source_file": "SOS08.md",
+    "source_section": "## 5/6 Yaş ÇOPİO Modeli Boyutları"
+  },
+  {
+    "question": "Bu araştırmanın amacı nedir?",
+    "ground_truth": "Özel öğrenme güçlüğü tanılı çocuğu olan anne-babaların algılanan sosyal destek ve depresyon düzeylerini bazı demografik değişkenler açısından incelemek ve sosyal destek algısının depresyon düzeyini yordayıp yordamadığını tespit etmektir.",
+    "source_file": "SOS09.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "Özel öğrenme güçlüğü tanılı çocuğu olan anne-babaların cinsiyete göre sosyal destek algılarında nasıl bir fark bulunmuştur?",
+    "ground_truth": "Annelerin babalara göre daha fazla sosyal destek algısına sahip olduğu görülmüştür.",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Eğitim durumu değişkeninin sosyal destek algısı ve depresyon üzerindeki etkisi nedir?",
+    "ground_truth": "İlköğretim mezunlarının sosyal destek algısı daha düşük, depresyon düzeyleri ise lise ve yükseköğrenim mezunu ebeveynlere göre daha yüksek çıkmıştır.",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Ailenin gelir düzeyi sosyal destek ve depresyonu nasıl etkilemektedir?",
+    "ground_truth": "Gelir düzeyi arttıkça ailelerin sosyal destek algılarının arttığı ve depresyon düzeylerinin ise azaldığı görülmüştür.",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Çocuk sayısına göre ailelerin sosyal destek algısı nasıl değişmektedir?",
+    "ground_truth": "Bir çocuğa sahip olan anne-babaların sosyal destek algısı, iki veya üç çocuk sahibi olan ebeveynlere göre daha yüksek çıkmıştır.",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Anne-babaların depresyon düzeyleri sahip oldukları çocuk sayısına göre farklılaşmakta mıdır?",
+    "ground_truth": "İstatistiksel açıdan sahip oldukları çocuk sayısına göre depresyon düzeyleri arasında anlamlı bir fark bulunmamıştır.",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Sosyal destek algısı ile depresyon düzeyi arasındaki ilişki nasıldır?",
+    "ground_truth": "Anne ve babaların algılanan sosyal destek düzeyleri arttıkça depresyon düzeyleri düşmektedir (orta düzeyde negatif ve anlamlı bir ilişki).",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Sosyal destek algısı depresyon düzeyini ne oranda yordamaktadır?",
+    "ground_truth": "Sosyal destek algısı depresyon düzeyi varyansının %11'ini açıklamaktadır (yordamaktadır).",
+    "source_file": "SOS09.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Çalışma grubu kimlerden oluşmaktadır?",
+    "ground_truth": "İzmir Büyükşehir Belediyesi sınırları içerisinde yaşayan, özel öğrenme güçlüğü tanısı alan 6-18 yaş arasındaki çocukların anne-babalarından oluşan 175 gönüllü katılımcıdan oluşmaktadır.",
+    "source_file": "SOS09.md",
+    "source_section": "## 2.3. Çalışma Grubu"
+  },
+  {
+    "question": "Özel öğrenme güçlüğü tanılı çocuğu olan anne-babaların eğitim seviyesinin yüksek olmasının depresyonu azaltmadaki olası etkileri nelerdir?",
+    "ground_truth": "Eğitim seviyesi yüksek ebeveynler destek kaynaklarına daha kolay ulaşabilir, çocuklarının eğitimlerini günlük hayata daha kolay uyarlayabilir ve durumu daha kolay kabullenerek gerçekçi hedefler koyabilirler, bu da kaygı ve depresyonu azaltır.",
+    "source_file": "SOS09.md",
+    "source_section": "## TARTIŞMA, SONUÇ VE ÖNERİLER"
+  },
+  {
+    "question": "Araştırmanın amacı nedir?",
+    "ground_truth": "Üniversite öğrencilerinin psikolojik sağlamlık ve benlik saygısı düzeylerinin yaşam doyumu ile ilişkisini incelemek ve bu değişkenlerin yaşam doyumunu yordayıp yordamadığını ortaya koymaktır.",
+    "source_file": "SOS10.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Yaşam doyumu kavramı nasıl tanımlanmaktadır?",
+    "ground_truth": "Yaşam doyumu, bireyin yaşamdan aldığı genel doyumun bilişsel olarak değerlendirilmesi, kazanımları ile yaşama dair beklentilerinin uyumlu olması durumudur.",
+    "source_file": "SOS10.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Psikolojik sağlamlık nedir?",
+    "ground_truth": "Bireyin ruhsal sorunlardan, olumsuz yaşantılardan, duygusal problemlerden ya da kaygı verici durumlardan kurtulması, kendini toparlaması ve sorunları ile başa çıkmasıdır.",
+    "source_file": "SOS10.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Psikolojik sağlamlık ve yaşam doyumu arasında nasıl bir ilişki bulunmuştur?",
+    "ground_truth": "Psikolojik sağlamlık ile yaşam doyumu arasında pozitif yönde ve anlamlı bir ilişki bulunmuştur; psikolojik sağlamlık arttıkça yaşam doyumu da artmaktadır.",
+    "source_file": "SOS10.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Cinsiyete göre psikolojik sağlamlık düzeylerinde farklılık var mıdır?",
+    "ground_truth": "Evet, bu çalışmada erkeklerin psikolojik sağlamlık düzeylerinin kızlara göre daha yüksek olduğu bulunmuştur.",
+    "source_file": "SOS10.md",
+    "source_section": "## TARTIŞMA, SONUÇ ve ÖNERİLER"
+  },
+  {
+    "question": "Benlik saygısı ile yaşam doyumu arasındaki ilişki nasıldır?",
+    "ground_truth": "Benlik saygısı ile yaşam doyumu arasında anlamlı ve pozitif bir ilişki gözlenmiştir. Benlik saygısı yüksek olan bireylerin yaşam doyumu da yüksektir.",
+    "source_file": "SOS10.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Çoklu doğrusal regresyon analizi sonuçlarına göre psikolojik sağlamlık ve benlik saygısı yaşam doyumunu ne oranda açıklamaktadır?",
+    "ground_truth": "Psikolojik sağlamlık ve benlik saygısı değişkenleri birlikte yaşam doyumunun %28'ini açıklamaktadır.",
+    "source_file": "SOS10.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Üniversite dönemi öğrencilerin ruh sağlığı açısından neden önemlidir?",
+    "ground_truth": "Üniversite dönemi, bireylerin aileden ayrılma, farklı sosyal çevre, akademik çalışmalar gibi önemli sorunlar ve değişimlerle karşı karşıya kaldığı zorlu bir süreçtir.",
+    "source_file": "SOS10.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Çalışma grubu kimlerden oluşmaktadır?",
+    "ground_truth": "Iğdır Üniversitesi'nde öğrenim gören 285 kız ve 105 erkek toplam 393 üniversite öğrencisinden oluşmaktadır.",
+    "source_file": "SOS10.md",
+    "source_section": "## Katılımcılar"
+  },
+  {
+    "question": "Araştırmada veri toplamak için hangi ölçekler kullanılmıştır?",
+    "ground_truth": "Kişisel Bilgi Formu, Yaşam Doyumu Ölçeği, Kısa Psikolojik Sağlamlık Ölçeği ve Benlik Saygısı Ölçeği kullanılmıştır.",
+    "source_file": "SOS10.md",
+    "source_section": "## Veri Toplama Araçları"
+  },
+  {
+    "question": "Aidiyet kavramı göçmenler için neden kritik bir öneme sahiptir?",
+    "ground_truth": "Göçmenlerin ev sahibi toplumla bütünleşmeleri, kabul ve saygı görmeleri, kimliklerini tanımlama süreçleri ve 'içeriden biri olma' anlayışıyla toplumsal uyumu sağlamaları aidiyet duygusunun oluşturulması ile mümkündür.",
+    "source_file": "SOS11.md",
+    "source_section": "## Göç, Uyum ve Aidiyet"
+  },
+  {
+    "question": "Aidiyet kavramının temel alt boyutları nelerdir?",
+    "ground_truth": "Baumeister ve Leary'e göre aidiyetin alt boyutları incelendiğinde 'bağlılık' ve 'kimlik' kavramlarının ön plana çıktığı görülmektedir.",
+    "source_file": "SOS11.md",
+    "source_section": "## Aidiyet"
+  },
+  {
+    "question": "Uyum süreci nasıl tanımlanmaktadır?",
+    "ground_truth": "Uyum, kişinin sahip olduğu bireysel özellikleri taşıyarak kendi benliği ve çevresi ile kurduğu dengeli ilişki sürecidir.",
+    "source_file": "SOS11.md",
+    "source_section": "## Uyum"
+  },
+  {
+    "question": "Göç edenlerin ev sahibi ülkede yaşadıkları en önemli sorunlar nelerdir?",
+    "ground_truth": "Geldikleri ülkenin dilini bilmemeleri, istihdam, barınma, dini ritüellerini gerçekleştirememe, yabancılara karşı olumsuz tutumlar, ekonomik zorluklar ve kültürel farklılıklar şeklindedir.",
+    "source_file": "SOS11.md",
+    "source_section": "## Göç, Uyum ve Aidiyet"
+  },
+  {
+    "question": "\"Giydirilmiş kimlik\" kavramı neyi ifade etmektedir?",
+    "ground_truth": "İnsanın, içinde yaşadığı toplumun milli, dini, siyasal, ekonomik değer yargılarının bir ürünü olmaya yönlendirilmesi ve toplumsal üretim araçlarının belli kimliklere sahip insanlar üretmesidir.",
+    "source_file": "SOS11.md",
+    "source_section": "## Aidiyet"
+  },
+  {
+    "question": "Göçmenlerin dil öğrenim sürecinde neden ebeveynler de desteklenmelidir?",
+    "ground_truth": "Ebeveynlerin dil öğrenimi, ailenin kültürel uyum ve aidiyetini güçlendirir ve anadilin unutulması endişelerini gidererek çocukların okuldaki uyumunu da arttırır.",
+    "source_file": "SOS11.md",
+    "source_section": "## Değerlendirme"
+  },
+  {
+    "question": "Postmodern anlayışın kimlik algıları üzerindeki etkisi nedir?",
+    "ground_truth": "İdealize edilmiş bir bakış açısından uzaklaşılarak üst bir kimliğe karşı koyan bir anlayış oluşmuş, kimliklerin yerelliği, farklılığı ve heterojenliği kabul görmeye başlamıştır.",
+    "source_file": "SOS11.md",
+    "source_section": "## Aidiyet"
+  },
+  {
+    "question": "Toplumsal bütünleşmede bütünleşmenin kaynağı kimlerdir?",
+    "ground_truth": "Toplumsal bütünleşmenin kaynağının sadece 'yeni gelenler' (göçmenler) değil, aynı zamanda onlara ev sahipliği yapan 'ev sahibi' toplum olduğu unutulmamalıdır.",
+    "source_file": "SOS11.md",
+    "source_section": "## Uyum"
+  },
+  {
+    "question": "Göçmen çocuklarının eğitiminde dil sorunu neden önemlidir?",
+    "ground_truth": "Dil sorunu çocukların hem akademik başarılarını hem de sosyal uyumlarını etkileyen en önemli faktörlerden biridir ve yabancı dil öğrenmeye direnç veya disiplinsizliğe neden olabilir.",
+    "source_file": "SOS11.md",
+    "source_section": "## Değerlendirme"
+  },
+  {
+    "question": "\"Birlikte yaşamak\" ifadesi hangi anlama gelmektedir?",
+    "ground_truth": "Bireylerin diğerleriyle kurduğu sosyal ilişkilerinin sürekliliğini ifade etmek anlamında kullanılmaktadır.",
+    "source_file": "SOS11.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Şikago Okulu'nun göç çalışmalarındaki temel odak noktası nedir?",
+    "ground_truth": "Şikago Okulu, ırk temelli yaklaşımların aksine saha araştırmalarına dayanarak etnik grupların ev sahibi toplumla kurdukları ilişkiyi ve bütünleşme (asimilasyon) sorununu incelemiştir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 2. ŞİKAGO OKULU ÇALIŞMALARINDA SOSYAL ASİMİLASYON"
+  },
+  {
+    "question": "Asimilasyon Şikago Okulu tarafından nasıl tanımlanmıştır?",
+    "ground_truth": "Kişilerin ve grupların diğer kişi ve grupların anılarını, hislerini ve davranışlarını edinip, deneyim ve tarihlerini paylaşarak ortak bir kültürel yaşama dâhil oldukları iç içe geçme ve kaynaşma sürecidir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 2. ŞİKAGO OKULU ÇALIŞMALARINDA SOSYAL ASİMİLASYON"
+  },
+  {
+    "question": "Fransa'nın \"cumhuriyetçi-entegrasyon\" modeli nasıl bir anlayışa dayanmaktadır?",
+    "ground_truth": "Vatandaşlık temelli bir anlayışın hâkim olduğu, dil ve kültür üzerinden hareket ederek etnik toplulukların tanınmasından ziyade bireyi hedef alan ve onun dönüşümünü önemseyen bir modeldir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 3. FRANSA: CUMHURİYETÇİ ENTEGRASYON MODELİ"
+  },
+  {
+    "question": "Fransa'da göçmenlerin asimilasyonu yerine neden entegrasyon kavramı tercih edilmiştir?",
+    "ground_truth": "Asimilasyon kelimesinin kolonyalizm, Batı'nın tahakkümü ve kültürel şiddet kokan bir terim olarak algılanması nedeniyle daha yansız olduğu düşünülen entegrasyon kavramı tercih edilmiştir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 3. FRANSA: CUMHURİYETÇİ ENTEGRASYON MODELİ"
+  },
+  {
+    "question": "Farklılıkların yönetimi açısından Batı'da öne çıkan üç model hangileridir?",
+    "ground_truth": "Kademeli ayrımcı model, asimilasyoncu model ve çokkültürlülük modelidir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 4. TÜRKİYE'DE GÖÇMEN OLMAK: FARKLIĞIN SİYASAL YÖNETİMİ"
+  },
+  {
+    "question": "1934 tarihli 2510 sayılı İskân Kanunu'na göre kimler muhacir (göçmen) olarak tanımlanmıştır?",
+    "ground_truth": "Türk soyundan gelenler ve Türk kültürüne bağlı olanlar Türkiye'ye yerleşmek üzere kabul edilebilir ve muhacir sayılırlar.",
+    "source_file": "SOS12.md",
+    "source_section": "## 4.1. Türkiye'nin Göç Politikasına Genel Bir Bakış"
+  },
+  {
+    "question": "1934 İskân Kanunu'na göre kimlerin Türkiye'ye muhacir olarak alınması yasaklanmıştır?",
+    "ground_truth": "Türk kültürüne bağlı olmayanlar, anarşistler, casuslar, göçebe çingeneler ve memleket dışına çıkarılmış olanlar muhacir olarak alınmazlar.",
+    "source_file": "SOS12.md",
+    "source_section": "## 4.1. Türkiye'nin Göç Politikasına Genel Bir Bakış"
+  },
+  {
+    "question": "Alejandro Portes'in \"çoklu asimilasyon\" teorisinde bahsettiği üç adaptasyon formu nelerdir?",
+    "ground_truth": "Birincisi hâkim toplumla bütünleşme; ikincisi içinden çıkılan kentli alt sınıfa uyum; üçüncü ise kültürel anlamda sınırın diğer tarafına geçmeden ekonomik yönden çoğunluk toplumuna uyumdur.",
+    "source_file": "SOS12.md",
+    "source_section": "## 2. ŞİKAGO OKULU ÇALIŞMALARINDA SOSYAL ASİMİLASYON"
+  },
+  {
+    "question": "Türkiye 1951 Cenevre Sözleşmesi'ni hangi kısıtlama ile kabul etmiştir?",
+    "ground_truth": "Türkiye, Sözleşme'nin 1. maddesindeki mekân bakımından öngörülen seçme hakkını kullanarak 'Coğrafi Kısıtlama' ile kabul etmiştir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 4.1. Türkiye'nin Göç Politikasına Genel Bir Bakış"
+  },
+  {
+    "question": "\"Geçici koruma\" statüsü kimlere verilir?",
+    "ground_truth": "Kitlesel akın olaylarında acil çözümler bulmak üzere devletlerin geri göndermeme yükümlülükleri çerçevesinde kitleler halinde ülke sınırlarına ulaşan kişilere uygulanan pratik ve tamamlayıcı bir koruma biçimidir.",
+    "source_file": "SOS12.md",
+    "source_section": "## 4.1. Türkiye'nin Göç Politikasına Genel Bir Bakış"
+  },
+  {
+    "question": "Araştırmanın amacı nedir?",
+    "ground_truth": "Göçmenlerin sosyokültürel uyum düzeyi, yerel halkın göçmenlere yönelik tutum düzeyi ve bunlar arasındaki ilişkiyi belirlemektir.",
+    "source_file": "SOS13.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Araştırma sonuçlarına göre göçmenlerin sosyokültürel uyum düzeyi nasıldır?",
+    "ground_truth": "Göçmenlerin sosyokültürel uyumları iyi düzeydedir. (x ̄=3,57)",
+    "source_file": "SOS13.md",
+    "source_section": "## 1.1. Göçmenlerin Sosyokültürel Uyum Düzeyi"
+  },
+  {
+    "question": "Sosyokültürel Uyum Ölçeği'nin alt boyutları arasında en yüksek ve en düşük ortalamaya sahip olanlar hangileridir?",
+    "ground_truth": "En yüksek ortalamaya sahip alt boyut 'dil yeterliği', en düşük ortalamaya sahip alt boyut ise 'kişisel ilgi alanlarını sürdürme ve toplumsal katılım'dır.",
+    "source_file": "SOS13.md",
+    "source_section": "## 1.1. Göçmenlerin Sosyokültürel Uyum Düzeyi"
+  },
+  {
+    "question": "Göçmenlerin sosyokültürel uyumu cinsiyet, yaş, ikamet süresi ve uyruklarına göre farklılık göstermekte midir?",
+    "ground_truth": "Hayır, göçmenlerin sosyokültürel uyumları cinsiyete, yaşa, ikamet sürelerine ve uyruklarına göre anlamlı düzeyde farklılık göstermemektedir.",
+    "source_file": "SOS13.md",
+    "source_section": "## 1.2. Sosyokültürel Uyum Düzeyi ve Kişisel Özellikler Arasındaki İlişkiler"
+  },
+  {
+    "question": "Yerel halkın göçmenlere yönelik genel tutum düzeyi nedir?",
+    "ground_truth": "Yerel halkın tutumları 'kararsızım' düzeyinde yani orta düzeydedir (x ̄=3,013).",
+    "source_file": "SOS13.md",
+    "source_section": "## 2.1. Yerel Halkın Göçmenlere Yönelik Tutumu"
+  },
+  {
+    "question": "Yerel halkın tutum ölçeğinde \"tehdit\" algısının ortalaması nasıldır?",
+    "ground_truth": "Tehdit algısı orta düzeydedir ve göçmenleri bir tehdit olarak görme eğilimi diğer alt boyutlara göre daha yüksek düzeydedir.",
+    "source_file": "SOS13.md",
+    "source_section": "## 2.1. Yerel Halkın Göçmenlere Yönelik Tutumu"
+  },
+  {
+    "question": "Araştırmada \"Yerel Halkın Göçmenlere Yönelik Tutumu Ölçeği\" hangi alt boyutlardan oluşmaktadır?",
+    "ground_truth": "Kabul etme, tehdit ve reddetme olmak üzere üç alt boyuttan oluşmaktadır.",
+    "source_file": "SOS13.md",
+    "source_section": "## 1. YÖNTEM"
+  },
+  {
+    "question": "Uyum Strateji Belgesi ve Ulusal Eylem Planı'nın hazırlanma gerekçesi nedir?",
+    "ground_truth": "Farklı din, uyruk ve kültür özellikleri taşıyan göçmenlerin Türk toplumu ile birlikte sorunsuz ve uyum içinde yaşayabilmelerini sağlamak hedeflenmiştir.",
+    "source_file": "SOS13.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Sosyokültürel uyum genel olarak nasıl tanımlanmaktadır?",
+    "ground_truth": "Belirli bir kültürden gelen kişilerin yabancı bir kültürün unsurlarını aşamalı olarak benimsemesi ve böylece saygı, iletişim, günlük yaşama dâhil olma süreçlerini sağlıklı bir şekilde yürütmesi olarak tanımlanmaktadır.",
+    "source_file": "SOS13.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Araştırmanın yürütüldüğü il neresidir?",
+    "ground_truth": "Araştırma Düzce ilinde ulaşılabilir örnekleme yöntemiyle yürütülmüştür.",
+    "source_file": "SOS13.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Araştırmanın amacı nedir?",
+    "ground_truth": "Türkiye'de bireylerin göçmenlerle ve yabancı işçilerle olan komşuluk ilişkilerini etkileyen faktörleri, bireylerin dini inançları, sosyal güven algıları ve göçmenlerin topluma entegrasyonuna yönelik tutumlar üzerinden incelemektir.",
+    "source_file": "SOS14.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Araştırmada hangi veri seti kullanılmıştır?",
+    "ground_truth": "Dünya Değerler Anketi (World Values Survey - WVS) 7. dalga verilerinden Türkiye veri seti kullanılmıştır.",
+    "source_file": "SOS14.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "\"Mekik göçü\" neyi ifade etmektedir?",
+    "ground_truth": "Yasadışı ya da kayıtsız göç hareketlerini tanımlayan bir terim olup, transit göç, mülteci göçü ve sığınmacı seyahati gibi olguları içerir.",
+    "source_file": "SOS14.md",
+    "source_section": "## Türkiye'de Göçmenlerle İlgili Toplumsal Algılar"
+  },
+  {
+    "question": "Lewis'e göre uluslararası göçün temel sebepleri nelerdir?",
+    "ground_truth": "Sanayileşmiş ve gelişmekte olan ülkeler arasındaki ücret eşitsizlikleri ve işgücü piyasası dengesizlikleridir.",
+    "source_file": "SOS14.md",
+    "source_section": "## Yabancı İşçiliğin Türkiye Ekonomisindeki Yeri"
+  },
+  {
+    "question": "Kolektif psikolojik sahiplenme kavramı nedir?",
+    "ground_truth": "Belirli bir sosyal kimlik bağlamında, 'biz' olarak tanımlanan toplulukların 'bizim' olanı sahiplenme ve kolektif duyarlılık gösterme halidir; bir grup adına mekânı kullanma, yönetme ve düzenleme hakkına sahip olma inancıdır.",
+    "source_file": "SOS14.md",
+    "source_section": "## Türkiye'de Göçmenlerle İlgili Toplumsal Algılar"
+  },
+  {
+    "question": "Allport'un 'İletişim Hipotezi' göçmenlerle komşuluk konusunda neyi savunur?",
+    "ground_truth": "Mahallelerdeki sık ve samimi karşılaşmaların (iletişimin) önyargıları azaltmaya yardımcı olacağını, az etkileşim ve mekânsal ayrımcılığın ise önyargıları güçlendirebileceğini savunur.",
+    "source_file": "SOS14.md",
+    "source_section": "## Göçmenlerle/Yabancı İşçilerle Komşuluk"
+  },
+  {
+    "question": "Araştırmanın birinci hipotezi (H1) dini değerler ve göçmenlere güven konusunda ne öngörmektedir?",
+    "ground_truth": "Dini değerlerin hayatta önemli olduğunu vurgulayan bireylerin göçmenlere güven düzeyinin daha düşük olduğunu öngörmektedir.",
+    "source_file": "SOS14.md",
+    "source_section": "## Hipotezler"
+  },
+  {
+    "question": "Gönüllü göç ile zorunlu göç arasındaki temel fark nedir?",
+    "ground_truth": "Gönüllü göçler bireylerin kendi istekleri doğrultusunda dışsal zorlama olmaksızın gerçekleştirdikleri göçler iken, zorunlu göçler siyasi olaylar ve koşullar sonucu devlet veya savaş gibi etkenlerle bireylerin göç etmeye zorlandığı hareketlerdir.",
+    "source_file": "SOS14.md",
+    "source_section": "## Göç ve Yabancı İşçiliğin Türkiye'de Tarihsel Gelişimi"
+  },
+  {
+    "question": "Kamplar dışında yaşayan göçmenlerin genel gelir dağılımı nasıldır?",
+    "ground_truth": "Kampların dışında yaşayanların yaklaşık %20'si kamptakiler gibi düşük gelirlidir ve varoşlarda yaşar. Orta gelir seviyesindeki göçmenler şehirlerde daireleri paylaşır; yüksek gelirliler ise çoğunlukla Batı ülkelerine yönelmektedir.",
+    "source_file": "SOS14.md",
+    "source_section": "## Yabancı İşçiliğin Türkiye Ekonomisindeki Yeri"
+  },
+  {
+    "question": "Göçmenlerin işgücü piyasasına katılımında Türkiye'de öne çıkan alanlar nelerdir?",
+    "ground_truth": "Göçmenler sadece işçi olarak çalışmamakta; bağımsız işletmeler (gıda endüstrisi, kahve dükkânları, berberler, kuyumcular) açmakta, ayrıca orta ölçekli sanayide, gıda ve tekstil sektörlerinde vasıfsız işlerde yoğun olarak çalışmaktadırlar.",
+    "source_file": "SOS14.md",
+    "source_section": "## Yabancı İşçiliğin Türkiye Ekonomisindeki Yeri"
+  },
+  {
+    "question": "Makalenin temel amacı nedir?",
+    "ground_truth": "Türk toplumunun evlilik ve aile yapısındaki sosyolojik ve psikolojik değişimleri, geleneksel aile yapısı ile modernizm arasındaki etkileşimi ve çatışmaları analiz ederek incelemektir.",
+    "source_file": "SOS16.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Yeni ev iktisadı yaklaşımı aileyi nasıl ele almaktadır?",
+    "ground_truth": "Aileyi ekonomik bir birim olarak görmekte, ev içindeki kaynakların nasıl dağıldığına odaklanmakta ve aile içindeki kararlar ile ilişkileri ekonomik terimlerle açıklamayı amaçlamaktadır.",
+    "source_file": "SOS16.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Nesnel yaklaşım evlilik ve aile araştırmalarında nasıl bir rol oynar?",
+    "ground_truth": "Demografik veriler, evlilik yaşları ve boşanma oranları gibi nicel verilere dayanarak olguları objektif bir şekilde gözlemlemeyi, evlilik ve ailedeki yapısal ve ekonomik değişimleri açığa çıkarmayı sağlar.",
+    "source_file": "SOS16.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Yorumlayıcı yaklaşımın temel aldığı yöntemler nelerdir?",
+    "ground_truth": "Sosyal normların, kültürel beklentilerin ve bireylerin evlilik konusundaki algılarını anlamak için derinlemesine mülakatlar, odak grupları ve gözlemler gibi nitel araştırma yöntemlerini temel alır.",
+    "source_file": "SOS16.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Cinsiyet sosyolojisi neyi inceler?",
+    "ground_truth": "Toplumsal cinsiyetin yapılandırılmasını, rollerini, eşitsizliklerini ve kültürel etkileşimlerini inceleyerek cinsiyetin toplumsal bir olgu olarak nasıl şekillendiğini araştırır.",
+    "source_file": "SOS16.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Lewis Coser'a göre yakın ilişkilerde çekim yaratan faktörler nelerdir?",
+    "ground_truth": "İnsanlar genellikle benzer ilgi alanları, değerler ve deneyimlere sahip olanlarla yakın ilişkiler kursalar da bazen farklılıklar da çekim noktası olabilir ve ilişkilere zenginlik katar.",
+    "source_file": "SOS16.md",
+    "source_section": "## 1. Yakın ilişkilerin sosyolojik analizi: Toplumsal etkileşim ve dinamikler"
+  },
+  {
+    "question": "George Levinger'in modeline göre uzun vadeli çift süreçleri hangi beş aşamadan oluşur?",
+    "ground_truth": "(a) başlangıçta çekicilik, (b) bir ilişki kurma, (c) devam etme, (d) kötüleşme ve (e) sona erişe kadar uzanan beş aşamalı bir süreçtir.",
+    "source_file": "SOS16.md",
+    "source_section": "## 1. Yakın ilişkilerin sosyolojik analizi: Toplumsal etkileşim ve dinamikler"
+  },
+  {
+    "question": "Türkiye'deki geleneksel aile yapısının modernleşme süreciyle nasıl değiştiği gözlemlenmektedir?",
+    "ground_truth": "Geleneksel geniş aile yapısı yaygınken, nüfusun şehirlere göç etmesi ve yaşam tarzlarının değişmesiyle çekirdek (nuclear) aile yapısı yaygınlaşmıştır.",
+    "source_file": "SOS16.md",
+    "source_section": "## 2. Türkiye toplumunda yakın ilişkiler: Evlilik ve aile sosyolojisi"
+  },
+  {
+    "question": "Türkiye'de kadınların aile içindeki rolünde yaşanan değişimi hangi faktörler tetiklemiştir?",
+    "ground_truth": "Modernleşme ve eğitim olanaklarındaki artış, kadınların iş gücüne katılımını artırmış ve cinsiyet rollerinde değişimi tetiklemiştir.",
+    "source_file": "SOS16.md",
+    "source_section": "## 2. Türkiye toplumunda yakın ilişkiler: Evlilik ve aile sosyolojisi"
+  },
+  {
+    "question": "Aile sosyolojisi alanında Türkiye'de araştırma çabası gösteren temel kurum hangisidir?",
+    "ground_truth": "Hacettepe Üniversitesi Nüfus Etütleri Enstitüsü'dür (HÜNEE).",
+    "source_file": "SOS16.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Türkiye'de hanehalkı tüketim harcamaları ve tüketim kalıpları üzerine odaklanan araştırmalara göre, eğitim düzeyi ve gelir düzeyi arttıkça hanehalkının harcama yapısında nasıl bir değişim gözlemlenmektedir?",
+    "ground_truth": "Gelir düzeyi arttıkça gıda ve barınma gibi temel ihtiyaç harcamalarının payı azalırken, eğitim, kültür, eğlence ve ulaştırma gibi lüks veya sosyal yönü ağır basan harcamaların payı artmaktadır.",
+    "source_file": "SOS17.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Engels Kanunu'na göre, bir ailenin veya hanehalkının geliri arttıkça gıda tüketimine ayrılan harcamaların toplam harcamalar içindeki payı nasıl değişir?",
+    "ground_truth": "Engels Kanunu'na göre, gelir arttıkça gıda tüketimine ayrılan harcamaların toplam harcamalar içindeki payı azalmaktadır.",
+    "source_file": "SOS17.md",
+    "source_section": "## Tüketim Kavramı ve Hanehalkı Tüketim Harcamaları"
+  },
+  {
+    "question": "Ev içi karar alma mekanizmaları bağlamında eşlerin kararlara katılım derecesini; erkeğin egemen olduğu, kadının egemen olduğu, ortak karar alınan ve kararların özerk olarak alındığı dört farklı kategoriye ayıran araştırmacı kimdir?",
+    "ground_truth": "Herbst (1952) tarafından yapılan sınıflamadır.",
+    "source_file": "SOS17.md",
+    "source_section": "## Karar Alma Kavramı ve Aile İçi Karar Alma Süreci"
+  },
+  {
+    "question": "Kanada, Amerika ve Avrupa'da hanehalkı harcama kararlarını inceleyen çalışmalara göre, kadınların gelir elde etmesi ve iş hayatına katılması aile içi karar alma süreçlerini nasıl etkilemiştir?",
+    "ground_truth": "Kadınların iş gücüne katılımı ve gelir düzeylerinin artmasıyla birlikte, aile içi kararlarda daha eşitlikçi bir yapı gelişmiş ve kadının satın alma kararlarındaki rolü ve etkisi belirgin bir şekilde artmıştır.",
+    "source_file": "SOS17.md",
+    "source_section": "## Aile İçi Tüketim Kararlarında Kadınların Rolü"
+  },
+  {
+    "question": "Bu çalışmada kadınların tüketim kararlarına katılım düzeyleri hangi dört ana harcama grubu (tüketim boyutu) altında analiz edilmiştir?",
+    "ground_truth": "Yiyecek ve giyecek harcamaları, dayanıklı tüketim malları ve teknoloji harcamaları, yatırım ve sigorta harcamaları ile sosyal ve kültürel etkinlik harcamalarıdır.",
+    "source_file": "SOS17.md",
+    "source_section": "## Kadınların Aile İçi Tüketim Kararlarına Katılımı ve Belirleyicileri"
+  },
+  {
+    "question": "Araştırmanın anket uygulandığı ana kütlesi (evreni) neresidir ve nihayetinde kaç katılımcı analiz edilmiştir?",
+    "ground_truth": "Muş il merkezinde yaşayan evli kadınlardır ve nihayetinde 406 evli kadından elde edilen veriler analiz edilmiştir.",
+    "source_file": "SOS17.md",
+    "source_section": "## Evren ve Örneklem"
+  },
+  {
+    "question": "Araştırmada veri toplamak amacıyla uygulanan anket kaç bölümden oluşmaktadır ve bu bölümlerin içerikleri nelerdir?",
+    "ground_truth": "İki bölümden oluşmaktadır: Birinci bölümde katılımcıların sosyo-demografik ve ekonomik özellikleri, ikinci bölümde ise aile içi tüketim kararlarına katılım düzeylerini ölçen 5'li Likert ölçeğindeki 20 ifade yer almaktadır.",
+    "source_file": "SOS17.md",
+    "source_section": "## Veri Toplama Araçları"
+  },
+  {
+    "question": "Araştırma bulgularına göre, Muş il merkezinde evli kadınların aile içi tüketim kararlarında en yüksek ve en düşük katılım (etki) gösterdikleri harcama grupları sırasıyla hangileridir?",
+    "ground_truth": "En yüksek katılım yiyecek ve giyecek harcamalarında (ortalama 4,53), en düşük katılım ise yatırım ve sigorta harcamalarındadır (ortalama 3,46).",
+    "source_file": "SOS17.md",
+    "source_section": "## Kadınların Aile İçi Tüketim Kararlarına Katılım Düzeyine İlişkin Bulgular"
+  },
+  {
+    "question": "Kadınların çalışıp çalışmama durumuna (istihdam) göre tüketim kararlarına katılım farklılıklarını inceleyen t-testi sonuçlarına göre, çalışan kadınlar lehine anlamlı fark çıkan tek harcama boyutu hangisidir?",
+    "ground_truth": "Yatırım ve sigorta harcamaları boyutudur.",
+    "source_file": "SOS17.md",
+    "source_section": "## Kadınların Sosyo-Demografik ve Ekonomik Özelliklerine Göre Tüketim Kararlarına Katılım Farklılıklarına İlişkin Bulgular"
+  },
+  {
+    "question": "Araştırmanın regresyon analizi sonuçlarına göre, kadınların genel olarak aile içi tüketim kararlarına katılımını en güçlü ve pozitif şekilde etkileyen sosyo-demografik değişken hangisidir?",
+    "ground_truth": "Kadının eğitim düzeyidir.",
+    "source_file": "SOS17.md",
+    "source_section": "## Kadınların Tüketim Kararlarına Katılım Düzeyini Belirleyen Faktörlere İlişkin Regresyon Analizi Bulguları"
+  },
+  {
+    "question": "Metropollerde kentsel ayrışma ve sosyal dışlanma süreçlerini sınıfsal, mekansal ve sosyolojik açılardan inceleyen bu çalışmanın temel araştırma sahası (örneklemi) neresidir?",
+    "ground_truth": "İstanbul'un Beyoğlu ilçesinde bulunan Tarlabaşı bölgesi (bölgesinde yaşayan göçmen, yoksul ve dışlanmış gruplar) araştırmanın sahasını oluşturmaktadır.",
+    "source_file": "SOS18.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "19. yüzyıldan itibaren gelişen modern sanayi kentleri ile 20. yüzyıl sonrasındaki post-endüstriyel küresel kentler arasındaki en belirgin mekansal ve sınıfsal fark nedir?",
+    "ground_truth": "Sanayi kentlerinde emek-sermaye çelişkisi etrafında şekillenen homojen işçi mahalleleri hakimken, küresel kentlerde finans ve hizmet sektörünün öne çıkmasıyla mekansal ayrışma, gettolaşma, lüks konut alanları ile çöküntü bölgelerinin bir arada var olduğu kutuplaşmış bir yapı hakimdir.",
+    "source_file": "SOS18.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Chicago Okulu sosyologlarının (Park, Burgess, Wirth) kentsel ekoloji yaklaşımında, kentlerin merkezden dışarıya doğru halkalar halinde yayıldığını öne süren kentsel büyüme kuramının adı nedir?",
+    "ground_truth": "Eşmerkezli halkalar kuramıdır.",
+    "source_file": "SOS18.md",
+    "source_section": "## Kentsel Ayrışma ve Mekânsal Dışlanma"
+  },
+  {
+    "question": "Castells ve Harvey gibi neo-marksist coğrafyacıların Chicago Okulu'nun 'doğal alan' fikrine karşı kentsel mekânı açıklarken kullandıkları temel argüman nedir?",
+    "ground_truth": "Kentsel mekânın doğal süreçlerle değil, kapitalist birikim rejiminin, devlet politikalarının ve sınıf mücadelelerinin bir sonucu olarak toplumsal düzeyde üretildiğini savunurlar.",
+    "source_file": "SOS18.md",
+    "source_section": "## Kentsel Ayrışma ve Mekânsal Dışlanma"
+  },
+  {
+    "question": "Avrupa Birliği literatüründe yoksulluk kavramından daha geniş bir anlam taşıyan, bireylerin toplumsal yaşama, karar alma mekanizmaları ve haklara erişiminin engellenmesini ifade eden kavram hangisidir?",
+    "ground_truth": "Sosyal dışlanma kavramıdır.",
+    "source_file": "SOS18.md",
+    "source_section": "## Kentsel Ayrışma ve Mekânsal Dışlanma"
+  },
+  {
+    "question": "İstanbul'da Tarlabaşı bölgesinin 19. yüzyıldaki kuruluşu ve sakinlerinin yapısı ile 1980 sonrasındaki nüfus yapısı arasındaki en büyük değişim nasıl olmuştur?",
+    "ground_truth": "19. yüzyılda Levantenler ve gayrimüslim tebaa için bir yerleşim yeri olarak kurulmuşken; 1980 sonrasında bölgedeki gayrimüslim nüfusun ayrılması ve kırsal göç dalgalarıyla birlikte Kürt nüfusun, Romanların ve son yıllarda düzensiz göçmenlerin/sığınmacıların yaşadığı bir çöküntü bölgesine dönüşmüştür.",
+    "source_file": "SOS18.md",
+    "source_section": "## Tarlabaşı'nın Tarihsel Gelişimi"
+  },
+  {
+    "question": "Kentsel dönüşüm (gentrification) politikalarının Tarlabaşı'nda yaşayan yoksul kesimler üzerindeki en önemli sosyo-mekansal etkisi nedir?",
+    "ground_truth": "Soylulaştırma projeleriyle birlikte yoksul kesimlerin yerinden edilmesi, mülksüzleştirilmesi ve kentin daha da çeperlerine (dış çeperlerine) itilerek mekansal dışlanmışlığın derinleşmesidir.",
+    "source_file": "SOS18.md",
+    "source_section": "## Tarlabaşı'nda Kentsel Dönüşüm ve Sosyal Dışlanma"
+  },
+  {
+    "question": "Tarlabaşı'nda yoksul ailelerin çocuklarının eğitim süreçlerinde karşılaştığı ve sosyal dışlanmayı derinleştiren temel engeller nelerdir?",
+    "ground_truth": "Okullarda maruz kaldıkları damgalanma (Tarlabaşılı olma), dil bariyerleri, okul masraflarını karşılayamama ve çocuk işçiliğine yönelme zorunluluğudur.",
+    "source_file": "SOS18.md",
+    "source_section": "## Tarlabaşı'nda Sosyal Dışlanma Boyutları"
+  },
+  {
+    "question": "Araştırmada Tarlabaşı bölgesinde veri toplamak amacıyla hangi nitel araştırma teknikleri kullanılmıştır?",
+    "ground_truth": "Katılımlı gözlem, derinlemesine görüşmeler (yarı yapılandırılmış) ve odak grup görüşmeleri kullanılmıştır.",
+    "source_file": "SOS18.md",
+    "source_section": "## Araştırmanın Yöntemi"
+  },
+  {
+    "question": "Tarlabaşı'nda yaşayanların kentsel hizmetlerden (sağlık, altyapı vb.) yararlanma düzeyleri incelendiğinde, bu hizmetlere erişimi sınırlayan en önemli yapısal engeller nelerdir?",
+    "ground_truth": "Kayıt dışılık (ikametin olmaması), dil sorunu, hastanelerde veya kurumlarda karşılaşılan önyargılı ve ayrımcı tutumlar ile ekonomik yetersizliklerdir.",
+    "source_file": "SOS18.md",
+    "source_section": "## Tarlabaşı'nda Sosyal Dışlanma Boyutları"
+  },
+  {
+    "question": "Sosyal politika kavramını ilk kez literatüre kazandıran düşünür kimdir ve başlangıçta bu alan hangi konulara odaklanmıştır?",
+    "ground_truth": "Sosyal politika kavramını literatüre kazandıran düşünür Wilhelm Heinrich Riehl'dir. Başlangıçta bu alan işçiyi koruma, toplu iş uyuşmazlıklarını önleme, düzenleme ve işçiye fırsatlar sağlama konularına odaklanmıştır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Sosyal Politika Kavramı ve Gelişimi"
+  },
+  {
+    "question": "Temellerini Adam Smith'in attığı Klasik Liberalizm yaklaşımına göre, ekonomik ve sosyal sorunlar piyasada hangi mekanizma veya işlev sayesinde kendiliğinden çözülmektedir?",
+    "ground_truth": "Klasik liberal düşüncede piyasa mekanizması ve fiyatlar sistemi her türlü ekonomik ve sosyal sorunu kendiliğinden çözümleyen 'gizli bir el' (invisible hand) işlevi görmektedir.",
+    "source_file": "SOS19.md",
+    "source_section": "## Ekonomik ve Sosyal Düşünce Sistemlerinde Sosyal Politika"
+  },
+  {
+    "question": "John Rawls'ın \"dağıtıcı adalet\" yaklaşımında, adalet ilkelerini geliştirdiği ve insanların rasyonel hareket etmekle birlikte kendi durumları hakkında bilgisiz olduklarını varsaydığı kavram hangisidir?",
+    "ground_truth": "\"Bilgisizlik örtüsü\" (veil of ignorance) kavramıdır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Ekonomik ve Sosyal Düşünce Sistemlerinde Sosyal Politika"
+  },
+  {
+    "question": "Spencer (2016) tarafından toplumsal yaşama uyarlanan ve 'doğal ayıklanma' fikrini daha ileriye taşıyan temel sosyolojik kavram nedir?",
+    "ground_truth": "\"En uygun olanın hayatta kalması\" (survival of the fittest) kavramıdır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Ekonomik ve Sosyal Düşünce Sistemlerinde Sosyal Politika"
+  },
+  {
+    "question": "Refah devleti (Keynesyen yaklaşım) modelinin zayıflamasıyla birlikte, 1970'li yılların sonlarında ve 1980'lerde ortaya çıkan, piyasa özgürlüklerini ve refah bütçelerinde kısıtlamaları savunan ekonomik akım hangisidir?",
+    "ground_truth": "Neo-Liberalizm (Yeni Liberalizm) akımıdır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Ekonomik ve Sosyal Düşünce Sistemlerinde Sosyal Politika"
+  },
+  {
+    "question": "Joseph Rowntree'nin yoksulluk sınıflandırmasına göre \"birincil yoksulluk\" ile \"ikincil yoksulluk\" arasındaki fark nedir?",
+    "ground_truth": "Birincil yoksullukta ailelerin toplam kazançları fiziksel yeterliliği sürdürmek için yetersizdir. İkincil yoksullukta ise kazanılan para fiziksel yeterliliği devam ettirmede yeterli olup, diğer harcamalar için yetersizdir.",
+    "source_file": "SOS19.md",
+    "source_section": "## Yoksulluk Kavramına Genel Bir Bakış"
+  },
+  {
+    "question": "Amartya Sen (2005) yoksulluğu geniş bir bakış açısıyla incelerken sosyal dışlanmayı hangi kavramla ilişkilendirmiştir?",
+    "ground_truth": "\"Yapabilirlik yoksunluğu\" (capability deprivation) kavramıyla ilişkilendirmiştir.",
+    "source_file": "SOS19.md",
+    "source_section": "## Sosyal Dışlanma ve Yoksulluk"
+  },
+  {
+    "question": "Oscar Lewis tarafından geliştirilen ve yoksulların kuşaktan kuşağa aktarılan kısır döngü bir yaşam biçimine sahip olduğunu savunan yaklaşımın adı nedir?",
+    "ground_truth": "Yoksulluk kültürü (culture of poverty) yaklaşımıdır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Yoksulluk Kültürü"
+  },
+  {
+    "question": "Küreselleşme ve esnekleşme politikalarıyla birlikte, istihdam yapılarının çözülmesi sonucu ortaya çıkan ve önceleri yoksul olarak nitelenemeyecek orta-düşük gelirli kesimlerin yoksullaşmasını ifade eden kavram hangisidir?",
+    "ground_truth": "Yeni yoksulluk (new poverty) kavramıdır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Kent Yoksulluğundan Yeni Kent Yoksulluğuna"
+  },
+  {
+    "question": "Bostanoğlu (2002) ve Özbudun (2002) gibi yazarlara göre, yeni yoksulluğun dünyada belirli toplumsal grupları vuran üç temel niteliği (eğilimi) nedir?",
+    "ground_truth": "Yeni yoksulluğun \"etnikleşmesi\", \"gençleşmesi\" ve \"kadınlaşması\"dır.",
+    "source_file": "SOS19.md",
+    "source_section": "## Yoksulluk Tartışmaları ve Kent Yoksulluğu"
+  },
+  {
+    "question": "Türk Cumhuriyetleri'nde üniversite gençliğinin aile ve evlilik kurumuna ilişkin değer ve tutumlarını belirleyen bu ampirik çalışmanın örneklemi hangi ülkeleri/cumhuriyetleri kapsamaktadır?",
+    "ground_truth": "Azerbaycan, Kırgızistan, Kazakistan, Türkiye, Özbekistan ve Rusya Federasyonu'na bağlı Başkurdistan Cumhuriyeti'ni kapsamaktadır.",
+    "source_file": "SOS20.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Bu çalışmada eş seçiminde tarafların benzerliklerinin ve bu benzerliklerin miktarının evlilik uyumunda karar verici olduğunu savunan kuram hangisidir?",
+    "ground_truth": "Homogami (benzerlik) kuramıdır.",
+    "source_file": "SOS20.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Eş seçiminde homogami kuramının geliştirilmesinde katkısı olan üç temel psikolojik/bilişsel kuram ve kuramcıları nelerdir?",
+    "ground_truth": "Heider'in denge kuramı, Newcomb'un bilişsel uyum kuramı ve Byrne'ın pekiştirme kuramıdır.",
+    "source_file": "SOS20.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Kırgız ailesini mukayeseli bir şekilde ele alan, kadının aile içindeki konumuna odaklanan ve \"Semya\" (Aile) adlı çalışması bulunan araştırmacı kimdir?",
+    "ground_truth": "Rahat Açılova'dır.",
+    "source_file": "SOS20.md",
+    "source_section": "## Konuyla İlgili Yapılmış Çalışmalar"
+  },
+  {
+    "question": "Kazakistan'da 2007 yılında UNFPA adına yapılan \"Modern Kazak Ailesinin Sosyal Gelişimi\" adlı araştırmaya destek veren ve Kazakistan Cumhuriyeti Başkanlığı'na bağlı olan ulusal komisyonun adı nedir?",
+    "ground_truth": "Aile ve Kadın Ulusal Komisyonu'dur.",
+    "source_file": "SOS20.md",
+    "source_section": "## Konuyla İlgili Yapılmış Çalışmalar"
+  },
+  {
+    "question": "Azerbaycan'da aileyle ilgili faaliyetleri doğrudan denetlemek ve devlet politikasını uygulamak amacıyla 6 Şubat 2006 tarihinde cumhurbaşkanı kararıyla oluşturulan kurul/komitenin adı nedir?",
+    "ground_truth": "Aile, Kadın ve Çocuk İşleri Devlet Komitesi (Ailə, Qadın və Uşaq Problemləri Dövlət Komitəsi)'dir.",
+    "source_file": "SOS20.md",
+    "source_section": "## Konuyla İlgili Yapılmış Çalışmalar"
+  },
+  {
+    "question": "Özbekistan'da \"Sağlıklı aile - sağlıklı toplum\" fikrinin uygulanmasına bilimsel-metodolojik ve bilgi-analitik destek sağlamak amacıyla 10 Haziran 2020 tarihli kararla kurulan araştırma enstitüsü hangisidir?",
+    "ground_truth": "\"Mahalla va Oila\" (Mahalle ve Aile) Araştırma Enstitüsü'dir.",
+    "source_file": "SOS20.md",
+    "source_section": "## Konuyla İlgili Yapılmış Çalışmalar"
+  },
+  {
+    "question": "Grafik 1'deki verilere göre, Türk Cumhuriyetleri arasında hem kadınlar hem de erkekler için en düşük ve en yüksek ideal evlilik yaşının belirlendiği ülkeler sırasıyla hangileridir?",
+    "ground_truth": "En düşük ideal evlilik yaşı Özbekistan'da (kadın: 22,08; erkek: 24,88), en yüksek ideal evlilik yaşı ise Türkiye'dedir (kadın: 25,96; erkek: 27,98).",
+    "source_file": "SOS20.md",
+    "source_section": "## İdeal Evlilik Yaşına İlişkin Düşünceler"
+  },
+  {
+    "question": "Türk halkları arasında aile kurumunun devlet oluşumunun merkezinde yer aldığını gösteren ve \"Aile küçük bir devlettir\" anlamına gelen Özbekçe ve Kazakça atasözleri/söylemleri nasıldır?",
+    "ground_truth": "Özbekçe: \"Oila bu - kichik davlat\", Kazakça: \"Otbası şağın memleket\".",
+    "source_file": "SOS20.md",
+    "source_section": "## Aileye Atfedilen Değer"
+  },
+  {
+    "question": "Altı Türk Cumhuriyetleri arasında, ailenin kesin olarak karşı çıktığı biriyle evlenmeye en yüksek oranda (\"Hayır, evlenmem\" diyenlerin oranı %92,90) karşı olan üniversite gençliği hangi ülkededir?",
+    "ground_truth": "Özbekistan'dadır.",
+    "source_file": "SOS20.md",
+    "source_section": "## Eş Seçiminde Aile Onayına İlişkin Düşünceler"
+  },
+  {
+    "question": "Bu literatür çalışmasında iletişim yönelimli sosyal medya araştırmalarının analizinde atıf sayısı yüksek kaç makale hangi yöntemle ve hangi kataloğa göre incelenmiştir?",
+    "ground_truth": "Web of Science (WoS) kataloğunda taranan dergilerde 2011-2020 arasında yayınlanmış, atıf sayısı yüksek iletişim yönelimli 120 makale niteliksel içerik analiz tekniği kullanılarak incelenmiştir.",
+    "source_file": "SOS21.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Bu çalışmada makalelerin sosyal medya araştırmalarındaki eğilimlerini açığa çıkarmak üzere kodlandığı altı ana başlık (kodlama başlığı) nelerdir?",
+    "ground_truth": "(i) incelenen araştırma konusu, (ii) kullanılan kuramsal çerçeve/model, (iii) odaklanılan örneklem/analiz birimi, (iv) benimsenen yöntem, (v) kullanılan sosyal medya platformu ve (vi) araştırma uzamıdır.",
+    "source_file": "SOS21.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "İletişim araştırmalarının tarihsel gelişimini üç döneme ayıran Lowery ve De Fleur (1988) ile Scannell (2007) gibi yazarlara göre 1920'lerde başlayıp 1940'ların başlarına kadar uzanan ilk dönemin genel özellikleri nelerdir?",
+    "ground_truth": "Kitle iletişiminin toplumsal ilişkiler ekseninde etkilerinin görünür hale geldiği bu dönemde; anaakım iletişimciler kapitalist sistemin ihtiyaçları doğrultusunda iletişimi etkili bir araç olarak kullanmanın yollarını araştırırken, eleştirel iletişimciler ise sistem eleştirisi üzerinden mevcut güç-iktidar ilişkilerini değiştirme arayışında olmuşlardır.",
+    "source_file": "SOS21.md",
+    "source_section": "## Giriş: Dünden bugüne iletişim araştırmaları"
+  },
+  {
+    "question": "Kim ve arkadaşları (2017) tarafından yapılan 131 makalelik literatür incelemesine göre, mobil iletişim araştırmaları hangi iki ana grupta toplanmaktadır?",
+    "ground_truth": "İlk grup mobil telefonları yeni bir medya formu olarak görerek Internet kullanımı ve gündelik yaşama etkilerini inceler; ikinci grup ise mobil teknolojilerin yayılması ile toplum üzerindeki etkileri arasındaki ilişkiyi sorgular.",
+    "source_file": "SOS21.md",
+    "source_section": "## Giriş: Dünden bugüne iletişim araştırmaları"
+  },
+  {
+    "question": "Sosyal medya araştırmalarını mobil iletişim araştırmalarından ayıran en belirgin ve önemli husus nedir?",
+    "ground_truth": "Araçların yanı sıra başta Internet olmak üzere sayısal ağ ortamlarında hemen her düzeyde karşılıklı etkileşime dair toplanan ve durmadan artmakta olan büyük veri yığınına (big data) odaklanmasıdır.",
+    "source_file": "SOS21.md",
+    "source_section": "## Giriş: Dünden bugüne iletişim araştırmaları"
+  },
+  {
+    "question": "Bu literatür çalışmasında incelenen 120 makalenin konu dağılımına göre, en çok ele alınan ilk üç konu başlığı sırasıyla hangileridir?",
+    "ground_truth": "Sırasıyla Katılım ve Etkileşim (%22,50), Gazetecilik (%20,83) ve Siyasal iletişim (%17,50)'dir.",
+    "source_file": "SOS21.md",
+    "source_section": "## Öncelikli konu başlıkları"
+  },
+  {
+    "question": "Sosyal medya araştırmalarında makalelerin yarısından fazlasında (%54,17) kuramsal bir çerçeve kullanılmazken, kullanılanlar arasında en sık tercih edilen kuram ve görece en fazla kullanılan model hangileridir?",
+    "ground_truth": "En sık kullanılan kuram Eşik Bekçiliği Kuramı (%4,88), en sık kullanılan model ise Bennett ve Segerberg tarafından geliştirilen Bağlantılı-Ortak Eylem Modeli (%2,44)'dir.",
+    "source_file": "SOS21.md",
+    "source_section": "## Kuram/model kullanımı"
+  },
+  {
+    "question": "Çalışmada incelenen makalelerin örneklem/analiz birimi kodlamasında yer alan \"insan yönelimli\" ve \"insan-dışı yönelimli\" çalışmalar en çok hangi veri toplama/analiz tekniklerini kullanmışlardır?",
+    "ground_truth": "İnsan yönelimli çalışmalar en çok anket tekniğini, insan-dışı yönelimli çalışmalar ise en çok sosyal medya (sayısal veri toplama) tekniğini kullanmışlardır.",
+    "source_file": "SOS21.md",
+    "source_section": "## Örneklem/analiz birimi kullanımı"
+  },
+  {
+    "question": "Bu literatür taraması kapsamında incelenen makalelerde en fazla analiz edilen ve öne çıkan ilk üç sosyal medya platformu hangileridir?",
+    "ground_truth": "Twitter, Facebook ve Instagram platformlarıdır.",
+    "source_file": "SOS21.md",
+    "source_section": "## Giriş: Dünden bugüne iletişim araştırmaları"
+  },
+  {
+    "question": "Sosyal medya konulu makalelerin analizinde nicel yöntem kapsamında en sık kullanılan analiz tekniği hangisidir?",
+    "ground_truth": "İstatistiksel analiz (%33,99) tekniğidir.",
+    "source_file": "SOS21.md",
+    "source_section": "## Araştırma yöntemleri kullanımı"
+  },
+  {
+    "question": "Bu çalışmada alanyazındaki sosyal medya ve sosyal ağ kavram karmaşasını gidermek amacıyla nitel araştırma yöntemlerinden hangi teknik tercih edilmiştir?",
+    "ground_truth": "Kavram analizi tekniği tercih edilmiştir.",
+    "source_file": "SOS22.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "Ellison ve Boyd'a (2008) göre, profil, dijital içeriğe erişim ve koruma gibi özellikler açısından sosyal medya ile sosyal ağ arasındaki temel fark ve ilişki nasıl açıklanmıştır?",
+    "ground_truth": "Bu kavramların aynı kavramlar olmadığı ve birbiri yerine kullanılamayacağı belirtilmiştir.",
+    "source_file": "SOS22.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Calender'in (2021) teknolojik gelişmelere bağlı olarak sosyal medyanın açıklanmasında uygun olacağını belirttiği dört temel unsur (platform vb.) nelerdir?",
+    "ground_truth": "Platform, Kullanıcı, Gönderi ve İçeriktir.",
+    "source_file": "SOS22.md",
+    "source_section": "## 2. Sosyal Medya: Tanımı, Gelişimi, Özellikleri"
+  },
+  {
+    "question": "Walker ve Avant'a (2019) göre kavram analizinin içermesi gereken ilk üç aşama sırasıyla nelerdir?",
+    "ground_truth": "1. Kavramın alanyazındaki ihtiyaçlar doğrultusunda seçilmesi, 2. Kavram analizinin amacının belirlenmesi, 3. Kavramın tanımlarının incelenmesidir.",
+    "source_file": "SOS22.md",
+    "source_section": "## 1.3. Araştırmanın Yöntemi"
+  },
+  {
+    "question": "Tim O'reilly tarafından geliştirilen ve çift yönlü iletişim, üretim, paylaşım ve tüketime izin vererek sosyal medyanın türlerinin başlangıç noktası kabul edilen web sürümü hangisidir?",
+    "ground_truth": "Web 2.0'dır.",
+    "source_file": "SOS22.md",
+    "source_section": "## 2. Sosyal Medya: Tanımı, Gelişimi, Özellikleri"
+  },
+  {
+    "question": "Mayfield'in (2008) açıkladığı sosyal medyanın beş temel özelliği (katılım vb.) nelerdir?",
+    "ground_truth": "Katılım, Açıklık, Konuşma, Topluluk ve Bağlanabilmedir.",
+    "source_file": "SOS22.md",
+    "source_section": "## 2. Sosyal Medya: Tanımı, Gelişimi, Özellikleri"
+  },
+  {
+    "question": "Acar'ın (2024b) ağ kavramını tanımlarken belirttiği üzere, ağ sadece insanlar arasındaki etkileşimi değil, evrendeki hangi unsurlar arasındaki iletişim ve birlikteliği de karşılar?",
+    "ground_truth": "Evrende bulunan tüm organizma, madde ve nesne arasındaki iletişimi karşılar.",
+    "source_file": "SOS22.md",
+    "source_section": "## 3. Sosyal Ağlar ve Sosyal Medyadan Farkları"
+  },
+  {
+    "question": "Boyd ve Ellison'ın (2018) sosyal ağın önemli bir bileşeni olarak tanımladıkları ve kullanıcının kendi kişisel isteklerine göre bir yöneticinin yönlendirmesi olmadan sosyal ağları kullanmasını ifade eden kavram hangisidir?",
+    "ground_truth": "Benmerkezciliktir.",
+    "source_file": "SOS22.md",
+    "source_section": "## 3. Sosyal Ağlar ve Sosyal Medyadan Farkları"
+  },
+  {
+    "question": "Sanal ortama sunulan ve kendine ait ağ toplumu özelliklerini barındırdığı için alanyazında ilk sosyal ağ sitesi olarak kabul edilen platform hangisidir?",
+    "ground_truth": "SixDegrees.com'dur.",
+    "source_file": "SOS22.md",
+    "source_section": "## 3. Sosyal Ağlar ve Sosyal Medyadan Farkları"
+  },
+  {
+    "question": "Bu araştırmada, sosyal medyanın temel olarak hangi web sürümü üzerine, sosyal ağın ise hangi web sürümü üzerine kurulduğu savı ileri sürülmüştür?",
+    "ground_truth": "Sosyal medyanın web 1.0 üzerine, sosyal ağın ise web 2.0 üzerine kurulduğu savı ileri sürülmüştür.",
+    "source_file": "SOS22.md",
+    "source_section": "## Sonuç Yerine: Tartışma ve Öneriler"
+  },
+  {
+    "question": "Bu çalışmada devlet, sınır ve medya ilişkisini analiz etmek amacıyla başvurulan iki temel medya kuramı hangileridir?",
+    "ground_truth": "Toplumsal sorumluluk kuramı ile otoriter medya kuramıdır.",
+    "source_file": "SOS23.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Bu araştırmada, Türkiye'de sınırların medya metinlerinde ele alınış biçimlerini incelemek üzere 1 Ocak 2020 - 31 Aralık 2022 tarihleri arasında hangi dijital haber platformları örneklem olarak seçilmiştir?",
+    "ground_truth": "Milliyet, Hürriyet, Star, Anadolu Ajansı, NTV, CNN Türk ve TRT Haber'in dijital medya haber portallarıdır.",
+    "source_file": "SOS23.md",
+    "source_section": "## 2. Çalışmanın Yöntemi ve Kuramsal Temelleri"
+  },
+  {
+    "question": "Thompson'a göre, medyanın bireyler üzerinde ortak bir tarih hissettirerek çeşitli grup ve cemaatlere yönelik hangi duyguyu geliştirmesinde önemli bir işlevi vardır?",
+    "ground_truth": "Aidiyet duygusudur.",
+    "source_file": "SOS23.md",
+    "source_section": "## 1. Medya ve Sınırlar"
+  },
+  {
+    "question": "Bu çalışmada, dijital medya haberlerinde sınır kavramını incelemek için nitel araştırma yöntemi kapsamında tercih edilen ve öğelerin frekansından ziyade öğeler arasındaki ilişkileri saptamayı amaçlayan içerik analizi tekniği hangisidir?",
+    "ground_truth": "İlişki analizi tekniğidir.",
+    "source_file": "SOS23.md",
+    "source_section": "## 2. Çalışmanın Yöntemi ve Kuramsal Temelleri"
+  },
+  {
+    "question": "Kaçakçılık ve Organize Suçlarla Mücadele Dairesi Başkanlığı'na (KOM, 2022) göre gümrük kaçakçılığı suçlarının en yaygın işleniş biçimleri nelerdir?",
+    "ground_truth": "Sınır ihlalleri, gümrük birimlerine beyan etmeden gizlice ülkeye ürün sokma, ihracı yasak bir ürünü yurtdışına çıkartma, ithalat ve ihracat süreçlerinde usulsüzlük ve yanıltıcı işlemler gerçekleştirmektir.",
+    "source_file": "SOS23.md",
+    "source_section": "## 3. Düzensiz Göç, Kaçakçılık ve Terörle Mücadelenin Bir Aracı Olarak Sınırlar"
+  },
+  {
+    "question": "Türkiye'nin yakın dönemde Suriye'de güvenli bölge oluşturmak amacıyla gerçekleştirdiği Fırat Kalkanı Operasyonu'nun Oytun Orhan (2016) tarafından belirtilen hedeflerinden ilk ikisi nedir?",
+    "ground_truth": "1. YPG'nin Kuzey Suriye'de kontrol ettiği bölgeleri birleştirerek fiili olarak özerk bir bölge oluşturmasını engellemek, 2. DEAŞ'ı sınır bölgesinden uzaklaştırarak Türkiye içinde terör eylemi ve sınır illerini vurma imkanını ortadan kaldırmak/sınırlandırmaktır.",
+    "source_file": "SOS23.md",
+    "source_section": "## 3. Düzensiz Göç, Kaçakçılık ve Terörle Mücadelenin Bir Aracı Olarak Sınırlar"
+  },
+  {
+    "question": "Milli Güvenlik Kurulu'nda Türkiye'nin askeri karşılık açısından kırmızı çizgisi olarak ilan edilen ve Suriye sınırında yer alan nehir/hat hangisidir?",
+    "ground_truth": "Fırat Nehri'nin batısıdır.",
+    "source_file": "SOS23.md",
+    "source_section": "## 3. Düzensiz Göç, Kaçakçılık ve Terörle Mücadelenin Bir Aracı Olarak Sınırlar"
+  },
+  {
+    "question": "Adem Ünüvar'a göre, modern ulus-devletlerin sınır bölgelerinde devletler arasında gerilim ve sınır çatışmalarına yol açan sınır anlaşmazlıklarının temel nedenleri nelerdir?",
+    "ground_truth": "Modern ulus-devletlerin yapısı ve gelişim süreci, savaşlar, Soğuk Savaş dönemi ve sonu, sınırın diğer tarafında kalan etnik aidiyet bağı ve tarihi misyon gibi nedenlerdir.",
+    "source_file": "SOS23.md",
+    "source_section": "## 4. Anlaşmazlıkların, Gerilimlerin ve Çatışmaların Kaynağı Olarak Sınırlar"
+  },
+  {
+    "question": "Kırgızistan ile Tacikistan sınırında Eylül 2022'de meydana gelen sınır çatışmalarında Kırgız ve Tacik tarafında hayatını kaybedenlerin sayısı sırasıyla kaçtır?",
+    "ground_truth": "59 Kırgız vatandaşı ile 35 Tacik askeridir.",
+    "source_file": "SOS23.md",
+    "source_section": "## 4. Anlaşmazlıkların, Gerilimlerin ve Çatışmaların Kaynağı Olarak Sınırlar"
+  },
+  {
+    "question": "Türkiye-Yunanistan sınırında yaşanan anlaşmazlık ve gerilimlerin, sadece bu iki ülke arasında kalmayıp küresel bir boyut kazanmasının nedeni sınırın aynı zamanda hangi ulusüstü yapının sınırını temsil etmesidir?",
+    "ground_truth": "Avrupa Birliği (AB) sınırlarını temsil etmesidir.",
+    "source_file": "SOS23.md",
+    "source_section": "## 4. Anlaşmazlıkların, Gerilimlerin ve Çatışmaların Kaynağı Olarak Sınırlar"
+  },
+  {
+    "question": "Bu çalışmada dijital kimlik konulu haberlerin analizinde kimin geliştirdiği eleştirel söylem çözümlemesi (makro ve mikro yapılar analizi) yönteminden yararlanılmıştır?",
+    "ground_truth": "Teun Van Dijk'in (veya Teun A. van Dijk) geliştirdiği yöntemden yararlanılmıştır.",
+    "source_file": "SOS24.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "Bauman'ın \"akışkan modernite\" yaklaşımına atıfta bulunulan bu çalışmada, tüm toplumsal değişimlerle birlikte teknolojinin rolü nasıl tanımlanmıştır?",
+    "ground_truth": "Teknolojinin değişimin aracı, medyası ve yansıması olduğu belirtilmiştir.",
+    "source_file": "SOS24.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "SimilarWeb araştırmasına göre Türkiye'de en çok ziyaret edilen ve bu çalışmanın örneklemini oluşturan ilk üç haber sitesi hangileridir?",
+    "ground_truth": "Hürriyet, Milliyet ve Sabah'tır.",
+    "source_file": "SOS24.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "Sadiku, Shadare ve Musa'ya (2016) göre dijital kimlik kavramı bilgisayar ağları tarafından kullanılan hangi kullanıcı bilgilerini sunar?",
+    "ground_truth": "Kullanıcı adı, şifreler, doğum tarihi gibi bilgileri sunar.",
+    "source_file": "SOS24.md",
+    "source_section": "## 2. Dijital Kimlik"
+  },
+  {
+    "question": "Arner vd. (2018) tarafından geliştirilen Kimlik Tipolojisi'nde kimlikler statik ve dinamik olarak ayrıldıktan sonra hangi dört ana başlık (form ve durum) altında ele alınmıştır?",
+    "ground_truth": "Yasal, fiziksel, elektronik ve davranışsal kimliktir.",
+    "source_file": "SOS24.md",
+    "source_section": "## 2. Dijital Kimlik"
+  },
+  {
+    "question": "Van Dijk'in eleştirel söylem analizinde makro seviyede tematik yapılar incelenirken, mikro seviyede hangi yapılar ele alınır?",
+    "ground_truth": "Sözcük yapıları ve dil seçimleri incelenir.",
+    "source_file": "SOS24.md",
+    "source_section": "## 3. Eleştirel Söylem Analizi"
+  },
+  {
+    "question": "Van Dijk'e göre haber metnindeki enformasyonun büyük kısmının açıkça değinilmeden, üstü kapalı ifade edilmesini açıklayan en önemli anlambilimsel kavram hangisidir?",
+    "ground_truth": "İma (implication) kavramıdır.",
+    "source_file": "SOS24.md",
+    "source_section": "## 3. Eleştirel Söylem Analizi"
+  },
+  {
+    "question": "Dijital kimlik konulu haber başlıklarından biri olan \"Anne kızlık soyadı tarihe karışıyor\" başlığının üst yapı şeması çerçevesinde yarattığı güvenlik kaygısı (bağlamı) nedir?",
+    "ground_truth": "Bu bilginin online/dijital teknolojilerin gelişmesiyle bireyin dijital kimliğine ulaşıldığı an rahatlıkla elde edilebildiği ve bu yüzden güvenlik açığı uyandırdığıdır.",
+    "source_file": "SOS24.md",
+    "source_section": "## 4.1. Makro Yapılar"
+  },
+  {
+    "question": "Bu çalışmanın bulgularına göre, incelenen haber sitelerinde 5N1K kurallarından hangi sorunun detaylı olarak açıklanmadığı (ardalan ve bağlam bilgisinin eksik olduğu) gözlenmiştir?",
+    "ground_truth": "\"Niçin\" sorusunun cevabıdır.",
+    "source_file": "SOS24.md",
+    "source_section": "## 4.1. Makro Yapılar"
+  },
+  {
+    "question": "Aristoteles'in Retorik üçgeni içerisindeki logos (mantık) boyutuyla ilişkili olan ve haberlerde inandırıcılığı güçlendirmek için kullanılan retorik ve ikna stratejisi hangisidir?",
+    "ground_truth": "Sayısal ifadelerin (veya istatistiksel verilerin/yüzdelerin) kullanılmasıdır.",
+    "source_file": "SOS24.md",
+    "source_section": "## 4.2. Mikro Yapılar"
+  },
+  {
+    "question": "Bu çalışmada çocuk haberlerinin internet medyasında ele alınış biçimini, kategorilerini ve etik ihlallerini incelemek amacıyla hangi bilimsel araştırma yöntemi kullanılmıştır?",
+    "ground_truth": "İçerik analizi yöntemi kullanılmıştır.",
+    "source_file": "SOS25.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "İnternet gazeteciliğinde çocuk istismarı haberlerinin yapılmasıyla ilgili olarak Nazlı (2019) tarafından yapılan etik uyarı (risk) nedir?",
+    "ground_truth": "Bu tür haberlerin yapılması gazetecilik etiğine aykırı olmasının yanı sıra, yeniden istismara zemin hazırlayabilir.",
+    "source_file": "SOS25.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "İtalyan medyasında mülteci çocuk ve ergenlerin temsilini Oxfam, UNICEF ve MSF gibi kuruluşların iletişim sorumlularıyla görüşerek analiz eden yabancı araştırmacı kimdir?",
+    "ground_truth": "Bas'tır (Baú).",
+    "source_file": "SOS25.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Bu araştırmanın çocuk haberlerini analiz etmek üzere belirlediği dört temel inceleme kategorisi sırasıyla nelerdir?",
+    "ground_truth": "1. Çocukların en çok hangi haber kategorileri altında yer aldığı, 2. Ne tür olaylara konu oldukları, 3. Çocuklara yönelik kullanılan tanımlayıcı ifadeler/etiketler, 4. Çocukların kimlik ve kişisel bilgilerinin sunulma biçimidir.",
+    "source_file": "SOS25.md",
+    "source_section": "## 5. YÖNTEM"
+  },
+  {
+    "question": "Araştırmanın örneklemini oluşturmak amacıyla, Google News (news.google.com) platformu üzerinden erişilen ve en çok tıklanan kaç çocuk odaklı haber incelenmiştir?",
+    "ground_truth": "100 çocuk odaklı haber incelenmiştir.",
+    "source_file": "SOS25.md",
+    "source_section": "## 5. YÖNTEM"
+  },
+  {
+    "question": "Tablo 1'deki bulgulara göre, çocukların yer aldığı haber kategorileri arasında %65 ile en yüksek orana sahip olan ve çocukların kriminal bağlamda sunulduğunu gösteren kategori hangisidir?",
+    "ground_truth": "Polis-Adliye kategorisidir.",
+    "source_file": "SOS25.md",
+    "source_section": "## 6. BULGULAR VE YORUM"
+  },
+  {
+    "question": "Tablo 2'deki verilere göre, child/çocukların internet haberlerinde en fazla yer aldığı olay türü (durum) %22 ile hangisidir?",
+    "ground_truth": "İhmal vakaları (veya ihmal) dır.",
+    "source_file": "SOS25.md",
+    "source_section": "## 6. BULGULAR VE YORUM"
+  },
+  {
+    "question": "Araştırmada incelenen haberlerde çocuklara atfedilen etiketler (Tablo 3) arasında %17 ile en yaygın kullanılan etiket hangisidir?",
+    "ground_truth": "Mağdur çocuk etiketidir.",
+    "source_file": "SOS25.md",
+    "source_section": "## 6. BULGULAR VE YORUM"
+  },
+  {
+    "question": "Tablo 4'teki bulgulara göre, incelenen çocuk haberlerinin yüzde kaçında çocukların ad, fotoğraf gibi kişisel veri/bilgilerine yer verilmemiştir?",
+    "ground_truth": "%71'inde (71 haberde) kişisel verilere yer verilmemiştir.",
+    "source_file": "SOS25.md",
+    "source_section": "## 6. BULGULAR VE YORUM"
+  },
+  {
+    "question": "Bu çalışmada çocuk gelinler ve çocuk evlilikleri haberleriyle ilgili olarak Balta Peltekoğlu ve Akbayır (2019) tarafından dile getirilen eleştiri nedir?",
+    "ground_truth": "Yanlış kullanılan dil ve duyarsız sunum biçimleri nedeniyle bu içeriklerin etkisini yitirdiği ve toplumsal duyarlılığı zayıflattığıdır.",
+    "source_file": "SOS25.md",
+    "source_section": "## 4. ÇOCUKLARIN MEDYADA TEMSİLİ"
+  },
+  {
+    "question": "Bu çalışmada pandemi sürecinde üniversite öğrencilerinin sanal kimlik inşa süreçlerini ve yeni medya kullanım pratiklerini incelemek üzere hangi üniversiteden kaç son sınıf lisans öğrencisiyle anket çalışması yapılmıştır?",
+    "ground_truth": "Ege Üniversitesi'nden 384 son sınıf lisans öğrencisiyle yapılmıştır.",
+    "source_file": "SOS26.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Ege Üniversitesi'nde yürütülen bu anket çalışmasında, katılımcı öğrencilerin cinsiyet dağılımı yüzde kaçtır?",
+    "ground_truth": "%52,3'ü kadın, %47,7'si erkektir.",
+    "source_file": "SOS26.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Castells'e (2005) göre, bilgi ve iletişim teknolojileri tarafından işletilen, ağlar arası iletişime ve ağlara dayalı sosyal yapıyı ifade eden kavram hangisidir?",
+    "ground_truth": "Ağ toplumu (network society) dur.",
+    "source_file": "SOS26.md",
+    "source_section": "## Ağ Toplumu ve Medya Bağımlılığı"
+  },
+  {
+    "question": "Bu araştırmada öğrencilerin anket verileri hangi program aracılığıyla analiz edilmiştir?",
+    "ground_truth": "SPSS programı aracılığıyla analiz edilmiştir.",
+    "source_file": "SOS26.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Araştırmanın evren ve örneklem metodolojisinde 9650 öğrenci arasından 384 öğrencinin seçilmesinde hangi örnekleme yöntemi tercih edilmiştir?",
+    "ground_truth": "Tabakalı örnekleme yöntemi tercih edilmiştir.",
+    "source_file": "SOS26.md",
+    "source_section": "## Yöntem"
+  },
+  {
+    "question": "Tablo 1'e göre, araştırmaya katılan öğrencilerin gelir düzeyleri içinde %49,7 ile en yüksek paya sahip olan gelir aralığı hangisidir?",
+    "ground_truth": "400-1000 TL aralığıdır.",
+    "source_file": "SOS26.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Tablo 2'deki bulgulara göre, üniversite öğrencilerinin her gün kullandıkları yeni medya araçlarında %97,1 oranı ile ilk sırada yer alan uygulama hangisidir?",
+    "ground_truth": "WhatsApp'tır.",
+    "source_file": "SOS26.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Tablo 3'e göre, öğrencilerin yeni medya araçlarını kullanım amaçları arasında \"e-arkadaş edinmek ve arkadaşlıklarımı sürdürmek için\" en çok tercih ettikleri sosyal medya platformu hangisidir?",
+    "ground_truth": "Facebook (%75,3) tur.",
+    "source_file": "SOS26.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Tablo 4'teki kimlik kullanım durumlarına göre, öğrencilerin sahte kimlik bilgilerini (%89,6) en yoğun kullandıklarını beyan ettikleri medya ortamı hangisidir?",
+    "ground_truth": "Web TV'dir.",
+    "source_file": "SOS26.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Öğrencilerin geliri ile sosyal medyada profil değiştirme sıklığı arasındaki ilişki incelendiğinde, bu iki değişken arasında anlamlı bir ilişki bulunmuş mudur ve Cramer V katsayısı değeri kaçtır?",
+    "ground_truth": "Evet, istatistiksel olarak anlamlı bir ilişki bulunmuştur (p=0,047) ve Cramer V değeri 0,129'dur.",
+    "source_file": "SOS26.md",
+    "source_section": "## Bulgular"
+  },
+  {
+    "question": "Bu çalışmada Vega Hastanesi'nin kurumsal iletişim dilini ve Instagram paylaşımlarını analiz etmek amacıyla hangi söylem içerik analiz yöntemi tercih edilmiştir?",
+    "ground_truth": "Bardin'in Yıldız Falı yöntemi tercih edilmiştir.",
+    "source_file": "SOS27.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "Vega Hastanesi'nin Instagram sayfasındaki paylaşımları kapsayan araştırmanın veri seti hangi tarih aralığındaki kaç paylaşım gönderisinden oluşmaktadır?",
+    "ground_truth": "11 Ağustos 2021 - 06 Kasım 2021 tarih aralığındaki 100 Instagram paylaşım gönderisinden oluşmaktadır.",
+    "source_file": "SOS27.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "Söylem kavramının sosyal hayatta meydana gelişini; söylemdeki toplumsal faaliyet, toplumsal alandaki temsiller ve kimliklerin var oluş şekli olmak üzere üç başlıkta açıklayan kuramcı kimdir?",
+    "ground_truth": "Fairclough'dur.",
+    "source_file": "SOS27.md",
+    "source_section": "## 3.1 Söylem"
+  },
+  {
+    "question": "Araştırmacının Google Akademik üzerinden 'söylem analizi ve sosyal medya' anahtar kelimeleriyle yaptığı taramada, 2000-2022 yılları arasında kaç çalışmaya ulaşılmıştır?",
+    "ground_truth": "2890 adet çalışmaya ulaşılmıştır.",
+    "source_file": "SOS27.md",
+    "source_section": "## 2. Literatür Taraması"
+  },
+  {
+    "question": "Söylem içerik analizi tekniklerinden Yıldız Falı yöntemi uygulanırken söylem analizi hangi iki değişkenin oranlanmasıyla (O/V) gerçekleştirilir?",
+    "ground_truth": "Terim sayısının (O) terim çeşitliliğine (V) oranlanmasıyla gerçekleştirilir.",
+    "source_file": "SOS27.md",
+    "source_section": "## 4.1.2. Yıldız Falı"
+  },
+  {
+    "question": "Tablo 3'teki verilere göre, Vega Hastanesi'nin Instagram paylaşımlarında en yüksek kullanım sıklığına (28 kez) sahip iki tema hangileridir?",
+    "ground_truth": "Önemli Günlerin Kutlanması ile Tanı/Teşhis temalarıdır.",
+    "source_file": "SOS27.md",
+    "source_section": "## 5. Bulgular"
+  },
+  {
+    "question": "Tablo 4'e göre, Instagram sayfasında incelenen 100 konunun hitap ettiği cinsiyet/grup dağılımında en yüksek pay hangi gruba aittir ve adeti kaçtır?",
+    "ground_truth": "Kadın grubuna aittir ve adeti 39'dur.",
+    "source_file": "SOS27.md",
+    "source_section": "## 5. Bulgular"
+  },
+  {
+    "question": "Tablo 5'e göre, Vega Hastanesi'nin paylaşımları arasında hedef kitle tarafından en çok beğeni alan (208 beğeni) gönderi başlığı hangisidir?",
+    "ground_truth": "Çalışan doktorun vefat paylaşımıdır.",
+    "source_file": "SOS27.md",
+    "source_section": "## 5. Bulgular"
+  },
+  {
+    "question": "Tablo 8'deki dil zenginliği analizi bulgularına göre, paylaşım metinlerinde kullanılan toplam 2433 sözcüğün kaçı farklı (terim çeşidi) sözcüklerden oluşmaktadır?",
+    "ground_truth": "1785 farklı sözcükten oluşmaktadır.",
+    "source_file": "SOS27.md",
+    "source_section": "## 5. Bulgular"
+  },
+  {
+    "question": "Tablo 9'a göre, Vega Hastanesi'nin Instagram paylaşımlarında kullanılan fiiller içerisinde en yüksek frekansa (18) sahip olan fiil hangisidir?",
+    "ground_truth": "Olsun fiilidir.",
+    "source_file": "SOS27.md",
+    "source_section": "## 5. Bulgular"
+  },
+  {
+    "question": "Bu araştırma makalesi, yazarın Prof. Dr. Nilüfer Sezer danışmanlığında 2020 yılında hangi üniversitede savunduğu yüksek lisans tezinden türetilmiştir?",
+    "ground_truth": "İstanbul Üniversitesi'nde (Sosyal Bilimler Enstitüsü) savunduğu yüksek lisans tezinden türetilmiştir.",
+    "source_file": "SOS28.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "1969 yılında ABD Savunma Bakanlığı bünyesindeki DARPA tarafından askeri istihbaratı sağlamak amacıyla kurulan ilk internet ağı hangisidir?",
+    "ground_truth": "ARPANET'tir.",
+    "source_file": "SOS28.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "O'Really Media'nın 2004 yılında kullanıma sunduğu, internet kullanıcılarının hem üretici hem tüketici olabildikleri iki yönlü etkileşimli döneme verilen ad nedir?",
+    "ground_truth": "Web 2.0'dır.",
+    "source_file": "SOS28.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Sosyal medyada statünün oluşumu, algıların şekillenmesi ve kişisel markalaşma/mikro-ünlü olma süreçlerinin temelini oluşturan ekonomi kavramı hangisidir?",
+    "ground_truth": "Dikkat ekonomisi (attention economy) dir.",
+    "source_file": "SOS28.md",
+    "source_section": "## YENİ BİR SINIFLANDIRMA ÇALIŞMASI OLARAK SOSYAL MEDYA FENOMENLERİNİN PAYLAŞIMDA BULUNDUKLARI İÇERİK TÜRLERİNE GÖRE SINIFLANDIRILMASI: YOUTUBE ÖRNEĞİ"
+  },
+  {
+    "question": "Sosyal medya fenomenleri niceliksel değerlerine göre takipçi sayısı kriteriyle yapılan sınıflandırmada hangi iki ana gruba ayrılır?",
+    "ground_truth": "Mikro sosyal medya fenomenleri ve makro sosyal medya fenomenleridir.",
+    "source_file": "SOS28.md",
+    "source_section": "## SOSYAL MEDYA FENOMENLERİNE YÖNELİK MEVCUT SINIFLANDIRMALAR"
+  },
+  {
+    "question": "YouTube'un 2005 yılında PayPal çalışanı üç ortak tarafından kurulduktan sonra, 2006'da Google tarafından satın alınırken kullandığı slogan nedir?",
+    "ground_truth": "\"Broadcast Yourself\" (Kendini Yayınla) sloganıdır.",
+    "source_file": "SOS28.md",
+    "source_section": "## SOSYAL MEDYA FENOMENLERİNE YÖNELİK MEVCUT SINIFLANDIRMALAR"
+  },
+  {
+    "question": "Bu araştırmada, YouTube Türkiye'deki YouTuber'ların paylaşımlarını incelemek üzere seçilen zaman aralığı (tarihleri) nedir?",
+    "ground_truth": "01.09.2018 - 31.08.2019 tarihleri arasındadır.",
+    "source_file": "SOS28.md",
+    "source_section": "## ARAŞTIRMA METODOLOJİSİ"
+  },
+  {
+    "question": "Tablo 1'deki verilere göre, YouTube Türkiye'de en çok takipçiye sahip YouTuber kimdir ve toplam takipçi sayısı kaçtır?",
+    "ground_truth": "Enes Batur'dur ve toplam takipçi sayısı 11.036.199'dur.",
+    "source_file": "SOS28.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Nitel bir araştırma olan bu çalışmada içerik analizi kapsamında hangi analiz tekniğinden yararlanılmıştır?",
+    "ground_truth": "Kategorisel analiz tekniğinden yararlanılmıştır.",
+    "source_file": "SOS28.md",
+    "source_section": "## ARAŞTIRMA METODOLOJİSİ"
+  },
+  {
+    "question": "YouTube Türkiye'de en çok takipçiye sahip ilk 20 YouTuber'ın son bir yıldaki paylaşımlarında, kategorisel analiz tanımlarına göre \"herhangi bir kimse, durum ya da olaya ilişkin mücadele veya rekabet\" barındıran içerikler hangi sınıfa girer?",
+    "ground_truth": "\"Challenge/Yarışma\" sınıfına girer.",
+    "source_file": "SOS28.md",
+    "source_section": "## BULGULAR"
+  },
+  {
+    "question": "Kamu politikalarının kurgulanmasında ve gündeme gelmesinde Cobb, Ross ve Ross (1976) tarafından geliştirilen hangi kuramsal model kullanılmıştır?",
+    "ground_truth": "Gündeme gelme modeli kullanılmıştır.",
+    "source_file": "SOS30.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Bu çalışmada kamu politikası kavramı, devlet ve diğer kamu tüzelkişileri tarafından toplumsal bir problem hakkında yapılan resmî açıklamalar olarak tanımlanırken hangi akademisyenin tarifi kullanılmıştır?",
+    "ground_truth": "Birkland'ın (2015) tarifi kullanılmıştır.",
+    "source_file": "SOS30.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "Tsebelis (1995, 1999, 2002) tarafından geliştirilen ve kamu politikalarının kabul edilmesi için mutlaka mutabakatı gereken bireysel ya da örgütsel aktörleri açıklayan kuramsal kavram nedir?",
+    "ground_truth": "Veto oyuncuları dır.",
+    "source_file": "SOS30.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "Türkiye'de Anayasa'nın 8. maddesinde yer alan hangi hüküm, kamu politikalarının uygulanmasında yasaların önemini göstermektedir?",
+    "ground_truth": "\"Yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından, Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir.\" hükmüdür.",
+    "source_file": "SOS30.md",
+    "source_section": "## 2. Türkiye'deki Kamu Politikası Oyuncuları"
+  },
+  {
+    "question": "Kingdon'a (1995) göre, kamu politikası sürecinde hangi oyuncular gündem belirlemede, hangi oyuncular ise politika seçeneklerinin belirlenmesinde etkindir?",
+    "ground_truth": "Görünen oyuncular gündem belirlemede, gizli oyuncular ise politika seçeneklerinin belirlenmesinde etkindir.",
+    "source_file": "SOS30.md",
+    "source_section": "## 2. Türkiye'deki Kamu Politikası Oyuncuları"
+  },
+  {
+    "question": "Cumhurbaşkanlığı Hükümet Sisteme geçildikten sonra 2022 yılında güncellenen ve bürokrasi tarafından kanun taslağının hazırlanma sürecini açıklayan yönetmelik hangisidir?",
+    "ground_truth": "Mevzuat Hazırlama Usul ve Esasları Hakkında Yönetmelik'tir.",
+    "source_file": "SOS30.md",
+    "source_section": "## 2.1.1. Yürütme Organı İçindeki Oyuncular"
+  },
+  {
+    "question": "Lipsky (2010) tarafından kavramsallaştırılan, sahada doğrudan vatandaşla temas halinde bulunarak kamu politikalarının fiiliyatta alacağı nihai biçimi belirleyen memurlar hangileridir?",
+    "ground_truth": "Ön büro memurları dır.",
+    "source_file": "SOS30.md",
+    "source_section": "## 2.1.1. Yürütme Organı İçindeki Oyuncular"
+  },
+  {
+    "question": "Türkiye'de 2017 anayasa değişikliği öncesinde Bakanlar Kurulu tarafından TBMM'ye sunulan kanun önerilerine ne ad verilirdi?",
+    "ground_truth": "Kanun tasarısı adı verilirdi.",
+    "source_file": "SOS30.md",
+    "source_section": "## 2.1.2. Yasama ve Yargı Organı İçindeki Oyuncular"
+  },
+  {
+    "question": "Tablo 1'deki verilere göre, Türkiye'de kanun koyma sürecindeki oyunculardan TBMM'nin siyasal gücü neden \"Düşük\" olarak değerlendirilmiştir?",
+    "ground_truth": "Parti disiplini sebebiyle düşük olarak değerlendirilmiştir.",
+    "source_file": "SOS30.md",
+    "source_section": "## 2.2. Devlet Dışı Oyuncular"
+  },
+  {
+    "question": "Cobb, Ross ve Ross (1976) tarafından geliştirilen gündeme gelme modellerinden hangisinde politikanın kaynağı bir kamu idaresi veya karar alıcılara yakın gruplardır ve halkın desteğini almaya gerek duyulmaz?",
+    "ground_truth": "Dâhili Erişim Modeli dir.",
+    "source_file": "SOS30.md",
+    "source_section": "## 3. Gündeme Gelme"
+  },
+  {
+    "question": "Bu çalışmada anlatılan, yerel yönetimlerde yeknesaklığı sağlamak ve belediyelere ucuz altyapı imkânı sunmak amacıyla hayata geçirilen sistem hangisidir?",
+    "ground_truth": "İçişleri Bakanlığı e-Belediye Bilgi Sistemi dir.",
+    "source_file": "SOS31.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "Kamu hizmetlerinin internet ortamına aktarılması sürecinde, devleti ilgilendiren işlemlerin elektronik ortama aktarılması ve bunun yerel ölçekteki uygulaması hangi iki kavramla tanımlanır?",
+    "ground_truth": "E-devlet ve e-belediye kavramlarıyla tanımlanır.",
+    "source_file": "SOS31.md",
+    "source_section": "## 1. GİRİŞ"
+  },
+  {
+    "question": "Tablo 1'deki verilere göre, e-devlet modelinde \"geleneksel devlet\" yapısındaki \"pasif vatandaş, idarenin talepleri\" anlayışının yerine hangi anlayış/aktör modeli geçer?",
+    "ground_truth": "\"Aktif vatandaş, müşteri, vatandaşın beklentileri\" anlayışı geçer.",
+    "source_file": "SOS31.md",
+    "source_section": "## 3. E-DEVLET KAVRAMI"
+  },
+  {
+    "question": "Türkiye'de e-devlet altyapı çalışmalarının ilk nüveleri olarak kabul edilen ve 1998 yılında Başbakanlık tarafından hayata geçirilen proje hangisidir?",
+    "ground_truth": "Türkiye Ulusal Enformasyon Altyapısı (TUENA) Projesi'dir.",
+    "source_file": "SOS31.md",
+    "source_section": "## 3. E-DEVLET KAVRAMI"
+  },
+  {
+    "question": "Birleşmiş Milletler tarafından hazırlanan 'e-Devlet Ölçümleme Raporu'na göre Türkiye, e-Devlet Gelişmişlik Endeksi'nde 2012 yılında 80. sıradayken 2018 yılında kaçıncı sıraya yükselmiştir?",
+    "ground_truth": "53. sıraya yükselmiştir.",
+    "source_file": "SOS31.md",
+    "source_section": "## 3. E-DEVLET KAVRAMI"
+  },
+  {
+    "question": "Türkiye'de 2001 yılında İçişleri Bakanlığı'nın önerisiyle TODAİE bünyesindeki YYAEM tarafından hazırlanan ve yerel yönetim verilerinin elektronik ortamda toplanmasını hedefleyen ilk e-belediye projesi hangisidir?",
+    "ground_truth": "Yerel Bilgi Projesi (YERELBİLGİ Projesi) dir.",
+    "source_file": "SOS31.md",
+    "source_section": "## 4. E-BELEDİYE KAVRAMI VE YEREL YÖNETİMLERDE E-BELEDİYE UYGULAMALARI"
+  },
+  {
+    "question": "5393 Sayılı Belediye Kanunu'nun hangi ek maddesi, belediyelerin her türlü idari iş ve işlemlerinde e-belediye bilgi sistemini kullanmasını ve bu konuda İçişleri Bakanlığı'nın yetkili olduğunu hükme bağlamıştır?",
+    "ground_truth": "Ek Madde 3'tür.",
+    "source_file": "SOS31.md",
+    "source_section": "## 5.   İÇİŞLERİ BAKANLIĞININ E-BELEDİYE BİLGİ SİSTEMİ 1"
+  },
+  {
+    "question": "E-Belediye Bilgi Sisteminde toplam 56 modülün aktif hale getirilmesi planlanırken, bu modüllerden kaç tanesinin Çevre ve Şehircilik Bakanlığı tarafından hazırlanması kararlaştırılmıştır?",
+    "ground_truth": "13 adet modülün hazırlanması kararlaştırılmıştır.",
+    "source_file": "SOS31.md",
+    "source_section": "## 5.   İÇİŞLERİ BAKANLIĞININ E-BELEDİYE BİLGİ SİSTEMİ 1"
+  },
+  {
+    "question": "E-Belediye Bilgi Sisteminde, belediyelerin bütçeden başlayarak kesin hesaba kadar tüm mali işlemlerinin elektronik ortamda hazırlandığı modül hangisidir?",
+    "ground_truth": "Analitik Muhasebe Modülü'dür.",
+    "source_file": "SOS31.md",
+    "source_section": "## 5.   İÇİŞLERİ BAKANLIĞININ E-BELEDİYE BİLGİ SİSTEMİ 1"
+  },
+  {
+    "question": "E-Belediye Bilgi Sistemi kapsamında belediyelerin kendi bütçelerinden yazılım lisansı ve donanım temin etmelerinin önüne geçilmesiyle yılda yaklaşık ne kadar kaynak tasarrufu hedeflenmektedir?",
+    "ground_truth": "Yaklaşık 2 milyar TL kaynak tasarrufu hedeflenmektedir.",
+    "source_file": "SOS31.md",
+    "source_section": "## 5.   İÇİŞLERİ BAKANLIĞININ E-BELEDİYE BİLGİ SİSTEMİ 1"
+  },
+  {
+    "question": "Bu çalışmada, büyükşehir belediyelerinin online uygulamaları hangi iki ana kavram çerçevesinde ve hangi yıllar karşılaştırılarak analiz edilmiştir?",
+    "ground_truth": "E-hizmet ve e-demokrasi kavramları çerçevesinde 2014 ve 2022 yılları karşılaştırılarak analiz edilmiştir.",
+    "source_file": "SOS32.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "1982 Anayasası'ndaki 'Büyük yerleşim merkezleri için özel yönetim biçimleri' hükmünün ardından büyükşehir belediyeleri hangi kanunla ve kaç yılında hukuki statü kazanmıştır?",
+    "ground_truth": "3030 sayılı Büyükşehir Belediye Kanunu ile 1984 yılında hukuki statü kazanmıştır.",
+    "source_file": "SOS32.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Moon (2002)'a göre, belediyelerin büyüklüğü ile e-belediye uygulamalarının gelişmişliği arasındaki ilişki dışında online hizmet sunumunda önemli olan diğer kapasite kriterleri nelerdir?",
+    "ground_truth": "Belediyelerin teknik, mali ve personel kapasitesidir.",
+    "source_file": "SOS32.md",
+    "source_section": "## Kamu Hizmetlerinin Online Sunumu ve E-Belediyecilik"
+  },
+  {
+    "question": "Kösecik ve Karkın (2004) tarafından belediye yöneticilerinin e-devlete yaklaşımını ele alan çalışmada, yöneticilerin bilgisayar okuryazarlığı konusundaki durumu ne şekilde tespit edilmiştir?",
+    "ground_truth": "Bilgisayar okuryazarlığı konusunda eksiklikleri olduğu tespit edilmiştir.",
+    "source_file": "SOS32.md",
+    "source_section": "## Literatür Taraması"
+  },
+  {
+    "question": "Güllüpunar (2012) tarafından Konya Büyükşehir Belediyesi'nin e-posta linkleri üzerinde yapılan araştırmada, vatandaşların gönderdiği e-postaların yüzde kaçını belediye hizmetlerine ilişkin geribildirimler oluşturmaktadır?",
+    "ground_truth": "%67'sini oluşturmaktadır.",
+    "source_file": "SOS32.md",
+    "source_section": "## Literatür Taraması"
+  },
+  {
+    "question": "5216 Sayılı Büyükşehir Belediye Kanunu'nun 3. maddesinde büyükşehir belediyesi nasıl tanımlanmıştır?",
+    "ground_truth": "\"Sınırları il mülki sınırı olan ve sınırları içerisindeki ilçe belediyeleri arasında koordinasyonu sağlayan; idarî ve malî özerkliğe sahip olarak kanunlarla verilen görev ve sorumlulukları yerine getiren, yetkileri kullanan; karar organı seçmenler tarafından seçilerek oluşturulan kamu tüzel kişisini\" şeklinde tanımlanmıştır.",
+    "source_file": "SOS32.md",
+    "source_section": "## Büyükşehir Belediyelerinde E-Hizmet"
+  },
+  {
+    "question": "Tablo 1 verilerine göre, 6360 sayılı düzenlemeden sonra e-belediye kapısı bulunmayan ve hem 2014 hem de 2022 yıllarında bu kapıya sahip olmayan iki büyükşehir belediyesi hangileridir?",
+    "ground_truth": "Erzurum ve Kahramanmaraş büyükşehir belediyeleridir.",
+    "source_file": "SOS32.md",
+    "source_section": "## Büyükşehir Belediyelerinde E-Hizmet"
+  },
+  {
+    "question": "Tablo 1'e göre, 2014 yılında e-belediye kapısı aktif olarak hizmet verirken, 2022 yılında web sayfasında kendi portalı bulunmayıp doğrudan e-devlet kapısına yönlendirme yapan büyükşehir belediyesi hangisidir?",
+    "ground_truth": "Mardin Büyükşehir Belediyesi'dir.",
+    "source_file": "SOS32.md",
+    "source_section": "## Büyükşehir Belediyelerinde E-Hizmet"
+  },
+  {
+    "question": "Yerel halkın online olarak belediyenin karar ve uygulama süreçlerine katılımını sağlayan anketler ve projeler doğrudan demokrasi mekanizması kapsamında hangi kavramla adlandırılır?",
+    "ground_truth": "E-katılım olarak adlandırılır.",
+    "source_file": "SOS32.md",
+    "source_section": "## Büyükşehir Belediyelerinde E-Demokrasi"
+  },
+  {
+    "question": "İlgililerin BİT aracılığıyla yönetsel karar ve eylemlerin bilgisine erişebilirliğini ve halkın şikâyetlerini hızlı, aracısız ve düşük maliyetle iletmesini sağlayan uygulamalar dolaylı demokrasi kapsamında hangi kavramla açıklanır?",
+    "ground_truth": "E-denetim olarak açıklanır.",
+    "source_file": "SOS32.md",
+    "source_section": "## Büyükşehir Belediyelerinde Dolaylı Demokrasi (E-denetim)"
+  },
+  {
+    "question": "Yerel kararlara katılım veya karar verme olarak bilinen katılımcı yönetişim kavramı bu çalışmada nasıl tanımlanmıştır?",
+    "ground_truth": "Sorunların analizi, stratejilerin geliştirilmesi ve çözümlerin uygulanmasında paydaşların bir organizasyonun tüm düzeylerine katılımını teşvik eden bir süreç olarak tanımlanmıştır.",
+    "source_file": "SOS33.md",
+    "source_section": "## ÖZ"
+  },
+  {
+    "question": "Rosario ve diğerlerine (2018) göre, yerel yönetimlerde katılım ve bilgi paylaşımını artırmak amacıyla bilginin yaygınlaştırılmasında en çok hangi araçlar/ortamlar kullanılmaktadır?",
+    "ground_truth": "Sosyal medya (mobil telefonlar, Twitter, Facebook, LinkedIn vb.) kullanılmaktadır.",
+    "source_file": "SOS33.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Tortop ve diğerleri (1999) yerel yönetimleri kavramsal olarak nasıl tanımlamaktadır?",
+    "ground_truth": "Merkezî yönetim dışında, yerel bir topluluğun ortak gereksinmelerini karşılamak amacıyla oluşturulan, karar organları doğrudan halk tarafından seçilen, demokratik ve özerk bir yönetim birimi, bir kamusal örgütlenme modeli olarak tanımlamaktadır.",
+    "source_file": "SOS33.md",
+    "source_section": "## 1. Yerel Yönetimler ve Katılımcı Yönetişim"
+  },
+  {
+    "question": "Hiyerarşik yönetim anlayışı yerine karşılıklı işbirliği ve uzlaşmaya dayanan, sivil toplumu ön plana çıkaran ve OECD tarafından 'siyasal güç ve kontrol' olarak adlandırılan kavram hangisidir?",
+    "ground_truth": "Yönetişim kavramıdır.",
+    "source_file": "SOS33.md",
+    "source_section": "## 1. Yerel Yönetimler ve Katılımcı Yönetişim"
+  },
+  {
+    "question": "TODAİE tarafından hazırlanan Kamu Yönetimi Sözlüğünde yönetişim kavramı nasıl tanımlanmıştır?",
+    "ground_truth": "'Bir toplumsal-politik sistemdeki ilgili tüm aktörlerin ortak çabalarıyla elde edilen sonuçların oluşturduğu yapı ya da düzen' olarak tanımlanmıştır.",
+    "source_file": "SOS33.md",
+    "source_section": "## 1. Yerel Yönetimler ve Katılımcı Yönetişim"
+  },
+  {
+    "question": "Brett (2003) tarafından belirtildiği üzere, karar alma süreçlerinde yerel paydaşların görüş ve geribildirimlerine dayanarak toplu eylemlere izin veren ve insan odaklı olan süreçler hangileridir?",
+    "ground_truth": "Karar alma, izleme ve değerlendirme süreçleridir.",
+    "source_file": "SOS33.md",
+    "source_section": "## 2. Yerel Düzeyde Katılımcı Yönetişimin Faydaları"
+  },
+  {
+    "question": "UNDP'ye (2006) göre, topluma bilgi sağlanması ve devlet kuralları, düzenlemeleri ve kararları hakkında netlik olması hangi kavramla açıklanır?",
+    "ground_truth": "Şeffaflık kavramıyla açıklanır.",
+    "source_file": "SOS33.md",
+    "source_section": "## 2. Yerel Düzeyde Katılımcı Yönetişimin Faydaları"
+  },
+  {
+    "question": "Mahmudi ve Saremi'ye (2015) göre, merkezî bir planlama sisteminden merkezî olmayan bir sisteme ve vatandaş katılımına geçilmesinde önemli bir adım hangisi olacaktır?",
+    "ground_truth": "Kent konseyleri kurulması olacaktır.",
+    "source_file": "SOS33.md",
+    "source_section": "## 2. Yerel Düzeyde Katılımcı Yönetişimin Faydaları"
+  },
+  {
+    "question": "Mohammed'e (2008) göre, yerel yönetimlerin iyi yönetişimle ilgili sunduğu iki temel politika aygıtı (aygıtı) nelerdir?",
+    "ground_truth": "Yerel yönetişim ve insanların katılımıdır.",
+    "source_file": "SOS33.md",
+    "source_section": "## 3. Yerel Yönetimler İçin Katılımcı Yönetimin Gereksinimleri"
+  },
+  {
+    "question": "Mohammadi ve diğerlerine (2018) göre, yerel yönetimlerde halkın katılımına yönelik literatürde yer alan iki farklı ve tartışmalı görüş nedir?",
+    "ground_truth": "İnsanlar yerel yönetim faaliyetlerinin tüm yönlerine katılmalıdır veya bazı sınırlı alan ve konularda katılmalıdır görüşleridir.",
+    "source_file": "SOS33.md",
+    "source_section": "## 5.Katılımcı Yönetişim Konusunda Eleştiriler, Sorunlar ve Öneriler"
+  },
+  {
+    "question": "Temsili demokrasilerin en önemli yetmezlik sorunlarından olan meşruiyet krizini aşmak için kent yönetimi ve yönetişim kapsamında bu çalışmada ele alınan temel mekanizma hangisidir?",
+    "ground_truth": "Kent konseyleri (kent konseyi mekanizması) dir.",
+    "source_file": "SOS34.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "1990'lı yıllardan beri tartışılan ve devleti yalnızca 'yönlendirici' bir konumda bırakıp özel sektör, sivil toplum ve yerel yönetimi etkinleştiren model önerisi nedir?",
+    "ground_truth": "Yönetişim (veya yerel yönetişim) yaklaşımıdır.",
+    "source_file": "SOS34.md",
+    "source_section": "1. Yerel Yönetişim"
+  },
+  {
+    "question": "Palabıyık (2003) tarafından özetlenen yönetişim ilkelerinden, kamu örgütlerinin her eylem ve işlemi için yurttaşa hesap vermesini ve yurttaşın hesap sorabilmesini ifade eden ilke hangisidir?",
+    "ground_truth": "Hesap verebilirlik (accountability) ilkesidir.",
+    "source_file": "SOS34.md",
+    "source_section": "1. Yerel Yönetişim"
+  },
+  {
+    "question": "Hill'e (1996) göre, yurttaşı kabuğundan çıkarıp sosyal sorumluluk vererek toplumsal sorunlarla ilgilenmesini sağlayan ve devlet-toplum işbirliğinin diğer adı olan mekanizma hangisidir?",
+    "ground_truth": "Gönüllülüktür.",
+    "source_file": "SOS34.md",
+    "source_section": "3. Yerel Siyaset ve Gönüllülük"
+  },
+  {
+    "question": "Web 2.0 teknolojileri yardımıyla devletin gizliliği olmayan kararlarını ve yönetsel verilerini halka açmasını ifade eden ve ABD inisiyatifi ile yaygınlaşan uygulama hangisidir?",
+    "ground_truth": "Açık yönetim (open government) uygulamalarıdır.",
+    "source_file": "SOS34.md",
+    "source_section": "4. E-Demokrasi, M-Demokrasi ve Açık Yönetim (Open Government) Uygulamaları"
+  },
+  {
+    "question": "Türkiye'de 8 Ekim 2006 tarihli Kent Konseyi Yönetmeliğinde yapılan değişikliklerle, kent konseylerinin demokratikleştirilmesi ve sivilleştirilmesi bağlamında hangi organ/temsilci grupları yapıdan çıkarılmıştır?",
+    "ground_truth": "Milletvekilleri, belediye meclis üyeleri ve il genel meclis üyeleri fıkraları (temsilcileri) kaldırılmıştır.",
+    "source_file": "SOS34.md",
+    "source_section": "5. Kent Konseyleri"
+  },
+  {
+    "question": "5393 sayılı Belediye Kanununun 76. maddesine dayanan Kent Konseyi Yönetmeliğinin 6. maddesinde sıralanan kent konseylerinin çevreye duyarlılık ve toplumsal gruplara yönelik görevlerinden biri nedir?",
+    "ground_truth": "Çocuklar, gençler, kadınlar ve engelliler gibi farklı toplumsal grupların toplumsal yaşamdaki etkinliklerini artırmak ve yerel karar alma mekanizmalarında aktif rol almalarını sağlamaktır.",
+    "source_file": "SOS34.md",
+    "source_section": "5.2.Kent Konseyin Görevleri"
+  },
+  {
+    "question": "Araştırma metodolojisinde rastlantısal örnekleme yöntemi ile bölgede temsil yeteneği olduğu düşünülen kaç kent konseyi belirlenmiş ve üyeleriyle görüşülmüştür?",
+    "ground_truth": "68 kent konseyi belirlenmiştir.",
+    "source_file": "SOS34.md",
+    "source_section": "7. Araştırma Yöntemi ve Bulguları"
+  },
+  {
+    "question": "Tablo 1 verilerine göre, ankete katılan kent konseyi üyelerinin yüzde kaçı kent konseyinde alınan kararların belediye meclisi gündemine alındığını belirtmiştir?",
+    "ground_truth": "%81,7'si (174 üye) belirtmiştir.",
+    "source_file": "SOS34.md",
+    "source_section": "7. Araştırma Yöntemi ve Bulguları"
+  },
+  {
+    "question": "Tablo 12'deki verilere göre, kent konseylerinin siyasi partilerin ilgisiyle ilgili sorulan soruya üyelerin yüzde kaçı \"siyasi partilerin gereken ilgiyi göstermediği\" (Hayır) yanıtını vermiştir?",
+    "ground_truth": "%49,8'i (106 üye) vermiştir.",
+    "source_file": "SOS34.md",
+    "source_section": "7. Araştırma Yöntemi ve Bulguları"
+  },
+  {
+    "question": "24 Haziran Cumhurbaşkanlığı seçimleri sürecinde Recep Tayyip Erdoğan ve Muharrem İnce'nin konuşmalarını incelemek için bu çalışmada hangi söylem analizi yöntemi kullanılmıştır?",
+    "ground_truth": "Essex Okulu Söylem Analizi yöntemi kullanılmıştır.",
+    "source_file": "SOS35.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "Müller (2017) ve Cass Mudde (2004) popülizmi nasıl tanımlamaktadır?",
+    "ground_truth": "Müller'e göre popülizm siyasal dünyanın ahlaken saf ve bütünleşmiş halk ile ahlaken aşağı olan yozlaşmış elitler arasındaki ayrım üzerinden algılanmasıdır; Mudde'ye göre ise toplumu iki antagonistik ve homojen gruba bölen, siyaseti halkın genel iradesinin açımlanması biçiminde kavrayan bir siyasal ideolojidir.",
+    "source_file": "SOS35.md",
+    "source_section": "## 1. Popülizmin Kavramsal Çerçevesi"
+  },
+  {
+    "question": "Laclau popülist söylemi açıklarken, farklı karakterlere sahip olmasına rağmen bütün toplumsal taleplerin negatiflik temelinde bir araya gelmesi eğilimine ne ad verir?",
+    "ground_truth": "Eşdeğerlik zinciri adını verir.",
+    "source_file": "SOS35.md",
+    "source_section": "## 1. Popülizmin Kavramsal Çerçevesi"
+  },
+  {
+    "question": "Ostiguy (2017) popülizmdeki halk ve elitlerden oluşan iki kutbu, kültürel ve siyasal olarak hangi eksenler üzerinden değerlendirmiştir?",
+    "ground_truth": "Yüksek ve alçak ekseni üzerinden değerlendirmiştir.",
+    "source_file": "SOS35.md",
+    "source_section": "## 1. Popülizmin Kavramsal Çerçevesi"
+  },
+  {
+    "question": "Chantal Mouffe'a (2015) göre liberal demokratik siyasetin agonistik bir biçim alması için muhaliflerin nasıl konumlandırılması gerekir?",
+    "ground_truth": "Yok edilmesi gereken düşmanlardan ziyade, fikirlerine karşı mücadele edilmesi gereken ancak bu fikirleri savunma hakkının sorgulanamayacağı muhalifler olarak görülmesi gerekir.",
+    "source_file": "SOS35.md",
+    "source_section": "## 2. Popülizm - Demokrasi İlişkisi"
+  },
+  {
+    "question": "Erdoğan'ın söylemlerinde popülizmin boş göstereni olan 'halk' kavramı çoğunlukla hangi kavramla karşılık bulmaktadır?",
+    "ground_truth": "Millet kavramıyla karşılık bulmaktadır.",
+    "source_file": "SOS35.md",
+    "source_section": "## 3.2.1. Erdoğan'ın Söyleminde 'Halk'"
+  },
+  {
+    "question": "Erdoğan'ın 11 Haziran 2018 tarihli Bursa mitingindeki konuşmasında kullandığı ve 'halkı arkasında yürüten lider' imgesini yansıtan alıntı nedir?",
+    "ground_truth": "\"Yürüyeceksin millet yürüyecek arkanda\" ifadesidir.",
+    "source_file": "SOS35.md",
+    "source_section": "## 3.2.1.1. Tek Baskın Eşdeğerlik ya da Ahlaki Gerçeğin Tek Kaynağı: 'Benim Milletim'"
+  },
+  {
+    "question": "Erdoğan'ın Kahramanmaraş mitinginde (21.06.2018) lider ve halk arasındaki duygusal özdeşleşmeyi simgeleyen sloganı nedir?",
+    "ground_truth": "\"Duygularım duygunuzdur, duygularınız duygumdur\" sloganıdır.",
+    "source_file": "SOS35.md",
+    "source_section": "## 3.2.1.2. Özdeşleşme: 'Duygularım duygunuzdur, duygularınız duygumdur'"
+  },
+  {
+    "question": "Erdoğan'ın Kocaeli mitingindeki (10.06.2018) konuşmasında tek parti CHP'si dönemine ve ezanın Türkçe okutulmasına atıfta bulunarak inşa ettiği mağduriyet retoriği nedir?",
+    "ground_truth": "\"Tek parti CHP'si yıllarında biliyorsunuz milleti inim inim inlettiler. Kalkınma hamlemizi durdurdular. Bu ülkede 18 yıl boyunca Allah-u Ekber nidasını minarelerimize çok görenler şimdi yeni baskıların, yeni yıkımların hesabını yapıyorlar. Bunlar, ezanı Türkçe okutanlar değil mi?\" retoriğidir.",
+    "source_file": "SOS35.md",
+    "source_section": "## 3.2.2.1. Din ve Demokrasi Üzerinden Mağduriyet Söylemi"
+  },
+  {
+    "question": "Jagers ve Walgrave'e (2007) göre, popülist söylemi diğer tüm söylem türlerinden ayıran temel unsur hangisidir?",
+    "ground_truth": "Halka referanstır.",
+    "source_file": "SOS35.md",
+    "source_section": "## 2. Popülizm - Demokrasi İlişkisi"
+  },
+  {
+    "question": "Demokrasi ve popülizmi ortak paydada birleştiren faktör nedir?",
+    "ground_truth": "\"Milli egemenlik\" (halk egemenliği) vurgusudur.",
+    "source_file": "SOS36.md",
+    "source_section": "## Öz"
+  },
+  {
+    "question": "Sartori'ye (2017) göre Yunanca \"demos\" ve \"kratos\" kelimelerinden türeyen demokrasinin kelime anlamı nedir?",
+    "ground_truth": "Halkın yönetimidir.",
+    "source_file": "SOS36.md",
+    "source_section": "## 2. DEMOKRATİK YÖNETİM"
+  },
+  {
+    "question": "Abraham Lincoln'ün yaygın olarak kullanılan ünlü demokrasi tanımı nasıldır?",
+    "ground_truth": "\"Halkın, halk için, halk adına yönetme arzusu, gayreti ve hakkı\"dır.",
+    "source_file": "SOS36.md",
+    "source_section": "## 2. DEMOKRATİK YÖNETİM"
+  },
+  {
+    "question": "Rousseau'ya (1994) göre, toplum sözleşmesiyle kurulan ve toplumun tümünün istemi olduğu için yanılmayan, hem toplumsal hem de bireysel çıkarları koruyan kavrama ne ad verilir?",
+    "ground_truth": "Genel irade adını verilir.",
+    "source_file": "SOS36.md",
+    "source_section": "## 3.1. Siyasal Eşitlik"
+  },
+  {
+    "question": "John Locke'a (2004) göre, hürriyeti kaldırmak veya engellemek yerine onu korumak ve genişletmek amacını taşıyan ve olmadığı yerde hürriyetin de olamayacağı unsur nedir?",
+    "ground_truth": "Yasa (yasalar) dır.",
+    "source_file": "SOS36.md",
+    "source_section": "## 3.2. Temel Hak ve Hürriyetlerin Korunuyor Olması"
+  },
+  {
+    "question": "Berlin (1968), popülizm kavramının herkes için geçerli ve standart bir tanımının yapılamamasını açıklamak için hangi metaforu kullanmıştır?",
+    "ground_truth": "\"Külkedisi Kompleksi\" metaforunu kullanmıştır.",
+    "source_file": "SOS36.md",
+    "source_section": "## 4. POPÜLİZM NE ANLAMA GELİR?"
+  },
+  {
+    "question": "Albertazzi ve McDonnell'a göre popülizm en genel anlamıyla nasıl bir siyasi hareketi resmetmektedir?",
+    "ground_truth": "Halkın haklarını, değerlerini, refahını, kimliğini ve sesini birlikte yoksun bırakan bir dizi seçkin ile tehlikeli 'ötekiler'den oluşan egemenlerle karşı karşıya geldiği bir siyasi hareketi resmetmektedir.",
+    "source_file": "SOS36.md",
+    "source_section": "## 5.1. Seçkin Karşıtlığı ve Mağduriyet Vurgusu"
+  },
+  {
+    "question": "Shills'e göre popülizmi doğuran ve merkez ile çevre arasında ortaya çıkan gerilimin temel nedeni olan tarihsel/toplumsal gelişme hangisidir?",
+    "ground_truth": "Modernleşmedir.",
+    "source_file": "SOS36.md",
+    "source_section": "## 5.1. Seçkin Karşıtlığı ve Mağduriyet Vurgusu"
+  },
+  {
+    "question": "Elias Canetti (2006) kitlelerin iç yaşamının en çarpıcı özelliklerinden biri olarak hangi duyguyu işaret etmektedir?",
+    "ground_truth": "Zulme uğramış olma (mağduriyet) duygusudur.",
+    "source_file": "SOS36.md",
+    "source_section": "## 5.1. Seçkin Karşıtlığı ve Mağduriyet Vurgusu"
+  },
+  {
+    "question": "Carl Schmitt (2014) tarafından siyaseti daha anlaşılır kılan ve dost-düşman ayrımıyla eşleştirilen temel alan hangisidir?",
+    "ground_truth": "Siyaset (veya politika) dır.",
+    "source_file": "SOS36.md",
+    "source_section": "## 5.4. Düşman Yaratma ve Yapay Kriz Ortamı"
+  },
+  {
+    "question": "Bu çalışmada 2005-2017 dönemi yıllık verileri kullanılarak ekonomik büyümenin enflasyon ve işsizlik ile ilişkisini araştırmak için hangi ekonometrik yöntemler (model ve test) tercih edilmiştir?",
+    "ground_truth": "Panel ARDL modeli ve Dumitrescu-Hurlin panel nedensellik testi tercih edilmiştir.",
+    "source_file": "SOS37.md",
+    "source_section": "Öz"
+  },
+  {
+    "question": "Cari ücret düzeyinde çalışmaya razı olduğu halde iş bulamayan kişilerin sayısının toplam işgücüne bölünmesiyle elde edilen makroekonomik oran hangisidir?",
+    "ground_truth": "İşsizlik oranıdır.",
+    "source_file": "SOS37.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "İktisat literatüründe ekonomik büyüme ile işsizlik arasındaki negatif yönlü ilişkiyi açıklayan ve Arthur M. Okun (1962) tarafından ortaya atılan yaklaşım/yasa hangisidir?",
+    "ground_truth": "Okun Yasası'dır.",
+    "source_file": "SOS37.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Türkiye ekonomisinin 2008 ve 2009 yıllarındaki makroekonomik görünümü incelendiğinde, 2008 yılındaki stagflasyonun ardından 2009 yılında enflasyonla birlikte ekonomik küçülmenin de yaşanmasını ifade eden iktisadi kavram hangisidir?",
+    "ground_truth": "Slumpflasyon kavramıdır.",
+    "source_file": "SOS37.md",
+    "source_section": "## Türkiye'de Ekonomik Büyüme, Enflasyon ve İşsizlik Gelişmeleri"
+  },
+  {
+    "question": "Türkiye'de enflasyonun %7-8, işsizliğin ise %9-10 seviyelerinde uzunca bir süre kalarak uzun soluklu bir iyileşme gösterememesi durumu Saygılıoğlu (2015) tarafından hangi kavramla açıklanmaktadır?",
+    "ground_truth": "Tuzak (Enflasyon ve işsizlikte bir tuzak durumu) kavramıyla açıklanmaktadır.",
+    "source_file": "SOS37.md",
+    "source_section": "## Türkiye'de Ekonomik Büyüme, Enflasyon ve İşsizlik Gelişmeleri"
+  },
+  {
+    "question": "Tablo 1'deki 2017 yılı verilerine göre, Türkiye'de Düzey 2 bölgeleri arasında en yüksek bölgesel işsizlik oranı (%26.9) hangi bölgede (kod ve iller) görülmüştür?",
+    "ground_truth": "TRC3 (Mardin, Batman, Şırnak, Siirt) bölgesinde görülmüştür.",
+    "source_file": "SOS37.md",
+    "source_section": "## Türkiye'de Ekonomik Büyüme, Enflasyon ve İşsizlik Gelişmeleri"
+  },
+  {
+    "question": "Tablo 1'deki 2017 yılı verilerine göre, regional GSYH değeri en yüksek olan istatistiki bölge hangisidir?",
+    "ground_truth": "TR10 (İstanbul) bölgesidir.",
+    "source_file": "SOS37.md",
+    "source_section": "## Türkiye'de Ekonomik Büyüme, Enflasyon ve İşsizlik Gelişmeleri"
+  },
+  {
+    "question": "Jaradat (2013) tarafından Ürdün ekonomisi (2000-2010) üzerine yapılan çalışmada, GSYH ile enflasyon ve işsizlik değişkenleri arasında nasıl ilişkiler saptanmıştır?",
+    "ground_truth": "Enflasyon ve GSYH arasında pozitif ve anlamlı, işsizlik ve GSYH arasında ise negatif ve anlamlı bir ilişki saptanmıştır.",
+    "source_file": "SOS37.md",
+    "source_section": "Tablo 2 Konuya İlişkin Seçilmiş Çalışmalar"
+  },
+  {
+    "question": "PMG (Pooled Mean Group) tahmincisinden elde edilen ARDL (1, 1, 1) uzun dönem tahmin sonuçlarına göre, panel genelinde enflasyon ve işsizlik katsayıları ne çıkmıştır ve bu katsayıların ekonomik büyüme üzerindeki etkisi nasıldır?",
+    "ground_truth": "Enflasyon katsayısı 0.081 (pozitif etki), işsizlik katsayısı -0.114 (negatif etki) çıkmıştır; her ikisi de istatistiksel olarak anlamlıdır.",
+    "source_file": "SOS37.md",
+    "source_section": "Tablo 4 ARDL (1, 1, 1) PMG Tahmin Bulguları"
+  },
+  {
+    "question": "Panel birim kök testlerinde serilerin durağanlık dereceleriyle ilgili olarak LGSYH, ENF ve IS serilerinin seviyede (düzeyde) mi yoksa farkı alındığında mı durağan olduğu saptanmıştır?",
+    "ground_truth": "ENF ve IS serileri düzeyde (seviyede) durağan iken, LGSYH serisi ancak birinci farkı alındığında durağanlaşmaktadır.",
+    "source_file": "SOS37.md",
+    "source_section": "Tablo 3 Panel Birim Kök Testleri ve Sonuçları"
+  },
+  {
+    "question": "Bu çalışmada 1980-2018 yılları arası dönem için Türkiye'de ekonomik büyüme, işsizlik ve enflasyon arasındaki ilişkiler hangi ekonometrik yaklaşım kullanılarak test edilmiştir?",
+    "ground_truth": "ARDL Sınır Testi yaklaşımı kullanılarak test edilmiştir.",
+    "source_file": "SOS38.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "İktisat literatüründe enflasyon ile işsizlik arasındaki ters yönlü ilişkiyi açıklayan Phillips eğrisi teorisi ilk olarak kim tarafından ve hangi yılda ortaya atılmıştır?",
+    "ground_truth": "A. W. Phillips tarafından 1958 yılında ortaya atılmıştır.",
+    "source_file": "SOS38.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "Keynesyen iktisatçılara göre, toplam talepte meydana gelen artışlar kısa dönemde enflasyon ve işsizlik üzerinde nasıl bir etki yaratmaktadır?",
+    "ground_truth": "Enflasyon oranını artırırken, işsizlik oranını azaltmaktadır (ters yönlü ilişki).",
+    "source_file": "SOS38.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "Samuelson ve Solow (1960) tarafından orijinal Phillips eğrisi üzerinde yapılan modifikasyonla, dikey eksendeki nominal ücret artış hızı yerine hangi makroekonomik değişken getirilmiştir?",
+    "ground_truth": "Enflasyon oranı getirilmiştir.",
+    "source_file": "SOS38.md",
+    "source_section": "## 2. Phillips Eğrisi ve Stagflasyon"
+  },
+  {
+    "question": "Enflasyon ile işsizliğin aynı anda yükseldiği ve ekonomik büyümenin durduğu istikrarsızlık durumunu ifade eden stagflasyon kavramı literatüre hangi dönemde girmiştir?",
+    "ground_truth": "1970'li yıllarda (petrol şokları sonrasında) girmiştir.",
+    "source_file": "SOS38.md",
+    "source_section": "## 2. Phillips Eğrisi ve Stagflasyon"
+  },
+  {
+    "question": "Friedman ve Phelps tarafından geliştirilen beklentilerle genişletilmiş Phillips eğrisine göre, uzun dönem Phillips eğrisinin şekli nasıldır ve hangi işsizlik oranında dikey bir doğru halini alır?",
+    "ground_truth": "Uzun dönemde Phillips eğrisi dikey bir doğrudur ve doğal işsizlik oranında dikey halini alır.",
+    "source_file": "SOS38.md",
+    "source_section": "## 2. Phillips Eğrisi ve Stagflasyon"
+  },
+  {
+    "question": "Bu çalışmada kullanılan modelde bağımlı değişken (LN_GDP) ve bağımsız değişkenler (UN_EMP, INF) sırasıyla hangi göstergeleri temsil etmektedir?",
+    "ground_truth": "LN_GDP ekonomik büyümeyi (GSYİH), UN_EMP işsizlik oranını, INF ise enflasyon oranını temsil etmektedir.",
+    "source_file": "SOS38.md",
+    "source_section": "## 4. Veri Seti, Yöntem ve Ampirik Bulgular"
+  },
+  {
+    "question": "ADF ve PP birim kök test sonuçlarına göre, çalışmada yer alan serilerin (LN_GDP, UN_EMP, INF) durağanlık dereceleri nasıldır?",
+    "ground_truth": "Serilerin tamamı seviyede durağan olmayıp, birinci farkları alındığında yani I(1) seviyesinde durağan hale gelmektedirler.",
+    "source_file": "SOS38.md",
+    "source_section": "Tablo 2: Birim Kök Testi Sonuçları"
+  },
+  {
+    "question": "Tablo 3'teki ARDL Sınır Testi sonuçlarına göre, hesaplanan F istatistik değeri kaçtır ve bu değer eşbütünleşme ilişkisinin varlığını kanıtlamakta mıdır?",
+    "ground_truth": "F istatistik değeri 5.86'dır; bu değer %5 önem düzeyindeki üst sınır olan 4.87'den büyük olduğu için eşbütünleşme ilişkisini kanıtlamaktadır.",
+    "source_file": "SOS38.md",
+    "source_section": "Tablo 3: ARDL Sınır Testi Sonucu"
+  },
+  {
+    "question": "Uzun dönem ampirik bulgulara göre, Türkiye'de işsizlik oranında (UN_EMP) meydana gelen %1'lik bir artış ekonomik büyüme (LN_GDP) üzerinde nasıl bir etki yaratmaktadır?",
+    "ground_truth": "Ekonomik büyümeyi %0.063 oranında azaltmaktadır (negatif etki).",
+    "source_file": "SOS38.md",
+    "source_section": "Tablo 4: ARDL Uzun Dönem Katsayıları"
+  },
+  {
+    "question": "Bu çalışmada 1980-2018 yılları arası dönem için Türkiye'de ekonomik büyüme, gelir dağılımı ve yoksulluk ilişkisi hangi ekonometrik yöntemle analiz edilmiştir?",
+    "ground_truth": "ARDL Sınır Testi yöntemi ile analiz edilmiştir.",
+    "source_file": "SOS39.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "Kuznets'in ters U hipotezine göre, ekonomik gelişmenin başlangıç aşamalarında ve sonraki aşamalarında gelir dağılımı adaletsizliği nasıl bir seyir izler?",
+    "ground_truth": "Başlangıçta gelir dağılımı adaletsizliği artar, ekonomik gelişme düzeyi yükseldikçe ise azalmaya başlar.",
+    "source_file": "SOS39.md",
+    "source_section": "## 1. Giriş"
+  },
+  {
+    "question": "İktisat yazınında, ekonomik büyümenin alt gelir gruplarının gelirini de artırarak yoksulluğu azaltacağını savunan ve 'büyümenin tüm gemileri yüzdüren bir gelgit suyu' olduğunu öne süren görüş hangisidir?",
+    "ground_truth": "Sızma teorisi (trickle-down theory) dir.",
+    "source_file": "SOS39.md",
+    "source_section": "## 2. Ekonomik Büyüme, Gelir Dağılımı ve Yoksulluk İlişkisi: Teorik Çerçeve"
+  },
+  {
+    "question": "Bhagwati (1988) tarafından tanımlanan ve ekonomik büyümenin yoksulluğu azaltmadaki doğrudan etkisini ifade etmek amacıyla kullanılan kavram hangisidir?",
+    "ground_truth": "Çekme etkisi (pull-up effect) dir.",
+    "source_file": "SOS39.md",
+    "source_section": "## 2. Ekonomik Büyüme, Gelir Dağılımı ve Yoksulluk İlişkisi: Teorik Çerçeve"
+  },
+  {
+    "question": "Datt ve Ravallion (1992) yoksulluktaki toplam değişimi hangi iki bileşene ayrıştırarak analiz etmektedir?",
+    "ground_truth": "Büyüme bileşeni ve yeniden dağıtım (bölüşüm) bileşenidir.",
+    "source_file": "SOS39.md",
+    "source_section": "## 2. Ekonomik Büyüme, Gelir Dağılımı ve Yoksulluk İlişkisi: Teorik Çerçeve"
+  },
+  {
+    "question": "Büyüme ve gelir dağılımının yoksulluk üzerindeki etkisini incelemek amacıyla kurulan modeldeki bağımlı değişken (POV) ve bağımsız değişkenler (LN_GDP, GINI) neleri temsil etmektedir?",
+    "ground_truth": "POV yoksulluk oranını, LN_GDP kişi başına reel GSYİH'yi (ekonomik büyümeyi), GINI ise Gini katsayısını (gelir eşitsizliğini) temsil etmektedir.",
+    "source_file": "SOS39.md",
+    "source_section": "## 4. Veri Seti, Yöntem ve Ampirik Bulgular"
+  },
+  {
+    "question": "ADF ve PP birim kök testlerine göre, modelde yer alan serilerin (POV, LN_GDP, GINI) durağanlık dereceleri ve entegrasyon seviyeleri nasıldır?",
+    "ground_truth": "Serilerin tamamı düzeyde durağan olmayıp, birinci farkları alındığında yani I(1) seviyesinde durağanlaşmaktadırlar.",
+    "source_file": "SOS39.md",
+    "source_section": "Tablo 2: Birim Kök Testi Sonuçları"
+  },
+  {
+    "question": "Tablo 3'teki Sınır Testi Sonuçlarına göre, hesaplanan F istatistik değeri kaçtır ve bu değer seriler arasında uzun dönemli bir ilişkiyi doğrulamakta mıdır?",
+    "ground_truth": "F istatistik değeri 6.84'tür; %5 önem düzeyindeki üst sınır olan 4.87'den büyük olduğu için uzun dönemli ilişkiyi doğrulamaktadır.",
+    "source_file": "SOS39.md",
+    "source_section": "Tablo 3: ARDL Sınır Testi Sonucu"
+  },
+  {
+    "question": "Tablo 4'teki uzun dönem katsayılarına göre, Gini katsayısındaki (GINI) 1 birimlik artış yoksulluk oranı (POV) üzerinde nasıl bir etki yaratmaktadır?",
+    "ground_truth": "Yoksulluk oranını 0.428 birim artırmaktadır (pozitif ve anlamlı etki).",
+    "source_file": "SOS39.md",
+    "source_section": "Tablo 4: ARDL Uzun Dönem Katsayıları"
+  },
+  {
+    "question": "Uzun dönem ampirik bulgulara göre, kişi başına reel GSYİH'deki (LN_GDP) %1'lik artış yoksulluk oranını (POV) ne ölçüde azaltmaktadır?",
+    "ground_truth": "%0.125 oranında azaltmaktadır.",
+    "source_file": "SOS39.md",
+    "source_section": "Tablo 4: ARDL Uzun Dönem Katsayıları"
+  },
+  {
+    "question": "Bir ülkede ekonomik büyüme sürecinde ortaya çıkan refah artışının toplumsal sınıflar ve bireyler arasındaki paylaşımının ne kadar adil olduğunu ortaya koyan iki temel gösterge hangisidir?",
+    "ground_truth": "Gelir dağılımı (gelir eşitsizliği) ve yoksulluk verileridir.",
+    "source_file": "SOS40.md",
+    "source_section": "## ÖZET"
+  },
+  {
+    "question": "İktisat biliminin asıl amacının ulusal refahın artış nedenleri yerine bu refahın üretime katılanlar arasında nasıl paylaşıldığını araştırmak olması gerektiğini savunan ve bu görüşünü 1820 yılında Malthus'a yazdığı mektupta belirten klasik iktisatçı kimdir?",
+    "ground_truth": "David Ricardo'dur.",
+    "source_file": "SOS40.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Gelirin, üretim sürecine katılan emek, sermaye, toprak ve girişim gibi üretim faktörlerinin sahipleri arasında ücret, faiz, rant ve kâr adı altında bölüşülmesini ifade eden gelir dağılımı kavramı hangisidir?",
+    "ground_truth": "Fonksiyonel gelir dağılımı (fonksiyonel dağılım) dır.",
+    "source_file": "SOS40.md",
+    "source_section": "## 1. Fonksiyonel Gelir Dağılımı"
+  },
+  {
+    "question": "Devletin vergilendirme, sosyal transferler, kamu harcamaları ve asgari ücret belirleme gibi müdahalelerle bireylerin üretimden elde ettikleri ilk gelir ile nihai gelirleri arasında fark yaratması olayına ne ad verilir?",
+    "ground_truth": "Gelirin yeniden (ikincil) dağılımı adı verilir.",
+    "source_file": "SOS40.md",
+    "source_section": "## 5. Gelirin Yeniden (İkincil) Dağılımı"
+  },
+  {
+    "question": "Gelir eşitsizliği analizlerinde en yaygın kullanılan ölçüm araçları hangileridir?",
+    "ground_truth": "Yüzdelik dilimleme yöntemi, Lorenz eğrisi ve Gini katsayısıdır.",
+    "source_file": "SOS40.md",
+    "source_section": "## III. BİREYSEL GELİR EŞİTSİZLİĞİNİN ÖLÇÜLMESİ"
+  },
+  {
+    "question": "Eşit birikimli nüfus payları ile bu nüfusun milli gelirden aldığı birikimli paylar arasındaki ilişkiyi gösteren ve mutlak eşitlik durumunda 45 derecelik köşegen doğruyla çakışan eğri hangisidir?",
+    "ground_truth": "Lorenz eğrisi'dir.",
+    "source_file": "SOS40.md",
+    "source_section": "## 2. Lorenz Eğrisi"
+  },
+  {
+    "question": "Hanehalkı ya da bireylerin fiziksel yaşamlarını sürdürebilmeleri için ihtiyaç duyulan minimum gıda ve gıda dışı tüketim seviyesini karşılayacak gelirden yoksun olma durumuna ne ad verilir?",
+    "ground_truth": "Mutlak yoksulluk adı verilir.",
+    "source_file": "SOS40.md",
+    "source_section": "## 1. Mutlak Yoksulluk"
+  },
+  {
+    "question": "Hanedeki bireylerin yaş, cinsiyet gibi farklılıklarını ve konut, ısınma gibi ortak harcamaları dikkate alarak her bir hanehalkı büyüklüğünün kaç yetişkine denk geldiğini hesaplamada kullanılan katsayılara ne ad verilir?",
+    "ground_truth": "Eşdeğerlik ölçeği adı verilir.",
+    "source_file": "SOS40.md",
+    "source_section": "## 3. Eşdeğerlik Ölçeği ve Eşdeğer Kişi Başına Tüketim Harcaması"
+  },
+  {
+    "question": "Türkiye'de tüm ülkeyi kapsayan ilk gelir dağılımı çalışması hangi kurum tarafından ve hangi yılda gerçekleştirilmiştir?",
+    "ground_truth": "Devlet Planlama Teşkilatı (DPT) tarafından 1963 yılında gerçekleştirilmiştir.",
+    "source_file": "SOS40.md",
+    "source_section": "## VI. TÜRKİYE'DE GELİR DAĞILIMI ve YOKSULLUK ÇALIŞMALARI"
+  },
+  {
+    "question": "Tablo 1'deki verilere göre, Türkiye'de 1963-2005 yılları arasında Gini katsayısının en düşük (0.38) ve en yüksek (0.56) olduğu yıllar sırasıyla hangileridir?",
+    "ground_truth": "En düşük olduğu yıl 2005 (0,38), en yüksek olduğu yıl ise 1968 (0,56) dir.",
+    "source_file": "SOS40.md",
+    "source_section": "Tablo 1 : Türkiye'de % 20'lik Nüfus Dilimlerine Göre Bireysel Gelir Dağılımı"
+  },
+  {
+    "question": "Bu çalışmada doğrudan yabancı yatırımların (DYY) ekonomik büyüme üzerindeki etkisini incelemek amacıyla 1996-2018 dönemini kapsayan verilerle hangi ülke grubu örneklem olarak seçilmiştir?",
+    "ground_truth": "MDA (Merkez ve Doğu Avrupa) ve Baltık ülkeleri seçilmiştir.",
+    "source_file": "SOS41.md",
+    "source_section": "Öz"
+  },
+  {
+    "question": "Blomström, Lipsey ve Zejan'ın (1992) 78 ülke üzerinde yaptıkları analize göre doğrudan yabancı yatırımların beş yıl sonraki ekonomik büyüme üzerindeki olumlu etkisi hangi gelir grubuna sahip ülkelerde gerçekleşmektedir?",
+    "ground_truth": "Sadece yüksek gelir grubuna sahip olan ülkelerde gerçekleşmektedir.",
+    "source_file": "SOS41.md",
+    "source_section": "## 2.  Ampirik Literatür"
+  },
+  {
+    "question": "Alıcı ve Ucal (2003) tarafından Türkiye için Granger ve Toda-Yamamoto nedensellik testleriyle yapılan analizde, hangi değişkenler arasında nedensel bağ bulunurken doğrudan yabancı yatırımlar (DYY) ile çıktı arasında nedensellik durumu elde edilememiştir?",
+    "ground_truth": "İhracat ve çıktı arasında nedensel bağ bulunmuştur.",
+    "source_file": "SOS41.md",
+    "source_section": "## 2.  Ampirik Literatür"
+  },
+  {
+    "question": "Panel veri modelleri seçilirken, birim veya zaman etkilerinin olmadığı ve gözlemlerin homojen olduğu varsayıldığında hangi en küçük kareler yöntemi kullanılır?",
+    "ground_truth": "Klasik / Havuzlanmış En Küçük Kareler yöntemi kullanılır.",
+    "source_file": "SOS41.md",
+    "source_section": "## 3.  Araştırma Yöntemi"
+  },
+  {
+    "question": "Sabit etkiler modeli ile rassal etkiler modeli arasındaki en temel fark, regresyon seçiminde dikkat edilen hangi korelasyon ilişkisinin bulunup bulunmamasıyla ilgilidir?",
+    "ground_truth": "Birimsel etkiler (gözlemlenemeyen birimsel etkiler) ile bağımsız değişkenler arasındaki korelasyon ilişkisidir.",
+    "source_file": "SOS41.md",
+    "source_section": "## 3.  Araştırma Yöntemi"
+  },
+  {
+    "question": "Bu çalışmanın veri setinde yer alan ve Gayri Safi Sabit Sermaye Oluşumu verilerinden hareketle Aralıksız Envanter yöntemi kullanılarak hesaplanan 'CPL' değişkeni neyi ifade etmektedir?",
+    "ground_truth": "Sermaye stokunu ifade etmektedir.",
+    "source_file": "SOS41.md",
+    "source_section": "## Tablo 1. Veri Seti Tanıtımı"
+  },
+  {
+    "question": "Bu çalışmada seçilen MDA ve Baltık ülkeleri için CPL (Sermaye Stoku) değişkeni hesaplanırken tercih edilen amortisman payı (yıpranma oranı) yüzde kaçtır?",
+    "ground_truth": "%5 tir.",
+    "source_file": "SOS41.md",
+    "source_section": "## Tablo 1. Veri Seti Tanıtımı"
+  },
+  {
+    "question": "Tablo 2'deki Sabit Etkiler Modeli sonuçlarına göre, doğrudan yabancı yatırım girişlerinin (ln_FDI) katsayısı nedir ve bu katsayı istatistiksel açıdan anlamlı mıdır?",
+    "ground_truth": "Katsayı 0.0372918'dir ve 0.05 anlam düzeyinde istatistiksel olarak anlamlıdır (Olasılık Değ. 0.000).",
+    "source_file": "SOS41.md",
+    "source_section": "Tablo 2. Doğrudan Yabancı Yatırımın Ekonomik Büyüme Üzerindeki Etkisi,  Sabit Etkiler Modeli, Bağımlı Değişken: Logaritmik Gayri Safi Yurtiçi Hâsıla"
+  },
+  {
+    "question": "Sabit Etkiler Modeli sonuçlarına göre, modeldeki bağımsız değişkenler bağımlı değişken olan Gayri Safi Yurtiçi Hasıla'yı (ln_GDP) yaklaşık yüzde kaç oranında açıklamaktadır (R2 değeri)?",
+    "ground_truth": "Yaklaşık %90.87 (veya 0.9087) oranında açıklamaktadır.",
+    "source_file": "SOS41.md",
+    "source_section": "Tablo 2. Doğrudan Yabancı Yatırımın Ekonomik Büyüme Üzerindeki Etkisi,  Sabit Etkiler Modeli, Bağımlı Değişken: Logaritmik Gayri Safi Yurtiçi Hâsıla"
+  },
+  {
+    "question": "Modele eklenen açıklayıcı değişkenler arasında, ekonomik büyüme (GDP) üzerinde negatif ve 0.10 düzeyinde istatistiksel olarak anlamlı bir etkiye sahip olan tek makroekonomik değişken hangisidir?",
+    "ground_truth": "Enflasyon (INF - Tüketici Fiyat Endeksi yıllık değişimi) dur.",
+    "source_file": "SOS41.md",
+    "source_section": "Tablo 2. Doğrudan Yabancı Yatırımın Ekonomik Büyüme Üzerindeki Etkisi,  Sabit Etkiler Modeli, Bağımlı Değişken: Logaritmik Gayri Safi Yurtiçi Hâsıla"
+  },
+  {
+    "question": "Bu çalışmada Türkiye'de ekonomik büyüme, işsizlik ve enflasyonun kayıt dışı istihdam üzerindeki etkisini incelemek amacıyla 2004-2020 dönemine ait çeyreklik verilerle hangi eşbütünleşme testi kullanılmıştır?",
+    "ground_truth": "ARDL Sınır Testi (ARDL sınır testi yaklaşımı) kullanılmıştır.",
+    "source_file": "SOS42.md",
+    "source_section": "## Türkiye'de Ekonomik Büyüme, İşsizlik ve Enflasyonun Kayıt Dışı İstihdam Üzerindeki Etkisi: ARDL Sınır Testi Yaklaşımı"
+  },
+  {
+    "question": "Kayıt dışı istihdamı, sosyal güvenlik açısından yasal işlerde çalışarak istihdama katılan kişilerin çalışmalarının gün veya ücret olarak ilgili kamu kurum ve kuruluşlarına hiç bildirilmemesi ya da eksik bildirilmesi olarak tanımlayan kamu kuruluşu hangisidir?",
+    "ground_truth": "Sosyal Güvenlik Kurumu (SGK, 2013) dur.",
+    "source_file": "SOS42.md",
+    "source_section": "## Türkiye'de Ekonomik Büyüme, İşsizlik ve Enflasyonun Kayıt Dışı İstihdam Üzerindeki Etkisi: ARDL Sınır Testi Yaklaşımı"
+  },
+  {
+    "question": "Ihrig ve Moe (2000) tarafından yapılan çalışmada, işçi başına reel GSYİH ile kayıt dışı sektörde istihdam edilenlerin yüzdesi arasında nasıl bir ilişki saptanmıştır?",
+    "ground_truth": "Negatif ve dışbükey bir ilişki saptanmıştır (ekonomik büyümenin kayıt dışı istihdamı azalttığı görülmüştür).",
+    "source_file": "SOS42.md",
+    "source_section": "## Literatür"
+  },
+  {
+    "question": "Castillo ve Montoro'ya (2012) göre, kayıt dışı işgücü piyasaları yükselen şoklar karşısında işgücü piyasasının esnekliğini artıran ve talep şoklarının enflasyon üzerindeki baskısını azaltan nasıl bir etki yaratmaktadır?",
+    "ground_truth": "Bir 'tampon' etki yaratmaktadır.",
+    "source_file": "SOS42.md",
+    "source_section": "## Literatür"
+  },
+  {
+    "question": "Davisdescu ve Dobre (2015) 2000-2010 çeyrek verileriyle yaptıkları sınır testi ve nedensellik analizlerinde işsizlik ile kayıt dışı ekonomi arasında nasıl bir nedensellik ilişkisi tespit etmişlerdir?",
+    "ground_truth": "İşsizlik oranından kayıt dışı ekonomiye uzanan uzun vadeli tek yönlü bir nedenselliğin varlığını ortaya koymuşlardır.",
+    "source_file": "SOS42.md",
+    "source_section": "## Literatür"
+  },
+  {
+    "question": "Bu çalışmanın veri setinde yer alan ve bağımlı değişken (IE) olarak kullanılan göstergenin adı nedir?",
+    "ground_truth": "Kayıt Dışı İstihdam'dır.",
+    "source_file": "SOS42.md",
+    "source_section": "Tablo 1 Veri Tanımı"
+  },
+  {
+    "question": "Değişkenlerin durağanlıklarını test etmede ADF ve PP gibi yapısal kırılmaları dikkate almayan testlerin yanı sıra, yapısal kırılmaları da hesaba katan hangi iki test kullanılmıştır?",
+    "ground_truth": "Zivot-Andrews ve Lee-Strazicich birim kök testleri kullanılmıştır.",
+    "source_file": "SOS42.md",
+    "source_section": "## Sonuçlar"
+  },
+  {
+    "question": "Tablo 8'deki Sınır Testi Sonuçlarına göre, hesaplanan F istatistik değeri kaçtır ve bu değer değişkenler arasında uzun dönemli eşbütünleşme ilişkisini desteklemekte midir?",
+    "ground_truth": "9.775'tir; F istatistiği tüm önem seviyelerindeki kritik değerlerin üst sınırından büyük olduğu için uzun dönemli eşbütünleşmeyi desteklemektedir.",
+    "source_file": "SOS42.md",
+    "source_section": "Tablo 8 ARDL(5,5,5,2) Sınır Testi Sonuçları"
+  },
+  {
+    "question": "Tablo 9'daki kısa dönem katsayılarında, modelde meydana gelen kısa dönemli sapmaların uzun vadede denge noktasına yakınsadığını gösteren hata düzeltme terimi (CointEq(-1)) katsayısı kaçtır?",
+    "ground_truth": "-0.450 (%45) dir.",
+    "source_file": "SOS42.md",
+    "source_section": "Tablo 9 ARDL(5,5,5,2) Kısa Dönem Katsayıları"
+  },
+  {
+    "question": "Tablo 10'daki uzun dönem katsayıları dikkate alındığında, uzun dönemde işsizlikte (LnUNP) yaşanacak bir birimlik artış kayıt dışı istihdamı (LnIE) ne kadar artırmaktadır?",
+    "ground_truth": "Ortalama 0.991 birim artırmaktadır.",
+    "source_file": "SOS42.md",
+    "source_section": "Tablo 10 ARDL (5,5,5,2) Uzun Dönem Katsayıları"
+  },
+  {
+    "question": "Bu çalışmanın amacı nedir ve Türkiye geneli ile yirmi altı alt bölgesi (Düzey 2) için 2005-2019 dönemini kapsayan verilerle hangi makroekonomik ilişki sınanmıştır?",
+    "ground_truth": "Uzun ve kısa dönemde işsizlik ve enflasyon arasındaki Phillips eğrisi ilişkisinin (Phillips eğrisi kuramının) geçerliliği sınanmıştır.",
+    "source_file": "SOS43.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "Irving Fisher (1926) tarafından yapılan istatistiksel çalışmaya göre fiyat değişimleri (enflasyon) ile işsizlik arasındaki nedensellik ilişkisinin temel mekanizması nedir?",
+    "ground_truth": "Maliyetlerin fiyat değişimlerinin gerisinde kalması durumunda karların artması ve ekonomik aktivitelerin büyüyerek işsizliği düşürmesidir.",
+    "source_file": "SOS43.md",
+    "source_section": "## 2. Kavramsal Çerçeve"
+  },
+  {
+    "question": "Alban William Phillips'in 1958 tarihli orijinal çalışmasında, parasal ücretlerdeki değişimin sıfır olduğu ve enflasyona sebep olmayan işsizlik oranı yüzde kaç olarak belirlenmiştir?",
+    "ground_truth": "%5,5 olarak belirlenmiştir.",
+    "source_file": "SOS43.md",
+    "source_section": "## 2. Kavramsal Çerçeve"
+  },
+  {
+    "question": "Milton Friedman tarafından ortaya konulan ve işgücü piyasalarındaki sözleşmelerin parasal yapısına rağmen işçi ve işverenlerin reel ücreti önemsemesi nedeniyle beklentilerin de modele dahil edildiği Phillips eğrisi yaklaşımı hangisidir?",
+    "ground_truth": "Adaptif beklentiler ilave edilmiş Phillips eğrisi'dir.",
+    "source_file": "SOS43.md",
+    "source_section": "## 2. Kavramsal Çerçeve"
+  },
+  {
+    "question": "Türkiye'de işsizlik sorununun temel kaynakları olarak gösterilen ve arz-talep dengesizliği yaratan iki temel faktör hangileridir?",
+    "ground_truth": "Yüksek nüfus artışı ile kentleşmelerdir.",
+    "source_file": "SOS43.md",
+    "source_section": "## 2. Kavramsal Çerçeve"
+  },
+  {
+    "question": "Panel ARDL modelinde Ortalama (MG) ile Havuzlanmış Ortalama Grup (PMG) tahmincilerinden hangisinin kullanılacağına karar vermek amacıyla hangi istatistiksel sınama/test uygulanır?",
+    "ground_truth": "Hausman sınaması (Hausman testi) uygulanır.",
+    "source_file": "SOS43.md",
+    "source_section": "## 4. Yöntem ve Bulgular"
+  },
+  {
+    "question": "Hausman Sınaması sonuçlarına göre, PMG (Havuzlanmış Ortalama Grup) tahmincisinin ARDL modeli için tutarlı olduğuna karar verilmesini sağlayan olasılık (Prob>chi2) değeri kaçtır?",
+    "ground_truth": "0.2299 dur.",
+    "source_file": "SOS43.md",
+    "source_section": "## 4. Yöntem ve Bulgular"
+  },
+  {
+    "question": "Tablo 4'teki Panel ARDL PMG sonuçlarına göre seçilen optimal model gecikme yapısı hangisidir?",
+    "ground_truth": "ARDL(1, 2, 2) dir.",
+    "source_file": "SOS43.md",
+    "source_section": "## Tablo 4. Türkiye Geneli Panel ARDL Uzun ve Kısa Dönem Sonuçları"
+  },
+  {
+    "question": "Türkiye geneli kısa dönem hata düzeltme modeli (ECM) katsayısı kaçtır ve bu katsayı neyi ifade eder?",
+    "ground_truth": "-1.5202'dir; kısa dönemde enflasyon açığında meydana gelen bir şok/sapmanın yaklaşık 7.8 ayda düzelerek uzun dönem dengesine yakınsayacağını ifade eder.",
+    "source_file": "SOS43.md",
+    "source_section": "## Ahmet Şengönül, Berrak Tekgün Phillips Eğrisinin Panel ARDL Analizi: Türkiye'deki Bölgeler Arası Bir Uygulama"
+  },
+  {
+    "question": "Düzey-2 Panel ARDL Kısa Dönem Sonuçlarına göre, kısa dönemde negatif eğimli Phillips eğrisini destekleyen en güçlü anlamlılık düzeylerine sahip olan bölgeler hangileridir?",
+    "ground_truth": "TRA2, TR32 ve TR71 bölgeleridir.",
+    "source_file": "SOS43.md",
+    "source_section": "## Ahmet Şengönül, Berrak Tekgün Phillips Eğrisinin Panel ARDL Analizi: Türkiye'deki Bölgeler Arası Bir Uygulama"
+  },
+  {
+    "question": "Bu çalışmada ele alınan Popperci yanlışlama kuramı ve İngiliz uluslararası ilişkiler yaklaşımını merkeze alan felsefi arka plan hangi disiplindeki artan önemi araştırmaktadır?",
+    "ground_truth": "Güvenlik çalışmaları'nın uluslararası ilişkiler disiplini içerisindeki artan önemini araştırmaktadır.",
+    "source_file": "SOS47.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Kenneth Waltz'un ifadesiyle sistem düzeyinde bir analiz birimi geliştiren, uluslararası sistemin parçalanma ve bütünleşme süreçlerini güvenlik ve uluslararası toplum bağlamında ele alan uluslararası ilişkiler okulu hangisidir?",
+    "ground_truth": "İngiliz Okulu'dur.",
+    "source_file": "SOS47.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Soğuk Savaş sonrası dönemde 'Yeni Güvenlik Çalışmaları' olarak adlandırılan kavramsallaştırmanın klasik güvenlik çalışmalarından en temel farkı nedir?",
+    "ground_truth": "İnsanı merkeze alan bir yaklaşım sergilemesidir (insan merkezli olmasıdır).",
+    "source_file": "SOS47.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Güvenliğin sosyal yapılarla ilişkisini kuramsallaştıran, risk analiz süreçleri ve güvenlikleştirme algısına odaklanan ve temelleri Kuzey Avrupa'da atılan güvenlik ekolü hangisidir?",
+    "ground_truth": "Kopenhag Güvenlik Ekolü'dür.",
+    "source_file": "SOS47.md",
+    "source_section": "## YENİ GÜVENLİK YAKLAŞIMI"
+  },
+  {
+    "question": "Kopenhag Ekolü'nün, bir konunun karar vericiler tarafından yapılan açıklamalarla güvenlik problemi haline getirilmesini ifade etmek için kullandığı yaklaşım hangisidir?",
+    "ground_truth": "Söz-Eylem (Speech-Act) yaklaşımıdır.",
+    "source_file": "SOS47.md",
+    "source_section": "## YENİ GÜVENLİK YAKLAŞIMI"
+  },
+  {
+    "question": "İngiltere'nin kuzey bölgesinde yer alan, yeni güvenlik yaklaşımının teorik zeminini insan güvenliğini yeniden anlama çabasıyla kuran okul hangisidir?",
+    "ground_truth": "Aberystwyth Okulu'dur.",
+    "source_file": "SOS47.md",
+    "source_section": "## YENİ GÜVENLİK YAKLAŞIMI"
+  },
+  {
+    "question": "Dış politikanın rasyonel olabilme katsayısını artırmak amacıyla kamuoyu görüşlerinin yeni geliştirilecek dış politika araçlarına aktarılması ve sivil toplum kuruluşlarıyla yürütülen faaliyetler hangi kavram altında ele alınmaktadır?",
+    "ground_truth": "Kamu diplomasisi'dir.",
+    "source_file": "SOS47.md",
+    "source_section": "## DIŞ POLİTİKA KURGUSUNDA YENİ YAKLAŞIMLAR"
+  },
+  {
+    "question": "Türkiye'nin dış politikada kullandığı ve tarihi miras ile ortak kültürel ögeler üzerinden söylem analizi geliştirdiği güç kavramı hangisidir?",
+    "ground_truth": "Yumuşak güç (veya ince güç) dür.",
+    "source_file": "SOS47.md",
+    "source_section": "## TÜRK DIŞ POLİTİKASINDA İNSAN GÜVENLİĞİ EKSENİNDE YAPILANMA"
+  },
+  {
+    "question": "Türkiye'nin Suriye'nin kuzeyinde DEAŞ merkezli güvenlik tehditlerini bertaraf etmek amacıyla Ağustos 2016 - Şubat 2017 döneminde icra ettiği ve 2.000 kilometrekarelik bir alanı terörden arındırdığı askeri harekâtın adı nedir?",
+    "ground_truth": "Fırat Kalkanı Harekâtı'dır.",
+    "source_file": "SOS47.md",
+    "source_section": "## SONUÇ"
+  },
+  {
+    "question": "Bu çalışmada yeni güvenlik yaklaşımlarının devletlerin dış politika formülasyonu üzerine etkisini inceleyen modelin bağımlı değişkeni nedir?",
+    "ground_truth": "Yeni güvenlik yaklaşımlarının devletlerin dış politika formülasyonu üzerine etkisidir.",
+    "source_file": "SOS47.md",
+    "source_section": "## GİRİŞ"
+  },
+  {
+    "question": "Immanuel Wallerstein'ın Soğuk Savaş döneminde ortaya koyduğu, göç hareketlerinin yoksul ülkelerden zengin ülkelere olan akışını anlamlandırmada kullanılan yaklaşımın adı nedir?",
+    "ground_truth": "Merkez-Çevre Yaklaşımı'dır.",
+    "source_file": "SOS48.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Göç hareketlerinin sebeplerini açıklayan kuramsal yaklaşımlardan Stouffer (1940) ve Everett Lee (1966) tarafından geliştirilen kuramlar sırasıyla hangileridir?",
+    "ground_truth": "Stouffer'in Kesişen Fırsatlar Kuramı ve Everett Lee'nin İtme Çekme Kuramı'dır.",
+    "source_file": "SOS48.md",
+    "source_section": "## Giriş"
+  },
+  {
+    "question": "Uluslararası işçi göçünü modern sanayileşmiş ekonomilerin yapısal gereksinimlerine bağlayan ve bireysel karar süreçlerini ikinci plana iten göç kuramı hangisidir?",
+    "ground_truth": "İkili İşgücü Piyasası Kuramı'dır.",
+    "source_file": "SOS48.md",
+    "source_section": "## Göç Olgusunun Kavramsal ve Tarihsel Boyutu"
+  },
+  {
+    "question": "1970-2015 yılları arası dünya göç istatistiklerine göre, 2015 yılında dünyadaki göçmen sayısı yaklaşık kaç kişiye ulaşmıştır ve bu sayının dünya nüfusuna oranı yüzde kaçtır?",
+    "ground_truth": "Göçmen sayısı 243,700,236 kişidir ve dünya nüfusuna oranı %3.3'tür.",
+    "source_file": "SOS48.md",
+    "source_section": "Tablo 1: 1970-2015 Dünya Göç İstatistikleri"
+  },
+  {
+    "question": "Avrupa Parlamentosu'nun 2019 raporuna göre, dünya genelindeki göçmenlerin %53'ünü oluşturan en yoğun göç veren ülkelerin ortak özellikleri nelerdir?",
+    "ground_truth": "Yoksulluk, gelir dağılımı adaletsizliği, zayıf siyasi ve demokratik kurumsallaşmadır.",
+    "source_file": "SOS48.md",
+    "source_section": "## Göç Olgusunun Kavramsal ve Tarihsel Boyutu"
+  },
+  {
+    "question": "İkinci Dünya Savaşı sonrasında, savaşın yarattığı can kayıpları nedeniyle oluşan işgücü açığını kapatmak amacıyla Avrupa'da güneydeki çevre ülkelerden davet edilen vasıfsız çalışanlara ne ad verilmiştir?",
+    "ground_truth": "'Misafir işçiler' (guest workers) adı verilmiştir.",
+    "source_file": "SOS48.md",
+    "source_section": "## Avrupa Birliği'nin Göç Sorununa İlişkin Yaklaşım ve Politikaları"
+  },
+  {
+    "question": "Göçmenlerin Avrupa ülkelerindeki siyasal yapıya etkileri bağlamında, sınır güvenliği, Avrupalı kimliği, radikalleşme ve yabancı düşmanlığı söylemleri üzerinden konunun bir tehdit olarak sunulması sürecine ne ad verilir?",
+    "ground_truth": "Göçün güvenlikleştirilmesi (securitization of migration) denir.",
+    "source_file": "SOS48.md",
+    "source_section": "## Avrupa Birliği'nin Göç Sorununa İlişkin Yaklaşım ve Politikaları"
+  },
+  {
+    "question": "Avrupa Birliği'nin, başta düzensiz göç hareketleri olmak üzere sınırlara yönelik her türlü tehditle mücadele etmek amacıyla 2004 yılında kurduğu Sınır Güvenliği Birimi'nin adı nedir?",
+    "ground_truth": "FRONTEX'tir.",
+    "source_file": "SOS48.md",
+    "source_section": "## Avrupa Birliği'nin Göç Sorununa İlişkin Yaklaşım ve Politikaları"
+  },
+  {
+    "question": "Aşırı sağcı partilerin yükselişiyle birlikte Avrupa siyasetinde Müslüman göçmenlere yönelik gelişen ırkçı ve ayrımcı eğilimi tanımlayan kavram hangisidir?",
+    "ground_truth": "İslamofobi'dir.",
+    "source_file": "SOS48.md",
+    "source_section": "## Avrupa Birliği'nin Göç Sorununa İlişkin Yaklaşım ve Politikaları"
+  },
+  {
+    "question": "Bu çalışmada Avrupa Birliği'nin göç ve göçmenlik sorununda birlikte hareket etmesi, sınır güvenliği ve yük paylaşımı kapsamında koordineli çalışması gereken en kritik komşu ülke olarak hangisi gösterilmiştir?",
+    "ground_truth": "Türkiye'dir.",
+    "source_file": "SOS48.md",
+    "source_section": "## Sonuç"
+  },
+  {
+    "question": "Balkanlar'dan gelen Türk soylu muhacirlerin yerleştirilmesi ile Türk kültür ve dil birliğinin güçlendirilmesini amaçlayan 1934 tarihli ve 2510 sayılı yasal düzenlemenin adı nedir?",
+    "ground_truth": "İskan Kanunu'dur.",
+    "source_file": "SOS49.md",
+    "source_section": "## Göç Hareketleri Bağlamında Türkiye - Avrupa Birliği İlişkileri"
+  },
+  {
+    "question": "1951 tarihli Cenevre Sözleşmesi uyarınca mülteci statüsünün kazanılabilmesi için aranan, göçün coğrafi kökenine ilişkin en temel şart nedir?",
+    "ground_truth": "Göçün sadece Avrupa ülkelerinde meydana gelen olaylardan dolayı (Avrupa'dan) gerçekleşmiş olmasıdır.",
+    "source_file": "SOS49.md",
+    "source_section": "## 1.2. Mülteci Kavramı"
+  },
+  {
+    "question": "Yabancılar ve Uluslararası Koruma Kanunu'nun 91. maddesine göre kendi ülkesinden ayrılmak mecburiyetinde kalmış ve geri dönme şansı olmayan, kitleler halinde Türkiye sınırlarına gelen kişilere acil olarak sağlanan hak ve yükümlülükleri içeren statü nedir?",
+    "ground_truth": "Geçici koruma statüsü'dür.",
+    "source_file": "SOS49.md",
+    "source_section": "## 1.3. Geçici Koruma Statüsü Kavramı"
+  },
+  {
+    "question": "Geçici koruma yönetmeliği uyarınca, bu statüye sahip kişilerin Türkiye Cumhuriyeti'nde geçirdikleri süreler hangi yasal başvuru hakkının kazanılmasında hesaba katılmaz?",
+    "ground_truth": "Türk vatandaşlığına başvuru hakkının kazanılmasında dikkate alınmaz.",
+    "source_file": "SOS49.md",
+    "source_section": "## 1.3. Geçici Koruma Statüsü Kavramı"
+  },
+  {
+    "question": "Hedef ülkeğe ulaşmak amacıyla kaynak ülkeden yola çıkan düzensiz göçmenlerin yasal ya da yasal olmayan yollardan geçiş yaptığı ülkelere ne ad verilir?",
+    "ground_truth": "Transit ülke adı verilir.",
+    "source_file": "SOS49.md",
+    "source_section": "## 1.5. Transit Ülke Kavramı"
+  },
+  {
+    "question": "Siyasi iltica taleplerinin hangi AB üyesi devlet tarafından inceleneceğine karar vermek amacıyla 18 Şubat 2003 tarihinde Avrupa Konseyi tarafından kabul edilen yönetmelik hangisidir?",
+    "ground_truth": "Dublin Yönetmeliği'dir.",
+    "source_file": "SOS49.md",
+    "source_section": "## 2. Dublin Yönetmeliği ve İlk İltica Talebinin Hangi Ülkeye Yapıla -cağı Konusu"
+  },
+  {
+    "question": "BM Mülteciler Yüksek Komiserliği tarafından tanımlanan ve sığınmacının bulunduğu hedef ülke yerine transit geçtiği güvenli kabul edilen ülkede uluslararası koruma talebinde bulunması gerektiğini savunan mekanizmanın adı nedir?",
+    "ground_truth": "Güvenli Üçüncü Ülke kavramı (mekanizması) dır.",
+    "source_file": "SOS49.md",
+    "source_section": "## 2. Dublin Yönetmeliği ve İlk İltica Talebinin Hangi Ülkeye Yapıla -cağı Konusu"
+  },
+  {
+    "question": "Suriyeli sığınmacıların Türkiye üzerinden Yunanistan, Macaristan ve Sırbistan'a girmek için kullandıkları deniz ve kara yollarını kapsayan rotanın adı nedir?",
+    "ground_truth": "Doğu Akdeniz rotasıdır.",
+    "source_file": "SOS49.md",
+    "source_section": "## 4. Avrupa Birliği Geri Kabul Anlaşmaları"
+  },
+  {
+    "question": "Eylül 2020 tarihinde AB Komisyonu tarafından üye ülkeler arasında sığınmacı paylaşımı, geri gönderme maliyetleri ve operasyonel tedbirlere mali kaynak sağlanması amacıyla sunulan üç seçenekli sistemin adı nedir?",
+    "ground_truth": "Yeni Göç ve İltica Paktı'dır.",
+    "source_file": "SOS49.md",
+    "source_section": "## 5. Yeni Göç ve İltica Paktı"
+  },
+  {
+    "question": "Türkiye ile AB arasında yasadışı yollarla sınırlardan geçen üçüncü ülke vatandaşlarının iadesini öngören Geri Kabul Anlaşması ile vize serbestisi diyaloğu mutabakat metni hangi tarihte imzalanmıştır?",
+    "ground_truth": "16 Aralık 2013 tarihinde imzalanmıştır.",
+    "source_file": "SOS49.md",
+    "source_section": "## 6. Türkiye- AB Vize Serbestisi Mutabakat Metni ve Geri Kabul An -laşması"
+  },
+  {
+    "question": "Bu çalışmada NATO'nun kuruluşundan itibaren geçirdiği dönüşüm ve Türkiye'nin ittifaktaki stratejik rolü hangi uluslararası ilişkiler teorisi çerçevesinde ele alınmaktadır?",
+    "ground_truth": "Yapısal realizm (neorealizm) teorisi çerçevesinde ele alınmaktadır.",
+    "source_file": "SOS50.md",
+    "source_section": "## Özet"
+  },
+  {
+    "question": "NATO'nun kolektif savunma anlayışının temelini oluşturan, üye ülkelerden birine yapılan saldırının tüm üyelere yapılmış sayılacağını taahhüt eden Washington Antlaşması'nın maddesi hangisidir?",
+    "ground_truth": "5. Madde'dir (Madde 5).",
+    "source_file": "SOS50.md",
+    "source_section": "## 2. Tarihsel arka plan"
+  },
+  {
+    "question": "1952 yılında ittifaka dahil edilerek NATO'nun ilk genişleme dalgasını oluşturan iki ülke hangileridir?",
+    "ground_truth": "Türkiye ve Yunanistan'dır.",
+    "source_file": "SOS50.md",
+    "source_section": "## 2. Tarihsel arka plan"
+  },
+  {
+    "question": "1999 yılında NATO'ya katılarak ittifakın doğuya doğru genişlemesinde ilk önemli dönüm noktasını oluşturan üç ülke hangileridir?",
+    "ground_truth": "Çek Cumhuriyeti, Macaristan ve Polonya'dır.",
+    "source_file": "SOS50.md",
+    "source_section": "## 2. Tarihsel arka plan"
+  },
+  {
+    "question": "NATO-Rusya ilişkilerinde ciddi krizlere yol açan, 2008 ve 2014 yıllarında yaşanan ve Rusya'nın genişleme politikalarını tehdit olarak algılamasını gösteren krizler sırasıyla hangi ülkelerde yaşanmıştır?",
+    "ground_truth": "2008 yılında Gürcistan'da ve 2014 yılında Ukrayna'da yaşanmıştır.",
+    "source_file": "SOS50.md",
+    "source_section": "## 3. NATO'nun genişleme politikaları"
+  },
+  {
+    "question": "Soğuk Savaş döneminde Batı'nın güvenini kazanmak amacıyla asker gönderen ve bu katkısıyla 1952'de NATO'ya üye kabul edilen Türkiye, bu askerleri hangi savaşa göndermiştir?",
+    "ground_truth": "Kore Savaşı'na göndermiştir.",
+    "source_file": "SOS50.md",
+    "source_section": "## 4. Türkiye'nin NATO ile stratejik ilişkileri: tarihsel ve güncel dinamikler"
+  },
+  {
+    "question": "Türkiye'nin Rusya'dan satın aldığı ve NATO müttefikleriyle (özellikle ABD ile) ilişkilerinde F-35 programından çıkarılmasına varan krizlere yol açan savunma sisteminin adı nedir?",
+    "ground_truth": "S-400 hava savunma sistemi'dir.",
+    "source_file": "SOS50.md",
+    "source_section": "## 4. Türkiye'nin NATO ile stratejik ilişkileri: tarihsel ve güncel dinamikler"
+  },
+  {
+    "question": "NATO'nun enerji güvenliği konusunu temel bir güvenlik meselesi olarak ilk kez ele aldığı zirve hangisidir?",
+    "ground_truth": "2010 Lizbon Zirvesi'dir.",
+    "source_file": "SOS50.md",
+    "source_section": "## 5. Türkiye'nin NATO üyeliğini belirleyen dinamikler"
+  },
+  {
+    "question": "Türkiye'nin savunma sanayisindeki yerlilik oranının %80'lere yaklaşmasıyla birlikte ittifak içerisindeki kimlik değişimi nasıl tanımlanmıştır?",
+    "ground_truth": "Güvenlik tüketicisi olmaktan çıkıp güvenlik sağlayıcısı konumuna gelmesi olarak tanımlanmıştır.",
+    "source_file": "SOS50.md",
+    "source_section": "## 9. Türkiye'nin yükselen savunma sanayisi ve NATO ile entegrasyonu"
+  },
+  {
+    "question": "2021 yılında Türkiye'den 24 adet Bayraktar TB2 satın alarak Türkiye'nin NATO üyesi bir ülkeye yaptığı ilk insansız hava aracı ihracatını gerçekleştiren ülke hangisidir?",
+    "ground_truth": "Polonya'dır.",
+    "source_file": "SOS50.md",
+    "source_section": "## 9. Türkiye'nin yükselen savunma sanayisi ve NATO ile entegrasyonu"
+  }
+]
