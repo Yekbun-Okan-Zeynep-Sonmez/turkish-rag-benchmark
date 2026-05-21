@@ -1016,7 +1016,8 @@
   {
     "question": "Bu çalışmada, Naive Bayes ve Destek Vektör Makinesi (DVM) sınıflandırıcıları kullanılarak yapılan sınıflandırma deneyleri sonucunda, transfer öğrenme (Word2Vec + Transfer Learning) desteğiyle en yüksek doğruluk oranı ve performansı gösteren makine öğrenmesi modeli hangisidir?",
     "ground_truth": "Destek Vektör Makinesi (DVM) modelidir.",
-    "source_file": "## V. SONUÇ"
+    "source_file": "m28.md",
+    "source_section": "## V. SONUÇ"
   },
   {
     "question": "Türkçe haber metinlerinin sınıflandırılması ve ilişkisel analizi amacıyla TRT Haber'in resmi dijital platformlarından 06.04.2023 ile 13.11.2023 tarihleri arasında derlenerek bu çalışmada literatüre sunulan açık kaynaklı veri kümesinin adı nedir?",
