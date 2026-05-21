@@ -1,303 +1,303 @@
-﻿[
+[
   {
-    "question": "Psikolojik iyi oluÅŸ nedir ve Ryff'e gÃ¶re nasÄ±l tanÄ±mlanmÄ±ÅŸtÄ±r?",
-    "ground_truth": "Psikolojik iyi oluÅŸ, iÃ§inde doyumlu bir yaÅŸam ve Ã¶z deÄŸeri barÄ±ndÄ±ran duygu ve dÃ¼ÅŸÃ¼ncelerle iliÅŸkilendirilmiÅŸ bir kavramdÄ±r. Ryff'e gÃ¶re psikolojik iyi oluÅŸ, yaÅŸam boyu karÅŸÄ±laÅŸÄ±labilecek zorluklarÄ±n idare edilebilmesi ve yÃ¶netilebilmesidir.",
+    "question": "Psikolojik iyi oluş nedir ve Ryff'e göre nasıl tanımlanmıştır?",
+    "ground_truth": "Psikolojik iyi oluş, içinde doyumlu bir yaşam ve öz değeri barındıran duygu ve düşüncelerle ilişkilendirilmiş bir kavramdır. Ryff'e göre psikolojik iyi oluş, yaşam boyu karşılaşılabilecek zorlukların idare edilebilmesi ve yönetilebilmesidir.",
     "source_file": "SOS01.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "SaÄŸlÄ±k kaygÄ±sÄ±nÄ±n biliÅŸsel boyutunda gÃ¶rÃ¼len en temel iÅŸlevsel olmayan inanÃ§ nedir?",
-    "ground_truth": "Otonom sinir sisteminin uyarÄ±lmasÄ±yla ortaya Ã§Ä±kan bedensel belirtilerin veya bedendeki hafif rahatsÄ±zlÄ±klarÄ±n daha ciddi bir hastalÄ±k belirtisi ÅŸeklinde yorumlanmasÄ±dÄ±r.",
+    "question": "Sağlık kaygısının bilişsel boyutunda görülen en temel işlevsel olmayan inanç nedir?",
+    "ground_truth": "Otonom sinir sisteminin uyarılmasıyla ortaya çıkan bedensel belirtilerin veya bedendeki hafif rahatsızlıkların daha ciddi bir hastalık belirtisi şeklinde yorumlanmasıdır.",
     "source_file": "SOS01.md",
-    "source_section": "## SaÄŸlÄ±k KaygÄ±sÄ±"
+    "source_section": "## Sağlık Kaygısı"
   },
   {
-    "question": "Uyumlu ve uyumsuz duygu dÃ¼zenleme stratejileri nelerdir?",
-    "ground_truth": "Yeniden deÄŸerlendirme, kabullenme, problem Ã§Ã¶zme gibi stratejiler uyumlu; kaÃ§Ä±nma, ruminasyon, bastÄ±rma gibi stratejiler ise uyumsuz duygu dÃ¼zenleme stratejileridir.",
+    "question": "Uyumlu ve uyumsuz duygu düzenleme stratejileri nelerdir?",
+    "ground_truth": "Yeniden değerlendirme, kabullenme, problem çözme gibi stratejiler uyumlu; kaçınma, ruminasyon, bastırma gibi stratejiler ise uyumsuz duygu düzenleme stratejileridir.",
     "source_file": "SOS01.md",
-    "source_section": "## Duygu DÃ¼zenleme"
+    "source_section": "## Duygu Düzenleme"
   },
   {
-    "question": "Foa ve Kozak'a gÃ¶re uyumsuz duygu dÃ¼zenleme stratejileri nasÄ±l bir etki yaratÄ±r?",
-    "ground_truth": "Foa ve Kozak'a gÃ¶re uyumsuz duygu dÃ¼zenleme stratejileri, Ã¶zellikle biliÅŸsel kaÃ§Ä±nma, duygusal iÅŸlemeyi engellemektedir.",
+    "question": "Foa ve Kozak'a göre uyumsuz duygu düzenleme stratejileri nasıl bir etki yaratır?",
+    "ground_truth": "Foa ve Kozak'a göre uyumsuz duygu düzenleme stratejileri, özellikle bilişsel kaçınma, duygusal işlemeyi engellemektedir.",
     "source_file": "SOS01.md",
-    "source_section": "## Duygu DÃ¼zenleme"
+    "source_section": "## Duygu Düzenleme"
   },
   {
-    "question": "SaÄŸlÄ±k kontrol odaÄŸÄ± (SKO) kavramÄ± hangi Ã¼Ã§ boyuttan oluÅŸur?",
-    "ground_truth": "Ä°Ã§sel SKO, ÅŸansa baÄŸlÄ± SKO ve gÃ¼Ã§lÃ¼ diÄŸerleri SKO olmak Ã¼zere Ã¼Ã§ boyuttan oluÅŸur.",
+    "question": "Sağlık kontrol odağı (SKO) kavramı hangi üç boyuttan oluşur?",
+    "ground_truth": "İçsel SKO, şansa bağlı SKO ve güçlü diğerleri SKO olmak üzere üç boyuttan oluşur.",
     "source_file": "SOS01.md",
-    "source_section": "## SaÄŸlÄ±k Kontrol OdaÄŸÄ±"
+    "source_section": "## Sağlık Kontrol Odağı"
   },
   {
-    "question": "Ä°Ã§ kontrol odaÄŸÄ± hangi faktÃ¶rlerle iliÅŸkilendirilmiÅŸtir?",
-    "ground_truth": "Ä°Ã§ kontrol odaÄŸÄ± daha Ã§ok psikolojik iyi oluÅŸ, uyumlu duygu dÃ¼zenleme stratejileri, baÅŸ etme becerileri, stres toleransÄ± ile iliÅŸkilendirilmiÅŸ ve Ã¶zellikle depresyon iÃ§in koruyucu bir faktÃ¶r olduÄŸu saptanmÄ±ÅŸtÄ±r.",
+    "question": "İç kontrol odağı hangi faktörlerle ilişkilendirilmiştir?",
+    "ground_truth": "İç kontrol odağı daha çok psikolojik iyi oluş, uyumlu duygu düzenleme stratejileri, baş etme becerileri, stres toleransı ile ilişkilendirilmiş ve özellikle depresyon için koruyucu bir faktör olduğu saptanmıştır.",
     "source_file": "SOS01.md",
-    "source_section": "## SaÄŸlÄ±k Kontrol OdaÄŸÄ±"
+    "source_section": "## Sağlık Kontrol Odağı"
   },
   {
-    "question": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklemine dahil edilen katÄ±lÄ±mcÄ±larÄ±n Ã¶zellikleri nelerdir?",
-    "ground_truth": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklemini 18-53 yaÅŸ aralÄ±ÄŸÄ±nda, Ã§evrimiÃ§i Ã§alÄ±ÅŸmaya gÃ¶nÃ¼llÃ¼ katÄ±lmayÄ± kabul eden ve psikiyatrik bir tanÄ± almamÄ±ÅŸ, tedavi gÃ¶rmeyen 475'i kadÄ±n, 35'i erkek toplam 510 yetiÅŸkin oluÅŸturmuÅŸtur.",
+    "question": "Çalışmanın örneklemine dahil edilen katılımcıların özellikleri nelerdir?",
+    "ground_truth": "Çalışmanın örneklemini 18-53 yaş aralığında, çevrimiçi çalışmaya gönüllü katılmayı kabul eden ve psikiyatrik bir tanı almamış, tedavi görmeyen 475'i kadın, 35'i erkek toplam 510 yetişkin oluşturmuştur.",
     "source_file": "SOS01.md",
-    "source_section": "## Ã–rneklem"
+    "source_section": "## Örneklem"
   },
   {
-    "question": "SaÄŸlÄ±k Anksiyetesi Ã–lÃ§eÄŸi (SAÃ–) kaÃ§ maddeden oluÅŸur ve alt boyutlarÄ± nelerdir?",
-    "ground_truth": "DÃ¶rtlÃ¼ Likert tipindeki 18 maddeden oluÅŸur. Ä°lk 14 madde bedensel belirtilere aÅŸÄ±rÄ± duyarlÄ±lÄ±k ve kaygÄ± dÃ¼zeyini, diÄŸer 4 madde ise hastalÄ±ÄŸÄ±n sonuÃ§larÄ±na dair olumsuz algÄ±yÄ± deÄŸerlendirmektedir.",
+    "question": "Sağlık Anksiyetesi Ölçeği (SAÖ) kaç maddeden oluşur ve alt boyutları nelerdir?",
+    "ground_truth": "Dörtlü Likert tipindeki 18 maddeden oluşur. İlk 14 madde bedensel belirtilere aşırı duyarlılık ve kaygı düzeyini, diğer 4 madde ise hastalığın sonuçlarına dair olumsuz algıyı değerlendirmektedir.",
     "source_file": "SOS01.md",
-    "source_section": "## Veri toplama araÃ§larÄ±"
+    "source_section": "## Veri toplama araçları"
   },
   {
-    "question": "Duygu DÃ¼zenleme GÃ¼Ã§lÃ¼ÄŸÃ¼ Ã–lÃ§eÄŸi'nin (DDGÃ–) alt boyutlarÄ± nelerdir?",
-    "ground_truth": "FarkÄ±ndalÄ±k, aÃ§Ä±klÄ±k, kabul etmeme, stratejiler, dÃ¼rtÃ¼ ve amaÃ§lar olmak Ã¼zere 6 alt boyutu vardÄ±r.",
+    "question": "Duygu Düzenleme Güçlüğü Ölçeği'nin (DDGÖ) alt boyutları nelerdir?",
+    "ground_truth": "Farkındalık, açıklık, kabul etmeme, stratejiler, dürtü ve amaçlar olmak üzere 6 alt boyutu vardır.",
     "source_file": "SOS01.md",
-    "source_section": "## Veri toplama araÃ§larÄ±"
+    "source_section": "## Veri toplama araçları"
   },
   {
-    "question": "Regresyon analizi bulgularÄ±na gÃ¶re saÄŸlÄ±k kaygÄ±sÄ± ve duygu dÃ¼zenleme gÃ¼Ã§lÃ¼ÄŸÃ¼ iyi oluÅŸu nasÄ±l yordamaktadÄ±r?",
-    "ground_truth": "SaÄŸlÄ±k kaygÄ±sÄ± ve duygu dÃ¼zenleme gÃ¼Ã§lÃ¼ÄŸÃ¼ psikolojik iyi oluÅŸu olumsuz yÃ¶nde ve anlamlÄ± olarak yordamaktadÄ±r.",
+    "question": "Regresyon analizi bulgularına göre sağlık kaygısı ve duygu düzenleme güçlüğü iyi oluşu nasıl yordamaktadır?",
+    "ground_truth": "Sağlık kaygısı ve duygu düzenleme güçlüğü psikolojik iyi oluşu olumsuz yönde ve anlamlı olarak yordamaktadır.",
     "source_file": "SOS01.md",
     "source_section": "## Bulgular"
   },
   {
-    "question": "Depresyon nedir ve diÄŸer bozukluklardan ayÄ±ran en Ã¶nemli fark nedir?",
-    "ground_truth": "Depresyon, bireylerin duygudurumlarÄ±nda deÄŸiÅŸimlere neden olan, Ã¶z eleÅŸtiri yaptÄ±ÄŸÄ±, kendini suÃ§ladÄ±ÄŸÄ±, uyku ve iÅŸtah deÄŸiÅŸimlerinin yaÅŸandÄ±ÄŸÄ± ruhsal bir bozukluktur. Normal Ã¼zÃ¼ntÃ¼den en Ã¶nemli farkÄ±, depresyonda rastlanan karamsarlÄ±k duygusudur.",
+    "question": "Depresyon nedir ve diğer bozukluklardan ayıran en önemli fark nedir?",
+    "ground_truth": "Depresyon, bireylerin duygudurumlarında değişimlere neden olan, öz eleştiri yaptığı, kendini suçladığı, uyku ve iştah değişimlerinin yaşandığı ruhsal bir bozukluktur. Normal üzüntüden en önemli farkı, depresyonda rastlanan karamsarlık duygusudur.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "DÃ¼nya SaÄŸlÄ±k Ã–rgÃ¼tÃ¼'nÃ¼n 2017 raporuna gÃ¶re dÃ¼nyada kaÃ§ kiÅŸi depresif bozukluk yaÅŸamaktadÄ±r?",
-    "ground_truth": "DÃ¼nyada 322 milyon kiÅŸinin depresif bozukluk yaÅŸadÄ±ÄŸÄ± belirtilmiÅŸtir.",
+    "question": "Dünya Sağlık Örgütü'nün 2017 raporuna göre dünyada kaç kişi depresif bozukluk yaşamaktadır?",
+    "ground_truth": "Dünyada 322 milyon kişinin depresif bozukluk yaşadığı belirtilmiştir.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "AlgÄ±lanan sosyal destek kavramÄ± nasÄ±l tanÄ±mlanmaktadÄ±r?",
-    "ground_truth": "Bireyin kendisi ve Ã§evresindeki kiÅŸilerle oluÅŸturulan sosyal aÄŸÄ±n yeterli bir biÃ§imde destekleyici olduÄŸuna dair algÄ±sÄ± ve ihtiyaÃ§ hissettiÄŸinde diÄŸerlerinden yardÄ±m alabileceÄŸine iliÅŸkin inancÄ±dÄ±r.",
+    "question": "Algılanan sosyal destek kavramı nasıl tanımlanmaktadır?",
+    "ground_truth": "Bireyin kendisi ve çevresindeki kişilerle oluşturulan sosyal ağın yeterli bir biçimde destekleyici olduğuna dair algısı ve ihtiyaç hissettiğinde diğerlerinden yardım alabileceğine ilişkin inancıdır.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "MinnettarlÄ±k ve depresyon arasÄ±nda nasÄ±l bir iliÅŸki bulunmuÅŸtur?",
-    "ground_truth": "YapÄ±lan Ã§alÄ±ÅŸmalarda, minnettarlÄ±ÄŸÄ±n depresyonla negatif yÃ¶nde iliÅŸkili olduÄŸu tespit edilmiÅŸtir.",
+    "question": "Minnettarlık ve depresyon arasında nasıl bir ilişki bulunmuştur?",
+    "ground_truth": "Yapılan çalışmalarda, minnettarlığın depresyonla negatif yönde ilişkili olduğu tespit edilmiştir.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "Ã–znel iyi oluÅŸ hangi bileÅŸenlerden oluÅŸur ve nasÄ±l tanÄ±mlanÄ±r?",
-    "ground_truth": "YaÅŸam doyumu, olumlu ve olumsuz duygu bileÅŸenlerinden oluÅŸur. Bireyin hayatÄ±yla ilgili duygusal ve biliÅŸsel deÄŸerlendirmesidir.",
+    "question": "Öznel iyi oluş hangi bileşenlerden oluşur ve nasıl tanımlanır?",
+    "ground_truth": "Yaşam doyumu, olumlu ve olumsuz duygu bileşenlerinden oluşur. Bireyin hayatıyla ilgili duygusal ve bilişsel değerlendirmesidir.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "Ontolojik iyi oluÅŸ neyi ifade eder?",
-    "ground_truth": "Bireyin geÃ§miÅŸi, ÅŸimdiyi ve geleceÄŸini dÃ¼ÅŸÃ¼nerek kendi yaÅŸam projesini deÄŸerlendirmesidir.",
+    "question": "Ontolojik iyi oluş neyi ifade eder?",
+    "ground_truth": "Bireyin geçmişi, şimdiyi ve geleceğini düşünerek kendi yaşam projesini değerlendirmesidir.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "AraÅŸtÄ±rmanÄ±n temel hipotezleri nelerdir?",
-    "ground_truth": "1) AlgÄ±lanan sosyal destek, minnettarlÄ±k dÄ±ÅŸavurumu, ontolojik iyi oluÅŸ ve depresyonun birbirleriyle anlamlÄ± iliÅŸkilere sahip olacaÄŸÄ±, 2) AlgÄ±lanan sosyal destek ve depresyon arasÄ±ndaki iliÅŸkide minnettarlÄ±k dÄ±ÅŸavurumu ve ontolojik iyi oluÅŸun seri aracÄ±lÄ±k rollerine sahip olacaÄŸÄ±.",
+    "question": "Araştırmanın temel hipotezleri nelerdir?",
+    "ground_truth": "1) Algılanan sosyal destek, minnettarlık dışavurumu, ontolojik iyi oluş ve depresyonun birbirleriyle anlamlı ilişkilere sahip olacağı, 2) Algılanan sosyal destek ve depresyon arasındaki ilişkide minnettarlık dışavurumu ve ontolojik iyi oluşun seri aracılık rollerine sahip olacağı.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–z / GiriÅŸ"
+    "source_section": "## Öz / Giriş"
   },
   {
-    "question": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklemi kaÃ§ kiÅŸiden oluÅŸmaktadÄ±r ve yaÅŸ aralÄ±ÄŸÄ± nedir?",
-    "ground_truth": "Ã‡alÄ±ÅŸmaya 18 ile 64 yaÅŸ arasÄ±nda deÄŸiÅŸen 177 kadÄ±n ve 93 erkek olmak Ã¼zere toplam 270 kiÅŸi dahil edilmiÅŸtir.",
+    "question": "Çalışmanın örneklemi kaç kişiden oluşmaktadır ve yaş aralığı nedir?",
+    "ground_truth": "Çalışmaya 18 ile 64 yaş arasında değişen 177 kadın ve 93 erkek olmak üzere toplam 270 kişi dahil edilmiştir.",
     "source_file": "SOS02.md",
-    "source_section": "## Ã–rneklem"
+    "source_section": "## Örneklem"
   },
   {
-    "question": "Beck Depresyon Ã–lÃ§eÄŸi'nin (BDÃ–) amacÄ± nedir ve kesme puanÄ± kaÃ§tÄ±r?",
-    "ground_truth": "KiÅŸilerin depresyon risklerini belirlemek ve depresyonun derecesini objektif bir ÅŸekilde sayÄ±lara dÃ¶kmek iÃ§in geliÅŸtirilmiÅŸtir. Kesme puanÄ± 17 olarak belirlenmiÅŸtir.",
+    "question": "Beck Depresyon Ölçeği'nin (BDÖ) amacı nedir ve kesme puanı kaçtır?",
+    "ground_truth": "Kişilerin depresyon risklerini belirlemek ve depresyonun derecesini objektif bir şekilde sayılara dökmek için geliştirilmiştir. Kesme puanı 17 olarak belirlenmiştir.",
     "source_file": "SOS02.md",
-    "source_section": "## Veri Toplama AraÃ§larÄ±"
+    "source_section": "## Veri Toplama Araçları"
   },
   {
-    "question": "Seri aracÄ±lÄ±k analizi sonuÃ§larÄ±na gÃ¶re algÄ±lanan sosyal desteÄŸin depresyon Ã¼zerindeki etkisi hangi deÄŸiÅŸkenler Ã¼zerinden gerÃ§ekleÅŸir?",
-    "ground_truth": "AlgÄ±lanan sosyal desteÄŸin depresyon Ã¼zerindeki etkisi, hem minnettarlÄ±k dÄ±ÅŸavurumu hem de ontolojik iyi oluÅŸ aracÄ±lÄ±ÄŸÄ±yla gerÃ§ekleÅŸmektedir.",
+    "question": "Seri aracılık analizi sonuçlarına göre algılanan sosyal desteğin depresyon üzerindeki etkisi hangi değişkenler üzerinden gerçekleşir?",
+    "ground_truth": "Algılanan sosyal desteğin depresyon üzerindeki etkisi, hem minnettarlık dışavurumu hem de ontolojik iyi oluş aracılığıyla gerçekleşmektedir.",
     "source_file": "SOS02.md",
-    "source_section": "## TartÄ±ÅŸma"
+    "source_section": "## Tartışma"
   },
   {
-    "question": "YalnÄ±zlÄ±k kavramÄ± nasÄ±l tanÄ±mlanmaktadÄ±r?",
-    "ground_truth": "Bireyin, sahip olduÄŸu sosyal Ã§evrenin geniÅŸliÄŸi ve kalitesine iliÅŸkin Ã¶znel algÄ±sÄ± ile sahip olmayÄ± arzu ettiÄŸi sosyal Ã§evrenin nitelik ve nicelik aÃ§Ä±sÄ±ndan Ã¶rtÃ¼ÅŸmemesi durumunda yaÅŸadÄ±ÄŸÄ± olumsuz deneyimlerdir.",
+    "question": "Yalnızlık kavramı nasıl tanımlanmaktadır?",
+    "ground_truth": "Bireyin, sahip olduğu sosyal çevrenin genişliği ve kalitesine ilişkin öznel algısı ile sahip olmayı arzu ettiği sosyal çevrenin nitelik ve nicelik açısından örtüşmemesi durumunda yaşadığı olumsuz deneyimlerdir.",
     "source_file": "SOS03.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "YalnÄ±zlÄ±ÄŸÄ±n kavramsallaÅŸtÄ±rÄ±lmasÄ±nda hangi Ã¼Ã§ temel bileÅŸen Ã¼zerinde durulmaktadÄ±r?",
-    "ground_truth": "1) YakÄ±n baÄŸlanmanÄ±n bulunmamasÄ±ndan kaynaklanan yoksunluk durumu, 2) GeleceÄŸe yÃ¶nelik iyimser/kÃ¶tÃ¼mser yorumlar iÃ§eren zaman perspektifi, 3) ÃœzÃ¼ntÃ¼, keder, umutsuzluk gibi duygusal deneyimler.",
+    "question": "Yalnızlığın kavramsallaştırılmasında hangi üç temel bileşen üzerinde durulmaktadır?",
+    "ground_truth": "1) Yakın bağlanmanın bulunmamasından kaynaklanan yoksunluk durumu, 2) Geleceğe yönelik iyimser/kötümser yorumlar içeren zaman perspektifi, 3) Üzüntü, keder, umutsuzluk gibi duygusal deneyimler.",
     "source_file": "SOS03.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "Ä°Ã§sel, geliÅŸimsel ve durumsal yalnÄ±zlÄ±k arasÄ±ndaki farklar nelerdir?",
-    "ground_truth": "Ä°Ã§sel yalnÄ±zlÄ±k kiÅŸilik Ã¶zellikleri ve kontrol odaÄŸÄ± ile; geliÅŸimsel yalnÄ±zlÄ±k kiÅŸisel yetersizlikler, geliÅŸimsel bozukluklar ve yoksulluk ile; durumsal yalnÄ±zlÄ±k ise Ã§atÄ±ÅŸmalar, gÃ¶Ã§ler, kazalar ve felaketlerle iliÅŸkilidir.",
+    "question": "İçsel, gelişimsel ve durumsal yalnızlık arasındaki farklar nelerdir?",
+    "ground_truth": "İçsel yalnızlık kişilik özellikleri ve kontrol odağı ile; gelişimsel yalnızlık kişisel yetersizlikler, gelişimsel bozukluklar ve yoksulluk ile; durumsal yalnızlık ise çatışmalar, göçler, kazalar ve felaketlerle ilişkilidir.",
     "source_file": "SOS03.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "Sosyal yalnÄ±zlÄ±k ve duygusal yalnÄ±zlÄ±k nasÄ±l ayrÄ±lÄ±r?",
-    "ground_truth": "Sosyal yalnÄ±zlÄ±k sosyal iletiÅŸim aÄŸÄ±nÄ±n yetersizliÄŸinden kaynaklanan izolasyonu ifade ederken, duygusal yalnÄ±zlÄ±k baÄŸlanma nesnesinin yokluÄŸundan kaynaklanan hoÅŸnutsuzluk duygusunu ifade eder.",
+    "question": "Sosyal yalnızlık ve duygusal yalnızlık nasıl ayrılır?",
+    "ground_truth": "Sosyal yalnızlık sosyal iletişim ağının yetersizliğinden kaynaklanan izolasyonu ifade ederken, duygusal yalnızlık bağlanma nesnesinin yokluğundan kaynaklanan hoşnutsuzluk duygusunu ifade eder.",
     "source_file": "SOS03.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "YalnÄ±zlÄ±ÄŸÄ±n duygusal zeka ile iliÅŸkisi nasÄ±ldÄ±r?",
-    "ground_truth": "YalnÄ±zlÄ±ÄŸÄ±n, duygusal zeka ve pozitif duygulanÄ±m ile ters, aleksitimi ile pozitif yÃ¶nde iliÅŸki gÃ¶sterdiÄŸi bildirilmektedir.",
+    "question": "Yalnızlığın duygusal zeka ile ilişkisi nasıldır?",
+    "ground_truth": "Yalnızlığın, duygusal zeka ve pozitif duygulanım ile ters, aleksitimi ile pozitif yönde ilişki gösterdiği bildirilmektedir.",
     "source_file": "SOS03.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "Ã‡alÄ±ÅŸmanÄ±n Ã¶rneklem grubu kimlerden oluÅŸmaktadÄ±r?",
-    "ground_truth": "18-25 yaÅŸlarÄ± arasÄ±nda, 213'Ã¼ kadÄ±n ve 226'sÄ± erkek olmak Ã¼zere toplam 439 genÃ§ yetiÅŸkinden oluÅŸmaktadÄ±r.",
+    "question": "Çalışmanın örneklem grubu kimlerden oluşmaktadır?",
+    "ground_truth": "18-25 yaşları arasında, 213'ü kadın ve 226'sı erkek olmak üzere toplam 439 genç yetişkinden oluşmaktadır.",
     "source_file": "SOS03.md",
-    "source_section": "## KatÄ±lÄ±mcÄ±lar"
+    "source_section": "## Katılımcılar"
   },
   {
-    "question": "AraÅŸtÄ±rmada kullanÄ±lan UCLA YalnÄ±zlÄ±k Ã–lÃ§eÄŸi nasÄ±l puanlanÄ±r?",
-    "ground_truth": "4'lÃ¼ Likert tipi (1 = Ben Bu Durumu HiÃ§ YaÅŸamadÄ±m, 4 = Ben Bu Durumu SÄ±k SÄ±k YaÅŸarÄ±m) cevaplama seÃ§eneÄŸi iÃ§eren 20 maddeden oluÅŸur, yÃ¼ksek puan yalnÄ±zlÄ±k duygusunun yoÄŸunluÄŸunu gÃ¶sterir.",
+    "question": "Araştırmada kullanılan UCLA Yalnızlık Ölçeği nasıl puanlanır?",
+    "ground_truth": "4'lü Likert tipi (1 = Ben Bu Durumu Hiç Yaşamadım, 4 = Ben Bu Durumu Sık Sık Yaşarım) cevaplama seçeneği içeren 20 maddeden oluşur, yüksek puan yalnızlık duygusunun yoğunluğunu gösterir.",
     "source_file": "SOS03.md",
-    "source_section": "## GereÃ§ler"
+    "source_section": "## Gereçler"
   },
   {
-    "question": "Ã‡ok Boyutlu AlgÄ±lanan Sosyal Destek Ã–lÃ§eÄŸi'nde hangi alt boyutlar yer alÄ±r?",
-    "ground_truth": "Ã–lÃ§ekte sosyal desteÄŸin kaynaÄŸÄ±nÄ± belirten 'Aile', 'ArkadaÅŸ' ve 'Ã–zel Bir Ä°nsan' alt boyutlarÄ± yer alÄ±r.",
+    "question": "Çok Boyutlu Algılanan Sosyal Destek Ölçeği'nde hangi alt boyutlar yer alır?",
+    "ground_truth": "Ölçekte sosyal desteğin kaynağını belirten 'Aile', 'Arkadaş' ve 'Özel Bir İnsan' alt boyutları yer alır.",
     "source_file": "SOS03.md",
-    "source_section": "## GereÃ§ler"
+    "source_section": "## Gereçler"
   },
   {
-    "question": "Ã‡oklu doÄŸrusal regresyon analizi sonucuna gÃ¶re UCLA YalnÄ±zlÄ±k Ã–lÃ§eÄŸi puanÄ±nÄ± hangi deÄŸiÅŸkenler yordamaktadÄ±r?",
-    "ground_truth": "Durumluk KaygÄ±, SÃ¼rekli KaygÄ±, Depresyon, Duygusal Zeka Testi Olumlu Ä°fade alt boyutu ve AlgÄ±lanan Sosyal Destek Ã–lÃ§eÄŸi ArkadaÅŸ alt boyutu yalnÄ±zlÄ±k puanÄ±nÄ±n %66'sÄ±nÄ± yordamaktadÄ±r.",
-    "source_file": "SOS03.md",
-    "source_section": "## Bulgular"
-  },
-  {
-    "question": "Sosyo-demografik gruplarÄ±n yalnÄ±zlÄ±k dÃ¼zeyleri karÅŸÄ±laÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda hangi gruplar arasÄ±nda anlamlÄ± etkileÅŸim bulunmuÅŸtur?",
-    "ground_truth": "Cinsiyet ve eÄŸitim dÃ¼zeyi gruplarÄ± arasÄ±nda anlamlÄ± bir etkileÅŸim bulunmuÅŸtur. KadÄ±nlarda lise ve altÄ± eÄŸitim dÃ¼zeyinin yalnÄ±zlÄ±ÄŸÄ± daha yÃ¼ksekken, erkeklerde Ã¼niversite Ã¶ÄŸrencilerinin yalnÄ±zlÄ±k puanÄ± daha yÃ¼ksektir.",
+    "question": "Çoklu doğrusal regresyon analizi sonucuna göre UCLA Yalnızlık Ölçeği puanını hangi değişkenler yordamaktadır?",
+    "ground_truth": "Durumluk Kaygı, Sürekli Kaygı, Depresyon, Duygusal Zeka Testi Olumlu İfade alt boyutu ve Algılanan Sosyal Destek Ölçeği Arkadaş alt boyutu yalnızlık puanının %66'sını yordamaktadır.",
     "source_file": "SOS03.md",
     "source_section": "## Bulgular"
   },
   {
-    "question": "Beden imajÄ± nedir ve kiÅŸilikle iliÅŸkisi nasÄ±ldÄ±r?",
-    "ground_truth": "Beden imajÄ±, kiÅŸinin kendisine ve bedenine yÃ¶nelik geliÅŸtirdiÄŸi duygu, dÃ¼ÅŸÃ¼nce ve algÄ±larÄ±n sonucudur. KendiliÄŸin gÃ¶zle gÃ¶rÃ¼len bÃ¶lÃ¼mÃ¼ beden imgesi ile Ã¶zdeÅŸleÅŸtirilir ve kiÅŸiliÄŸin temel unsurlarÄ±ndan biridir.",
-    "source_file": "SOS04.md",
-    "source_section": "## GÄ°RÄ°Å"
+    "question": "Sosyo-demografik grupların yalnızlık düzeyleri karşılaştırıldığında hangi gruplar arasında anlamlı etkileşim bulunmuştur?",
+    "ground_truth": "Cinsiyet ve eğitim düzeyi grupları arasında anlamlı bir etkileşim bulunmuştur. Kadınlarda lise ve altı eğitim düzeyinin yalnızlığı daha yüksekken, erkeklerde üniversite öğrencilerinin yalnızlık puanı daha yüksektir.",
+    "source_file": "SOS03.md",
+    "source_section": "## Bulgular"
   },
   {
-    "question": "Sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± nasÄ±l tanÄ±mlanÄ±r?",
-    "ground_truth": "Bireyin dÄ±ÅŸ gÃ¶rÃ¼nÃ¼mÃ¼ ile ilgili kaygÄ±larÄ±nÄ± ve baÅŸkalarÄ±nÄ±n onun hakkÄ±ndaki deÄŸerlendirmesine yÃ¶nelik oluÅŸan kaygÄ±larÄ±n toplamÄ±dÄ±r.",
+    "question": "Beden imajı nedir ve kişilikle ilişkisi nasıldır?",
+    "ground_truth": "Beden imajı, kişinin kendisine ve bedenine yönelik geliştirdiği duygu, düşünce ve algıların sonucudur. Kendiliğin gözle görülen bölümü beden imgesi ile özdeşleştirilir ve kişiliğin temel unsurlarından biridir.",
     "source_file": "SOS04.md",
-    "source_section": "## GÄ°RÄ°Å"
+    "source_section": "## GİRİŞ"
   },
   {
-    "question": "Ergenlik dÃ¶neminde beden algÄ±sÄ±nÄ±n Ã¶nemi nedir?",
-    "ground_truth": "Ergenlik dÃ¶neminde kazanÄ±lacak iyi bir beden algÄ±sÄ±nÄ±n, ergenin saÄŸlam Ã¶zgÃ¼ven kazanabilmesinde etkisi bÃ¼yÃ¼ktÃ¼r. Olumsuz beden algÄ±sÄ± ise depresyon, kendilik algÄ±larÄ±nda dÃ¼ÅŸme ve deÄŸerlendirilme korkusuna sebep olur.",
+    "question": "Sosyal görünüş kaygısı nasıl tanımlanır?",
+    "ground_truth": "Bireyin dış görünümü ile ilgili kaygılarını ve başkalarının onun hakkındaki değerlendirmesine yönelik oluşan kaygıların toplamıdır.",
     "source_file": "SOS04.md",
-    "source_section": "## GÄ°RÄ°Å"
+    "source_section": "## GİRİŞ"
   },
   {
-    "question": "Pozitif psikoloji hangi kavramlar Ã¼zerine yoÄŸunlaÅŸÄ±r?",
-    "ground_truth": "Huzur, iyi olma hali, mutluluk, iyimserlik, umut, yaÅŸam doyumu, pozitif dÃ¼ÅŸÃ¼nebilme gibi pozitif insan davranÄ±ÅŸlarÄ± ve duygularÄ± Ã¼zerine yoÄŸunlaÅŸÄ±r.",
+    "question": "Ergenlik döneminde beden algısının önemi nedir?",
+    "ground_truth": "Ergenlik döneminde kazanılacak iyi bir beden algısının, ergenin sağlam özgüven kazanabilmesinde etkisi büyüktür. Olumsuz beden algısı ise depresyon, kendilik algılarında düşme ve değerlendirilme korkusuna sebep olur.",
     "source_file": "SOS04.md",
-    "source_section": "## GÄ°RÄ°Å"
+    "source_section": "## GİRİŞ"
   },
   {
-    "question": "Ã–znel iyi oluÅŸun Ã¼Ã§ temel bileÅŸeni nelerdir?",
-    "ground_truth": "Olumsuz duygulanÄ±m, olumlu duygulanÄ±m ve yaÅŸam memnuniyeti ile biliÅŸsel deÄŸerlendirmedir.",
+    "question": "Pozitif psikoloji hangi kavramlar üzerine yoğunlaşır?",
+    "ground_truth": "Huzur, iyi olma hali, mutluluk, iyimserlik, umut, yaşam doyumu, pozitif düşünebilme gibi pozitif insan davranışları ve duyguları üzerine yoğunlaşır.",
     "source_file": "SOS04.md",
-    "source_section": "## GÄ°RÄ°Å"
+    "source_section": "## GİRİŞ"
   },
   {
-    "question": "Sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ±nÄ± aÃ§Ä±klamada kullanÄ±lan BiliÅŸsel YaklaÅŸÄ±m kuramÄ± nedir?",
-    "ground_truth": "BiliÅŸsel yaklaÅŸÄ±ma gÃ¶re, sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± yaÅŸayan bireyler sosyal bir ortamda utandÄ±rÄ±lacaklarÄ±na veya istenmeyeceklerine dair iÅŸlevsiz dÃ¼ÅŸÃ¼ncelere sahiptirler ve sosyal ortamlarÄ± tehdit olarak gÃ¶rÃ¼rler.",
+    "question": "Öznel iyi oluşun üç temel bileşeni nelerdir?",
+    "ground_truth": "Olumsuz duygulanım, olumlu duygulanım ve yaşam memnuniyeti ile bilişsel değerlendirmedir.",
     "source_file": "SOS04.md",
-    "source_section": "## BiliÅŸsel YaklaÅŸÄ±m"
+    "source_section": "## GİRİŞ"
   },
   {
-    "question": "Sosyal Beceri YaklaÅŸÄ±mÄ± sosyal kaygÄ±yÄ± nasÄ±l aÃ§Ä±klar?",
-    "ground_truth": "Sosyal kaygÄ±nÄ±n sosyal beceri eksikliÄŸi (gÃ¶z temasÄ±, jest ve mimik kullanÄ±mÄ±, iletiÅŸim baÅŸlatma vb.) sonucunda yaÅŸandÄ±ÄŸÄ±nÄ±, bu becerileri kullanamamanÄ±n yetersizlik ve kaygÄ± yarattÄ±ÄŸÄ±nÄ± savunur.",
+    "question": "Sosyal görünüş kaygısını açıklamada kullanılan Bilişsel Yaklaşım kuramı nedir?",
+    "ground_truth": "Bilişsel yaklaşıma göre, sosyal görünüş kaygısı yaşayan bireyler sosyal bir ortamda utandırılacaklarına veya istenmeyeceklerine dair işlevsiz düşüncelere sahiptirler ve sosyal ortamları tehdit olarak görürler.",
     "source_file": "SOS04.md",
-    "source_section": "## Sosyal Beceri YaklaÅŸÄ±mÄ±"
+    "source_section": "## Bilişsel Yaklaşım"
   },
   {
-    "question": "Ã–znel iyi oluÅŸu aÃ§Ä±klayan Erek KuramÄ±'nÄ±n temel varsayÄ±mÄ± nedir?",
-    "ground_truth": "KiÅŸinin bir amaca ulaÅŸtÄ±ÄŸÄ±nda veya psikolojik ihtiyacÄ± doyurulduÄŸunda, aynÄ± zamanda gerginliÄŸi azaldÄ±ÄŸÄ±nda mutluluÄŸa ve Ã¶znel iyi oluÅŸa ulaÅŸabileceÄŸini savunur.",
+    "question": "Sosyal Beceri Yaklaşımı sosyal kaygıyı nasıl açıklar?",
+    "ground_truth": "Sosyal kaygının sosyal beceri eksikliği (göz teması, jest ve mimik kullanımı, iletişim başlatma vb.) sonucunda yaşandığını, bu becerileri kullanamamanın yetersizlik ve kaygı yarattığını savunur.",
     "source_file": "SOS04.md",
-    "source_section": "## Erek KuramÄ±"
+    "source_section": "## Sosyal Beceri Yaklaşımı"
   },
   {
-    "question": "Etkinlik KuramÄ± mutluluÄŸu nasÄ±l tanÄ±mlar?",
-    "ground_truth": "MutluluÄŸun amaca ulaÅŸmaktan ziyade, o yolda harcanan emek ve yapÄ±lan faaliyetlerin bir Ã¼rÃ¼nÃ¼ olduÄŸunu, bireylerin yetenekleri doÄŸrultusunda yaptÄ±klarÄ± etkinliklerin Ã¶znel iyi oluÅŸu saÄŸladÄ±ÄŸÄ±nÄ± savunur.",
+    "question": "Öznel iyi oluşu açıklayan Erek Kuramı'nın temel varsayımı nedir?",
+    "ground_truth": "Kişinin bir amaca ulaştığında veya psikolojik ihtiyacı doyurulduğunda, aynı zamanda gerginliği azaldığında mutluluğa ve öznel iyi oluşa ulaşabileceğini savunur.",
     "source_file": "SOS04.md",
-    "source_section": "## E tkinlik KuramÄ±"
+    "source_section": "## Erek Kuramı"
   },
   {
-    "question": "AraÅŸtÄ±rmanÄ±n sonuÃ§larÄ±na gÃ¶re sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± ile Ã¶znel iyi oluÅŸ arasÄ±nda nasÄ±l bir iliÅŸki bulunmuÅŸtur?",
-    "ground_truth": "Ã–ÄŸrencilerin sosyal gÃ¶rÃ¼nÃ¼ÅŸ kaygÄ±sÄ± ile Ã¶znel iyi oluÅŸlarÄ± arasÄ±nda orta dÃ¼zeyde negatif yÃ¶nde anlamlÄ± bir iliÅŸkinin olduÄŸu bulunmuÅŸtur.",
+    "question": "Etkinlik Kuramı mutluluğu nasıl tanımlar?",
+    "ground_truth": "Mutluluğun amaca ulaşmaktan ziyade, o yolda harcanan emek ve yapılan faaliyetlerin bir ürünü olduğunu, bireylerin yetenekleri doğrultusunda yaptıkları etkinliklerin öznel iyi oluşu sağladığını savunur.",
     "source_file": "SOS04.md",
-    "source_section": "## Ã– Z"
+    "source_section": "## E tkinlik Kuramı"
   },
   {
-    "question": "Meslek seÃ§imi bireyin hayatÄ±nda nasÄ±l bir role sahiptir?",
-    "ground_truth": "Meslek seÃ§imi, bireye sosyal bir kimlik saÄŸlayarak geÃ§imini sÃ¼rdÃ¼rmesine, Ã¼retken olmasÄ±na, toplumda saygÄ± gÃ¶rmesine ve geleceÄŸini planlamasÄ±na yardÄ±m eder; bireyin kiÅŸiliÄŸini ve yaÅŸam tarzÄ±nÄ± Ã¶nemli Ã¶lÃ§Ã¼de etkiler.",
+    "question": "Araştırmanın sonuçlarına göre sosyal görünüş kaygısı ile öznel iyi oluş arasında nasıl bir ilişki bulunmuştur?",
+    "ground_truth": "Öğrencilerin sosyal görünüş kaygısı ile öznel iyi oluşları arasında orta düzeyde negatif yönde anlamlı bir ilişkinin olduğu bulunmuştur.",
+    "source_file": "SOS04.md",
+    "source_section": "## Ö Z"
+  },
+  {
+    "question": "Meslek seçimi bireyin hayatında nasıl bir role sahiptir?",
+    "ground_truth": "Meslek seçimi, bireye sosyal bir kimlik sağlayarak geçimini sürdürmesine, üretken olmasına, toplumda saygı görmesine ve geleceğini planlamasına yardım eder; bireyin kişiliğini ve yaşam tarzını önemli ölçüde etkiler.",
     "source_file": "SOS05.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "Benlik nedir ve nasÄ±l bir yapÄ±ya sahiptir?",
-    "ground_truth": "Benlik, bireyin kendi Ã¶z varlÄ±ÄŸÄ±na yÃ¶nelik algÄ±ladÄ±ÄŸÄ± Ã¶ÄŸrenilmiÅŸ dÃ¼ÅŸÃ¼nce, duygu ve davranÄ±ÅŸlardan oluÅŸan dinamik bir sistemdir. GerÃ§ekÃ§i benlik ve olmak istediÄŸi ideal benlik olarak iki yapÄ±da ele alÄ±nÄ±r.",
+    "question": "Benlik nedir ve nasıl bir yapıya sahiptir?",
+    "ground_truth": "Benlik, bireyin kendi öz varlığına yönelik algıladığı öğrenilmiş düşünce, duygu ve davranışlardan oluşan dinamik bir sistemdir. Gerçekçi benlik ve olmak istediği ideal benlik olarak iki yapıda ele alınır.",
     "source_file": "SOS05.md",
-    "source_section": "## GiriÅŸ"
+    "source_section": "## Giriş"
   },
   {
-    "question": "Mesleki benlik saygÄ±sÄ± nasÄ±l tanÄ±mlanmaktadÄ±r?",
-    "ground_truth": "KiÅŸinin kendi alanÄ±ndaki yeteneÄŸine dayalÄ± kendi kabiliyetlerine, becerilerine duyduÄŸu gÃ¼ven duygusu ve yetkinlik anlayÄ±ÅŸÄ±dÄ±r.",
+    "question": "Mesleki benlik saygısı nasıl tanımlanmaktadır?",
+    "ground_truth": "Kişinin kendi alanındaki yeteneğine dayalı kendi kabiliyetlerine, becerilerine duyduğu güven duygusu ve yetkinlik anlayışıdır.",
     "source_file": "SOS05.md",
-    "source_section": "## Mesleki benlik saygÄ±sÄ±"
+    "source_section": "## Mesleki benlik saygısı"
   },
   {
-    "question": "Freud'un psikanalitik teorisinde tanÄ±mladÄ±ÄŸÄ± Ã¼Ã§ farklÄ± kaygÄ± tÃ¼rÃ¼ nelerdir?",
-    "ground_truth": "GerÃ§eklik kaygÄ±sÄ±, nevrotik kaygÄ± ve suÃ§luluk kaygÄ±sÄ±dÄ±r.",
+    "question": "Freud'un psikanalitik teorisinde tanımladığı üç farklı kaygı türü nelerdir?",
+    "ground_truth": "Gerçeklik kaygısı, nevrotik kaygı ve suçluluk kaygısıdır.",
     "source_file": "SOS05.md",
-    "source_section": "## KaygÄ±"
+    "source_section": "## Kaygı"
   },
   {
-    "question": "YaÅŸam doyumu kavramÄ± nedir ve hangi faktÃ¶rlerden etkilenir?",
-    "ground_truth": "KiÅŸinin Ã¶z iyilik halinin biliÅŸsel bir deÄŸerlendirmesi ve yaÅŸamÄ±yla alakalÄ± yargÄ±larÄ±dÄ±r. Bireyin saÄŸlÄ±klÄ± olmasÄ±, Ã§evresiyle iyi iliÅŸkiler kurmasÄ±, evli olmasÄ±, gÃ¼venli bir Ã§evrede yaÅŸamasÄ± gibi faktÃ¶rlerden etkilenir.",
+    "question": "Yaşam doyumu kavramı nedir ve hangi faktörlerden etkilenir?",
+    "ground_truth": "Kişinin öz iyilik halinin bilişsel bir değerlendirmesi ve yaşamıyla alakalı yargılarıdır. Bireyin sağlıklı olması, çevresiyle iyi ilişkiler kurması, evli olması, güvenli bir çevrede yaşaması gibi faktörlerden etkilenir.",
     "source_file": "SOS05.md",
-    "source_section": "## YaÅŸam doyumu"
+    "source_section": "## Yaşam doyumu"
   },
   {
-    "question": "AraÅŸtÄ±rmaya hangi fakÃ¼ltelerden Ã¶ÄŸrenciler katÄ±lmÄ±ÅŸtÄ±r?",
-    "ground_truth": "Ä°letiÅŸim, Ä°ktisadi ve Ä°dari Bilimler, EÄŸitim, Hukuk, MÃ¼hendislik ve Edebiyat fakÃ¼ltelerinden Ã¶ÄŸrenciler katÄ±lmÄ±ÅŸtÄ±r.",
+    "question": "Araştırmaya hangi fakültelerden öğrenciler katılmıştır?",
+    "ground_truth": "İletişim, İktisadi ve İdari Bilimler, Eğitim, Hukuk, Mühendislik ve Edebiyat fakültelerinden öğrenciler katılmıştır.",
     "source_file": "SOS05.md",
-    "source_section": "## YÃ¶ntem"
+    "source_section": "## Yöntem"
   },
   {
-    "question": "AraÅŸtÄ±rmada kadÄ±n ve erkek Ã¶ÄŸrenciler sÃ¼rekli kaygÄ± dÃ¼zeyleri aÃ§Ä±sÄ±ndan karÅŸÄ±laÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda nasÄ±l bir sonuÃ§ bulunmuÅŸtur?",
-    "ground_truth": "KadÄ±n Ã¶ÄŸrencilerin sÃ¼rekli kaygÄ± puanlarÄ±nÄ±n erkek Ã¶ÄŸrencilere gÃ¶re anlamlÄ± dÃ¼zeyde daha yÃ¼ksek olduÄŸu bulunmuÅŸtur.",
+    "question": "Araştırmada kadın ve erkek öğrenciler sürekli kaygı düzeyleri açısından karşılaştırıldığında nasıl bir sonuç bulunmuştur?",
+    "ground_truth": "Kadın öğrencilerin sürekli kaygı puanlarının erkek öğrencilere göre anlamlı düzeyde daha yüksek olduğu bulunmuştur.",
     "source_file": "SOS05.md",
     "source_section": "## Bulgular"
   },
   {
-    "question": "FakÃ¼lte deÄŸiÅŸkeni mesleki benlik saygÄ±sÄ± Ã¼zerinde nasÄ±l bir farklÄ±lÄ±k yaratmÄ±ÅŸtÄ±r?",
-    "ground_truth": "Hukuk fakÃ¼ltesinde okuyan Ã¶ÄŸrencilerin mesleki benlik saygÄ±sÄ±nÄ±n, diÄŸer fakÃ¼ltelerde okuyan Ã¶ÄŸrencilere gÃ¶re anlamlÄ± dÃ¼zeyde daha yÃ¼ksek olduÄŸu bulunmuÅŸtur.",
+    "question": "Fakülte değişkeni mesleki benlik saygısı üzerinde nasıl bir farklılık yaratmıştır?",
+    "ground_truth": "Hukuk fakültesinde okuyan öğrencilerin mesleki benlik saygısının, diğer fakültelerde okuyan öğrencilere göre anlamlı düzeyde daha yüksek olduğu bulunmuştur.",
     "source_file": "SOS05.md",
     "source_section": "## Bulgular"
   },
   {
-    "question": "Ã‡oklu regresyon analizi sonuÃ§larÄ±na gÃ¶re yaÅŸam doyumunu yordayan anlamlÄ± deÄŸiÅŸkenler hangileridir?",
-    "ground_truth": "SÃ¼rekli kaygÄ±, mesleki benlik saygÄ±sÄ± ve cinsiyet deÄŸiÅŸkenleri yaÅŸam doyumu Ã¼zerinde anlamlÄ± yordayÄ±cÄ±lar olarak bulunmuÅŸtur.",
+    "question": "Çoklu regresyon analizi sonuçlarına göre yaşam doyumunu yordayan anlamlı değişkenler hangileridir?",
+    "ground_truth": "Sürekli kaygı, mesleki benlik saygısı ve cinsiyet değişkenleri yaşam doyumu üzerinde anlamlı yordayıcılar olarak bulunmuştur.",
     "source_file": "SOS05.md",
     "source_section": "## Bulgular"
   },
   {
-    "question": "AraÅŸtÄ±rmada kullanÄ±lan Mesleki Benlik SaygÄ±sÄ± Ã–lÃ§eÄŸi (MBSÃ–) kim tarafÄ±ndan geliÅŸtirilmiÅŸtir?",
-    "ground_truth": "ArÄ±cak (2001) tarafÄ±ndan geliÅŸtirilmiÅŸtir.",
+    "question": "Araştırmada kullanılan Mesleki Benlik Saygısı Ölçeği (MBSÖ) kim tarafından geliştirilmiştir?",
+    "ground_truth": "Arıcak (2001) tarafından geliştirilmiştir.",
     "source_file": "SOS05.md",
-    "source_section": "## Veri toplama araÃ§larÄ±"
+    "source_section": "## Veri toplama araçları"
   },
   {
     "question": "Araştırmanın temel amacı nedir?",
