@@ -7,12 +7,11 @@ Turkish-RAG-Benchmark/
 │   │   ├── sosyal_bilimler
 │   │   └──fizik_matematik
 │   ├── processed/              # Metin dönüşüm aşamaları
-│   │   ├── stage1_extracted/   # Temizlenmemiş ham txt dosyaları
+│   │   ├── stage1_extracted/   # Temizlenmemiş ham md dosyaları
 │   │   └── stage2_cleaned/     # Regex ve temizlikten geçmiş md'ler
-│   └── benchmark/              # Test seti (Altın veri)
-│       └── ground_truth.json   # Soru-Cevap-Context üçlüleri
-├── notebooks/                  # 
+│   └── benchmark/              # Test seti (Soru-Cevap İkilileri)
+├── notebooks/                  # Notebooklar
 ├── results/                    # Çıktılar ve Analizler
-│   ├── figures/                # Makale için grafikler
+│   ├── figures/                # Grafikler
 │   └── tables/                 # Performans karşılaştırma tabloları (CSV)
-└── README.md                   # Proje açıklaması ve çalıştırma rehberi
+└── README.md                   # Proje açıklaması
