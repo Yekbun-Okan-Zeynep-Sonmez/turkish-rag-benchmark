@@ -64,9 +64,13 @@ turkish-rag-benchmark/
 │   └── benchmark/              # Sentetik Soru-Cevap test seti (JSON)
 ├── notebooks/                  # Deneysel Jupyter Notebook dosyaları
 │   ├── extract_text.ipynb      # Docling ile PDF-to-MD dönüşüm betiği
-│   └── rag-benchmarks.ipynb    # LlamaIndex ile RAG testleri ve analizleri
+│   └── benchmarks.ipynb        # LlamaIndex ile RAG testleri, Exact Match ve analizleri
 ├── results/                    # Değerlendirme Çıktıları
 │   ├── figures/                # Performans ve gelişim grafikleri (.png)
+│   │   ├── overall_performance.png
+│   │   ├── progression_by_groups.png
+│   │   ├── doc_vs_exact_hitrate.png
+│   │   └── top_k_curve.png
 │   └── tables/                 # Sistem bazlı metrik sonuçları (.csv)
 └── README.md                   # Proje ana tanıtım dökümanı (Bu dosya)
 ```
@@ -86,13 +90,13 @@ Değerlendirmeler **LlamaIndex** framework'ü üzerinde, GPU (CUDA) hızlandırm
 *   **RAG-3 (paraphrase-multilingual-mpnet-base-v2):** `sentence-transformers/paraphrase-multilingual-mpnet-base-v2` (Hafif ve hızlı anlamsal benzerlik modeli)
 
 #### **Grup 2: Bölümleme (Chunk) Stratejileri**
-*Sabit Koşul: En iyi performansı veren Grup 1 modeli kullanılır.*
+*Sabit Koşul: En iyi performansı veren Grup 1 modeli (`multilingual-e5-large`) kullanılır.*
 *   **RAG-4 (256/50):** Küçük parçalar halinde sabit boyutlu bölümleme (`SentenceSplitter`)
 *   **RAG-5 (1024/200):** Geniş bağlamlı sabit boyutlu bölümleme (`SentenceSplitter`)
 *   **RAG-6 (Header Based):** Markdown başlık yapılarını (`#`, `##`, `###`) temel alan anlamsal bölümleme (`MarkdownNodeParser`)
 
 #### **Grup 3: Geri Getirme (Retrieval) Stratejileri**
-*Sabit Koşul: En iyi performansı veren Grup 1 ve Grup 2 kombinasyonu temel alınır.*
+*Sabit Koşul: En iyi performansı veren Grup 1 ve Grup 2 kombinasyonu temel alınır. (Exact Match başarımı en yüksek olan RAG-5 / Chunk 1024 temel alınmıştır).*
 *   **RAG-7 (BM25 Only):** Geleneksel kelime eşleştirmeli arama (`BM25Retriever`)
 *   **RAG-8 (Hybrid: Vector + BM25):** Vektörel arama ile BM25'i birleştiren melez arama yapısı (`QueryFusionRetriever`)
 
@@ -100,30 +104,38 @@ Değerlendirmeler **LlamaIndex** framework'ü üzerinde, GPU (CUDA) hızlandırm
 
 ## 🏆 Deneysel Sonuçlar ve Performans Metrikleri
 
-Tüm modeller sorgu seviyesinde iki kritik metrik üzerinden test edilmiştir:
-1.  **Hit Rate @ 5:** İlgili dökümanın, getirilen ilk 5 parça arasında yer alma olasılığı.
-2.  **MRR @ 5 (Mean Reciprocal Rank):** İlgili dökümanın getirilme sırasının tersinin ortalaması.
+Modeller hem **Doküman Düzeyinde (Document-Level)** hem de **Tam Eşleşme/Parça Düzeyinde (Exact-Match Chunk-Level)** ikişer temel metrik üzerinden test edilmiştir:
+1. **Doküman Düzeyi (Doc_HitRate & Doc_MRR):** Sorgunun türetildiği doğru makalenin (dokümanın) geri getirilen parçalar arasında yer alıp almadığını ve kaçıncı sırada olduğunu ölçer.
+2. **Tam Eşleşme Düzeyi (Exact_HitRate & Exact_MRR):** Sorguya ait asıl cevap metninin (ground truth), geri getirilen parçanın (chunk) içinde yer alıp almadığını ölçer. Doğruluk ölçütü olarak, normalize edilmiş cevap metnindeki kelimelerin en az **%70'inin** ilgili parça içinde geçmesi (overlap ratio >= 0.70) şartı aranmıştır.
 
-### 📊 Performans Tablosu
+Tüm detaylı sonuçlar ve farklı K değerleri (K=1, 3, 5, 10) [rag_evaluation_results.csv](file:///c:/Users/yekbu/Desktop/turkish-rag-benchmark/results/tables/rag_evaluation_results.csv) dosyasında saklanmaktadır. Aşağıdaki tabloda RAG sistemleri için en kritik olan **K=5** sonuçları özetlenmiştir.
 
-| Grup | Konfigürasyon Kimliği (Sistem) | Yerleştirme Modeli / Strateji | MRR @ 5 | Hit Rate @ 5 |
-| :--- | :--- | :--- | :---: | :---: |
-| **Grup 1** | RAG-1 | BAAI/bge-m3 | 0.9155 | 0.9658 |
-| **Grup 1** | **RAG-2 (Grup 1 Kazananı)** | **intfloat/multilingual-e5-large** | **0.9236** | **0.9733** |
-| **Grup 1** | RAG-3 | paraphrase-multilingual-mpnet-base-v2 | 0.7319 | 0.8677 |
-| **Grup 2** | **RAG-4 (Genel Şampiyon)** | **Chunk: 256 / Overlap: 50** | **0.9343** | **0.9756** |
-| **Grup 2** | RAG-5 | Chunk: 1024 / Overlap: 200 | 0.9037 | 0.9639 |
-| **Grup 2** | RAG-6 | Header Based (Markdown Node) | 0.8294 | 0.9264 |
-| **Grup 3** | RAG-7 | BM25 Only | 0.9305 | 0.9719 |
-| **Grup 3** | RAG-8 | Hybrid (Vector + BM25) | 0.9300 | 0.9719 |
+### 📊 Performans Tablosu (K=5)
+
+| Grup | Konfigürasyon (Sistem) | Yerleştirme Modeli / Strateji | Doc_HitRate@5 | Doc_MRR@5 | Exact_HitRate@5 | Exact_MRR@5 |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: |
+| **Grup 1** | RAG-1 | BAAI/bge-m3 | 0.9658 | 0.9252 | 0.5310 | 0.4435 |
+| **Grup 1** | **RAG-2 (Grup 1 Kazananı)** | **intfloat/multilingual-e5-large** | **0.9733** | **0.9335** | **0.5446** | **0.4550** |
+| **Grup 1** | RAG-3 | paraphrase-multilingual-mpnet-base-v2 | 0.8677 | 0.7569 | 0.3016 | 0.2241 |
+| **Grup 2** | RAG-4 (Doc Kazananı) | Chunk: 256 / Overlap: 50 | 0.9756 | 0.9421 | 0.4184 | 0.3466 |
+| **Grup 2** | **RAG-5 (Grup 2 Kazananı)** | **Chunk: 1024 / Overlap: 200** | **0.9639** | **0.9154** | **0.6074** | **0.5155** |
+| **Grup 2** | RAG-6 | Header Based (Markdown Node) | 0.9264 | 0.8475 | 0.5821 | 0.4699 |
+| **Grup 3** | **RAG-7 (Genel Şampiyon)** | **BM25 Only** | **0.9780** | **0.9469** | **0.6276** | **0.5651** |
+| **Grup 3** | RAG-8 | Hybrid (Vector + BM25) | 0.9780 | 0.9467 | 0.6276 | 0.5651 |
 
 ### 📈 Grafiklerle Analiz
 
-#### Modellerin Genel Performansı (Overall Performance)
+#### Modellerin Genel Performansı (Overall Performance - Doc Level K=5)
 ![Modellerin Genel Performansı](results/figures/overall_performance.png)
 
 #### Gruplar Arası Başarım Gelişimi (Progression by Groups)
 ![Grup Bazlı Gelişim Grafikleri](results/figures/progression_by_groups.png)
+
+#### Doküman Bulma vs. Tam Cevap Bulma Başarısı (Doc vs. Exact Hit Rate)
+![Doküman Bulma vs Doğru Parçayı Bulma Başarısı](results/figures/doc_vs_exact_hitrate.png)
+
+#### K Değerine Göre Başarı Artışı (Top-K Curve - Exact Hit Rate)
+![K Değerine Göre Başarı Artışı](results/figures/top_k_curve.png)
 
 ---
 
@@ -132,17 +144,18 @@ Tüm modeller sorgu seviyesinde iki kritik metrik üzerinden test edilmiştir:
 Bu benchmark çalışmasından elde edilen somut çıkarımlar ve Türkçe RAG projeleri için tasarım önerileri şunlardır:
 
 1.  **Türkçe İçin En İyi Vektör Temsili:**
-    *   `multilingual-e5-large` modeli, Türkçe akademik terimler ve anlamsal ilişkilerde en yüksek doğruluğu sunmuştur (**MRR: 0.9236**).
+    *   `multilingual-e5-large` modeli, Türkçe akademik terimler ve anlamsal ilişkilerde en yüksek doğruluğu sunmuştur (**Doc_MRR: 0.9335**, **Exact_MRR: 0.4550**).
     *   `bge-m3` modeli de oldukça güçlü ve yakın bir performans göstermiştir. Ancak `paraphrase-multilingual` modeli Türkçe'nin karmaşık dil yapısında zayıf kalmış ve ciddi bir performans düşüşü yaşamıştır.
 
-2.  **Bölümleme (Chunk Size) Altın Oranı:**
-    *   **Küçük chunk boyutları (256/50)**, büyük chunk boyutlarına (1024/200) göre daha üstün performans sağlamıştır (**MRR: 0.9343** vs **0.9037**). Türkçe sondan eklemeli olduğu için daha dar ve odaklanmış anlamsal pencereler gürültüyü azaltmakta ve geri getirme doğruluğunu artırmaktadır.
-    *   Başlık tabanlı anlamsal bölümleme (`MarkdownNodeParser`), hiyerarşiyi korumasına rağmen küçük sabit pencereli yaklaşıma göre daha düşük sonuç vermiştir. Bunun temel nedeni akademik makalelerdeki başlık altı metinlerin çok uzun olması ve tek bir node içine sığdırılırken anlamsal yoğunluğun seyrelmesidir.
+2.  **Bölümleme (Chunk Size) ve Metrik Çelişkisi (Doküman vs. Parça Seviyesi):**
+    *   **Doküman Bulma Başarısı (Doc-level):** Küçük chunk boyutları (RAG-4: 256/50) daha iyi performans vermektedir (**Doc_MRR@5: 0.9421** vs RAG-5: 0.9154). Bu durum, küçük pencerelerin gürültüyü azaltıp doğru dokümanın eşleşmesini kolaylaştırmasıyla açıklanır.
+    *   **Tam Cevabı Yakalama Başarısı (Exact-match):** Tam tersine, büyük chunk boyutları (RAG-5: 1024/200) parça düzeyinde ezici bir üstünlük sağlamaktadır (**Exact_MRR@5: 0.5155** ve **Exact_HitRate@5: 0.6074** vs RAG-4'ün Exact_MRR@5: 0.3466, Exact_HitRate@5: 0.4184).
+    *   **Neden?** Küçük parçalar (256), aranılan cevabın sınırlarını bölebilir veya bağlamı eksik bırakabilir. Büyük parçalar (1024) ise sorunun cevabını oluşturan tüm cümlesel öbekleri bütüncül olarak içinde barındırma şansına sahiptir. Bu nedenle gerçek hayattaki RAG uygulamalarında, üretici LLM'e sadece doğru dokümanı değil, doğru *cevabı içeren* parçayı göndermek hedeflendiğinden büyük chunk boyutları veya başlık tabanlı anlamsal bölümlemeler (RAG-6: Exact_MRR@5 = 0.4699, Exact_HitRate@5 = 0.5821) daha avantajlı hale gelmektedir.
 
-3.  **Leksikal Arama (BM25) Algoritmasının Etkinliği:**
-    *   Türkçe teknik ve akademik metin arama süreçlerinde geleneksel leksikal arama yöntemi olan **BM25**, salt semantik (vektörel) arama modelleriyle rekabet edebilir düzeyde son derece yüksek bir performans sergilemiştir (**MRR: 0.9305**). Türkçe dil yapısının sondan eklemeli doğası ve akademik terminolojinin morfolojik özellikleri, anahtar kelime eşleştirme tabanlı leksikal algoritmaların bilgi geri getirme süreçlerinde ayırt edici ve etkin kalmasını sağlamaktadır.
-    *   Bu bulgu, Türkçe RAG sistem tasarımlarında leksikal ve semantik yaklaşımları entegre eden melez (Hybrid) geri getirme mimarilerinin tercih edilmesinin, sistemin kararlılığı ve erişim başarımı açısından en rasyonel yaklaşım olduğunu ortaya koymaktadır.
+3.  **Leksikal Arama (BM25) Algoritmasının Ezici Üstünlüğü:**
+    *   Türkçe teknik ve akademik metin arama süreçlerinde geleneksel leksikal arama yöntemi olan **BM25**, salt semantik (vektörel) arama modelleriyle rekabet edebilir düzeyde olmanın ötesinde, hem doküman düzeyinde (**Doc_MRR@5: 0.9469**) hem de parça düzeyinde (**Exact_MRR@5: 0.5651**, **Exact_HitRate@5: 0.6276**) **en yüksek performansı sergileyerek Genel Şampiyon olmuştur**.
+    *   Türkçe dil yapısının sondan eklemeli doğası ve akademik terminolojinin morfolojik özellikleri, anahtar kelime eşleştirme tabanlı leksikal algoritmaların bilgi geri getirme süreçlerinde son derece etkin kalmasını sağlamaktadır.
+    *   RAG-8 (Hybrid) ve RAG-7 (BM25 Only) arasında başarım farkının olmaması, bu veri setinde performansı sırtlayan ana unsurun BM25 olduğunu ve Türkçe akademik arama motorlarında leksikal tabanlı bir retriever'ın olmazsa olmaz olduğunu göstermektedir.
 
 4.  **GPU Optimizasyonu:**
-    *   Değerlendirme notebook'unda (`rag-benchmarks.ipynb`), sorguların GPU üzerinde **toplu olarak vektörleştirilmesini (Batch embedding)** sağlayan özel bir asenkron değerlendirici kurgulanmıştır. Bu yaklaşım, GPU bellek taşmalarını (OOM) önlemiş ve değerlendirme sürelerini
-    hızlandırmıştır.
+    *   Değerlendirme notebook'unda (`benchmarks.ipynb`), sorguların GPU üzerinde **toplu olarak vektörleştirilmesini (Batch embedding)** sağlayan özel bir asenkron değerlendirici kurgulanmıştır. Bu yaklaşım, GPU bellek taşmalarını (OOM) önlemiş ve değerlendirme sürelerini hızlandırmıştır.
