@@ -110,7 +110,7 @@ Modeller hem **Doküman Düzeyinde (Document-Level)** hem de **Tam Eşleşme/Par
 
 Tüm detaylı sonuçlar ve farklı K değerleri (K=1, 3, 5, 10) [rag_evaluation_results.csv](file:///c:/Users/yekbu/Desktop/turkish-rag-benchmark/results/tables/rag_evaluation_results.csv) dosyasında saklanmaktadır. Aşağıdaki tabloda RAG sistemleri için en kritik olan **K=5** sonuçları özetlenmiştir.
 
-### 📊 Performans Tablosu (K=5)
+### 📊 Performans Tablosu (K=5 Özet)
 
 | Grup | Konfigürasyon (Sistem) | Yerleştirme Modeli / Strateji | Doc_HitRate@5 | Doc_MRR@5 | Exact_HitRate@5 | Exact_MRR@5 |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -123,6 +123,74 @@ Tüm detaylı sonuçlar ve farklı K değerleri (K=1, 3, 5, 10) [rag_evaluation_
 | **Grup 3** | **RAG-7 (Genel Şampiyon)** | **BM25 Only** | **0.9780** | **0.9469** | **0.6276** | **0.5651** |
 | **Grup 3** | RAG-8 | Hybrid (Vector + BM25) | 0.9780 | 0.9467 | 0.6276 | 0.5651 |
 
+### 📊 Tüm Performans Sonuçları (K = 1, 3, 5, 10 Detaylı)
+
+Değerlendirme veri setindeki 2132 soru-cevap çifti üzerinde test edilen 8 RAG modelinin tüm metriklerdeki (HitRate, MRR, Precision, Recall, MAP, nDCG) ve tüm K değerlerindeki detaylı sonuçları aşağıda listelenmiştir. İlgili K değerinin üzerine tıklayarak sonuç tablosunu genişletebilirsiniz:
+
+<details>
+<summary><b>🔍 K = 1 Değerlendirme Sonuçları (Genişletmek için tıklayın)</b></summary>
+
+| Group | System | Doc_HitRate | Doc_MRR | Doc_Precision | Doc_Recall | Doc_MAP | Doc_nDCG | Exact_HitRate | Exact_MRR | Exact_Precision | Exact_Recall | Exact_MAP | Exact_nDCG |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Group 1 | RAG-1 (bge-m3) | 0.8959 | 0.8959 | 0.8959 | 0.8959 | 0.8959 | 0.8959 | 0.3865 | 0.3865 | 0.3865 | 0.3865 | 0.3865 | 0.3865 |
+| Group 1 | RAG-2 (multilingual-e5-large) | 0.9034 | 0.9034 | 0.9034 | 0.9034 | 0.9034 | 0.9034 | 0.3963 | 0.3963 | 0.3963 | 0.3963 | 0.3963 | 0.3963 |
+| Group 1 | RAG-3 (paraphrase-multilingual-mpnet-base-v2) | 0.6829 | 0.6829 | 0.6829 | 0.6829 | 0.6829 | 0.6829 | 0.1782 | 0.1782 | 0.1782 | 0.1782 | 0.1782 | 0.1782 |
+| Group 2 | RAG-4 (256/50) | 0.9184 | 0.9184 | 0.9184 | 0.9184 | 0.9184 | 0.9184 | 0.3011 | 0.3011 | 0.3011 | 0.3011 | 0.3011 | 0.3011 |
+| Group 2 | RAG-5 (1024/200) | 0.8804 | 0.8804 | 0.8804 | 0.8804 | 0.8804 | 0.8804 | 0.4545 | 0.4545 | 0.4545 | 0.4545 | 0.4545 | 0.4545 |
+| Group 2 | RAG-6 (Header Based) | 0.7936 | 0.7936 | 0.7936 | 0.7936 | 0.7936 | 0.7936 | 0.3996 | 0.3996 | 0.3996 | 0.3996 | 0.3996 | 0.3996 |
+| Group 3 | RAG-7 (BM25 Only) | 0.9250 | 0.9250 | 0.9250 | 0.9250 | 0.9250 | 0.9250 | 0.5235 | 0.5235 | 0.5235 | 0.5235 | 0.5235 | 0.5235 |
+| Group 3 | RAG-8 (Hybrid: Vector + BM25) | 0.9245 | 0.9245 | 0.9245 | 0.9245 | 0.9245 | 0.9245 | 0.5235 | 0.5235 | 0.5235 | 0.5235 | 0.5235 | 0.5235 |
+
+</details>
+
+<details>
+<summary><b>🔍 K = 3 Değerlendirme Sonuçları (Genişletmek için tıklayın)</b></summary>
+
+| Group | System | Doc_HitRate | Doc_MRR | Doc_Precision | Doc_Recall | Doc_MAP | Doc_nDCG | Exact_HitRate | Exact_MRR | Exact_Precision | Exact_Recall | Exact_MAP | Exact_nDCG |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Group 1 | RAG-1 (bge-m3) | 0.9526 | 0.9222 | 0.8155 | 0.9526 | 0.9222 | 0.9301 | 0.4939 | 0.4350 | 0.2115 | 0.4939 | 0.4350 | 0.4501 |
+| Group 1 | RAG-2 (multilingual-e5-large) | 0.9620 | 0.9308 | 0.8275 | 0.9620 | 0.9308 | 0.9389 | 0.5127 | 0.4478 | 0.2201 | 0.5127 | 0.4478 | 0.4645 |
+| Group 1 | RAG-3 (paraphrase-multilingual-mpnet-base-v2) | 0.8260 | 0.7473 | 0.5879 | 0.8260 | 0.7473 | 0.7676 | 0.2636 | 0.2154 | 0.1010 | 0.2636 | 0.2154 | 0.2278 |
+| Group 2 | RAG-4 (256/50) | 0.9658 | 0.9398 | 0.8429 | 0.9658 | 0.9398 | 0.9465 | 0.3879 | 0.3396 | 0.1546 | 0.3879 | 0.3396 | 0.3520 |
+| Group 2 | RAG-5 (1024/200) | 0.9479 | 0.9117 | 0.7736 | 0.9479 | 0.9117 | 0.9210 | 0.5750 | 0.5081 | 0.2478 | 0.5750 | 0.5081 | 0.5253 |
+| Group 2 | RAG-6 (Header Based) | 0.9010 | 0.8418 | 0.6785 | 0.9010 | 0.8418 | 0.8570 | 0.5328 | 0.4586 | 0.2133 | 0.5328 | 0.4586 | 0.4777 |
+| Group 3 | RAG-7 (BM25 Only) | 0.9662 | 0.9442 | 0.7905 | 0.9662 | 0.9442 | 0.9499 | 0.6051 | 0.5599 | 0.2767 | 0.6051 | 0.5599 | 0.5715 |
+| Group 3 | RAG-8 (Hybrid: Vector + BM25) | 0.9662 | 0.9440 | 0.7911 | 0.9662 | 0.9440 | 0.9498 | 0.6051 | 0.5599 | 0.2767 | 0.6051 | 0.5599 | 0.5715 |
+
+</details>
+
+<details>
+<summary><b>🔍 K = 5 Değerlendirme Sonuçları (Genişletmek için tıklayın)</b></summary>
+
+| Group | System | Doc_HitRate | Doc_MRR | Doc_Precision | Doc_Recall | Doc_MAP | Doc_nDCG | Exact_HitRate | Exact_MRR | Exact_Precision | Exact_Recall | Exact_MAP | Exact_nDCG |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Group 1 | RAG-1 (bge-m3) | 0.9658 | 0.9252 | 0.7631 | 0.9658 | 0.9252 | 0.9355 | 0.5310 | 0.4435 | 0.1501 | 0.5310 | 0.4435 | 0.4654 |
+| Group 1 | RAG-2 (multilingual-e5-large) | 0.9733 | 0.9335 | 0.7734 | 0.9733 | 0.9335 | 0.9436 | 0.5446 | 0.4550 | 0.1565 | 0.5446 | 0.4550 | 0.4775 |
+| Group 1 | RAG-3 (paraphrase-multilingual-mpnet-base-v2) | 0.8677 | 0.7569 | 0.5283 | 0.8677 | 0.7569 | 0.7848 | 0.3016 | 0.2241 | 0.0734 | 0.3016 | 0.2241 | 0.2434 |
+| Group 2 | RAG-4 (256/50) | 0.9756 | 0.9421 | 0.7934 | 0.9756 | 0.9421 | 0.9506 | 0.4184 | 0.3466 | 0.1077 | 0.4184 | 0.3466 | 0.3646 |
+| Group 2 | RAG-5 (1024/200) | 0.9639 | 0.9154 | 0.7078 | 0.9639 | 0.9154 | 0.9277 | 0.6074 | 0.5155 | 0.1756 | 0.6074 | 0.5155 | 0.5386 |
+| Group 2 | RAG-6 (Header Based) | 0.9264 | 0.8475 | 0.6036 | 0.9264 | 0.8475 | 0.8674 | 0.5821 | 0.4699 | 0.1509 | 0.5821 | 0.4699 | 0.4980 |
+| Group 3 | RAG-7 (BM25 Only) | 0.9780 | 0.9469 | 0.7075 | 0.9780 | 0.9469 | 0.9547 | 0.6276 | 0.5651 | 0.1902 | 0.6276 | 0.5651 | 0.5808 |
+| Group 3 | RAG-8 (Hybrid: Vector + BM25) | 0.9780 | 0.9467 | 0.7081 | 0.9780 | 0.9467 | 0.9546 | 0.6276 | 0.5651 | 0.1902 | 0.6276 | 0.5651 | 0.5808 |
+
+</details>
+
+<details>
+<summary><b>🔍 K = 10 Değerlendirme Sonuçları (Genişletmek için tıklayın)</b></summary>
+
+| Group | System | Doc_HitRate | Doc_MRR | Doc_Precision | Doc_Recall | Doc_MAP | Doc_nDCG | Exact_HitRate | Exact_MRR | Exact_Precision | Exact_Recall | Exact_MAP | Exact_nDCG |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Group 1 | RAG-1 (bge-m3) | 0.9803 | 0.9271 | 0.6767 | 0.9803 | 0.9271 | 0.9402 | 0.5605 | 0.4474 | 0.0898 | 0.5605 | 0.4474 | 0.4750 |
+| Group 1 | RAG-2 (multilingual-e5-large) | 0.9812 | 0.9345 | 0.6817 | 0.9812 | 0.9345 | 0.9461 | 0.5666 | 0.4581 | 0.0920 | 0.5666 | 0.4581 | 0.4848 |
+| Group 1 | RAG-3 (paraphrase-multilingual-mpnet-base-v2) | 0.9156 | 0.7634 | 0.4460 | 0.9156 | 0.7634 | 0.8004 | 0.3551 | 0.2312 | 0.0477 | 0.3551 | 0.2312 | 0.2607 |
+| Group 2 | RAG-4 (256/50) | 0.9841 | 0.9433 | 0.7168 | 0.9841 | 0.9433 | 0.9534 | 0.4395 | 0.3494 | 0.0624 | 0.4395 | 0.3494 | 0.3714 |
+| Group 2 | RAG-5 (1024/200) | 0.9761 | 0.9171 | 0.5758 | 0.9761 | 0.9171 | 0.9317 | 0.6341 | 0.5192 | 0.1060 | 0.6341 | 0.5192 | 0.5475 |
+| Group 2 | RAG-6 (Header Based) | 0.9578 | 0.8518 | 0.4568 | 0.9578 | 0.8518 | 0.8776 | 0.6243 | 0.4759 | 0.0894 | 0.6243 | 0.4759 | 0.5120 |
+| Group 3 | RAG-7 (BM25 Only) | 0.9831 | 0.9476 | 0.5573 | 0.9831 | 0.9476 | 0.9565 | 0.6473 | 0.5679 | 0.1105 | 0.6473 | 0.5679 | 0.5874 |
+| Group 3 | RAG-8 (Hybrid: Vector + BM25) | 0.9831 | 0.9475 | 0.5573 | 0.9831 | 0.9475 | 0.9564 | 0.6473 | 0.5679 | 0.1105 | 0.6473 | 0.5679 | 0.5874 |
+
+</details>
+
 ### 📈 Grafiklerle Analiz
 
 #### Modellerin Genel Performansı (Overall Performance - Doc Level K=5)
@@ -134,8 +202,8 @@ Tüm detaylı sonuçlar ve farklı K değerleri (K=1, 3, 5, 10) [rag_evaluation_
 #### Doküman Bulma vs. Tam Cevap Bulma Başarısı (Doc vs. Exact Hit Rate)
 ![Doküman Bulma vs Doğru Parçayı Bulma Başarısı](results/figures/doc_vs_exact_hitrate.png)
 
-#### K Değerine Göre Başarı Artışı (Top-K Curve - Exact Hit Rate)
-![K Değerine Göre Başarı Artışı](results/figures/top_k_curve.png)
+#### K Değerine Göre Başarı Artışı (Top-K Curves Comprehensive)
+![K Değerine Göre Başarı Artışı](results/figures/top_k_curves_comprehensive.png)
 
 ---
 
